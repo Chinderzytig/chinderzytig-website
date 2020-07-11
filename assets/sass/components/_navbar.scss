@@ -17,7 +17,8 @@
 	}
 
 	&__logo,
-	&__menu {
+	&__menu,
+	&__newsletter {
 		padding: 0 30rem;
 	}
 
@@ -71,5 +72,9 @@
 		&-link:active {
 			background-color: $chinder-verdigris;
 		}
+	}
+
+	&__newsletter {
+		background-color: $chinder-cultured;
 	}
 }

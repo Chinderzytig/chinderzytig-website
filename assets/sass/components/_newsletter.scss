@@ -1,0 +1,31 @@
+.newsletter {
+	display: flex;
+	justify-content: center;
+	padding: 1rem 0;
+
+	&__heading {
+		text-transform: uppercase;
+		margin-right: 1.5rem;
+		align-self: center;
+
+		&--nav {
+			font-size: $patrick-default;
+		}
+	}
+
+	&__field {
+		width: 30rem;
+		padding: .5rem;
+
+		&--nav {
+			border-radius: 3px;
+			border: 2px solid $social-base;
+			font-size: $patrick-default;
+
+			&:focus {
+				outline: none;
+				border: 2px solid $chinder-verdigris;
+			}
+		}
+	}
+}

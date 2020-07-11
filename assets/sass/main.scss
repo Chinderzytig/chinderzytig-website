@@ -4,11 +4,4 @@
 @import "base/typography";
 
 @import "components/navbar";
-
-.hello {
-	color: $chinder-orange;
-}
-
-.also-hello {
-	color: $chinder-celadon;
-}
+@import "components/newsletter";
