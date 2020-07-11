@@ -10,14 +10,18 @@
 		text-align: center;
 
 		&-link {
-			color: #fff;
+			color: $color-white;
 			font-weight: 300;
 			margin-left: .5rem;
 		}
 	}
 
-	&__logo {
+	&__logo,
+	&__menu {
 		padding: 0 30rem;
+	}
+
+	&__logo {
 		display: flex;
 		text-decoration: none;
 
@@ -40,7 +44,7 @@
 			}
 
 			&--sub {
-				color: #000;
+				color: $color-black;
 				letter-spacing: .1rem;
 				margin-top: -1rem;
 			}
@@ -48,18 +52,17 @@
 	}
 
 	&__menu {
-		padding: 0 30rem;
 		background-color: $chinder-orange;
 		display: flex;
 		justify-content: space-around;
-		font-size: 2rem;
+		font-size: 1.8rem;
 		text-transform: uppercase;
 		list-style: none;
 
 		&-link:link,
 		&-link:visited {
 			padding: .5rem;
-			color: #fff;
+			color: $color-white;
 			text-decoration: none;
 			transition: background-color 0.2s;
 		}
