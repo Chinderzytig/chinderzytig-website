@@ -1,5 +1,10 @@
 @import "abstracts/variables";
 
+@import "base/base";
+@import "base/typography";
+
+@import "components/navbar";
+
 .hello {
 	color: $chinder-orange;
 }

@@ -1,0 +1,72 @@
+.nav {
+	:not(:first-child) {
+		font-family: 'Patrick Hand', cursive;
+	}
+
+	&__notice {
+		font-weight: 700;
+		background-color: $chinder-verdigris;
+		padding: .5rem 30rem;
+		text-align: center;
+
+		&-link {
+			color: #fff;
+			font-weight: 300;
+			margin-left: .5rem;
+		}
+	}
+
+	&__logo {
+		padding: 0 30rem;
+		display: flex;
+		text-decoration: none;
+
+		&-image {
+			width: 20rem;
+		}
+
+		&-text {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			margin-left: -1rem;
+
+
+			&--main {
+				font-size: 4rem;
+				color: $chinder-orange;
+				text-transform: uppercase;
+				letter-spacing: 1rem;
+			}
+
+			&--sub {
+				color: #000;
+				letter-spacing: .1rem;
+				margin-top: -1rem;
+			}
+		}
+	}
+
+	&__menu {
+		padding: 0 30rem;
+		background-color: $chinder-orange;
+		display: flex;
+		justify-content: space-around;
+		font-size: 2rem;
+		text-transform: uppercase;
+		list-style: none;
+
+		&-link:link,
+		&-link:visited {
+			padding: .5rem;
+			color: #fff;
+			text-decoration: none;
+			transition: background-color 0.2s;
+		}
+
+		&-link:hover,
+		&-link:active {
+			background-color: $chinder-verdigris;
+		}
+	}
+}
