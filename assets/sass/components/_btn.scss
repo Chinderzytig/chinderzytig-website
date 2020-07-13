@@ -5,6 +5,7 @@
 		margin-left: 2rem;
 
 		&--nav {
+			font-family: inherit;
 			font-size: $patrick-default;
 			color: $social-base;
 			border: 2px solid $social-base;
@@ -12,7 +13,7 @@
 			background-color: $color-white;
 			padding: .5rem 1rem;
 			align-self: flex-start;
-			
+
 			&:hover,
 			&:active {
 				color: $color-white;

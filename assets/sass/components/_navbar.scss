@@ -1,10 +1,10 @@
 .nav {
-	:not(:first-child) {
-		font-family: 'Patrick Hand', cursive;
-	}
+	font-family: 'Patrick Hand', cursive;
+	font-size: $patrick-default;
 
 	&__notice {
 		font-weight: 700;
+		text-transform: uppercase;
 		background-color: $chinder-verdigris;
 		padding: .5rem 30rem;
 		text-align: center;
@@ -45,9 +45,10 @@
 			}
 
 			&--sub {
+				font-size: 1.6rem;
 				color: $color-black;
 				letter-spacing: .1rem;
-				margin-top: -1rem;
+				margin-top: -1.5rem;
 			}
 		}
 	}
@@ -56,7 +57,6 @@
 		background-color: $chinder-orange;
 		display: flex;
 		justify-content: space-around;
-		font-size: 1.8rem;
 		text-transform: uppercase;
 		list-style: none;
 
