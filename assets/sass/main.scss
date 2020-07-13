@@ -1,9 +1,8 @@
 @import "abstracts/variables";
 
-.hello {
-	color: $chinder-orange;
-}
+@import "base/base";
+@import "base/typography";
 
-.also-hello {
-	color: $chinder-celadon;
-}
+@import "components/navbar";
+@import "components/newsletter";
+@import "components/btn";

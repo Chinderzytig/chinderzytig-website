@@ -1,0 +1,50 @@
+.newsletter {
+	display: flex;
+	justify-content: center;
+	padding-top: 1.5rem;
+
+	&__heading {
+		text-transform: uppercase;
+		margin-right: 1.5rem;
+
+		&--nav {
+			color: $social-base;
+			font-size: $patrick-default;
+			margin-top: .5rem;
+		}
+	}
+
+	&__group {
+		width: 30rem;
+
+		&-field {
+			width: 100%;
+			font-family: inherit;
+
+			&--nav {
+				font-size: $patrick-default;
+				padding: .5rem 1rem;
+				border-radius: 3px;
+				border: 2px solid $social-base;
+
+				&:focus {
+					outline: none;
+					border: 2px solid $chinder-verdigris;
+				}
+			}
+		}
+
+		&-label {
+			font-size: 1.2rem;
+			margin-left: 1.2rem;
+			display: block;
+			transition: all .3s;
+		}
+
+		&-field:placeholder-shown + &-label {
+			opacity: 0;
+			visibility: hidden;
+			transform: translateY(-2rem);
+		}
+	}
+}
