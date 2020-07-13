@@ -1,0 +1,24 @@
+.btn {
+	text-transform: uppercase;
+
+	&__newsletter {
+		margin-left: 2rem;
+
+		&--nav {
+			font-size: $patrick-default;
+			color: $social-base;
+			border: 2px solid $social-base;
+			border-radius: 3px;
+			background-color: $color-white;
+			padding: .5rem 1rem;
+			align-self: flex-start;
+			
+			&:hover,
+			&:active {
+				color: $color-white;
+				background-color: $chinder-verdigris;
+				border: 2px solid $chinder-celadon;
+			}
+		}
+	}
+}
