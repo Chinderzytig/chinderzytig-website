@@ -16,12 +16,14 @@
 		<a href="#" class="nav__menu-link"><li class="nav__menu-item">Abonnemente</li></a>
 		<a href="#" class="nav__menu-link"><li class="nav__menu-item">Der Verein</li></a>
 	</ul>
-	<form name="newsletter" method="post" action="#" class="newsletter nav__newsletter">
-		<p class="newsletter__heading newsletter__heading--nav">Newsletter abonnieren</p>
-		<div class="newsletter__group">
-			<input type="email" name="email" placeholder="Email" class="newsletter__group-field newsletter__group-field--nav" required>
-			<label for="email" class="newsletter__group-label">Email</label>
+	<form method="post" action="#" class="newsletter nav__newsletter">
+		<div class="newsletter">
+			<p class="newsletter__heading newsletter__heading--nav">Newsletter abonnieren</p>
+			<div class="newsletter__group">
+				<input type="email" name="email" placeholder="Email" class="newsletter__group-field newsletter__group-field--nav" required>
+				<label for="email" class="newsletter__group-label">Email</label>
+			</div>
+			<input type="submit" value="Senden" class="btn btn__newsletter btn__newsletter--nav">
 		</div>
-		<input type="submit" value="Senden" class="btn btn__newsletter btn__newsletter--nav">
 	</form>
 </nav>
