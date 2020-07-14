@@ -16,20 +16,17 @@
 		}
 	}
 
-	&__logo,
+	&__logo-group,
 	&__menu,
-	&__newsletter {
-		padding: 0 30rem;
-	}
+	&__newsletter { padding: 0 30rem; }
 
 	&__logo {
 		display: flex;
 		align-items: flex-start;
 		text-decoration: none;
+		width: 50%;
 
-		&-image {
-			width: 20rem;
-		}
+		&-image { width: 20rem; }
 
 		&-text {
 			display: flex;
@@ -43,13 +40,13 @@
 				font-size: 4rem;
 				color: $chinder-orange;
 				text-transform: uppercase;
-				letter-spacing: 1rem;
+				letter-spacing: 1.2rem;
 			}
 
 			&--sub {
 				font-size: 1.6rem;
 				color: $color-black;
-				letter-spacing: .1rem;
+				letter-spacing: .3rem;
 				margin-top: -1.5rem;
 			}
 		}
@@ -71,12 +68,8 @@
 		}
 
 		&-link:hover,
-		&-link:active {
-			background-color: $chinder-verdigris;
-		}
+		&-link:active { background-color: $chinder-verdigris; }
 	}
 
-	&__newsletter {
-		background-color: $chinder-cultured;
-	}
+	&__newsletter { background-color: $chinder-cultured; }
 }
