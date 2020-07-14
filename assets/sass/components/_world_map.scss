@@ -1,0 +1,64 @@
+.map {
+	&__north-america {
+		fill: $chinder-orange;
+
+		&:hover,
+		&:active {
+			fill: $chinder-chestnut;
+		}
+	}
+
+	&__south-america {
+		fill: $map-maroon;
+
+		&:hover,
+		&:active {
+			fill: $map-tyrian;
+		}
+	}
+
+	&__europe {
+		fill: $map-blue;
+
+		&:hover,
+		&:active {
+			fill: $map-indigo-dye;
+		}
+	}
+
+	&__asia {
+		fill: $map-minion;
+
+		&:hover,
+		&:active {
+			fill: $map-old-gold;
+		}
+	}
+
+	&__australia {
+		fill: $chinder-verdigris;
+
+		&:hover,
+		&:active {
+			fill: $chinder-celadon;
+		}
+	}
+
+	&__africa {
+		fill: $map-citron;
+
+		&:hover,
+		&:active {
+			fill: $map-moss-green;
+		}
+	}
+
+	&__antarctica {
+		fill: $chinder-platinum;
+
+		&:hover,
+		&:active {
+			fill: $social-base;
+		}
+	}
+}
