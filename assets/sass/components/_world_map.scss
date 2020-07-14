@@ -1,31 +1,17 @@
 .map {
-	&__north-america {
-		fill: $chinder-orange;
-	}
+	&__north-america { fill: $chinder-orange; }
 
-	&__south-america {
-		fill: $map-maroon;
-	}
+	&__south-america { fill: $map-maroon; }
 
-	&__europe {
-		fill: $map-blue;
-	}
+	&__europe { fill: $map-blue; }
 
-	&__asia {
-		fill: $map-minion;
-	}
+	&__asia { fill: $map-minion; }
 
-	&__australia {
-		fill: $chinder-verdigris;
-	}
+	&__australia { fill: $chinder-verdigris; }
 
-	&__africa {
-		fill: $map-citron;
-	}
+	&__africa { fill: $map-citron; }
 
-	&__antarctica {
-		fill: $chinder-platinum;
-	}
+	&__antarctica { fill: $chinder-platinum; }
 
 	&__north-america:hover,
 	&__north-america:active,
