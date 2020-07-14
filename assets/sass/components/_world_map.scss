@@ -1,32 +1,64 @@
 .map {
-	&__north-america { fill: $chinder-orange; }
+	&__north-america {
+		fill: $chinder-orange;
 
-	&__south-america { fill: $map-maroon; }
+		&:hover,
+		&:active {
+			fill: $chinder-chestnut;
+		}
+	}
 
-	&__europe { fill: $map-blue; }
+	&__south-america {
+		fill: $map-maroon;
 
-	&__asia { fill: $map-minion; }
+		&:hover,
+		&:active {
+			fill: $map-tyrian;
+		}
+	}
 
-	&__australia { fill: $chinder-verdigris; }
+	&__europe {
+		fill: $map-blue;
 
-	&__africa { fill: $map-citron; }
+		&:hover,
+		&:active {
+			fill: $map-indigo-dye;
+		}
+	}
 
-	&__antarctica { fill: $chinder-platinum; }
+	&__asia {
+		fill: $map-minion;
 
-	&__north-america:hover,
-	&__north-america:active,
-	&__south-america:hover,
-	&__south-america:active,
-	&__europe:hover,
-	&__europe:active,
-	&__asia:hover,
-	&__asia:active,
-	&__africa:hover,
-	&__africa:active,
-	&__australia:hover,
-	&__australia:active,
-	&__antarctica:hover,
-	&__antarctica:active {
-		fill: $color-black;
+		&:hover,
+		&:active {
+			fill: $map-old-gold;
+		}
+	}
+
+	&__australia {
+		fill: $chinder-verdigris;
+
+		&:hover,
+		&:active {
+			fill: $chinder-celadon;
+		}
+	}
+
+	&__africa {
+		fill: $map-citron;
+
+		&:hover,
+		&:active {
+			fill: $map-moss-green;
+		}
+	}
+
+	&__antarctica {
+		fill: $chinder-platinum;
+
+		&:hover,
+		&:active {
+			fill: $social-base;
+		}
 	}
 }
