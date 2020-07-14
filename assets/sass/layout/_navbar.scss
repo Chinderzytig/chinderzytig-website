@@ -16,20 +16,17 @@
 		}
 	}
 
-	&__logo,
+	&__logo-group,
 	&__menu,
-	&__newsletter {
-		padding: 0 30rem;
-	}
+	&__newsletter { padding: 0 30rem; }
 
 	&__logo {
 		display: flex;
 		align-items: flex-start;
 		text-decoration: none;
+		width: 50%;
 
-		&-image {
-			width: 20rem;
-		}
+		&-image { width: 20rem; }
 
 		&-text {
 			display: flex;
@@ -71,12 +68,8 @@
 		}
 
 		&-link:hover,
-		&-link:active {
-			background-color: $chinder-verdigris;
-		}
+		&-link:active { background-color: $chinder-verdigris; }
 	}
 
-	&__newsletter {
-		background-color: $chinder-cultured;
-	}
+	&__newsletter { background-color: $chinder-cultured; }
 }
