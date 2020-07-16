@@ -1,20 +1,49 @@
+.test-container {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.test-container-landscape {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
 .card {
-	width: 30rem;
-	height: 35rem;
+
+	&--portrait {
+		width: 30rem;
+		height: 35rem;
+
+		.card__photo {
+			height: 17rem;
+			width: 30rem;
+		}
+
+		.card__content { height: 50%; }
+	}
+
+	&--landscape {
+		height: 14rem;
+		width: 48%;
+		margin-bottom: 2rem;
+
+		.card__photo {
+			height: 14rem;
+			width: 18rem;
+		}
+
+		.card__link { display: flex; }
+	}
 
 	&--grey { background-color: $chinder-cultured; }
 
 	&__link { text-decoration: none; }
 
-	&__photo {
-		height: 17rem;
-		width: 30rem;
-	}
-
 	&__content {
 		color: $color-black;
 		padding: 1.5rem;
-		height: 50%;
 		display: flex;
 		flex-direction: column;
 		justify-content: space-between;
