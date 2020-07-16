@@ -9,12 +9,22 @@ body {
 	line-height: 1.6;
 }
 
-.heading__secondary {
+.heading {
 	font-family: 'Patrick Hand', cursive;
 	font-size: $patrick-secondary;
 	text-transform: uppercase;
-	border-bottom: 4px solid $color-black;
-	line-height: normal;
+
+	&__secondary {
+		border-bottom: 4px solid $color-black;
+		line-height: normal;
+	}
+
+	&__tertiary {
+		color: $color-white;
+		background-color: $color-black;
+		padding: 0 1rem;
+		display: inline-block;
+	}
 }
 
 .card {
