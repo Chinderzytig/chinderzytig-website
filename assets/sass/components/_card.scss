@@ -1,15 +1,3 @@
-.test-container {
-	display: flex;
-	justify-content: space-between;
-	flex-wrap: wrap;
-}
-
-.test-container-landscape {
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-}
-
 .card {
 
 	&--portrait {
@@ -39,28 +27,15 @@
 
 	&--grey { background-color: $chinder-cultured; }
 
-	&__link { text-decoration: none; }
-
 	&__content {
-		color: $color-black;
 		padding: 1.5rem;
 		display: flex;
 		flex-direction: column;
 		justify-content: space-between;
-
-		&-title {
-			font-family: 'Patrick Hand', cursive;
-			font-size: 2.2rem;
-			font-weight: 700;
-		}
-
-		&-date { font-weight: 300; }
 	}
 
 	&:hover {
 		background-color: $color-black;
-
-		.card__content { color: $color-white; }
 
 		.card__photo { box-shadow: inset 0 0 0 1rem $color-black; }
 	}

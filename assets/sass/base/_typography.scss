@@ -16,3 +16,22 @@ body {
 	border-bottom: 4px solid $color-black;
 	line-height: normal;
 }
+
+.card {
+
+	&__link { text-decoration: none; }
+
+	&__content {
+		color: $color-black;
+
+		&-title {
+			font-family: 'Patrick Hand', cursive;
+			font-size: 2.2rem;
+			font-weight: 700;
+		}
+
+		&-date { font-weight: 300; }
+
+		&:hover { color: $color-white; }
+	}
+}
