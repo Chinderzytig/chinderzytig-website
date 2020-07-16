@@ -19,10 +19,16 @@ body {
 
 .card {
 
-	&__link { text-decoration: none; }
+	&__link:link,
+	&__link:visited {
+		text-decoration: none;
+		color: $color-black;
+	}
+
+	&__link:hover,
+	&__link:active { color: $color-white; }
 
 	&__content {
-		color: $color-black;
 
 		&-title {
 			font-family: 'Patrick Hand', cursive;
@@ -31,7 +37,5 @@ body {
 		}
 
 		&-date { font-weight: 300; }
-
-		&:hover { color: $color-white; }
 	}
 }
