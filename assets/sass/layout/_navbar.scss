@@ -3,11 +3,14 @@
 	font-size: $patrick-default;
 
 	&__notice {
-		font-weight: 700;
-		text-transform: uppercase;
 		background-color: $chinder-verdigris;
-		padding: .5rem 30rem;
+		padding: .5rem 0;
 		text-align: center;
+
+		&-content {
+			text-transform: uppercase;
+			font-weight: 700;
+		}
 
 		&-link {
 			color: $color-white;
@@ -50,16 +53,19 @@
 
 	&__menu {
 		background-color: $chinder-orange;
-		display: flex;
-		justify-content: space-around;
-		text-transform: uppercase;
-		list-style: none;
+
+		&-group {
+			display: flex;
+			justify-content: space-between;
+			text-transform: uppercase;
+			list-style: none;
+		}
 
 		&-link:link,
 		&-link:visited {
-			padding: .5rem;
-			color: $color-white;
 			text-decoration: none;
+			color: $color-white;
+			padding: .5rem 1rem;
 			transition: background-color 0.2s;
 		}
 

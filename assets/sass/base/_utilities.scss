@@ -7,10 +7,9 @@
 .u-margin-bottom-m { margin-bottom: 6rem; }
 .u-margin-bottom-l { margin-bottom: 9rem; }
 
-.u-margin-main {
-	margin-left: 30rem;
-	margin-right: 30rem;
+.container-main {
+	max-width: 1140px;
+	margin: auto;
 }
-.u-padding-main { padding: 0 30rem; }
 
 .u-align-center { text-align: center; }
