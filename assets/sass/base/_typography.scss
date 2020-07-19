@@ -48,3 +48,30 @@ body {
 		&-date { font-weight: 300; }
 	}
 }
+
+.btn,
+input[type=submit] {
+	font-family: 'Patrick Hand', cursive;
+	text-transform: uppercase;
+
+	&:link,
+	&:visited {
+		font-size: 2.2rem;
+		color: $color-black;
+		text-decoration: none;
+	}
+
+	&--verdigris,
+	&--orange {
+		&:hover,
+		&:active { color: $color-white; }
+	}
+
+	&-submit {
+
+		&--nav {
+			font-size: $patrick-default;
+			color: $social-base;
+		}
+	}
+}

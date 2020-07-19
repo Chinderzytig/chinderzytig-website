@@ -1,15 +1,10 @@
 .btn,
 input[type=submit] {
-	font-family: 'Patrick Hand', cursive;
-	text-transform: uppercase;
+	background-color: $color-white;
 
 	&:link,
 	&:visited,
 	 {
-		font-size: 2.2rem;
-		color: $color-black;
-		text-decoration: none;
-		background-color: $color-white;
 		border: 3px solid $color-black;
 		padding: 1rem;
 	}
@@ -17,7 +12,6 @@ input[type=submit] {
 	&--verdigris {
 		&:hover,
 		&:active {
-			color: $color-white;
 			background-color: $chinder-verdigris;
 			border-color: $chinder-celadon;
 		}
@@ -26,7 +20,6 @@ input[type=submit] {
 	&--orange {
 		&:hover,
 		&:active {
-			color: $color-white;
 			background-color: $chinder-orange;
 			border-color: $chinder-chestnut;
 		}
@@ -36,10 +29,7 @@ input[type=submit] {
 		margin-left: 2rem;
 
 		&--nav {
-			font-size: $patrick-default;
-			color: $social-base;
 			border: 2px solid $social-base;
-			background-color: $color-white;
 			padding: .5rem 1rem;
 			align-self: flex-start;
 		}
