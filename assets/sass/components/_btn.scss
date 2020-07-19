@@ -1,25 +1,47 @@
-.btn {
+.btn,
+input[type=submit] {
+	font-family: 'Patrick Hand', cursive;
 	text-transform: uppercase;
 
-	&__newsletter {
+	&:link,
+	&:visited,
+	 {
+		font-size: 2.2rem;
+		color: $color-black;
+		text-decoration: none;
+		background-color: $color-white;
+		border: 3px solid $color-black;
+		padding: 1rem;
+	}
+
+	&--verdigris {
+		&:hover,
+		&:active {
+			color: $color-white;
+			background-color: $chinder-verdigris;
+			border-color: $chinder-celadon;
+		}
+	}
+
+	&--orange {
+		&:hover,
+		&:active {
+			color: $color-white;
+			background-color: $chinder-orange;
+			border-color: $chinder-chestnut;
+		}
+	}
+
+	&-submit {
 		margin-left: 2rem;
 
 		&--nav {
-			font-family: inherit;
 			font-size: $patrick-default;
 			color: $social-base;
 			border: 2px solid $social-base;
-			border-radius: 3px;
 			background-color: $color-white;
 			padding: .5rem 1rem;
 			align-self: flex-start;
-
-			&:hover,
-			&:active {
-				color: $color-white;
-				background-color: $chinder-verdigris;
-				border: 2px solid $chinder-celadon;
-			}
 		}
 	}
 }
