@@ -1,25 +1,37 @@
-.btn {
-	text-transform: uppercase;
+.btn,
+input[type=submit] {
+	background-color: $color-white;
 
-	&__newsletter {
+	&:link,
+	&:visited,
+	 {
+		border: 3px solid $color-black;
+		padding: 1rem;
+	}
+
+	&--verdigris {
+		&:hover,
+		&:active {
+			background-color: $chinder-verdigris;
+			border-color: $chinder-celadon;
+		}
+	}
+
+	&--orange {
+		&:hover,
+		&:active {
+			background-color: $chinder-orange;
+			border-color: $chinder-chestnut;
+		}
+	}
+
+	&-submit {
 		margin-left: 2rem;
 
 		&--nav {
-			font-family: inherit;
-			font-size: $patrick-default;
-			color: $social-base;
 			border: 2px solid $social-base;
-			border-radius: 3px;
-			background-color: $color-white;
 			padding: .5rem 1rem;
 			align-self: flex-start;
-
-			&:hover,
-			&:active {
-				color: $color-white;
-				background-color: $chinder-verdigris;
-				border: 2px solid $chinder-celadon;
-			}
 		}
 	}
 }

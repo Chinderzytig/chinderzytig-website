@@ -14,8 +14,7 @@
 
 	&--landscape {
 		height: 14rem;
-		width: 48%;
-		margin-bottom: 2rem;
+		width: 50rem;
 
 		.card__photo {
 			height: 14rem;
@@ -23,9 +22,13 @@
 		}
 
 		.card__link { display: flex; }
+
+		&:nth-child(-n+2) { margin-bottom: 3rem; }
 	}
 
-	&--grey { background-color: $chinder-cultured; }
+	&--bg-grey { background-color: $chinder-cultured; }
+
+	&--bg-white { background-color: $color-white; }
 
 	&__content {
 		padding: 1.5rem;
@@ -34,10 +37,30 @@
 		justify-content: space-between;
 	}
 
-	&:hover {
-		background-color: $color-black;
+	&--h-black {
 
-		.card__photo { box-shadow: inset 0 0 0 1rem $color-black; }
+		&:hover {
+			background-color: $color-black;
+
+			.card__photo { box-shadow: inset 0 0 0 1rem $color-black; }
+		}
 	}
 
+	&--h-verdigris {
+
+		&:hover {
+			background-color: $chinder-verdigris;
+
+			.card__photo { box-shadow: inset 0 0 0 1rem $chinder-verdigris; }
+		}
+	}
+
+	&--h-orange {
+
+		&:hover {
+			background-color: $chinder-orange;
+
+			.card__photo { box-shadow: inset 0 0 0 1rem $chinder-orange; }
+		}
+	}
 }
