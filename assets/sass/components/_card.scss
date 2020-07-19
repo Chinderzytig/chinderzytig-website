@@ -14,8 +14,7 @@
 
 	&--landscape {
 		height: 14rem;
-		width: 48%;
-		margin-bottom: 2rem;
+		width: 50rem;
 
 		.card__photo {
 			height: 14rem;
@@ -23,6 +22,8 @@
 		}
 
 		.card__link { display: flex; }
+
+		&:nth-child(-n+2) { margin-bottom: 3rem; }
 	}
 
 	&--bg-grey { background-color: $chinder-cultured; }
