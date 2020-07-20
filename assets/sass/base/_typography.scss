@@ -63,7 +63,8 @@ input[type=submit] {
 	}
 
 	&--verdigris,
-	&--orange {
+	&--orange,
+	&--black {
 		&:hover,
 		&:active { color: $color-white; }
 	}

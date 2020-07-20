@@ -25,6 +25,11 @@ input[type=submit] {
 		}
 	}
 
+	&--black {
+		&:hover,
+		&:active { background-color: $color-black; }
+	}
+
 	&-submit {
 		margin-left: 2rem;
 
