@@ -1,3 +1,4 @@
+$patrick-small: 1.6rem;
 $patrick-default: 1.8rem;
 $patrick-secondary: 3.5rem;
 
@@ -62,7 +63,8 @@ input[type=submit] {
 	}
 
 	&--verdigris,
-	&--orange {
+	&--orange,
+	&--black {
 		&:hover,
 		&:active { color: $color-white; }
 	}
@@ -73,5 +75,82 @@ input[type=submit] {
 			font-size: $patrick-default;
 			color: $social-base;
 		}
+	}
+}
+
+// -----------------------------------------------
+// NAVBAR
+// -----------------------------------------------
+.nav {
+	font-family: 'Patrick Hand', cursive;
+	font-size: $patrick-default;
+
+	&__notice {
+
+		&-content {
+			text-transform: uppercase;
+			font-weight: 700;
+		}
+
+		&-link {
+			color: $color-white;
+			font-weight: 300;
+		}
+	}
+
+	&__logo {
+		text-decoration: none;
+
+		&-text {
+
+			&--main {
+				font-size: 4rem;
+				color: $chinder-orange;
+				text-transform: uppercase;
+				letter-spacing: 1.2rem;
+			}
+
+			&--sub {
+				font-size: $patrick-small;
+				color: $color-black;
+				letter-spacing: .3rem;
+				margin-top: -1.5rem;
+			}
+		}
+	}
+
+	&__menu {
+
+		&-link:link,
+		&-link:visited {
+			text-decoration: none;
+			color: $color-white;
+		}
+	}
+}
+
+// -----------------------------------------------
+// NEWSLETTER SIGNUP
+// -----------------------------------------------
+.newsletter {
+
+	&__heading {
+		text-transform: uppercase;
+
+		&--nav {
+			color: $social-base;
+			font-size: $patrick-default;
+		}
+	}
+
+	&__group {
+
+		&-field {
+			font-family: inherit;
+
+			&--nav { font-size: $patrick-default; }
+		}
+
+		&-label { font-size: 1.2rem; }
 	}
 }
