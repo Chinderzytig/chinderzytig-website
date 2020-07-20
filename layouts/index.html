@@ -1,14 +1,16 @@
 {{define "main"}}
-	<section class="map u-container-main u-margin-bottom-m">
+	<section class="u-container-main u-margin-bottom-m">
 		<h2 class="heading heading__secondary u-margin-top-xs">Unsere Welt</h2>
-		{{- partial "world_map.html" . -}}
+		<div class="map">
+			{{- partial "world_map.html" . -}}
+		</div>
 	</section>
 
-	<section class="cta cta--azure u-margin-bottom-m">
+	<section class="cta--azure u-margin-bottom-m">
 		<div class="u-container-main">
 			<h2 class="heading heading__tertiary u-margin-bottom-s">Coronavirus</h2>
-			<div class="cta__content u-margin-bottom-m">
-				<div class="card card--portrait card--bg-white card--h-verdigris">
+			<div class="special-cta u-margin-bottom-m">
+				<div class="card card--portrait card--bg-white card--h-black">
 					<a href="#" class="card__link">
 						<div style="background:url(https://res.cloudinary.com/da9xmtvrb/image/upload/c_scale,h_170,q_auto:good,w_300/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>
 						<div class="card__content">
@@ -17,7 +19,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="card card--portrait card--bg-white card--h-verdigris">
+				<div class="card card--portrait card--bg-white card--h-black">
 					<a href="#" class="card__link">
 						<div style="background:url(https://res.cloudinary.com/da9xmtvrb/image/upload/c_scale,h_170,q_auto:good,w_300/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>
 						<div class="card__content">
@@ -26,7 +28,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="card card--portrait card--bg-white card--h-verdigris">
+				<div class="card card--portrait card--bg-white card--h-black">
 					<a href="#" class="card__link">
 						<div style="background:url(https://res.cloudinary.com/da9xmtvrb/image/upload/c_scale,h_170,q_auto:good,w_300/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>
 						<div class="card__content">
@@ -37,14 +39,14 @@
 				</div>
 			</div>
 			<div class="u-align-center">
-				<a href="#" class="btn btn--verdigris">Mehr Artikel</a>
+				<a href="#" class="btn btn--black">Mehr Artikel</a>
 			</div>
 		</div>
 	</section>
 
-	<section class="u-container-main">
+	<section class="u-container-main u-margin-bottom-m">
 		<h2 class="heading heading__secondary u-margin-bottom-s">Neuste Artikel</h2>
-		<div class="cta__content cta__content--landscape u-margin-bottom-m">
+		<div class="new-cta u-margin-bottom-m">
 			<div class="card card--landscape card--bg-grey card--h-black">
 				<a href="#" class="card__link">
 					<div style="background:url(https://res.cloudinary.com/da9xmtvrb/image/upload/c_scale,h_140,q_auto:good,w_200/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>
@@ -86,5 +88,23 @@
 			<a href="#" class="btn btn--black">Alle Artikel</a>
 		</div>
 	</section>
+
+	<section class="cta--seashell u-margin-bottom-m">
+		<div class="fdw-cta u-container-main">
+			<div class="fdw">
+				{{- partial "fdw_icon.html" . -}}
+			</div>
+			<div class="card card--portrait card--bg-white card--h-black">
+				<a href="#" class="card__link">
+					<div style="background:url(https://res.cloudinary.com/da9xmtvrb/image/upload/c_scale,h_170,q_auto:good,w_300/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>
+					<div class="card__content">
+						<h3 class="card__content-title">Verfolgt oder einfach beschützt?</h3>
+						<div class="card__content-date">Jul 15</div>
+					</div>
+				</a>
+			</div>
+		</div>
+	</section>
+
 	<div class="u-margin-top-l"></div>
 {{end}}
