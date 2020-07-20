@@ -1,7 +1,9 @@
 {{define "main"}}
-	<section class="map u-container-main u-margin-bottom-m">
+	<section class="u-container-main u-margin-bottom-m">
 		<h2 class="heading heading__secondary u-margin-top-xs">Unsere Welt</h2>
-		{{- partial "world_map.html" . -}}
+		<div class="map">
+			{{- partial "world_map.html" . -}}
+		</div>
 	</section>
 
 	<section class="cta--azure u-margin-bottom-m">
