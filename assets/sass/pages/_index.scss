@@ -1,0 +1,19 @@
+.special-cta,
+.new-cta,
+.fdw-cta {
+	display: flex;
+	justify-content: space-between;
+}
+
+.special-cta,
+.new-cta {
+	justify-content: space-between;
+}
+
+.new-cta {
+	flex-wrap: wrap;
+}
+
+.fdw-cta {
+	justify-content: space-around;
+}
