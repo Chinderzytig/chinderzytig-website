@@ -1,28 +1,16 @@
 .nav {
-	font-family: 'Patrick Hand', cursive;
-	font-size: $patrick-default;
 
 	&__notice {
 		background-color: $chinder-verdigris;
 		padding: .5rem 0;
 		text-align: center;
 
-		&-content {
-			text-transform: uppercase;
-			font-weight: 700;
-		}
-
-		&-link {
-			color: $color-white;
-			font-weight: 300;
-			margin-left: .5rem;
-		}
+		&-link { margin-left: .5rem; }
 	}
 
 	&__logo {
 		display: flex;
 		align-items: flex-start;
-		text-decoration: none;
 		width: 50%;
 
 		&-image { width: 20rem; }
@@ -33,21 +21,6 @@
 			align-self: center;
 			justify-content: center;
 			margin-left: -1rem;
-
-
-			&--main {
-				font-size: 4rem;
-				color: $chinder-orange;
-				text-transform: uppercase;
-				letter-spacing: 1.2rem;
-			}
-
-			&--sub {
-				font-size: 1.6rem;
-				color: $color-black;
-				letter-spacing: .3rem;
-				margin-top: -1.5rem;
-			}
 		}
 	}
 
@@ -59,12 +32,11 @@
 			justify-content: space-between;
 			text-transform: uppercase;
 			list-style: none;
+			padding: 0;
 		}
 
 		&-link:link,
 		&-link:visited {
-			text-decoration: none;
-			color: $color-white;
 			padding: .5rem 1rem;
 			transition: background-color 0.2s;
 		}
