@@ -23,9 +23,7 @@
 			width: 40%;
 		}
 
-		&-abo {
-			background-color: $chinder-cultured;
-		}
+		&-abo { background-color: $chinder-cultured; }
 
 		&-donation {
 			background-color: $chinder-verdigris;
@@ -42,14 +40,9 @@
 		&-info {
 			width: 75%;
 			text-align: center;
-			font-weight: 700;
 		}
 
 		&-divider {
-			font-family: 'Patrick Hand', cursive;
-			font-size: 2.5rem;
-			text-transform: uppercase;
-			color: $color-white;
 			background-color: $chinder-orange;
 			border-radius: 10rem;
 			padding: 1rem;
