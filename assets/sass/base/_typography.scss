@@ -62,9 +62,8 @@ input[type=submit] {
 		text-decoration: none;
 	}
 
-	&--verdigris,
-	&--orange,
-	&--black {
+	&--primary,
+	&--secondary {
 		&:hover,
 		&:active { color: $color-white; }
 	}
@@ -152,5 +151,23 @@ input[type=submit] {
 		}
 
 		&-label { font-size: 1.2rem; }
+	}
+}
+
+// -----------------------------------------------
+// SUPPORT US
+// -----------------------------------------------
+.support {
+
+	&__options {
+
+		&-info { font-weight: 700; }
+
+		&-divider {
+			font-family: 'Patrick Hand', cursive;
+			font-size: 2.5rem;
+			text-transform: uppercase;
+			color: $color-white;
+		}
 	}
 }
