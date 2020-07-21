@@ -9,7 +9,7 @@ input[type=submit] {
 		padding: 1rem;
 	}
 
-	&--verdigris {
+	&--primary {
 		&:hover,
 		&:active {
 			background-color: $chinder-verdigris;
@@ -17,17 +17,12 @@ input[type=submit] {
 		}
 	}
 
-	&--orange {
+	&--secondary {
 		&:hover,
 		&:active {
 			background-color: $chinder-orange;
 			border-color: $chinder-chestnut;
 		}
-	}
-
-	&--black {
-		&:hover,
-		&:active { background-color: $color-black; }
 	}
 
 	&--donation {

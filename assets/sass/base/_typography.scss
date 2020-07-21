@@ -62,9 +62,8 @@ input[type=submit] {
 		text-decoration: none;
 	}
 
-	&--verdigris,
-	&--orange,
-	&--black {
+	&--primary,
+	&--secondary {
 		&:hover,
 		&:active { color: $color-white; }
 	}
