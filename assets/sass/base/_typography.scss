@@ -133,22 +133,26 @@ input[type=submit] {
 // -----------------------------------------------
 .newsletter {
 
-	&__heading {
-		text-transform: uppercase;
-
-		&--nav {
-			color: $social-base;
-			font-size: $patrick-default;
+	&--nav,
+	&--footer {
+		input[type=email],
+		input[type=email]::placeholder {
+			color: inherit;
+			font-family: inherit;
+			font-size: inherit;
 		}
 	}
 
+	&--nav {
+		color: $social-base;
+		font-size: $patrick-default;
+	}
+
+	&--footer { color: $chinder-platinum; }
+
+	&__heading { text-transform: uppercase; }
+
 	&__group {
-
-		&-field {
-			font-family: inherit;
-
-			&--nav { font-size: $patrick-default; }
-		}
 
 		&-label { font-size: 1.2rem; }
 	}

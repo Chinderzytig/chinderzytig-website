@@ -3,10 +3,17 @@
 	justify-content: center;
 	padding-top: 1.5rem;
 
+	&--nav {
+		input[type=email] { @include newsletter-field($color-white, $social-base); }
+	}
+
+	&--footer {
+		input[type=email] { @include newsletter-field($footer-light, $chinder-platinum);}
+	}
+
 	&__heading {
 		margin-right: 1.5rem;
-
-		&--nav { margin-top: .5rem; }
+		margin-top: .5rem;
 	}
 
 	&__group {
@@ -14,16 +21,7 @@
 
 		&-field {
 			width: 100%;
-
-			&--nav {
-				padding: .5rem 1rem;
-				border: 2px solid $social-base;
-
-				&:focus {
-					outline: none;
-					border: 2px solid $chinder-verdigris;
-				}
-			}
+			padding: .5rem 1rem;
 		}
 
 		&-label {
