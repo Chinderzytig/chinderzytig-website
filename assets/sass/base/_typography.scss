@@ -129,6 +129,29 @@ body {
 }
 
 // -----------------------------------------------
+// FOOTER
+// -----------------------------------------------
+.footer {
+
+	&__middle {
+
+		&-column {
+			color: $chinder-platinum;
+
+			&--heavy {
+				font-weight: 700;
+				text-transform: uppercase;
+			}
+		}
+
+		&-link {
+			text-decoration: none;
+			color: $chinder-platinum;
+		}
+	}
+}
+
+// -----------------------------------------------
 // NEWSLETTER SIGNUP
 // -----------------------------------------------
 .newsletter {
