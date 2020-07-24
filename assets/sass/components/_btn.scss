@@ -32,54 +32,5 @@
 			background-color: $chinder-verdigris;
 			border-color: $chinder-celadon;
 		}
-
-
 	}
-
-// input[type=submit] {
-// 	background-color: $color-white;
-//
-// 	&:link,
-// 	&:visited,
-// 	 {
-// 		border: 2px solid $color-black;
-// 		padding: 1rem;
-// 	}
-//
-// 	&--primary {
-// 		&:hover,
-// 		&:active {
-// 			background-color: $chinder-verdigris;
-// 			border-color: $chinder-celadon;
-// 		}
-// 	}
-//
-// 	&--secondary {
-// 		&:hover,
-// 		&:active {
-// 			background-color: $chinder-orange;
-// 			border-color: $chinder-chestnut;
-// 		}
-// 	}
-//
-// 	&--donation {
-// 		width: 40%;
-// 		text-align: center;
-//
-// 		&:nth-child(-n+2) {  margin-bottom: 1.5rem; }
-// 	}
-//
-// 	&-submit {
-// 		margin-left: 2rem;
-//
-// 		&--nav {
-// 			border: 2px solid $social-base;
-// 			padding: .5rem 1rem;
-// 			align-self: flex-start;
-// 		}
-//
-// 		&--footer {
-// 			background-color: $footer-light;
-// 		}
-// 	}
 }

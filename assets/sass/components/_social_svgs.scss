@@ -1,0 +1,8 @@
+.social-icon {
+	fill: $chinder-platinum;
+
+	&:active,
+		&:hover { fill: $chinder-verdigris; }
+
+	&:not(:last-child) { margin-right: 1rem; }
+}

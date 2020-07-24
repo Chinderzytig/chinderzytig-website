@@ -133,15 +133,12 @@ body {
 // -----------------------------------------------
 .footer {
 
-	&__middle {
+	&__column {
+		color: $chinder-platinum;
 
-		&-column {
-			color: $chinder-platinum;
-
-			&--heavy {
-				font-weight: 700;
-				text-transform: uppercase;
-			}
+		&--heavy {
+			font-weight: 700;
+			text-transform: uppercase;
 		}
 
 		&-link {
