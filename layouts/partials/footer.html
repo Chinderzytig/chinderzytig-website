@@ -1,0 +1,63 @@
+<footer class="footer">
+	<div class="footer__top u-container-main">
+		<form method="post" action="#">
+			<div class="newsletter newsletter--footer">
+				<p class="newsletter__heading newsletter__heading--footer">Newsletter abonnieren</p>
+				<div class="newsletter__group">
+					<input type="email" name="email" placeholder="Email" class="newsletter__group-field" required>
+					<label for="email" class="newsletter__group-label">Email</label>
+				</div>
+				<input type="submit" value="Senden" class="btn btn-submit btn-submit--footer">
+			</div>
+		</form>
+	</div>
+	<div class="footer__middle">
+		<div class="footer__middle-content u-container-main">
+			<ul class="footer__column footer__column--heavy">
+				<li class="footer__column-item"><a href="#" class="footer__column-link">Artikel</a></li>
+				<li class="footer__column-item"><a href="#" class="footer__column-link">Fokus der Woche</a></li>
+				<li class="footer__column-item"><a href="#" class="footer__column-link">Abonnemente</a></li>
+				<li class="footer__column-item"><a href="#" class="footer__column-link">Der Verein</a></li>
+				<li class="footer__column-item"><a href="#" class="footer__column-link">Kontakt</a></li>
+				<li class="footer__column-item"><a href="#" class="footer__column-link">Seitenverzeichnis</a></li>
+				<li class="footer__column-item"><a href="#" class="footer__column-link">Datenschutz</a></li>
+				<li class="footer__column-item"><a href="#" class="footer__column-link">Admin</a></li>
+			</ul>
+			<div class="footer__middle-right">
+				<ul class="footer__column">
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Nordamerika</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Südamerika</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Europa</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Afrika</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Asien</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Australien</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Antarktis</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Welt</a></li>
+				</ul>
+				<ul class="footer__column">
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Gesellschaft</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Gesundheit</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Medien</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Natur/Umwelt</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Politik</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Sport</a></li>
+					<li class="footer__column-item"><a href="#" class="footer__column-link">Weltraum & Universum</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="footer__bottom u-container-main">
+		<div class="footer__logo-group">
+			<div class="footer__chinderzytig">
+				<img src="https://res.cloudinary.com/da9xmtvrb/image/upload/c_scale,h_62,q_auto:good,w_100/v1594391535/logos/chinder_main_grey_hifabo.png" alt="Chinderzytig logo">
+				<span class="footer__chinderzytig-text">Chinderzytig</span>
+			</div>
+			<a href="https://www.schweizermedien.ch/medienkompetenz/angebote-netzwerkpartner" class="footer__medien">
+				<img src="https://res.cloudinary.com/da9xmtvrb/image/upload/c_scale,q_auto:good,w_200/v1595591559/logos/sm_grey_sx76sk.png" alt="Schweizer Medien logo">
+			</a>
+		</div>
+		<div class="footer__social-group">
+			{{- partial "social_svgs.html" . -}}
+		</div>
+	</div>
+</footer>

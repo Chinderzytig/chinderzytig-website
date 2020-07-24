@@ -50,29 +50,29 @@ body {
 	}
 }
 
-.btn,
-input[type=submit] {
+.btn {
 	font-family: 'Patrick Hand', cursive;
-	text-transform: uppercase;
+	font-size: 2.2rem;
 
 	&:link,
 	&:visited {
-		font-size: 2.2rem;
-		color: $color-black;
 		text-decoration: none;
+		text-transform: uppercase;
+		color: inherit;
 	}
 
-	&--primary,
-	&--secondary {
-		&:hover,
-		&:active { color: $color-white; }
-	}
+	&:hover,
+	&:active { color: $color-white; }
 
 	&-submit {
+		font-size: inherit;
+		text-transform: uppercase;
 
-		&--nav {
-			font-size: $patrick-default;
-			color: $social-base;
+		&--nav { color: $social-base; }
+
+		&--footer {
+			font-family: 'Lato', sans-serif;
+			color: $chinder-platinum;
 		}
 	}
 }
@@ -129,26 +129,50 @@ input[type=submit] {
 }
 
 // -----------------------------------------------
+// FOOTER
+// -----------------------------------------------
+.footer {
+
+	&__column {
+		color: $chinder-platinum;
+
+		&--heavy {
+			font-weight: 700;
+			text-transform: uppercase;
+		}
+
+		&-link {
+			text-decoration: none;
+			color: $chinder-platinum;
+		}
+	}
+}
+
+// -----------------------------------------------
 // NEWSLETTER SIGNUP
 // -----------------------------------------------
 .newsletter {
 
-	&__heading {
-		text-transform: uppercase;
-
-		&--nav {
-			color: $social-base;
-			font-size: $patrick-default;
+	&--nav,
+	&--footer {
+		input[type=email],
+		input[type=email]::placeholder {
+			color: inherit;
+			font-family: inherit;
+			font-size: inherit;
 		}
 	}
 
+	&--nav {
+		color: $social-base;
+		font-size: $patrick-default;
+	}
+
+	&--footer { color: $chinder-platinum; }
+
+	&__heading { text-transform: uppercase; }
+
 	&__group {
-
-		&-field {
-			font-family: inherit;
-
-			&--nav { font-size: $patrick-default; }
-		}
 
 		&-label { font-size: 1.2rem; }
 	}

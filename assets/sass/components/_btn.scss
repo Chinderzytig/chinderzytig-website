@@ -1,31 +1,11 @@
-.btn,
-input[type=submit] {
-	background-color: $color-white;
+.btn {
 
-	&:link,
-	&:visited,
-	 {
-		border: 3px solid $color-black;
-		padding: 1rem;
-	}
+	&--primary { @include btn-color($color-white, $color-black, $primary: true); }
 
-	&--primary {
-		&:hover,
-		&:active {
-			background-color: $chinder-verdigris;
-			border-color: $chinder-celadon;
-		}
-	}
-
-	&--secondary {
-		&:hover,
-		&:active {
-			background-color: $chinder-orange;
-			border-color: $chinder-chestnut;
-		}
-	}
+	&--secondary { @include btn-color($color-white, $color-black, $primary: false); }
 
 	&--donation {
+		@include btn-color($color-white, $color-black, $primary: false);
 		width: 40%;
 		text-align: center;
 
@@ -34,11 +14,23 @@ input[type=submit] {
 
 	&-submit {
 		margin-left: 2rem;
+		align-self: flex-start;
+		padding: .5rem 1rem;
 
 		&--nav {
 			border: 2px solid $social-base;
-			padding: .5rem 1rem;
-			align-self: flex-start;
+			background-color: $color-white;
+		}
+
+		&--footer {
+			border: 2px solid $chinder-platinum;
+			background-color: $footer-light;
+		}
+
+		&:hover,
+		&:active {
+			background-color: $chinder-verdigris;
+			border-color: $chinder-celadon;
 		}
 	}
 }
