@@ -1,0 +1,16 @@
+.fdw {
+
+	&__intro {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		&-text {
+			font-size: 1.8rem;
+			font-weight: 700;
+			text-align: justify;
+			width: 50%;
+			margin-left: 2rem;
+		}
+	}
+}
