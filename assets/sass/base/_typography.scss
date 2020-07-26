@@ -146,6 +146,17 @@ body {
 			color: $chinder-platinum;
 		}
 	}
+
+	&__chinderzytig {
+
+		&-text {
+			font-family: 'Patrick Hand', cursive;
+			font-size: 2.5rem;
+			color: $chinder-platinum;
+			text-transform: uppercase;
+			letter-spacing: .5rem;
+		}
+	}
 }
 
 // -----------------------------------------------
