@@ -1,0 +1,26 @@
+.fdw {
+
+	&__intro {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		&-text {
+			font-size: 1.8rem;
+			font-weight: 700;
+			text-align: justify;
+			width: 50%;
+			margin-left: 2rem;
+		}
+	}
+
+	&__highlight {
+		@include cta($cta-seashell);
+
+		&-content {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+	}
+}
