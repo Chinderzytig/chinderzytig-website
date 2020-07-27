@@ -1,4 +1,7 @@
-.map { @include container-main; }
+.map {
+	@include container-main;
+	margin-top: -5rem;
+}
 
 .special__cta { @include cta-color($cta-azure); }
 .fdw__cta { @include cta-color($cta-seashell); }
