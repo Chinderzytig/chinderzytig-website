@@ -1,5 +1,12 @@
 .card {
 
+	&__list { @include container-main; }
+
+	&__container {
+		display: flex;
+		justify-content: space-between;
+	}
+
 	&--portrait {
 		width: 30rem;
 		height: 35rem;

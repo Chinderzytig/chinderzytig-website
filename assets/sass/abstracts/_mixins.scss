@@ -1,7 +1,12 @@
-@mixin container-main{
+@mixin container-main {
 	max-width: 1140px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+@mixin cta-color($bg) {
+	background-color: $bg;
+	padding: 3rem 0;
 }
 
 @mixin newsletter-field($bg-color, $border-color) {
@@ -37,9 +42,4 @@
 			border-color: $chinder-chestnut;
 		}
 	}
-}
-
-@mixin cta($bg) {
-	background-color: $bg;
-	padding: 3rem 0;
 }

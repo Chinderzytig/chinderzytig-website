@@ -19,7 +19,7 @@
 	}
 
 	&__highlight {
-		@include cta($cta-seashell);
+		@include cta-color($cta-seashell);
 
 		&-container {
 			display: flex;
