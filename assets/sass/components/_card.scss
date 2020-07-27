@@ -26,6 +26,18 @@
 		&:nth-child(-n+2) { margin-bottom: 3rem; }
 	}
 
+	&--highlight {
+		width: 100rem;
+		height: 35rem;
+
+		.card__photo {
+			height: 35rem;
+			width: 50rem;
+		}
+
+		.card__link { display: flex; align-self: center;}
+	}
+
 	&--bg-grey { background-color: $chinder-cultured; }
 
 	&--bg-white { background-color: $color-white; }
