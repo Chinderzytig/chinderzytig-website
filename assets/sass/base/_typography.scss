@@ -110,7 +110,8 @@ body {
 	}
 
 	&__logo {
-		text-decoration: none;
+
+		&-group { text-decoration: none; }
 
 		&-text {
 

@@ -9,9 +9,13 @@
 	}
 
 	&__logo {
-		display: flex;
-		align-items: flex-start;
-		width: 50%;
+		@include container-main;
+
+		&-group {
+			display: flex;
+			align-items: flex-start;
+			width: 50%;
+		}
 
 		&-image { width: 20rem; }
 
@@ -24,10 +28,12 @@
 		}
 	}
 
+
 	&__menu {
 		background-color: $chinder-orange;
 
 		&-group {
+			@include container-main;
 			display: flex;
 			justify-content: space-between;
 			text-transform: uppercase;
