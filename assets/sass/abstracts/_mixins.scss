@@ -43,3 +43,20 @@
 		}
 	}
 }
+
+@mixin card-dimensions($h, $w, $portrait: true) {
+	height: $h;
+	width: $w;
+
+	@if $portrait {
+		.card__photo {
+			height: $h/2;
+			width: $w;
+		}
+	} @else {
+		.card__photo {
+			height: $h;
+			width: $w/2.5;
+		}
+	}
+}
