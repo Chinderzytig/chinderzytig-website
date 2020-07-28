@@ -1,13 +1,11 @@
 {{define "main"}}
-	<section class="map u-margin-bottom-m">
-		<div class="map__container">
+	<section class="map">
 			{{- partial "world_map.html" . -}}
-		</div>
 	</section>
 
-	<section class="special__cta cta--azure u-margin-bottom-m">
+	<section class="special__cta">
 		<div class="special__cta-container">
-			<h2 class="heading heading__tertiary u-margin-bottom-s">Coronavirus</h2>
+			<h2 class="heading heading__tertiary">Coronavirus</h2>
 			<div class="special__cta-content u-margin-bottom-m">
 				<div class="card card__portrait card--white">
 					<a href="#" class="card__link">
@@ -37,14 +35,14 @@
 					</a>
 				</div>
 			</div>
-			<div class="u-align-center">
+			<div class="btn__container">
 				<a href="#" class="btn btn--secondary">Mehr Artikel</a>
 			</div>
 		</div>
 	</section>
 
-	<section class="new__cta u-margin-bottom-m">
-		<h2 class="heading heading__secondary u-margin-bottom-s">Neuste Artikel</h2>
+	<section class="new__cta">
+		<h2 class="heading heading__secondary">Neuste Artikel</h2>
 		<div class="new__cta-content u-margin-bottom-m">
 			<div class="card card__landscape card--grey">
 				<a href="#" class="card__link">
@@ -83,16 +81,16 @@
 				</a>
 			</div>
 		</div>
-		<div class="u-align-center">
+		<div class="btn__container">
 			<a href="#" class="btn btn--primary">Alle Artikel</a>
 		</div>
 	</section>
 
-	<section class="fdw__cta u-margin-bottom-m">
+	<section class="fdw__cta">
 		<div class="fdw__cta-container">
-			<div class="fdw">
+			<a href="/fokus-der-woche" class="fdw">
 				{{- partial "fdw_icon.html" . -}}
-			</div>
+			</a>
 			<div class="card card__portrait card--white">
 				<a href="#" class="card__link">
 					<div style="background:url(https://res.cloudinary.com/da9xmtvrb/image/upload/c_scale,h_200,q_auto:good,w_300/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>

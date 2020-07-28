@@ -1,8 +1,6 @@
 .fdw {
 
-	&__intro {
-		@include container-main;
-	}
+	&__intro { @include container-main; }
 
 	&__intro {
 		display: flex;

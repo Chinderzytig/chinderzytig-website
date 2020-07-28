@@ -13,6 +13,7 @@ body {
 	font-family: 'Patrick Hand', cursive;
 	font-size: $patrick-secondary;
 	text-transform: uppercase;
+	margin-bottom: $margin-s;
 
 	&__secondary {
 		border-bottom: 4px solid $color-black;
