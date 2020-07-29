@@ -1,11 +1,15 @@
 .footer {
 	background-color: $footer-dark;
 
+	&__top,
+	&__middle-container,
+	&__bottom { @include container-main; }
+
 	&__middle {
 		background-color: $footer-light;
 		padding: 3rem 0;
 
-		&-content {
+		&-container {
 			display: flex;
 			justify-content: center;
 		}

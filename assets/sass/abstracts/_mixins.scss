@@ -1,3 +1,14 @@
+@mixin container-main {
+	max-width: 1140px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@mixin cta-color($bg) {
+	background-color: $bg;
+	padding: 3rem 0;
+}
+
 @mixin newsletter-field($bg-color, $border-color) {
 	background-color: $bg-color;
 	border: 2px solid $border-color;
@@ -33,7 +44,19 @@
 	}
 }
 
-@mixin cta($bg) {
-	background-color: $bg;
-	padding: 3rem 0;
+@mixin card-dimensions($h, $w, $portrait: true) {
+	height: $h;
+	width: $w;
+
+	@if $portrait {
+		.card__photo {
+			height: $h/2;
+			width: $w;
+		}
+	} @else {
+		.card__photo {
+			height: $h;
+			width: $w/2.5;
+		}
+	}
 }

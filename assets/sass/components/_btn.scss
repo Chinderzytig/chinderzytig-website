@@ -1,10 +1,15 @@
 .btn {
 
+	&__container {
+		text-align: center;
+		margin-top: $margin-m;
+	}
+
 	&--primary { @include btn-color($color-white, $color-black, $primary: true); }
 
 	&--secondary { @include btn-color($color-white, $color-black, $primary: false); }
 
-	&--donation {
+	&--donate {
 		@include btn-color($color-white, $color-black, $primary: false);
 		width: 40%;
 		text-align: center;

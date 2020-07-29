@@ -1,5 +1,7 @@
 .fdw {
 
+	&__intro { @include container-main; }
+
 	&__intro {
 		display: flex;
 		justify-content: center;
@@ -15,9 +17,9 @@
 	}
 
 	&__highlight {
-		@include cta($cta-seashell);
+		@include cta-color($cta-seashell);
 
-		&-content {
+		&-container {
 			display: flex;
 			flex-direction: column;
 			align-items: center;

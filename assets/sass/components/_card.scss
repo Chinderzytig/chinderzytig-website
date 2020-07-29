@@ -1,78 +1,51 @@
 .card {
+	&:hover {
+		background-color: $color-black;
 
-	&--portrait {
-		width: 30rem;
-		height: 35rem;
+		.card__photo { box-shadow: inset 0 0 0 1rem $color-black; }
+	}
 
-		.card__photo {
-			height: 17rem;
-			width: 30rem;
-		}
+	&__list { @include container-main; }
+
+	&__container {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+	}
+
+	&__portrait {
+		@include card-dimensions(40rem, 30rem, true);
+
+		&:not(:nth-child(-n+3)) { margin-top: 3rem;}
 
 		.card__content { height: 50%; }
 	}
 
-	&--landscape {
-		height: 14rem;
-		width: 55rem;
+	&__landscape {
+		@include card-dimensions(14rem, 54rem, false);
 
-		.card__photo {
-			height: 14rem;
-			width: 20rem;
-		}
-
-		.card__link { display: flex; }
+		.card__link { display: flex; align-self: auto;}
 
 		&:nth-child(-n+2) { margin-bottom: 3rem; }
 	}
 
-	&--highlight {
-		width: 100rem;
-		height: 35rem;
+	&__focus {
+		@include card-dimensions(27rem, 100rem, false);
 
-		.card__photo {
-			height: 35rem;
-			width: 50rem;
+		.card__link {
+			display: flex;
+			align-self: center;
 		}
-
-		.card__link { display: flex; align-self: center;}
 	}
 
-	&--bg-grey { background-color: $chinder-cultured; }
+	&--grey { background-color: $chinder-cultured; }
 
-	&--bg-white { background-color: $color-white; }
+	&--white { background-color: $color-white; }
 
 	&__content {
 		padding: 1.5rem;
 		display: flex;
 		flex-direction: column;
 		justify-content: space-between;
-	}
-
-	&--h-black {
-
-		&:hover {
-			background-color: $color-black;
-
-			.card__photo { box-shadow: inset 0 0 0 1rem $color-black; }
-		}
-	}
-
-	&--h-verdigris {
-
-		&:hover {
-			background-color: $chinder-verdigris;
-
-			.card__photo { box-shadow: inset 0 0 0 1rem $chinder-verdigris; }
-		}
-	}
-
-	&--h-orange {
-
-		&:hover {
-			background-color: $chinder-orange;
-
-			.card__photo { box-shadow: inset 0 0 0 1rem $chinder-orange; }
-		}
 	}
 }

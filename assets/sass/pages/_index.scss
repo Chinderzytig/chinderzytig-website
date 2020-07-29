@@ -1,19 +1,24 @@
-.special-cta,
-.new-cta,
-.fdw-cta {
+.map { margin-top: -5rem; }
+
+.special__cta {
+	@include cta-color($cta-azure);
+}
+.fdw__cta { @include cta-color($cta-seashell); }
+
+.map,
+.special__cta-container,
+.new__cta,
+.fdw__cta-container {
+	@include container-main;
+}
+
+.special__cta-content,
+.new__cta-content,
+.fdw__cta-container {
 	display: flex;
 	justify-content: space-between;
 }
 
-.special-cta,
-.new-cta {
-	justify-content: space-between;
-}
+.new__cta-content { flex-wrap: wrap; }
 
-.new-cta {
-	flex-wrap: wrap;
-}
-
-.fdw-cta {
-	justify-content: space-around;
-}
+.fdw__cta-container { justify-content: space-around; }

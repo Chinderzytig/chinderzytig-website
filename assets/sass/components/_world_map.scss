@@ -1,6 +1,6 @@
-.map {
+.map__svg {
 
-	&__north-america {
+	&--north-america {
 		fill: $chinder-orange;
 
 		&:hover,
@@ -9,7 +9,7 @@
 		}
 	}
 
-	&__south-america {
+	&--south-america {
 		fill: $map-maroon;
 
 		&:hover,
@@ -18,7 +18,7 @@
 		}
 	}
 
-	&__europe {
+	&--europe {
 		fill: $map-blue;
 
 		&:hover,
@@ -27,7 +27,7 @@
 		}
 	}
 
-	&__asia {
+	&--asia {
 		fill: $map-minion;
 
 		&:hover,
@@ -36,7 +36,7 @@
 		}
 	}
 
-	&__australia {
+	&--australia {
 		fill: $chinder-verdigris;
 
 		&:hover,
@@ -45,7 +45,7 @@
 		}
 	}
 
-	&__africa {
+	&--africa {
 		fill: $map-citron;
 
 		&:hover,
@@ -54,7 +54,7 @@
 		}
 	}
 
-	&__antarctica {
+	&--antarctica {
 		fill: $chinder-platinum;
 
 		&:hover,
