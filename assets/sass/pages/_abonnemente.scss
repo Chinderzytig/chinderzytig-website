@@ -1,0 +1,29 @@
+.abonnemente {
+	@include container-main;
+
+	&__intro {
+		text-align: justify;
+		margin-bottom: $margin-s;
+	}
+
+	&__container { display: flex; }
+
+	&__without { @include cta-color($cta-azure); }
+
+	&__with { @include cta-color($cta-seashell); }
+
+	&__without,
+	&__with {
+		width: 50%;
+		padding-left: 3rem;
+		padding-right: 3rem;
+	}
+
+	&__duration { margin-bottom: $margin-s; 	}
+
+	&__inclusion {
+		display: flex;
+
+		&-item { margin-left: 1rem;}
+	}
+}
