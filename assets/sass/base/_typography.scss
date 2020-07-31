@@ -243,3 +243,13 @@ body {
 		&-price { text-transform: uppercase; }
 	}
 }
+
+.abonnemente-print {
+
+	&__container {
+		font-weight: 100;
+		text-align: justify;
+	}
+
+	&__heading { color: $chinder-orange; }
+}

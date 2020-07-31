@@ -67,5 +67,13 @@
 
 		&-price { margin-bottom: 2.5rem; }
 	}
+}
 
+.abonnemente-print {
+	@include cta-color($chinder-cultured);
+	margin-bottom: 0;
+
+	&__container { @include container-main; }
+
+	&__group { :last-child { margin-bottom: $margin-s; } }
 }
