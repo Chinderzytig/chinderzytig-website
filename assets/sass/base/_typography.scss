@@ -5,6 +5,9 @@ body {
 	line-height: 1.6;
 }
 
+// -----------------------------------------------
+// COMPONENTS
+// -----------------------------------------------
 .heading {
 	font-family: $font-patrick, $font-fallback;
 	font-size: $font-heading;
@@ -87,8 +90,10 @@ body {
 }
 
 // -----------------------------------------------
-// NAVBAR
+// LAYOUTS
 // -----------------------------------------------
+
+/* ----- NAVBAR ------ */
 .nav {
 	font-family: $font-patrick, $font-fallback;
 	font-size: $font-default;
@@ -138,9 +143,7 @@ body {
 	}
 }
 
-// -----------------------------------------------
-// FOOTER
-// -----------------------------------------------
+/* ----- FOOTER ------ */
 .footer {
 
 	&__column {
@@ -170,8 +173,10 @@ body {
 }
 
 // -----------------------------------------------
-// NEWSLETTER SIGNUP
+// PARTIALS
 // -----------------------------------------------
+
+/* ----- NEWSLETTER ------ */
 .newsletter {
 
 	&--nav,
@@ -199,9 +204,7 @@ body {
 	}
 }
 
-// -----------------------------------------------
-// SUPPORT US
-// -----------------------------------------------
+/* ----- SUPPORT US ------ */
 .support {
 
 	&__options {
@@ -214,5 +217,29 @@ body {
 			text-transform: uppercase;
 			color: $color-white;
 		}
+	}
+}
+
+// -----------------------------------------------
+// PAGES
+// -----------------------------------------------
+
+/* ----- ABONNEMENTE ------ */
+.abonnemente {
+
+	&__card {
+
+		&-tag {
+			font-weight: 700;
+			color: $color-white;
+			text-transform: uppercase;
+		}
+
+		&-info {
+			font-weight: 100;
+			text-align: center;
+		}
+
+		&-price { text-transform: uppercase; }
 	}
 }
