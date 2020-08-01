@@ -1,0 +1,22 @@
+.verein {
+
+	&__story-cta {
+		@include container-main;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	&__story-quote {
+		font-family: $font-patrick;
+		font-size: 6rem;
+		margin-bottom: $margin-s;
+		word-spacing: 1rem;
+		letter-spacing: .5rem;
+	}
+
+	&__story-btn {
+		align-self: flex-end;
+		margin-right: 6rem;
+	}
+}
