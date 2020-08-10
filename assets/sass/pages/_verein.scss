@@ -7,13 +7,7 @@
 		align-items: center;
 	}
 
-	&__story-quote {
-		font-family: $font-patrick;
-		font-size: 6rem;
-		margin-bottom: $margin-s;
-		word-spacing: 1rem;
-		letter-spacing: .5rem;
-	}
+	&__story-quote { margin-bottom: $margin-s; }
 
 	&__story-btn {
 		align-self: flex-end;
