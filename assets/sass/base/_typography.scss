@@ -253,3 +253,34 @@ body {
 
 	&__heading { color: $chinder-orange; }
 }
+
+/* ----- DER VEREIN ------ */
+.verein {
+
+	&__story-quote {
+		font-family: $font-patrick;
+		font-size: 6rem;
+		word-spacing: 1rem;
+		letter-spacing: .5rem;
+	}
+}
+
+/* ----- UNSERE GESCHICHTE ------ */
+.geschichte {
+
+	p { text-align: justify; }
+
+	a {
+		text-decoration: none;
+		color: $chinder-verdigris;
+
+		a:link,
+		a:visited { color: $chinder-verdigris; }
+	}
+
+	h3 {
+		font-family: $font-patrick, $font-fallback;
+		font-size: $font-bigger;
+		color: $chinder-orange;
+	}
+}

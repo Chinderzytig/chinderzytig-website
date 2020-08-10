@@ -1,0 +1,13 @@
+.geschichte {
+	@include container-main;
+
+	&__logo-container {
+		display: flex;
+		justify-content: center;
+		margin-bottom: $margin-s;
+	}
+
+	p { margin-bottom: $margin-s; }
+
+	h3 { margin-bottom: 2rem; }
+}

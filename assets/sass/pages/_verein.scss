@@ -1,0 +1,16 @@
+.verein {
+
+	&__story-cta {
+		@include container-main;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	&__story-quote { margin-bottom: $margin-s; }
+
+	&__story-btn {
+		align-self: flex-end;
+		margin-right: 6rem;
+	}
+}
