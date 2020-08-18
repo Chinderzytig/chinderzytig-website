@@ -1,6 +1,7 @@
 .card {
 	height: 35rem;
 	width: 30rem;
+	margin-top: 3rem;
 
 	&__photo {
 		height: 17rem;
@@ -19,6 +20,8 @@
 
 	&--white { background-color: $color-white; }
 
+	&--highlight { margin-top: 0; }
+
 	&:hover {
 		background-color: $color-black;
 
@@ -26,4 +29,11 @@
 	}
 
 	&__list { @include container-main; }
+
+	&__container {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		margin-top: -3rem;
+	}
 }
