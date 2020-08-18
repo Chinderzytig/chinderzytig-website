@@ -8,11 +8,11 @@
 		align-items: center;
 
 		&-text {
-			font-size: 1.8rem;
-			font-weight: 700;
-			text-align: justify;
 			width: 50%;
 			margin-left: 2rem;
+			border-top: 2px solid $chinder-verdigris;
+			border-bottom: 2px solid $chinder-verdigris;
+			padding: 3rem 0;
 		}
 	}
 

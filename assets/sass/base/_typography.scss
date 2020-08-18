@@ -260,6 +260,18 @@ body {
 	&__heading { color: $chinder-orange; }
 }
 
+/* ----- FOKUS DER WOCHE ------ */
+.fdw {
+
+	&__intro {
+
+		&-text {
+			font-size: 2rem;
+			text-align: justify;
+		}
+	}
+}
+
 /* ----- DER VEREIN ------ */
 .verein {
 
