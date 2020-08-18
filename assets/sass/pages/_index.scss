@@ -1,24 +1,17 @@
-.map { margin-top: -5rem; }
-
-.special__cta {
-	@include cta-color($cta-azure);
-}
-.fdw__cta { @include cta-color($cta-seashell); }
-
-.map,
-.special__cta-container,
-.new__cta,
-.fdw__cta-container {
+.map {
 	@include container-main;
+	margin-top: -5rem;
 }
 
-.special__cta-content,
-.new__cta-content,
-.fdw__cta-container {
-	display: flex;
-	justify-content: space-between;
+.special__cta { @include cta-color($cta-azure); }
+
+.fdw__cta {
+	@include cta-color($cta-seashell);
+
+	&-container {
+		display: flex;
+		justify-content: space-around;
+		flex-wrap: wrap;
+		margin-top: -3rem;
+	}
 }
-
-.new__cta-content { flex-wrap: wrap; }
-
-.fdw__cta-container { justify-content: space-around; }

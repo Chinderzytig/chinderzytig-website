@@ -6,6 +6,8 @@
 		margin-bottom: $margin-s;
 	}
 
+	&__duration { margin-bottom: 3rem; }
+
 	&__container { display: flex; }
 
 	&__without { @include cta-color($cta-azure); }
@@ -23,7 +25,7 @@
 
 	&__heading { align-self: center; }
 
-	&__breakdown { margin: 3rem 0;}
+	&__breakdown { margin-bottom: 3rem; }
 
 	&__inclusion {
 		display: flex;
@@ -40,7 +42,7 @@
 
 	&__card {
 		width: 100%;
-		height: 25rem;
+		height: 28rem;
 		background-color: $chinder-cultured;
 		padding: 2rem;
 		display: flex;

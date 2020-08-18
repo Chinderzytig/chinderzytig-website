@@ -29,14 +29,14 @@ body {
 
 .card {
 
-	&__link:link,
-	&__link:visited {
+	&:link,
+	&:visited {
 		text-decoration: none;
 		color: $color-black;
 	}
 
-	&__link:hover,
-	&__link:active { color: $color-white; }
+	&:hover,
+	&:active { color: $color-white; }
 
 	&__content {
 
@@ -44,6 +44,7 @@ body {
 			font-family: $font-patrick, $font-fallback;
 			font-size: $font-big;
 			font-weight: 700;
+			text-align: justify;
 
 			&--highlight {
 				font-family: $font-patrick, $font-fallback;
@@ -227,6 +228,11 @@ body {
 /* ----- ABONNEMENTE ------ */
 .abonnemente {
 
+	&__duration {
+		text-align: center;
+		font-weight: 700;
+	}
+
 	&__card {
 
 		&-tag {
@@ -254,12 +260,24 @@ body {
 	&__heading { color: $chinder-orange; }
 }
 
+/* ----- FOKUS DER WOCHE ------ */
+.fdw {
+
+	&__intro {
+
+		&-text {
+			font-size: 2rem;
+			text-align: justify;
+		}
+	}
+}
+
 /* ----- DER VEREIN ------ */
 .verein {
 
 	&__story-quote {
-		font-family: $font-patrick;
-		font-size: 6rem;
+		font-family: $font-patrick, $font-fallback;
+		font-size: 5rem;
 		word-spacing: 1rem;
 		letter-spacing: .5rem;
 	}
