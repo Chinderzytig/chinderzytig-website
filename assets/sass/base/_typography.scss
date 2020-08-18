@@ -228,6 +228,11 @@ body {
 /* ----- ABONNEMENTE ------ */
 .abonnemente {
 
+	&__duration {
+		text-align: center;
+		font-weight: 700;
+	}
+
 	&__card {
 
 		&-tag {
