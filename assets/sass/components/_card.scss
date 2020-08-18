@@ -1,4 +1,24 @@
 .card {
+	height: 35rem;
+	width: 30rem;
+
+	&__photo {
+		height: 17rem;
+		background-size: cover;
+	}
+
+	&__content {
+		height: 18rem;
+		padding: 1.5rem;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+
+	&--grey { background-color: $chinder-cultured; }
+
+	&--white { background-color: $color-white; }
+
 	&:hover {
 		background-color: $color-black;
 
@@ -6,46 +26,4 @@
 	}
 
 	&__list { @include container-main; }
-
-	&__container {
-		display: flex;
-		justify-content: space-between;
-		flex-wrap: wrap;
-	}
-
-	&__portrait {
-		@include card-dimensions(40rem, 30rem, true);
-
-		&:not(:nth-child(-n+3)) { margin-top: 3rem;}
-
-		.card__content { height: 50%; }
-	}
-
-	&__landscape {
-		@include card-dimensions(14rem, 54rem, false);
-
-		.card__link { display: flex; align-self: auto;}
-
-		&:nth-child(-n+2) { margin-bottom: 3rem; }
-	}
-
-	&__focus {
-		@include card-dimensions(27rem, 100rem, false);
-
-		.card__link {
-			display: flex;
-			align-self: center;
-		}
-	}
-
-	&--grey { background-color: $chinder-cultured; }
-
-	&--white { background-color: $color-white; }
-
-	&__content {
-		padding: 1.5rem;
-		display: flex;
-		flex-direction: column;
-		justify-content: space-between;
-	}
 }
