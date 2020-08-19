@@ -14,7 +14,15 @@
 		margin-right: 6rem;
 	}
 
-	&__media {
-		@include cta-color($cta-azure);
+	&__media { @include cta-color($cta-azure); }
+
+	&__btns {
+		@include container-main;
+
+		&-group {
+			display: flex;
+			justify-content: space-around;
+			flex-wrap: wrap;
+		}
 	}
 }

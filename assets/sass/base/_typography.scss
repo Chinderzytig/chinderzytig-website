@@ -77,6 +77,8 @@ body {
 	&:hover,
 	&:active { color: $color-white; }
 
+	&--verein { font-size: $font-bigger; }
+
 	&-submit {
 		font-size: inherit;
 		text-transform: uppercase;
