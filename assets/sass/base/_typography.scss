@@ -283,6 +283,15 @@ body {
 		word-spacing: 1rem;
 		letter-spacing: .5rem;
 	}
+
+	&__thanks {
+
+		&-reason {
+			color: $color-white;
+			font-weight: 700;
+			text-align: center;
+		}
+	}
 }
 
 /* ----- UNSERE GESCHICHTE ------ */
