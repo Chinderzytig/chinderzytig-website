@@ -31,7 +31,7 @@
 		&:hover,
 		&:active { .arrow { fill: $color-white; } }
 
-		&:not(:last-child) { margin-bottom: 3rem; }
+		&:not(:last-child) { margin-bottom: 6rem; }
 	}
 
 	&-submit {

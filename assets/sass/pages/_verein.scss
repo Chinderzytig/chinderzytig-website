@@ -30,9 +30,7 @@
 		@include cta-color($chinder-cultured);
 		margin-bottom: 0;
 
-		&-container {
-			@include container-main;
-		}
+		&-container { @include container-main; }
 
 		&-link {
 			text-decoration: none;
