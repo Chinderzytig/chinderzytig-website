@@ -32,29 +32,13 @@
 
 		&-container { @include container-main; }
 
-		&-link {
-			text-decoration: none;
-			display: flex;
-			justify-content: center;
-
-			&:not(:first-child) { margin-top: $margin-s; }
-		}
-
 		&-logos {
 			display: flex;
-			justify-content: space-around;
 			flex-wrap: wrap;
+			justify-content: space-around;
+			align-items: center;
 		}
 
-		&-logo {
-			border: 2px solid $color-black;
-			padding: 2rem;
-		}
-
-		&-reason {
-			background-color: $color-black;
-			padding: 1rem;
-			width: 30%;
-		}
+		&-logo { padding: 2rem; }
 	}
 }
