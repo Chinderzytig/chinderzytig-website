@@ -1,0 +1,75 @@
+media:
+- url: "https://www.telebaern.tv/telebaern-news/projekt-chinderzytig-soll-schueler-die-erwachsenenwelt-simpel-erklaeren-136290126"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,q_auto:good,w_300/v1597815787/logos/telebarn4_dixhjg.png"
+  content:
+    - title: "Projekt „Chinderzytig“ soll Schüler die Erwachsenenwelt simpel erklären"
+      date: "27.1.2020"
+- url: "https://res.cloudinary.com/chinderzytig/image/upload/v1597816965/pdfs/berner_schule_npdljk.pdf"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,q_auto:good,w_300/v1597816619/logos/bildung_bern_swkpb6.jpg"
+  content:
+    - title: "Erwachsenenthemen sind für Kinder kein Tabu"
+      date: "19.12.2019"
+- url: "https://www.bielertagblatt.ch/nachrichten/fokus/auch-kinder-wollen-ueber-aktuelle-themen-lesen"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,q_auto:good,w_300/v1597817375/logos/bieler_tagblatt_rs42yz.jpg"
+  content:
+    - title: "«Auch Kinder wollen über aktuelle Themen lesen»"
+      date: "28.11.2019"
+
+btns:
+- url: "#"
+  label:
+    - text: Über Uns
+- url: "#"
+  label:
+    - text: Unser Beirat
+- url: "#"
+  label:
+    - text: Unsere Quellen
+- url: "#"
+  label:
+    - text: Kontaktiere Uns
+
+companies:
+- website: "https://www.migros.ch/de/genossenschaften.html"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good,w_284/v1597929687/logos/migros_swxvzo.png"
+      desc: Migros logo
+- website: "https://www.phbern.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/v1597929739/logos/phbern_black_e5tq45.png"
+      desc: PHBern logo
+- website: "https://stiftungschweiz.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/v1597929919/logos/stiftun_schweiz_x8sv4n.png"
+      desc: Stiftung Schweiz logo
+- website: "https://www.schweizermedien.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/v1597929721/logos/sm_colour_l7ueym.png"
+      desc: Schweizer Medien logo
+- website: "https://www.gurtenpark.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/v1598096535/logos/gurten_logo_uaeaxu.jpg"
+      desc: Gurten logo
+- website: "https://www.schuleschmitten.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/v1598096932/logos/schmitten_lgfnbu.png"
+      desc: Schule Schmitten logo
+- website: "https://www.feusi.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/v1598097144/logos/feusi_gl6n7r.png"
+      desc: Feusi logo
+- website: "https://www.moesli.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/v1598097581/logos/schule_mosli_uunsvq.png"
+      desc: Schule Mösli logo
+- website: "http://breitenrain-lorraine.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/v1598097777/logos/breitenrain_jgbpjf.png"
+      desc: Breitenrain-Lorraine logo
+- website: "https://heavyfeather.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/v1598098160/logos/heavyfeather_czmc34.png"
+      desc: Heavyfeather logo

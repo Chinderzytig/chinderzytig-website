@@ -12,27 +12,19 @@
 	<div class="card__list">
 		<h2 class="heading heading__tertiary">Chinderzytig in den Medien</h2>
 		<div class="card__container">
-			<a href="https://www.telebaern.tv/telebaern-news/projekt-chinderzytig-soll-schueler-die-erwachsenenwelt-simpel-erklaeren-136290126" target="_blank" class="card card--grey">
-				<div style="background:url(https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,q_auto:good,w_300/v1597815787/logos/telebarn4_dixhjg.png)" class="card__photo"></div>
-				<div class="card__content">
-					<h3 class="card__content-title">Projekt „Chinderzytig“ soll Schüler die Erwachsenenwelt simpel erklären</h3>
-					<div class="card__content-date">27.1.2020</div>
-				</div>
-			</a>
-			<a href="https://res.cloudinary.com/chinderzytig/image/upload/v1597816965/pdfs/berner_schule_npdljk.pdf" target="_blank" class="card card--grey">
-				<div style="background:url(https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,q_auto:good,w_300/v1597816619/logos/bildung_bern_swkpb6.jpg)" class="card__photo"></div>
-				<div class="card__content">
-					<h3 class="card__content-title">Erwachsenenthemen sind für Kinder kein Tabu</h3>
-					<div class="card__content-date">19.12.2019</div>
-				</div>
-			</a>
-			<a href="https://www.bielertagblatt.ch/nachrichten/fokus/auch-kinder-wollen-ueber-aktuelle-themen-lesen" target="_blank" class="card card--grey">
-				<div style="background:url(https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,q_auto:good,w_300/v1597817375/logos/bieler_tagblatt_rs42yz.jpg)" class="card__photo"></div>
-				<div class="card__content">
-					<h3 class="card__content-title">«Auch Kinder wollen über aktuelle Themen lesen»</h3>
-					<div class="card__content-date">28.11.2019</div>
-				</div>
-			</a>
+			{{ range .Site.Data.pages.verein.media }}
+				<a href="{{ .url }}" target="_blank" class="card card--grey">
+					{{ range .logo }}
+						<div style="background:url({{ .img }})" class="card__photo"></div>
+					{{ end }}
+					{{range .content }}
+						<div class="card__content">
+							<h3 class="card__content-title">{{ .title }}</h3>
+							<div class="card__content-date">{{ .date }}</div>
+						</div>
+					{{ end }}
+				</a>
+			{{ end }}
 		</div>
 	</div>
 </section>
@@ -40,30 +32,16 @@
 <section class="verein__btns">
 	<h2 class="heading heading__secondary">Mehr über Chinderzytig</h2>
 	<div class="verein__btns-group">
-		<a href="#" class="btn btn--verein">
-			Über Uns
-			<span class="btn--verein-arrow">
-				{{ partial "svgs/arrow_svg.html" (dict "fill" "#000" "width" 30 "height" 30) }}
-			</span>
-		</a>
-		<a href="#" class="btn btn--verein">
-			Unser Beirat
-			<span class="btn--verein-arrow">
-				{{ partial "svgs/arrow_svg.html" (dict "fill" "#000" "width" 30 "height" 30) }}
-			</span>
-		</a>
-		<a href="#" class="btn btn--verein">
-			Unsere Quellen
-			<span class="btn--verein-arrow">
-				{{ partial "svgs/arrow_svg.html" (dict "fill" "#000" "width" 30 "height" 30) }}
-			</span>
-		</a>
-		<a href="#" class="btn btn--verein">
-			Kontaktiere Uns
-			<span class="btn--verein-arrow">
-				{{ partial "svgs/arrow_svg.html" (dict "fill" "#000" "width" 30 "height" 30) }}
-			</span>
-		</a>
+		{{ range .Site.Data.pages.verein.btns }}
+			<a href="{{ .url }}" class="btn btn--verein">
+				{{ range .label }}
+					{{ .text }}
+				{{ end }}
+				<span class="btn--verein-arrow">
+					{{ partial "svgs/arrow_svg.html" (dict "fill" "#000" "width" 30 "height" 30) }}
+				</span>
+			</a>
+		{{ end }}
 	</div>
 </section>
 
@@ -71,36 +49,13 @@
 	<div class="verein__thanks-container">
 		<h2 class="heading heading__tertiary">Danke für Ihre Unterstützung</h2>
 		<div class="verein__thanks-logos">
-			<a href="https://www.migros.ch/de/genossenschaften.html" target="_blank" class="verein__thanks-link">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good,w_284/v1597929687/logos/migros_swxvzo.png" alt="Migros logo" class="verein__thanks-logo">
-			</a>
-			<a href="https://www.phbern.ch/" target="_blank" class="verein__thanks-link">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/v1597929739/logos/phbern_black_e5tq45.png" alt="Schweizer Medien logo" class="verein__thanks-logo">
-			</a>
-			<a href="https://stiftungschweiz.ch/" target="_blank" class="verein__thanks-link">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/v1597929919/logos/stiftun_schweiz_x8sv4n.png" alt="Stiftung Schweiz logo" class="verein__thanks-logo">
-			</a>
-			<a href="https://www.schweizermedien.ch/" target="_blank" class="verein__thanks-link">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/v1597929721/logos/sm_colour_l7ueym.png" alt="Schweizer Medien logo" class="verein__thanks-logo">
-			</a>
-			<a href="https://www.gurtenpark.ch/" target="_blank" class="verein__thanks-link">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/v1598096535/logos/gurten_logo_uaeaxu.jpg" alt="Gurten logo" class="verein__thanks-logo">
-			</a>
-			<a href="https://www.schuleschmitten.ch/" target="_blank" class="verein__thanks-link">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/v1598096932/logos/schmitten_lgfnbu.png" alt="Schmitten logo" class="verein__thanks-logo">
-			</a>
-			<a href="https://www.feusi.ch/" target="_blank" class="verein__thanks-link">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/v1598097144/logos/feusi_gl6n7r.png" alt="Feusi logo" class="verein__thanks-logo">
-			</a>
-			<a href="https://www.moesli.ch/" target="_blank" class="verein__thanks-link">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/v1598097581/logos/schule_mosli_uunsvq.png" alt="Schule Mösli logo" class="verein__thanks-logo">
-			</a>
-			<a href="http://breitenrain-lorraine.ch/" target="_blank" class="verein__thanks-link">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/v1598097777/logos/breitenrain_jgbpjf.png" alt="Breitenrain-Lorraine logo" class="verein__thanks-logo">
-			</a>
-			<a href="https://heavyfeather.ch/" target="_blank" class="verein__thanks-link">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/v1598098160/logos/heavyfeather_czmc34.png" alt="Heavyfeather logo" class="verein__thanks-logo">
-			</a>
+			{{ range .Site.Data.pages.verein.companies }}
+				<a href="{{ .website }}" target="_blank" class="verein__thanks-link">
+				{{ range .logo }}
+					<img src="{{ .img }}" alt="{{ .desc }}" class="verein__thanks-logo">
+				{{ end }}
+				</a>
+			{{ end }}
 		</div>
 	</div>
 </section>
