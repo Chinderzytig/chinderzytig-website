@@ -17,6 +17,23 @@
 		&:nth-child(-n+2) {  margin-bottom: 1.5rem; }
 	}
 
+	&--verein {
+		@include btn-color($color-white, $color-black, $primary: false);
+		width: 40%;
+		display: flex;
+		justify-content: space-between;
+
+		&-arrow {
+			display: flex;
+			align-self: center;
+		}
+
+		&:hover,
+		&:active { .arrow { fill: $color-white; } }
+
+		&:not(:nth-child(-n+2)) { margin-top: 6rem; }
+	}
+
 	&-submit {
 		margin-left: 2rem;
 		align-self: flex-start;

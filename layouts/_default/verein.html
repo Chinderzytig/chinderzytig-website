@@ -1,10 +1,62 @@
 {{define "main"}}
-<section class="verein__story-cta">
-	<div class="verein__story-quote">
+<section class="verein__history">
+	<div class="verein__history-quote">
 		Die Idee entsprang einem Kinderkopf!
 	</div>
-	<div class="verein__story-btn">
+	<div class="verein__history-btn">
 		<a href="/unsere-geschichte" class="btn btn--primary">Unsere Geschichte</a>
+	</div>
+</section>
+
+<section class="verein__media">
+	<div class="card__list">
+		<h2 class="heading heading__tertiary">Chinderzytig in den Medien</h2>
+		<div class="card__container">
+			{{ range .Site.Data.pages.verein.media }}
+				<a href="{{ .url }}" target="_blank" class="card card--grey">
+					{{ range .logo }}
+						<div style="background:url({{ .img }})" class="card__photo"></div>
+					{{ end }}
+					{{range .content }}
+						<div class="card__content">
+							<h3 class="card__content-title">{{ .title }}</h3>
+							<div class="card__content-date">{{ .date }}</div>
+						</div>
+					{{ end }}
+				</a>
+			{{ end }}
+		</div>
+	</div>
+</section>
+
+<section class="verein__btns">
+	<h2 class="heading heading__secondary">Mehr über Chinderzytig</h2>
+	<div class="verein__btns-group">
+		{{ range .Site.Data.pages.verein.btns }}
+			<a href="{{ .url }}" class="btn btn--verein">
+				{{ range .label }}
+					{{ .text }}
+				{{ end }}
+				<span class="btn--verein-arrow">
+					{{ partial "svgs/arrow_svg.html" (dict "fill" "#000" "width" 30 "height" 30) }}
+				</span>
+			</a>
+		{{ end }}
+	</div>
+</section>
+
+<section class="verein__thanks">
+	<div class="verein__thanks-container">
+		<h2 class="heading heading__tertiary">Danke für Ihre Unterstützung</h2>
+		<div class="verein__thanks-logos">
+			{{ range .Site.Data.pages.verein.companies }}
+				<a href="{{ .website }}" target="_blank" class="verein__thanks-link">
+				{{ range .logo }}
+					<img src="{{ .img }}" alt="{{ .desc }}" class="verein__thanks-logo">
+				{{ end }}
+				</a>
+			{{ end }}
+		</div>
 	</div>
 </section>
 {{end}}

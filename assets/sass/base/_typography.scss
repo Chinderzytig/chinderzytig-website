@@ -77,6 +77,8 @@ body {
 	&:hover,
 	&:active { color: $color-white; }
 
+	&--verein { font-size: $font-bigger; }
+
 	&-submit {
 		font-size: inherit;
 		text-transform: uppercase;
@@ -275,11 +277,12 @@ body {
 /* ----- DER VEREIN ------ */
 .verein {
 
-	&__story-quote {
+	&__history-quote {
 		font-family: $font-patrick, $font-fallback;
 		font-size: 5rem;
 		word-spacing: 1rem;
 		letter-spacing: .5rem;
+		text-decoration: $chinder-orange underline;
 	}
 }
 
