@@ -8,6 +8,7 @@ body {
 // -----------------------------------------------
 // COMPONENTS
 // -----------------------------------------------
+/* ----- HEADINGS ------ */
 .heading {
 	font-family: $font-patrick, $font-fallback;
 	font-size: $font-heading;
@@ -27,6 +28,7 @@ body {
 	}
 }
 
+/* ----- CARD ------ */
 .card {
 
 	&:link,
@@ -63,6 +65,7 @@ body {
 	}
 }
 
+/* ----- BUTTONS ------ */
 .btn {
 	font-family: $font-patrick, $font-fallback;
 	font-size: $font-big;
@@ -91,6 +94,24 @@ body {
 		}
 	}
 }
+
+/* ----- PROFILE ------ */
+.profile {
+
+	&__name,
+	&__title { font-family: $font-patrick, $font-fallback; }
+
+	&__name {
+		font-size: $font-big;
+		color: $chinder-orange;
+	}
+
+	&__title {
+		font-size: $font-default;
+		color: $chinder-verdigris;
+	}
+}
+
 
 // -----------------------------------------------
 // LAYOUTS
