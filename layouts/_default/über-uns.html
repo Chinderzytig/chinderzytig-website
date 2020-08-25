@@ -2,14 +2,18 @@
 	<section class="about__team">
 		<h2 class="heading heading__secondary">Über Uns</h2>
 		<div class="profile__container">
-			<div class="profile">
-				<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,e_grayscale,w_160,q_auto:good/v1598289544/people/yvonne_otgjpm.jpg" alt="" class="profile__img">
-				<div class="profile__content">
-					<h3 class="profile__name">Yvonne Bischof</h3>
-					<div class="profile__title">Verantwortung Ressort Bildung, Co-Präsidentin</div>
-					<div class="profile__background">Lehrperson Zyklus 2</div>
+			{{ range .Site.Data.pages.über.team }}
+				<div class="profile">
+					<img src="{{ .img }}" alt="{{ .desc }}" class="profile__img">
+					<div class="profile__content">
+						{{ range .info }}
+							<h3 class="profile__name">{{ .name }}</h3>
+							<div class="profile__title">{{ .title }}</div>
+							<div class="profile__background">{{ .sme }}</div>
+						{{ end }}
+					</div>
 				</div>
-			</div>
+			{{ end }}
 		</div>
 	</section>
 {{end}}
