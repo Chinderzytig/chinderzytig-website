@@ -326,3 +326,16 @@ body {
 		color: $chinder-orange;
 	}
 }
+
+/* ----- ÜBER UNS ------ */
+.about {
+
+	&__others {
+
+		&-heading {
+			font-family: $font-patrick, $font-fallback;
+			font-size: $font-bigger;
+			color: $chinder-orange;
+		}
+	}
+}

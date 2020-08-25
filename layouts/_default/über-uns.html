@@ -16,4 +16,16 @@
 			{{ end }}
 		</div>
 	</section>
+	<section class="about__others">
+		{{ range .Site.Data.pages.über.others }}
+			<div class="about__others-group">
+				<h3 class="about__others-heading">{{ .heading }}</h3>
+				<ul class="about__others-list">
+					{{ range .members }}
+						<li>{{ .member }}</li>
+					{{ end }}
+				</ul>
+			</div>
+		{{ end }}
+	</section>
 {{end}}
