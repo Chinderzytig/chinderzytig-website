@@ -2,6 +2,21 @@
 	<section class="quellen">
 		<div class="quellen__intro">
 			<h2 class="heading heading__secondary">Unsere Quellen</h2>
+			<p class="quellen__intro-content">
+				Wir beziehen unsere Informationen primär aus dem Internet und aus
+				Printmedien. 99% der Informationen stammen von:
+			</p>
+		</div>
+		<div class="quellen__logos">
+			<div class="quellen__logos-container">
+				{{ range .Site.Data.pages.quellen.media }}
+					<a href="{{ .website }}" target="_blank" class="verein__thanks-link">
+					{{ range .logo }}
+						<img src="{{ .img }}" alt="{{ .desc }}" class="verein__thanks-logo">
+					{{ end }}
+					</a>
+				{{ end }}
+			</div>
 		</div>
 	</section>
 {{end}}

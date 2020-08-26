@@ -1,6 +1,21 @@
 .quellen {
 
+	&__intro,
+	&__logos-container { @include container-main; }
+
 	&__intro {
-		@include container-main;
+
+		&-content { margin-bottom: 3rem; }
+	}
+
+	&__logos {
+		@include cta-color($chinder-cultured);
+
+		&-container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-around;
+			align-items: center;
+		}
 	}
 }
