@@ -22,7 +22,7 @@ btns:
 - url: "/über-uns"
   label:
     - text: Über Uns
-- url: "#"
+- url: "/unser-beirat"
   label:
     - text: Unser Beirat
 - url: "#"
