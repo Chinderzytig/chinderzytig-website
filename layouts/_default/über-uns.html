@@ -1,0 +1,31 @@
+{{define "main"}}
+	<section class="about__team">
+		<h2 class="heading heading__secondary">Über Uns</h2>
+		<div class="profile__container">
+			{{ range .Site.Data.pages.über.team }}
+				<div class="profile">
+					<img src="{{ .img }}" alt="{{ .desc }}" class="profile__img">
+					<div class="profile__content">
+						{{ range .info }}
+							<h3 class="profile__name">{{ .name }}</h3>
+							<div class="profile__title">{{ .title }}</div>
+							<div class="profile__background">{{ .sme }}</div>
+						{{ end }}
+					</div>
+				</div>
+			{{ end }}
+		</div>
+	</section>
+	<section class="about__others">
+		{{ range .Site.Data.pages.über.others }}
+			<div class="about__others-group">
+				<h3 class="about__others-heading">{{ .heading }}</h3>
+				<ul class="about__others-list">
+					{{ range .members }}
+						<li>{{ .member }}</li>
+					{{ end }}
+				</ul>
+			</div>
+		{{ end }}
+	</section>
+{{end}}

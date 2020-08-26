@@ -1,0 +1,18 @@
+.profile {
+	height: 18rem;
+	width: 50rem;
+	background-color: $chinder-cultured;
+	display: flex;
+	margin-top: 3rem;
+
+	&__content { padding: 1.5rem; }
+
+	&__background { margin-top: 1rem; }
+
+	&__container {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		margin-top: -3rem;
+	}
+}

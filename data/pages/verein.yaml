@@ -19,7 +19,7 @@ media:
       date: "28.11.2019"
 
 btns:
-- url: "#"
+- url: "/über-uns"
   label:
     - text: Über Uns
 - url: "#"
