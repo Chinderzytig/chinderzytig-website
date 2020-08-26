@@ -1,0 +1,19 @@
+{{define "main"}}
+	<section class="board">
+		<h2 class="heading heading__secondary">Unser Beirat</h2>
+		<div class="profile__container">
+			{{ range .Site.Data.pages.beirat.board }}
+				<div class="profile profile--board">
+					<img src="{{ .img }}" alt="{{ .desc }}" class="profile__img">
+					<div class="profile__content">
+						{{ range .info }}
+							<h3 class="profile__name">{{ .name }}</h3>
+							<div class="profile__title">{{ .title }}</div>
+							<div class="profile__background">{{ .quote }}</div>
+						{{ end }}
+					</div>
+				</div>
+			{{ end }}
+		</div>
+	</section>
+{{end}}

@@ -4,37 +4,37 @@ team:
   info:
     - name: Yvonne Bischof
       title: Verantwortung Ressort Bildung, Co-Präsidentin
-      sme: Lehrperson Zyklus 2
+      focus: Lehrperson Zyklus 2
 - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,e_grayscale,w_180,q_auto:good/people/seraina_oo1jvl.png"
   desc: Seraina Branschi
   info:
     - name: Seraina Branschi
       title: Verantwortung Redaktion und Website
-      sme: Mitarbeiterin Marketing & Kommunikation, Swiss Economic Forum & NZZ Konferenzen
+      focus: Mitarbeiterin Marketing & Kommunikation, Swiss Economic Forum & NZZ Konferenzen
 - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,e_grayscale,w_180,q_auto:good/people/melanie_eju55k.jpg"
   desc: Melanie Cabalerio
   info:
     - name: Melanie Cabalerio
       title: Verantwortung Ressort Bildung / Marketing
-      sme: Lehrperson Zyklus 2
+      focus: Lehrperson Zyklus 2
 - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,e_grayscale,w_180,q_auto:good/people/simone_ninxtj.jpg"
   desc: Simone Gefeller
   info:
     - name: Simone Gefeller
       title: Verantwortung Datenbankbewirtschaftung / Ressort Bildung
-      sme: Lehrperson Zyklus 1
+      focus: Lehrperson Zyklus 1
 - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,e_grayscale,w_180,q_auto:good/people/isabel_u1reb4.png"
   desc: Isabel Niklaus
   info:
     - name: Isabel Niklaus
       title: Verantwortung Marketing / Kommunikation / Sales
-      sme: Projektleiterin, Swiss Economic Forum & NZZ Konferenzen
+      focus: Projektleiterin, Swiss Economic Forum & NZZ Konferenzen
 - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,e_grayscale,w_180,q_auto:good/people/lars_w1kacn.jpg"
   desc: Lars Ziörjen
   info:
     - name: Lars Ziörjen
       title: Gesamtverantwortung, Co-Präsident
-      sme: Lehrperson Zyklus 3, Schulleiter, Theater- und Kinderbuchautor
+      focus: Lehrperson Zyklus 3, Schulleiter, Theater- und Kinderbuchautor
 
 others:
 - heading: Finanzen
