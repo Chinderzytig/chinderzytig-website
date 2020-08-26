@@ -98,6 +98,8 @@ body {
 /* ----- PROFILE ------ */
 .profile {
 
+	&__content { text-align: center; }
+
 	&__name,
 	&__title { font-family: $font-patrick, $font-fallback; }
 
@@ -110,8 +112,6 @@ body {
 		font-size: $font-default;
 		color: $chinder-verdigris;
 	}
-
-	&__background { text-align: justify; }
 }
 
 
