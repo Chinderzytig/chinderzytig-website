@@ -25,7 +25,7 @@ btns:
 - url: "/unser-beirat"
   label:
     - text: Unser Beirat
-- url: "#"
+- url: "/unsere-quellen"
   label:
     - text: Unsere Quellen
 - url: "#"
