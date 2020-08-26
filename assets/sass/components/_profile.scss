@@ -1,6 +1,5 @@
 .profile {
-	height: 40rem;
-	width: 30rem;
+
 	background-color: $chinder-cultured;
 	border: 1px solid $chinder-platinum;
 	display: flex;
@@ -8,6 +7,10 @@
 	align-items: center;
 	padding: 2rem;
 	margin-top: 3rem;
+
+	&--team { width: 30rem; }
+
+	&--board { width: 45rem; }
 
 	&__img {
 		width: 18rem;
