@@ -1,0 +1,37 @@
+media:
+- website: "https://www.derbund.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/logos/derbund_tjlcwf.png"
+      desc: Der Bund logo
+- website: "https://www.nzz.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/logos/nzz_jfrc3m.png"
+      desc: NZZ logo
+- website: "https://nzzas.nzz.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/logos/nzz_am_zontag_ieeao5.png"
+      desc: NZZ am Sonntag logo
+- website: "https://www.srf.ch/news"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/logos/srf_j7oz5s.png"
+      desc: SRF logo
+- website: "https://www.watson.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/logos/watson_hy9n8j.png"
+      desc: Watson logo
+- website: "https://edition.cnn.com/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/logos/cnn_hxajyz.png"
+      desc: CNN logo
+- website: "https://www.zeit.de/index"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/logos/die_zeit_vlnmrj.png"
+      desc: Die Zeit logo
+- website: "https://de.wikipedia.org/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/logos/wiki_wv2jcn.png"
+      desc: Wikipedia logo
+- website: "https://www.20min.ch/"
+  logo:
+    - img: "https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_60,q_auto:good/logos/20minuten_ep2xwv.png"
+      desc: 20 Minuten logo

@@ -297,15 +297,16 @@ body {
 	}
 }
 
-/* ----- DER VEREIN ------ */
-.verein {
+/* ----- ÜBER UNS ------ */
+.about {
 
-	&__history-quote {
-		font-family: $font-patrick, $font-fallback;
-		font-size: 5rem;
-		word-spacing: 1rem;
-		letter-spacing: .5rem;
-		text-decoration: $chinder-orange underline;
+	&__others {
+
+		&-heading {
+			font-family: $font-patrick, $font-fallback;
+			font-size: $font-bigger;
+			color: $chinder-orange;
+		}
 	}
 }
 
@@ -329,15 +330,32 @@ body {
 	}
 }
 
-/* ----- ÜBER UNS ------ */
-.about {
+/* ----- UNSERE QUELLEN ------ */
 
-	&__others {
+.quellen {
 
-		&-heading {
-			font-family: $font-patrick, $font-fallback;
-			font-size: $font-bigger;
-			color: $chinder-orange;
+	&__media {
+
+		&-text { font-weight: 100; }
+	}
+
+	&__other {
+
+		&-text {
+			font-weight: 100;
+			text-align: justify;
 		}
+	}
+}
+
+/* ----- DER VEREIN ------ */
+.verein {
+
+	&__history-quote {
+		font-family: $font-patrick, $font-fallback;
+		font-size: 5rem;
+		word-spacing: 1rem;
+		letter-spacing: .5rem;
+		text-decoration: $chinder-orange underline;
 	}
 }
