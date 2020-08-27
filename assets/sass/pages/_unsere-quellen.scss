@@ -1,11 +1,12 @@
 .quellen {
 
-	&__intro,
-	&__logos-container { @include container-main; }
+	&__media-intro,
+	&__logos-container,
+	&__other { @include container-main; }
 
-	&__intro {
+	&__media {
 
-		&-content { margin-bottom: 3rem; }
+		&-text { margin-bottom: 3rem; }
 	}
 
 	&__logos {
@@ -16,6 +17,22 @@
 			flex-wrap: wrap;
 			justify-content: space-around;
 			align-items: center;
+		}
+
+		&-logo { padding: 2rem; }
+	}
+
+	&__other {
+		border: 1px solid $color-black;
+		padding: 2rem;
+		display: flex;
+
+		&-logo { padding: 2rem; }
+
+		&-text {
+			border-left: 1px solid $chinder-platinum;
+			border-right: 1px solid $chinder-platinum;
+			padding: 0 2rem;
 		}
 	}
 }
