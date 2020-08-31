@@ -70,6 +70,7 @@ body {
 
 	&__link:link,
 	&__link:visited {
+		font-weight: 500;
 		text-decoration: none;
 		color: $color-black;
 	}
