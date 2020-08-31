@@ -73,6 +73,8 @@ body {
 		text-decoration: none;
 		color: $color-black;
 	}
+
+	&__active { @extend .breadcrumb__link; }
 }
 
 /* ----- BUTTONS ------ */
