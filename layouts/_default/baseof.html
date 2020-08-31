@@ -7,5 +7,20 @@
 			{{- block "main" . }}{{- end }}
 		</main>
 		{{- partial "footer.html" . -}}
+		<script>
+			(function () {
+				var bread = document.getElementById('bread');
+				anchor = bread.getElementsByTagName('a');
+				current = window.location.href;
+				console.log(anchor[0].href);
+				console.log(current);
+
+				for (var i = 0; i < anchor.length; i++) {
+					if (anchor[i].href == current) {
+						anchor[i].className = 'breadcrumb__active';
+					}
+				}
+			})();
+		</script>
 	</body>
 </html>

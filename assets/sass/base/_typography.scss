@@ -65,6 +65,19 @@ body {
 	}
 }
 
+/* ----- BREADCRUMB ------ */
+.breadcrumb {
+
+	&__link:link,
+	&__link:visited {
+		font-weight: 500;
+		text-decoration: none;
+		color: $color-black;
+	}
+
+	&__active { @extend .breadcrumb__link; }
+}
+
 /* ----- BUTTONS ------ */
 .btn {
 	font-family: $font-patrick, $font-fallback;
