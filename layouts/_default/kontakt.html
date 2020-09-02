@@ -1,6 +1,9 @@
 {{define "main"}}
 	<section class="kontakt">
-		<h2 class="heading heading__secondary">Kontaktiere Uns</h2>
+		<h2 class="heading heading__secondary">
+			Kontaktiere Uns
+			<span class="kontakt__social">{{- partial "svgs/social_svgs.html" . -}}</span>
+		</h2>
 		<p class="kontakt__intro">
 			Bitte teilt uns mit falls ihr Fragen, Ideen, oder Anliegen habt.
 		</p>
@@ -39,7 +42,7 @@
 					<label for="datenschutz">
 						Ich bin einverstanden, dass meine Personendaten im Kontext dieses
 						Formulars verarbeitet werden. Mehr Informationen finden Sie unter
-						chinderzytig.ch/datenschutz.
+						<a href="#" class="kontakt__datenschutz">chinderzytig.ch/datenschutz</a>.
 					</label>
 				</div>
 				<div class="kontakt__hidden">
