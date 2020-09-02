@@ -1,0 +1,86 @@
+.kontakt {
+	@include container-main;
+
+	&__intro { margin-bottom: $margin-s; }
+
+	&__container {
+		width: 75%;
+		margin: auto;
+		background-color: $chinder-cultured;
+	}
+
+	&__form {
+		padding: 3rem;
+		display: flex;
+		flex-direction: column;
+
+		&-group { margin-bottom: 1rem; }
+
+		input,
+		textarea {
+			border: 2px solid $social-base;
+
+			&:focus {
+				outline: none;
+				border: 2px solid $chinder-verdigris;
+			}
+		}
+
+		&-checkbox {
+
+			label { margin-left: .5rem; }
+
+			input[type=checkbox]::-ms-check { display: none; }
+
+			input[type=checkbox] {
+				outline: none;
+				-webkit-appearance: none;
+				-moz-appearance: none;
+				appearance: none;
+
+			  height: 16px;
+			  width: 16px;
+			  border: 2px solid $social-base;
+			  background-color: white;
+			  cursor: pointer;
+				transition: all 0.2s;
+
+				&:focus { border: 2px solid $chinder-verdigris; }
+			}
+
+			input[type=checkbox]:checked {
+				content: "";
+			    height: 13px;
+			    width: 19px;
+					background-color: $chinder-cultured;
+			    border-left: 4px solid $chinder-orange;
+			    border-bottom: 4px solid $chinder-orange;
+					border-right: 2px solid transparent;
+					border-top: 2px solid transparent;
+					margin-bottom: .5rem;
+			    transform: rotate(-55deg);
+					transition: all 0.2s;
+			}
+		}
+	}
+
+	&__field {
+		padding: 1rem;
+		width: 100%;
+	}
+
+	&__label {
+		font-size: 1.2rem;
+		margin-left: 1.2rem;
+		display: block;
+		transition: all .3s;
+	}
+
+	&__field:placeholder-shown + &__label {
+		opacity: 0;
+		visibility: hidden;
+		transform: translateY(-2rem);
+	}
+
+	&__hidden { visibility: hidden; }
+}

@@ -49,6 +49,11 @@
 			background-color: $footer-light;
 		}
 
+		&--kontakt {
+			@extend .btn-submit--nav;
+			margin-left: 0;
+		}
+
 		&:hover,
 		&:active {
 			background-color: $chinder-verdigris;

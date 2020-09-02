@@ -312,6 +312,18 @@ body {
 	}
 }
 
+/* ----- KONTAKT ------ */
+.kontakt {
+
+	input,
+	input::placeholder,
+	textarea,
+	textarea::placeholder {
+		font-family: inherit;
+		font-size: inherit;
+	}
+}
+
 /* ----- ÜBER UNS ------ */
 .about {
 

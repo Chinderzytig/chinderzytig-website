@@ -28,7 +28,7 @@ btns:
 - url: "/unsere-quellen"
   label:
     - text: Unsere Quellen
-- url: "#"
+- url: "/kontakt"
   label:
     - text: Kontaktiere Uns
 
