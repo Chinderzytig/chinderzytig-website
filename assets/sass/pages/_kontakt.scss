@@ -1,0 +1,54 @@
+.kontakt {
+	@include container-main;
+
+	&__intro { margin-bottom: $margin-s; }
+
+	&__container {
+		width: 75%;
+		margin: auto;
+		background-color: $chinder-cultured;
+	}
+
+	&__form {
+		padding: 3rem;
+		display: flex;
+		flex-direction: column;
+
+		&-group { margin-bottom: 1rem; }
+
+		&-checkbox {
+			display: flex;
+			align-items: baseline;
+
+			label { margin-left: 1rem; }
+		}
+
+		input,
+		textarea {
+			border: 2px solid $social-base;
+
+			&:focus {
+				outline: none;
+				border: 2px solid $chinder-verdigris;
+			}
+		}
+	}
+
+	&__field {
+		padding: 1rem;
+		width: 100%;
+	}
+
+	&__label {
+		font-size: 1.2rem;
+		margin-left: 1.2rem;
+		display: block;
+		transition: all .3s;
+	}
+
+	&__field:placeholder-shown + &__label {
+		opacity: 0;
+		visibility: hidden;
+		transform: translateY(-2rem);
+	}
+}

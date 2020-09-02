@@ -1,2 +1,52 @@
 {{define "main"}}
+<section class="kontakt">
+	<h2 class="heading heading__secondary">Kontaktiere Uns</h2>
+	<p class="kontakt__intro">
+		Bitte teilt uns mit falls ihr Fragen, Ideen, oder Anliegen habt.
+	</p>
+	<div class="kontakt__container">
+		<form name="kontakt" method="post" netlify-honeypot="bot-field" data-netlify="true" class="kontakt__form">
+			<div class="kontakt__form-group">
+				<input type="text" name="anrede" placeholder="Anrede" id="anrede" class="kontakt__field">
+				<label for="anrede" class="kontakt__label">Anrede</label>
+			</div>
+			<div class="kontakt__form-group">
+				<input type="text" name="name" placeholder="Name*" id="name" class="kontakt__field" required>
+				<label for="name" class="kontakt__label">Name*</label>
+			</div>
+			<div class="kontakt__form-group">
+				<input type="email" name="email" placeholder="E-Mail*" id="email" class="kontakt__field" required>
+				<label for="email" class="kontakt__label">E-Mail*</label>
+			</div>
+			<div class="kontakt__form-group">
+				<input type="tel" name="telefon" placeholder="Telefon" id="phone" class="kontakt__field">
+				<label for="telefon" class="kontakt__label">Telefon</label>
+			</div>
+			<div class="kontakt__form-group">
+				<input type="text" name="unternehmen" placeholder="Unternehmen" id="unternehmen" class="kontakt__field">
+				<label for="unternehmen" class="kontakt__label">Unternehmen</label>
+			</div>
+			<div class="kontakt__form-group">
+				<input type="text" name="betreff" placeholder="Betreff*" id="betreff" class="kontakt__field" required>
+				<label for="betreff" class="kontakt__label">Betreff*</label>
+			</div>
+			<div class="kontakt__form-group">
+				<textarea name="anliegen" placeholder="Ihr Anliegen*" rows="8" class="kontakt__field" required></textarea>
+				<label class="kontakt__label">Ihr Anliegen*</label>
+			</div>
+			<div class="kontakt__form-checkbox">
+				<input type="checkbox" name="datenschutz" id="datenschutz" required>
+				<label for="datenschutz">
+					Ich bin einverstanden, dass meine Personendaten im Kontext dieses
+					Formulars verarbeitet werden. Mehr Informationen finden Sie unter
+					chinderzytig.ch/datenschutz.
+				</label>
+			</div>
+			<input name="bot-field">
+			<label>Robot spam field</label>
+			<input type="submit" value="Send" class="btn btn-submit">
+			<label>&nbsp;</label>
+		</form>
+	</div>
+</section>
 {{end}}
