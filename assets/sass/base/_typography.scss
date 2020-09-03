@@ -237,7 +237,11 @@ body {
 
 	&--footer { color: $chinder-platinum; }
 
-	&__heading { text-transform: uppercase; }
+	&__heading {
+		text-transform: uppercase;
+
+		&--footer { font-weight: 500; }
+	}
 
 	&__group {
 
