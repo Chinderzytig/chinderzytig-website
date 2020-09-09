@@ -1,0 +1,14 @@
+.marker {
+
+	&:link,
+	&:visited {
+		background-color: $chinder-platinum;
+		padding: .8rem;
+		border-radius: 2rem;
+	}
+
+	&:hover,
+	&:active { background-color: $color-black; }
+
+	&:not(:first-child) { margin-left: 1rem; }
+}

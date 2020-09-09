@@ -8,63 +8,6 @@ body {
 // -----------------------------------------------
 // COMPONENTS
 // -----------------------------------------------
-/* ----- HEADINGS ------ */
-.heading {
-	font-family: $font-patrick, $font-fallback;
-	font-size: $font-heading;
-	text-transform: uppercase;
-	margin-bottom: $margin-s;
-
-	&__secondary {
-		border-bottom: 4px solid $color-black;
-		line-height: normal;
-	}
-
-	&__tertiary {
-		color: $color-white;
-		background-color: $color-black;
-		padding: 0 1rem;
-		display: inline-block;
-	}
-}
-
-/* ----- CARD ------ */
-.card {
-
-	&:link,
-	&:visited {
-		text-decoration: none;
-		color: $color-black;
-	}
-
-	&:hover,
-	&:active { color: $color-white; }
-
-	&__content {
-
-		&-title {
-			font-family: $font-patrick, $font-fallback;
-			font-size: $font-big;
-			font-weight: 700;
-			text-align: justify;
-
-			&--highlight {
-				font-family: $font-patrick, $font-fallback;
-				font-size: $font-heading;
-			}
-		}
-
-		&-date {
-			font-weight: 300;
-
-			&--highlight {
-				font-size: $font-default;
-				font-weight: 300;
-			}
-		}
-	}
-}
-
 /* ----- BREADCRUMB ------ */
 .breadcrumb {
 
@@ -106,6 +49,76 @@ body {
 			color: $chinder-platinum;
 		}
 	}
+}
+
+/* ----- CARD ------ */
+.card {
+
+	&:link,
+	&:visited {
+		text-decoration: none;
+		color: $color-black;
+	}
+
+	&:hover,
+	&:active { color: $color-white; }
+
+	&__content {
+
+		&-title {
+			font-family: $font-patrick, $font-fallback;
+			font-size: $font-big;
+			font-weight: 700;
+			text-align: justify;
+
+			&--highlight {
+				font-family: $font-patrick, $font-fallback;
+				font-size: $font-heading;
+			}
+		}
+
+		&-date {
+			font-weight: 300;
+
+			&--highlight {
+				font-size: $font-default;
+				font-weight: 300;
+			}
+		}
+	}
+}
+
+/* ----- HEADINGS ------ */
+.heading {
+	font-family: $font-patrick, $font-fallback;
+	font-size: $font-heading;
+	text-transform: uppercase;
+	margin-bottom: $margin-s;
+
+	&__secondary {
+		border-bottom: 4px solid $color-black;
+		line-height: normal;
+	}
+
+	&__tertiary {
+		color: $color-white;
+		background-color: $color-black;
+		padding: 0 1rem;
+		display: inline-block;
+	}
+}
+
+/* ----- MARKER ------ */
+.marker {
+
+	&:link,
+	&:visited {
+		text-decoration: none;
+		color: $social-base;
+	}
+
+	&:hover,
+	&:active { color: $color-white; }
 }
 
 /* ----- PROFILE ------ */
@@ -330,7 +343,7 @@ body {
 	&__datenschutz { color: $chinder-orange; }
 }
 
-/* ----- ÜBER UNS ------ */
+/* ----- SINGLE TEMPLATE ------ */
 .single {
 
 	&__image {

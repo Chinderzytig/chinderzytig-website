@@ -10,6 +10,18 @@
 					</a>
 				</figcaption>
 			</figure>
+			<div class="single__taxonomies">
+				{{ if .Params.categories }}
+					{{ range .Params.categories }}
+						<a href="{{ "/categories" | relLangURL }}/{{ . | urlize }}" class="marker">{{ . }}</a>
+					{{ end }}
+				{{ end }}
+				{{ if .Params.tags}}
+					{{ range .Params.tags }}
+						<a href="{{ "/tags" | relLangURL }}/{{ . | urlize }}" class="marker">{{ . }}</a>
+					{{ end }}
+				{{ end }}
+			</div>
 		</div>
 	</div>
 {{end}}
