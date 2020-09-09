@@ -331,6 +331,15 @@ body {
 }
 
 /* ----- ÜBER UNS ------ */
+.single {
+
+	&__image {
+
+		&-src { color: $color-black; }
+	}
+}
+
+/* ----- ÜBER UNS ------ */
 .about {
 
 	&__others {

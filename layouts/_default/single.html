@@ -1,0 +1,15 @@
+{{define "main"}}
+	<div class="single__container">
+		<div class="single__frontmatter">
+			<figure class="single__image">
+				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_800/{{ .Params.hero_img }}" alt="" class="single__image-img">
+				<figcaption class="single__image-caption">
+					{{ partial "svgs/triangle_svg.html" (dict "fill" "#000" "width" 15 "height" 15) }}
+					<a href="{{ .Params.img_src }}" target="_blank" class="single__image-src">
+						<div class="single__image-photographer">@{{ .Params.img_photographer }}</div>
+					</a>
+				</figcaption>
+			</figure>
+		</div>
+	</div>
+{{end}}

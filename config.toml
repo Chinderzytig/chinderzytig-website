@@ -3,3 +3,4 @@ languageCode = "de"
 title = "Chinderzytig - Die Zeitung für Kinder und Jungendliche"
 [params]
     DateForm = "6.1.2006"
+		cloudinary_url = "https://res.cloudinary.com/chinderzytig/image/upload"

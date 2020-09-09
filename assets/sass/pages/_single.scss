@@ -1,0 +1,21 @@
+.single {
+
+	&__container {
+		@include container-main;
+	}
+
+	&__image {
+		display: flex;
+		flex-direction: column;
+
+		&-img { align-self: center; }
+
+		&-caption {
+			display: flex;
+			align-items: center;
+			margin-left: 11rem;
+		}
+
+		&-src { margin-left: .5rem; }
+	}
+}
