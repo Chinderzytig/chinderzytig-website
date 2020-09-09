@@ -21,4 +21,11 @@
 	}
 
 	&__taxonomies { display: flex; }
+
+	&__date-author {
+		display: flex;
+		border-bottom: 4px solid $chinder-cultured;
+	}
+
+	&__dot { margin: 0 .5rem; }
 }

@@ -22,6 +22,18 @@
 					{{ end }}
 				{{ end }}
 			</div>
+			<h2 class="heading heading--article">{{ .Params.title }}</h2>
+			<div class="single__date-author">
+				<div class="single__date">{{ .Date.Format .Site.Params.DateForm }}</div>
+				<div class="single__dot">●</div>
+				<div class="single__author">
+					{{ if .Params.author }}
+						{{ .Params.author }}
+					{{ else }}
+						Chinderzytig
+					{{ end }}
+				</div>
+			</div>
 		</div>
 	</div>
 {{end}}
