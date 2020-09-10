@@ -1,0 +1,39 @@
+.article {
+
+	&__svgs {
+		fill: $social-base;
+		text-decoration: none;
+
+		&--fb {
+
+			&:hover,
+			&:active {
+				fill: $social-fb;
+			}
+		}
+
+		&--twitter {
+
+			&:hover,
+			&:active {
+				fill: $social-twitter;
+			}
+		}
+
+		&--whatsapp {
+
+			&:hover,
+			&:active {
+				fill: $social-whatsapp;
+			}
+		}
+
+		&--disqus {
+
+			&:hover,
+			&:active {
+				fill: $social-disqus;
+			}
+		}
+	}
+}
