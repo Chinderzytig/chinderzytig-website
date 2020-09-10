@@ -362,6 +362,21 @@ body {
 		color: $social-base;
 		font-size: 1.3rem;
 	}
+
+	&__content {
+
+		h2 {
+			font-family: $font-patrick, $font-fallback;
+			color: $chinder-orange;
+		}
+
+		p {
+			font-size: 1.8rem;
+			text-align: justify;
+		}
+
+		a { color: $color-black; }
+	}
 }
 
 /* ----- ÜBER UNS ------ */
