@@ -88,6 +88,30 @@ body {
 	}
 }
 
+/* ----- FREMDWORT (SHORTCODE) ------ */
+.fremdwort {
+	&:link,
+	&:visited {
+		color: $chinder-verdigris;
+	}
+}
+
+/* ----- DEFINITION (SHORTCODE) ------ */
+.definition {
+
+	&__close {
+		&:link,
+		&:visited {
+			font-size: 3rem;
+			text-decoration: none;
+		}
+
+		&:hover { color: $chinder-verdigris; }
+	}
+
+	&__word { font-size: $font-heading; }
+}
+
 /* ----- HEADINGS ------ */
 .heading {
 	font-family: $font-patrick, $font-fallback;
