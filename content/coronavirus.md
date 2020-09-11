@@ -13,6 +13,7 @@ tags: [COVID-19]
 fdw: false
 paid: false
 draft: false
+js: "https://code.jquery.com/jquery-3.5.1.min.js"
 ---
 
 Nach wie vor beschäftigt sich die Menschheit mit dem Corona-Virus. Ein kleines,
