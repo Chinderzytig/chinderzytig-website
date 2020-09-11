@@ -1,0 +1,6 @@
+<div class="arbeitsmaterial">
+	<a href="{{ .Site.Params.cloudinary_url }}/{{ .Get `file`}}" class="arbeitsmaterial__link">
+		<img src="{{ .Site.Params.cloudinary_url }}/c_scale,h_200,q_auto:best/{{ .Get `file`}}" alt="" class="arbeitsmaterial__file">
+		<div class="arbeitsmaterial__file-name">{{ .Get "file"}}</div>
+	</a>
+</div>
