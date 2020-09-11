@@ -12,7 +12,7 @@ categories: [Gesundheit]
 tags: [COVID-19]
 fdw: false
 paid: false
-draft: true
+draft: false
 ---
 
 Nach wie vor beschäftigt sich die Menschheit mit dem Corona-Virus. Ein kleines,
