@@ -38,4 +38,10 @@
 
 		p { margin-bottom: $margin-s; }
 	}
+
+	&__comments {
+		border-top: 4px solid $chinder-cultured;
+
+		&-title { margin-top: $margin-s; }
+	}
 }

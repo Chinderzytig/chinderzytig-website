@@ -401,6 +401,14 @@ body {
 
 		a { color: $color-black; }
 	}
+
+	&__comments {
+
+		&-title {
+			font-family: $font-patrick, $font-fallback;
+			color: $chinder-orange;
+		}
+	}
 }
 
 /* ----- ÜBER UNS ------ */
