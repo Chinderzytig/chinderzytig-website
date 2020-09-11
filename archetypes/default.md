@@ -5,6 +5,7 @@ description:
 date: {{ .Date }}
 author:
 hero_img:
+img_description:
 img_photographer:
 img_src:
 categories: []
