@@ -32,9 +32,10 @@
 
 	&__content {
 		margin: $margin-s 0;
+		border-bottom: 4px solid $chinder-cultured;
 
 		h2 { margin-bottom: 1.5rem; }
 
-		p { &:not(:last-child) { margin-bottom: $margin-s; } }
+		p { margin-bottom: $margin-s; }
 	}
 }
