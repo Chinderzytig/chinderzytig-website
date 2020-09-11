@@ -1,0 +1,46 @@
+{{define "main"}}
+	<div class="single__container">
+		<div class="single__frontmatter">
+			<figure class="single__image">
+				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_800/{{ .Params.hero_img }}" alt="{{ .Params.img_description }}" class="single__image-img">
+				<figcaption class="single__image-caption">
+					{{ partial "svgs/triangle_svg.html" (dict "fill" "#000" "width" 15 "height" 15) }}
+					<a href="{{ .Params.img_src }}" target="_blank" class="single__image-src">
+						<div class="single__image-photographer">@{{ .Params.img_photographer }}</div>
+					</a>
+				</figcaption>
+			</figure>
+			<div class="single__taxonomies">
+				{{ if .Params.categories }}
+					{{ range .Params.categories }}
+						<a href="{{ "/categories" | relLangURL }}/{{ . | urlize }}" class="marker">{{ . }}</a>
+					{{ end }}
+				{{ end }}
+				{{ if .Params.tags}}
+					{{ range .Params.tags }}
+						<a href="{{ "/tags" | relLangURL }}/{{ . | urlize }}" class="marker">{{ . }}</a>
+					{{ end }}
+				{{ end }}
+			</div>
+			<h2 class="heading heading--article">{{ .Params.title }}</h2>
+			<div class="single__date-author">
+				<div class="single__date">{{ .Date.Format .Site.Params.DateForm }}</div>
+				<div class="single__dot">●</div>
+				<div class="single__author">
+					{{ if .Params.author }}
+						{{ .Params.author }}
+					{{ else }}
+						Chinderzytig
+					{{ end }}
+				</div>
+			</div>
+			{{ partial "svgs/article_svgs.html" . }}
+		</div>
+		<div class="single__content">{{ .Content }}</div>
+		{{- partial "support_us.html" . -}}
+		<section class="single__comments" id="comments">
+			<h2 class="single__comments-title">Kommentare</h2>
+			{{ template "_internal/disqus.html" . }}
+		</section>
+	</div>
+{{end}}

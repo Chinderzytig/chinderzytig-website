@@ -8,62 +8,8 @@ body {
 // -----------------------------------------------
 // COMPONENTS
 // -----------------------------------------------
-/* ----- HEADINGS ------ */
-.heading {
-	font-family: $font-patrick, $font-fallback;
-	font-size: $font-heading;
-	text-transform: uppercase;
-	margin-bottom: $margin-s;
-
-	&__secondary {
-		border-bottom: 4px solid $color-black;
-		line-height: normal;
-	}
-
-	&__tertiary {
-		color: $color-white;
-		background-color: $color-black;
-		padding: 0 1rem;
-		display: inline-block;
-	}
-}
-
-/* ----- CARD ------ */
-.card {
-
-	&:link,
-	&:visited {
-		text-decoration: none;
-		color: $color-black;
-	}
-
-	&:hover,
-	&:active { color: $color-white; }
-
-	&__content {
-
-		&-title {
-			font-family: $font-patrick, $font-fallback;
-			font-size: $font-big;
-			font-weight: 700;
-			text-align: justify;
-
-			&--highlight {
-				font-family: $font-patrick, $font-fallback;
-				font-size: $font-heading;
-			}
-		}
-
-		&-date {
-			font-weight: 300;
-
-			&--highlight {
-				font-size: $font-default;
-				font-weight: 300;
-			}
-		}
-	}
-}
+/* ----- ARBEITSMATERIAL (SHORTCODE) ------ */
+.arbeitsmaterial { &__link { text-decoration: none; } }
 
 /* ----- BREADCRUMB ------ */
 .breadcrumb {
@@ -106,6 +52,107 @@ body {
 			color: $chinder-platinum;
 		}
 	}
+}
+
+/* ----- CARD ------ */
+.card {
+
+	&:link,
+	&:visited {
+		text-decoration: none;
+		color: $color-black;
+	}
+
+	&:hover,
+	&:active { color: $color-white; }
+
+	&__content {
+
+		&-title {
+			font-family: $font-patrick, $font-fallback;
+			font-size: $font-big;
+			font-weight: 700;
+			text-align: justify;
+
+			&--highlight {
+				font-family: $font-patrick, $font-fallback;
+				font-size: $font-heading;
+			}
+		}
+
+		&-date {
+			font-weight: 300;
+
+			&--highlight {
+				font-size: $font-default;
+				font-weight: 300;
+			}
+		}
+	}
+}
+
+/* ----- FREMDWORT (SHORTCODE) ------ */
+.fremdwort {
+	&:link,
+	&:visited {
+		color: $chinder-verdigris;
+	}
+}
+
+/* ----- DEFINITION (SHORTCODE) ------ */
+.definition {
+
+	&__close {
+		&:link,
+		&:visited {
+			font-size: 3rem;
+			text-decoration: none;
+		}
+
+		&:hover { color: $chinder-verdigris; }
+	}
+
+	&__word { font-size: $font-heading; }
+}
+
+/* ----- HEADINGS ------ */
+.heading {
+	font-family: $font-patrick, $font-fallback;
+	font-size: $font-heading;
+	text-transform: uppercase;
+	margin-bottom: $margin-s;
+
+	&__secondary {
+		border-bottom: 4px solid $color-black;
+		line-height: normal;
+	}
+
+	&__tertiary {
+		color: $color-white;
+		background-color: $color-black;
+		padding: 0 1rem;
+		display: inline-block;
+	}
+
+	&--article {
+		color: $chinder-orange;
+		font-size: 4rem;
+		text-transform: none;
+		margin-bottom: 1.5rem;
+	}
+}
+
+/* ----- MARKER ------ */
+.marker {
+
+	&:link,
+	&:visited {
+		text-decoration: none;
+		color: $social-base;
+	}
+
+	&:hover,
+	&:active { color: $color-white; }
 }
 
 /* ----- PROFILE ------ */
@@ -328,6 +375,43 @@ body {
 	}
 
 	&__datenschutz { color: $chinder-orange; }
+}
+
+/* ----- SINGLE TEMPLATE ------ */
+.single {
+
+	&__image {
+
+		&-src { color: $social-base; }
+	}
+
+	&__date-author {
+		color: $social-base;
+		font-size: 1.3rem;
+	}
+
+	&__content {
+
+		h2 {
+			font-family: $font-patrick, $font-fallback;
+			color: $chinder-orange;
+		}
+
+		p {
+			font-size: 1.8rem;
+			text-align: justify;
+		}
+
+		a { color: $color-black; }
+	}
+
+	&__comments {
+
+		&-title {
+			font-family: $font-patrick, $font-fallback;
+			color: $chinder-orange;
+		}
+	}
 }
 
 /* ----- ÜBER UNS ------ */

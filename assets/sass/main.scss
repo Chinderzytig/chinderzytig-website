@@ -4,14 +4,20 @@
 @import "base/base";
 @import "base/typography";
 
+@import "components/arbeitsmaterial";
+@import "components/article_svgs";
 @import "components/breadcrumb";
 @import "components/btn";
 @import "components/card";
+@import "components/definition";
 @import "components/fdw_svg";
+@import "components/image";
+@import "components/marker";
 @import "components/newsletter";
 @import "components/profile";
 @import "components/social_svgs";
 @import "components/support_us";
+@import "components/teiler";
 @import "components/world_map";
 
 @import "layout/footer";
@@ -21,6 +27,7 @@
 @import "pages/fokus_der_woche";
 @import "pages/index";
 @import "pages/kontakt";
+@import "pages/single";
 @import "pages/über-uns";
 @import "pages/unser-beirat";
 @import "pages/unsere-geschichte";

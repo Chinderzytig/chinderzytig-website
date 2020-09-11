@@ -1,0 +1,15 @@
+.image {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: $margin-s;
+
+	&__img { align-self: center; }
+
+	&__caption {
+		display: flex;
+		align-items: center;
+		margin-left: 26rem;
+	}
+
+	&__src { margin-left: .5rem; }
+}
