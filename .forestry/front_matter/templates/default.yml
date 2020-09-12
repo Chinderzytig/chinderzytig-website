@@ -5,42 +5,67 @@ fields:
 - type: text
   name: title
   label: title
+  description: Enter the title of the article here.
 - type: text
   name: slug
   label: slug
+  description: This is what the url in the address bar will look like (ie. https://www.chinderzytig.ch/<strong>the-slug-is-here</strong>).
+    You don't need to fill this out as it will automatically take the title.
 - type: text
   name: description
   label: description
+  description: A one sentence description regarding what the article is about. This
+    is use for SEO purposes (ie. when an article is shared or displayed in web search
+    results).
 - type: datetime
   name: date
   label: date
 - type: text
   name: author
   label: author
+  description: Author of the article
 - type: file
   name: hero_img
   label: hero_img
+  description: The main image for the article. Upload the image to Cloudinary first
+    then copy into this field the image name Cloudinary provides (ie. "coronavirus_rgdsvi.jpg").
 - type: text
   name: img_description
   label: img_description
+  description: Very short description of the image (ie. "Refugees standing in food
+    line"). Used for blind persons using screen readers.
 - type: text
   name: img_photographer
   label: img_photographer
+  description: Name of the photographer who took the photo.
 - type: textarea
   name: img_src
   label: img_src
+  description: Enter the URL of where you got the photo from.
 - type: list
   name: categories
   label: categories
+  description: 'Add any categories to the article. The categories are: <strong>Nordamerika</strong>,
+    <strong>Südamerika</strong>, <strong>Europa</strong>, <strong>Afrika</strong>,
+    <strong>Asien</strong>, <strong>Australien</strong>, <strong>Antarktis</strong>,
+    <strong>Gesellschaft</strong>, <strong>Gesundheit</strong>, <strong>Medien</strong>,
+    <strong>Natur/Umwelt</strong>, <strong>Politik</strong>, <strong>Weltraum &amp;
+    Universum</strong>, <strong>Welt</strong>'
+  config:
+    use_select: false
 - type: list
   name: tags
   label: tags
+  description: Add any tags to the article. Tags can be anything that isn't a category.
 - type: boolean
   name: fdw
   label: fdw
+  default: false
+  description: Is this a Fokus der Woche article? If yes, <strong>turn on</strong>,
+    if no, <strong>keep off</strong>. The default for this is off.
 - type: boolean
   name: paid
   label: paid
-- type: text
-  name: js
-  label: js
+  description: Is this a paid article? If yes, <strong>turn on</strong>, if no, <strong>keep
+    off</strong>. For now there are no paid articles, so the default is off.
+  default: false
