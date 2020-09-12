@@ -69,3 +69,5 @@ fields:
   description: Is this a paid article? If yes, <strong>turn on</strong>, if no, <strong>keep
     off</strong>. For now there are no paid articles, so the default is off.
   default: false
+pages:
+- content/wer-hilft-den-gestrandeten-kindern-von-moria.md
