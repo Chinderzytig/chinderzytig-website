@@ -11,6 +11,7 @@ fields:
   label: slug
   description: This is what the url in the address bar will look like (ie. https://www.chinderzytig.ch/<strong>the-slug-is-here</strong>).
     You don't need to fill this out as it will automatically take the title.
+  hidden: true
 - type: text
   name: description
   label: description
