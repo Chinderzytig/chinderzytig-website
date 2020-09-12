@@ -1,0 +1,46 @@
+---
+label: default
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+- type: file
+  name: hero_img
+  label: hero_img
+- type: text
+  name: img_description
+  label: img_description
+- type: text
+  name: img_photographer
+  label: img_photographer
+- type: textarea
+  name: img_src
+  label: img_src
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: boolean
+  name: fdw
+  label: fdw
+- type: boolean
+  name: paid
+  label: paid
+- type: text
+  name: js
+  label: js
