@@ -3,7 +3,6 @@ author = "Lars Ziörjen"
 categories = ["Gesellschaft"]
 date = 2020-04-19T23:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600007515/kinder-hilfe_ptsbv4.jpg"
 img_description = "A distressed child"
