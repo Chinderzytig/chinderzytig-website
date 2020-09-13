@@ -22,7 +22,12 @@ Viele Menschen, die in Moria gelandet sind, stecken fest. Sie kommen aus Syrien,
 
 {{< definition wort="Organisationen" def="Eine Organisation ist ein Unternehmen oder eine Gruppe, die nach bestimmten Strukturen geordnet und aufgebaut ist. Eine Hilfsorganisation ist eine Gruppe, die organisiert helfen möchte." >}}
 
-{{< image img="moria_camp_xplu5h.jpg" img_description="Refugee camp in Greece" img_src="https://unsplash.com/@jricard" img_photographer="Julie Ricard">}}
+{{< image
+	img="moria_camp_xplu5h.jpg"
+	img_description="Refugee camp in Greece"
+	img_src="https://unsplash.com/@jricard"
+	img_photographer="Julie Ricard"
+>}}
 
 Mehr als 21’000 Menschen leben im Flüchtlingslager Moria auf Lesbos. Geplant ist es für etwa 2800 Menschen, also deutlich weniger. Es fehlt an Wasser, an Lebensmittel, an Medikamenten. «Gewohnt» wird in einfachen Zelten ohne grössere Ausrüstung. Hauptsache, eine Plane über dem Kopf.
 
