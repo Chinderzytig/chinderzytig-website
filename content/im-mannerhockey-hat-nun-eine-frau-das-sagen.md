@@ -1,6 +1,6 @@
 +++
 author = "Lars Ziörjen"
-categories = ["Gesellschaft"]
+categories = ["Europa", "Gesellschaft"]
 date = 2020-05-27T23:00:00Z
 description = ""
 fdw = false
@@ -10,7 +10,7 @@ img_photographer = "Jerry Yu"
 img_src = "https://unsplash.com/@jerryyu"
 paid = false
 slug = "frauen-im-maennersport"
-tags = ["Rechte"]
+tags = ["Schweiz", "Rechte"]
 title = "Im Männerhockey hat nun eine Frau das Sagen"
 
 +++
