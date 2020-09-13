@@ -10,7 +10,7 @@ img_photographer = "King's Church International"
 img_src = "https://unsplash.com/@kingschurchinternational"
 paid = false
 slug = "megxit"
-tags = ["Personen"]
+tags = ["Großbritannien", "Personen"]
 title = "Nach dem Brexit folgte der Megxit"
 
 +++
