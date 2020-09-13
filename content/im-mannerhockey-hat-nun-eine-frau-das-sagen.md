@@ -28,7 +28,7 @@ Der Fussball ist weltweit berühmter und beliebter als Eishockey, weshalb vielle
 
 ​In der Schweiz kannte man vor vielen Jahren ein Beispiel, das einem Verein auf die Beine geholfen und ihn zu vielen Erfolgen geführt hat: Gigi Oeri. Sie hat viel Geld investiert, um den FC Basel zu dem zu machen, wofür man ihn kennt und fürchtet. Ansonsten Frauen in der Chefetage? Fehlanzeige.
 
-{{< image >}} {{< photo img="v1599988764/frauen-im-maennersport_2_azvt78.jpg" desc="two women footballers fight for the ball" >}} {{< caption photographer="Jeffrey F Lin" src="https://unsplash.com/@jeffreyflin" >}} {{< /image >}}
+{{< image >}} {{< photo img="frauen-im-maennersport-2_m5qjnu.jpg" desc="two women footballers fight for the ball" >}} {{< caption photographer="Jeffrey F Lin" src="https://unsplash.com/@jeffreyflin" >}} {{< /image >}}
 
 In Deutschland sieht das ähnlich aus. Es gibt zwei bekannte Frauen, die im Verwaltungsrat sitzen. Wiebke Gorny bei Red Bull Leipzig und Sandra Schwedler beim FC St. Pauli.
 
