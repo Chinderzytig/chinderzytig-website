@@ -3,7 +3,6 @@ author = ""
 categories = ["Politik"]
 date = 2020-02-02T00:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1599985327/brexitisreal_tqvitt.jpg"
 img_description = "Two British protesters against Brexit"
