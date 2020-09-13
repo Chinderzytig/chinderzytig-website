@@ -3,7 +3,6 @@ author = ""
 categories = ["Politik"]
 date = 2020-02-02T00:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1599985327/brexitisreal_tqvitt.jpg"
 img_description = "Two British protesters against Brexit"
@@ -23,6 +22,6 @@ Warum Brexit? Vor einigen Jahren stellte der damalige Premierminister David Came
 
 Warum kein Brexit? Die Gegner des Brexit befürchten, dass Grossbritannien sich nun {{< fremdwort wort="isolieren" >}} wird. Es gibt viele Abmachungen, die den Handel und das Geld betreffen, die neu vereinbart werden müssen. Vermutlich zu Ungunsten der Briten. Das Reisen wird erschwert, der Handel sowieso, die militärische Sicherheit vermutlich auch. Und wohin wird sich Grossbritannien richten? Allein geht es auf der Welt wohl kaum. Werden sie engere Freunde mit Donald Trump’s USA? Oder mit Wladimir Putin’s Russland? Die Angst und Unsicherheiten sind riesig.
 
-{{< definition wort="Isolation/Isoliert" def="Wenn man isoliert ist, ist man alleine, einsam, abgeschottet, für sich, ohne Zugang nach aussen. Diebe können in Isolationshaft sein, ohne Kontakt nach aussen. Man braucht der Begriff aber auch z.B. im Handwerklichen, wenn ein Rohr oder ein Raum gut isoliert, gut verdichtet ist." >}}
+{{< definition wort="isolieren" def="Wenn man isoliert ist, ist man alleine, einsam, abgeschottet, für sich, ohne Zugang nach aussen. Diebe können in Isolationshaft sein, ohne Kontakt nach aussen. Man braucht der Begriff aber auch z.B. im Handwerklichen, wenn ein Rohr oder ein Raum gut isoliert, gut verdichtet ist." >}}
 
 ​Von aussen betrachtet, hat das Machtspiel von David Cameron Grossbritannien zerrissen und in eine schwierige Situation geführt. Nun wird der Brexit durchgeführt; komme, was wolle. Ob das für Ruhe und Stabilität in Grossbritannien oder auch in der EU führt, ist fraglich.
