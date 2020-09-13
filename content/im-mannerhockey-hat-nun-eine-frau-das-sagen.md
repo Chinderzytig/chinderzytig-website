@@ -29,6 +29,8 @@ Der Fussball ist weltweit berühmter und beliebter als Eishockey, weshalb vielle
 
 ​In der Schweiz kannte man vor vielen Jahren ein Beispiel, das einem Verein auf die Beine geholfen und ihn zu vielen Erfolgen geführt hat: Gigi Oeri. Sie hat viel Geld investiert, um den FC Basel zu dem zu machen, wofür man ihn kennt und fürchtet. Ansonsten Frauen in der Chefetage? Fehlanzeige.
 
+{{< image img="maennersport_2_azvt78.jpg" img_description="two women footballers fight for the ball" img_src="https://unsplash.com/@jeffreyflin" img_photographer="Jeffrey F Lin">}}
+
 In Deutschland sieht das ähnlich aus. Es gibt zwei bekannte Frauen, die im Verwaltungsrat sitzen. Wiebke Gorny bei Red Bull Leipzig und Sandra Schwedler beim FC St. Pauli.
 
 Wenn eine Schiedsrichterin pfeift, muss sie sich stets mit fiesen Kommentaren auseinandersetzen. Das war so bei der Schweizerin Nicole Petignat, immerhin WM-Schiedsrichterin, und auch bei der Deutschen Bibiana Steinhaus. Wenn eine Frau im TV eine Sportsendung moderiert, unterstellen viele dieser automatisch kaum Wissen und auch dort entstehen viele, fiese Kommentare. Das ist so bei Steffi Buchli, die wohl bekannteste Sportkommentatorin und baldige Sportchefin beim BlickTV, als auch bei Carmen Thomas. Sie war 1973 die erste deutsche Sportkommentatorin. Leider hat sie sich einen Versprecher erlaubt: Anstatt Schalke 04 sagte sie Schalke 05. Es hagelte Proteste, sie verlor den Job.
