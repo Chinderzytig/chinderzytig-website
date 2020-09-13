@@ -5,10 +5,10 @@ date = 2020-04-19T23:00:00Z
 description = ""
 draft = true
 fdw = false
-hero_img = "/v1600007105/kinder-hilfe_qkdc0e.jpg"
-img_description = "Child with tears running down his face"
-img_photographer = "Kat J"
-img_src = "https://unsplash.com/@kj2018"
+hero_img = "/v1600007515/kinder-hilfe_ptsbv4.jpg"
+img_description = "A distressed child"
+img_photographer = "Emiliano Vittoriosi"
+img_src = "https://unsplash.com/@emilianovittoriosi"
 paid = false
 slug = "kinderhilfe"
 tags = ["Soziales"]
@@ -22,6 +22,8 @@ Homeoffice. Fernunterricht. Kinderbetreuung. Eigenleben. Alles auf engstem Raum.
 ## Familien sind belastet, Sorgentelefon wird beansprucht
 
 Viele Familien stossen in diesen Zeiten an ihre Grenzen. Streit unter Eltern, Streit mit den Kindern. Lehrpersonen, die oftmals auch als beobachtende Schutzpersonen wirken, verlieren die Nähe zu ihren Schülerinnen und Schülern. Was in den eigenen vier Wänden geschieht, bleibt dahinter verborgen. Tatsache ist: Seit Beginn der Coronakrise haben die Anrufe unter der Nummer 147 um einen Drittel zugenommen. Das heisst: es rufen dreimal mehr Kinder und Jugendliche an, als für gewöhnlich. Die Telefonnummer 147 ist das Sorgentelefon für Mädchen und Jungs in jedem Alter, 24 Stunden am Tag - und anonym. Das heisst, man muss den Namen nicht verraten, erhält dennoch ein offenes Ohr und Unterstüng. Wer nicht anrufen mag, findet Hilfe auch online unter [www.147.ch](http://www.147.ch/)
+
+{{< image img="kinder-hilfe-2_bvsftw.jpg" desc="Help line 147" src="https://www.147.ch/de/" photographer="147.ch" >}}
 
 ## Polizei vermeldet keine Zunahme
 
