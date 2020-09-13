@@ -71,6 +71,7 @@ fields:
     off</strong>. For now there are no paid articles, so the default is off.
   default: false
 pages:
+- content/das-fest-der-spende-und-zusammenkunft-in-der-krise.md
 - content/grossbritannien-und-die-eu-gehen-getrennte-wege.md
 - content/im-mannerhockey-hat-nun-eine-frau-das-sagen.md
 - content/nach-dem-brexit-folgte-der-megxit.md
