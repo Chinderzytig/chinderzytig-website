@@ -71,4 +71,5 @@ fields:
     off</strong>. For now there are no paid articles, so the default is off.
   default: false
 pages:
+- content/nach-dem-brexit-folgte-der-megxit.md
 - content/wer-hilft-den-gestrandeten-kindern-von-moria.md
