@@ -71,5 +71,6 @@ fields:
     off</strong>. For now there are no paid articles, so the default is off.
   default: false
 pages:
+- content/grossbritannien-und-die-eu-gehen-getrennte-wege.md
 - content/nach-dem-brexit-folgte-der-megxit.md
 - content/wer-hilft-den-gestrandeten-kindern-von-moria.md
