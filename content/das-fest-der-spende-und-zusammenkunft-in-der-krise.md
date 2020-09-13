@@ -21,7 +21,6 @@ Die Muslimen glauben ebenfalls an einen Gott. Diesen nennen sie “Allah”. Auc
 
 ## Wenig essen und viel nachdenken
 
-  
 Der Ramadan ist der neunte Monat im islamischen Mondkalender und dauert 30 Tage. Während dieser Zeit fasten die Muslime. Sie essen und trinken nur zwischen Sonnenuntergang und Sonnenaufgang. Sie trinken in dieser Zeit auch kein Wasser. Das Fasten gehört zu den Hauptpflichten der Muslimen. Allerdings sind schwangere Frauen, Kinder bis 14 Jahre und ältere und kranke Menschen ausgenommen. Sie müssen nicht fasten. Ramadan kommt vom arabischen Wort “ramida” und heisst “brennende Hitze und Trockenheit”. Diese Bedeutung bezieht sich auf das Gefühl des Magens. Während des Ramadans brennt der Magen des Fastenden – er ist leer und trocken. Das Ziel dieser Zeit ist die Reinigung des Körpers und der Seele. Daneben ist das Zusammenleben und das Spenden an andere sehr wichtig. In dieser Zeit erinnern sich die Personen, die fasten, daran was sie haben. Sie lernen es noch mehr zu schätzen. Bei Sonnenuntergang beginnt das Essen. Immer begleitet vom Beten. Dabei isst und trinkt man oft mit Freunden und vor allem auch ausgewogen. Nur so können die Menschen wieder rund 16 Stunden nichts essen und trinken.
 
 ## Ramadan und Coronavirus
