@@ -1,21 +1,21 @@
 ---
 title: Ein Virus versetzt die Welt in Aufruhr
 slug: coronavirus
-description: 
+description:
 date: 2020-02-23T16:54:31.000+02:00
-author: 
+author:
 hero_img: coronavirus_rgdsvi.jpg
-img_description: 
+img_description:
 img_photographer: Waldemar Brandt
 img_src: https://unsplash.com/@waldemarbrandt67w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
-categories:
+kategorien:
 - Gesundheit
 - Welt
-tags:
+markierungen:
 - COVID-19
 fdw: false
 paid: false
-
+artikel: true
 ---
 Nach wie vor beschäftigt sich die Menschheit mit dem Corona-Virus. Ein kleines,
 unsichtbares Ding, das sich (noch) nicht bekämpfen lässt und von Mensch zu

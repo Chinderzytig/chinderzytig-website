@@ -8,9 +8,10 @@ hero_img:
 img_description:
 img_photographer:
 img_src:
-categories: []
-tags: []
+kategorien: []
+markierungen: []
 fdw: false
 paid: false
+artikel: true
 draft: true
 ---

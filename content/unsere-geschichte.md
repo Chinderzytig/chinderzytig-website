@@ -1,6 +1,7 @@
 ---
 title: "Unsere Geschichte"
 layout: unsere-geschichte
+artikel: false
 ---
 
 Die Idee von chinderzytig.ch sowie von [jugendzytig.ch](https://www.jugendzytig.ch/)

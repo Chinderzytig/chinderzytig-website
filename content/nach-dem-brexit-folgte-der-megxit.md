@@ -1,6 +1,7 @@
 +++
+artikel = true
 author = "Sarinia Branschi"
-categories = ["Gesellschaft"]
+kategorien = ["Gesellschaft"]
 date = 2020-05-18T23:00:00Z
 description = ""
 fdw = false
@@ -10,7 +11,7 @@ img_photographer = "King's Church International"
 img_src = "https://unsplash.com/@kingschurchinternational"
 paid = false
 slug = "megxit"
-tags = ["Großbritannien", "Personen"]
+markierungen = ["Großbritannien", "Personen"]
 title = "Nach dem Brexit folgte der Megxit"
 
 +++
