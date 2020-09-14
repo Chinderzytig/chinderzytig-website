@@ -3,7 +3,6 @@ artikel = true
 author = ""
 date = 2020-03-15T00:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600109297/so-schu%CC%88tzen-wir-uns_eima92.jpg"
 img_description = "The dos and donts during Corona"
