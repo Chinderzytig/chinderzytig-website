@@ -1,4 +1,5 @@
 +++
+artikel = true
 author = "Lars Ziörjen"
 categories = ["Europa", "Gesellschaft"]
 date = 2020-05-27T23:00:00Z

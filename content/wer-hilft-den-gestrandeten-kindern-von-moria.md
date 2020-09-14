@@ -1,4 +1,5 @@
 +++
+artikel = true
 author = ""
 categories = ["Gesellschaft"]
 date = 2020-01-05T00:00:00Z

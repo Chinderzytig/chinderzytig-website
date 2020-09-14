@@ -1,4 +1,5 @@
 +++
+artikel = true
 author = "Seraina Branschi"
 categories = ["Welt", "Gesellschaft"]
 date = 2020-04-21T23:00:00Z

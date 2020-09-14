@@ -12,5 +12,6 @@ categories: []
 tags: []
 fdw: false
 paid: false
+artikel: true
 draft: true
 ---
