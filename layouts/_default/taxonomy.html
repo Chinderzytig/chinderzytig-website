@@ -1,0 +1,37 @@
+{{define "main"}}
+	<section class="taxonomy__markers">
+		{{ $tags := slice }}
+		{{ $link := string .Permalink }}
+
+		{{ range .Pages.ByLinkTitle.Reverse }}
+			{{ range (.GetTerms "tags") }}
+				{{ $tags = $tags | append . }}
+			{{ end }}
+		{{ end }}
+
+		{{ $tags = $tags | uniq }}
+
+		{{ if in $link "categories"}}
+			{{ range $tags }}
+				<a href="{{ .Permalink }}" class="marker">{{ .LinkTitle }}</a>
+			{{ end }}
+		{{ end }}
+
+	</section>
+
+	<section class="card__list">
+		<h2 class="heading heading__secondary">Alle Artikel: {{ .Title }}</h2>
+		<div class="card__container">
+			{{ range .Pages.ByTitle }}
+				<a href="{{.RelPermalink}}" class="card card--grey">
+					<div style="background:url({{ .Site.Params.cloudinary_url }}/c_scale,h_170,w_300,q_auto:good/{{ .Params.hero_img }})" class="card__photo"></div>
+					<div class="card__content">
+						<h3 class="card__content-title">{{ .Title }}</h3>
+						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+					</div>
+				</a>
+			{{ end }}
+		</div>
+		<p></p>
+	</section>
+{{end}}

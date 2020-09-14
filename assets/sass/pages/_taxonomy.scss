@@ -1,0 +1,9 @@
+.taxonomy {
+
+	&__markers {
+		@include container-main;
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+	}
+}
