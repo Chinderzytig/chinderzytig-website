@@ -3,5 +3,8 @@ languageCode = "de"
 title = "Chinderzytig - Die Zeitung für Kinder und Jungendliche"
 disqusShortname = "chinderzytig"
 [params]
-    DateForm = "2.01.2006"
-		cloudinary_url = "https://res.cloudinary.com/chinderzytig/image/upload"
+	DateForm = "2.01.2006"
+	cloudinary_url = "https://res.cloudinary.com/chinderzytig/image/upload"
+[taxonomies]
+	katagorie = "kategorien"
+	markierung = "markierungen"

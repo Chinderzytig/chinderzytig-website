@@ -1,7 +1,7 @@
 +++
 artikel = true
 author = "Lars Ziörjen"
-categories = ["Europa", "Gesellschaft"]
+kategorien = ["Europa", "Gesellschaft"]
 date = 2020-04-19T23:00:00Z
 description = ""
 fdw = false
@@ -11,7 +11,7 @@ img_photographer = "Emiliano Vittoriosi"
 img_src = "https://unsplash.com/@emilianovittoriosi"
 paid = false
 slug = "kinderhilfe"
-tags = ["Schweiz", "Soziales"]
+markierungen = ["Schweiz", "Soziales"]
 title = "Kinder in Not - hier wird dir geholfen"
 
 +++

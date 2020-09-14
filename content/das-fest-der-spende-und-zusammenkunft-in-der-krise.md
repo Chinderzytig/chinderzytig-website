@@ -1,7 +1,7 @@
 +++
 artikel = true
 author = "Seraina Branschi"
-categories = ["Welt", "Gesellschaft"]
+kategorien = ["Welt", "Gesellschaft"]
 date = 2020-04-21T23:00:00Z
 description = ""
 fdw = false
@@ -11,7 +11,7 @@ img_photographer = "Levi Clancy"
 img_src = "https://unsplash.com/@leviclancy"
 paid = false
 slug = "ramadan"
-tags = [" Religion / Tradition"]
+markierungen = [" Religion / Tradition"]
 title = "Das Fest der Spende und Zusammenkunft – in der Krise?"
 
 +++

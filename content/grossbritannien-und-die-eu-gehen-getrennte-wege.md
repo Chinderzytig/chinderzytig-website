@@ -1,7 +1,7 @@
 +++
 artikel = true
 author = ""
-categories = ["Politik"]
+kategorien = ["Politik"]
 date = 2020-02-02T00:00:00Z
 description = ""
 fdw = false
@@ -11,7 +11,7 @@ img_photographer = "Jannes Van den wouwer"
 img_src = "https://unsplash.com/@jannesvdw"
 paid = false
 slug = "brexitisreal"
-tags = ["Europa"]
+markierungen = ["Europa"]
 title = "Grossbritannien und die EU gehen getrennte Wege"
 
 +++

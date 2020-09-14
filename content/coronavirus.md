@@ -8,10 +8,10 @@ hero_img: coronavirus_rgdsvi.jpg
 img_description:
 img_photographer: Waldemar Brandt
 img_src: https://unsplash.com/@waldemarbrandt67w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
-categories:
+kategorien:
 - Gesundheit
 - Welt
-tags:
+markierungen:
 - COVID-19
 fdw: false
 paid: false
