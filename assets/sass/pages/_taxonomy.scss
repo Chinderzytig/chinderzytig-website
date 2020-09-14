@@ -1,0 +1,13 @@
+.taxonomy {
+	@include container-main;
+
+	&__markers {
+		border: 4px solid $chinder-cultured;
+		padding: 0 3rem 3rem 3rem;
+		display: flex;
+		justify-content: space-between;
+		flex-flow: row wrap;
+		margin-top: -5.5rem;
+		z-index: -1;
+	}
+}
