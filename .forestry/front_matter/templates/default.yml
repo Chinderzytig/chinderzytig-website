@@ -44,8 +44,7 @@ fields:
   label: img_src
   description: Enter the URL of where you got the photo from.
 - type: list
-  name: categories
-  label: categories
+  name: kategorien
   description: 'Add any categories to the article. The categories are: <strong>Nordamerika</strong>,
     <strong>Südamerika</strong>, <strong>Europa</strong>, <strong>Afrika</strong>,
     <strong>Asien</strong>, <strong>Australien</strong>, <strong>Antarktis</strong>,
@@ -54,9 +53,10 @@ fields:
     Universum</strong>, <strong>Welt</strong>'
   config:
     use_select: false
+  label: kategorien
 - type: list
-  name: tags
-  label: tags
+  name: markierungen
+  label: markierungen
   description: Add any tags to the article. Tags can be anything that isn't a category.
 - type: boolean
   name: fdw
