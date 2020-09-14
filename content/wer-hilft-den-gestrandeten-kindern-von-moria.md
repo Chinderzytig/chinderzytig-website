@@ -1,7 +1,7 @@
 +++
 artikel = true
 author = ""
-kategorien = ["Gesellschaft"]
+kategorien = ["Gesellschaft", "Europa"]
 date = 2020-01-05T00:00:00Z
 description = ""
 fdw = false
@@ -11,7 +11,7 @@ img_photographer = "Siddhant Soni"
 img_src = "https://unsplash.com/@52nd_"
 paid = false
 slug = "kinder-von-moria"
-markierungen = ["Migration"]
+markierungen = ["Migration", "Griechenland"]
 title = "Wer hilft den gestrandeten Kindern von Moria?"
 
 +++
