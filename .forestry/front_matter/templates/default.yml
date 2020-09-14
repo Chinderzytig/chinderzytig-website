@@ -70,6 +70,11 @@ fields:
   description: Is this a paid article? If yes, <strong>turn on</strong>, if no, <strong>keep
     off</strong>. For now there are no paid articles, so the default is off.
   default: false
+- name: artikel
+  type: boolean
+  label: artikel
+  default: true
+  hidden: true
 pages:
 - content/corona-halt-die-welt-auf-trab.md
 - content/das-fest-der-spende-und-zusammenkunft-in-der-krise.md
