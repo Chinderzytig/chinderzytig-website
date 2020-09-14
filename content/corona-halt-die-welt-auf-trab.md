@@ -1,5 +1,5 @@
 +++
-artikel = true
+artikel = false
 author = "P.B. und Lars Ziörjen"
 categories = []
 date = 2020-03-15T00:00:00Z
