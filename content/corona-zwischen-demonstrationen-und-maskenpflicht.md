@@ -3,7 +3,6 @@ artikel = true
 author = "Seraina Branschi"
 date = 2020-05-26T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600157127/corona-demonstrationen_ql40rs.jpg"
 img_description = "Anti-corona protest sign"
@@ -24,7 +23,7 @@ Einschränkungen lösen bei vielen Unmut aus. Mit der Vorgabe von der Maskenpfli
 
 In der Schweiz hat es in der letzten Zeit mehr Demonstrationen gegeben, speziell in Bern und Zürich. Die Demonstranten kämpfen für Menschenrechte und fühlen sich von den Einschränkungen um ihre Rechte beraubt. Ihrer Ansicht nach, ist das Ziel der Einschränkungen nicht die Eindämmung des Virus. Es geht viel mehr darum die Menschen zu kontrollieren, so lautet ihre Meinung. Die widersprüchlichen Aussagen der Medien bestärken diese Ansicht: Während ein Virologe sagt, die Maske schütze zu 100% vor dem Virus, sagt ein anderer, dass die Maske kaum etwas nütze. Wem sollen wir da glauben schenken? Solche Aussagen sorgen für Verwirrung. Die Entscheidungen, wie weiter, trifft alleine der Bundesrat. Demonstranten und Demonstrantinnen haben Angst um die Demokratie – um den Einbezug des Volkes bei Entscheidungen. Doch werden wir nun wirklich um unsere Menschenrechte betrogen?
 
-{{< image img="Enter file with ext. here" desc="A group of riot police waiting" src="https://unsplash.com/@elektrollart" photographer="Mike Powell" >}}
+{{< image img="corona-demonstrationen-2_mzwhjk.jpg" desc="A group of riot police waiting" src="https://unsplash.com/@elektrollart" photographer="Mike Powell" >}}
 
 ## Zwischen Empfehlungen und Pflichten
 
