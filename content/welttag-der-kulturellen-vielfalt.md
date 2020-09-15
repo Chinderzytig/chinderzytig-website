@@ -3,7 +3,6 @@ artikel = true
 author = "Seraina Branschi"
 date = 2020-05-21T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600197827/welttag-kulturelle-vielfalt_lc19qx.jpg"
 img_description = "Painted mural of colourful hands"
@@ -24,9 +23,11 @@ Am Tag der kulturellen Vielfalt steht die Unterschiedlichkeit im Zentrum. Es wir
 
 ## Von den unbekannten Völkern zu den Weltvölkern
 
-Der Dialog – Austausch – zwischen verschiedenen Kulturen ist zentral für den Frieden in unserer Welt. Warum soll es nun genau wichtig sein, dass wir über die verschiedenen Kulturen Bescheid wissen? Im interkulturellen Dialog geht es um Respekt, Freiheit und Offenheit. Dabei sollen unterschiedliche Religionen, Sprachen, Ethnien, Kulturen oder Traditionen respektiert und akzeptiert werden. Zu Ethnien gehören zum Beispiel {{< fremdwort wort="Aborigines" >}} Es geht um abgrenzbare soziale Gruppen, die als eigene Völker gelten. Wüssten wir nichts von den anderen Völkern, Sprachen oder Religionen, könnten wir uns nicht mit denen verständigen. Wir könnten nicht nachvollziehen, warum sie nicht dasselbe glauben wie wir. Dies könnte zu noch mehr Kriegen und Konflikten auf der Erde führen. Von verschiedenen Kulturen können wir lernen. Wir können unseren Horizont, unser Wissen und unsere Fähigkeiten erweitern. Genau deshalb braucht es den Welttag der kulturellen Vielfalt.
+Der Dialog – Austausch – zwischen verschiedenen Kulturen ist zentral für den Frieden in unserer Welt. Warum soll es nun genau wichtig sein, dass wir über die verschiedenen Kulturen Bescheid wissen? Im interkulturellen Dialog geht es um Respekt, Freiheit und Offenheit. Dabei sollen unterschiedliche Religionen, Sprachen, Ethnien, Kulturen oder Traditionen respektiert und akzeptiert werden. Zu Ethnien gehören zum Beispiel {{< fremdwort wort="Aborigines" >}}. Es geht um abgrenzbare soziale Gruppen, die als eigene Völker gelten. Wüssten wir nichts von den anderen Völkern, Sprachen oder Religionen, könnten wir uns nicht mit denen verständigen. Wir könnten nicht nachvollziehen, warum sie nicht dasselbe glauben wie wir. Dies könnte zu noch mehr Kriegen und Konflikten auf der Erde führen. Von verschiedenen Kulturen können wir lernen. Wir können unseren Horizont, unser Wissen und unsere Fähigkeiten erweitern. Genau deshalb braucht es den Welttag der kulturellen Vielfalt.
 
 {{< definition wort="Aborigines" def="(sprich: Äboritschiniis) So nennt man die Ureinwohner Australiens." >}}
+
+{{< image img="welttag-kulturelle-vielfalt-2_qwblws.jpg" desc="Different cultures at the Australian Day Parade" src="https://unsplash.com/@mitchel3uo" photographer="Mitchell Luo" >}}
 
 ## Kulturelle Vielfalt und Frieden​
 
