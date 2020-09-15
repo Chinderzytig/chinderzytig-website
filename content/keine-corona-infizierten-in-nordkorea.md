@@ -3,7 +3,6 @@ artikel = true
 author = "Michèle Häberli"
 date = 2020-06-05T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600159050/nordkorea-und-corona_y2xjuu.jpg"
 img_description = "A North Korean standing on the metro in Pyongyang"
@@ -26,6 +25,8 @@ Um diese Frage zu beantworten, muss man verstehen, dass Nordkorea anders tickt a
 
 {{< definition wort="sozialistisch" def="Ein sozialstischer Staat wird oft durch eine Einheitspartei regiert und orientiert sich ideologisch dem Sozialismus bzw. Kommunismus. Dabei werden grosse Teile der Wirtschaft durch den Staat kontrolliert. Dadurch soll auch die Gleichverteilung des Reichtums unter der Gesellschaft ermöglicht werden." >}}
 
+{{< image img="nordkorea-und-corona-2_icozwb.jpg" desc="North Koreans reading a newspaper in the Pyongyang metro" src="https://unsplash.com/@randominstitute" photographer="Random Institute" >}}
+
 Die Menschen werden in Klassen eingeteilt. Ihre Herkunft und Treue zur Regierung bestimmen, wie gut es ihnen geht. Denn alle Lebensbereiche sind an das Kastensystem gebunden. Die Kasten entscheiden über die Menge an Nahrungsmitteln, die man bekommt, den Wohnort, die Ausbildung, wen man heiraten darf, und weiteres. Das alles wird durch die staatlichen Behörden je nach Stand in der Gesellschaft festgelegt. Fällt jemand als störend oder systemkritisch auf, wird er je nach Tat zu verschiedensten Strafen verurteilt. Auch die Familie des «Täters» bleibt von diesen Strafen nicht verschont. Dies macht das Organisieren von Widerständen unmöglich. Die hoch ausgebildete koreanische Volksarmee von über einer Million "Mann" stellt eine der grössten Barrieren für die Bevölkerung dar.
 
 ## Wenn Zustimmung zum wichtigsten Recht wird
@@ -45,8 +46,8 @@ Frank, Rüdiger (2013) Nordkorea: Zwischen Stagnation und Veränderungsdruck. In
 
 Abbildungen 1 und 2: [https://www.dw.com/de/coronavirus-ist-nordkorea-virenfrei/a-53045752](https://www.dw.com/de/coronavirus-ist-nordkorea-virenfrei/a-53045752 "https://www.dw.com/de/coronavirus-ist-nordkorea-virenfrei/a-53045752") (Stand: 12.05.2020)
 
+{{< teiler >}}
+
 ## Arbeitsmaterial
 
-{{< arbeitsmaterial file="add file name here" >}}
-
-{{< teiler >}}
+{{< arbeitsmaterial file="nordkorea-und-corona-arbeitsmaterial_ofbj21.pdf" >}}
