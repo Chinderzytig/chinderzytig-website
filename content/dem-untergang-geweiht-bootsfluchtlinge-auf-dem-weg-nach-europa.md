@@ -12,7 +12,7 @@ img_src = "https://pixabay.com/users/geralt-9301/"
 kategorien = ["Gesellschaft", "Afrika", "Europa"]
 markierungen = ["Mittelmeer", "Migration"]
 paid = false
-slug = "mittelmeerflucht"
+slug = "mittelmeer-flucht"
 title = "Dem Untergang geweiht?  – Bootsflüchtlinge auf dem Weg nach Europa"
 
 +++
