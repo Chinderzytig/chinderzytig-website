@@ -3,7 +3,6 @@ artikel = true
 author = "Seraina Branschi"
 date = 2020-05-05T23:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600155256/Corona-und-mein-Sackgeld_q3ywnn.jpg"
 img_description = "A pile of Swiss Rappen"
@@ -26,7 +25,7 @@ Wir hören in letzter Zeit viel davon, dass das Coronavirus die {{< fremdwort wo
 
 Jeder schaut jetzt mehr auf sein eigenes Geld, weil uns weniger davon zur Verfügung steht. Unsere Eltern verdienen vielleicht weniger oder erhalten weniger Aufträge als vor dem Coronavirus. Das hat finanzielle Auswirkungen. Zudem wissen wir nicht, wie lange wir noch mit gewissen Einschränkungen leben müssen. Wegen dieser Unsicherheit gehen wir vorsichtiger mit unserem Geld um und geben es vorsichtiger aus. Deshalb kaufen wir eher lebensnotwendige Dinge, wie Essen. Das belastet die anderen Geschäfte wie zum Beispiel die Möbel oder Kleider. Um Löhne zu zahlen, muss ein Laden einiges verkaufen. Zwar gibt es Hilfe, damit Eltern ihren Lohn erhalten. Das geht jedoch nicht unbeschränkt. Vielleicht spürst du das sogar bei deinem Sackgeld? Viele Kinder erhalten von den Eltern Sackgeld. Einen Zustupf für etwas Süsses oder ein paar ganz spezielle neue Schuhe. Doch in der momentanen Situation können wir uns vielleicht weniger leisten – die extra Süssigkeit muss warten.
 
-{{< image img="Enter file with ext. here" desc="Coin being dropped into a piggy bank" src="[https://unsplash.com/@spanic](https://unsplash.com/@spanic "https://unsplash.com/@spanic")" photographer="Damir Spanic" >}}
+{{< image img="Corona-und-mein-Sackgeld-2_ywtrme.jpg" desc="Coin being dropped into a piggy bank" src="https://unsplash.com/@spanic" photographer="Damir Spanic">}}
 
 ## Heute weniger ausgeben und morgen mehr verdienen
 
