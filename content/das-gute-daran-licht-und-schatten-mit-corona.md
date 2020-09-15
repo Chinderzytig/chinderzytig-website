@@ -3,7 +3,6 @@ artikel = true
 author = ""
 date = 2020-04-09T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600158176/das-gute-daran_tsjmx7.jpg"
 img_description = "Empty train station - Zurich"
@@ -34,7 +33,7 @@ Wir helfen einander auch mehr: Wir gehen zum Beispiel für ältere Menschen eink
 
 Das Gute daran: wir kümmern uns vermehrt um uns, blicken aufs Wesentliche. Wir müssen nicht mehr hetzen, stressen, dieses noch erledigen, das noch tun. Wir bleiben zu Hause - kochen gemeinsam, essen in Ruhe, lesen, hören Musik, machen Musik, schauen TV, spielen Spiele. Das spüren Erwachsene und Kinder. Und ja, auch die Hygiene wird ernster genommen. Früher wuschen wir unsere Hände, wenn überhaupt, zackig. Heute achten wir uns, dass wir sie 20 - 30 Sekunden richtig rubbeln. Ganz wichtig für die eigene Gesundheit ist die Ruhe. Man kann auch einfach mal hinliegen und sich Ruhe gönnen - denn Zeit haben wir ja.
 
-{{< image img="Enter file with ext. here" desc="The landscape around Adelboden, Switzerland" src="https://unsplash.com/@biasx" photographer="Tobias Marks" >}}
+{{< image img="das-gute-daran-2_f7wspi.jpg" desc="The landscape around Adelboden, Switzerland" src="https://unsplash.com/@biasx" photographer="Tobias Marks" >}}
 
 ## Hallo, Natur!
 
