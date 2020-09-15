@@ -27,7 +27,7 @@ Da ist zum Beispiel das angefangene **Buch** das herum liegt und man fertig lese
 
 Manchmal hat man auch **Spiele wie Monopoly** die man nie spielt weil niemand mitspielt, weil sie so lange dauern. Jetzt wirst du alle dafür motivieren können!
 
-**Wichtig: bei allen Dingen immer Abstand halten!**
+## Wichtig: bei allen Dingen immer Abstand halten!
 
 Natürlich gibt es auch viele neue Sachen zum ausprobieren: Man kann so ein **neues Hobby** finden, wie Jonglieren, wofür es viele hilfreiche Inhalte im Web gibt oder Basteln indem man seine Wohnung dekorativ aufwerten kann. Für **Geniesser** gibt es im Internet viele neue und **köstliche Rezepte**, da ist für jeden was dabei.
 
