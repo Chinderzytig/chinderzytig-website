@@ -3,7 +3,6 @@ artikel = true
 author = ""
 date = 2019-12-09T12:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600194557/saudi-arabien-frauenrechte_ywtgxz.jpg"
 img_description = "Niqab clad women sitting together"
@@ -36,7 +35,7 @@ Immerhin: die Zustimmung eines männlichen Verwandten, dass die Frau arbeiten da
 
 Unter dem regierenden Prinzen Mohammed bin Salman wird nun eine Modernisierung der Gesellschaft angestrebt. Dies braucht jedoch Zeit, da viele alte Regeln als normal gelten und man das Land nicht so leicht und schnell verändern kann. Saudi Arabien ist dank dem Öl eines der reichsten Länder der Welt und bezahlt, trotz aller Härte, der Bevölkerung grosszügige {{< fremdwort wort="Sozialleistungen" >}}.
 
-{{< definition wort="add word here" def="Sozialleistungen sind meistens finanzielle Leistungen des Staates an Menschen, die diese nötig haben. Sozialleistungen können gesundheitliche Dinge sein (Medizin, Therapie) oder aber auch mit anderen Arten von Unterstützung." >}}
+{{< definition wort="Sozialleistungen" def="Sozialleistungen sind meistens finanzielle Leistungen des Staates an Menschen, die diese nötig haben. Sozialleistungen können gesundheitliche Dinge sein (Medizin, Therapie) oder aber auch mit anderen Arten von Unterstützung." >}}
 
 Weitere Links zum Thema:
 
