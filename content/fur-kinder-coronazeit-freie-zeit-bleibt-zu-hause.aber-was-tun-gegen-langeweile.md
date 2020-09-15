@@ -3,7 +3,6 @@ artikel = true
 author = "Gastbeitrag vom 6.klässler Olivier Dick"
 date = 2020-03-22T00:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600152902/corona-und-langeweile_pqj7hu.jpg"
 img_description = "Child peeking through blinds"
@@ -31,6 +30,8 @@ Manchmal hat man auch **Spiele wie Monopoly** die man nie spielt weil niemand mi
 **Wichtig: bei allen Dingen immer Abstand halten!**
 
 Natürlich gibt es auch viele neue Sachen zum ausprobieren: Man kann so ein **neues Hobby** finden, wie Jonglieren, wofür es viele hilfreiche Inhalte im Web gibt oder Basteln indem man seine Wohnung dekorativ aufwerten kann. Für **Geniesser** gibt es im Internet viele neue und **köstliche Rezepte**, da ist für jeden was dabei.
+
+{{< image img="corona-und-langeweile-2_u0aii3.jpg" desc="Child cracking egg into bowl" src="https://unsplash.com/@inkyhills" photographer="Callum Hill" >}}
 
 Oder vielleicht haben deine Eltern ein **Instrument**, dass du lernen kannst. Aber auch der **Sport** sollte nicht vernachlässigt werden:Da kann man Fahrrad fahren, Spiele wie Dosenfussball oder Verstecken spielen und mit der Familie Fussball spielen. Abstand halten!!! Körperkontakt (Zweikämpfe und so weiter) liegen momentan nicht drin!
 
