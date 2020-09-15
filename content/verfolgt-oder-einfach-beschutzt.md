@@ -3,7 +3,6 @@ artikel = true
 author = "Seraina Branschi"
 date = 2020-05-10T23:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600154362/corona-tracing_iazhgb.jpg"
 img_description = "Corona smartphone application"
