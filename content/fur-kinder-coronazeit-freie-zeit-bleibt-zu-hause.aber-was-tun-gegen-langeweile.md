@@ -15,9 +15,7 @@ slug = "corona-und-langeweile"
 title = "Für Kinder: Coronazeit = freie Zeit? Bleibt zu Hause. Aber was tun gegen Langeweile?"
 
 +++
-_Durch das neuartige Coronavirus gibt es viele Einschränkungen: Die Schulen sind geschlossen, viele Läden und Dienstleistungen sind gestoppt und Gruppen grösser als 5 sind verboten. Wichtig: Wir sollen, ja, wir müssen zu Hause bleiben, damit wir das Virus nicht weitergeben._
-
-_Dadurch sind wir viel Zuhause und hier wird es schnell langweilig. Um diese Zeit zu überbrücken, hier ein paar Tipps und Anregungen: Von Kind zu Kind! Auch für Erwachsene._
+_Durch das neuartige Coronavirus gibt es viele Einschränkungen: Die Schulen sind geschlossen, viele Läden und Dienstleistungen sind gestoppt und Gruppen grösser als 5 sind verboten. Wichtig: Wir sollen, ja, wir müssen zu Hause bleiben, damit wir das Virus nicht weitergeben. Dadurch sind wir viel Zuhause und hier wird es schnell langweilig. Um diese Zeit zu überbrücken, hier ein paar Tipps und Anregungen: Von Kind zu Kind! Auch für Erwachsene._
 
 ## Was man schon lange hätte machen wollen...
 
