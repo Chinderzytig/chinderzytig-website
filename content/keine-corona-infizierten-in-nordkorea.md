@@ -50,4 +50,6 @@ Abbildungen 1 und 2: [https://www.dw.com/de/coronavirus-ist-nordkorea-virenfrei/
 
 ## Arbeitsmaterial
 
-{{< arbeitsmaterial file="nordkorea-und-corona-arbeitsmaterial_ofbj21.pdf" >}}
+{{< arbeitsmaterial-container >}}
+	{{< arbeitsmaterial file="nordkorea-und-corona-arbeitsmaterial_ofbj21.pdf" img="nordkorea-und-corona-arbeitsmaterial_ofbj21.png" >}}
+{{< /arbeitsmaterial-container >}}
