@@ -3,7 +3,6 @@ artikel = true
 author = "Jolan Ziörjen"
 date = 2020-03-25T12:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600187913/mittelmeer-flucht_qko0pu.jpg"
 img_description = "Refugees packed onto a boat"
@@ -23,6 +22,8 @@ Mit dem sogenannten Schengen-Abkommen wurde 1990 die Einreise für Afrikaner nac
 ## Die gefährliche Reise übers Mittelmeer
 
 Von dort versuchen sie mit einfachen Booten das Mittelmeer zu überqueren. Während dieser Reisen kommt es oft vor, dass die schlecht ausgerüsteten Flüchtlingsboote in gefährliche Situationen geraten. Nicht selten sind die Boote so überfüllt, dass Menschen ins Meer fallen und ertrinken. In anderen Fällen sind die Motoren der Boote in einem so schlechten Zustand, dass sie mitten im Meer den Geist aufgeben. Die Menschen treiben dann ohne genügend Wasser und Nahrung im Mittelmeer und können nicht mehr ans Land gelangen. In solchen Situationen kamen ihnen oft Schiffe der europäischen Küstenwache zu Hilfe und brachten sie nach Europa. In Europa konnten die Migranten dann einen Antrag stellen, dass sie im Land bleiben durften (Asylantrag). Für die europäischen Länder stellte sich aber das Problem, dass abgelehnte Personen nicht in ihr Herkunftsland zurückgebracht werden konnten. Der Grund dafür ist, dass die Herkunftsländer ihre eigenen Bürgerinnen und Bürger nicht mehr aufnehmen wollen und eine Rückkehr nicht erlauben. Viele Flüchtenden sind so gestrandet in einer Sackgasse: zurück dürfen und wollen sie nicht mehr, vorwärts dürfen sie jedoch ebenfalls nicht. Was bleibt ist das Leben in Auffanglagern in Lampedusa oder auf Lesbos ([Kinder von Moria](https://chinderzytig-v1.netlify.app/kinder-von-moria/ "Kinder von Moria")).
+
+{{< image img="mittelmeer-flucht-2_h53emh.png" desc="Mediterranean mirgrant map" src="https://data2.unhcr.org/en/situations/mediterranean" photographer="UNHCR" >}}
 
 ## Weiterlesen für Fortgeschrittene: Flüchtlingsregeln in Europa
 
