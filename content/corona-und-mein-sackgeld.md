@@ -1,7 +1,7 @@
 +++
 artikel = true
 author = "Seraina Branschi"
-date = 2020-05-05T23:00:00Z
+date = 2020-05-06T11:00:00Z
 description = ""
 fdw = false
 hero_img = "/v1600155256/Corona-und-mein-Sackgeld_q3ywnn.jpg"
