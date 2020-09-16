@@ -3,7 +3,6 @@ artikel = true
 author = "Lars Ziörjen"
 date = 2020-04-28T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600263627/impfstoffe_dzysfb.jpg"
 img_description = "A nurse in the process of administering a vaccination in the shoulder of a young boy."
@@ -22,10 +21,9 @@ Ihr habt sicher alle schon vom Impfen gehört, vielleicht seid ihr selbst gegen 
 
 ## Wie funktioniert denn das überhaupt?
 
-  
 Eine Impfung ist wie eine zusätzliche Schulstunde für den Körper. Indem lebendige oder tote Teile des Krankheitserregers (Virus oder Bakterium) in den Körper gespritzt werden, wird der Körper geweckt. Der Körper bildet nun Abwehrkräfte, die gegen die Krankheit kämpfen. Die Abwehrkräfte des Körpers geben nun Gas und versuchen, den Fremdkörper zu zerstören. Es gibt auch eine andere Form der Impfung, bei der dem Körper direkt Abwehrkräfte gespritzt erhalten. Grundsätzlich geht es darum, die Abwehr des Körpers zu stärken, um die Krankheit zu entfernen. Die Mediziner forschen bei der Neuentwicklung von Impfstoffen immer mit dem Virus oder dem Bakterium. Der Körper muss den Krankheitserreger kennen lernen, um dagegen kämpfen zu können.
 
-{{< image img="Enter file with ext. here" desc="A Microbiologist at work in a laboratory" src="https://unsplash.com/@cdc" photographer="CDC" >}}
+{{< image img="impfstoffe-2_inysev.jpg" desc="A Microbiologist at work in a laboratory" src="https://unsplash.com/@cdc" photographer="CDC" >}}
 
 ## Was heisst das jetzt bei Corona?
 
