@@ -33,7 +33,9 @@ In Europa konnten schon vor über 2000 Jahren viele Menschen lesen oder schreibe
 
 ## Wichtig für unser Leben
 
-Am 8. September ist der Welttag der Alphabetisierung. An diesem Tag will die UNESCO (Link zum Glossar) daran erinnern, wie wichtig es für unser Leben ist, dass wir lesen und schreiben können. Denn nur so, können die Menschen ganz selbständig sein.
+Am 8. September ist der Welttag der Alphabetisierung. An diesem Tag will die {{< fremdwort wort="UNESCO" >}} daran erinnern, wie wichtig es für unser Leben ist, dass wir lesen und schreiben können. Denn nur so, können die Menschen ganz selbständig sein.
+
+{{< definition wort="UNESCO" def="Die United Nations Educational, Scientific and Cultural Organization oder auf Deutsch, die Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur setzt sich für die Förderung in diversen Bereichen ein. Dazu gehört die Erziehung, Wissenschaft und Kultur sowie Kommunikation und Information. Ihre Aufgabe ist es, weltweit für die Weiterentwicklung in diesen Bereichen zu sorgen." >}}
 
 {{< teiler >}}
 
