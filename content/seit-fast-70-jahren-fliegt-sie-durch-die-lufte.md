@@ -45,4 +45,4 @@ Rega Homepage: [https://www.rega.ch/](https://www.rega.ch/ "https://www.rega.ch/
 
 ## Arbeitsmaterial
 
-{{< arbeitsmaterial-container >}} {{< arbeitsmaterial file="rega-arbeitsmaterial_g35awb.pdf" img="rega-arbeitsmaterial_g35awb.png" >}} {{< /arbeitsmaterial-container >}}
+{{< arbeitsmaterial-container >}} {{< arbeitsmaterial file="rega-arbeitsmaterial_g35awb" >}} {{< /arbeitsmaterial-container >}}
