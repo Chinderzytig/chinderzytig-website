@@ -25,7 +25,7 @@
 		<h2 class="heading heading__secondary">Alle Artikel: {{ .Title }}</h2>
 		<div class="card__container">
 			{{ range .Pages.ByTitle }}
-				<a href="{{.RelPermalink}}" class="card card--grey">
+				<a href="{{.RelPermalink}}" class="card card--grey card__hidden">
 					<div style="background:url({{ .Site.Params.cloudinary_url }}/c_scale,h_170,w_300,q_auto:good/{{ .Params.hero_img }})" class="card__photo"></div>
 					<div class="card__content">
 						<h3 class="card__content-title">{{ .Title }}</h3>
@@ -33,6 +33,9 @@
 					</div>
 				</a>
 			{{ end }}
+		</div>
+		<div class="btn__container">
+			<a href="#" class="btn btn--primary" id="loadMore">Mehr Artikel</a>
 		</div>
 	</section>
 {{end}}
