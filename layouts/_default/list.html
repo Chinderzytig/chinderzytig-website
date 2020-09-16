@@ -11,9 +11,9 @@
 		{{ $tags = $tags | uniq }}
 
 		{{ if in $link "kategorien"}}
-			<section class="taxonomy">
-				<h3 class="heading heading--taxonomy">{{ .Title }} Markierungen</h3>
-				<div class="taxonomy__markers">
+			<section class="list">
+				<h3 class="heading heading--list">{{ .Title }} Markierungen</h3>
+				<div class="list__markers">
 					{{ range $tags }}
 					<a href="{{ .Permalink }}" class="marker marker--list">{{ .LinkTitle }}</a>
 					{{ end }}
