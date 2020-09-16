@@ -1,7 +1,7 @@
 {{define "main"}}
-	<section class="taxonomy">
-		<h3 class="heading heading--taxonomy">Artikel Kategorien</h3>
-		<div class="taxonomy__markers">
+	<section class="list">
+		<h3 class="heading heading--list">Artikel Kategorien</h3>
+		<div class="list__markers">
 			{{range $name, $taxonomy := .Site.Taxonomies.kategorien}}
 				{{ with $.Site.GetPage (printf "/kategorien/%s" $name) }}
 					<a href="{{ .Permalink }}" class="marker marker--list">{{ humanize $name }}</a>
