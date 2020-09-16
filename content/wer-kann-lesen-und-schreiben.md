@@ -41,4 +41,4 @@ Am 8. September ist der Welttag der Alphabetisierung. An diesem Tag will die {{<
 
 ## Arbeitsmaterial
 
-{{< arbeitsmaterial-container >}} {{< arbeitsmaterial file="welt-alphabetisierungs-tag-arbeitsmateral_bsb4mx.pdf" img="welt-alphabetisierungs-tag-arbeitsmateral_bsb4mx.png" >}} {{< /arbeitsmaterial-container >}}
+{{< arbeitsmaterial-container >}} {{< arbeitsmaterial file="welt-alphabetisierungs-tag-arbeitsmateral_bsb4mx" >}} {{< /arbeitsmaterial-container >}}
