@@ -1,5 +1,5 @@
 ---
 title: "Über Uns"
-layout: über-uns
+layout: uber-uns
 artikel: false
 ---
