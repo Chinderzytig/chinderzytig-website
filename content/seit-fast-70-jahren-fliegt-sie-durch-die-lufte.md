@@ -3,7 +3,6 @@ artikel = true
 author = "Annic Berset"
 date = 2020-08-23T23:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600267321/rega_sbntxx.jpg"
 img_description = "Rega helicopter landing in the mountains"
@@ -30,7 +29,7 @@ Bei schlechtem Wetter oder wenn das Gelände sehr steil ist, kann der Pilot oft 
 
 So sieht die Arbeit mit der Rettungswinde aus: [https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf](https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf "https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf")
 
-{{< image img="Enter file with ext. here" desc="Rega plane flying over the Alps" src="https://www.rega.ch/rega-erleben/in-wort-und-bild#bilder" photographer="Rega" >}}
+{{< image img="rega-2_chnnoo.jpg" desc="Rega plane flying over the Alps" src="https://www.rega.ch/rega-erleben/in-wort-und-bild#bilder" photographer="Rega" >}}
 
 ## Bis ans andere Ende der Welt
 
@@ -41,3 +40,9 @@ Heute besteht die Flotte der Rega aus 18 Rettungshelikoptern und 3 Ambulanzjets.
 ## Weitere Informationen
 
 Rega Homepage: [https://www.rega.ch/](https://www.rega.ch/ "https://www.rega.ch/")
+
+{{< teiler >}}
+
+## Arbeitsmaterial
+
+{{< arbeitsmaterial-container >}} {{< arbeitsmaterial file="rega-arbeitsmaterial_g35awb.pdf" img="rega-arbeitsmaterial_g35awb.png" >}} {{< /arbeitsmaterial-container >}}
