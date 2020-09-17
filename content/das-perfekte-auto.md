@@ -3,7 +3,6 @@ artikel = true
 author = "Schülerbeitrag von Olivier Dick"
 date = 2020-03-30T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600371911/elektroautos_hpq2l9.jpg"
 img_description = "Electric car charging in Birmingham City Centre"
@@ -20,7 +19,7 @@ _Strom als neues Benzin. Die mögliche Zukunft der Automobilbranche - das sind E
 
 Naja schauen wir zuerst auf die Geschichte: Das Elektroauto wurde von Gustav Trouvé im Jahr 1881 erfunden. Doch dannach wurde das Elektroauto von der schieren Masse der Benzin- und Dieselautos verdrückt und war zunnächst ein Nischenprodukt. Erst im Jahr 1990, als das Erdöl für das Benzin und Diesel teurer wurde, wurde das Elektroauto wieder in Betracht gezogen und viele grosse Marken brachten die ersten Elektroautos heraus. Aber es wurden viele neue kleine Unternehmen, die sich auf Elektroautos spezialisieren, gegründet. Eines davon ist das Unternehmen Tesla von Elon Musk. Heute ein Gigant in der Elektroautobranche.
 
-{{< image img="Enter file with ext. here" desc="Interior of a Tesla electric car" src="https://unsplash.com/@ort" photographer="Bram Van Oost" >}}
+{{< image img="elektroautos-2_abgucl.jpg" desc="Interior of a Tesla electric car" src="https://unsplash.com/@ort" photographer="Bram Van Oost" >}}
 
 ## Sind Elektroautos perfekte Autos?
 
