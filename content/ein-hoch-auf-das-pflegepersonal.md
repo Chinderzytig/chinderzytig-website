@@ -3,7 +3,6 @@ artikel = true
 author = "Seraina Branschi"
 date = 2020-04-07T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600348817/welt-gesundheit_wuahze.jpg"
 img_description = "Nurse sitting on the floor in a Moscow hospital"
@@ -24,7 +23,7 @@ Am Weltgesundheitstag wird an die Gründung der Weltgesundheitsorganisation erin
 
 Mit dem Thema geht es darum die Gesundheit auf der ganzen Welt zu stärken. Das machen wir jedes Jahr zu einem anderen Gesundheitsthema. Dieses Jahr ist das Jahr der Pflegekräfte und Hebammen. Zu den Pflegekräften gehören zum Beispiel FaGe oder Sanitäter. Sie helfen dir dich nach einem Unfall oder einer Krankheit schnell zu erholen. Eine Hebamme hilft Frauen bei der Geburt ihres Kindes. Warum ist es so wichtig diese Personen zu unterstützen?
 
-{{< image img="Enter file with ext. here" desc="A sign thanking ICU nurses" src="https://unsplash.com/@the_socialmotion" photographer="Nicholas Bartos" >}}
+{{< image img="welt-gesundheit-2_kf1eqp.jpg" desc="A sign thanking ICU nurses" src="https://unsplash.com/@the_socialmotion" photographer="Nicholas Bartos" >}}
 
 ## Unterstützung des Pflegepersonals
 
