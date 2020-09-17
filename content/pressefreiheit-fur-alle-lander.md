@@ -3,7 +3,6 @@ artikel = true
 author = "Seraina Branschi"
 date = 2020-05-03T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600357814/internationaler-presse-freiheits-tag_lc4mip.jpg"
 img_description = "A line of press cameras"
@@ -22,10 +21,9 @@ Das Ziel des Internationalen Tag der Pressefreiheit entstand durch die UNESCO. D
 
 ## Festnahmen ohne Grund
 
-  
 In vielen Ländern ist es so, dass jeder Journalist seine Berichte frei schreiben darf. Es gibt keine Einschränkungen. In anderen Ländern werden Journalisten jedoch gefangen genommen oder getötet sobald sie ihre Berichte veröffentlichen. Der Grund für die Festnahme ist oft unklar. Meistens geht es um unterschiedliche Ansichten mit der Regierung. Alle Journalisten auf der ganzen Welt sollen ohne Angst berichten können. Das will die UNESCO mit diesem Internationalen Tag erreichen. Die Presse- und Meinungsfreiheit gehört zu den Menschenrechten. Diese Rechte sind für alle Menschen auf der ganzen Welt gleich. Doch nicht alle Länder halten sich an das Recht der Pressefreiheit. Oftmals gehören zu diesen Ländern nicht nur die unterdrückten Länder. Selbst in Deutschland ist die Anzahl von Angriffen auf Journalisten von 2017 auf 2018 gestiegen.
 
-{{< image img="Enter file with ext. here" desc="A cameraman stands feet from riot police using pepper spray" src="https://pixabay.com/users/stocksnap-894430/" photographer="StockSnap" >}}
+{{< image img="internationaler-presse-freiheits-tag-2_z990bd.jpg" desc="A cameraman stands feet from riot police using pepper spray" src="https://pixabay.com/users/stocksnap-894430/" photographer="StockSnap" >}}
 
 ## Norwegen gegen Nordkorea
 
