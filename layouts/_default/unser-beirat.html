@@ -7,7 +7,7 @@
 		<div class="profile__container">
 			{{ range .Site.Data.pages.beirat.board }}
 				<div class="profile profile--board">
-					<img src="{{ .img }}" alt="{{ .desc }}" class="profile__img">
+					<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,w_180,q_auto:good/people/{{ .img }}" alt="{{ .desc }}" class="profile__img">
 					<div class="profile__content">
 						{{ range .info }}
 							<h3 class="profile__name">{{ .name }}</h3>
