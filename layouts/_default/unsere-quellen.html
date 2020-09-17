@@ -15,7 +15,7 @@
 				{{ range .Site.Data.pages.quellen.media }}
 					<a href="{{ .website }}" target="_blank" class="quellen__logos-link">
 					{{ range .logo }}
-						<img src="{{ .img }}" alt="{{ .desc }}" class="quellen__logos-logo">
+						<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_60,q_auto:good/logos/{{ .img }}" alt="{{ .desc }}" class="quellen__logos-logo">
 					{{ end }}
 					</a>
 				{{ end }}
@@ -23,13 +23,13 @@
 		</div>
 	</section>
 	<section class="quellen__other">
-		<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/logos/swiss_gov_julv3s.png" alt="Swiss Government logo" class="quellen__other-logo">
+		<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_80,q_auto:good/logos/swiss_gov_julv3s.png" alt="Swiss Government logo" class="quellen__other-logo">
 		<div class="quellen__other-divider"></div>
 		<p class="quellen__other-text">
 			Als zusätzliche Quellen dienen Der Bund kurz erklärt (Publikation der
 			Eidgenossenschaft) und Lehrmittel der Schulen des Kantons Bern wie zum
 			Beispiel Durch Geschichte zur Gegenwart, Zeitreise 7-9, und Durchblick.
 		</p>
-		<img src="https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_80,q_auto:good/logos/kanton_bern_bgvmlz.jpg" alt="Canton Bern logo" class="quellen__other-logo">
+		<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_80,q_auto:good/logos/kanton_bern_bgvmlz.jpg" alt="Canton Bern logo" class="quellen__other-logo">
 	</section>
 {{end}}

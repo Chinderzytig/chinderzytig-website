@@ -15,7 +15,7 @@
 				{{ range .Site.Data.pages.verein.media }}
 					<a href="{{ .url }}" target="_blank" class="card card--grey">
 						{{ range .logo }}
-							<div style="background:url({{ .img }})" class="card__photo"></div>
+							<div style="background:url({{ $.Site.Params.cloudinary_url }}/c_scale,h_170,q_auto:good,w_300/logos/{{ .img }})" class="card__photo"></div>
 						{{ end }}
 						{{range .content }}
 							<div class="card__content">
@@ -52,7 +52,7 @@
 				{{ range .Site.Data.pages.verein.companies }}
 					<a href="{{ .website }}" target="_blank" class="verein__thanks-link">
 					{{ range .logo }}
-						<img src="{{ .img }}" alt="{{ .desc }}" class="verein__thanks-logo">
+						<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_60,q_auto:good/logos/{{ .img }}" alt="{{ .desc }}" class="verein__thanks-logo">
 					{{ end }}
 					</a>
 				{{ end }}
