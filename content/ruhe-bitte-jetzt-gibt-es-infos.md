@@ -3,14 +3,13 @@ artikel = true
 author = "Georg Stalder"
 date = 2020-04-16T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600356467/presse-konferenz_mv91xi.jpg"
 img_description = "Journalist writing in notebook"
 img_photographer = "The Climate Reality Project"
 img_src = "https://unsplash.com/@climatereality"
-kategorien = []
-markierungen = []
+kategorien = ["Medien"]
+markierungen = ["Digital"]
 paid = false
 slug = "pressekonferenz"
 title = "Ruhe bitte, jetzt gibt es Infos"
@@ -26,7 +25,7 @@ Bei der Pressekonferenz sind viele Journalistinnen und Journalisten anwesend. Si
 
 Eine Pressekonferenz heisst so, weil die «Presse» informiert wird. «Presse» ist ein anderes Wort für Zeitung. Heute sagt man häufig auch «Medienkonferenz», weil noch andere «Medien» wie Fernsehen, Radio und Online-Zeitungen dabei sind. Pressekonferenzen finden meistens am Vormittag oder am frühen Nachmittag statt. Die Journalistinnen und Journalisten haben dann ein paar Stunden Zeit, um einen Beitrag für die Abendnachrichten oder für die Zeitung zu schreiben.
 
-{{< image img="Enter file with ext. here" desc="A panel discussion at the World Economic Forum" src="https://unsplash.com/@evangelineshaw" photographer="Evangeline Shaw" >}}
+{{< image img="presse-konferenz-2_uheq7f.jpg" desc="A panel discussion at the World Economic Forum" src="https://unsplash.com/@evangelineshaw" photographer="Evangeline Shaw" >}}
 
 ## Wer macht "Pressekonferenz"?
 
