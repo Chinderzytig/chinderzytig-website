@@ -3,7 +3,6 @@ artikel = true
 author = "Lars Ziörjen"
 date = 2020-05-08T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600350932/rotes-kreuz_g3p3fn.jpg"
 img_description = "A US Amry ambulance from WWII bearing the red cross symbol"
@@ -22,7 +21,7 @@ _Über jedes Ereignis könnte man ganze Bücher schreiben. Heute vor 75 ging der
 
 Bereits seit 1828 hilft das Schweizerische Rote Kreuz. Weltweit als äusserst wichtige Institution wahrgenommen wird es erstmals während dem Ersten Weltkrieg. Dieser fand zwischen 1914 bis 1918 statt. Das Ausmass der Verwundeten war dermassen gross, dass das Schweizerische Rote Kreuz vor neuen Herausforderungen stand. Als Spitze der helfenden Massnahmen der Schweiz, die im Krieg nicht aktiv beteiligt gewesen ist, war das SRK besonders aktiv. Es entstanden in diesen Jahren mehrere Bündnisse mit neuen Vereinigungen des Roten Kreuzes im Ausland, weshalb die Zusammenarbeit grösser wurde. Dies kam nicht zuletzt im Kampf gegen die Spanische Grippe (um 1920) der Menschheit zu Gute.
 
-{{< image img="Enter file with ext. here" desc="Red Cross box with supplies for prisoners of war used in WWII" src="[https://unsplash.com/@soroushkarimi](https://unsplash.com/@soroushkarimi "https://unsplash.com/@soroushkarimi")" photographer="Soroush Karimi" >}}
+{{< image img="rotes-kreuz-2_drxms9.jpg" desc="Red Cross box with supplies for prisoners of war used in WWII" src="https://unsplash.com/@soroushkarimi" photographer="Soroush Karimi" >}}
 
 ## Der wegweisende Zweite Weltkrieg
 
