@@ -76,6 +76,7 @@ fields:
   default: true
   hidden: true
 pages:
+- content/billie-eilish-die-angesagteste-pop-sangerin-von-heute.md
 - content/corona-halt-die-welt-auf-trab.md
 - content/corona-macht-schule.md
 - content/corona-und-mein-sackgeld.md
