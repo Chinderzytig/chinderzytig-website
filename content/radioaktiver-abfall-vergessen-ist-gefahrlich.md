@@ -1,16 +1,15 @@
 +++
 artikel = true
 author = ""
+cc_licence = ""
+cc_src = ""
 date = 2020-04-04T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600417843/radioaktivitaet_eckr9r.jpg"
 img_description = "Geiger counter measuring radiation levels in the area of Chernobyl"
 img_photographer = "Jorge Fernández Salas"
 img_src = "https://unsplash.com/@jorgefdezsalas"
-cc_licence = ""
-cc_src = ""
 kategorien = ["Welt", "Natur/Umwelt"]
 markierungen = ["Energie"]
 paid = false
