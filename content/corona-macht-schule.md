@@ -23,17 +23,20 @@ Warum? Es geht darum, unser Gesundheitssystem zu entlasten, in dem sich die Mens
 
 ## Schule geschlossen. Was nun?
 
-Schulen und Lehrpersonen müssen nun dafür sorgen, dass Schulkinder digital, per Post oder per Abholtermin mit Unterrichtsmaterial versorgt werden. Das heisst, ihr kriegt wohl bald Hausaufgaben und Aufträge, die ihr zu Hause erledigen müsst. Die Schule ist zu, aber die Arbeit geht nicht aus. Das Nötigste muss erledigt werden.
+* Schulen und Lehrpersonen müssen nun dafür sorgen, dass Schulkinder digital, per Post oder per Abholtermin mit Unterrichtsmaterial versorgt werden. Das heisst, ihr kriegt wohl bald Hausaufgaben und Aufträge, die ihr zu Hause erledigen müsst. Die Schule ist zu, aber die Arbeit geht nicht aus. Das Nötigste muss erledigt werden.
 
-Eure Eltern übernehmen den Unterricht nicht, müssen aber dafür sorgen, dass ihr eure Hausaufträge erledigt.
+
+* Eure Eltern übernehmen den Unterricht nicht, müssen aber dafür sorgen, dass ihr eure Hausaufträge erledigt.
 
 {{< image img="corona-macht-schule_hwqt6j.jpg" desc="Empty classroom" src="https://unsplash.com/@flpschi" photographer="Feliphe Schiarolli" >}}
 
-Selbstverständlich dürft ihr noch draussen spielen. Ihr werdet ja nicht zu Hause eingesperrt. Doch auch hier gilt: wascht euch oft die Hände. Putzt euch die Nasen und werft das Taschentuch weg. Und haltet vielleicht ein wenig öfter Abstand zu euren Freunden oder Erwachsenen. Es gibt witzige Begrüssungsformen, auch ohne Körperkontakt. Lasst euch etwas einfallen.
+* Selbstverständlich dürft ihr noch draussen spielen. Ihr werdet ja nicht zu Hause eingesperrt. Doch auch hier gilt: wascht euch oft die Hände. Putzt euch die Nasen und werft das Taschentuch weg. Und haltet vielleicht ein wenig öfter Abstand zu euren Freunden oder Erwachsenen. Es gibt witzige Begrüssungsformen, auch ohne Körperkontakt. Lasst euch etwas einfallen.
 
-Vermutlich streichen auch eure Sportvereine das Training. Also, bewegt euch trotzdem. Fahrt Velo, geht in den Wald...
 
-Wohl das Schwierigste: Bleibt verständnisvoll. Die Situation ist neu, auch für die Erwachsenen. Vielleicht betreuen euch halt ausnahmsweise Nachbarn oder Personen, die noch keine grosse Rolle gespielt haben. Vielleicht sind eure Eltern gereizt, weil sie gleichzeitig zu Hause arbeiten müssen, aber auch mit euch Zeit verbringen sollen. Diese Doppelbelastung kann auch Erwachsene an ihre Grenzen treiben. Ihr als Kinder? Bleibt locker, bleibt geduldig - das hilft auch euren Eltern.
+* Vermutlich streichen auch eure Sportvereine das Training. Also, bewegt euch trotzdem. Fahrt Velo, geht in den Wald...
+
+
+* Wohl das Schwierigste: Bleibt verständnisvoll. Die Situation ist neu, auch für die Erwachsenen. Vielleicht betreuen euch halt ausnahmsweise Nachbarn oder Personen, die noch keine grosse Rolle gespielt haben. Vielleicht sind eure Eltern gereizt, weil sie gleichzeitig zu Hause arbeiten müssen, aber auch mit euch Zeit verbringen sollen. Diese Doppelbelastung kann auch Erwachsene an ihre Grenzen treiben. Ihr als Kinder? Bleibt locker, bleibt geduldig - das hilft auch euren Eltern.
 
 ## Und wie weiter?
 
