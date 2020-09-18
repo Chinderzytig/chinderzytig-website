@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-08-10T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600438005/yeti_gstqpm.jpg"
 img_description = "A lifelike depiction of the Yeti"
@@ -34,7 +33,7 @@ Vor fast genau 100 Jahren kamen Berichte über den Yeti nach Europa. Im Jahr 192
 
 Daraufhin brach ein regelrechtes Yeti-Fieber aus. Viele Bergsteiger und Abenteurer reisten in den Himalaya, um den Schneemenschen als Erste zu finden. Die britische Zeitung «Daily Mail» startete eine aufwändige Expedition mit über 300 Männern. Doch ausser Fussspuren, die sehr wahrscheinlich gefälscht waren, und den immer gleichen alten Geschichten, fand man nichts.
 
-{{< image img="Enter file with ext. here" desc="Aerial view of the Himalayas" photographer="Jeremy Zero" src="https://unsplash.com/@jeremy0" >}}
+{{< image img="yeti-2_dzjczf.jpg" desc="Aerial view of the Himalayas" photographer="Jeremy Zero" src="https://unsplash.com/@jeremy0" >}}
 
 ## 12 Jahre vergebliche Suche
 
@@ -45,3 +44,13 @@ Die bekannteste Yeti-Sichtung stammt von Reinhold Messner. Der berühmte österr
 Yeti im Kinderlexikon Klexikon: [https://klexikon.zum.de/wiki/Yeti](https://klexikon.zum.de/wiki/Yeti "https://klexikon.zum.de/wiki/Yeti")
 
 Artikel über den Yeti im Beobachter: [https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom](https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom "https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom")
+
+{{< teiler >}}
+
+## Arbeitsmaterial
+
+{{< arbeitsmaterial-container >}}
+{{< arbeitsmaterial file="yeti-arbeitsmaterial_yj1uzu" >}}
+{{< /arbeitsmaterial-container >}}
+
+## 
