@@ -5,12 +5,11 @@ cc_licence = ""
 cc_src = ""
 date = 2020-09-15T11:00:00Z
 description = ""
-draft = true
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
+hero_img = "/v1600434112/jagdsaison_ex3om1.jpg"
+img_description = "Hunting rifle from the viewpoint of the hunter"
+img_photographer = "Sebastian Pociecha"
+img_src = "https://unsplash.com/@sebastianpoc"
 kategorien = ["Europa", "Natur/Umwelt"]
 markierungen = ["Schweiz", "Tierwelt"]
 paid = false
@@ -26,7 +25,7 @@ Wie jedes Tier vermehren sich auch die Wildtiere wie Hirsche. Das heisst, wir ha
 
 Anfang September jedes Jahres startet in Graubünden die Jagdsaison. Dabei ist die Rede von der Hochjagd. Der Name kommt von früher. Das Hochwild durften nur die höheren Leute in der Gesellschaft jagen. Der sogenannte Adel – zum Beispiel Könige. Zum Hochwild gehören Hirsche. Diese gelten als majestätisch und beeindruckend. Deshalb durften auch nur die höheren Leute diese Tiere jagen. Heutzutage ist das anders. Wenn man den Jagdschein macht – den Ausweis zum Jagen – dann darf man auch Hirsche schiessen. In Graubünden sollen es dieses Jahr rund 5560 Hirsche sein. Das sind gleich viele Tiere wie im Vorjahr, dies eben um den Wildbestand dem Lebensraum anzupassen. Es geht also nicht nur um die Nahrung des Hirsches, sondern auch um den Platz, denn jedes Tier braucht. Weiter soll der Jäger kranke und alte Tiere erlösen. Bis zum 13. September dauerte die erste Phase der Hochjagd. Danach folgt jedes Jahr eine einwöchige Pause. In dieser Zeit können sich Jäger und Tiere erholen. Anschliessend geht es nochmals eine Woche mit der Hochjagd weiter.
 
-{{< image img="Enter file with ext. here" desc="A sizeable buck in the open" photographer="Laura College" src="https://unsplash.com/@laura_college" >}}
+{{< image img="jagdsaison-2_fl3ems.jpg" desc="A sizeable buck in the open" photographer="Laura College" src="https://unsplash.com/@laura_college" >}}
 
 Wichtig zu wissen: Die Jäger werden immer genau beobachtet. Dieses Jahr sind rund 5500 Jäger und Jägerinnen unterwegs. Ist die Anzahl von 5560 erlegten Hirschen erreicht, müssen sie aufhören. Auch dürfen in der Zeit keine anderen Tiere gejagt werden. Jäger, die sich nicht daran halten, werden gebüsst.
 
@@ -42,3 +41,11 @@ Jagd in Graubünden:
 
 * [https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/Seiten/Jagd_home.aspx](https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/Seiten/Jagd_home.aspx "https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/Seiten/Jagd_home.aspx")
 * [https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/JagdDokumente/Jagdtermine_20_21.pdf](https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/JagdDokumente/Jagdtermine_20_21.pdf "https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/JagdDokumente/Jagdtermine_20_21.pdf")
+
+{{< teiler >}}
+
+## Arbeitsmaterial
+
+{{< arbeitsmaterial-container >}}
+{{< arbeitsmaterial file="jagsaison-arbeitsmaterial_td4zbb" >}}
+{{< /arbeitsmaterial-container >}}
