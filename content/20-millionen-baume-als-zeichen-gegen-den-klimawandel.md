@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2019-11-04T12:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600432875/youtube-pflanzt-baeume_lbkit1.jpg"
 img_description = "Looking down onto a forest"
