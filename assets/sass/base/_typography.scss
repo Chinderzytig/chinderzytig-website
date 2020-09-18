@@ -402,6 +402,8 @@ body {
 		a { color: $chinder-verdigris; }
 
 		.image__src { @extend .single__image-src; }
+
+		.arbeitsmaterial__link { color: $color-black; }
 	}
 
 	&__comments {
