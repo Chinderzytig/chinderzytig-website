@@ -1,6 +1,6 @@
 body {
 	font-family: 'Lato', sans-serif;
-	font-size: $font-small;
+	font-size: $font-default;
 	font-weight: 100;
 	line-height: 1.6;
 }
@@ -82,10 +82,7 @@ body {
 		&-date {
 			font-weight: 300;
 
-			&--highlight {
-				font-size: $font-default;
-				font-weight: 300;
-			}
+			&--highlight { font-weight: 300; }
 		}
 	}
 }
@@ -178,10 +175,7 @@ body {
 		color: $chinder-orange;
 	}
 
-	&__title {
-		font-size: $font-default;
-		color: $chinder-verdigris;
-	}
+	&__title { color: $chinder-verdigris; }
 }
 
 
@@ -192,7 +186,6 @@ body {
 /* ----- NAVBAR ------ */
 .nav {
 	font-family: $font-patrick, $font-fallback;
-	font-size: $font-default;
 
 	&__notice {
 
@@ -287,10 +280,7 @@ body {
 		}
 	}
 
-	&--nav {
-		color: $social-base;
-		font-size: $font-default;
-	}
+	&--nav { color: $social-base; }
 
 	&--footer { color: $chinder-platinum; }
 
@@ -407,10 +397,7 @@ body {
 			color: $chinder-orange;
 		}
 
-		p {
-			font-size: 1.8rem;
-			text-align: justify;
-		}
+		p { text-align: justify; }
 
 		a { color: $color-black; }
 	}
