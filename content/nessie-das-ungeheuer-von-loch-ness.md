@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-08-17T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600439544/loch-ness-monster_kkmcdz.jpg"
 img_description = "Rain storm over Loch Ness, United Kingdom"
@@ -28,7 +27,7 @@ Loch Ness ist der zweitgrösste See in Schottland, etwa gleich gross wie der Thu
 
 Geschichten über das schottische Ungeheuer gibt es seit Hunderten von Jahren. Früher hatten die Leute Angst vor dem Tier. Ein Buch aus dem 16. Jahrhundert berichtet, Nessie sei an Land gestiegen und habe drei Menschen erschlagen. Auf der ganzen Welt berühmt wurde Nessie im Jahr 1933: Englische Zeitungen berichteten damals über eine spektakuläre Sichtung.
 
-{{< image img="Enter file with ext. here" desc="Christian Spurling - Loch Ness Monster (1934)" photographer="luvi" src="https://www.flickr.com/photos/20638954@N00/1266380969" cc_licence="CC BY-NC-ND 2.0" cc_src="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.de" >}}
+{{< image img="loch-ness-monster-2_rfoguu.jpg" desc="Christian Spurling - Loch Ness Monster (1934)" photographer="luvi" src="https://www.flickr.com/photos/20638954@N00/1266380969" cc_licence="CC BY-NC-ND 2.0" cc_src="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.de" >}}
 
 ## Ein Dinosaurier?
 
@@ -44,3 +43,11 @@ So hat sich im Laufe der Jahrhunderte das Bild der Sagengestalt gewandelt. Aus d
 
 * Nessie im Kinderlexikon Klexikon: [https://klexikon.zum.de/wiki/Ungeheuer_von_Loch_Ness](https://klexikon.zum.de/wiki/Ungeheuer_von_Loch_Ness "https://klexikon.zum.de/wiki/Ungeheuer_von_Loch_Ness")
 * Ist Nessie ein Aal? Artikel und Radio-Beitrag über eine neue Theorie: [https://kinder.wdr.de/radio/kiraka/nachrichten/klicker/loch-ness100.html](https://kinder.wdr.de/radio/kiraka/nachrichten/klicker/loch-ness100.html "https://kinder.wdr.de/radio/kiraka/nachrichten/klicker/loch-ness100.html")
+
+{{< teiler >}}
+
+## Arbeitsmaterial
+
+{{< arbeitsmaterial-container >}} {{< arbeitsmaterial file="loch-ness-monster-arbeitsmaterial_c3qd3p" >}} {{< /arbeitsmaterial-container >}}
+
+## 
