@@ -5,9 +5,15 @@
 				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_800/{{ .Params.hero_img }}" alt="{{ .Params.img_description }}" class="single__image-img">
 				<figcaption class="single__image-caption">
 					{{ partial "svgs/triangle_svg.html" (dict "fill" "#6C685D" "width" 15 "height" 15) }}
-					<a href="{{ .Params.img_src }}" target="_blank" class="single__image-src">
-						<div class="single__image-photographer">@{{ .Params.img_photographer }}</div>
+					<a href="{{ .Params.img_src }}" title="{{ .Params.img_description }}" target="_blank" class="single__image-src">
+						<div class="single__image-photographer">{{ .Params.img_photographer }}</div>
 					</a>
+					{{ if .Params.cc_licence }}
+						<div class="single__caption-buffer">/</div>
+						<a href="{{ .Params.cc_src }}" target="_blank" class="single__cc-src">
+							<div class="single__cc-licence">{{ .Params.cc_licence }}</div>
+						</a>
+					{{ end }}
 				</figcaption>
 			</figure>
 			<div class="single__taxonomies">
