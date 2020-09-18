@@ -19,7 +19,7 @@ title = "Yeti: Der Schneemensch aus dem Himalaya"
 +++
 ## Serie: Sagenhafte Tiere
 
-Die Chinderzytig berichtet in einer Artikel-Serie über bekannte Tiere, die es wahrscheinlich gar nicht gibt. Der Yeti macht den Anfang. Es folgen Artikel über Nessie und den Bigfoot.
+**Die Chinderzytig berichtet in einer Artikel-Serie über bekannte Tiere, die es wahrscheinlich gar nicht gibt. Der Yeti macht den Anfang. Es folgen Artikel über Nessie und den Bigfoot.**
 
 _In den Bergen rund um den Mount Everest soll er leben: der Yeti. Gefunden hat das faszinierende Tier aber noch niemand._
 
@@ -41,9 +41,8 @@ Die bekannteste Yeti-Sichtung stammt von Reinhold Messner. Der berühmte österr
 
 ## Weitere Informationen
 
-Yeti im Kinderlexikon Klexikon: [https://klexikon.zum.de/wiki/Yeti](https://klexikon.zum.de/wiki/Yeti "https://klexikon.zum.de/wiki/Yeti")
-
-Artikel über den Yeti im Beobachter: [https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom](https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom "https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom")
+* Yeti im Kinderlexikon Klexikon: [https://klexikon.zum.de/wiki/Yeti](https://klexikon.zum.de/wiki/Yeti "https://klexikon.zum.de/wiki/Yeti")
+* Artikel über den Yeti im Beobachter: [https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom](https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom "https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom")
 
 {{< teiler >}}
 
