@@ -44,3 +44,13 @@ Noch immer produzieren die meisten Unternehmen Produkte so, dass sie nicht mit d
 ## Mehr Informationen zur Kreislaufwirtschaft
 
 Am 17. September 2020 fand die Konferenz zur Kreislaufwirtschaft statt. Diese Konferenz wird jedes Jahr durchgeführt. Mehr Informationen findest du hier: [https://www.ce2.ch/](https://www.ce2.ch/ "https://www.ce2.ch/")
+
+{{< teiler >}}
+
+## Arbeitsmaterial
+
+{{< arbeitsmaterial-container >}}
+{{< arbeitsmaterial file="Kreislaufwirtschaft-arbeitsmaterial_fgferx" >}}
+{{< /arbeitsmaterial-container >}}
+
+## 
