@@ -5,7 +5,6 @@ cc_licence = "Public Domain Mark 1.0"
 cc_src = "https://creativecommons.org/publicdomain/mark/1.0/deed.de"
 date = 2020-08-21T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600451362/sasquatch_i2fo2s.jpg"
 img_description = "sasquatch"
@@ -43,8 +42,6 @@ Viele der älteren Sichtungen oder Aufnahmen geschahen zufällig. Seit einigen J
 ## Weitere Informationen und Bilder
 
 * Bigfoot im Kinderlexikon Klexikon: [https://klexikon.zum.de/wiki/Bigfoot](https://klexikon.zum.de/wiki/Bigfoot "https://klexikon.zum.de/wiki/Bigfoot")
-
-
 * Artikel über Bigfoot-Jäger in Amerika: [https://www.aargauerzeitung.ch/leben/forschung-technik/in-den-usa-machen-forscher-jagd-auf-den-mysterioesen-bigfoot-128763416](https://www.aargauerzeitung.ch/leben/forschung-technik/in-den-usa-machen-forscher-jagd-auf-den-mysterioesen-bigfoot-128763416 "https://www.aargauerzeitung.ch/leben/forschung-technik/in-den-usa-machen-forscher-jagd-auf-den-mysterioesen-bigfoot-128763416")
 
 {{< teiler >}}
@@ -52,5 +49,5 @@ Viele der älteren Sichtungen oder Aufnahmen geschahen zufällig. Seit einigen J
 ## Arbeitsmaterial
 
 {{< arbeitsmaterial-container >}}
-{{< arbeitsmaterial file="add file name without extension" >}}
+{{< arbeitsmaterial file="bigfoot-arbeitsmaterial_wikmrx" >}}
 {{< /arbeitsmaterial-container >}}
