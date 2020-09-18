@@ -33,8 +33,9 @@ fields:
 - type: text
   name: img_description
   label: img_description
-  description: Very short description of the image (ie. "Refugees standing in food
-    line"). Used for blind persons using screen readers.
+  description: Short description of the image (ie. "Refugees standing in food line").
+    Used for blind persons using screen readers and used in lieu when an image can't
+    be loaded on the screen.
 - type: text
   name: img_photographer
   label: img_photographer
@@ -43,6 +44,20 @@ fields:
   name: img_src
   label: img_src
   description: Enter the URL of where you got the photo from.
+- name: cc_licence
+  type: text
+  config:
+    required: false
+  label: cc_licence
+  description: If Creative Commons attribution is required, enter the licence type
+    here (ie. CC BY-SA)
+- name: cc_src
+  type: text
+  config:
+    required: false
+  label: cc_src
+  description: 'If Creative Commons attribution is required, enter the link to the
+    webpage of the specific Creative Commons licence being used. '
 - type: list
   name: kategorien
   description: 'Add any categories to the article. The categories are: <strong>Nordamerika</strong>,
