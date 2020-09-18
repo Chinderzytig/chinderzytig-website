@@ -1,7 +1,7 @@
 <figure class="image">
 	<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_500/{{ .Get `img` }}" alt="{{ .Get `desc` }}" class="image__img">
 	<figcaption class="image__caption">
-		{{ partial "svgs/triangle_svg.html" (dict "fill" "#000" "width" 15 "height" 15) }}
+		{{ partial "svgs/triangle_svg.html" (dict "fill" "#6C685D" "width" 15 "height" 15) }}
 		<a href="{{ .Get `src` }}" target="_blank" class="image__src">
 			<div class="image__photographer">@{{ .Get "photographer" }}</div>
 		</a>

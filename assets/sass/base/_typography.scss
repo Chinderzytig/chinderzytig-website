@@ -91,7 +91,7 @@ body {
 .fremdwort {
 	&:link,
 	&:visited {
-		color: $chinder-verdigris;
+		color: $chinder-orange;
 	}
 }
 
@@ -105,7 +105,7 @@ body {
 			text-decoration: none;
 		}
 
-		&:hover { color: $chinder-verdigris; }
+		&:hover { color: $chinder-orange; }
 	}
 
 	&__word { font-size: $font-heading; }
@@ -380,12 +380,12 @@ body {
 /* ----- SINGLE TEMPLATE ------ */
 .single {
 
-	&__image {
-
-		&-src { color: $social-base; }
+	&__date-author {
+		color: $social-base;
+		font-size: 1.3rem;
 	}
 
-	&__date-author {
+	&__image-src {
 		color: $social-base;
 		font-size: 1.3rem;
 	}
@@ -399,7 +399,9 @@ body {
 
 		p { text-align: justify; }
 
-		a { color: $color-black; }
+		a { color: $chinder-verdigris; }
+
+		.image__src { @extend .single__image-src; }
 	}
 
 	&__comments {
