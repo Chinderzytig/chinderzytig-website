@@ -25,7 +25,7 @@ Die spanische Grippe kam wohl zu einem sehr schlechtem Zeitpunkt. Nämlich zum B
 
 Wo und wann sie genau zuerst auftrat ist unbekannt. Auch die erste Welle war noch sehr unscheinbar, da sie unter den Millionen Toten des Krieges unterging. Erst die zweite Welle im späten Jahr 1918 traf die Welt wirklich verheerend. Allein in den USA starben in einer Woche 21'000 Menschen. Das US-Militär verlor mehr Soldaten als im gesamten 1. Weltkrieg. Auf kleinen Inseln mit einem schlechtem Gesundheitssystem starben etwa jede fünfte Person der Bevölkerung. Danach folgte 1919 nochmal eine kleinere Welle mit Grippetoten. Diese fiel aber eher klein aus.
 
-{{< image img="spanisch-grippe-2_nsm5lr.jpg" desc="Emergency hospital during influenza epidemic, Camp Funston, Kansas." src="https://www.flickr.com/photos/medicalmuseum/3300169510/" photographer="Otis Historical Archives, National Museum of Health and Medicine" >}}
+{{< image img="spanisch-grippe-2_nsm5lr.jpg" desc="Description: Beds with patients in an emergency hospital in Camp Funston, Kansas, in the midst of the influenza epidemic." photographer="Otis Historical Archives, National Museum of Health and Medicine" src="https://www.flickr.com/photos/medicalmuseum/3300169510/" cc_licence="CC BY 2.0" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
 
 ## Corona ähnelt...
 
