@@ -17,6 +17,6 @@ $(document).ready(function() {
 			$("#loadMore").fadeOut();
 		}
 
-		$('html, body').animate({scrollTop: $().offset().top}, 1000);
+		$('html, body').animate({scrollTop: $(this).offset().bottom}, 1000);
 	});
 });
