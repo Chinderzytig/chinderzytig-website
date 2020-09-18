@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-04-24T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600436876/TigerKing_1x1_PRE_tldmdc.jpg"
 img_description = "Key art for Netflix's series Tiger King: Murder, Mayhem and Madness"
@@ -27,6 +26,8 @@ Häufig sind Serien erfolgreich, wenn es um folgende Dinge geht: Gewalt, Krimina
 In der heutigen Zeit ist nichts mehr normal. Da passt eine Serie über Menschen, die unbekannt und ungewohnt und noch viel weniger normal daherkommen, als alles, was man bisher kannte. Die Serie, die auf einer wahren Geschichte basiert, handelt nicht nur von Drogen, Kämpfen und Gewalt - sondern auch von einer miesen Tierhaltung in Zoos für Raubkatzen [(siehe dazu den Artikel und das Arbeitsmaterial zum Blickwinkel 14/2020).](https://www.chinderzytig.ch/blickwinkel)
 
 Der Erfolg gibt Netflix recht. Das Publikum sehnt sich nach leichter Kost, nach Ablenkung. Geld, Gewalt, Konflikte, Verrücktheit - die Zauberformel für erfolgreiches Fernsehen!?
+
+{{< image img="tigerking_hkbuck.jpg" desc="A tiger laying in a metal cage with a concrete floor" photographer="Mark Carlo Allones" src="https://unsplash.com/@mark_carlo" >}}
 
 ## Kein Anspruch auf intelligentes Dokumentieren
 
