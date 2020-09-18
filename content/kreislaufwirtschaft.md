@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-09-18T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600431453/Kreislaufwirtschaft_yao59a.jpg"
 img_description = "Plastic buckets containing items for recycling"
@@ -28,7 +27,7 @@ Ob Zahnbürste, Fahrkarten oder Turnschuhe – für die meisten Dinge um uns her
 
 Jedoch können nicht alle Dinge ewig genutzt werden, aber viele kann man recyceln lassen. Beim Recycling werden alle oder bestimmte Stoffe von weggeworfenen Dingen wiederaufbereitet, um damit neue Produkte zu machen. Dadurch bleiben sie im Kreislauf und es müssen nicht extra neue Rohstoffe aus der Natur abgebaut werden. Aber was kann alles recycelt werden? Zum Beispiel Papier, Karton, PET-Flaschen, Glas und Aluminium. Deshalb sollten wir diese Stoffe einzeln sammeln und abholen lassen oder zu einer Sammelstelle bringen. Aber auch viele Elektrogeräte wie Fernseher, Computer, Waschmaschinen oder Handys können recycelt werden, da sie zum Teil aus Stoffen bestehen, die für neue Produkte verwendet werden können.
 
-{{< image img="Enter file with ext. here" desc="Plastic containers that have been converted into pots for plants, hang on the wall" photographer="Bernard Hermant" src="https://unsplash.com/@bernardhermant" >}}
+{{< image img="Kreislaufwirtschaft-2_xr4pkq.jpg" desc="Plastic containers that have been converted into pots for plants, hang on the wall" photographer="Bernard Hermant" src="https://unsplash.com/@bernardhermant" >}}
 
 ## Nicht alles kann wiederverwertet werden
 
@@ -45,11 +44,3 @@ Noch immer produzieren die meisten Unternehmen Produkte so, dass sie nicht mit d
 ## Mehr Informationen zur Kreislaufwirtschaft
 
 Am 17. September 2020 fand die Konferenz zur Kreislaufwirtschaft statt. Diese Konferenz wird jedes Jahr durchgeführt. Mehr Informationen findest du hier: [https://www.ce2.ch/](https://www.ce2.ch/ "https://www.ce2.ch/")
-
-{{< teiler >}}
-
-## Arbeitsmaterial
-
-{{< arbeitsmaterial-container >}}
-{{< arbeitsmaterial file="add file name without extension" >}}
-{{< /arbeitsmaterial-container >}}
