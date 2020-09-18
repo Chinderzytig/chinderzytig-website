@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-01-12T12:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600430906/australienbrennt_r04of5.jpg"
 img_description = "Two forest fire fighters engage fire with hose"
