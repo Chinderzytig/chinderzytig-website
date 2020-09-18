@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-04-27T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600454886/spacex_gjcoqv.jpg"
 img_description = "A Starlink satellite passing through the night sky"
@@ -26,7 +25,7 @@ Die Lichterkette sind Satelliten. Diese stammen vom Unternehmen für Weltraumfor
 
 Vielleicht habt ihr in letzter Zeit vom Projekt Starlink gelesen. Das ist der Name des Projekts, das hinter diesen vielen Satelliten steckt. Ziel ist es, dass die ganze Welt Internet hat. Das heisst es soll auch zum Beispiel in der Wüste möglich sein Internetzugang zu haben. Hinter dem Projekt steckt der Chef des Unternehmens SpaceX, Elon Musk. Er ist euch vielleicht eher ein Begriff, wenn ihr an das Elektroauto Tesla denkt. Von diesem Unternehmen ist er ebenfalls der Geschäftsführer. Die Satelliten sehen wir immer mal wieder im Himmel. Wie an einer Schnur wandern sie durch den Himmel. Wann wir die Satelliten sehen, können wir auf der [findstarlink](https://findstarlink.com/) Internetseite sehen. Einfach den Ort eingeben, an dem wir uns befinden. Ab 2021 soll das ganze Weltall mit den Satelliten bedeckt sein. So faszinierend es ist, bedenklich ist es auch.
 
-{{< image img="Enter file with ext. here" desc="SpaceX Falcon Heavy Demo Mission" photographer="SpaceX" src="https://unsplash.com/@spacex" >}}
+{{< image img="spacex-2_vqomew.jpg" desc="SpaceX Falcon Heavy Demo Mission" photographer="SpaceX" src="https://unsplash.com/@spacex" >}}
 
 ## Satelliten-Ketten statt Sternenhimmel?
 
