@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-08-28T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600453199/warum-singen-voegel_nypxaq.jpg"
 img_description = "A Robin singing on a branch"
@@ -28,7 +27,7 @@ Das Vogelmännchen markiert mit dem Gesang sein Territorium – so wie ein Hund,
 
 In der Vogelwelt machen meistens die Männchen den ersten Schritt bei der Partnersuche. Das bedeutet: Meistens singen nur die Männchen. Das heisst aber nicht, dass die Weibchen nicht singen können. Sie tun es nur nicht so oft und nicht so laut.
 
-{{< image img="Enter file with ext. here" desc="A Hawk looks for breakfast from a tree" photographer="Robert Thiemann" src="https://unsplash.com/@rthiemann" >}}
+{{< image img="warum-singen-voegel-2_bdtj1e.jpg" desc="A Hawk looks for breakfast from a tree" photographer="Robert Thiemann" src="https://unsplash.com/@rthiemann" >}}
 
 ## Warnung vor dem Feind
 
@@ -39,8 +38,6 @@ Der Gesang hat also mehrere Funktionen: Als Markierung des Reviers, als Lockruf 
 ## Weitere Informationen
 
 * Weitere spannende Fakten zum Vogelgesang: [https://www.duda.news/serie/singen-fuer-die-vogel-weibchen/](https://www.duda.news/serie/singen-fuer-die-vogel-weibchen/ "https://www.duda.news/serie/singen-fuer-die-vogel-weibchen/")
-
-
 * Die häufigsten Vogelarten in der Schweiz: [https://www.tierwelt.ch/news/wildtiere/die-zehn-haeufigsten-brutvoegel-der-schweiz](https://www.tierwelt.ch/news/wildtiere/die-zehn-haeufigsten-brutvoegel-der-schweiz "https://www.tierwelt.ch/news/wildtiere/die-zehn-haeufigsten-brutvoegel-der-schweiz")
 
 {{< teiler >}}
@@ -48,7 +45,7 @@ Der Gesang hat also mehrere Funktionen: Als Markierung des Reviers, als Lockruf 
 ## Arbeitsmaterial
 
 {{< arbeitsmaterial-container >}}
-{{< arbeitsmaterial file="add file name without extension" >}}
+{{< arbeitsmaterial file="warum-singen-voegel-arbeitsmaterial_b1bv4h" >}}
 {{< /arbeitsmaterial-container >}}
 
 ## 
