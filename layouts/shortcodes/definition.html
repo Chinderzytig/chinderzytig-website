@@ -1,7 +1,7 @@
-<div class="definition" id="definition-{{ .Get `wort`}}">
+<div class="definition" id="definition-{{ .Get `wort` | lower }}">
 	<div class="definition__content">
-		<a href="#fremdwort-{{ .Get `wort`}}" class="definition__close">&times;</a>
-		<h2 class="definition__word">{{ .Get "wort" }}</h2>
+		<a href="#fremdwort-{{ .Get `wort` | lower }}" class="definition__close">&times;</a>
+		<h2 class="definition__word">{{ .Get "wort" | humanize }}</h2>
 		<p class="definition__definition">{{ .Get "def" }}</p>
 	</div>
 </div>

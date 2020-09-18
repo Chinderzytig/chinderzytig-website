@@ -1,6 +1,6 @@
 body {
 	font-family: 'Lato', sans-serif;
-	font-size: $font-small;
+	font-size: $font-default;
 	font-weight: 100;
 	line-height: 1.6;
 }
@@ -82,10 +82,7 @@ body {
 		&-date {
 			font-weight: 300;
 
-			&--highlight {
-				font-size: $font-default;
-				font-weight: 300;
-			}
+			&--highlight { font-weight: 300; }
 		}
 	}
 }
@@ -94,7 +91,7 @@ body {
 .fremdwort {
 	&:link,
 	&:visited {
-		color: $chinder-verdigris;
+		color: $chinder-orange;
 	}
 }
 
@@ -108,7 +105,7 @@ body {
 			text-decoration: none;
 		}
 
-		&:hover { color: $chinder-verdigris; }
+		&:hover { color: $chinder-orange; }
 	}
 
 	&__word { font-size: $font-heading; }
@@ -178,10 +175,7 @@ body {
 		color: $chinder-orange;
 	}
 
-	&__title {
-		font-size: $font-default;
-		color: $chinder-verdigris;
-	}
+	&__title { color: $chinder-verdigris; }
 }
 
 
@@ -192,7 +186,6 @@ body {
 /* ----- NAVBAR ------ */
 .nav {
 	font-family: $font-patrick, $font-fallback;
-	font-size: $font-default;
 
 	&__notice {
 
@@ -287,10 +280,7 @@ body {
 		}
 	}
 
-	&--nav {
-		color: $social-base;
-		font-size: $font-default;
-	}
+	&--nav { color: $social-base; }
 
 	&--footer { color: $chinder-platinum; }
 
@@ -390,12 +380,12 @@ body {
 /* ----- SINGLE TEMPLATE ------ */
 .single {
 
-	&__image {
-
-		&-src { color: $social-base; }
+	&__date-author {
+		color: $social-base;
+		font-size: 1.3rem;
 	}
 
-	&__date-author {
+	&__image-src {
 		color: $social-base;
 		font-size: 1.3rem;
 	}
@@ -407,12 +397,11 @@ body {
 			color: $chinder-orange;
 		}
 
-		p {
-			font-size: 1.8rem;
-			text-align: justify;
-		}
+		p { text-align: justify; }
 
-		a { color: $color-black; }
+		a { color: $chinder-verdigris; }
+
+		.image__src { @extend .single__image-src; }
 	}
 
 	&__comments {
