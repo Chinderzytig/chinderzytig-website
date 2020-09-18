@@ -1,7 +1,6 @@
 +++
 artikel = true
 author = ""
-kategorien = ["Politik"]
 date = 2020-02-02T00:00:00Z
 description = ""
 fdw = false
@@ -9,9 +8,10 @@ hero_img = "/v1599985327/brexitisreal_tqvitt.jpg"
 img_description = "Two British protesters against Brexit"
 img_photographer = "Jannes Van den wouwer"
 img_src = "https://unsplash.com/@jannesvdw"
+kategorien = ["Europa", "Politik"]
+markierungen = ["Großbritannien"]
 paid = false
 slug = "brexitisreal"
-markierungen = ["Europa"]
 title = "Grossbritannien und die EU gehen getrennte Wege"
 
 +++
