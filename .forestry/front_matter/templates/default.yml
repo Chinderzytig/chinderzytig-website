@@ -23,13 +23,13 @@ fields:
   label: date
 - type: text
   name: author
-  label: author
   description: Author of the article
+  label: Article author
 - type: file
   name: hero_img
   label: hero_img
-  description: The main image for the article. Upload the image to Cloudinary first
-    then copy into this field the image name Cloudinary provides (ie. "coronavirus_rgdsvi.jpg").
+  description: The main image for the article. Upload the image to Cloudinary via
+    the "Upload" button in the top-right hand corner of the image library
 - type: text
   name: img_description
   label: img_description
@@ -64,8 +64,8 @@ fields:
     <strong>Südamerika</strong>, <strong>Europa</strong>, <strong>Afrika</strong>,
     <strong>Asien</strong>, <strong>Australien</strong>, <strong>Antarktis</strong>,
     <strong>Gesellschaft</strong>, <strong>Gesundheit</strong>, <strong>Medien</strong>,
-    <strong>Natur/Umwelt</strong>, <strong>Politik</strong>, <strong>Weltraum &amp;
-    Universum</strong>, <strong>Welt</strong>'
+    <strong>Natur/Umwelt</strong>, <strong>Politik</strong>, <strong>Weltraum/Universum</strong>,
+    <strong>Welt</strong>'
   config:
     use_select: false
   label: kategorien
