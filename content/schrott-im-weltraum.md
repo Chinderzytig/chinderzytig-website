@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-03-22T12:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600456406/weltraumschrott_bv1c6d.jpg"
 img_description = "Satellite in orbit"
@@ -24,7 +23,7 @@ Im Jahr 1957 gelang ein wichtiger Durchbruch in der Weltraumfahrt. Die Menschen 
 
 Viele alte Satelliten sind inzwischen kaputt gegangen oder werden nicht mehr gebraucht. Was aber passiert mit ihnen? Anders als auf der Erde gibt es im Weltraum keine Müllabfuhr. Die Satelliten kreisen deshalb auch im kaputten Zustand noch weiter um die Erde. Sie lassen sich nicht mehr steuern, prallen zusammen und zersplittern in kleinere Trümmerteile.
 
-{{< image img="Enter file with ext. here" desc="ia Wikimedia Commons" photographer="European Space Agency" src="https://commons.wikimedia.org/wiki/File:Why_space_debris_mitigation_is_needed_ESA289519.gif" cc_licence="CC BY-SA 3.0 IGO" cc_src="https://creativecommons.org/licenses/by-sa/3.0/igo/deed.de" >}}
+{{< image img="Why_space_debris_mitigation_is_needed_ESA289519_nenus1.gif" desc="ia Wikimedia Commons" photographer="European Space Agency" src="https://commons.wikimedia.org/wiki/File:Why_space_debris_mitigation_is_needed_ESA289519.gif" cc_licence="CC BY-SA 3.0 IGO" cc_src="https://creativecommons.org/licenses/by-sa/3.0/igo/deed.de" >}}
 
 ## Abfallgürtel um die Erde
 
