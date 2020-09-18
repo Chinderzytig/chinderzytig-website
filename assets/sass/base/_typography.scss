@@ -385,9 +385,12 @@ body {
 		font-size: 1.3rem;
 	}
 
-	&__image-src {
+	&__image-src,
+	&__caption-buffer,
+	&__cc-src {
 		color: $social-base;
 		font-size: 1.3rem;
+		text-decoration: none;
 	}
 
 	&__content {
@@ -401,7 +404,9 @@ body {
 
 		a { color: $chinder-verdigris; }
 
-		.image__src { @extend .single__image-src; }
+		.image__src,
+		.single__caption-buffer,
+		.single__cc-src { @extend .single__image-src; }
 
 		.arbeitsmaterial__link { color: $color-black; }
 	}

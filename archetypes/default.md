@@ -8,6 +8,8 @@ hero_img:
 img_description:
 img_photographer:
 img_src:
+cc_licence:
+cc_src:
 kategorien: []
 markierungen: []
 fdw: false
