@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-04-01T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600666052/me-too_u2x1uq.jpg"
 img_description = "A women holds up a sign with the hashtag '#metoo' written on it"
@@ -22,7 +21,9 @@ _Wenn ein Mensch einen anderen Menschen auf eine Art körperlich berührt, ohne 
 
 «Me too» bedeutet auf Deutsch soviel wie «ich auch».
 
-Diese zwei Worte sind die berühmtesten Worte auf sozialen Plattformen wie z.B Twitter. Diese Worte wurden so berühmt, weil im Oktober 2017 in der amerikanischen Zeitung «New York Times» ein Artikel über den 67 Jährigen erfolgreichen Filmproduzenten Harvey Weinstein erschien. Ihm wurde darin vorgeworfen, dass er mehrere Frauen [sexuell genötigt](https://www.chinderzytig.ch/faq) und einige auch vergewaltigt haben soll.
+Diese zwei Worte sind die berühmtesten Worte auf sozialen Plattformen wie z.B Twitter. Diese Worte wurden so berühmt, weil im Oktober 2017 in der amerikanischen Zeitung «New York Times» ein Artikel über den 67 Jährigen erfolgreichen Filmproduzenten Harvey Weinstein erschien. Ihm wurde darin vorgeworfen, dass er mehrere Frauen {{< fremdwort wort="sexuell-genötigt" >}} und einige auch vergewaltigt haben soll.
+
+{{< definition wort="sexuell-genötigt" def="Sexuelle Nötigung bedeutet, dass sexuelle Handlungen gegen den Willen des Opfers gemacht werden. Vergewaltigung ist auch eine Art von sexueller Nötigung, bei der das Opfer nicht «nur» zu sexuellen Handlungen, sondern auch zu Sex gezwungen wird." >}}
 
 {{< tweet 919659438700670976 >}}
 
@@ -34,26 +35,16 @@ Inzwischen werfen über 80 Frauen Weinstein vor, sie sexuell genötigt zu haben.
 
 ## Verantwortung vor Gericht
 
-Viele dieser Fälle sind schon verjährt. Aber zwei dieser Fälle sind noch aktuell und in diesen musste er kürzlich vor Gericht.
-
-Dies war sehr mutig von den beiden betroffenen Frauen, denn Harvey Weinstein ist so mächtig, dass sich fast niemand getraute, etwas zu sagen. Viele Frauen hatten auch Schweigegeld-Vereinbarungen unterzeichnet, was heisst, das Harvey Weinstein ihnen Geld überwiesen hat, damit sie nicht über die Vergewaltigungen oder Nötigungen sprechen.
-
-Deshalb war und ist dieses «Me Too» so wichtig, damit Missbrauchsopfer sehen, dass sie nicht alleine sind und sich wehren.
+Viele dieser Fälle sind schon verjährt. Aber zwei dieser Fälle sind noch aktuell und in diesen musste er kürzlich vor Gericht. Dies war sehr mutig von den beiden betroffenen Frauen, denn Harvey Weinstein ist so mächtig, dass sich fast niemand getraute, etwas zu sagen. Viele Frauen hatten auch Schweigegeld-Vereinbarungen unterzeichnet, was heisst, das Harvey Weinstein ihnen Geld überwiesen hat, damit sie nicht über die Vergewaltigungen oder Nötigungen sprechen. Deshalb war und ist dieses «Me Too» so wichtig, damit Missbrauchsopfer sehen, dass sie nicht alleine sind und sich wehren.
 
 ## Andere Männer sind Täter - und Opfer
 
-Am 11.3.2020 wurde Harvey Weinstein nun zu 23 Jahren Haft verurteilt. Es gibt jedoch nicht nur ihn, der als #metoo-Täter in Erinnerung bleibt. Es können auch noch weitere Verurteilungen folgen.
-
-Wichtig auch: nicht nur Frauen sind Opfer von sexueller Belästigung, auch Männer können Opfer werden. Jedoch deutlich seltener als das Frauen belästigt werden.
+Am 11.3.2020 wurde Harvey Weinstein nun zu 23 Jahren Haft verurteilt. Es gibt jedoch nicht nur ihn, der als #metoo-Täter in Erinnerung bleibt. Es können auch noch weitere Verurteilungen folgen. Wichtig auch: nicht nur Frauen sind Opfer von sexueller Belästigung, auch Männer können Opfer werden. Jedoch deutlich seltener als das Frauen belästigt werden.
 
 Dabei lernt man doch schon in der Schule: Mein Körper gehört mir!
 
 ## Weitere Links
 
 * [https://www.tagesschau.de/ausland/harvey-weinstein-urteil-haftstrafe-101.html](https://www.tagesschau.de/ausland/harvey-weinstein-urteil-haftstrafe-101.html "https://www.tagesschau.de/ausland/harvey-weinstein-urteil-haftstrafe-101.html")
-
-
 * [https://editionf.com/me-too-weinstein-alyssa-milano-twitter/](https://editionf.com/me-too-weinstein-alyssa-milano-twitter/ "https://editionf.com/me-too-weinstein-alyssa-milano-twitter/")
-
-
 * [https://www.stern.de/lifestyle/leute/harvey-weinstein--prozess-gegen-den-filmproduzenten-beginnt-in-new-york-9073606.html](https://www.stern.de/lifestyle/leute/harvey-weinstein--prozess-gegen-den-filmproduzenten-beginnt-in-new-york-9073606.html "https://www.stern.de/lifestyle/leute/harvey-weinstein--prozess-gegen-den-filmproduzenten-beginnt-in-new-york-9073606.html")
