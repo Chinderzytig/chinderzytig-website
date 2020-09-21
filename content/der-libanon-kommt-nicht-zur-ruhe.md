@@ -5,7 +5,6 @@ cc_licence = "CC BY-SA"
 cc_src = "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
 date = 2020-04-14T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600696017/libanon-krise_i5a75v.jpg"
 img_description = ""
@@ -22,11 +21,11 @@ _Seit dem 17. Oktober 2019 haben in der libanesischen Hauptstadt viele Demonstra
 
 Ein grosses Problem im Libanon ist, dass der Staat stark verschuldet ist. Du kannst dir das so vorstellen: Ein Staat hat eine Kasse, die Staatskasse. Das Geld in dieser Staatskasse kommt von den Menschen, die im Libanon leben, indem sie Steuern zahlen. Es kommt aber nicht nur Geld herein, sondern der Staat gibt das Geld auch aus. Zum Beispiel für den Bau von Schulen oder Strassen oder um damit Leute zu unterstützen, die keine Arbeit finden. Wenn aber kein Geld mehr in der Kasse ist und trotzdem noch welches gebraucht wird, kann der Staat dieses Geld zum Beispiel von Banken ausleihen. Die Bank will dieses Geld aber irgendwann zurückhaben. Der Staat macht also Schulden bei der Bank, diese nennt man Staatsschulden.
 
-{{< image img="Enter file with ext. here" desc="A flagpole adopts the symbol of the Lebanon demonstration movement, a hand with a fist and the Arabic word for revolution" photographer="Christelle Hayek" src="https://unsplash.com/@christelle_silentwarrior" >}}
-
 ## **Die Schulden bezahlt das Volk!?**
 
 Der Staat Libanon hat also seit einer Weile sehr hohe Staatsschulden. Er muss sich daher jetzt zuerst darum kümmern, diese zurückzubezahlen, bevor er zum Beispiel Strassen oder Stromleitungen, die kaputt sind, erneuern kann. Um die Staatsschulden bezahlen zu können, hat die Regierung beschlossen, die Steuern zu erhöhen. Das bedeutet, dass die Bevölkerung noch mehr Geld in die Staatskasse zahlen muss. Die Regierung hat zum Beispiel beschlossen, dass Menschen, die über Whatsapp telefonieren, dafür Geld an den Staat zahlen müssen. Stell dir also vor, für jedes Telefonat, das du über Whatsapp machst, müsstest du dem Staat Geld zahlen. Dies war einigen Leuten dann irgendwann zu viel und sie fingen an zu protestieren.
+
+{{< image img="libanon-krise-2_h60g3n.jpg" desc="A flagpole adopts the symbol of the Lebanon demonstration movement, a hand with a fist and the Arabic word for revolution" photographer="Christelle Hayek" src="https://unsplash.com/@christelle_silentwarrior" >}}
 
 ## Viele Protestaktionen
 
