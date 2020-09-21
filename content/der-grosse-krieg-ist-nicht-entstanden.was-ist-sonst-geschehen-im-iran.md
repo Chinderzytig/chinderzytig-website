@@ -5,7 +5,6 @@ cc_licence = "CC BY"
 cc_src = "https://creativecommons.org/licenses/by/4.0/deed.de"
 date = 2020-06-12T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600682734/iran_gexg9a.jpg"
 img_description = "Via Wikimedia Commons"
@@ -22,7 +21,7 @@ _Bald ist ein halbes Jahr vergangen, seit der iranische General Qasem Soleimani 
 
 Einige Tage nach der Beerdigung des legendären Generals im Januar dieses Jahres hat das iranische Militär – die Revolutionsgarden – eine Racheaktion durchgeführt. Gebäude des US-Militärs im Nachbarland Irak wurden von Raketen beschossen. Niemand wurde dabei verletzt. Diese Tatsache deutet eher darauf hin, dass die Regierung im Iran keinen Krieg herausfordern wollte. Das iranische Militär ist nämlich gut ausgerüstet und hätte auch anders reagieren können.
 
-{{< image img="Enter file with ext. here" desc="Via Wikimedia Commons" photographer="sayyed shahab-o- din vajedi" src="![](https://commons.wikimedia.org/wiki/File:Sardar_Qasem_Soleimani-04.jpg)" cc_licence="CC BY" cc_src="https://creativecommons.org/licenses/by/4.0/deed.de" >}}
+{{< image img="Sardar-Qasem-Soleimani-04_zvjo9w.jpg" desc="Via Wikimedia Commons" photographer="sayyed shahab-o- din vajedi" src="![](https://commons.wikimedia.org/wiki/File:Sardar_Qasem_Soleimani-04.jpg)" cc_licence="CC BY" cc_src="https://creativecommons.org/licenses/by/4.0/deed.de" >}}
 
 ## Unglück​
 
@@ -30,7 +29,9 @@ Leider gab es zu diesem Zeitpunkt noch einen anderen traurigen Zwischenfall. Ein
 
 ## Kampf auf eine andere Art
 
-Die Reibereien zwischen der USA und dem Iran gehen weiter. Der US-Präsident [Donald Trump](https://www.chinderzytig.ch/donaldtrump) setzt momentan mehr auf die Schwächung der iranischen Wirtschaft als auf militärische Aktionen. Seine [Sanktionen](https://www.chinderzytig.ch/faq) verbieten es Firmen aus den USA, Geschäfte mit iranischen Firmen zu machen. Die USA will sogar Unternehmen aus anderen Ländern bestrafen, wenn sie Geschäfte im Iran machen. Gerade in der Corona-Krise wären aber die Menschen auf Geschäfte mit anderen Ländern angewiesen.
+Die Reibereien zwischen der USA und dem Iran gehen weiter. Der US-Präsident [Donald Trump](https://www.chinderzytig.ch/donaldtrump) setzt momentan mehr auf die Schwächung der iranischen Wirtschaft als auf militärische Aktionen. Seine {{< fremdwort wort="Sanktionen" >}} verbieten es Firmen aus den USA, Geschäfte mit iranischen Firmen zu machen. Die USA will sogar Unternehmen aus anderen Ländern bestrafen, wenn sie Geschäfte im Iran machen. Gerade in der Corona-Krise wären aber die Menschen auf Geschäfte mit anderen Ländern angewiesen.
+
+{{< definition wort="Sanktionen" def="Das Wort kommt aus dem Lateinischen. Eine Bedeutung ist 'Bestätigung'. Meistens wird das Wort dafür benutzt, wenn von Massnahmen die Rede ist. Sanktionen werden verhängt als Massnahmen für ein Verhalten, dass nicht geduldet wird. Es ist eine Möglichkeit der Bestrafung." >}}
 
 ## Corona-Krise in Iran
 
@@ -41,5 +42,5 @@ Seit Januar dieses Jahres hat der Iran auch mit dem Corona-Virus zu kämpfen. Ne
 ## Arbeitsmaterial
 
 {{< container-center >}}
-{{< arbeitsmaterial file="add file name without extension" >}}
+{{< arbeitsmaterial file="iran-arbeitsmaterial_djnhsy" >}}
 {{< /container-center >}}
