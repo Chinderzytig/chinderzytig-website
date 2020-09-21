@@ -5,7 +5,6 @@ cc_licence = "CC BY-SA"
 cc_src = "https://creativecommons.org/licenses/by-sa/2.0/deed.de"
 date = 2020-09-11T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600698786/UA_Flight_175_hits_WTC_south_tower_9-11_dkcdgz.jpg"
 img_description = "Via Wikimedia Commons"
@@ -14,7 +13,7 @@ img_src = "https://commons.wikimedia.org/wiki/File:UA_Flight_175_hits_WTC_south_
 kategorien = ["Nordamerika", "Politik"]
 markierungen = ["USA", "Kriege/Konflikte"]
 paid = false
-slug = ""
+slug = "nine-eleven"
 title = "9/11 - ein Datum, das die Welt veränderte"
 
 +++
@@ -25,6 +24,8 @@ Es gibt (zum Teil) wenig weltbewegende Ereignisse, die man ebenfalls nicht vergi
 ## Osama bin Laden - der Überterrorist
 
 Die Welt war in Schockstarre. Erstmals wurde eine terroristische Attacke in dieser Grösse auf dem Festland der USA “erfolgreich” ausgeführt. Die USA, bis dorthin der Weltpolizist und die Sicherheit der westlichen Bevölkerung, war plötzlich verletzbar. Die TV-Kanäle übertrugen die Attacken und auch die Einstürze der Hochhäuser live – weltweit! Die Menschen hatten Angst, übrigens auch in Europa: War das der Beginn des 3. Weltkrieges? Wer steckt dahinter? Folgen noch mehr Attacken? In der Tat. Der Terrorismus hatte einen neuen Höhepunkt erreicht und an seiner Spitze stand ein Mann der Gruppe al-Qaida: Osama bin Laden. Der meistgesuchte Terrorist und offenbar Drahtzieher hinter dem Ganzen. Die Wut und der Hass auf die USA wuchs seit Jahrzehnten und ist bis ins heutige Jahr spürbar. Dieser Terrorangriff sollte ein grosses Zeichen setzen.
+
+{{< image img="nine-eleven_fhmwg0.jpg" desc="The World Trade Center tribute in light ties in with the New York skyline" photographer="Matteo Catanese" src="https://unsplash.com/@matteocatanese" >}}
 
 ## Die Folgen sind verheerend
 
@@ -38,6 +39,4 @@ Warum sagt man 9/11 (nine-eleven)? Im US-Englisch nimmt man den Monat vor dem Ta
 
 ## Arbeitsmaterial
 
-{{< container-center >}}
-{{< arbeitsmaterial file="add file name without extension" >}}
-{{< /container-center >}}
+{{< container-center >}} {{< arbeitsmaterial file="nine-eleven-arbeitsmaterial_upqqbx" >}} {{< /container-center >}}
