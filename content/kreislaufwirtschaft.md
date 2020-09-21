@@ -49,8 +49,8 @@ Am 17. September 2020 fand die Konferenz zur Kreislaufwirtschaft statt. Diese Ko
 
 ## Arbeitsmaterial
 
-{{< arbeitsmaterial-container >}}
+{{< container-center >}}
 {{< arbeitsmaterial file="Kreislaufwirtschaft-arbeitsmaterial_fgferx" >}}
-{{< /arbeitsmaterial-container >}}
+{{< /container-center >}}
 
 ## 

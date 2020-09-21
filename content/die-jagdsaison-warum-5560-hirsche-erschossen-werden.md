@@ -46,6 +46,6 @@ Jagd in Graubünden:
 
 ## Arbeitsmaterial
 
-{{< arbeitsmaterial-container >}}
+{{< container-center >}}
 {{< arbeitsmaterial file="jagsaison-arbeitsmaterial_td4zbb" >}}
-{{< /arbeitsmaterial-container >}}
+{{< /container-center >}}

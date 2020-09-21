@@ -39,6 +39,11 @@
 		h2 { margin-bottom: 1.5rem; }
 
 		p, li { margin-bottom: $margin-s; }
+
+		&-iframe {
+			display: flex;
+			align-self: center;
+		}
 	}
 
 	&__comments {
