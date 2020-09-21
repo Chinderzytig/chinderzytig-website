@@ -5,7 +5,6 @@ cc_licence = "CC0"
 cc_src = "https://creativecommons.org/publicdomain/zero/1.0/deed.de"
 date = 2020-05-20T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600674161/1280px-Hanau_attack_memorial_protest_Hanau_2020-08-22_27_xv6rxs.jpg"
 img_description = "Via Wikimedia Commons"
@@ -25,6 +24,8 @@ _In Deutschland gab es in den letzten Monaten drei rechtsterroristische Attentat
 Deutschland geriet während dem 2. Weltkrieg durch den ausgeübten Nationalsozialismus stark in Kritik. Es ging darum, Deutschland von allen anderen zu befreien. Diese vergangenen Ereignisse setzen Deutschland bis heute unter Druck gegen rechtsextremistische Bewegungen vorzugehen.
 
 Zu den letzten Ereignissen: In Kassel wurde der Politiker Walter Lübcke von einem Rechtsextremisten erschossen. Der Politiker setzte sich für die Aufnahme von Flüchtlingen ein. Die Aufnahme von Flüchtlingen widerspricht der Einstellung der Rechtsextremen. In Halle versuchte ein Rechtsextremist am höchsten jüdischen Feiertag («Jom Kippur» vergleichbar mit Weihnachten für Christen) in eine Synagoge (Kirche) einzubrechen und die feiernden Menschen zu töten. Er konnte nicht in die Synagoge einbrechen, tötete jedoch eine Person vor dem Gebäude. Das letzte Attentat ereignete sich am 19. Februar 2020 in Hanau. Es wurden neun Personen in und um zwei Shisha Bars – Bars in denen spezieller aus dem arabischem Raum stammender Tabak geraucht wird – getötet und weitere Menschen teilweise schwer verletzt.
+
+{{< image img="AfD-hand-bills-flyer_dgb5hq.jpg" desc="Via Wikimedia Commons" photographer="Oxfordian Kissuth" src="https://commons.wikimedia.org/w/index.php?curid=50926458" cc_licence="CC BY-SA 3.0" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
 
 ## Wieso kam es überhaupt zu rechtsterroristischen Anschlägen?
 
