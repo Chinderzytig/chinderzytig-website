@@ -34,3 +34,13 @@ Lange lebte das kurdische Volk unabhängig in der Region, welche auf der Karte g
 Nach dem ersten Weltkrieg wurde das Osmanische Reich aufgelöst und auf verschiedene Staaten aufgeteilt. Dabei entstand zum Beispiel Armenien. Viele Völker erhielten einen eigenen Staat. Die Kurden jedoch nicht. Das damalige Kurdistan wurde nach dem ersten Weltkrieg so aufgeteilt, wie wir es heute kennen: zwischen der Türkei, Syrien, Irak und Iran. Viele Kurden lebten dann als Minderheit in diesen Staaten. Oftmals wurden sie vom Staat diskriminiert und unterdrückt (z.B. Verbot der kurdischen Sprache). Die Kurden kämpften jedoch weiterhin um ihre Unabhängigkeit innerhalb der verschiedenen Staaten. Sie protestierten und organisierten Aufstände, welche aber grösstenteils erfolglos waren. Einzig im Irak konnten die Kurden ein unabhängiges Gebiet mit einer eigenen Regierung, erkämpfen.
 
 Wenn ihr mehr zu den Kurden erfahren wollt, könnt ihr einen unserer bereits publizierten [Artikel](https://www.chinderzytig.ch/kurden-in-syrien) lesen.
+
+{{< teiler >}}
+
+## Arbeitsmaterial
+
+{{< container-center >}}
+{{< arbeitsmaterial file="kurdische-volk-arbeitsmaterial_op1rav" >}}
+{{< /container-center >}}
+
+## 
