@@ -5,14 +5,13 @@ cc_licence = ""
 cc_src = ""
 date = 2020-07-03T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600700856/palaestinensischer-terrorismus_egog6d.jpg"
 img_description = "A Palestinian youth throws a stone with a home-made sling through thick black smoke"
 img_photographer = "hosny salah"
 img_src = "https://pixabay.com/users/hosny_salah-10285169/"
-kategorien = []
-markierungen = []
+kategorien = ["Asien", "Politik"]
+markierungen = ["Palästina", "Kriege/Konflikte"]
 paid = false
 slug = "palaestinensischer-terrorismus"
 title = "Palästinensischer Terrorismus"
@@ -28,7 +27,7 @@ Die Zeit vom Ersten Weltkrieg bis 2006 war geprägt von mehreren Kriegen und vie
 
 Weil die Aufstandsversuche der PLO in Israel zu keinem Erfolg führten, führte sie weltweit terroristische Anschläge durch, die auf ihre Situation aufmerksam machen sollten. So verübte beispielsweise die Terrororganisation „Der Schwarze September“ einen Anschlag auf die Olympischen Spiele 1972 in München. Die Terroristen nahmen das israelische Olympiateam als Geisel. Der Rettungsversuch der Geiseln missglückte und alle israelischen Athleten kamen ums Leben.
 
-{{< image img="Enter file with ext. here" desc="Via Wikimedia Commons" photographer="ChrisO" src="![](https://commons.wikimedia.org/wiki/File:Israel_and_occupied_territories_map.png)" cc_licence="Public domain" cc_src="https://creativecommons.org/publicdomain/zero/1.0/deed.de" >}}
+{{< image img="Israel_and_occupied_territories_map_cmbsyc.png" desc="Via Wikimedia Commons" photographer="ChrisO" src="![](https://commons.wikimedia.org/wiki/File:Israel_and_occupied_territories_map.png)" cc_licence="Public domain" cc_src="https://creativecommons.org/publicdomain/zero/1.0/deed.de" >}}
 
 ## Mediales Interesse aufgrund von Unklarheiten
 
@@ -47,5 +46,5 @@ Riegler, Thomas (2018): «Das «Spinnennetz» des internationalen Terrorismus- D
 ## Arbeitsmaterial
 
 {{< container-center >}}
-{{< arbeitsmaterial file="add file name without extension" >}}
+{{< arbeitsmaterial file="palaestinensischer-terrorismus-arbeitsmaterial_xz6iwc" >}}
 {{< /container-center >}}
