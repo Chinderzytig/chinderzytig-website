@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2019-09-21T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600671557/brexit_bg4nrq.jpg"
 img_description = "A portrait of UK Prime Minister on a sign, altered to look like that of the character Joker from the 2019 major motion picture Joker."
@@ -27,7 +26,7 @@ England gehört zur EU dazu. Nun hat ein bisschen mehr als die Hälfte des Volke
 ## Arbeitsmaterial
 
 {{< container-center >}}
-{{< arbeitsmaterial file="add file name without extension" >}}
+{{< arbeitsmaterial file="brexit_fhv0qz" >}}
 {{< /container-center >}}
 
 ## 
