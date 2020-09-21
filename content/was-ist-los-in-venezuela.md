@@ -5,7 +5,6 @@ cc_licence = "CC BY"
 cc_src = "https://creativecommons.org/licenses/by/2.0/deed.de"
 date = 2020-05-12T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600703920/venezuela_fqboia.jpg"
 img_description = "Via Wikimedia Commons"
@@ -28,7 +27,7 @@ In den 1990er Jahren steckte das Land in der Krise. Den Menschen ging es schlech
 
 Nach der Machtübernahme Maduros sanken die Erdöleinnahmen weiter. Der Staat verschuldete sich massiv. Aufgrund der sinkenden Staatseinnahmen können die Sozialprogramme für die arme Bevölkerung nicht mehr finanziert werden. Die Bevölkerung kann mit ihrem Lohn nicht mehr genügend Lebensmittel und die notwendigen Medikamente kaufen. Denn viele Lebensmittel und Medikamente werden aus dem Ausland importiert und sind darum teuer. Viele Supermärkte waren seit 2017 sogar leer. Die Folgen sind Hunger und medizinische Unterversorgung. Die Armut nahm in den letzten Jahren stark zu. Darum sind bis heute mehrere Millionen Venezolanerinnen und Venezolaner in die umliegenden Länder geflüchtet.
 
-{{< image img="Enter file with ext. here" desc="Portrait of Nicolás Maduro" photographer="Eneas De Troya" src="https://www.flickr.com/photos/99479626@N00/32116169602" cc_licence="CC BY" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
+{{< image img="venezuela-2_qzmzja.jpg" desc="Portrait of Nicolás Maduro" photographer="Eneas De Troya" src="https://www.flickr.com/photos/99479626@N00/32116169602" cc_licence="CC BY" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
 
 Im Januar 2019 liess ein neuer Mann von sich sprechen: Juan Guaidó. Er sagte, dass die Wiederwahl des aktuellen Präsidenten Maduro nicht gültig sei und ernannte sich selbst zum Präsidenten. Er versprach, die katastrophale Lage der Menschen zu verbessern. Viele Staaten anerkannten ihn als Präsidenten. Guaidó rief das Volk zu Protesten gegen Maduro auf. Anfangs verzeichnete Guaidó damit Erfolge. Die Venezolaner und Venezolanerinnen gingen auf die Strasse und forderten den Rücktritt des Präsidenten Maduro.
 
