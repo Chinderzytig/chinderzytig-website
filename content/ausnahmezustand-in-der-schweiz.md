@@ -1,16 +1,15 @@
 +++
 artikel = true
 author = ""
-cc_licence = "PDM 1.0"
-cc_src = "https://creativecommons.org/publicdomain/mark/1.0/deed.de"
+cc_licence = ""
+cc_src = ""
 date = 2020-01-26T12:00:00Z
 description = ""
-draft = true
 fdw = false
-hero_img = "/v1600715321/wef_dwpvs0.jpg"
-img_description = "President Trump at Davos"
-img_photographer = "The White House"
-img_src = "https://www.flickr.com/photos/148748355@N05/49419287718"
+hero_img = "/v1600716107/wef-2_zbhbo1.jpg"
+img_description = "View of Davos and surrounding mountains"
+img_photographer = "Evangeline Shaw"
+img_src = "https://unsplash.com/@evangelineshaw"
 kategorien = ["Europa", "Politik"]
 markierungen = ["Schweiz", "Organisationen"]
 paid = false
@@ -23,6 +22,8 @@ _Kein Kind und keine erwachsene Person kriegte es in der vergangenen Woche NICHT
 In Davos fand ein mehrtägiges Treffen statt, an dem viele Präsidenten, Regierungen, Manager etc. teilnahmen. Man nennt dieses Treffen: WEF. Das heisst «World Economic Forum», oder auf deutsch «Weltwirtschafts-Forum». Es geht um die Zusammenarbeit auf der Erde – und um Geld. Viel Geld. Wenn das Wort {{< fremdwort wort="Wirtschaft" >}} fällt, hat es immer etwas mit Geld zu tun. Und wenn es um Geld geht, ist ein Mann nicht weit: Donald Trump. Obwohl es ganz viele Teilnehmende hatte, drehte sich alles um Trump. Böse Zungen behaupten, es sei ein Trump-Festival gewesen.
 
 {{< definition wort="Wirtschaft" def="Wirtschaft (Fremdwort: Ökonomie) beinhaltet die gesamte Arbeitswelt, den Handel mit Gütern und dasThema Geld. Wo Menschen arbeiten, stellen sie etwas her. Entweder ersichtlich (Möbel, Kleider...) oder nicht fassbar (z.B. soziale Dienstleistungen). Alle Arbeitsbereiche zusammengefasst bilden die Wirtschaft. Es gibt Unterthemen, beispielsweise die Landwirtschaft, Autoindustrie, Nahrungsmittelwirtschaft..." >}}
+
+{{< image img="wef_dwpvs0.jpg" desc="President Trump at Davos" photographer="The White House" src="https://www.flickr.com/photos/148748355@N05/49419287718" cc_licence="CC PDM 1.0" cc_src="https://creativecommons.org/publicdomain/mark/1.0/deed.de" >}}
 
 Wozu das WEF? Zum 50. Mal haben sich viele einflussreiche Menschen nun bereits in Davos getroffen, um grosse Themen zu besprechen: Weltfrieden, Gerechtigkeit, wirtschaftlicher Aufschwung (also die Pläne, damit es den Ländern finanziell besser geht), Klimawandel und Umweltschutz. Es gibt viele Diskussionen, Vorträge, Gesprächsrunden, auch im kleinen Rahmen. Änderungen sind für Aussenstehende nicht immer ersichtlich. Aber, dass Jahr für Jahr die Personen mit dem weltweit grössten Einfluss nach Davos reisen, beweist, dass das WEF als Treffpunkt sehr gut dient und schon nur deswegen wichtig ist.
 
