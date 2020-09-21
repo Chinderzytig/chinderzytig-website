@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-06-19T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600684767/kurden-in-syrien_wqmlag.jpg"
 img_description = "Kurdish protestors march in London against the Turkish state’s invasion of Syria"
@@ -30,7 +29,7 @@ Nach der Unabhängigkeit des Landes 1946 gerieten die Kurden in Syrien zunehmend
 
 Im Chaos des Bürgerkriegs gelang es den syrischen Kurden im Sommer 2012 das von ihnen kontrollierte Gebiet «Rojava» im Nordosten von Syrien zu etablieren. Präsident Assad,die syrische Armee und die Polizei hatten sich aus den mehrheitlich kurdischen Grenzgebieten zurückgezogen, um sich auf den Kampf gegen die Gegner zu konzentrieren. Die Kontrolle über Rojava wurde daher dem «Militär» der syrischen Kurden übergeben.
 
-{{< image img="Enter file with ext. here" desc="Buildings in Aleppo damaged by the ongoing conflict" photographer="aladdin hammami" src="https://unsplash.com/@soriaty" >}}
+{{< image img="kurden-in-syrien-2_s5fonx.jpg" desc="Buildings in Aleppo damaged by the ongoing conflict" photographer="aladdin hammami" src="https://unsplash.com/@soriaty" >}}
 
 Der türkische Präsident Erdoğan, der in seinem Land die Kurden stark unterdrückt, fürchtete nun, dass durch die Unabhängigkeitsbewegung der Kurden in Rojava die türkischen Kurden ebenfalls einen eigenen Staat fordern würden. Die Türkei ist zusätzlich durch die vielen syrischen Flüchtlinge belastet, die seit 2011 in die Türkei geflohen sind.Erdoğan hat daher einen neuen Plan: Er möchte im Norden Syriens an der Grenze zur Türkei (also in Rojava) eine sogenannte «Sichere Zone» aufbauen und dort syrische Flüchtlinge in ihr Land zurückführen. Diese geplante 30 km breite Zone umfasstalle wichtigen Städte von Rojava, weswegen die Kurden – falls die Zone tatsächlich eingeführt würde – wieder verdrängt und ihrer grössten Selbstbestimmung beraubt würden.
 
@@ -43,5 +42,5 @@ Rund 150’000 Frauen, Männer und Kinder sind wegen des türkischen Angriffs be
 ## Arbeitsmaterial
 
 {{< container-center >}}
-{{< arbeitsmaterial file="add file name without extension" >}}
+{{< arbeitsmaterial file="kurden-in-syrien-arbeitsmaterial_qiuzsc" >}}
 {{< /container-center >}}
