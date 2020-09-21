@@ -5,7 +5,6 @@ cc_licence = "CC0"
 cc_src = "https://creativecommons.org/publicdomain/zero/1.0/deed.de"
 date = 2020-06-22T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600680714/Kurdish-inhabited_area_by_CIA__1992__box_inset_removed_b6wcez.jpg"
 img_description = "Via Wikimedia Commons"
@@ -28,7 +27,7 @@ Der grösste Teil der Kurden gehört einer Untergruppe des {{< fremdwort wort="I
 
 Lange lebte das kurdische Volk unabhängig in der Region, welche auf der Karte gekennzeichnet ist. Später eroberte das Osmanische Reich dieses Gebiet und die Kurden waren Teil dieses Osmanischen Reiches. Schnell erkämpften sie sich jedoch die Unabhängigkeit in ihrer Region. Das heisst, die Kurden konnten unabhängig vom Osmanischen Reich ihr Gebiet verwalten. Sie gehörten dennoch offiziell zum Osmanischen Reich.
 
-{{< image img="Enter file with ext. here" desc="Kurdistan flag flying in Erbil, Iraq" photographer="Agreen Duhoki" src="https://unsplash.com/@agreen1" >}}
+{{< image img="kurdisches-volk-2_ddxvbw.jpg" desc="Kurdistan flag flying in Erbil, Iraq" photographer="Agreen Duhoki" src="https://unsplash.com/@agreen1" >}}
 
 ## Aufteilung des Osmanischen Reichs
 
