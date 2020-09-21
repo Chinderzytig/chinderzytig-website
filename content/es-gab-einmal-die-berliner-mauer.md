@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2019-11-09T12:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600676242/der-fall-der-berliner-mauer_nytxue.jpg"
 img_description = "Preserved section of the Berlin Wall along Niederkirchnerstraße"
@@ -20,11 +19,17 @@ title = "Es gab einmal… die Berliner Mauer"
 +++
 _Berlin war während 28 Jahren eine geteilte Stadt. Durch eine Mauer wurde Ostberlin von Westberlin getrennt. Die beiden Stadtteile wurden von fremden Ländern geführt und entwickelten sich dadurch äusserst unterschiedlich._
 
-Für Menschen unter 30 ist es nahezu unvorstellbar, dass eine Weltstadt einfach so geteilt werden konnte. Deutschland wurde nach dem [Zweiten Weltkrieg](https://www.chinderzytig.ch/faq) innerhalb der Siegerländer aufgeteilt. Die Sieger waren damals die USA, [Sowjetunion](https://www.chinderzytig.ch/faq), Grossbritannien und Frankreich. Das ganze Land wurden in vier Teile aufgeteilt; den russischen Teil nannte man [DDR](https://www.chinderzytig.ch/faq).
+Für Menschen unter 30 ist es nahezu unvorstellbar, dass eine Weltstadt einfach so geteilt werden konnte. Deutschland wurde nach dem {{< fremdwort wort="zweiten-weltkrieg" >}} innerhalb der Siegerländer aufgeteilt. Die Sieger waren damals die USA, {{< fremdwort wort="Sowjetunion" >}}, Grossbritannien und Frankreich. Das ganze Land wurden in vier Teile aufgeteilt; den russischen Teil nannte man {{< fremdwort wort="DDR" >}}.
+
+{{< definition wort="zweiten-weltkrieg" def="Die Menschheit hat bisher zwei Weltkriege erlebt, also Kriege, die weltweit gleichzeitig durchgeführt wurden. Oft ging es um zwei Gruppen von einflussreichen Ländern, die vor allem ihre Macht erweitern wollten. Beide Weltkriege waren von der Grösse und den Verlusten schrecklich. Der Erste Weltkrieg war von 1914 -1918 und der Zweite dauerte von 1939 – 1945." >}}
+
+{{< definition wort="Sowjetunion" def="Das war ein riesiges Land, bestehend vor allem aus Russland und vielen baltischen Staaten, wie zum Beispiel Lettland, Litauen, aber auch Teile Polens, Tschechiens, der Slowakei usw. Die Sowjetunion zerbrach in der Zeit nach dem Berliner Mauerfall." >}}
+
+{{< definition wort="DDR" def="Die Deutsch-Demokratische Republik (DDR) war der Viertel des geteilten Deutschlands, der vor allem von der ehemaligen Sowjetunion regiert wurde. Die DDR galt als eine Art Gegenteil zu der von westlichen Ländern regierten Bundesrepublik Deutschland (BRD)." >}}
 
 Genau gleich wurde Berlin geviertelt. Dies führte dazu, dass sich besonders die USA, als Land des Westens, und Russland, als Land des Ostens, nach wie vor uneinig waren, wie gelebt und geführt werden soll. Als Resultat wurde mitten durch Berlin eine Mauer gezogen, die den Westen vom Osten trennte. Die Menschen, die dort lebten, waren fortan gezwungen, ihr Glück oder Unglück einfach anzunehmen. Reisen in die anderen Stadtteile waren nur sehr schwer machbar oder gar nicht erlaubt. Im Westen lebte man modern und fortschrittlich und genoss die amerikanische Kultur mit Kino und Coca Cola. Im Osten hingegen blieb man in vielen Bereichen des Lebens stehen und hatte eine ganz eigene Kultur, eigene Nahrungsmittel und ein ganz anderes Gefühl, was Freiheit für den Menschen ist, als die Leute vom Westen.
 
-{{< image img="Enter file with ext. here" desc="Via Wikimedia Commons" photographer="Lear 21 at English Wikipedia" src="![](https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg)" cc_licence="CC BY-SA" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
+{{< image img="West_and_East_Germans_at_the_Brandenburg_Gate_in_1989_pofr4i.jpg" desc="Via Wikimedia Commons" photographer="Lear 21 at English Wikipedia" src="![](https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg)" cc_licence="CC BY-SA" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
 
 Am 9.11.1989 fiel die Mauer, für viele eher überraschend, und seither sind Deutschland und die DDR wiedervereinigt und ein Land, so wie wir es kennen.
 
