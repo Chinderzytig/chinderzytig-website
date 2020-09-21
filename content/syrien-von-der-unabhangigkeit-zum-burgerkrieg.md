@@ -5,11 +5,10 @@ cc_licence = "CC BY-ND"
 cc_src = "https://creativecommons.org/licenses/by-nd/2.0/deed.de"
 date = 2020-04-17T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1600701966/7805643488_3c9e4e929d_b_uwcrvp.jpg"
 img_description = "A Free Syrian Army fighter takes cover during clashes with Syrian Army in the Salaheddine neighbourhood of central Aleppo"
-img_photographer = "https://www.flickr.com/photos/aanis/"
+img_photographer = "a.anis"
 img_src = "https://www.flickr.com/photos/78607708@N02/7805643488"
 kategorien = ["Asien", "Politik"]
 markierungen = ["Syrien", "Kriege/Konflikte"]
@@ -24,7 +23,7 @@ _Während dem_ {{< fremdwort wort="zweiten-weltkrieg" >}} _waren die Franzosen i
 
 Nachdem die Franzosen gingen, musste jemand neues bestimmen was die Rechte und Regeln sind. Seitdem gab es viele Wechsel. Heute ist Baschar al-Assad an der Macht. Er ist der syrische Präsident. Baschar al-Assad sagt nun was man darf und was nicht. Doch er und die Bewohner des Landes Syriens hatten unterschiedliche Vorstellungen von den Regeln.
 
-{{< image img="Enter file with ext. here" desc="Typical propaganda poster featuring Syrian president Bashar al-Assad" photographer="watchsmart" src="https://www.flickr.com/photos/7741046@N06/1457463017" cc_licence="CC BY" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
+{{< image img="1457463017_a4772ec16b_k_utcajx.jpg" desc="Typical propaganda poster featuring Syrian president Bashar al-Assad" photographer="watchsmart" src="https://www.flickr.com/photos/7741046@N06/1457463017" cc_licence="CC BY" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
 
 ## Ein Präsident gegen das Volk
 
