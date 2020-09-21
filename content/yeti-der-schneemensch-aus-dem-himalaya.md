@@ -19,7 +19,7 @@ title = "Yeti: Der Schneemensch aus dem Himalaya"
 +++
 ## Serie: Sagenhafte Tiere
 
-**Die Chinderzytig berichtet in einer Artikel-Serie über bekannte Tiere, die es wahrscheinlich gar nicht gibt. Der Yeti macht den Anfang. Es folgen Artikel über Nessie und den Bigfoot.**
+**Die Chinderzytig berichtet in einer Artikel-Serie über bekannte Tiere, die es wahrscheinlich gar nicht gibt. Der Yeti macht den Anfang. Es folgen Artikel über** [**Nessie**](https://www.chinderzytig.ch/sagenhafte-tiere-teil-2-nessie) **und den** [**Bigfoot**](https://www.chinderzytig.ch/sagenhafte-tiere-teil-3-bigfoot)**.**
 
 _In den Bergen rund um den Mount Everest soll er leben: der Yeti. Gefunden hat das faszinierende Tier aber noch niemand._
 
