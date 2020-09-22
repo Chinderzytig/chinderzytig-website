@@ -1,13 +1,15 @@
 +++
 artikel = true
 author = "Annic Berset"
+cc_licence = ""
+cc_src = ""
 date = 2020-08-23T23:00:00Z
 description = ""
 fdw = false
-hero_img = "/v1600267321/rega_sbntxx.jpg"
+hero_img = "/v1600769259/rega_aiugxj.jpg"
 img_description = "Rega helicopter landing in the mountains"
-img_photographer = "Rega"
-img_src = "https://www.rega.ch/rega-erleben/in-wort-und-bild#bilder"
+img_photographer = "Yoshiki 787"
+img_src = "https://unsplash.com/@yoshiki787"
 kategorien = ["Europa", "Gesundheit"]
 markierungen = ["Schweiz", "Organisationen"]
 paid = false
@@ -29,7 +31,7 @@ Bei schlechtem Wetter oder wenn das Gelände sehr steil ist, kann der Pilot oft 
 
 So sieht die Arbeit mit der Rettungswinde aus: [https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf](https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf "https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf")
 
-{{< image img="rega-2_chnnoo.jpg" desc="Rega plane flying over the Alps" src="https://www.rega.ch/rega-erleben/in-wort-und-bild#bilder" photographer="Rega" >}}
+{{< image img="rega-2_wfozso.jpg" desc="Rega plane flying over the Alps" src="https://unsplash.com/@mrcalvert" photographer="Seb Mooze" >}}
 
 ## Bis ans andere Ende der Welt
 
