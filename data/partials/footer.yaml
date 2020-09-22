@@ -1,0 +1,47 @@
+main:
+  - label: Artikel
+    link: "/alle-artikel"
+  - label: Fokus der Woche
+    link: "/fokus-der-woche"
+  - label: Abonnemente
+    link: "/abonnemente"
+  - label: Der Verein
+    link: "/verein"
+  - label: Kontakt
+    link: "/kontakt"
+  - label: Seitenverzeichnis
+    link: "#"
+  - label: Datenschutz
+    link: "#"
+  - label: Admin
+    link: "/admin"
+left:
+  - label: Nordamerika
+    link: "/kategorien/nordamerika"
+  - label: Südamerika
+    link: "/kategorien/südamerika"
+  - label: Europa
+    link: "/kategorien/europa"
+  - label: Afrika
+    link: "/kategorien/afrika"
+  - label: Asien
+    link: "/kategorien/asien"
+  - label: Australien
+    link: "/kategorien/australien"
+  - label: Antarktis
+    link: "#"
+right:
+  - label: Gesellschaft
+    link: "/kategorien/gesellschaft"
+  - label: Gesundheit
+    link: "/kategorien/gesundheit"
+  - label: Medien
+    link: "/kategorien/medien"
+  - label: Natur/Umwelt
+    link: "/kategorien/natur/umwelt"
+  - label: Politik
+    link: "/kategorien/politik"
+  - label: Weltraum/Universum
+    link: "/kategorien/weltraum/universum"
+  - label: Welt
+    link: "/kategorien/welt"
