@@ -54,12 +54,5 @@
 		}
 	}
 
-	&--antarctica {
-		fill: $chinder-platinum;
-
-		&:hover,
-		&:active {
-			fill: $social-base;
-		}
-	}
+	&--antarctica { fill: $chinder-platinum; }
 }
