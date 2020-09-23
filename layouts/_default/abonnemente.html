@@ -38,36 +38,12 @@
 		</div>
 	</section>
 
-	<section class="abonnemente-print">
-		<div class="abonnemente-print__container">
-			<div class="abonnemente-print__group">
-				<h3 class="abonnemente-print__heading">Produktinfo</h3>
-				<p class="abonnemente-print__text">
-					Hochwertige Artikel nach 4-Augen-Prinzip durch Journalisten,
-					Kommunikationsspezialisten und Pädagogen geprüft. Die Arbeitsmaterialien
-					entstehen durch erfahrene Lehrpersonen und Unterstützung durch die PHBern.
-					So wird der Qualitätsstandard gewährleistet.
-				</p>
+	<section class="abonnemente__print">
+		{{ range .Site.Data.pages.abonnemente.print }}
+			<div class="abonnemente__print-group">
+				<h5 class="abonnemente__print-heading">{{ .heading }}</h5>
+				<p class="abonnemente__print-text">{{ .text }}</p>
 			</div>
-			<div class="abonnemente-print__group">
-				<h3 class="abonnemente-print__heading">Rückgabebedinungen</h3>
-				<p class="abonnemente-print__text">
-					Keine Rückgabe notwendig. Allerdings sind wir froh, wenn wir Feedback
-					erhalten - Lob oder Verbesserungsvorschläge sind erwünscht! Wir
-					versuchen, für das Wohl der Kinder und Jugendlichen zu arbeiten, so
-					teilen Sie uns bitte mit, was fehlt oder anders gemacht werden sollte.
-				</p>
-			</div>
-			<div class="abonnemente-print__group">
-				<h3 class="abonnemente-print__heading">Versandinfo</h3>
-				<p class="abonnemente-print__text">
-					Wir senden die Artikel an Ihre Email-Adressen. Die Dokumente sind
-					unverschlüsselt. Da wir als kleiner Verein auf Ehrlichkeit angewiesen
-					sind, vertrauen wir Ihnen, dass, im Fall der Weiterleitung, an unsere
-					Finanzen gedacht wird und allenfalls zusätzliche Ausgaben getätigt
-					werden. Herzlichen Dank!
-				</p>
-			</div>
-		</div>
+		{{ end }}
 	</section>
 {{end}}

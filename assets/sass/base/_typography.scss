@@ -326,20 +326,13 @@ body {
 		font-weight: 700;
 	}
 
-	&__card {
+	&__print {
 
-		&-tag {
-			font-weight: 700;
-			color: $color-white;
-			text-transform: uppercase;
-		}
+		&-group { text-align: justify;}
 
-		&-info {
-			font-weight: 100;
-			text-align: center;
-		}
+		&-heading { color: $chinder-orange; }
 
-		&-price { text-transform: uppercase; }
+		&-text { font-size: 1.5rem; }
 	}
 }
 

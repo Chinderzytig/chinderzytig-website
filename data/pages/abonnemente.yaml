@@ -19,3 +19,24 @@ breakdown:
     img: "mit_mmszgg.png"
     alt: "Chinderzytig Einkaufswagen mit"
     btn: "primary"
+
+print:
+  - heading: Produktinfo
+    text: |
+      Hochwertige Artikel nach 4-Augen-Prinzip durch Journalisten,
+      Kommunikationsspezialisten und Pädagogen geprüft. Die Arbeitsmaterialien
+      entstehen durch erfahrene Lehrpersonen und Unterstützung durch die PHBern.
+      So wird der Qualitätsstandard gewährleistet.
+  - heading: Rückgabebedinungen
+    text: |
+      Keine Rückgabe notwendig. Allerdings sind wir froh, wenn wir Feedback
+      erhalten - Lob oder Verbesserungsvorschläge sind erwünscht! Wir
+      versuchen, für das Wohl der Kinder und Jugendlichen zu arbeiten, so
+      teilen Sie uns bitte mit, was fehlt oder anders gemacht werden sollte.
+  - heading: Versandinfo
+    text: |
+      Wir senden die Artikel an Ihre Email-Adressen. Die Dokumente sind
+      unverschlüsselt. Da wir als kleiner Verein auf Ehrlichkeit angewiesen
+      sind, vertrauen wir Ihnen, dass, im Fall der Weiterleitung, an unsere
+      Finanzen gedacht wird und allenfalls zusätzliche Ausgaben getätigt
+      werden. Herzlichen Dank!
