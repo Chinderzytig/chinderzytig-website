@@ -7,7 +7,12 @@ breakdown:
         color: "#EC633F"
     img: "ohne_nfrplh.png"
     alt: "Chinderzytig Einkaufswagen ohne"
-    btn: "secondary"
+    btn:
+      - class: "secondary"
+        id: "ohne"
+        price: "40.00"
+        item_name: "Jahresabonnement Artikel ohne Arbeitsmaterial"
+        custom_options: "Einzelteilnehmer|Andere Teilnehmer[+100.00]"
   - heading: Mit
     inclusions:
       - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
@@ -18,7 +23,12 @@ breakdown:
         color: "#30AFAA"
     img: "mit_mmszgg.png"
     alt: "Chinderzytig Einkaufswagen mit"
-    btn: "primary"
+    btn:
+      - class: "primary"
+        id: "arbeitsmaterial"
+        price: "60.00"
+        item_name: "Jahresabonnement Artikel mit Arbeitsmaterial"
+        custom_options: "Einzelteilnehmer|Andere Teilnehmer[+220.00]"
 
 print:
   - heading: Produktinfo
