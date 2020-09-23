@@ -16,131 +16,25 @@
 			Ihre Mailbox:
 		</p>
 		<div class="abonnemente__container">
-			<div class="abonnemente__without">
-				<div class="abonnemente__heading">
-					<h2 class="heading heading__tertiary">Ohne Arbeitsmaterial</h2>
-				</div>
-				<div class="abonnemente__overview">
+			{{ range .Site.Data.pages.abonnemente.breakdown }}
+				<div class="abonnemente__option">
+					<div class="abonnemente__heading">
+						<h2 class="heading heading__tertiary">{{ .heading }} Arbeitsmaterial</h2>
+					</div>
 					<div class="abonnemente__breakdown">
-						<div class="abonnemente__inclusion">
-							<span class="abonnemente__inclusion-icon">
-								{{ partial "svgs/check_svg.html" (dict "fill" "#EC633F" "width" 25 "height" 25) }}
-							</span>
-							<span class="abonnemente__inclusion-item">
-								2 Artikel zum allgemeinen Weltgeschehen
-							</span>
-						</div>
-						<div class="abonnemente__inclusion">
-							<span class="abonnemente__inclusion-icon">
-								{{ partial "svgs/check_svg.html" (dict "fill" "#EC633F" "width" 25 "height" 25) }}
-							</span>
-							<span class="abonnemente__inclusion-item">
-								1 Fokus der Woche zu einem aktuellen und brandheissen Thema
-							</span>
-						</div>
-						<div class="abonnemente__inclusion">
-							<span class="abonnemente__inclusion-icon">
-								{{ partial "svgs/cross_svg.html" (dict "fill" "#EC633F" "width" 25 "height" 25) }}
-							</span>
-							<span class="abonnemente__inclusion-item">
-								2 Arbeitsmaterialien mit unterschiedlichen Niveaus, passend zu
-								den Artikeln als Word- oder PDF-Dokumente
-							</span>
-						</div>
-					</div>
-				</div>
-				<div class="abonnemente__options">
-					<div class="abonnemente__card-container">
-						<div class="abonnemente__card-tag abonnemente__card-tag--hidden">Bestseller</div>
-						<div class="abonnemente__card abonnemente__card--standard">
-							<h3 class="abonnemente__card-title">Einzelteilnehmer</h3>
-							<p class="abonnemente__card-info">
-								Perfekt für Privatpersonen oder Lehrpersonen.
-							</p>
-							<h3 class="abonnemente__card-price">Jetzt CHF 40</h3>
-							<div class="abonnemente__card-btn">
-								<a href="#" class="btn btn--secondary">Selektieren</a>
+						{{ range .inclusions }}
+							<div class="abonnemente__breakdown-item">
+								<span class="abonnemente__breakdown-icon">
+									{{ partial "svgs/check_svg.html" (dict "fill" .color "width" 25 "height" 25) }}
+								</span>
+								<span class="abonnemente__breakdown-text">{{ .inclusion }}</span>
 							</div>
-						</div>
+						{{ end }}
 					</div>
-					<div class="abonnemente__card-container">
-						<div class="abonnemente__card-tag abonnemente__card-tag--hidden">Bestseller</div>
-						<div class="abonnemente__card abonnemente__card--standard">
-							<h3 class="abonnemente__card-title">Andere Teilnehmer</h3>
-							<p class="abonnemente__card-info">
-								Perfekt für Schulen, Institutionen, und Firmen.
-							</p>
-							<h3 class="abonnemente__card-price">Jetzt CHF 140</h3>
-							<div class="abonnemente__card-btn">
-								<a href="#" class="btn btn--secondary">Selektieren</a>
-							</div>
-						</div>
-					</div>
+					<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_250,q_auto:good/logos/{{ .img }}" alt="{{ .alt }}" class="abonnemente__img">
+					<a href="#" class="btn btn--{{ .btn }} abonnemente__cta">Selektieren</a>
 				</div>
-			</div>
-
-			<div class="abonnemente__with">
-				<div class="abonnemente__heading">
-					<h2 class="heading heading__tertiary">Mit Arbeitsmaterial</h2>
-				</div>
-				<div class="abonnemente__overview">
-					<div class="abonnemente__breakdown">
-						<div class="abonnemente__inclusion">
-							<span class="abonnemente__inclusion-icon">
-								{{ partial "svgs/check_svg.html" (dict "fill" "#30AFAA" "width" 25 "height" 25) }}
-							</span>
-							<span class="abonnemente__inclusion-item">
-								2 Artikel zum allgemeinen Weltgeschehen
-							</span>
-						</div>
-						<div class="abonnemente__inclusion">
-							<span class="abonnemente__inclusion-icon">
-								{{ partial "svgs/check_svg.html" (dict "fill" "#30AFAA" "width" 25 "height" 25) }}
-							</span>
-							<span class="abonnemente__inclusion-item">
-								1 Fokus der Woche zu einem aktuellen und brandheissen Thema
-							</span>
-						</div>
-						<div class="abonnemente__inclusion">
-							<span class="abonnemente__inclusion-icon">
-								{{ partial "svgs/check_svg.html" (dict "fill" "#30AFAA" "width" 25 "height" 25) }}
-							</span>
-							<span class="abonnemente__inclusion-item">
-								2 Arbeitsmaterialien mit unterschiedlichen Niveaus, passend zu
-								den Artikeln als Word- oder PDF-Dokumente
-							</span>
-						</div>
-					</div>
-				</div>
-				<div class="abonnemente__options">
-					<div class="abonnemente__card-container">
-						<div class="abonnemente__card-tag abonnemente__card-tag--hidden">Bestseller</div>
-						<div class="abonnemente__card abonnemente__card--standard">
-							<h3 class="abonnemente__card-title">Einzelteilnehmer</h3>
-							<p class="abonnemente__card-info">
-								Perfekt für Privatpersonen oder Lehrpersonen.
-							</p>
-							<h3 class="abonnemente__card-price">Jetzt CHF 60</h3>
-							<div class="abonnemente__card-btn">
-								<a href="#" class="btn btn--primary">Selektieren</a>
-							</div>
-						</div>
-					</div>
-					<div class="abonnemente__card-container">
-						<div class="abonnemente__card-tag">Bestseller</div>
-						<div class="abonnemente__card abonnemente__card--bestseller">
-							<h3 class="abonnemente__card-title">Andere Teilnehmer</h3>
-							<p class="abonnemente__card-info">
-								Perfekt für Schulen, Institutionen, und Firmen.
-							</p>
-							<h3 class="abonnemente__card-price">Jetzt CHF 280</h3>
-							<div class="abonnemente__card-btn">
-								<a href="#" class="btn btn--primary">Selektieren</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+			{{ end }}
 		</div>
 	</section>
 

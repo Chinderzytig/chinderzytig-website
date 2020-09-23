@@ -1,0 +1,21 @@
+breakdown:
+  - heading: Ohne
+    inclusions:
+      - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
+        color: "#EC633F"
+      - inclusion: "1 Fokus der Woche zu einem aktuellen und brandheissen Thema"
+        color: "#EC633F"
+    img: "ohne_nfrplh.png"
+    alt: "Chinderzytig Einkaufswagen ohne"
+    btn: "secondary"
+  - heading: Mit
+    inclusions:
+      - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
+        color: "#30AFAA"
+      - inclusion: "1 Fokus der Woche zu einem aktuellen und brandheissen Thema"
+        color: "#30AFAA"
+      - inclusion: "2 Arbeitsmaterialien mit unterschiedlichen Niveaus, passend zu den Artikeln als PDF-Dokumente"
+        color: "#30AFAA"
+    img: "mit_mmszgg.png"
+    alt: "Chinderzytig Einkaufswagen mit"
+    btn: "primary"
