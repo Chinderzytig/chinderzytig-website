@@ -21,7 +21,7 @@
 			</p>
 			<div class="support__options-btns">
 				{{ range .Site.Data.partials.support.donation }}
-					<button class="btn btn--donate snipcart-add-item"
+					<button class="btn btn__legit btn__legit--secondary support__options-btn snipcart-add-item"
 						data-item-id="{{ .id }}"
 						data-item-price="{{ .price }}"
 						data-item-url="{{ $.RelPermalink }}"

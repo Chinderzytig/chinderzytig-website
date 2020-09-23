@@ -9,20 +9,27 @@
 
 	&--secondary { @include btn-color($color-white, $color-black, $primary: false); }
 
-	&--donate {
+	&__legit {
 		border: 2px solid $color-black;
 		background-color: $color-white;
 		padding: 1rem;
-		width: 40%;
 		text-align: center;
 
-		&:hover,
-		&:active {
-			background-color: $chinder-orange;
-			border-color: $chinder-chestnut;
+		&--primary {
+			&:hover,
+			&:active {
+				background-color: $chinder-verdigris;
+				border-color: $chinder-celadon;
+			}
 		}
 
-		&:nth-child(-n+2) {  margin-bottom: 1.5rem; }
+		&--secondary {
+			&:hover,
+			&:active {
+				background-color: $chinder-orange;
+				border-color: $chinder-chestnut;
+			}
+		}
 	}
 
 	&--verein {
