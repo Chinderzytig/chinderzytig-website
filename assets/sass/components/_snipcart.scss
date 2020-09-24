@@ -16,13 +16,19 @@
 		cursor: pointer;
 	}
 
+	&.snipcart-checkout {
+		display: flex;
+		flex-direction: column-reverse;
+		align-items: center;
+	}
+
 	&.snipcart-items-count {
 		background-color: #a21017;
 		padding: .5rem 1rem;
 		border-radius: 10rem;
-		margin-top: -1.8rem;
-		margin-left: -2.9rem;
 	}
+
+	&.snipcart-customer-signin { align-self: flex-end; }
 }
 
 .cart:active,
