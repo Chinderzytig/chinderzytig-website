@@ -5,14 +5,18 @@
 			Buchgewerbe! <a href="#" class="nav__notice-link">Mehr lernen</a>
 		</div>
 	</div>
-	<div class="nav__logo">
-		<a href="/" class="nav__logo-group">
+	<div class="nav__main">
+		<a href="/" class="nav__logo">
 			<img src="{{ .Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png" alt="Chinderzytig logo" class="nav__logo-image">
 			<div class="nav__logo-text">
 				<span class="nav__logo-text--main">Chinderzytig</span>
 				<span class="nav__logo-text--sub">Die Zeitung für Kinder und Jungendliche</span>
 			</div>
 		</a>
+		<button class="snipcart-overwrite snipcart-checkout">
+			{{ partial "svgs/cart_svg.html" (dict "fill" "#4C4C4C" "width" 35 "height" 35) }}
+			<span class="snipcart-overwrite snipcart-items-count">0</span>
+		</button>
 	</div>
 	<div class="nav__menu">
 		<ul class="nav__menu-group">
