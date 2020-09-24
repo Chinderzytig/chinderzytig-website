@@ -31,6 +31,12 @@
 		}
 	}
 
+	&__ecommerce {
+		width: 10%;
+		display: flex;
+		justify-content: space-between;
+	}
+
 	&__menu {
 		background-color: $chinder-orange;
 

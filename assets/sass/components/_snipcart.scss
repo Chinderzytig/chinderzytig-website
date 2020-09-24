@@ -1,7 +1,16 @@
+.snipcart {
+
+	&__cart:active,
+	&__cart:hover,
+	&__account:active,
+	&__account:hover { fill: #6C685D; }
+}
+
 .snipcart-overwrite {
 	display: flex;
 
-	&.snipcart-checkout {
+	&.snipcart-checkout,
+	&.snipcart-customer-signin {
 		border: none;
 		background-color: #fff;
 		cursor: pointer;

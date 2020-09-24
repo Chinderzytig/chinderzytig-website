@@ -13,10 +13,15 @@
 				<span class="nav__logo-text--sub">Die Zeitung für Kinder und Jungendliche</span>
 			</div>
 		</a>
-		<button class="snipcart-overwrite snipcart-checkout">
-			{{ partial "svgs/cart_svg.html" (dict "fill" "#4C4C4C" "width" 35 "height" 35) }}
-			<span class="snipcart-overwrite snipcart-items-count">0</span>
-		</button>
+		<div class="nav__ecommerce">
+			<button class="snipcart-overwrite snipcart-checkout">
+				{{ partial "svgs/cart_svg.html" (dict "fill" "#4C4C4C" "width" 35 "height" 35) }}
+				<span class="snipcart-overwrite snipcart-items-count">0</span>
+			</button>
+			<button class="snipcart-overwrite snipcart-customer-signin">
+				{{ partial "svgs/account_svg.html" (dict "fill" "#4C4C4C" "width" 35 "height" 35) }}
+			</button>
+		</div>
 	</div>
 	<div class="nav__menu">
 		<ul class="nav__menu-group">
