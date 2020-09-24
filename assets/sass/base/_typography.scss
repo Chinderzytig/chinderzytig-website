@@ -39,6 +39,8 @@ body {
 	&:hover,
 	&:active { color: $color-white; }
 
+	&__legit { text-transform: uppercase; }
+
 	&--verein { font-size: $font-bigger; }
 
 	&-submit {
