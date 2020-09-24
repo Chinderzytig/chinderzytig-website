@@ -20,10 +20,17 @@
 				Auch kleine Spenden können eine grosse Wirkung erzielen.
 			</p>
 			<div class="support__options-btns">
-				<a href="#" class="btn btn--donate">CHF 5</a>
-				<a href="#" class="btn btn--donate">CHF 10</a>
-				<a href="#" class="btn btn--donate">CHF 15</a>
-				<a href="#" class="btn btn--donate">CHF 20</a>
+				{{ range .Site.Data.partials.support.donation }}
+					<button class="btn btn__legit btn__legit--secondary support__options-btn snipcart-add-item"
+						data-item-id="{{ .id }}"
+						data-item-price="{{ .price }}"
+						data-item-url="{{ $.RelPermalink }}"
+						data-item-description="Als Unterstützung der zukünftigen, besser informierten Kinder und Jugendlichen"
+						data-item-image="{{ $.Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png"
+						data-item-name="{{ .label }} Spende an Chinderzytig">
+						{{ .label }}
+					</button>
+				{{ end }}
 			</div>
 		</div>
 		<div class="support__options-divider">Oder</div>

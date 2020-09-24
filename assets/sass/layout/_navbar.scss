@@ -9,14 +9,16 @@
 		&-link { margin-left: .5rem; }
 	}
 
-	&__logo {
+	&__main {
 		@include container-main;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
 
-		&-group {
-			display: flex;
-			align-items: flex-start;
-			width: 50%;
-		}
+	&__logo {
+		display: flex;
+		align-items: flex-start;
 
 		&-image { width: 20rem; }
 
@@ -29,6 +31,11 @@
 		}
 	}
 
+	&__ecommerce {
+		width: 10%;
+		display: flex;
+		justify-content: space-between;
+	}
 
 	&__menu {
 		background-color: $chinder-orange;

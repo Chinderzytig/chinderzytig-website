@@ -1,0 +1,29 @@
+.snipcart {
+
+	&__cart:active,
+	&__cart:hover,
+	&__account:active,
+	&__account:hover { fill: #6C685D; }
+}
+
+.snipcart-overwrite {
+	display: flex;
+
+	&.snipcart-checkout,
+	&.snipcart-customer-signin {
+		border: none;
+		background-color: #fff;
+		cursor: pointer;
+	}
+
+	&.snipcart-items-count {
+		background-color: #a21017;
+		padding: .5rem;
+		border-radius: 10rem;
+		margin-top: -1.8rem;
+		margin-left: -2.4rem;
+	}
+}
+
+.cart:active,
+.cart:hover { fill: #6C685D; }

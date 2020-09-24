@@ -1,0 +1,52 @@
+breakdown:
+  - heading: Ohne
+    inclusions:
+      - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
+        color: "#EC633F"
+      - inclusion: "1 Fokus der Woche zu einem aktuellen und brandheissen Thema"
+        color: "#EC633F"
+    img: "ohne_nfrplh.png"
+    alt: "Chinderzytig Einkaufswagen ohne"
+    btn:
+      - class: "secondary"
+        id: "ohne"
+        price: "40.00"
+        item_name: "Jahresabonnement Artikel ohne Arbeitsmaterial"
+        custom_options: "Einzelteilnehmer|Andere Teilnehmer[+100.00]"
+  - heading: Mit
+    inclusions:
+      - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
+        color: "#30AFAA"
+      - inclusion: "1 Fokus der Woche zu einem aktuellen und brandheissen Thema"
+        color: "#30AFAA"
+      - inclusion: "2 Arbeitsmaterialien mit unterschiedlichen Niveaus, passend zu den Artikeln als PDF-Dokumente"
+        color: "#30AFAA"
+    img: "mit_mmszgg.png"
+    alt: "Chinderzytig Einkaufswagen mit"
+    btn:
+      - class: "primary"
+        id: "arbeitsmaterial"
+        price: "60.00"
+        item_name: "Jahresabonnement Artikel mit Arbeitsmaterial"
+        custom_options: "Einzelteilnehmer|Andere Teilnehmer[+220.00]"
+
+print:
+  - heading: Produktinfo
+    text: |
+      Hochwertige Artikel nach 4-Augen-Prinzip durch Journalisten,
+      Kommunikationsspezialisten und Pädagogen geprüft. Die Arbeitsmaterialien
+      entstehen durch erfahrene Lehrpersonen und Unterstützung durch die PHBern.
+      So wird der Qualitätsstandard gewährleistet.
+  - heading: Rückgabebedinungen
+    text: |
+      Keine Rückgabe notwendig. Allerdings sind wir froh, wenn wir Feedback
+      erhalten - Lob oder Verbesserungsvorschläge sind erwünscht! Wir
+      versuchen, für das Wohl der Kinder und Jugendlichen zu arbeiten, so
+      teilen Sie uns bitte mit, was fehlt oder anders gemacht werden sollte.
+  - heading: Versandinfo
+    text: |
+      Wir senden die Artikel an Ihre Email-Adressen. Die Dokumente sind
+      unverschlüsselt. Da wir als kleiner Verein auf Ehrlichkeit angewiesen
+      sind, vertrauen wir Ihnen, dass, im Fall der Weiterleitung, an unsere
+      Finanzen gedacht wird und allenfalls zusätzliche Ausgaben getätigt
+      werden. Herzlichen Dank!

@@ -16,6 +16,9 @@
 	<meta name="theme-color" content="#ffffff">
 	<title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 	<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Patrick+Hand&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://app.snipcart.com">
+	<link rel="preconnect" href="https://cdn.snipcart.com">
+	<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.css" />
 	{{ $options := (dict "outputStyle" "compressed") }}
 	{{ $style := resources.Get "sass/main.scss" | resources.ToCSS $options }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}">

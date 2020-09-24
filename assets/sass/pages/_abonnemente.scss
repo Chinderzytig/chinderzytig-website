@@ -8,74 +8,49 @@
 
 	&__duration { margin-bottom: 3rem; }
 
-	&__container { display: flex; }
-
-	&__without { @include cta-color($cta-azure); }
-
-	&__with { @include cta-color($cta-seashell); }
-
-	&__without,
-	&__with {
-		width: 50%;
-		padding-left: 3rem;
-		padding-right: 3rem;
-		display: flex;
-		flex-direction: column;
-	}
-
-	&__heading { align-self: center; }
-
-	&__breakdown { margin-bottom: 3rem; }
-
-	&__inclusion {
-		display: flex;
-
-		&-item { margin-left: 1rem;}
-	}
-
-	&__options {
+	&__container {
 		display: flex;
 		justify-content: space-between;
 	}
 
-	&__card-container { width: 48%; }
-
-	&__card {
-		width: 100%;
-		height: 28rem;
+	&__option {
 		background-color: $chinder-cultured;
+		width: 45%;
 		padding: 2rem;
 		display: flex;
 		flex-direction: column;
-		align-items: center;
-
-		&-tag {
-			background-color: $chinder-verdigris;
-			padding: .5rem;
-
-			&--hidden { opacity: 0; }
-		}
-
-		&--standard { border: 2px solid $social-base; }
-
-		&--bestseller { border: 2px solid $chinder-verdigris; }
-
-		&-info {
-			margin: 1rem 0;
-			padding: .5rem 0;
-			border-top: 1px solid $social-base;
-			border-bottom: 1px solid $social-base;
-		}
-
-		&-price { margin-bottom: 2.5rem; }
+		justify-content: space-between;
 	}
-}
 
-.abonnemente-print {
-	@include cta-color($chinder-cultured);
-	margin-bottom: 0;
+	&__heading { align-self: center; }
 
-	&__container { @include container-main; }
+	&__breakdown {
+		margin-bottom: 2rem;
 
-	&__group { :last-child { margin-bottom: $margin-s; } }
+		&-item { display: flex; }
+
+		&-text { margin-left: 1rem;}
+	}
+
+	&__img {
+		align-self: center;
+		margin-bottom: 3rem;
+	}
+
+	&__cta {
+		align-self: center;
+		width: 75%;
+		text-align: center;
+		margin-bottom: 1rem;
+	}
+
+	&__print {
+		@include container-main;
+		display: flex;
+		justify-content: space-between;
+		border: 1px solid $color-black;
+		padding: 2rem;
+
+		&-group { width: 30%;}
+	}
 }

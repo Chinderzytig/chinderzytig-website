@@ -38,6 +38,12 @@
 			margin-top: -2rem;
 		}
 
+		&-btn {
+			width: 40%;
+
+			&:nth-child(-n+2) {  margin-bottom: 1.5rem; }
+		}
+
 		&-info {
 			width: 75%;
 			text-align: center;

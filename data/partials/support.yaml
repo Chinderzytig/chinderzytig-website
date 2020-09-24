@@ -1,0 +1,13 @@
+donation:
+  - label: "CHF 5"
+    id: "donate-five"
+    price: "5.00"
+  - label: "CHF 10"
+    id: "donate-ten"
+    price: "10.00"
+  - label: "CHF 15"
+    id: "donate-fifteen"
+    price: "15.00"
+  - label: "CHF 20"
+    id: "donate-twenty"
+    price: "20.00"

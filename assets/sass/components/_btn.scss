@@ -1,4 +1,5 @@
 .btn {
+	cursor: pointer;
 
 	&__container {
 		text-align: center;
@@ -9,12 +10,27 @@
 
 	&--secondary { @include btn-color($color-white, $color-black, $primary: false); }
 
-	&--donate {
-		@include btn-color($color-white, $color-black, $primary: false);
-		width: 40%;
+	&__legit {
+		border: 2px solid $color-black;
+		background-color: $color-white;
+		padding: 1rem;
 		text-align: center;
 
-		&:nth-child(-n+2) {  margin-bottom: 1.5rem; }
+		&--primary {
+			&:hover,
+			&:active {
+				background-color: $chinder-verdigris;
+				border-color: $chinder-celadon;
+			}
+		}
+
+		&--secondary {
+			&:hover,
+			&:active {
+				background-color: $chinder-orange;
+				border-color: $chinder-chestnut;
+			}
+		}
 	}
 
 	&--verein {
