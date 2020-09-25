@@ -1,7 +1,7 @@
 .nav {
 	margin-bottom: 6rem;
 
-	&__notice {
+	&__verdigris {
 		background-color: $chinder-verdigris;
 		padding: .5rem 0;
 		text-align: center;
@@ -51,26 +51,9 @@
 		}
 	}
 
-	&__menu {
+	&__orange {
 		background-color: $chinder-orange;
-
-		&-group {
-			@include container-main;
-			display: flex;
-			justify-content: space-between;
-			text-transform: uppercase;
-			list-style: none;
-			padding: 0;
-		}
-
-		&-link:link,
-		&-link:visited {
-			padding: .5rem 1rem;
-			transition: background-color 0.2s;
-		}
-
-		&-link:hover,
-		&-link:active { background-color: $chinder-verdigris; }
+		height: 3rem;
 	}
 
 	&__newsletter { background-color: $chinder-cultured; }
