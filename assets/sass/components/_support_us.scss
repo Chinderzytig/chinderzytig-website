@@ -57,6 +57,11 @@
 			position: absolute;
 			left: 47%;
 			top: 45%;
+
+			@include respond(tab-port-lg) {
+				left: 46%;
+				top: 40%;
+			}
 		}
 	}
 }

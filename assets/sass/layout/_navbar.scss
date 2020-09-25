@@ -14,6 +14,8 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+
+		@include respond(tab-port-xs) { justify-content: space-around;}
 	}
 
 	&__logo {
@@ -28,13 +30,25 @@
 			align-self: center;
 			justify-content: center;
 			margin-left: -1rem;
+
+			@include respond(tab-port-xs) { display: none; }
 		}
+
+		@include respond(tab-port-xs) { width: 30%; }
 	}
 
 	&__ecommerce {
 		width: 10%;
 		display: flex;
 		justify-content: space-between;
+
+		@include respond(tab-port-lg) { margin-right: 1.5rem; }
+
+		@include respond(tab-port-xs) {
+			width: 30%;
+			justify-content: flex-end;
+			margin: 0;
+		}
 	}
 
 	&__menu {

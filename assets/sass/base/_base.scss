@@ -6,7 +6,13 @@
 	box-sizing: inherit;
 }
 
-html { font-size: 62.5%; }
+html {
+	font-size: 62.5%;
+
+	@include respond(tab-land) { font-size: 56.25%; }
+
+	@include respond(tab-port-xl) { font-size: 50%; }
+}
 
 body { box-sizing: border-box; }
 
