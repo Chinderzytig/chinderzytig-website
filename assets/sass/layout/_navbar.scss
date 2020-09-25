@@ -7,15 +7,18 @@
 		text-align: center;
 
 		&-link { margin-left: .5rem; }
+
+		@include respond(tab-port-xs) { padding: .5rem 2rem; }
 	}
 
 	&__main {
-		@include container-main;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
 
-		@include respond(tab-port-xs) { justify-content: space-around;}
+		@include respond(tab-port-xl) { justify-content: space-around;}
+
+		@include respond(tab-port-sm) { justify-content: space-between;}
 	}
 
 	&__logo {
@@ -31,24 +34,20 @@
 			justify-content: center;
 			margin-left: -1rem;
 
-			@include respond(tab-port-xs) { display: none; }
+			@include respond(tab-port-sm) { display: none; }
 		}
 
-		@include respond(tab-port-xs) { width: 30%; }
+		@include respond(tab-port-sm) { margin-left: 10rem; }
 	}
 
 	&__ecommerce {
-		width: 10%;
 		display: flex;
 		justify-content: space-between;
+		margin-right: 3rem;
 
-		@include respond(tab-port-lg) { margin-right: 1.5rem; }
+		@include respond(tab-port-xl) { margin-right: 0; }
 
-		@include respond(tab-port-xs) {
-			width: 30%;
-			justify-content: flex-end;
-			margin: 0;
-		}
+		@include respond(tab-port-sm) { margin-right: 2rem; }
 	}
 
 	&__orange {
@@ -56,5 +55,10 @@
 		height: 3rem;
 	}
 
-	&__newsletter { background-color: $chinder-cultured; }
+	&__newsletter {
+		background-color: $chinder-cultured;
+		padding: 2rem 0 .5rem 0;
+
+		@include respond(phone-xl) { padding-top: 1.5rem; }
+	}
 }

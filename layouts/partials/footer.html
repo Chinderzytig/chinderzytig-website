@@ -3,11 +3,13 @@
 		<form method="post" action="#">
 			<div class="newsletter newsletter--footer">
 				<p class="newsletter__heading newsletter__heading--footer">Newsletter abonnieren</p>
-				<div class="newsletter__group">
-					<input type="email" name="email" placeholder="Email" class="newsletter__group-field" required>
-					<label for="email" class="newsletter__group-label">Email</label>
+				<div class="newsletter__container">
+					<div class="newsletter__group">
+						<input type="email" name="email" placeholder="Email" class="newsletter__group-field" required>
+						<label for="email" class="newsletter__group-label">Email</label>
+					</div>
+					<input type="submit" value="Senden" class="btn btn-submit btn-submit--footer">
 				</div>
-				<input type="submit" value="Senden" class="btn btn-submit btn-submit--footer">
 			</div>
 		</form>
 	</div>
@@ -42,6 +44,7 @@
 				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_200/v1595591559/logos/sm_grey_sx76sk.png" alt="Schweizer Medien logo">
 			</a>
 		</div>
+		<div class="footer__line"></div>
 		<div class="footer__social-group">
 			{{- partial "svgs/social_svgs.html" . -}}
 		</div>
