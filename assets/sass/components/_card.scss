@@ -32,6 +32,9 @@
 		justify-content: space-between;
 		flex-wrap: wrap;
 		margin-top: -3rem;
+
+		@include respond(phone-lg) { justify-content: center; }
+
 	}
 
 	&__hidden { display: none; }

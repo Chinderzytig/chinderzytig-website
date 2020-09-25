@@ -1,11 +1,14 @@
 <nav class="nav">
-	<div class="nav__notice">
-		<div class="nav__notice-content">
+	<div class="nav__verdigris">
+		<div class="nav__verdigris-content">
 			Während der Krise: Wir spenden 20% Ihres Gönnerbeitrages ans lokale
-			Buchgewerbe! <a href="#" class="nav__notice-link">Mehr lernen</a>
+			Buchgewerbe! <a href="#" class="nav__verdigris-link">Mehr lernen</a>
 		</div>
 	</div>
+
 	<div class="nav__main">
+		{{- partial "menu.html" . -}}
+
 		<a href="/" class="nav__logo">
 			<img src="{{ .Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png" alt="Chinderzytig logo" class="nav__logo-image">
 			<div class="nav__logo-text">
@@ -23,23 +26,19 @@
 			</button>
 		</div>
 	</div>
-	<div class="nav__menu">
-		<ul class="nav__menu-group">
-			<a href="/alle-artikel" class="nav__menu-link"><li>Artikel</li></a>
-			<a href="/fokus-der-woche" class="nav__menu-link"><li>Fokus der Woche</li></a>
-			<a href="/abonnemente" class="nav__menu-link"><li>Abonnemente</li></a>
-			<a href="/verein" class="nav__menu-link"><li>Der Verein</li></a>
-		</ul>
-	</div>
+	<div class="nav__orange"></div>
+
 	<div class="nav__newsletter">
 		<form method="post" action="#">
 			<div class="newsletter newsletter--nav">
 				<p class="newsletter__heading">Newsletter abonnieren</p>
-				<div class="newsletter__group">
-					<input type="email" name="email" placeholder="Email" class="newsletter__group-field" required>
-					<label for="email" class="newsletter__group-label">Email</label>
+				<div class="newsletter__container">
+					<div class="newsletter__group">
+						<input type="email" name="email" placeholder="Email" class="newsletter__group-field" required>
+						<label for="email" class="newsletter__group-label">Email</label>
+					</div>
+					<input type="submit" value="Senden" class="btn btn-submit btn-submit--nav">	
 				</div>
-				<input type="submit" value="Senden" class="btn btn-submit btn-submit--nav">
 			</div>
 		</form>
 	</div>

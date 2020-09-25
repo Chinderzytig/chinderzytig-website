@@ -1,7 +1,11 @@
 .newsletter {
 	display: flex;
 	justify-content: center;
-	padding-top: 1.5rem;
+
+	@include respond(phone-xl) {
+		flex-direction: column;
+		align-items: center;
+	}
 
 	&--nav {
 		input[type=email] { @include newsletter-field($color-white, $social-base); }
@@ -11,9 +15,13 @@
 		input[type=email] { @include newsletter-field($footer-light, $chinder-platinum);}
 	}
 
+	&__container { display: flex; }
+
 	&__heading {
 		margin-right: 1.5rem;
 		margin-top: .5rem;
+
+		@include respond(phone-xl) { margin: 0 0 1rem 0; }
 	}
 
 	&__group {

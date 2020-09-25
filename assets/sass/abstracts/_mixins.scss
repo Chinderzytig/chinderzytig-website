@@ -2,6 +2,13 @@
 	max-width: 1024px;
 	margin-left: auto;
 	margin-right: auto;
+
+	@include respond(tab-land) { padding: 0 3rem; }
+
+	@include respond(tab-port-lg) {
+		max-width: 600px;
+		padding: 0 2rem;
+	}
 }
 
 @mixin cta-color($bg) {
@@ -58,5 +65,34 @@
 			height: $h;
 			width: $w/2.5;
 		}
+	}
+}
+
+// 1em = 16px
+
+@mixin respond($breakpoint) {
+	@if $breakpoint == phone-lg {
+		@media (max-width: 31.9375em) { @content };	//511px
+	}
+	@if $breakpoint == phone-xl {
+		@media (max-width: 35.3125em) { @content };	//565px
+	}
+	@if $breakpoint == phone-xxl {
+		@media (max-width: 38.125em) { @content };	//610px
+	}
+	@if $breakpoint == tab-port-xs {
+		@media (max-width: 40.60em) { @content };	//650px
+	}
+	@if $breakpoint == tab-port-sm {
+		@media (max-width: 47.9em) { @content };	//767px
+	}
+	@if $breakpoint == tab-port-lg {
+		@media (max-width: 50em) { @content };	//800px
+	}
+	@if $breakpoint == tab-port-xl {
+		@media (max-width: 56.25em) { @content };	//900px
+	}
+	@if $breakpoint == tab-land {
+		@media (max-width: 68.75em) { @content };	//1100px
 	}
 }

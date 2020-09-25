@@ -121,7 +121,10 @@ body {
 	margin-bottom: $margin-s;
 
 	&__secondary {
+		border-top: 4px solid $color-black;
 		border-bottom: 4px solid $color-black;
+		background-color: $chinder-cultured;
+		padding-left: 1rem;
 		line-height: normal;
 	}
 
@@ -148,6 +151,11 @@ body {
 		position: relative;
 		display: inline-block;
 		z-index: 2;
+	}
+
+	@include respond(phone-lg) {
+		display: flex;
+		justify-content: center;
 	}
 }
 
@@ -200,7 +208,7 @@ body {
 .nav {
 	font-family: $font-patrick, $font-fallback;
 
-	&__notice {
+	&__verdigris {
 
 		&-content {
 			text-transform: uppercase;
@@ -253,6 +261,8 @@ body {
 		&--heavy {
 			font-weight: 700;
 			text-transform: uppercase;
+
+			// @include respond(phone-lg) { text-align: center; }
 		}
 
 		&--normal { font-weight: 500; }
