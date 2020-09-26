@@ -190,7 +190,7 @@ body {
 	&__title { color: $chinder-verdigris; }
 }
 
-/* ----- PROFILE ------ */
+/* ----- SNIPCART ------ */
 .snipcart-overwrite {
 
 	&.snipcart-items-count {
@@ -315,22 +315,6 @@ body {
 	&__group {
 
 		&-label { font-size: 1.2rem; }
-	}
-}
-
-/* ----- SUPPORT US ------ */
-.support {
-
-	&__options {
-
-		&-info { font-weight: 700; }
-
-		&-divider {
-			font-family: $font-patrick, $font-fallback;
-			font-size: $font-bigger;
-			text-transform: uppercase;
-			color: $color-white;
-		}
 	}
 }
 
