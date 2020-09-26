@@ -123,7 +123,6 @@ body {
 	&__secondary {
 		border-top: 4px solid $color-black;
 		border-bottom: 4px solid $color-black;
-		background-color: $chinder-cultured;
 		padding-left: 1rem;
 		line-height: normal;
 	}
@@ -153,7 +152,7 @@ body {
 		z-index: 2;
 	}
 
-	@include respond(phone-lg) {
+	@include respond(tab-port-sm) {
 		display: flex;
 		justify-content: center;
 	}
@@ -190,7 +189,7 @@ body {
 	&__title { color: $chinder-verdigris; }
 }
 
-/* ----- PROFILE ------ */
+/* ----- SNIPCART ------ */
 .snipcart-overwrite {
 
 	&.snipcart-items-count {
@@ -262,7 +261,7 @@ body {
 			font-weight: 700;
 			text-transform: uppercase;
 
-			// @include respond(phone-lg) { text-align: center; }
+			// @include respond(phone-xl) { text-align: center; }
 		}
 
 		&--normal { font-weight: 500; }
@@ -315,22 +314,6 @@ body {
 	&__group {
 
 		&-label { font-size: 1.2rem; }
-	}
-}
-
-/* ----- SUPPORT US ------ */
-.support {
-
-	&__options {
-
-		&-info { font-weight: 700; }
-
-		&-divider {
-			font-family: $font-patrick, $font-fallback;
-			font-size: $font-bigger;
-			text-transform: uppercase;
-			color: $color-white;
-		}
 	}
 }
 

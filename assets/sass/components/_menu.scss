@@ -1,4 +1,5 @@
 .menu {
+
 	&__checkbox {
 		display: none;
 	}
@@ -8,17 +9,24 @@
 		height: 7rem;
 		width: 7rem;
 		border-radius: 50%;
-		position: fixed;
+		position: absolute;
 		top: 6rem;
-		left: 4rem;
+		left: 6rem;
 		z-index: 2000;
 		text-align: center;
 		cursor: pointer;
 
 		@include respond(tab-port-sm) { left: 2rem; }
 
-		@include respond(phone-xxl) { top: 9.5rem; }
+		@include respond(tab-port-xxs) { top: 9.5rem; }
 
+		@include respond(phone-lg) {
+			height: 6rem;
+			width: 6rem;
+			top: 10rem;
+		}
+
+		@include respond(phone-sm) { top: 13rem; }
 	}
 
 	&__background {
@@ -27,40 +35,83 @@
 		border-radius: 50%;
 		position: fixed;
 		top: 6.5rem;
-		left: 4.5rem;
+		left: 6.5rem;
 		background-image: radial-gradient($chinder-celadon, $chinder-verdigris, $cta-azure);
 		z-index: 1000;
-		transition: transform .8s cubic-bezier(0.86, 0, 0.07, 1);
+		opacity: 0;
+		transition: all .6s cubic-bezier(0.86, 0, 0.07, 1);
 
 		@include respond(tab-port-sm) { left: 2.5rem; }
 
-		@include respond(phone-xxl) { top: 10rem; }
+		@include respond(tab-port-xxs) { top: 10rem; }
+
+		@include respond(phone-lg) {
+			height: 5rem;
+			width: 5rem;
+		}
+
+		@include respond(phone-sm) { top: 13.5rem; }
 	}
 
 	&__nav {
 		height: 100vh;
 		position: fixed;
 		top: 0;
-		left: -10%;
+		left: -21%;
 		z-index: 1500;
-
 		opacity: 0;
 		width: 0;
 		transition: all .8s cubic-bezier(0.68, 0.55, 0.265, 1.55);
 
+		@include respond(tab-land) { left: -23%; }
+
+		@include respond(tab-port-lg) { left: -24%; }
+
+		@include respond(tab-port-sm) { left: -29%; }
+
+		@include respond(tab-port-xs) { left: -30%; }
+
+		@include respond(tab-port-xxs) { left: -33%; }
+
+		@include respond(phone-xxl) { left: -36%; }
+
+		@include respond(phone-xl) { left: -44%; }
+
+		@include respond(phone-lg) { left: -51%; }
+
+		@include respond(phone-md) { left: -54%; }
+
+		@include respond(phone-sm) { left: -57%; }
+
 		&-list {
 			position: absolute;
 			top: 50%;
-			left: 60%;
+			left: 70%;
 			transform: translate(-50%, -50%);
 			list-style: none;
 			text-align: center;
 			width: 100%;
+
+			@include respond(tab-land) { left: 73%; }
+
+			@include respond(tab-port-xl) { left: 71%; }
+
+			@include respond(tab-port-lg) { left: 70%; }
+
+			@include respond(tab-port-sm) { left: 78%; }
+
+			@include respond(tab-port-xxs) { left: 81%; }
+
+			@include respond(phone-xxl) { left: 84%; }
+
+			@include respond(phone-xl) { left: 92%; }
+
+			@include respond(phone-lg) { left: 95%; }
+
+			@include respond(phone-md) { left: 100%; }
 		}
 
-		&-item {
-			margin: 1rem;
-		}
+		&-item { margin: 1rem; }
 
 		&-link {
 
@@ -72,7 +123,7 @@
 				color: $color-white;
 				text-decoration: none;
 				text-transform: uppercase;
-				background-image: linear-gradient(120deg, transparent 0%, transparent 50%, $chinder-orange 50%);
+				background-image: linear-gradient(120deg, transparent 0%, transparent 60%, $chinder-orange 50%);
 				background-size: 230%;
 				transition: all .4s;
 			}
@@ -86,6 +137,7 @@
 	}
 
 	&__checkbox:checked ~ &__background {
+		opacity: 1;
 		transform: scale(80);
 	}
 
@@ -98,6 +150,8 @@
 		position: relative;
 		margin-top: 3.5rem;
 
+		@include respond(phone-lg) { margin-top: 3rem; }
+
 		&,
 		&::before,
 		&::after {
@@ -105,6 +159,8 @@
 			height: 2px;
 			background-color: $color-white;
 			display: inline-block;
+
+			@include respond(phone-lg) { width: 2rem; }
 		}
 
 		&::before,
