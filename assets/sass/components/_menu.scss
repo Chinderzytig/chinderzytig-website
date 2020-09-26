@@ -17,8 +17,9 @@
 
 		@include respond(tab-port-sm) { left: 2rem; }
 
-		@include respond(phone-xxl) { top: 9.5rem; }
+		@include respond(tab-port-xxs) { top: 9.5rem; }
 
+		@include respond(phone-sm) { top: 12rem; }
 	}
 
 	&__background {
@@ -34,7 +35,9 @@
 
 		@include respond(tab-port-sm) { left: 2.5rem; }
 
-		@include respond(phone-xxl) { top: 10rem; }
+		@include respond(tab-port-xxs) { top: 10rem; }
+
+		@include respond(phone-sm) { top: 12.5rem; }
 	}
 
 	&__nav {

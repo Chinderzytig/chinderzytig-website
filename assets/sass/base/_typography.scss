@@ -261,7 +261,7 @@ body {
 			font-weight: 700;
 			text-transform: uppercase;
 
-			// @include respond(phone-lg) { text-align: center; }
+			// @include respond(phone-xl) { text-align: center; }
 		}
 
 		&--normal { font-weight: 500; }

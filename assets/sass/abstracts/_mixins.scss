@@ -71,13 +71,22 @@
 // 1em = 16px
 
 @mixin respond($breakpoint) {
+	@if $breakpoint == phone-sm {
+		@media (max-width: 21.25em) { @content };	//340px
+	}
+	@if $breakpoint == phone-md {
+		@media (max-width: 22.75em) { @content };	//364px
+	}
 	@if $breakpoint == phone-lg {
-		@media (max-width: 31.9375em) { @content };	//511px
+		@media (max-width: 25.875em) { @content };	//414px
 	}
 	@if $breakpoint == phone-xl {
-		@media (max-width: 35.3125em) { @content };	//565px
+		@media (max-width: 31.9375em) { @content };	//511px
 	}
 	@if $breakpoint == phone-xxl {
+		@media (max-width: 35.3125em) { @content };	//565px
+	}
+	@if $breakpoint == tab-port-xxs {
 		@media (max-width: 38.125em) { @content };	//610px
 	}
 	@if $breakpoint == tab-port-xs {

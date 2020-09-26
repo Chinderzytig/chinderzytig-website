@@ -9,6 +9,8 @@
 		&-link { margin-left: .5rem; }
 
 		@include respond(tab-port-xs) { padding: .5rem 2rem; }
+
+		@include respond(phone-lg) { padding: .5rem .5rem; }
 	}
 
 	&__main {
@@ -59,6 +61,6 @@
 		background-color: $chinder-cultured;
 		padding: 2rem 0 .5rem 0;
 
-		@include respond(phone-xl) { padding-top: 1.5rem; }
+		@include respond(phone-xxl) { padding-top: 1.5rem; }
 	}
 }
