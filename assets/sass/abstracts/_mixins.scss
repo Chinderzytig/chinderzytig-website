@@ -6,7 +6,7 @@
 	@include respond(tab-land) { padding: 0 3rem; }
 
 	@include respond(tab-port-lg) {
-		max-width: 600px;
+		max-width: 800px;
 		padding: 0 2rem;
 	}
 }
@@ -84,7 +84,7 @@
 		@media (max-width: 40.60em) { @content };	//650px
 	}
 	@if $breakpoint == tab-port-sm {
-		@media (max-width: 47.9em) { @content };	//767px
+		@media (max-width: 47.9375em) { @content };	//767px
 	}
 	@if $breakpoint == tab-port-lg {
 		@media (max-width: 50em) { @content };	//800px

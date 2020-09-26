@@ -152,7 +152,7 @@ body {
 		z-index: 2;
 	}
 
-	@include respond(phone-lg) {
+	@include respond(tab-port-sm) {
 		display: flex;
 		justify-content: center;
 	}
