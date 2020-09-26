@@ -1,4 +1,5 @@
 .menu {
+
 	&__checkbox {
 		display: none;
 	}
@@ -10,7 +11,7 @@
 		border-radius: 50%;
 		position: absolute;
 		top: 6rem;
-		left: 4rem;
+		left: 6rem;
 		z-index: 2000;
 		text-align: center;
 		cursor: pointer;
@@ -32,12 +33,13 @@
 		height: 6rem;
 		width: 6rem;
 		border-radius: 50%;
-		position: absolute;
+		position: fixed;
 		top: 6.5rem;
-		left: 4.5rem;
+		left: 6.5rem;
 		background-image: radial-gradient($chinder-celadon, $chinder-verdigris, $cta-azure);
 		z-index: 1000;
-		transition: transform .8s cubic-bezier(0.86, 0, 0.07, 1);
+		opacity: 0;
+		transition: all .6s cubic-bezier(0.86, 0, 0.07, 1);
 
 		@include respond(tab-port-sm) { left: 2.5rem; }
 
@@ -55,45 +57,61 @@
 		height: 100vh;
 		position: fixed;
 		top: 0;
-		left: -55%;
+		left: -21%;
 		z-index: 1500;
-
-		opacity: 1;
+		opacity: 0;
 		width: 0;
 		transition: all .8s cubic-bezier(0.68, 0.55, 0.265, 1.55);
+
+		@include respond(tab-land) { left: -23%; }
+
+		@include respond(tab-port-lg) { left: -24%; }
+
+		@include respond(tab-port-sm) { left: -29%; }
+
+		@include respond(tab-port-xs) { left: -30%; }
+
+		@include respond(tab-port-xxs) { left: -33%; }
+
+		@include respond(phone-xxl) { left: -36%; }
+
+		@include respond(phone-xl) { left: -44%; }
+
+		@include respond(phone-lg) { left: -51%; }
+
+		@include respond(phone-md) { left: -54%; }
+
+		@include respond(phone-sm) { left: -57%; }
 
 		&-list {
 			position: absolute;
 			top: 50%;
-			left: 65%;
+			left: 70%;
 			transform: translate(-50%, -50%);
 			list-style: none;
 			text-align: center;
 			width: 100%;
 
-			@include respond(tab-land) { left: 80%; }
+			@include respond(tab-land) { left: 73%; }
 
-			@include respond(tab-port-xl) { left: 77%; }
+			@include respond(tab-port-xl) { left: 71%; }
 
-			@include respond(tab-port-lg) { left: 75%; }
+			@include respond(tab-port-lg) { left: 70%; }
 
-			@include respond(tab-port-lg) { left: 74%; }
+			@include respond(tab-port-sm) { left: 78%; }
 
-			@include respond(tab-port-xs) { left: 71%; }
+			@include respond(tab-port-xxs) { left: 81%; }
 
-			@include respond(tab-port-xs) { left: 70%; }
+			@include respond(phone-xxl) { left: 84%; }
 
-			@include respond(phone-xxl) { left: 69%; }
+			@include respond(phone-xl) { left: 92%; }
 
-			@include respond(phone-xl) { left: 67%; }
+			@include respond(phone-lg) { left: 95%; }
 
-			@include respond(phone-md) { left: 66%; }
-
+			@include respond(phone-md) { left: 100%; }
 		}
 
-		&-item {
-			margin: 1rem;
-		}
+		&-item { margin: 1rem; }
 
 		&-link {
 
@@ -105,7 +123,7 @@
 				color: $color-white;
 				text-decoration: none;
 				text-transform: uppercase;
-				background-image: linear-gradient(120deg, transparent 0%, transparent 50%, $chinder-orange 50%);
+				background-image: linear-gradient(120deg, transparent 0%, transparent 60%, $chinder-orange 50%);
 				background-size: 230%;
 				transition: all .4s;
 			}
@@ -119,6 +137,7 @@
 	}
 
 	&__checkbox:checked ~ &__background {
+		opacity: 1;
 		transform: scale(80);
 	}
 
