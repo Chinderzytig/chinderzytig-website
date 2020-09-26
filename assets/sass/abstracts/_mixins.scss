@@ -5,7 +5,7 @@
 
 	@include respond(tab-land) { padding: 0 3rem; }
 
-	@include respond(tab-port-lg) {
+	@include respond(tab-port-xl) {
 		max-width: 800px;
 		padding: 0 2rem;
 	}
