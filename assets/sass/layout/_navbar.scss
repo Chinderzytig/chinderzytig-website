@@ -21,6 +21,8 @@
 		@include respond(tab-port-xl) { justify-content: space-around;}
 
 		@include respond(tab-port-sm) { justify-content: space-between;}
+
+		@include respond(phone-lg) { justify-content: space-around; }
 	}
 
 	&__logo {
