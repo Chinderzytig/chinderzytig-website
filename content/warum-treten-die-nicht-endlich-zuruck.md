@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-08-12T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601227599/fdw-beirut_rt9zon.jpg"
 img_description = "Port of Beirut Explosion. photo taken days after the explosion from an adjacent building"
