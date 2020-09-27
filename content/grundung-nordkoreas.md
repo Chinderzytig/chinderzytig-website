@@ -30,7 +30,7 @@ Früher kannte man kein Nord- und kein Südkorea. Die {{< fremdwort wort="Halbin
 
 {{< definition wort="Sowjetunion" def="Das war ein riesiges Land, bestehend vor allem aus Russland und vielen baltischen Staaten, wie zum Beispiel Lettland, Litauen, aber auch Teile Polens, Tschechiens, der Slowakei usw. Die Sowjetunion zerbrach in der Zeit nach dem Berliner Mauerfall." >}}
 
-{{< image img="Enter file with ext. here" desc="Via Wikimedia Commons" photographer="Hulton Archive/Getty Images" src="![](https://commons.wikimedia.org/wiki/File:Kim_Il-sung_in_1950.jpg)" cc_licence="CC0 1.0" cc_src="https://creativecommons.org/publicdomain/zero/1.0/deed.de" >}}
+{{< image img="fdw-gruendung-nordkorea-2_ertm2u.jpg" desc="Via Wikimedia Commons" photographer="Hulton Archive/Getty Images" src="![](https://commons.wikimedia.org/wiki/File:Kim_Il-sung_in_1950.jpg)" cc_licence="CC0 1.0" cc_src="https://creativecommons.org/publicdomain/zero/1.0/deed.de" >}}
 
 <a href="![](https://commons.wikimedia.org/wiki/File:Kim_Il-sung_in_1950.jpg)" title="via Wikimedia Commons">Hulton Archive/Getty Images</a> / Public domain
 
