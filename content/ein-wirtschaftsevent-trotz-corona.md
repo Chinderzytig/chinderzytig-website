@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-09-02T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601231845/sef_u1zkmq.jpg"
 img_description = "Former French President François Hollande speaking at SEF 2020"
@@ -32,7 +31,7 @@ Das betrifft auch die Veranstaltung Swiss Economic Forum. Man entscheidet sich f
 
 Viele fragen sich, warum wurde das Swiss Economic Forum nicht einfach abgesagt. Oder noch besser auf 2021 verschoben, so wie es viele Veranstalter machen. Genau so wie wir wieder Fussballspiele brauchen (sehe dir dazu den [FdW-Fussballgeistermeister](https://www.chinderzytig.ch/fdw-fussballgeistermeister) an), brauchen wir wieder solche Veranstaltungen. Der direkte Kontakt, der Austausch mit anderen Unternehmenden kann in einer solchen Situation sehr hilfreich sein. Die Wirtschaft, unser Motor, muss auch in der Krise weiterlaufen. Also einen Anlass um jeden Preis? Wird da die Gesundheit und Sicherheit der Menschen einfach missachtet? Das wäre in einem Land wie der Schweiz gar nicht möglich. Regelungen und Vorschriften werden ziemlich gut eingehalten und befolgt. Deshalb ist es auch wichtig, dass die Gesundheit aller Anwesenden an einem Anlass respektiert werden. Wie wird das gemacht? Das Team des Swiss Economic Forums hat ein Schutzkonzept ausgearbeitet: Die Personen werden in Gruppen eingeteilt, dürfen sich nicht durchmischen und müssen in den geschlossenen Räumen Masken tragen. Allgemein gilt eine Markenempfehlung. Ausserdem wird am Eingang die Temperatur gemessen. Ist sie zu hoch, dürfen die Personen nicht rein. Diese Punkte sind ein paar Beispiele. Wenn es dich interessiert, kannst du das ganze Schutzkonzept [hier](https://www.swisseconomic.ch/schutzkonzept-corona/) nachlesen. Dieses Konzept ist wichtig, damit die Gesundheit der Personen geschützt wird. Eine Gruppeneinteilung ist schwierig und es kann nicht allen Recht gemacht werden. Würdest du trotzdem an die Veranstaltung? Wir finden JA, an solchen Anlässen kann man immer wieder neue Leute kennenlernen. Die Teilnehmenden sind nur ein Teil einer Konferenz. Was ist aber mit den Referenten aus dem Ausland? Dürfen die Einreisen? Zum Glück gibt es technische Hilfsmittel. Im Notfall kann mit Video gearbeitet werden. So wie beim Unterricht zu Hause. Aber was denkst du? Ist die gleich gut wie ‘live’?
 
-{{< image img="Enter file with ext. here" desc="Designated Hugo Boss CEO Daniel Grieder speaking at SEF 2020" photographer="SEF" src="https://www.swisseconomic.ch/en/speakers/daniel-grieder/" >}}
+{{< image img="sef-2_cvtudu.jpg" desc="Designated Hugo Boss CEO Daniel Grieder speaking at SEF 2020" photographer="SEF" src="https://www.swisseconomic.ch/en/speakers/daniel-grieder/" >}}
 
 ## Ein Programm mit viel Abwechslung​
 
