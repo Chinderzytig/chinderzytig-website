@@ -5,9 +5,8 @@ cc_licence = "CC BY-ND 2.0"
 cc_src = "https://creativecommons.org/licenses/by-nd/2.0/deed.de"
 date = 2020-07-08T11:00:00Z
 description = ""
-draft = true
 fdw = true
-hero_img = "/v1601213955/fdw-tiergefangenschaft_mtdigd.jpg"
+hero_img = "/v1601214476/fdw-tiergefangenschaft_z6grbp.jpg"
 img_description = "Irina the tiger posing at Zurich Zoo"
 img_photographer = "Tambako The Jaguar"
 img_src = "https://www.flickr.com/photos/8070463@N03/50030750721"
@@ -34,6 +33,8 @@ Raubtiere faszinieren. Können wir sie im Zoo und aus der Nähe sehen, ist das s
 * Ende 2019 wurde ein Krokodil im Zoo Zürich eingeschläfert. Es biss in die Hand einer Pflegerin. Die Pflegerin war in der Nähe des Geheges mit dem Krokodil. Dieses schaffte es, durch das Gitter durch die Hand der Pflegerin zu fassen. Erst als das Tier eingeschläfert wurde, konnte sich die Pflegerin lösen.
 
 Zwischen Pflegepersonen und wilden Tieren im Zoo kommt es oft zu Unfällen. Was haben diese grossen Tiere überhaupt im Zoo zu suchen? Das Gehege ist doch viel zu klein! Solche Diskussionen entstehen auch jetzt immer mehr. Auch wenn Grosskatzen faszinieren, gehören diese in die gewohnte Umgebung. Wer trägt also nun die Schuld für diesen Vorfall mit Irina? Wird auch sie eingeschläfert?
+
+{{< image img="fdw-tiergefangenschaft-2_sz6mmt.jpg" desc="Irina the tiger exploring her enclosure at the Zurich zoo" photographer="Tambako The Jaguar" src="https://www.flickr.com/photos/8070463@N03/50030446186" cc_licence="CC BY-ND 2.0" cc_src="https://creativecommons.org/licenses/by-nd/2.0/deed.de" >}}
 
 ## Wo liegt die Schuld?
 
