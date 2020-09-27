@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-06-24T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601204922/fdw-maskenpflicht_nistql.jpg"
 img_description = "Street art - graffiti with facial mask on the wall during the current Coronavirus (COVID-19) pandemic in Warsaw, Poland"
@@ -28,7 +27,7 @@ In der Schweiz ist die Haltung weniger streng als in unseren Nachbarländern. Wi
 
 Die Schweiz verhält sich wie so oft: Es gibt mehrere Meinungen zum Thema, am Ende möchte man jeden einzelnen Menschen in die Verantwortung ziehen. Eigenverantwortung ist das Zauberwort. Das ist grundsätzlich nichts Schlechtes, im Gegenteil, das ist eine Stärke der Schweiz. Wir leben in einem System des Föderalismus. Das bedeutet, dass die Kantone auch selber über viele Dinge entscheiden können. Bezüglich der Tragepflicht für Masken werden nun jedoch einige Menschen nervös und erwarten eine klare Haltung des Bundesrats. Dieser zögert jedoch und will keinen Befehl erlassen. Das heisst: Jede und jeder soll vernünftig genug sein und die Maske in gewissen Situationen tragen, ohne dazu gezwungen zu werden. Nun reagieren Politiker unserer Kantone an der Grenze, besonders in Genf. Gerade solche Kantone, wie Genf, Basel-Stadt oder Tessin, haben ein höheres Risiko, dass sich das Virus ausbreitet, weil gerade der Grenzverkehr stark ist.
 
-{{< image img="Enter file with ext. here" desc="A woman wears a mask in the old town of Bern" photographer="Janis Fasel" src="https://unsplash.com/@janisfasel" >}}
+{{< image img="fdw-maskenpflicht-2_vxwz6s.jpg" desc="A child sitting in a gondola wearing a mask" photographer="S&B Vonlanthen" src="https://unsplash.com/@blavon" >}}
 
 ## Corona kennt keine Grenzen
 
