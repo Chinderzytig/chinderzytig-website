@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-07-22T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601216623/fdw-universum_lyhnrs.jpg"
 img_description = "Comet NEOWISE photographed from a dark site near Bowser, B.C. Canada"
@@ -26,7 +25,7 @@ Wenn man momentan den Sternenhimmel beobachtet, sieht man von blossem Auge ein s
 
 Letzte Woche entstanden Bilder der Sonne, geschossen von einem Weltraumteleskop, die uns so klare Bilder des grossen Sterns verschafften, wie nie zuvor. Die Oberfläche wurde viel klarer erkennbar, die Ausbrüche grösserer und kleinerer Feuerexplosionen... all das wurde so noch nie gesehen. Es gibt nun viele Forscher, die sich daraus neue Erkenntnisse für die Entstehung des Sonnensystems erhoffen. Aber auch Menschen, die davon ausgehen, dass solche Ausbrüche Auswirkungen auf unser Leben auf der Erde haben, sind entzückt und gespannt. Hat ein feuriger Ausbruch auf der Sonne tatsächlich Auswirkungen auf unseren Alltag? Gilt das auch für Sternbilder, Sterne, Horoskope? Haben irgendwelche Energien aus dem Universum tatsächlich Einfluss darauf, welche Präsidenten regieren und welche Viren dominieren?
 
-{{< image img="Enter file with ext. here" desc="Magnificent CME Erupts on the Sun" photographer="NASA Goddard Photo and Video" src="https://www.flickr.com/photos/24662369@N07/7931831962" cc_licence="Enter CC licence type here" cc_src="Enter CC licence link here" >}}
+{{< image img="fdw-universum-2_hbegqi.jpg" desc="Magnificent CME Erupts on the Sun" photographer="NASA Goddard Photo and Video" src="https://www.flickr.com/photos/24662369@N07/7931831962" cc_licence="CC BY 2.0" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
 
 ## Ausserdem: Feurige Venus
 
