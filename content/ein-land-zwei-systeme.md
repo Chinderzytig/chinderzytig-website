@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-07-29T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601217639/fdw-hongkong_vxrs51.jpg"
 img_description = "A pennant with alternating flags of Hong Kong and China, flies in front of a restaurant sign"
@@ -28,7 +27,7 @@ Als Sonderverwaltungszone ist Hongkong eigentlich autonom, das heisst unabhängi
 
 Das Problem dieser Macht ist, dass es zu mehr Konflikten mit anderen Ländern kommt. Die steigenden Unstimmigkeiten zwischen China und den USA zeigen dies. Hongkong ist für die USA wichtig für die Produktion und den internationalen Verkauf. China und die USA versuchen seit Jahren festzulegen, welches Land nun das stärkere und bessere ist. Mit der geschwächten Selbstständigkeit von Hongkong schränkt China die USA ein. China will zeigen, dass sie stärker sind als die USA.
 
-{{< image img="Enter file with ext. here" desc="Hong Kong's skyline at night from Victoria Peak" photographer="Simon Zhu" src="https://unsplash.com/@smnzhu" >}}
+{{< image img="fdw-hongkong-2_wcv9jn.jpg" desc="Hong Kong's skyline at night from Victoria Peak" photographer="Simon Zhu" src="https://unsplash.com/@smnzhu" >}}
 
 ## Sicherheitsgesetz – Schutz oder Einschränkung?
 
