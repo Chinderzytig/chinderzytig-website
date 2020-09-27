@@ -5,7 +5,6 @@ cc_licence = "CC0 1.0"
 cc_src = "https://creativecommons.org/publicdomain/zero/1.0/deed.de"
 date = 2020-06-03T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601169265/george_floyd_pni1bg.jpg"
 img_description = "Via Wikimedia Commons"
@@ -28,7 +27,7 @@ In den USA lässt sich wieder ein fürchterliches Beispiel beobachten, dass bis 
 
 Dass ein Mensch wegen seiner Hautfarbe schlecht behandelt wird, ist leider eine uralte Geschichte der Menschheit. Es gibt immer wieder Gruppen, die meinen zu wissen, was richtig und was falsch ist. So entsteht jedoch eine Spaltung, Wut, Hass, Ausgrenzung und Rassismus. Es gibt Menschengruppen, die sind gegen Dunkelhäutige, gegen Indianer, gegen Juden, gegen Frauen, gegen Asiaten, gegen Homosexuelle, gegen Andersdenkende... Dass Menschen gegen Menschen sind, ist leider ebenfalls eine uralte Geschichte der Menschheit. Doch, woher kommt das? Wer bringt uns das bei? Werden wir zu Rassisten gemacht oder ist jede/-r von uns im Kern bereits rassistisch? Welche Erfahrungen hast du gemacht? Wie nimmst du Mobbing, Ausgrenzung, Anfeindung und Rassismus in deinem Leben wahr? Wie stehen die Erwachsenen in deinem Umfeld dazu? Ich persönlich glaube daran, dass der Mensch im Grunde gut ist. Ich glaube daran, dass im Kern alle gleich sind und dass niemand das Recht hat, sich über jemanden anderen zu stellen. Ich glaube daran. Doch daran glauben leider nicht alle.
 
-{{< image img="Enter file with ext. here" desc="Black Lives Matter Protest, Bern, Switzerland, 13.06.2020" photographer="Jana Leu" src="https://unsplash.com/@janaloyy" >}}
+{{< image img="george-floyd-2_se1d9y.jpg" desc="Black Lives Matter Protest, Bern, Switzerland, 13.06.2020" photographer="Jana Leu" src="https://unsplash.com/@janaloyy" >}}
 
 ## Wie geht es weiter?​
 
