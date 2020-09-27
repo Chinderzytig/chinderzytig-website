@@ -5,7 +5,6 @@ cc_licence = "CC BY 2.0"
 cc_src = "https://creativecommons.org/licenses/by/2.0/deed.de"
 date = 2020-07-14T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601215900/fdw-eiswueste_r7sywx.jpg"
 img_description = "Polar Bears near the North Pole"
@@ -28,7 +27,7 @@ Es ist klar: Die drei Grossmächte interessieren sich für den nördlichen Pol. 
 
 Man vermutet, dass es in der Arktis bzw. im Meeresboden grosse Mengen an Erdöl und Erdgas gibt. Je weiter das Eis wegen des Klimawandels schmilzt, desto zugänglicher werden diese Bodenschätze. Das Schmelzen des Eises öffnet aber auch neue Durchgänge im Eis. Diese machen es für Schiffe einfacher, durch das Eismeer zu fahren. Die neu entstehenden Seestrassen verkürzen viele Strecken, zum Beispiel die Verbindung zwischen Asien und Europa. Die Transportschiffe von China müssen dann nicht mehr unten herum durch den Indischen Ozean, sondern gelangen oben herum nach Europa. Und zuletzt geht es auch um die Fischerei: Viele Meere sind bereits leer gefischt, um die Arktis herum wuselt aber noch viel Meeresgetier.
 
-{{< image img="Enter file with ext. here" desc="The U.S. Coast Guard Cutter Healy a 420 ft. icebreaker homeported in Seattle, Wash., breaks ice in support of scientific research in the Arctic Ocean" photographer="Coast Guard News" src="https://www.flickr.com/photos/23412076@N06/2869523258" cc_licence="CC BY 2.0" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
+{{< image img="fdw-eiswueste-2_oiqc5n.jpg" desc="The U.S. Coast Guard Cutter Healy a 420 ft. icebreaker homeported in Seattle, Wash., breaks ice in support of scientific research in the Arctic Ocean" photographer="Coast Guard News" src="https://www.flickr.com/photos/23412076@N06/2869523258" cc_licence="CC BY 2.0" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
 
 ## Die grossen Drei zeigen (wieder einmal) die Muskeln
 
