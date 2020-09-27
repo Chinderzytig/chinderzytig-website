@@ -5,8 +5,7 @@ cc_licence = "CC BY-SA 3.0"
 cc_src = "https://creativecommons.org/licenses/by-sa/3.0/deed.de"
 date = 2020-08-26T11:00:00Z
 description = ""
-draft = true
-fdw = false
+fdw = true
 hero_img = "/v1601230369/fdw-unsersamurai_vuqqga.jpg"
 img_description = "Via Wikimedia Commons"
 img_photographer = "Ripandyhug"
@@ -30,7 +29,7 @@ Seine Karriere erlebte den entscheidenden Wendepunkt 1993, als aus dem Karateka 
 
 Auch sein Privatleben nahm einen Wendepunkt: 1993 heiratete er seine Frau Ilona Hug, ein Jahr später wurde der gemeinsame Sohn Seya geboren
 
-{{< image img="Enter file with ext. here" desc="Via Wikimedia Commons" photographer="Ripandyhug" src="![](https://commons.wikimedia.org/wiki/File:Andy_hug.jpg)" cc_licence="CC BY-SA 3.0" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
+{{< image img="fdw-unsersamurai-2_sglbfv.jpg" desc="Via Wikimedia Commons" photographer="Ripandyhug" src="![](https://commons.wikimedia.org/wiki/File:Andy_hug.jpg)" cc_licence="CC BY-SA 3.0" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
 
 ## A Star is born
 
