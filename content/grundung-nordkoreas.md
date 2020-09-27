@@ -5,7 +5,6 @@ cc_licence = "CC BY-SA 2.0"
 cc_src = "https://creativecommons.org/licenses/by-sa/2.0/deed.de"
 date = 2020-09-08T23:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601234662/fdw-gruendung-nordkorea_hm9nj8.jpg"
 img_description = "North Korea - Hammer, Sickle, Brush"
@@ -30,9 +29,7 @@ Früher kannte man kein Nord- und kein Südkorea. Die {{< fremdwort wort="Halbin
 
 {{< definition wort="Sowjetunion" def="Das war ein riesiges Land, bestehend vor allem aus Russland und vielen baltischen Staaten, wie zum Beispiel Lettland, Litauen, aber auch Teile Polens, Tschechiens, der Slowakei usw. Die Sowjetunion zerbrach in der Zeit nach dem Berliner Mauerfall." >}}
 
-{{< image img="fdw-gruendung-nordkorea-2_ertm2u.jpg" desc="Via Wikimedia Commons" photographer="Hulton Archive/Getty Images" src="![](https://commons.wikimedia.org/wiki/File:Kim_Il-sung_in_1950.jpg)" cc_licence="CC0 1.0" cc_src="https://creativecommons.org/publicdomain/zero/1.0/deed.de" >}}
-
-<a href="![](https://commons.wikimedia.org/wiki/File:Kim_Il-sung_in_1950.jpg)" title="via Wikimedia Commons">Hulton Archive/Getty Images</a> / Public domain
+{{< image img="fdw-gruendung-nordkorea-2_ertm2u.jpg" desc="Via Wikimedia Commons" photographer="Hulton Archive/Getty Images" src="![](https://commons.wikimedia.org/wiki/File:Kim_Il-sung_in_1950.jpg)" cc_licence="CC PDM 1.0" cc_src="https://creativecommons.org/publicdomain/mark/1.0/deed.de" >}}
 
 ## Aus einem werden zwei Länder
 
@@ -44,7 +41,7 @@ Südkorea und Nordkorea verfolgten ganz verschiedene Ziele. Beide fanden die Ans
 
 {{< definition wort="Diktatur" def="Eine Regierungsform. Diktatoren führen sehr streng. Sehr häufig werden Gegner und Schwächere unterdrückt, verfolgt oder sogar gefangen genommen. Eine Diktatur bildet sich oft durch eine Person, manchmal auch durch eine Gruppe oder Partei." >}}
 
-{{< image img="Enter file with ext. here" desc="President Donald J. Trump shakes hands with Chairman of the Workers’ Party of Korea Kim Jong Un Sunday, June 30, 2019, as the two leaders meet at the Korean Demilitarized Zone" photographer="The White House" src="https://www.flickr.com/photos/148748355@N05/48162702412" cc_licence="CC PDM 1.0" cc_src="https://creativecommons.org/publicdomain/mark/1.0/deed.de" >}}
+{{< image img="fdw-gruendung-nordkorea-3_kpqm24.jpg" desc="President Donald J. Trump shakes hands with Chairman of the Workers’ Party of Korea Kim Jong Un Sunday, June 30, 2019, as the two leaders meet at the Korean Demilitarized Zone" photographer="The White House" src="https://www.flickr.com/photos/148748355@N05/48162702412" cc_licence="CC PDM 1.0" cc_src="https://creativecommons.org/publicdomain/mark/1.0/deed.de" >}}
 
 ## Keine Vereinigung in Sicht
 
