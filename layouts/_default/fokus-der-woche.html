@@ -13,49 +13,36 @@
 				mit Good News...
 		</p>
 	</section>
+
 	<section class="fdw__highlight">
-		<div class="fdw__highlight-container">
-			<h2 class="heading heading__tertiary">Der Fokus dieser Woche</h2>
-			<a href="#" class="card card--white card--highlight">
-				<div style="background:url(https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,w_300,q_auto:good/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>
-				<div class="card__content">
-					<h3 class="card__content-title">Verfolgt oder einfach beschützt? What it looks like with a longer title</h3>
-					<div class="card__content-date">07.15</div>
-				</div>
-			</a>
-		</div>
+		<div class="card__list">
+			<h2 class="heading heading__tertiary">Der neueste Fokus der Woche</h2>
+			<div class="card__container">
+				{{ $fdwArtikel := where .Site.Pages ".Params.fdw" true }}
+				{{ range first 3 $fdwArtikel.ByDate.Reverse }}
+					<a href="{{.RelPermalink}}" class="card card--white">
+						<div style="background:url({{ .Site.Params.cloudinary_url }}/c_scale,h_170,w_300,q_auto:good/{{ .Params.hero_img }})" class="card__photo"></div>
+						<div class="card__content">
+							<h3 class="card__content-title">{{ .Title }}</h3>
+							<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+						</div>
+					</a>
+				{{ end }}
+			</div>
 	</section>
 	<section class="fdw__articles card__list">
 		<h2 class="heading heading__secondary">Alle Artikel der Woche</h2>
 		<div class="card__container">
-			<a href="#" class="card card--grey">
-				<div style="background:url(https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,w_300,q_auto:good/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>
-				<div class="card__content">
-					<h3 class="card__content-title">Verfolgt oder einfach beschützt? What it looks like with a longer title</h3>
-					<div class="card__content-date">07.15</div>
-				</div>
-			</a>
-			<a href="#" class="card card--grey">
-				<div style="background:url(https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,w_300,q_auto:good/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>
-				<div class="card__content">
-					<h3 class="card__content-title">Verfolgt oder einfach beschützt? What it looks like with a longer title</h3>
-					<div class="card__content-date">07.15</div>
-				</div>
-			</a>
-			<a href="#" class="card card--grey">
-				<div style="background:url(https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,w_300,q_auto:good/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>
-				<div class="card__content">
-					<h3 class="card__content-title">Verfolgt oder einfach beschützt? What it looks like with a longer title</h3>
-					<div class="card__content-date">07.15</div>
-				</div>
-			</a>
-			<a href="#" class="card card--grey">
-				<div style="background:url(https://res.cloudinary.com/chinderzytig/image/upload/c_scale,h_170,w_300,q_auto:good/v1594824172/article_imgs/app_rkukid.jpg)" class="card__photo"></div>
-				<div class="card__content">
-					<h3 class="card__content-title">Verfolgt oder einfach beschützt? What it looks like with a longer title</h3>
-					<div class="card__content-date">07.15</div>
-				</div>
-			</a>
+			{{ $fdwArtikel := where .Site.Pages ".Params.fdw" true }}
+			{{ range $fdwArtikel.ByDate.Reverse }}
+				<a href="{{.RelPermalink}}" class="card card--white">
+					<div style="background:url({{ .Site.Params.cloudinary_url }}/c_scale,h_170,w_300,q_auto:good/{{ .Params.hero_img }})" class="card__photo"></div>
+					<div class="card__content">
+						<h3 class="card__content-title">{{ .Title }}</h3>
+						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+					</div>
+				</a>
+			{{ end }}
 		</div>
 	</section>
 {{end}}
