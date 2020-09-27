@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-08-05T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1600370740/tiktok_mapxuy.jpg"
 img_description = "TikTok app on phone display"
@@ -27,7 +26,7 @@ _Der US-Präsident Donald Trump will TikTok verbieten. Gleichzeitig will das Sof
 Es gibt zwei Hauptvorwürfe: Erstens soll ByteDance Daten von TikTok-Nutzerinnen und -Nutzern wie Telefonnummern und Informationen zum Wohnort der chinesischen Regierung zukommen lassen. Das heisst die chinesische Regierung weiss alles über Nutzerinnen und Nutzer der Plattform. Das Unternehmen lehnt den Vorwurf ab. Jedoch ist es gemäss Kritikerinnen und Kritikern kaum möglich, dass Firmen in China so erfolgreich sein können wie ByteDance, ohne mit der Regierung zusammenzuarbeiten. Das heisst nicht, dass sie das wollen: Unternehmen könnten von der Regierung auch dazu gezwungen werden.  
 Zweitens gibt es grosse Bedenken, dass gewisse Inhalte auf TikTok zensiert werden. Das heisst, dass die Verbreitung von Inhalten, die von der chinesischen Regierung nicht erwünscht sind, verhindert werden. Es wird also vermutet, dass TikTok die Verbreitung von bestimmten Videos gezielt eingeschränkt, sodass sie kaum jemand oder niemand sehen kann.
 
-{{< image img="Enter file with ext. here" desc="TikTok-unter-der-Lupe" photographer="Christoph Scholz" src="https://www.flickr.com/photos/140988606@N08/40506141403" cc_licence="CC BY-SA 2.0" cc_src="https://creativecommons.org/licenses/by-sa/2.0/deed.dee" >}}
+{{< image img="fdw-tiktok_live2h.jpg" desc="TikTok-unter-der-Lupe" photographer="Christoph Scholz" src="https://www.flickr.com/photos/140988606@N08/40506141403" cc_licence="CC BY-SA 2.0" cc_src="https://creativecommons.org/licenses/by-sa/2.0/deed.dee" >}}
 
 ## Microsoft interessiert sich für TikTok
 
@@ -37,9 +36,11 @@ Ob Microsoft tatsächlich einen Teil der Videoplattform kauft, steht noch offen.
 
 ## Wie geht es weiter?
 
-Der US-Präsident Donald Trump scheint den möglichen Kauf also nicht vollständig abzulehnen. Aber mit Sicherheit wird er sich zu diesem Thema bis zu den US-Präsidentschaftswahlen vom 3. November 2020 noch einige Male äussern. Denn er will der amerikanischen Bevölkerung am Beispiel von TikTok zeigen, dass er streng mit dem immer stärker werdenden China umgeht. Für Donald Trump ist das ein Grund, wieso man ihn wählen sollte.  
-  
-Auch in Europa wird TikTok kritisch betrachtet. Daher hat die [Europäische Union](https://www.chinderzytig.ch/faq) eine Arbeitsgruppe ins Leben gerufen, die sich mit der Videoplattform beschäftigt. Sie soll mehr über den Umgang mit Daten und weitere mögliche Risiken von TikTok herausfinden. Wird also auch hier bald ein Verbot diskutiert? Das wird sich noch zeigen.
+Der US-Präsident Donald Trump scheint den möglichen Kauf also nicht vollständig abzulehnen. Aber mit Sicherheit wird er sich zu diesem Thema bis zu den US-Präsidentschaftswahlen vom 3. November 2020 noch einige Male äussern. Denn er will der amerikanischen Bevölkerung am Beispiel von TikTok zeigen, dass er streng mit dem immer stärker werdenden China umgeht. Für Donald Trump ist das ein Grund, wieso man ihn wählen sollte.
+
+Auch in Europa wird TikTok kritisch betrachtet. Daher hat die {{< fremdwort wort="Europäische Union" >}} eine Arbeitsgruppe ins Leben gerufen, die sich mit der Videoplattform beschäftigt. Sie soll mehr über den Umgang mit Daten und weitere mögliche Risiken von TikTok herausfinden. Wird also auch hier bald ein Verbot diskutiert? Das wird sich noch zeigen.
+
+{{< definition wort="Europäische Union" def="Die Abkürzung für Europäische Union. Das ist eine Vereinigung verschiedener Länder von Europa, die gemeinsam eine Währung haben (den Euro) und gemeinsam Entscheidungen treffen. Die meisten Länder gehören dazu. Ausnahmen sind zum Beispiel die Schweiz." >}}
 
 ## Nun bist du an der Reihe
 
