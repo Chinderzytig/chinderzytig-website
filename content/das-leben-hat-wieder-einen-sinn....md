@@ -5,9 +5,8 @@ cc_licence = "CC BY-SA 2.0"
 cc_src = "https://creativecommons.org/licenses/by-sa/2.0/deed.de"
 date = 2020-06-17T11:00:00Z
 description = ""
-draft = true
 fdw = true
-hero_img = ""
+hero_img = "/v1601204403/fdw-fussballgeistermeister-2_ujgdcl.jpg"
 img_description = "An empty Stade de Suisse in Bern, Switzerland"
 img_photographer = "Martin Abegglen"
 img_src = "https://www.flickr.com/photos/30713600@N00/235875141"
@@ -26,11 +25,11 @@ Fussball ist ein Phänomen. Kaum ein Kind, das nicht weiss, wo Cristiano Ronaldo
 
 Fussball ist angeblich bereits viertausend Jahre alt und wurde in China erfunden. Der heutige Fussball hat seinene Ursprung in England, im Frühmittelalter. Das Spielfeld lag aber zwischen zwei Orten; egal, wie viele Kilometer dazischen lagen. Und im Jahr 1848 wurden die ersten Fussballregeln notiert.
 
-{{< image img="Enter file with ext. here" desc="Supporters from Liverpool FC in the streets celebrating their club" photographer="Fleur" src="https://unsplash.com/@yer_a_wizard" >}}
-
 ## Fussball bedeutet Emotionen​
 
 Seither steigt die Beliebtheit des Fussballs unentwegt. Fussball ist heute eine der beliebtesten und am weitesten verbreiteten Sportarten der Welt. Vor zehn Jahren spielten etwa 265 Millionen (265'000'000) Menschen Fussbal, verteilt auf 200 Länder. In Deutschland besteht ein Zuschauerschnitt von 42'000 Besucherinnen und Besuchern - pro Spiel. Fussball fasziniert. Fussball elektrisiert. Ein Spiel voller Emtionen. Mit emotionalen Fangruppen. Vielleicht habt auch ihr bereits an emotionale Fussballspiele gewisse Erinnerungen? Die fussballlose Zeit während dem Corona-Lockdown war für viele Fussballfans sehr hart. Nicht zuletzt wegen ihnen (und wegen Millionen von TV-Geldern) geht der Fussball nun weiter, im TV, ohne Publikum. Kann das gut gehen? Geisterspiele werden vor allem deshalb ausgetragen, dass die TV-Stationen Zuschauer erhalten. Es geht um Geld. Wie immer. Nur so können die Vereine Fernsehgelder erhalten. Nur so können die Vereine die zum Teil unhöflich hohen Löhne der Spieler bezahlen. Doch, sind Geisterspieler für (neutrale) Beobachtenden wirklich so tragisch?
+
+{{< image img="fdw-fussballgeistermeister_zshldj.jpg" desc="Supporters from Liverpool FC in the streets celebrating their club" photographer="Fleur" src="https://unsplash.com/@yer_a_wizard" >}}
 
 ## Geisterspiele​? Oje
 
