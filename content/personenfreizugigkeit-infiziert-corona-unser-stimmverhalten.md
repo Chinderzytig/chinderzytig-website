@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-07-01T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601206483/fdw-personenfreizu%CC%88gigkeit_pgwels.jpg"
 img_description = "A pamphlet containing voting information"
@@ -32,7 +31,7 @@ Alle anderen grossen Parteien und der Bundesrat sind gegen die Kündigung des Ve
 
 Die Diskussion über die Einwanderung gibt es schon länger. Im Jahr 2014 und 2016 hat die Schweiz über ähnliche Initiativen abgestimmt. Der Vertrag mit der EU wurde damals aber nicht gekündigt.
 
-{{< image img="Enter file with ext. here" desc="Voting during Coronavirus pandemic" photographer="Jernej Furman" src="https://www.flickr.com/photos/91261194@N06/50096823886" cc_licence="CC BY 2.0" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
+{{< image img="fdw-personenfreizu%CC%88gigkeit-2_lpka0m.jpg" desc="Voting during Coronavirus pandemic" photographer="Jernej Furman" src="https://www.flickr.com/photos/91261194@N06/50096823886" cc_licence="CC BY 2.0" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
 
 ## Angst ändert unser Verhalten
 
