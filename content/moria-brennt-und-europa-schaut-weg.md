@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-09-16T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601279356/fdw-moria_ad4gfd.jpg"
 img_description = "Several small children walk together amongst the temporary shelters in the Moria Refugee Camp "
@@ -32,7 +31,7 @@ Ungefähr 12'600 Menschen leben im Lager von Moria. Platz hätte es für 2'800 M
 
 Fakt ist: die Lage ist für die Einheimischen auf Lesbos katastrophal, für die Flüchtenden sowieso. Armut, Obdachlosigkeit, Corona... Spannungen, Agressionen, Unzufriedenheit. Moria ist seit Jahren eine tickende Zeitbombe! Ganz Europa weiss davon und alle schauen weg. Auf Kosten der ärmsten Menschen, die eigentlich in der Regel nur Schutz suchen!
 
-{{< image img="Enter file with ext. here" desc="Demonstration on the 9th of September in Bielefeld, Germany, regarding the fires in the refugee camp Moria in Lesbos, Greece" photographer="noah eleazar" src="https://unsplash.com/@noaheleazar" >}}
+{{< image img="fdw-moria-2_kdz377.jpg" desc="Demonstration on the 9th of September in Bielefeld, Germany, regarding the fires in the refugee camp Moria in Lesbos, Greece" photographer="noah eleazar" src="https://unsplash.com/@noaheleazar" >}}
 
 ## Europa im Konflikt​
 
