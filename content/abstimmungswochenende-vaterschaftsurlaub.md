@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-09-24T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1601282118/fdw-abstimmungssonntag-kommentar_vkhv0l.jpg"
 img_description = "A father kissing his infant son"
@@ -22,7 +21,7 @@ _Am 23. September 2020 veröffentlichte die Chinderzytig einen Fokus der Woche z
 
 In der Schweiz bekommt ein Vater bei der Geburt seines Kindes einen Tag frei. Die Mutter darf seit 2005 14 Wochen Mutterschaftsurlaub beziehen. Am nächsten Sonntag stimmen die Erwachsenen ab, ob ab nächstem Jahr ein Vater neu 10 Arbeitstage frei bekommen soll, wenn er Vater wird. Die heutigen Väter wünschen sich diesen Vaterschaftsurlaub. Sie fordern: Vaterschaftsurlaub – Jetzt!
 
-{{< image img="Enter file with ext. here" desc="Vaterschaftsurlaub Jetzt campaign logo" photographer="CVP" src="https://www.cvp.ch/de/Vaterschaftsurlaub" >}}
+{{< image img="fdw-abstimmungssonntag-kommentar_o7hnvj.png" desc="Vaterschaftsurlaub Jetzt campaign logo" photographer="CVP" src="https://www.cvp.ch/de/Vaterschaftsurlaub" >}}
 
 Das Parlament schlägt dem Volk vor, das Gesetz so zu ändern, dass künftig jeder Vater nach der Geburt seines Kindes zwei Wochen freie Zeit bekommt. Das sind natürlich nicht Ferien, weil die Väter dann die Mutter unterstützen müssen, das Kind kennenlernen, lernen wie ein Baby gewickelt wird und wie es gehalten werden will. Früher waren die Kinder Sache der Mutter. Heute wollen die meisten Väter aber mithelfen und mehr zu den Kindern schauen als früher.
 
