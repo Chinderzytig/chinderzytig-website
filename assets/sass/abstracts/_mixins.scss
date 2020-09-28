@@ -2,6 +2,8 @@
 	max-width: 1024px;
 	margin-left: auto;
 	margin-right: auto;
+
+	@include respond(tab-land) { padding: 0 3rem; }
 }
 
 @mixin cta-color($bg) {
