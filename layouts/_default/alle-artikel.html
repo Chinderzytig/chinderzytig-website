@@ -14,7 +14,7 @@
 		<h2 class="heading heading__secondary">{{ .Title }}</h2>
 		<div class="card__container">
 			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
-			{{ range $artikel.ByTitle }}
+			{{ range $artikel.ByDate.Reverse }}
 				<a href="{{.RelPermalink}}" class="card card--grey card__hidden">
 					<div class="card__img-container">
 						<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},

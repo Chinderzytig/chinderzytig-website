@@ -16,11 +16,9 @@
 			align-items: center;
 			margin-left: 11rem;
 		}
-
-		&-src { margin-left: .5rem; }
 	}
 
-	&__caption-buffer { margin-left: .5rem; }
+	&__caption-buffer { margin: 0 .5rem; }
 
 	&__taxonomies { display: flex; }
 
