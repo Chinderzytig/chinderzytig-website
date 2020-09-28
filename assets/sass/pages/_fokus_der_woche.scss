@@ -1,11 +1,17 @@
 .fdw {
 
-	&__intro { @include container-main; }
-
 	&__intro {
-		display: flex;
-		justify-content: center;
-		align-items: center;
+		@include cta-color($cta-seashell);
+		margin-top: -6rem;
+
+		&-container {
+			@include container-main;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+			@include respond(tab-port-sm) { flex-direction: column; }
+		}
 
 		&-text {
 			font-size: 2rem;
@@ -15,16 +21,12 @@
 			border-top: 2px solid $chinder-verdigris;
 			border-bottom: 2px solid $chinder-verdigris;
 			padding: 3rem 0;
-		}
-	}
 
-	&__highlight {
-		@include cta-color($cta-seashell);
-
-		&-container {
-			display: flex;
-			flex-direction: column;
-			align-items: center;
+			@include respond(tab-port-sm) {
+				width: 90%;
+				padding: 2rem 0;
+				margin-top: 2rem;
+			}
 		}
 	}
 }

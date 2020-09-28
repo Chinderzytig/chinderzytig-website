@@ -44,7 +44,9 @@
 
 	<section class="fdw__cta">
 		<div class="card__list fdw__cta-container">
-			{{- partial "svgs/fdw_svg.html" . -}}
+			<a href="/fokus-der-woche" class="fdw__cta-link">
+				{{- partial "svgs/fdw_svg.html" . -}}
+			</a>
 			{{ $fdwArtikel := where .Site.Pages ".Params.fdw" true }}
 			{{ range first 1 $fdwArtikel.ByDate.Reverse }}
 				<a href="{{.RelPermalink}}" class="card card--white">
