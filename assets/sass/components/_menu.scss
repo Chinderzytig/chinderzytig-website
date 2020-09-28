@@ -18,7 +18,9 @@
 
 		@include respond(tab-port-sm) { left: 2rem; }
 
-		@include respond(phone-land-lg) { top: 9.5rem; }
+		@include respond(phone-land-lg) { top: 12.5rem; }
+
+		@include respond(tab-port-xxs) { left: 9.5rem; }
 
 		@include respond(phone-lg) {
 			height: 6rem;
@@ -43,7 +45,9 @@
 
 		@include respond(tab-port-sm) { left: 2.5rem; }
 
-		@include respond(phone-land-lg) { top: 10rem; }
+		@include respond(phone-land-lg) { top: 13rem; }
+
+		@include respond(tab-port-xxs) { left: 10rem; }
 
 		@include respond(phone-lg) {
 			height: 5rem;
