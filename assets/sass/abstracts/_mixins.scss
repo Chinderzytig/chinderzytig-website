@@ -92,6 +92,9 @@
 	@if $breakpoint == tab-port-xs {
 		@media (max-width: 40.60em) { @content };	//650px
 	}
+	@if $breakpoint == phone-land-lg {
+		@media (max-width: 41.6875em) { @content };	//667px
+	}
 	@if $breakpoint == tab-port-sm {
 		@media (max-width: 47.9375em) { @content };	//767px
 	}
