@@ -5,8 +5,7 @@ cc_licence = "CC BY 2.0"
 cc_src = "https://creativecommons.org/licenses/by/2.0/deed.de"
 date = 2020-09-23T11:00:00Z
 description = ""
-draft = true
-fdw = false
+fdw = true
 hero_img = "/v1601281104/fdw-abstimmungssonntag_rzytbt.jpg"
 img_description = "A McDonnell-Douglas FA-18D Hornet of the Swiss Air Force"
 img_photographer = "Jerry Gunner"
@@ -30,7 +29,7 @@ Die fünf Abstimmungsfragen erklären wir dir hier. So kannst du dir eine eigene
 
 Zwischen der Schweiz und den Ländern der Europäischen Union (Deutschland, Frankreich, Italien, Österreich, Spanien, etc.) gilt der freie Personenverkehr. Das heisst, Menschen aus diesen Ländern dürfen in der Schweiz arbeiten. Umgekehrt gilt dies auch für Schweizerinnen und Schweizer in der EU. Die SVP will dies beenden. Sie sagt, es kämen zu viele Leute aus der EU in die Schweiz. Das führe zu Staus auf den Strassen, zu überfüllten Zügen, steigenden Mieten und mehr Arbeitslosen. Die Schweiz muss laut der SVP wieder selbst entscheiden können, wie viele Menschen aus der EU in die Schweiz arbeiten kommen. Die Gegner der Initiative sagen, ein Ja verärgere die EU. Die Schweiz würde einen Vertrag nicht einhalten. Man wisse nicht, wie sie reagieren werde. Diese führe zu grosser Unsicherheit und schade der Wirtschaft.
 
-{{< image img="Enter file with ext. here" desc="The SVP's latest campaign to end the migration of persons to Switzerland through European freedom of movment" photographer="SVP" src="https://www.svp.ch/news/artikel/medienmitteilungen/zu-viel-ist-zu-viel-die-schweiz-zerbricht-unter-dem-druck-der-masslosen-zuwanderung/" >}}
+{{< image img="fdw-abstimmungssonntag-2_fgkpii.png" desc="The SVP's latest campaign to end the migration of persons to Switzerland through European freedom of movment" photographer="SVP" src="https://www.svp.ch/news/artikel/medienmitteilungen/zu-viel-ist-zu-viel-die-schweiz-zerbricht-unter-dem-druck-der-masslosen-zuwanderung/" >}}
 
 ## Neue Kampfjets für die Schweizer Luftwaffe
 
