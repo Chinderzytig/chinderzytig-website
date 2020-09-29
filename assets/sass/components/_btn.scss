@@ -1,14 +1,22 @@
 .btn {
+	font-family: $font-patrick, $font-fallback;
+	font-size: $font-big;
+	background-color: $color-white;
+	border: 2px solid $color-black;
 	cursor: pointer;
+	padding: 1rem;
+	text-transform: uppercase;
 
-	&__container {
-		text-align: center;
-		margin-top: $margin-m;
-	}
+		&:link,
+		&:visited {
+			color: inherit;
+			background-color: $color-white;
+			border: 2px solid $color-black;
+			text-decoration: none;
+		}
 
-	&--primary { @include btn-color($color-white, $color-black, $primary: true); }
-
-	&--secondary { @include btn-color($color-white, $color-black, $primary: false); }
+		&:hover,
+		&:active { color: $color-white; }
 
 	&--primary {
 		&:hover,
@@ -26,43 +34,32 @@
 		}
 	}
 
-	&__legit {
-		background-color: $color-white;
-		text-align: center;
-		text-transform: uppercase;
-
-		&--donate {
-			border: 2px solid $color-black;
-			padding: 1rem;
-			@extend .btn--secondary;
-		}
-
-		&--nav,
-		&--footer,
-		&--kontakt {
-			font-size: inherit;
-			padding: .5rem 1rem;
-			@extend .btn--primary;
-		}
-
-		&--nav,
-		&--kontakt {
-			color: $social-base;
-			border: 2px solid $social-base;
-		}
-
-		&--footer {
-			font-family: 'Lato', sans-serif;
-			color: $chinder-platinum;
-			border: 2px solid $chinder-platinum;
-			background-color: $footer-light;
-		}
-
-		&--kontakt { font-family: 'Lato', sans-serif; }
+	&--nav,
+	&--footer,
+	&--kontakt {
+		font-size: inherit;
+		padding: .5rem 1rem;
+		@extend .btn--primary;
 	}
 
+	&--nav,
+	&--kontakt {
+		color: $social-base;
+		border: 2px solid $social-base;
+	}
+
+	&--footer {
+		font-family: 'Lato', sans-serif;
+		color: $chinder-platinum;
+		border: 2px solid $chinder-platinum;
+		background-color: $footer-light;
+	}
+
+	&--kontakt { font-family: 'Lato', sans-serif; }
+
 	&--verein {
-		@include btn-color($color-white, $color-black, $primary: false);
+		font-size: $font-bigger;
+		@extend .btn--secondary;
 		width: 40%;
 		display: flex;
 		justify-content: space-between;
@@ -76,5 +73,10 @@
 		&:active { .arrow { fill: $color-white; } }
 
 		&:not(:nth-child(-n+2)) { margin-top: 6rem; }
+	}
+
+	&__container {
+		text-align: center;
+		margin-top: $margin-m;
 	}
 }
