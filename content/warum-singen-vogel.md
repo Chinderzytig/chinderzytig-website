@@ -42,10 +42,8 @@ Der Gesang hat also mehrere Funktionen: Als Markierung des Reviers, als Lockruf 
 
 {{< teiler >}}
 
-## Arbeitsmaterial
-
 {{< container-center >}}
 {{< arbeitsmaterial file="warum-singen-voegel-arbeitsmaterial_b1bv4h" >}}
 {{< /container-center >}}
 
-## 
+##

@@ -37,10 +37,6 @@ Wenn ihr mehr zu den Kurden erfahren wollt, könnt ihr einen unserer bereits pub
 
 {{< teiler >}}
 
-## Arbeitsmaterial
-
 {{< container-center >}}
 {{< arbeitsmaterial file="kurdische-volk-arbeitsmaterial_op1rav" >}}
 {{< /container-center >}}
-
-## 

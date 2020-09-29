@@ -46,8 +46,6 @@ Viele der älteren Sichtungen oder Aufnahmen geschahen zufällig. Seit einigen J
 
 {{< teiler >}}
 
-## Arbeitsmaterial
-
 {{< container-center >}}
 {{< arbeitsmaterial file="bigfoot-arbeitsmaterial_wikmrx" >}}
 {{< /container-center >}}

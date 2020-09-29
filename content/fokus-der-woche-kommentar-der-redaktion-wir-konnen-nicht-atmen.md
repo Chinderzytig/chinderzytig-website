@@ -40,9 +40,3 @@ Wir können die Welt zwar leider nicht so einfach ändern. Wir können fast nur 
 ## Nun bist du an der Reihe
 
 Wie wirkt der Fokus der Woche auf dich? Was denkst du zum Thema? Was denken dein Freunde, deine Familie? Welche Gefühle kommen auf, welche Diskussionen entstehen? Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
-
-{{< teiler >}}
-
-{{< container-center >}}
-{{< arbeitsmaterial file="arbeiterpartei-kurdistan-arbeitsmaterial_vq9unb" >}}
-{{< /container-center >}}

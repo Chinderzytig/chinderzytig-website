@@ -39,8 +39,6 @@ Seit Januar dieses Jahres hat der Iran auch mit dem Corona-Virus zu kämpfen. Ne
 
 {{< teiler >}}
 
-## Arbeitsmaterial
-
 {{< container-center >}}
 {{< arbeitsmaterial file="iran-arbeitsmaterial_djnhsy" >}}
 {{< /container-center >}}

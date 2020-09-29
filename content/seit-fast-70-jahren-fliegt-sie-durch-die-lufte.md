@@ -29,7 +29,7 @@ Sobald ein Alarm beim Team eingeht, macht sich der Pilot gemeinsam mit einem Arz
 
 Bei schlechtem Wetter oder wenn das Gelände sehr steil ist, kann der Pilot oft nicht bei seinem Patienten landen. Dann kommt eine sogenannte Rettungswinde zum Einsatz: Das ist ein starkes Seil, an dem der Arzt zur verletzten Person hinuntergelassen werden kann. Der Arzt kümmert sich um den Verletzten und macht ihn dann an der Winde fest. Zusammen werden die beiden wieder zum Helikopter heraufgezogen. Anschliessend fliegt der Rega-Pilot den Patienten in ein Spital.
 
-So sieht die Arbeit mit der Rettungswinde aus: [https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf](https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf "https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf")
+So sieht die Arbeit mit der Rettungswinde aus: [Illustration_Rettungswinde_de.pdf](https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf "https://www.rega.ch/fileadmin/seiteninhalt/PDFs/Illustrationen_Centerfolds/Illustration_Rettungswinde_de.pdf")
 
 {{< image img="rega-2_wfozso.jpg" desc="Rega plane flying over the Alps" src="https://unsplash.com/@mrcalvert" photographer="Seb Mooze" >}}
 
@@ -44,7 +44,5 @@ Heute besteht die Flotte der Rega aus 18 Rettungshelikoptern und 3 Ambulanzjets.
 Rega Homepage: [https://www.rega.ch/](https://www.rega.ch/ "https://www.rega.ch/")
 
 {{< teiler >}}
-
-## Arbeitsmaterial
 
 {{< container-center >}} {{< arbeitsmaterial file="rega-arbeitsmaterial_g35awb" >}} {{< /container-center >}}
