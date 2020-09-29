@@ -2,7 +2,14 @@
 	<div class="single__container">
 		<div class="single__frontmatter">
 			<figure class="single__image">
-				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_800/{{ .Params.hero_img }}" alt="{{ .Params.img_description }}" class="single__image-img">
+				<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_320/{{ .Params.hero_img }} 320w,
+					{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_414/{{ .Params.hero_img }} 414w,
+					{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_512/{{ .Params.hero_img }} 512w,
+					{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_600/{{ .Params.hero_img }} 600w"
+					sizes="(min-width: 800px) 800px, 100vw"
+					src="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_800/{{ .Params.hero_img }}"
+					alt="{{ .Params.img_description }}"
+					class="single__image-img"/>
 				<figcaption class="single__image-caption">
 					{{ partial "svgs/triangle_svg.html" (dict "fill" "#6C685D" "width" 15 "height" 15) }}
 					<a href="{{ .Params.img_src }}" title="{{ .Params.img_description }}" target="_blank" class="single__image-src">

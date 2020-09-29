@@ -1,5 +1,10 @@
 <figure class="image">
-	<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_500/{{ .Get `img` }}" alt="{{ .Get `desc` }}" class="image__img">
+	<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_320/{{ .Get `img` }} 320w,
+		{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_414/{{ .Get `img` }} 414w"
+		sizes="(min-width: 600px) 600px, 100vw"
+		src="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_600/{{ .Get `img` }}"
+		alt="{{ .Get `desc` }}"
+		class="image__img"/>
 	<figcaption class="image__caption">
 		{{ partial "svgs/triangle_svg.html" (dict "fill" "#6C685D" "width" 15 "height" 15) }}
 		<a href="{{ .Get `src` }}" title="{{ .Get `desc` }}" target="_blank" class="image__src">
