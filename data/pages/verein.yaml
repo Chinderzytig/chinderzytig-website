@@ -2,18 +2,21 @@ media:
 - url: "https://www.telebaern.tv/telebaern-news/projekt-chinderzytig-soll-schueler-die-erwachsenenwelt-simpel-erklaeren-136290126"
   logo:
     - img: "telebarn4_dixhjg.png"
+      description: "Telebarn logo"
   content:
     - title: "Projekt „Chinderzytig“ soll Schüler die Erwachsenenwelt simpel erklären"
       date: "27.1.2020"
 - url: "https://res.cloudinary.com/chinderzytig/image/upload/v1597816965/pdfs/berner_schule_npdljk.pdf"
   logo:
     - img: "bildung_bern_swkpb6.jpg"
+      description: "Bildung Bern logo"
   content:
     - title: "Erwachsenenthemen sind für Kinder kein Tabu"
       date: "19.12.2019"
 - url: "https://www.bielertagblatt.ch/nachrichten/fokus/auch-kinder-wollen-ueber-aktuelle-themen-lesen"
   logo:
     - img: "bieler_tagblatt_rs42yz.jpg"
+      description: "Bieler Tagblatt logo"
   content:
     - title: "«Auch Kinder wollen über aktuelle Themen lesen»"
       date: "28.11.2019"
