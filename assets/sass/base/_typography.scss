@@ -134,6 +134,14 @@ body {
 		display: inline-block;
 	}
 
+	&__secondary,
+	&__tertiary {
+		@include respond(tab-port-sm) {
+			display: flex;
+			justify-content: center;
+		}
+	}
+
 	&--article {
 		color: $chinder-orange;
 		font-size: 4rem;
@@ -150,11 +158,6 @@ body {
 		position: relative;
 		display: inline-block;
 		z-index: 2;
-	}
-
-	@include respond(tab-port-sm) {
-		display: flex;
-		justify-content: center;
 	}
 }
 
