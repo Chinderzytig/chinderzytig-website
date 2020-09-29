@@ -21,48 +21,6 @@
 	}
 }
 
-@mixin btn-color($bg, $border, $primary: true) {
-	background-color: $bg;
-
-	&:link,
-	&:visited,
-	 {
-		border: 2px solid $border;
-		padding: 1rem;
-	}
-
-	@if $primary {
-		&:hover,
-		&:active {
-			background-color: $chinder-verdigris;
-			border-color: $chinder-celadon;
-		}
-	} @else {
-		&:hover,
-		&:active {
-			background-color: $chinder-orange;
-			border-color: $chinder-chestnut;
-		}
-	}
-}
-
-@mixin card-dimensions($h, $w, $portrait: true) {
-	height: $h;
-	width: $w;
-
-	@if $portrait {
-		.card__photo {
-			height: $h/2;
-			width: $w;
-		}
-	} @else {
-		.card__photo {
-			height: $h;
-			width: $w/2.5;
-		}
-	}
-}
-
 // 1em = 16px
 
 @mixin respond($breakpoint) {
