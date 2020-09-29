@@ -49,6 +49,7 @@
 	}
 
 	&__comments {
+		@include container-main;
 		border-top: 4px solid $chinder-cultured;
 
 		&-title { margin-top: $margin-s; }
