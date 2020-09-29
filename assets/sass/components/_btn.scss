@@ -75,26 +75,3 @@
 
 		&:not(:nth-child(-n+2)) { margin-top: 6rem; }
 	}
-
-	&-submit {
-		margin-left: 2rem;
-		align-self: flex-start;
-		padding: .5rem 1rem;
-
-		&--nav {
-			border: 2px solid $social-base;
-			background-color: $color-white;
-		}
-
-		&--footer {
-			border: 2px solid $chinder-platinum;
-			background-color: $footer-light;
-		}
-
-		&:hover,
-		&:active {
-			background-color: $chinder-verdigris;
-			border-color: $chinder-celadon;
-		}
-	}
-}
