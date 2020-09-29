@@ -1,11 +1,11 @@
 .image {
 	display: flex;
 	flex-direction: column;
+	align-items: center;
 	margin-bottom: $margin-s;
 
-	&__img { align-self: center; }
-
 	&__caption {
+		align-self: flex-start;
 		display: flex;
 		align-items: center;
 		margin-left: 26rem;

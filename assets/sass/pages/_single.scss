@@ -7,11 +7,11 @@
 	&__image {
 		display: flex;
 		flex-direction: column;
+		align-items: center;
 		margin-bottom: 4rem;
 
-		&-img { align-self: center; }
-
 		&-caption {
+			align-self: flex-start;
 			display: flex;
 			align-items: center;
 			margin-left: 11rem;
