@@ -23,10 +23,6 @@ England gehört zur EU dazu. Nun hat ein bisschen mehr als die Hälfte des Volke
 
 {{< teiler >}}
 
-## Arbeitsmaterial
-
 {{< container-center >}}
 {{< arbeitsmaterial file="brexit_fhv0qz" >}}
 {{< /container-center >}}
-
-## 

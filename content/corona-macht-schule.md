@@ -25,7 +25,6 @@ Warum? Es geht darum, unser Gesundheitssystem zu entlasten, in dem sich die Mens
 
 * Schulen und Lehrpersonen müssen nun dafür sorgen, dass Schulkinder digital, per Post oder per Abholtermin mit Unterrichtsmaterial versorgt werden. Das heisst, ihr kriegt wohl bald Hausaufgaben und Aufträge, die ihr zu Hause erledigen müsst. Die Schule ist zu, aber die Arbeit geht nicht aus. Das Nötigste muss erledigt werden.
 
-
 * Eure Eltern übernehmen den Unterricht nicht, müssen aber dafür sorgen, dass ihr eure Hausaufträge erledigt.
 
 {{< image img="corona-macht-schule_hwqt6j.jpg" desc="Empty classroom" src="https://unsplash.com/@flpschi" photographer="Feliphe Schiarolli" >}}

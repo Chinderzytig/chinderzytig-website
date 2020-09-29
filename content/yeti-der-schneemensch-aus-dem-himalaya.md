@@ -46,10 +46,6 @@ Die bekannteste Yeti-Sichtung stammt von Reinhold Messner. Der berühmte österr
 
 {{< teiler >}}
 
-## Arbeitsmaterial
-
 {{< container-center >}}
 {{< arbeitsmaterial file="yeti-arbeitsmaterial_yj1uzu" >}}
 {{< /container-center >}}
-
-## 
