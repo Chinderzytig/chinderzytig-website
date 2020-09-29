@@ -38,7 +38,8 @@
 		}
 
 		&--nav,
-		&--footer {
+		&--footer,
+		&--kontakt {
 			font-size: inherit;
 			padding: .5rem 1rem;
 			@extend .btn--primary;
@@ -88,11 +89,6 @@
 		&--footer {
 			border: 2px solid $chinder-platinum;
 			background-color: $footer-light;
-		}
-
-		&--kontakt {
-			@extend .btn-submit--nav;
-			margin-left: 0;
 		}
 
 		&:hover,
