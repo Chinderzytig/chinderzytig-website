@@ -5,12 +5,6 @@
 	&__middle-container,
 	&__bottom { @include container-main; }
 
-	&__top {
-		padding: 2rem 0 .5rem 0;
-
-		@include respond(phone-xxl) { padding-top: 1.5rem; }
-	}
-
 	&__middle {
 		background-color: $footer-light;
 		padding: 3rem 0;
@@ -47,7 +41,7 @@
 
 		@include respond(phone-xl) {
 			text-align: center;
-			
+
 			&:first-child { margin-bottom: 2rem; }
 
 			&:not(:last-child) { padding-left: 0; }

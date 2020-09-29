@@ -1,4 +1,5 @@
 .support {
+	@include container-main;
 
 	&__heading {
 		text-align: center;
@@ -7,9 +8,6 @@
 		&-intro {
 			text-align: justify;
 			margin: auto;
-			width: 80%;
-
-			@include respond(tab-port-sm) { width: 100%; }
 		}
 	}
 
@@ -28,7 +26,7 @@
 			flex-direction: column;
 			align-items: center;
 			padding: 3rem;
-			width: 40%;
+			width: 50%;
 
 			@include respond(tab-port-sm) { width: 100%; }
 		}
