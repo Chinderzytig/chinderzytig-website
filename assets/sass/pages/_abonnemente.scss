@@ -11,18 +11,36 @@
 	&__container {
 		display: flex;
 		justify-content: space-between;
+
+		@include respond(tab-port-sm) {
+			flex-direction: column;
+			align-items: center;
+		}
 	}
 
 	&__option {
 		background-color: $chinder-cultured;
-		width: 45%;
+		width: 45rem;
 		padding: 2rem;
 		display: flex;
 		flex-direction: column;
 		justify-content: space-between;
+
+		@include respond(tab-port-lg) { width: 44rem; }
+
+		@include respond(tab-port-sm) {
+			width: 100%;
+
+			&:not(:last-child) { margin-bottom: 3rem; }
+		}
+
 	}
 
-	&__heading { align-self: center; }
+	&__heading {
+		align-self: center;
+
+		@include respond(phone-md) { text-align: center; }
+	}
 
 	&__breakdown {
 		margin-bottom: 2rem;
