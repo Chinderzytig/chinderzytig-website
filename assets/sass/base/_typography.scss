@@ -419,15 +419,3 @@ body {
 		&-text { text-align: justify;}
 	}
 }
-
-/* ----- DER VEREIN ------ */
-.verein {
-
-	&__history-quote {
-		font-family: $font-patrick, $font-fallback;
-		font-size: 5rem;
-		word-spacing: 1rem;
-		letter-spacing: .5rem;
-		text-decoration: $chinder-orange underline;
-	}
-}
