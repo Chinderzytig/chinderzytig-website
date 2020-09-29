@@ -39,20 +39,11 @@ body {
 	&:hover,
 	&:active { color: $color-white; }
 
-	&__legit { text-transform: uppercase; }
-
 	&--verein { font-size: $font-bigger; }
 
 	&-submit {
 		font-size: inherit;
 		text-transform: uppercase;
-
-		&--nav { color: $social-base; }
-
-		&--footer {
-			font-family: 'Lato', sans-serif;
-			color: $chinder-platinum;
-		}
 	}
 }
 

@@ -10,26 +10,51 @@
 
 	&--secondary { @include btn-color($color-white, $color-black, $primary: false); }
 
-	&__legit {
-		border: 2px solid $color-black;
-		background-color: $color-white;
-		padding: 1rem;
-		text-align: center;
+	&--primary {
+		&:hover,
+		&:active {
+			background-color: $chinder-verdigris;
+			border-color: $chinder-celadon;
+		}
+	}
 
-		&--primary {
-			&:hover,
-			&:active {
-				background-color: $chinder-verdigris;
-				border-color: $chinder-celadon;
-			}
+	&--secondary {
+		&:hover,
+		&:active {
+			background-color: $chinder-orange;
+			border-color: $chinder-chestnut;
+		}
+	}
+
+	&__legit {
+		background-color: $color-white;
+		text-align: center;
+		text-transform: uppercase;
+
+		&--donate {
+			border: 2px solid $color-black;
+			padding: 1rem;
+			@extend .btn--secondary;
 		}
 
-		&--secondary {
-			&:hover,
-			&:active {
-				background-color: $chinder-orange;
-				border-color: $chinder-chestnut;
-			}
+		&--nav,
+		&--footer {
+			font-size: inherit;
+			padding: .5rem 1rem;
+			@extend .btn--primary;
+		}
+
+		&--nav,
+		&--kontakt {
+			color: $social-base;
+			border: 2px solid $social-base;
+		}
+
+		&--footer {
+			font-family: 'Lato', sans-serif;
+			color: $chinder-platinum;
+			border: 2px solid $chinder-platinum;
+			background-color: $footer-light;
 		}
 	}
 
