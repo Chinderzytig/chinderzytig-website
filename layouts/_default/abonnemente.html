@@ -50,11 +50,14 @@
 		</div>
 	</section>
 	<section class="abonnemente__print">
-		{{ range .Site.Data.pages.abonnemente.print }}
+		<div class="abonnemente__print-divider"></div>
+		<div class="abonnemente__print-container">
+			{{ range .Site.Data.pages.abonnemente.print }}
 			<div class="abonnemente__print-group">
 				<h5 class="abonnemente__print-heading">{{ .heading }}</h5>
 				<p class="abonnemente__print-text">{{ .text }}</p>
 			</div>
-		{{ end }}
+			{{ end }}
+		</div>
 	</section>
 {{end}}
