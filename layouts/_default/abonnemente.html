@@ -33,7 +33,7 @@
 					</div>
 					<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_250,q_auto:good/logos/{{ .img }}" alt="{{ .alt }}" class="abonnemente__img">
 					{{ range .btn }}
-						<button class="btn btn__legit btn__legit--{{ .class }} abonnemente__cta snipcart-add-item"
+						<button class="btn btn--{{ .class }} abonnemente__cta snipcart-add-item"
 							data-item-id="{{ .id }}"
 							data-item-price="{{ .price }}"
 							data-item-url="{{ $.RelPermalink }}"
@@ -42,7 +42,7 @@
 							data-item-name="{{ .item_name }}"
 							data-item-custom1-name="Abonnementtyp"
 							data-item-custom1-options="{{ .custom_options }}">
-							Selektieren
+							Auswählen
 						</button>
 					{{ end }}
 				</div>
@@ -50,11 +50,14 @@
 		</div>
 	</section>
 	<section class="abonnemente__print">
-		{{ range .Site.Data.pages.abonnemente.print }}
+		<div class="abonnemente__print-divider"></div>
+		<div class="abonnemente__print-container">
+			{{ range .Site.Data.pages.abonnemente.print }}
 			<div class="abonnemente__print-group">
 				<h5 class="abonnemente__print-heading">{{ .heading }}</h5>
 				<p class="abonnemente__print-text">{{ .text }}</p>
 			</div>
-		{{ end }}
+			{{ end }}
+		</div>
 	</section>
 {{end}}
