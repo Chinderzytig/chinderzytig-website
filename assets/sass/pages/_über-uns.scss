@@ -9,8 +9,14 @@
 		justify-content: space-around;
 		flex-wrap: wrap;
 
+		&-heading {
+			font-family: $font-patrick, $font-fallback;
+			font-size: $font-bigger;
+			color: $chinder-orange;
+		}
+
 		&-group {
-			width: 40%;
+			width: 38rem;
 			margin-top: 3rem;
 		}
 

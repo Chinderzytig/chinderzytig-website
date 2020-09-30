@@ -8,7 +8,11 @@
 	padding: 2rem;
 	margin-top: 3rem;
 
-	&--team { width: 30rem; }
+	&--team {
+		width: 30rem;
+
+		@include respond(tab-port-xl) { width: 25rem; }
+	}
 
 	&--board { width: 45rem; }
 
@@ -27,5 +31,7 @@
 		justify-content: space-between;
 		flex-wrap: wrap;
 		margin-top: -3rem;
+
+		@include respond(tab-port-sm) { justify-content: space-around; }
 	}
 }
