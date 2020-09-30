@@ -12,13 +12,24 @@
 		font-size: 5rem;
 		word-spacing: 1rem;
 		letter-spacing: .5rem;
-		background: linear-gradient(104deg, rgba(236, 99, 63,0) 0.9%, rgba(236, 99, 63,1.25) 2.4%, rgba(236, 99, 63,0.5) 5.8%, rgba(236, 99, 63,0.1) 93%, rgba(236, 99, 63,0.7) 96%, rgba(236, 99, 632,0) 98%), linear-gradient(183deg, rgba(236, 99, 63,0) 0%, rgba(236, 99, 63,0.3) 7.9%, rgba(236, 99, 63,0) 15%);
 		margin-bottom: $margin-s;
+
+		@include respond(tab-port-sm) { text-align: center; }
+	}
+
+	&__highlight-word {
+			border-radius: 60px 5px 80px 15px;
+			padding: 0 .5rem 0 0;
+			text-shadow: 4px 4px 20px $color-white;
+
+	  background-image: -webkit-linear-gradient(left, rgba(255,255,255,0) 20%, $chinder-orange 40%, rgba(255,255,255,0) 70%);
+	  background-image: -o-linear-gradient(left, rgba(255,255,255,0) 20%, $chinder-orange 40%, rgba(255,255,255,0) 70%);
+	  background-image: linear-gradient(to top, rgba(255,255,255,0) 20%, $chinder-orange 40%, rgba(255,255,255,0) 70%);
 	}
 
 	&__history-btn {
-		align-self: flex-end;
-		margin-right: 6rem;
+		align-self: center;
+
 	}
 
 	&__media { @include cta-color($cta-azure); }
