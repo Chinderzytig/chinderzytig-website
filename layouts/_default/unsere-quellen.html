@@ -15,7 +15,11 @@
 				{{ range .Site.Data.pages.quellen.media }}
 					<a href="{{ .website }}" target="_blank" class="quellen__logos-link">
 					{{ range .logo }}
-						<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_60,q_auto:good/logos/{{ .img }}" alt="{{ .desc }}" class="quellen__logos-logo">
+						<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }} 511w"
+							sizes="(min-width: 767px) 35vw, 75vw"
+							src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_60,q_auto:good/logos/{{ .img }}"
+							alt="{{ .desc }}"
+							class="quellen__logos-logo">
 					{{ end }}
 					</a>
 				{{ end }}
