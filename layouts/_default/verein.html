@@ -60,7 +60,11 @@
 				{{ range .Site.Data.pages.verein.companies }}
 					<a href="{{ .website }}" target="_blank" class="verein__thanks-link">
 					{{ range .logo }}
-						<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_60,q_auto:good/logos/{{ .img }}" alt="{{ .desc }}" class="verein__thanks-logo">
+						<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }} 511w"
+						sizes="(min-width: 767px) 35vw, 75vw"
+						src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }}"
+						alt="{{ .desc }}"
+						class="verein__thanks-logo">
 					{{ end }}
 					</a>
 				{{ end }}

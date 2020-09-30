@@ -93,6 +93,8 @@ body {
 		border-bottom: 4px solid $color-black;
 		padding-left: 1rem;
 		line-height: normal;
+
+		@include respond(phone-lg) { text-align: center; }
 	}
 
 	&__tertiary {
@@ -100,6 +102,8 @@ body {
 		background-color: $color-black;
 		padding: 0 1rem;
 		display: inline-block;
+
+		@include respond(phone-lg) { text-align: center; }
 	}
 
 	&__secondary,
