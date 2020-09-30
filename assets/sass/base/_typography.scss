@@ -165,54 +165,6 @@ body {
 // LAYOUTS
 // -----------------------------------------------
 
-/* ----- NAVBAR ------ */
-.nav {
-	font-family: $font-patrick, $font-fallback;
-
-	&__verdigris {
-
-		&-content {
-			text-transform: uppercase;
-			font-weight: 700;
-		}
-
-		&-link {
-			color: $color-white;
-			font-weight: 300;
-		}
-	}
-
-	&__logo {
-		text-decoration: none;
-
-		&-text {
-
-			&--main {
-				font-size: 4rem;
-				color: $chinder-orange;
-				text-transform: uppercase;
-				letter-spacing: 1.2rem;
-			}
-
-			&--sub {
-				font-size: $font-small;
-				color: $color-black;
-				letter-spacing: .3rem;
-				margin-top: -1.5rem;
-			}
-		}
-	}
-
-	&__menu {
-
-		&-link:link,
-		&-link:visited {
-			text-decoration: none;
-			color: $color-white;
-		}
-	}
-}
-
 /* ----- FOOTER ------ */
 .footer {
 

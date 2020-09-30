@@ -1,4 +1,5 @@
 .nav {
+	font-family: $font-patrick, $font-fallback;
 	margin-bottom: 6rem;
 
 	@include respond(tab-port-sm) { margin-bottom: 3rem;}
@@ -8,7 +9,23 @@
 		padding: .5rem 0;
 		text-align: center;
 
-		&-link { margin-left: .5rem; }
+		&-content {
+			text-transform: uppercase;
+			font-weight: 700;
+		}
+
+		&-link {
+			margin-left: .5rem;
+
+			&:link,
+			&:visited {
+				text-decoration: none;
+				color: $color-white;
+			}
+
+			&:active,
+			&:hover { color: $color-black; }
+		}
 
 		@include respond(tab-port-xs) { padding: .5rem 2rem; }
 
@@ -30,6 +47,7 @@
 	&__logo {
 		display: flex;
 		align-items: flex-start;
+		text-decoration: none;
 
 		&-image { width: 20rem; }
 
@@ -41,6 +59,20 @@
 			margin-left: -1rem;
 
 			@include respond(tab-port-sm) { display: none; }
+
+			&--main {
+				font-size: 4rem;
+				color: $chinder-orange;
+				text-transform: uppercase;
+				letter-spacing: 1.2rem;
+			}
+
+			&--sub {
+				font-size: $font-small;
+				color: $color-black;
+				letter-spacing: .3rem;
+				margin-top: -1.5rem;
+			}
 		}
 
 		@include respond(tab-port-sm) { margin-left: 10rem; }
