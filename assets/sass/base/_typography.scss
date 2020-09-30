@@ -11,19 +11,6 @@ body {
 /* ----- ARBEITSMATERIAL (SHORTCODE) ------ */
 .arbeitsmaterial { &__link { text-decoration: none; } }
 
-/* ----- BREADCRUMB ------ */
-.breadcrumb {
-
-	&__link:link,
-	&__link:visited {
-		font-weight: 500;
-		text-decoration: none;
-		color: $color-black;
-	}
-
-	&__active { @extend .breadcrumb__link; }
-}
-
 /* ----- CARD ------ */
 .card {
 

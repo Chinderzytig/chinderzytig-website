@@ -4,6 +4,8 @@
 		@include cta-color($cta-seashell);
 		margin-top: -6rem;
 
+		@include respond(tab-port-sm) { margin-top: -3rem;}
+
 		&-container {
 			@include container-main;
 			display: flex;
