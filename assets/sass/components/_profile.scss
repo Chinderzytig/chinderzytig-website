@@ -14,7 +14,11 @@
 		@include respond(tab-port-xl) { width: 25rem; }
 	}
 
-	&--board { width: 45rem; }
+	&--board {
+		width: 45rem;
+
+		@include respond(tab-port-xl) { width: 40rem; }
+	}
 
 	&__img {
 		width: 18rem;
@@ -32,6 +36,6 @@
 		flex-wrap: wrap;
 		margin-top: -3rem;
 
-		@include respond(tab-port-sm) { justify-content: space-around; }
+		@include respond(tab-port-xl) { justify-content: space-around; }
 	}
 }
