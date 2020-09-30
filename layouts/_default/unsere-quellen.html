@@ -15,7 +15,11 @@
 				{{ range .Site.Data.pages.quellen.media }}
 					<a href="{{ .website }}" target="_blank" class="quellen__logos-link">
 					{{ range .logo }}
-						<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_60,q_auto:good/logos/{{ .img }}" alt="{{ .desc }}" class="quellen__logos-logo">
+						<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }} 511w"
+							sizes="(min-width: 767px) 35vw, 75vw"
+							src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_60,q_auto:good/logos/{{ .img }}"
+							alt="{{ .desc }}"
+							class="quellen__logos-logo">
 					{{ end }}
 					</a>
 				{{ end }}
@@ -23,13 +27,23 @@
 		</div>
 	</section>
 	<section class="quellen__other">
-		<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_80,q_auto:good/logos/swiss_gov_julv3s.png" alt="Swiss Government logo" class="quellen__other-logo">
-		<div class="quellen__other-divider"></div>
-		<p class="quellen__other-text">
-			Als zusätzliche Quellen dienen Der Bund kurz erklärt (Publikation der
-			Eidgenossenschaft) und Lehrmittel der Schulen des Kantons Bern wie zum
-			Beispiel Durch Geschichte zur Gegenwart, Zeitreise 7-9, und Durchblick.
-		</p>
-		<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_80,q_auto:good/logos/kanton_bern_bgvmlz.jpg" alt="Canton Bern logo" class="quellen__other-logo">
+		<div class="quellen__other-container">
+			<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_80,q_auto:good/logos/swiss_gov_julv3s.png 511w"
+				sizes="(min-width: 767px) 30vw, 100vw"
+				src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_80,q_auto:good/logos/swiss_gov_julv3s.png"
+				alt="Swiss Government logo"
+				class="quellen__other-logo">
+			<div class="quellen__other-divider"></div>
+			<p class="quellen__other-text">
+				Als zusätzliche Quellen dienen Der Bund kurz erklärt (Publikation der
+				Eidgenossenschaft) und Lehrmittel der Schulen des Kantons Bern wie zum
+				Beispiel Durch Geschichte zur Gegenwart, Zeitreise 7-9, und Durchblick.
+			</p>
+			<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_80,q_auto:good/logos/kanton_bern_bgvmlz.jpg 511w"
+				sizes="(min-width: 767px) 30vw, 100vw"
+				src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_80,q_auto:good/logos/swiss_gov_julv3s.png"
+				alt="Swiss Government logo"
+				class="quellen__other-logo">
+		</div>
 	</section>
 {{end}}

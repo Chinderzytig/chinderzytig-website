@@ -1,13 +1,15 @@
 {{define "main"}}
 	<section class="kontakt">
-		<h2 class="heading heading__secondary">
-			Kontaktiere Uns
-			<span class="kontakt__social">{{- partial "svgs/social_svgs.html" . -}}</span>
-		</h2>
+		<div class="kontakt__heading-container">
+			<h2 class="heading kontakt__heading">Kontaktiere Uns</h2>
+			<div class="kontakt__social">
+				{{- partial "svgs/social_svgs.html" . -}}
+			</div>
+		</div>
 		<p class="kontakt__intro">
 			Bitte teilt uns mit falls ihr Fragen, Ideen, oder Anliegen habt.
 		</p>
-		<div class="kontakt__container">
+		<div class="kontakt__form-container">
 			<form name="kontakt" method="post" netlify-honeypot="bot-field" data-netlify="true" class="kontakt__form">
 				<div class="kontakt__form-group">
 					<input type="text" name="anrede" placeholder="Anrede" id="anrede" class="kontakt__field">
