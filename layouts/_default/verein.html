@@ -1,10 +1,10 @@
 {{define "main"}}
 	<section class="verein__history">
 		<div class="verein__history-quote">
-			Die Idee entsprang einem Kinderkopf!
+			Die Idee entsprang einem <span class="verein__highlight-word">Kinderkopf!</span>
 		</div>
 		<div class="verein__history-btn">
-			<a href="/unsere-geschichte" class="btn btn--primary">Unsere Geschichte</a>
+			<a href="/unsere-geschichte" class="btn btn--secondary">Unsere Geschichte</a>
 		</div>
 	</section>
 
@@ -41,7 +41,7 @@
 		<h2 class="heading heading__secondary">Mehr über Chinderzytig</h2>
 		<div class="verein__btns-group">
 			{{ range .Site.Data.pages.verein.btns }}
-				<a href="{{ .url }}" class="btn btn--verein">
+				<a href="{{ .url }}" class="btn btn--verein verein__btns-btn">
 					{{ range .label }}
 						{{ .text }}
 					{{ end }}
@@ -60,7 +60,11 @@
 				{{ range .Site.Data.pages.verein.companies }}
 					<a href="{{ .website }}" target="_blank" class="verein__thanks-link">
 					{{ range .logo }}
-						<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_60,q_auto:good/logos/{{ .img }}" alt="{{ .desc }}" class="verein__thanks-logo">
+						<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }} 511w"
+						sizes="(min-width: 767px) 35vw, 75vw"
+						src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }}"
+						alt="{{ .desc }}"
+						class="verein__thanks-logo">
 					{{ end }}
 					</a>
 				{{ end }}

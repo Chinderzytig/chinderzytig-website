@@ -93,6 +93,8 @@ body {
 		border-bottom: 4px solid $color-black;
 		padding-left: 1rem;
 		line-height: normal;
+
+		@include respond(phone-lg) { text-align: center; }
 	}
 
 	&__tertiary {
@@ -100,6 +102,8 @@ body {
 		background-color: $color-black;
 		padding: 0 1rem;
 		display: inline-block;
+
+		@include respond(phone-lg) { text-align: center; }
 	}
 
 	&__secondary,
@@ -417,17 +421,5 @@ body {
 	&__other {
 
 		&-text { text-align: justify;}
-	}
-}
-
-/* ----- DER VEREIN ------ */
-.verein {
-
-	&__history-quote {
-		font-family: $font-patrick, $font-fallback;
-		font-size: 5rem;
-		word-spacing: 1rem;
-		letter-spacing: .5rem;
-		text-decoration: $chinder-orange underline;
 	}
 }
