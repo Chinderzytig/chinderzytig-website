@@ -4,13 +4,14 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Article title
   description: Enter the title of the article here.
 - type: text
   name: slug
-  label: slug
-  description: This is what the url in the address bar will look like (ie. https://www.chinderzytig.ch/<strong>the-slug-is-here</strong>).
-    You don't need to fill this out as it will automatically take the title.
+  label: Article sub-directory
+  description: "(ie. https://www.chinderzytig.ch/<strong>the-sub-directory-is-here</strong>).
+    Only fill this out if you want a specific sub-directory. If empty, this field
+    will automatically take the title with added hypens (-)."
   hidden: false
 - type: text
   name: description
@@ -20,22 +21,28 @@ fields:
     results).
 - type: datetime
   name: date
-  label: date
+  label: Article date and time
+  description: The time will only be critical once Chinderzytig is posting numerous
+    articles a day.
 - type: text
   name: author
-  description: Author of the article
   label: Article author
+  description: If this field is left blank, "Chinderzytig" will take the place of
+    an absent author.
 - type: file
   name: hero_img
-  label: hero_img
-  description: The main image for the article. Upload the image to Cloudinary via
-    the "Upload" button in the top-right hand corner of the image library
+  label: Main image
+  description: This is the main image for the article, which is also displayed on
+    the card in the article lists. For this image I suggest you use landscape images
+    with a minimum width of 800px. <strong>The larger the image, the better for the
+    article.</strong>
 - type: text
   name: img_description
-  label: img_description
-  description: Short description of the image (ie. "Refugees standing in food line").
-    Used for blind persons using screen readers and used in lieu when an image can't
-    be loaded on the screen.
+  label: Image description
+  description: What is the image about (ie. "Refugees standing in food line in Syria").
+    This field is important for blind persons using screen readers on our website.
+    This description also takes the place of the picture when, for whatever reason,
+    the image can't be loaded on the screen.
 - type: text
   name: img_photographer
   label: img_photographer
