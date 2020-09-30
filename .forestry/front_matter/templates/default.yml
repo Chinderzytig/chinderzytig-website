@@ -45,53 +45,61 @@ fields:
     the image can't be loaded on the screen.
 - type: text
   name: img_photographer
-  label: img_photographer
-  description: Name of the photographer who took the photo.
+  description: Name of the photographer/artist/creator of the image being used.
+  label: Photographer Name
 - type: textarea
   name: img_src
-  label: img_src
-  description: Enter the URL of where you got the photo from.
+  label: Image source
+  description: Enter the URL of the website where you sourced the image from.
 - name: cc_licence
   type: text
   config:
     required: false
-  label: cc_licence
-  description: If Creative Commons attribution is required, enter the licence type
-    here (ie. CC BY-SA)
+  label: Creative Commons licence type
+  description: If Creative Commons attribution is required for the image you are using,
+    enter the licence type here, along with the attribution version number if listed
+    (ie. CC BY-SA 2.0)<br>You can find a list of the Creative Commons licences <a
+    href="https://creativecommons.org/about/cclicenses/" title="" target="_blank">here</a>.
 - name: cc_src
   type: text
   config:
     required: false
-  label: cc_src
-  description: 'If Creative Commons attribution is required, enter the link to the
-    webpage of the specific Creative Commons licence being used. '
+  description: If Creative Commons attribution is required for the image you are using,
+    enter the URL of the webpage citing the specific Creative Commons licence being
+    used for the image. You can find a list of the Creative Commons licences <a href="https://creativecommons.org/about/cclicenses/"
+    title="" target="_blank">here</a>.
+  label: Creative Commons licence reference
 - type: list
   name: kategorien
-  description: 'Add any categories to the article. The categories are: <strong>Nordamerika</strong>,
-    <strong>Südamerika</strong>, <strong>Europa</strong>, <strong>Afrika</strong>,
-    <strong>Asien</strong>, <strong>Australien</strong>, <strong>Antarktis</strong>,
-    <strong>Gesellschaft</strong>, <strong>Gesundheit</strong>, <strong>Medien</strong>,
-    <strong>Natur/Umwelt</strong>, <strong>Politik</strong>, <strong>Weltraum/Universum</strong>,
-    <strong>Welt</strong>'
+  description: 'Add any categories that you feel belong to this article. The categories
+    are: <strong>Nordamerika</strong>, <strong>Südamerika</strong>, <strong>Europa</strong>,
+    <strong>Afrika</strong>, <strong>Asien</strong>, <strong>Australien</strong>,
+    <strong>Antarktis</strong>, <strong>Gesellschaft</strong>, <strong>Gesundheit</strong>,
+    <strong>Medien</strong>, <strong>Natur/Umwelt</strong>, <strong>Politik</strong>,
+    <strong>Weltraum/Universum</strong>, <strong>Welt</strong>. <em>If the article
+    you are writing is for Focus der Woche, </em><strong><em>please leave this blank!</em></strong>'
   config:
     use_select: false
   label: kategorien
 - type: list
   name: markierungen
   label: markierungen
-  description: Add any tags to the article. Tags can be anything that isn't a category.
+  description: Add any tags that you feel belong to this article that are not already
+    categories. Standard practice at the moment is to use country names as tags, when
+    the article has been assigned to a continent under categories.
 - type: boolean
   name: fdw
-  label: fdw
+  label: Fokus der Woche article?
   default: false
-  description: Is this a Fokus der Woche article? If yes, <strong>turn on</strong>,
-    if no, <strong>keep off</strong>. The default for this is off.
+  description: Is this a Fokus der Woche article? If yes, <br>toggle the switch to
+    the right (<strong>it will turn green when on</strong>). <strong>Remember:</strong>
+    <em>Fokus der Woche artikels shouldn't have any categories or tags assigned to
+    it.</em><br>
 - type: boolean
   name: paid
-  label: paid
-  description: Is this a paid article? If yes, <strong>turn on</strong>, if no, <strong>keep
-    off</strong>. For now there are no paid articles, so the default is off.
+  label: Paid article?
   default: false
+  hidden: true
 - name: artikel
   type: boolean
   label: artikel
