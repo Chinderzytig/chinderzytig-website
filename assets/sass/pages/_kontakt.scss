@@ -20,16 +20,19 @@
 
 	&__intro { margin-bottom: $margin-s; }
 
-	&__container {
-		width: 75%;
-		margin: auto;
-		background-color: $chinder-cultured;
-	}
-
 	&__form {
+		width: 80rem;
 		padding: 3rem;
+		background-color: $chinder-cultured;
 		display: flex;
 		flex-direction: column;
+
+		@include respond(tab-port-sm) { padding: 1.5rem; }
+
+		&-container {
+			display: flex;
+			justify-content: center;
+		}
 
 		&-group { margin-bottom: 1rem; }
 
