@@ -5,12 +5,19 @@
 	<section class="geschichte">
 		<h2 class="heading heading__secondary">Unsere Geschichte</h2>
 		<div class="geschichte__logo-container">
-			<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_800/logos/Chinderzytig_Jugenzytig_mmd9rl.png" alt="Chinderzytig/Jungendzytig logo" class="geschichte__img">
+			<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_320/logos/Chinderzytig_Jugendzytig_eybgjf.jpg 320w,
+				{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_414/logos/Chinderzytig_Jugendzytig_eybgjf.jpg 414w,
+				{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_512/logos/Chinderzytig_Jugendzytig_eybgjf.jpg 512w,
+				{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_600/logos/Chinderzytig_Jugendzytig_eybgjf.jpg 600w"
+				sizes="(min-width: 900px) 800px, 100vw"
+				src="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_800/logos/Chinderzytig_Jugendzytig_eybgjf.jpg"
+				alt="Chinderzytig/Jungendzytig logo"
+				class="geschichte__img"/>
 		</div>
 		{{.Content}}
 		<div class="geschichte__pdf-container">
 			<a href="{{ .Site.Params.cloudinary_url }}/chinderzytig_idee_ooy6my.pdf" target="_blank" class="geschichte__pdf-link">
-				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,h_300,q_auto:best/chinderzytig_idee_ooy6my.png" alt="">
+				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,h_300,q_auto:best/chinderzytig_idee_ooy6my.png" alt="Chinderzytig idee PDF">
 			</a>
 			<div class="geschichte__pdf-title">projektidee_chinderzytig.pdf</div>
 		</div>
