@@ -30,6 +30,9 @@
 	@if $breakpoint == phone-md {
 		@media (max-width: 22.75em) { @content };	//364px
 	}
+	@if $breakpoint == phone-md-lg {
+		@media (max-width: 24.5625em) { @content };	//393px
+	}
 	@if $breakpoint == phone-lg {
 		@media (max-width: 25.875em) { @content };	//414px
 	}

@@ -1,6 +1,23 @@
 .kontakt {
 	@include container-main;
 
+	&__heading {
+		margin-bottom: 0;
+		align-self: center;
+
+		@include respond(phone-md-lg) { margin-bottom: 1rem; }
+
+		&-container {
+			@extend .heading__secondary;
+			padding: 1rem 0 1rem 1rem;
+			display: flex;
+			justify-content: space-between;
+			margin-bottom: $margin-s;
+
+			@include respond(phone-md-lg) { flex-direction: column; }
+		}
+	}
+
 	&__intro { margin-bottom: $margin-s; }
 
 	&__container {
@@ -8,8 +25,6 @@
 		margin: auto;
 		background-color: $chinder-cultured;
 	}
-
-	&__social { margin-left: 4rem; }
 
 	&__form {
 		padding: 3rem;
