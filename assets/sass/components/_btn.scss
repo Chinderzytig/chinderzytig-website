@@ -60,9 +60,6 @@
 	&--verein {
 		font-size: $font-bigger;
 		@extend .btn--secondary;
-		width: 40%;
-		display: flex;
-		justify-content: space-between;
 
 		&-arrow {
 			display: flex;
@@ -71,8 +68,6 @@
 
 		&:hover,
 		&:active { .arrow { fill: $color-white; } }
-
-		&:not(:nth-child(-n+2)) { margin-top: 6rem; }
 	}
 
 	&__container {

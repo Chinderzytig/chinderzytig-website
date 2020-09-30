@@ -41,7 +41,7 @@
 		<h2 class="heading heading__secondary">Mehr über Chinderzytig</h2>
 		<div class="verein__btns-group">
 			{{ range .Site.Data.pages.verein.btns }}
-				<a href="{{ .url }}" class="btn btn--verein">
+				<a href="{{ .url }}" class="btn btn--verein verein__btns-btn">
 					{{ range .label }}
 						{{ .text }}
 					{{ end }}
