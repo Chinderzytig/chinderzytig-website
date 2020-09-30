@@ -1,6 +1,6 @@
 baseURL = "https://chinderzytig-v1.netlify.app/"
 languageCode = "de"
-title = "Chinderzytig - Die Zeitung für Kinder und Jungendliche"
+title = "Die Zeitung für Kinder und Jungendliche"
 disqusShortname = "chinderzytig"
 [params]
 	DateForm = "2.01.2006"
