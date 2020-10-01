@@ -1,7 +1,7 @@
 +++
 artikel = true
 author = "Georg Stalder"
-cc_licence = "Public Domain Mark 1.0"
+cc_licence = "PDM 1.0"
 cc_src = "https://creativecommons.org/publicdomain/mark/1.0/deed.de"
 date = 2020-08-21T11:00:00Z
 description = ""
@@ -19,7 +19,7 @@ title = "Bigfoot: Der Menschenaffe aus Nordamerika"
 +++
 ## Serie: Sagenhafte Tiere
 
-**Die Chinderzytig berichtet in einer Artikel-Serie über bekannte Tiere, die es wahrscheinlich gar nicht gibt. Der** [**Yeti**](https://chinderzytig-v1.netlify.app/sagenhaftetiere-teil1-yeti/) **machte den Anfang und** [**Nessie**](https://chinderzytig-v1.netlify.app/sagenhafte-tiere-teil-2-nessie/) **folgte ihm. Mit dem Artikel zu Bigfoot ist die Serie abgeschlossen.**
+**Die Chinderzytig berichtet in einer Artikel-Serie über bekannte Tiere, die es wahrscheinlich gar nicht gibt. Der** [**Yeti**](https://www.chinderzytig.ch/sagenhaftetiere-teil1-yeti) **machte den Anfang und** [**Nessie**](https://www.chinderzytig.ch/sagenhafte-tiere-teil-2-nessie) **folgte ihm. Mit dem Artikel zu Bigfoot ist die Serie abgeschlossen.**
 
 _Für die meisten Menschen ist der mysteriöse Menschenaffe mit den grossen Füssen eine Legende. Nicht aber für einige Hobby-Forscher und Abenteurer in Nordamerika. Sie versuchen hartnäckig, den Bigfoot vor die Flinte zu bekommen._
 
@@ -33,7 +33,9 @@ Der freie Journalist Christoph Kummer hat mehrere Artikel über den Bigfoot gesc
 
 Doch Christoph Kummer gibt auch zu bedenken: «Immer wieder werden grosse, menschenhafte Fussspuren gefunden. Auch von ernstzunehmenden Wissenschaftlern. Es gibt schon Hinweise, die auf seine Existenz hindeuten.» Im Laufe der Zeit ist etliches zusammengekommen: Fussabdrücke, Sichtungen, Fotos und Videos.
 
-Die berühmteste Filmaufnahme stammt aus dem Jahr 1967 von den Amerikanern Roger Patterson und Bob Gimlin (Auf [Youtube](https://www.youtube.com/watch?v=lOxuRIfFs0w)). Das Video zeigt ein Wesen, das sich auf zwei Beinen fortbewegt, sich kurz umschaut und dann im Wald verschwindet. Die kurze Szene wurde Dutzende Male analysiert – die Meinungen gehen auseinander. Bigfoot-Fans halten es für einen eindeutigen Beweis, Skeptiker für einen Menschen im Gorillakostüm.
+{{< youtube lOxuRIfFs0w >}}
+
+Die berühmteste Filmaufnahme stammt aus dem Jahr 1967 von den Amerikanern Roger Patterson und Bob Gimlin. Das Video zeigt ein Wesen, das sich auf zwei Beinen fortbewegt, sich kurz umschaut und dann im Wald verschwindet. Die kurze Szene wurde Dutzende Male analysiert – die Meinungen gehen auseinander. Bigfoot-Fans halten es für einen eindeutigen Beweis, Skeptiker für einen Menschen im Gorillakostüm.
 
 ## Die Suche dauert an
 
