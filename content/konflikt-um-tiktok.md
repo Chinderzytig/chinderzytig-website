@@ -38,9 +38,9 @@ Ob Microsoft tatsächlich einen Teil der Videoplattform kauft, steht noch offen.
 
 Der US-Präsident Donald Trump scheint den möglichen Kauf also nicht vollständig abzulehnen. Aber mit Sicherheit wird er sich zu diesem Thema bis zu den US-Präsidentschaftswahlen vom 3. November 2020 noch einige Male äussern. Denn er will der amerikanischen Bevölkerung am Beispiel von TikTok zeigen, dass er streng mit dem immer stärker werdenden China umgeht. Für Donald Trump ist das ein Grund, wieso man ihn wählen sollte.
 
-Auch in Europa wird TikTok kritisch betrachtet. Daher hat die {{< fremdwort wort="Europäische Union" >}} eine Arbeitsgruppe ins Leben gerufen, die sich mit der Videoplattform beschäftigt. Sie soll mehr über den Umgang mit Daten und weitere mögliche Risiken von TikTok herausfinden. Wird also auch hier bald ein Verbot diskutiert? Das wird sich noch zeigen.
+Auch in Europa wird TikTok kritisch betrachtet. Daher hat die {{< fremdwort id="Europäische Union" wort="Europäische Union" >}} eine Arbeitsgruppe ins Leben gerufen, die sich mit der Videoplattform beschäftigt. Sie soll mehr über den Umgang mit Daten und weitere mögliche Risiken von TikTok herausfinden. Wird also auch hier bald ein Verbot diskutiert? Das wird sich noch zeigen.
 
-{{< definition wort="Europäische Union" def="Die Abkürzung für Europäische Union. Das ist eine Vereinigung verschiedener Länder von Europa, die gemeinsam eine Währung haben (den Euro) und gemeinsam Entscheidungen treffen. Die meisten Länder gehören dazu. Ausnahmen sind zum Beispiel die Schweiz." >}}
+{{< definition id="Europäische Union" wort="Europäische Union (EU)" def="Die Abkürzung für Europäische Union. Das ist eine Vereinigung verschiedener Länder von Europa, die gemeinsam eine Währung haben (den Euro) und gemeinsam Entscheidungen treffen. Die meisten Länder gehören dazu. Ausnahmen sind zum Beispiel die Schweiz." >}}
 
 ## Nun bist du an der Reihe
 

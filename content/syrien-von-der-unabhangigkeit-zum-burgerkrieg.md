@@ -17,9 +17,9 @@ slug = "unabhaengigkeitstag-syrien"
 title = "Syrien – Von der Unabhängigkeit zum Bürgerkrieg"
 
 +++
-_Während dem_ {{< fremdwort wort="zweiten-weltkrieg" >}} _waren die Franzosen in Syrien an der Macht. Sie haben bestimmt was getan werden durfte und was nicht. Am 17. April 1946 verliessen die Franzosen das Land. Seit diesem Tag ist Syrien unabhängig von Frankreich._
+_Während dem {{< fremdwort id="zweiten weltkrieg" wort="Zweiten Weltkrieg" >}} waren die Franzosen in Syrien an der Macht. Sie haben bestimmt was getan werden durfte und was nicht. Am 17. April 1946 verliessen die Franzosen das Land. Seit diesem Tag ist Syrien unabhängig von Frankreich._
 
-{{< definition wort="zweiten-weltkrieg" def="Die Menschheit hat bisher zwei Weltkriege erlebt, also Kriege, die weltweit gleichzeitig durchgeführt wurden. Oft ging es um zwei Gruppen von einflussreichen Ländern, die vor allem ihre Macht erweitern wollten. Beide Weltkriege waren von der Grösse und den Verlusten schrecklich. Der Erste Weltkrieg war von 1914 -1918 und der Zweite dauerte von 1939 – 1945." >}}
+{{< definition id="zweiten weltkrieg" wort="Zweiter Weltkrieg" def="Die Menschheit hat bisher zwei Weltkriege erlebt, also Kriege, die weltweit gleichzeitig durchgeführt wurden. Oft ging es um zwei Gruppen von einflussreichen Ländern, die vor allem ihre Macht erweitern wollten. Beide Weltkriege waren von der Grösse und den Verlusten schrecklich. Der Erste Weltkrieg war von 1914 -1918 und der Zweite dauerte von 1939 – 1945." >}}
 
 Nachdem die Franzosen gingen, musste jemand neues bestimmen was die Rechte und Regeln sind. Seitdem gab es viele Wechsel. Heute ist Baschar al-Assad an der Macht. Er ist der syrische Präsident. Baschar al-Assad sagt nun was man darf und was nicht. Doch er und die Bewohner des Landes Syriens hatten unterschiedliche Vorstellungen von den Regeln.
 
@@ -27,9 +27,9 @@ Nachdem die Franzosen gingen, musste jemand neues bestimmen was die Rechte und R
 
 ## Ein Präsident gegen das Volk
 
-Baschar al-Assad wollte sein Land schützen und die Bevölkerung wollte das Land öffnen. Sie wollten mehr mit anderen Ländern wie Europa oder Amerika zusammenarbeiten. Dadurch entstanden viele Proteste. Personen – auch {{< fremdwort wort="Demonstranten" >}} genannt – gingen auf die Strasse und sagten warum sie nicht einverstanden waren. Sie wollten andere Regeln. Damit wieder Ruhe einkehrt, wurden die Demonstranten verhaftet. Die Menschen in Syrien waren damit nicht einverstanden. Es gab noch mehr Menschen und noch mehr Proteste gegen das, was Baschar al-Assad bestimmte. Seit Ende des zweiten Weltkrieges ist Syrien unabhängig, aber es hat immer wieder mit Problemen zu kämpfen.
+Baschar al-Assad wollte sein Land schützen und die Bevölkerung wollte das Land öffnen. Sie wollten mehr mit anderen Ländern wie Europa oder Amerika zusammenarbeiten. Dadurch entstanden viele Proteste. Personen – auch {{< fremdwort id="Demonstranten" wort="Demonstranten" >}} genannt – gingen auf die Strasse und sagten warum sie nicht einverstanden waren. Sie wollten andere Regeln. Damit wieder Ruhe einkehrt, wurden die Demonstranten verhaftet. Die Menschen in Syrien waren damit nicht einverstanden. Es gab noch mehr Menschen und noch mehr Proteste gegen das, was Baschar al-Assad bestimmte. Seit Ende des zweiten Weltkrieges ist Syrien unabhängig, aber es hat immer wieder mit Problemen zu kämpfen.
 
-{{< definition wort="Demonstranten" def="Eine Demonstration ist ein öffentliches Zeichen, um gegen ein Thema oder eine Sache zu protestieren. Man ist dagegen (oder je nach Thema dafür). Dabei treffen sich viele Menschen, die aus dem gleichen Grund auf die Strasse gehen und lautstark auf das Thema aufmerksam machen." >}}
+{{< definition id="Demonstranten" wort="Demonstrieren" def="Eine Demonstration ist ein öffentliches Zeichen, um gegen ein Thema oder eine Sache zu protestieren. Man ist dagegen (oder je nach Thema dafür). Dabei treffen sich viele Menschen, die aus dem gleichen Grund auf die Strasse gehen und lautstark auf das Thema aufmerksam machen." >}}
 
 ## Von Meinungsunterschieden bis zum Bürgerkrieg
 

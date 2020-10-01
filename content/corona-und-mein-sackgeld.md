@@ -17,9 +17,9 @@ title = "Corona und mein Sackgeld"
 +++
 _Seit mehreren Wochen sind sämtliche Restaurants und Bars geschlossen. Bei den meisten anderen Geschäften stehen wir ebenfalls vor geschlossenen Türen. Auch wenn nächste Woche die Türen teilweise wieder öffnen: Die Coronakrise hat Auswirkungen auf die Finanzen._
 
-Wir hören in letzter Zeit viel davon, dass das Coronavirus die {{< fremdwort wort="Wirtschaft" >}} beeinflusst. Viele Eltern müssen zu Hause bleiben und arbeiten weniger. Sie verdienen vielleicht auch weniger als zuvor. Die Wirtschaft ist momentan angeschlagen. Diese Auswirkungen spürt ihr vielleicht auch bei eurem Sackgeld.
+Wir hören in letzter Zeit viel davon, dass das Coronavirus die {{< fremdwort id="wirtschaft" wort="Wirtschaft" >}} beeinflusst. Viele Eltern müssen zu Hause bleiben und arbeiten weniger. Sie verdienen vielleicht auch weniger als zuvor. Die Wirtschaft ist momentan angeschlagen. Diese Auswirkungen spürt ihr vielleicht auch bei eurem Sackgeld.
 
-{{< definition wort="Wirtschaft" def="Wirtschaft (Fremdwort: Ökonomie) beinhaltet die gesamte Arbeitswelt, den Handel mit Gütern und dasThema Geld. Wo Menschen arbeiten, stellen sie etwas her. Entweder ersichtlich (Möbel, Kleider...) oder nicht fassbar (z.B. soziale Dienstleistungen). Alle Arbeitsbereiche zusammengefasst bilden die Wirtschaft. Es gibt Unterthemen, beispielsweise die Landwirtschaft, Autoindustrie, Nahrungsmittelwirtschaft..." >}}
+{{< definition id="wirtschaft" wort="Wirtschaft" def="Wirtschaft (Fremdwort: Ökonomie) beinhaltet die gesamte Arbeitswelt, den Handel mit Gütern und dasThema Geld. Wo Menschen arbeiten, stellen sie etwas her. Entweder ersichtlich (Möbel, Kleider...) oder nicht fassbar (z.B. soziale Dienstleistungen). Alle Arbeitsbereiche zusammengefasst bilden die Wirtschaft. Es gibt Unterthemen, beispielsweise die Landwirtschaft, Autoindustrie, Nahrungsmittelwirtschaft..." >}}
 
 ## Warum die Coronakrise zum Verzicht auf Süsses führt
 

@@ -17,9 +17,9 @@ title = "Die magische Seife"
 +++
 _Händewaschen ist momentan wichtiger als je zuvor. Die Seife gewinnt an Aufmerksamkeit. Doch eigentlich wird seit 11 Jahren immer am 5. Mai auf die Handhygiene hingewiesen. Doch was steckt hinter diesem Tag und warum ist die Seife so wichtig?_
 
-Momentan finden wir überall Bilder und Hinweise wir sollen die Hände waschen. In Zeiten von Corona ist dies besonders wichtig. Mit dem Welttag der Handhygiene macht die {{< fremdwort wort="Weltgesundheitsorganisation" >}} (WHO) auf das Händewaschen aufmerksam. Sie will speziell Kinder, Eltern und Schulen auf richtiges und regelmässiges Händewaschen sensibilisieren.
+Momentan finden wir überall Bilder und Hinweise wir sollen die Hände waschen. In Zeiten von Corona ist dies besonders wichtig. Mit dem Welttag der Handhygiene macht die {{< fremdwort id="who" wort="Weltgesundheitsorganisation" >}} (WHO) auf das Händewaschen aufmerksam. Sie will speziell Kinder, Eltern und Schulen auf richtiges und regelmässiges Händewaschen sensibilisieren.
 
-​{{< definition wort="Weltgesundheitsorganisation" def="Die Weltgesundheitsorganisation koordiniert mit der UNO das internationale öffentliche Gesundheitswesen. Sie sorgt für die Bekanntheit und einen guten Umgang mit allen Themen der Gesundheit auf der ganzen Welt. Die Organisation wird oft mit WHO abgekürzt." >}}
+​{{< definition id="who" wort="Weltgesundheitsorganisation" def="Die Weltgesundheitsorganisation koordiniert mit der UNO das internationale öffentliche Gesundheitswesen. Sie sorgt für die Bekanntheit und einen guten Umgang mit allen Themen der Gesundheit auf der ganzen Welt. Die Organisation wird oft mit WHO abgekürzt." >}}
 
 ## Ein Tag mit grosser Bedeutung
 
