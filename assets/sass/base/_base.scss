@@ -16,4 +16,8 @@ html {
 
 body { box-sizing: border-box; }
 
-section { margin-bottom: $margin-m; }
+section {
+	margin-bottom: $margin-m;
+
+	@include respond(tab-port-sm) { margin-bottom: $margin-s; }
+}

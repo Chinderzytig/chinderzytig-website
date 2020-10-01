@@ -1,6 +1,8 @@
 .map {
 	@include container-main;
 	margin-top: -5rem;
+
+	@include respond(tab-port-sm) { margin-top: 0; }
 }
 
 .special__cta { @include cta-color($cta-azure); }
