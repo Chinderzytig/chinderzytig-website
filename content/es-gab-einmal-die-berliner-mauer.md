@@ -4,7 +4,7 @@ author = ""
 cc_licence = ""
 cc_src = ""
 date = 2019-11-09T12:00:00Z
-description = ""
+description = "CC BY-SA 3.0"
 fdw = false
 hero_img = "/v1600676242/der-fall-der-berliner-mauer_nytxue.jpg"
 img_description = "Preserved section of the Berlin Wall along Niederkirchnerstraße"
@@ -29,7 +29,7 @@ Für Menschen unter 30 ist es nahezu unvorstellbar, dass eine Weltstadt einfach 
 
 Genau gleich wurde Berlin geviertelt. Dies führte dazu, dass sich besonders die USA, als Land des Westens, und Russland, als Land des Ostens, nach wie vor uneinig waren, wie gelebt und geführt werden soll. Als Resultat wurde mitten durch Berlin eine Mauer gezogen, die den Westen vom Osten trennte. Die Menschen, die dort lebten, waren fortan gezwungen, ihr Glück oder Unglück einfach anzunehmen. Reisen in die anderen Stadtteile waren nur sehr schwer machbar oder gar nicht erlaubt. Im Westen lebte man modern und fortschrittlich und genoss die amerikanische Kultur mit Kino und Coca Cola. Im Osten hingegen blieb man in vielen Bereichen des Lebens stehen und hatte eine ganz eigene Kultur, eigene Nahrungsmittel und ein ganz anderes Gefühl, was Freiheit für den Menschen ist, als die Leute vom Westen.
 
-{{< image img="West_and_East_Germans_at_the_Brandenburg_Gate_in_1989_pofr4i.jpg" desc="Via Wikimedia Commons" photographer="Lear 21 at English Wikipedia" src="![](https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg)" cc_licence="CC BY-SA" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
+{{< image img="West_and_East_Germans_at_the_Brandenburg_Gate_in_1989_pofr4i.jpg" desc="The Fall of the Berlin Wall, 1989. The photo shows a part of a public photo documentation wall at the Brandenburg Gate, Berlin - Via Wikimedia Commons" photographer="Lear 21 at English Wikipedia" src="![](https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg)" cc_licence="CC BY-SA 3.0" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
 
 Am 9.11.1989 fiel die Mauer, für viele eher überraschend, und seither sind Deutschland und die DDR wiedervereinigt und ein Land, so wie wir es kennen.
 
