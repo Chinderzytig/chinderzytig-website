@@ -1,7 +1,7 @@
 +++
 artikel = true
 author = ""
-cc_licence = "CC0"
+cc_licence = "CC0 1.0"
 cc_src = "https://creativecommons.org/publicdomain/zero/1.0/deed.de"
 date = 2020-05-20T11:00:00Z
 description = ""
