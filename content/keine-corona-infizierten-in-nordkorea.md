@@ -1,6 +1,8 @@
 +++
 artikel = true
 author = "Michèle Häberli"
+cc_licence = ""
+cc_src = ""
 date = 2020-06-05T11:00:00Z
 description = ""
 fdw = false
@@ -44,10 +46,8 @@ Frank, Rüdiger (2013) Nordkorea: Zwischen Stagnation und Veränderungsdruck. In
 
 [https://www.dw.com/de/coronavirus-ist-nordkorea-virenfrei/a-53045752](https://www.dw.com/de/coronavirus-ist-nordkorea-virenfrei/a-53045752 "https://www.dw.com/de/coronavirus-ist-nordkorea-virenfrei/a-53045752") (Stand: 12.05.2020)
 
-Abbildungen 1 und 2: [https://www.dw.com/de/coronavirus-ist-nordkorea-virenfrei/a-53045752](https://www.dw.com/de/coronavirus-ist-nordkorea-virenfrei/a-53045752 "https://www.dw.com/de/coronavirus-ist-nordkorea-virenfrei/a-53045752") (Stand: 12.05.2020)
-
 {{< teiler >}}
 
 {{< container-center >}}
-	{{< arbeitsmaterial file="nordkorea-und-corona-arbeitsmaterial_ofbj21" >}}
+{{< arbeitsmaterial file="nordkorea-und-corona-arbeitsmaterial_ofbj21" >}}
 {{< /container-center >}}
