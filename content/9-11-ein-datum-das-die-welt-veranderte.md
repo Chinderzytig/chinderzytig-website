@@ -1,13 +1,13 @@
 +++
 artikel = true
 author = "Lars Ziörjen"
-cc_licence = "CC BY-SA"
+cc_licence = "CC BY-SA 2.0"
 cc_src = "https://creativecommons.org/licenses/by-sa/2.0/deed.de"
 date = 2020-09-11T11:00:00Z
 description = ""
 fdw = false
 hero_img = "/v1600698786/UA_Flight_175_hits_WTC_south_tower_9-11_dkcdgz.jpg"
-img_description = "Via Wikimedia Commons"
+img_description = "United Airlines Flight 175 crashes into the south tower of the World Trace Center complex in New York City during the September 11 attacks - Via Wikimedia Commons"
 img_photographer = "Robert J. Fisch"
 img_src = "https://commons.wikimedia.org/wiki/File:UA_Flight_175_hits_WTC_south_tower_9-11.jpeg"
 kategorien = ["Nordamerika", "Politik"]
