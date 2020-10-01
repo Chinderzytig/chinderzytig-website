@@ -4,7 +4,7 @@ author = ""
 cc_licence = ""
 cc_src = ""
 date = 2020-04-04T11:00:00Z
-description = ""
+description = "CC BY-SA 3.0"
 fdw = false
 hero_img = "/v1600417843/radioaktivitaet_eckr9r.jpg"
 img_description = "Geiger counter measuring radiation levels in the area of Chernobyl"
@@ -22,7 +22,7 @@ _Radioaktives Material ist sehr schädlich – und das viele tausend Jahre lang.
 Im Dezember 2019 wurde das Atomkraftwerk Mühleberg (in der Nähe von Bern) abgestellt. Das Gebäude wird nun abgebaut. Das meiste Material kann man entsorgen wie bei einem Haus, das abgerissen wird. Aber in einem Atomkraftwerk entsteht auch ein besonders gefährlicher Abfall:  
 radioaktives Material.
 
-{{< image img="KernkraftwerkMühleberg_g4nvtn.jpg" desc="Via Wikimedia Commons" photographer="BKW FMB Energie AG" src="https://commons.wikimedia.org/wiki/File:KernkraftwerkM%C3%BChleberg.jpg" cc_licence="CC BY-SA" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
+{{< image img="KernkraftwerkMühleberg_g4nvtn.jpg" desc="Mühleberg Nuclear Power Plant - Via Wikimedia Commons" photographer="BKW FMB Energie AG" src="https://commons.wikimedia.org/wiki/File:KernkraftwerkM%C3%BChleberg.jpg" cc_licence="CC BY-SA 3.0" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
 
 ## Müllentsorgung für die Zukunft
 
