@@ -19,7 +19,7 @@ title = "Nessie: Das Ungeheuer von Loch Ness"
 +++
 ## **Serie: Sagenhafte Tiere**
 
-**Die Chinderzytig berichtet in einer Artikel-Serie über bekannte Tiere, die es wahrscheinlich gar nicht gibt. Der** [**Yeti**](https://chinderzytig-v1.netlify.app/sagenhaftetiere-teil1-yeti/ "Yeti: Der Schneemensch aus dem Himalaya") **machte den Anfang. Nach dem Artikel zu Nessie folgt Bigfoot.**
+**Die Chinderzytig berichtet in einer Artikel-Serie über bekannte Tiere, die es wahrscheinlich gar nicht gibt. Der** [**Yeti**](https://www.chinderzytig.ch/sagenhaftetiere-teil1-yeti "Yeti: Der Schneemensch aus dem Himalaya") **machte den Anfang. Nach dem Artikel zu Nessie folgt Bigfoot.**
 
 _In den Tiefen des schottischen Sees Loch Ness lebt das Ungeheuer Nessie. Einst gefürchtet, ist das Monster heute vor allem ein Touristen-Magnet._
 
