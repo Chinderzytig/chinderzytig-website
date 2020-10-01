@@ -29,9 +29,9 @@ Leider gab es zu diesem Zeitpunkt noch einen anderen traurigen Zwischenfall. Ein
 
 ## Kampf auf eine andere Art
 
-Die Reibereien zwischen der USA und dem Iran gehen weiter. Der US-Präsident [Donald Trump](https://www.chinderzytig.ch/donaldtrump) setzt momentan mehr auf die Schwächung der iranischen Wirtschaft als auf militärische Aktionen. Seine {{< fremdwort wort="Sanktionen" >}} verbieten es Firmen aus den USA, Geschäfte mit iranischen Firmen zu machen. Die USA will sogar Unternehmen aus anderen Ländern bestrafen, wenn sie Geschäfte im Iran machen. Gerade in der Corona-Krise wären aber die Menschen auf Geschäfte mit anderen Ländern angewiesen.
+Die Reibereien zwischen der USA und dem Iran gehen weiter. Der US-Präsident [Donald Trump](https://www.chinderzytig.ch/donaldtrump) setzt momentan mehr auf die Schwächung der iranischen Wirtschaft als auf militärische Aktionen. Seine {{< fremdwort id="sanktionen" wort="Sanktionen" >}} verbieten es Firmen aus den USA, Geschäfte mit iranischen Firmen zu machen. Die USA will sogar Unternehmen aus anderen Ländern bestrafen, wenn sie Geschäfte im Iran machen. Gerade in der Corona-Krise wären aber die Menschen auf Geschäfte mit anderen Ländern angewiesen.
 
-{{< definition wort="Sanktionen" def="Das Wort kommt aus dem Lateinischen. Eine Bedeutung ist 'Bestätigung'. Meistens wird das Wort dafür benutzt, wenn von Massnahmen die Rede ist. Sanktionen werden verhängt als Massnahmen für ein Verhalten, dass nicht geduldet wird. Es ist eine Möglichkeit der Bestrafung." >}}
+{{< definition id="sanktionen" wort="Sanktionen" def="Das Wort kommt aus dem Lateinischen. Eine Bedeutung ist 'Bestätigung'. Meistens wird das Wort dafür benutzt, wenn von Massnahmen die Rede ist. Sanktionen werden verhängt als Massnahmen für ein Verhalten, dass nicht geduldet wird. Es ist eine Möglichkeit der Bestrafung." >}}
 
 ## Corona-Krise in Iran
 

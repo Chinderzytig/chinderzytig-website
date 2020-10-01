@@ -15,17 +15,17 @@ slug = "welttag-kulturelle-vielfalt"
 title = "Welttag der kulturellen Vielfalt"
 
 +++
-_Die_ {{< fremdwort wort="UNESCO" >}} _feiert jedes Jahr am 21. Mai den Welttag der kulturellen Vielfalt für Dialog und Entwicklung oder kurz: Welttag der kulturellen Vielfalt._
+_Die {{< fremdwort id="UNESCO" wort="UNESCO" >}} feiert jedes Jahr am 21. Mai den Welttag der kulturellen Vielfalt für Dialog und Entwicklung oder kurz: Welttag der kulturellen Vielfalt._
 
 Am Tag der kulturellen Vielfalt steht die Unterschiedlichkeit im Zentrum. Es wird auf die Vielfalt von Identitäten und Kulturen aufmerksam gemacht. Die kulturelle Vielfalt ist für den Austausch und die Entwicklung der Gesellschaft relevant.
 
-{{< definition wort="UNESCO" def="Die United Nations Educational, Scientific and Cultural Organization oder auf Deutsch, die Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur setzt sich für die Förderung in diversen Bereichen ein. Dazu gehört die Erziehung, Wissenschaft und Kultur sowie Kommunikation und Information. Ihre Aufgabe ist es, weltweit für die Weiterentwicklung in diesen Bereichen zu sorgen." >}}
+{{< definition id="UNESCO" wort="UNESCO" def="Die United Nations Educational, Scientific and Cultural Organization oder auf Deutsch, die Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur setzt sich für die Förderung in diversen Bereichen ein. Dazu gehört die Erziehung, Wissenschaft und Kultur sowie Kommunikation und Information. Ihre Aufgabe ist es, weltweit für die Weiterentwicklung in diesen Bereichen zu sorgen." >}}
 
 ## Von den unbekannten Völkern zu den Weltvölkern
 
-Der Dialog – Austausch – zwischen verschiedenen Kulturen ist zentral für den Frieden in unserer Welt. Warum soll es nun genau wichtig sein, dass wir über die verschiedenen Kulturen Bescheid wissen? Im interkulturellen Dialog geht es um Respekt, Freiheit und Offenheit. Dabei sollen unterschiedliche Religionen, Sprachen, Ethnien, Kulturen oder Traditionen respektiert und akzeptiert werden. Zu Ethnien gehören zum Beispiel {{< fremdwort wort="Aborigines" >}}. Es geht um abgrenzbare soziale Gruppen, die als eigene Völker gelten. Wüssten wir nichts von den anderen Völkern, Sprachen oder Religionen, könnten wir uns nicht mit denen verständigen. Wir könnten nicht nachvollziehen, warum sie nicht dasselbe glauben wie wir. Dies könnte zu noch mehr Kriegen und Konflikten auf der Erde führen. Von verschiedenen Kulturen können wir lernen. Wir können unseren Horizont, unser Wissen und unsere Fähigkeiten erweitern. Genau deshalb braucht es den Welttag der kulturellen Vielfalt.
+Der Dialog – Austausch – zwischen verschiedenen Kulturen ist zentral für den Frieden in unserer Welt. Warum soll es nun genau wichtig sein, dass wir über die verschiedenen Kulturen Bescheid wissen? Im interkulturellen Dialog geht es um Respekt, Freiheit und Offenheit. Dabei sollen unterschiedliche Religionen, Sprachen, Ethnien, Kulturen oder Traditionen respektiert und akzeptiert werden. Zu Ethnien gehören zum Beispiel {{< fremdwort id="Aborigines" wort="Aborigines" >}}. Es geht um abgrenzbare soziale Gruppen, die als eigene Völker gelten. Wüssten wir nichts von den anderen Völkern, Sprachen oder Religionen, könnten wir uns nicht mit denen verständigen. Wir könnten nicht nachvollziehen, warum sie nicht dasselbe glauben wie wir. Dies könnte zu noch mehr Kriegen und Konflikten auf der Erde führen. Von verschiedenen Kulturen können wir lernen. Wir können unseren Horizont, unser Wissen und unsere Fähigkeiten erweitern. Genau deshalb braucht es den Welttag der kulturellen Vielfalt.
 
-{{< definition wort="Aborigines" def="(sprich: Äboritschiniis) So nennt man die Ureinwohner Australiens." >}}
+{{< definition id="Aborigines" wort="Aborigines" def="(sprich: Äboritschiniis) So nennt man die Ureinwohner Australiens." >}}
 
 {{< image img="welttag-kulturelle-vielfalt-2_qwblws.jpg" desc="Different cultures at the Australian Day Parade" src="https://unsplash.com/@mitchel3uo" photographer="Mitchell Luo" >}}
 

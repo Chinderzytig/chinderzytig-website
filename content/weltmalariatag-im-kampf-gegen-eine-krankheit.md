@@ -15,14 +15,13 @@ slug = "weltmalariatag"
 title = "Weltmalariatag – Im Kampf gegen eine Krankheit?"
 
 +++
-_Jedes Jahr am 25. April will die {{< fremdwort wort="Weltgesundheitsorganisation" >}} auf die Krankheit Malaria aufmerksam machen. Diese Krankheit kommt in subtropischen und tropischen Regionen – vor allem in Afrika – vor._
+_Jedes Jahr am 25. April will die {{< fremdwort id="who" wort="Weltgesundheitsorganisation" >}} auf die Krankheit Malaria aufmerksam machen. Diese Krankheit kommt in subtropischen und tropischen Regionen – vor allem in Afrika – vor._
 
-{{< definition wort="Weltgesundheitsorganisation" def="Die Weltgesundheitsorganisation koordiniert mit der UNO das internationale öffentliche Gesundheitswesen. Sie sorgt für die Bekanntheit und einen guten Umgang mit allen Themen der Gesundheit auf der ganzen Welt. Die Organisation wird oft mit WHO abgekürzt." >}}
+{{< definition id="who" wort="Weltgesundheitsorganisation" def="Die Weltgesundheitsorganisation koordiniert mit der UNO das internationale öffentliche Gesundheitswesen. Sie sorgt für die Bekanntheit und einen guten Umgang mit allen Themen der Gesundheit auf der ganzen Welt. Die Organisation wird oft mit WHO abgekürzt." >}}
 
 Die Krankheit Malaria wird von einer Mücke übertragen, der sogenannten Anopheles-Mücke. Der Name der Mücke kommt vom griechischen und bedeutet “schädlich”. Sie kommt in feuchten und warmen Gebieten vor (zum Beispiel in der Sahara). Die Krankheit Malaria können jedoch nur weibliche Mücken übertragen.
 
 ## Auswirkungen eines einzelnen Mückenstichs
-
   
 Einwohner von subtropischen und tropischen Gebieten in Afrika und auch Asien erkranken immer wieder an Malaria. Dabei reicht ein Stich der weiblichen Anopheles-Mücke. Die Auswirkung der Krankheit ist vor allem hohes Fieber. Die erkrankte Person hat immer wieder Fieber und dann wieder nicht – sogenannte Fieberschübe. Wird die Person nicht behandelt, stirbt sie daran. Für die Behandlung werden Medikamente verwendet. Diese sind sehr teuer und in armen Regionen nicht vorhanden. Deshalb sterben jährlich viele Menschen an der Krankheit. Oft trifft es die Kinder. Wenn wir als Touristen in die Malariaregionen reisen, sollten wir lange Kleidung tragen. Zudem helfen Netze und Mückenschutzmittel. Machen wir Ferien in einem Malariagebiet, sollten wir auf jeden Fall vorher den Arzt um Rat fragen.
 
