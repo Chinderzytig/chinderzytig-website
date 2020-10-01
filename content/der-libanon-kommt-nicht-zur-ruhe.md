@@ -1,13 +1,13 @@
 +++
 artikel = true
 author = ""
-cc_licence = "CC BY-SA"
+cc_licence = "CC BY-SA 4.0"
 cc_src = "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
 date = 2020-04-14T11:00:00Z
 description = ""
 fdw = false
 hero_img = "/v1600696017/libanon-krise_i5a75v.jpg"
-img_description = ""
+img_description = "Beirut protests 2019 - Via Wikimedia Commons"
 img_photographer = "Shahen Araboghlian"
 img_src = "https://commons.wikimedia.org/wiki/File:Beirut_protests_2019_-_1.jpg"
 kategorien = ["Asien", "Politik"]
