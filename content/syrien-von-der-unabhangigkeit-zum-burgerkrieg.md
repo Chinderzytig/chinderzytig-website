@@ -1,7 +1,7 @@
 +++
 artikel = true
 author = "Seraina Branschi"
-cc_licence = "CC BY-ND"
+cc_licence = "CC BY-ND 2.0"
 cc_src = "https://creativecommons.org/licenses/by-nd/2.0/deed.de"
 date = 2020-04-17T11:00:00Z
 description = ""
@@ -23,7 +23,7 @@ _Während dem_ {{< fremdwort wort="zweiten-weltkrieg" >}} _waren die Franzosen i
 
 Nachdem die Franzosen gingen, musste jemand neues bestimmen was die Rechte und Regeln sind. Seitdem gab es viele Wechsel. Heute ist Baschar al-Assad an der Macht. Er ist der syrische Präsident. Baschar al-Assad sagt nun was man darf und was nicht. Doch er und die Bewohner des Landes Syriens hatten unterschiedliche Vorstellungen von den Regeln.
 
-{{< image img="1457463017_a4772ec16b_k_utcajx.jpg" desc="Typical propaganda poster featuring Syrian president Bashar al-Assad" photographer="watchsmart" src="https://www.flickr.com/photos/7741046@N06/1457463017" cc_licence="CC BY" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
+{{< image img="1457463017_a4772ec16b_k_utcajx.jpg" desc="Typical propaganda poster featuring Syrian president Bashar al-Assad" photographer="watchsmart" src="https://www.flickr.com/photos/7741046@N06/1457463017" cc_licence="CC BY 2.0" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
 
 ## Ein Präsident gegen das Volk
 
