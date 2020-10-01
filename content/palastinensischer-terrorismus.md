@@ -27,7 +27,7 @@ Die Zeit vom Ersten Weltkrieg bis 2006 war geprägt von mehreren Kriegen und vie
 
 Weil die Aufstandsversuche der PLO in Israel zu keinem Erfolg führten, führte sie weltweit terroristische Anschläge durch, die auf ihre Situation aufmerksam machen sollten. So verübte beispielsweise die Terrororganisation „Der Schwarze September“ einen Anschlag auf die Olympischen Spiele 1972 in München. Die Terroristen nahmen das israelische Olympiateam als Geisel. Der Rettungsversuch der Geiseln missglückte und alle israelischen Athleten kamen ums Leben.
 
-{{< image img="Israel_and_occupied_territories_map_cmbsyc.png" desc="Via Wikimedia Commons" photographer="ChrisO" src="![](https://commons.wikimedia.org/wiki/File:Israel_and_occupied_territories_map.png)" cc_licence="Public domain" cc_src="https://creativecommons.org/publicdomain/zero/1.0/deed.de" >}}
+{{< image img="Israel_and_occupied_territories_map_cmbsyc.png" desc="Map of Israel, the Palestinian territories (West Bank and Gaza Strip), the Golan Heights, and portions of neighbouring countries. Also former United Nations deployment areas in countries adjoining Israel or Israeli-held territory, as of February 2018 - Via Wikimedia Commons" photographer="ChrisO" src="![](https://commons.wikimedia.org/wiki/File:Israel_and_occupied_territories_map.png)" cc_licence="CC0 1.0" cc_src="https://creativecommons.org/publicdomain/zero/1.0/deed.de" >}}
 
 ## Mediales Interesse aufgrund von Unklarheiten
 
