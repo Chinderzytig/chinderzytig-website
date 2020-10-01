@@ -2,19 +2,30 @@
 	display: flex;
 	justify-content: center;
 
-
 	@include respond(phone-xxl) {
 		flex-direction: column;
 		align-items: center;
 	}
 
+	&--nav,
+	&--footer {
+		input[type=email],
+		input[type=email]::placeholder {
+			color: inherit;
+			font-family: inherit;
+			font-size: inherit;
+		}
+	}
+
 	&--nav {
+		color: $social-base;
 		background-color: $chinder-cultured;
 
 		input[type=email] { @include newsletter-field($color-white, $social-base); }
 	}
 
 	&--footer {
+		color: $chinder-platinum;
 		input[type=email] { @include newsletter-field($footer-light, $chinder-platinum);}
 	}
 
@@ -34,6 +45,9 @@
 	&__heading {
 		margin-right: 1.5rem;
 		margin-top: .5rem;
+		text-transform: uppercase;
+
+		&--footer { font-weight: 500; }
 
 		@include respond(phone-xxl) { margin: 0 0 1rem 0; }
 	}
@@ -41,18 +55,9 @@
 	&__group {
 		width: 30rem;
 
-		@include respond(phone-md) { width: 25rem; }
+		@include respond(phone-xxl) { width: 25rem; }
 
-		&-field {
-			width: 100%;
-			padding: .5rem 1rem;
-		}
-
-		&-label {
-			margin-left: 1.2rem;
-			display: block;
-			transition: all .3s;
-		}
+		&-field { padding: .5rem 1rem; }
 
 		&-field:placeholder-shown + &-label {
 			opacity: 0;
@@ -64,5 +69,28 @@
 	&__submit {
 		margin-left: 2rem;
 		align-self: flex-start;
+	}
+}
+
+form#mc-embedded-subscribe-form.validate.newsletter__form {
+	padding-top: 1.5rem;
+	padding-bottom: 0;
+}
+
+div#mc_embed_signup_scroll.newsletter__group {
+
+	input#mce-EMAIL.newsletter__group-field {
+			width: 30rem;
+
+			@include respond(phone-xxl) { width: 25rem; }
+	}
+
+	label.newsletter__group-label {
+		font-size: 1.2rem;
+		padding-bottom: 0;
+		text-align: left;
+		display: block;
+		margin-left: 1.2rem;
+		transition: all .3s;
 	}
 }

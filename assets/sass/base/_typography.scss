@@ -199,39 +199,6 @@ body {
 }
 
 // -----------------------------------------------
-// PARTIALS
-// -----------------------------------------------
-
-/* ----- NEWSLETTER ------ */
-.newsletter {
-
-	&--nav,
-	&--footer {
-		input[type=email],
-		input[type=email]::placeholder {
-			color: inherit;
-			font-family: inherit;
-			font-size: inherit;
-		}
-	}
-
-	&--nav { color: $social-base; }
-
-	&--footer { color: $chinder-platinum; }
-
-	&__heading {
-		text-transform: uppercase;
-
-		&--footer { font-weight: 500; }
-	}
-
-	&__group {
-
-		&-label { font-size: 1.2rem; }
-	}
-}
-
-// -----------------------------------------------
 // PAGES
 // -----------------------------------------------
 
