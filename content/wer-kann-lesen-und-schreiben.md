@@ -1,6 +1,8 @@
 +++
 artikel = true
 author = "Annic Berset"
+cc_licence = ""
+cc_src = ""
 date = 2020-09-08T11:00:00Z
 description = ""
 fdw = false
@@ -21,7 +23,7 @@ Alphabetisierung – was für ein schwieriges Wort! Und trotzdem ist es sehr wic
 
 Man könnte meinen, jeder Mensch auf dieser Welt kann das, oder? Leider ist das aber nicht so. Mehr als 770 Millionen erwachsene Personen können entweder nicht lesen oder nicht schreiben – oder beides nicht. Zwei Drittel von ihnen sind Frauen und Mädchen. Das hat damit zu tun, dass Menschen nicht überall eine Schule besuchen können. Manchmal ist eine Schule zu weit weg oder die Familie hat zu wenig Geld, um ihre Kinder zum Lernen zu schicken. In manchen Ländern haben die Frauen in der Familie auch gar kein Recht, eine Schule zu besuchen, weil sie zu Hause bleiben müssen.
 
-{{< image img="welt-alphabetisierungs-tag-2_ovqpmg.png" desc="2007/2008 World literacy rates" src="https://commons.wikimedia.org/wiki/User:Dwrcan" photographer="Dwrcan" >}}
+{{< image img="welt-alphabetisierungs-tag-2_ovqpmg.png" desc="2007/2008 World literacy rates - Via Wikimedia Commons" photographer="Sbw01f" src="![](https://commons.wikimedia.org/wiki/File:World_literacy_map_UNHD_2007_2008.png)" cc_licence="CC BY 3.0" cc_src="https://creativecommons.org/licenses/by/3.0/deed.de" >}}
 
 ## Grosse Unterschiede
 
