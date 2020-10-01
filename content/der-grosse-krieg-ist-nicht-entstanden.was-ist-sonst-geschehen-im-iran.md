@@ -1,7 +1,7 @@
 +++
 artikel = true
 author = ""
-cc_licence = "CC BY"
+cc_licence = "CC BY 4.0"
 cc_src = "https://creativecommons.org/licenses/by/4.0/deed.de"
 date = 2020-06-12T11:00:00Z
 description = ""
@@ -21,7 +21,7 @@ _Bald ist ein halbes Jahr vergangen, seit der iranische General Qasem Soleimani 
 
 Einige Tage nach der Beerdigung des legendären Generals im Januar dieses Jahres hat das iranische Militär – die Revolutionsgarden – eine Racheaktion durchgeführt. Gebäude des US-Militärs im Nachbarland Irak wurden von Raketen beschossen. Niemand wurde dabei verletzt. Diese Tatsache deutet eher darauf hin, dass die Regierung im Iran keinen Krieg herausfordern wollte. Das iranische Militär ist nämlich gut ausgerüstet und hätte auch anders reagieren können.
 
-{{< image img="Sardar-Qasem-Soleimani-04_zvjo9w.jpg" desc="Via Wikimedia Commons" photographer="sayyed shahab-o- din vajedi" src="![](https://commons.wikimedia.org/wiki/File:Sardar_Qasem_Soleimani-04.jpg)" cc_licence="CC BY" cc_src="https://creativecommons.org/licenses/by/4.0/deed.de" >}}
+{{< image img="Sardar-Qasem-Soleimani-04_zvjo9w.jpg" desc="Via Wikimedia Commons" photographer="sayyed shahab-o- din vajedi" src="![](https://commons.wikimedia.org/wiki/File:Sardar_Qasem_Soleimani-04.jpg)" cc_licence="CC BY 4.0" cc_src="https://creativecommons.org/licenses/by/4.0/deed.de" >}}
 
 ## Unglück​
 
