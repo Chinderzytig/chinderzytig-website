@@ -27,13 +27,13 @@ Zu den letzten Ereignissen: In Kassel wurde der Politiker Walter Lübcke von ein
 
 {{< image img="AfD-hand-bills-flyer_dgb5hq.jpg" desc="Via Wikimedia Commons" photographer="Oxfordian Kissuth" src="https://commons.wikimedia.org/w/index.php?curid=50926458" cc_licence="CC BY-SA 3.0" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
 
-## Wieso kam es überhaupt zu rechtsterroristischen Anschlägen?
+### Wieso kam es überhaupt zu rechtsterroristischen Anschlägen?
 
 Durch die Finanzkrise 2008 und die anschliessende Weltwirtschaftskrise machte sich eine grosse Unsicherheit um die wenigen Arbeitsplätze breit. Dadurch stärkte sich die Einstellung, dass die Landbevölkerung das Recht auf diese Arbeitsplätze hat. Die Zahl der Arbeitslosen stieg in Europa nämlich seit der Weltwirtschaftskrise an. Hinzu kommt die Unsicherheit, wie sich die Wirtschaft und die Gesellschaft wegen der zunehmenden Globalisierung und Digitalisierung entwickeln wird. Auch die Flüchtlingskrise 2015 und die damit verbundene Zunahme von Flüchtlingen in europäischen Ländern, stärkte die Unsicherheit.
 
 Rechtspopulistische Parteien wie die [Alternative für Deutschland (AfD)](https://www.chinderzytig.ch/), der Front National in Frankreich oder die Freiheitliche Partei Österreichs (FPÖ) werden durch diese Unsicherheiten gestärkt.
 
-## Trägt die AfD eine Mitschuld an rechtsterroristischen Attentaten?
+### Trägt die AfD eine Mitschuld an rechtsterroristischen Attentaten?
 
 Medien und Politiker*innen sahen in der AfD eine Mitschuld an den rechtsterroristischen Attentaten in Deutschland. Die AfD distanzierte sich öffentlich von den Attentaten und einer Mitschuld. Im Fall Hanau gibt es beispielsweise auch keinen Beweis für einen direkten Zusammenhang. Der Täter hat sich in seinem zuvor veröffentlichten Schreiben nicht auf die AfD berufen.
 

@@ -27,7 +27,7 @@ Das Parlament schlägt dem Volk vor, das Gesetz so zu ändern, dass künftig jed
 
 Wenn die Väter zwei Wochen Vaterschaftsurlaub erhalten, wird ihnen während dieser Zeit der Lohn zu 80 Prozent bezahlt. Damit dies bezahlt werden kann, zahlen die Unternehmen und die Arbeitnehmenden jeden Monat vom Lohn einen kleinen Beitrag in eine gemeinsame Kasse (die Erwerbsersatzordnung). Pro 1000 Franken Lohn zahlen sie je 25 Rappen ein. Dafür bekommt dann der Vater während dieser Zeit eben den Lohn zu 80 Prozent bis zu einem Maximum bezahlt. Mit der Lösung erhalten alle Väter in der Schweiz die Möglichkeit Vaterschaftsurlaub zu beziehen, egal bei welchem Unternehmen sie arbeiten. Einige Unternehmen geben ihren Angestellten bereits freiwillig einen Vaterschaftsurlaub, den sie auch selber zahlen. Aber eben nur ein kleiner Teil der Arbeitnehmenden.
 
-## Warum ja?
+### Warum ja?
 
 Es gibt einige Leute, die wollen nicht, dass die Väter einen Vaterschaftsurlaub bekommen. Sie sagen, das sei zu teuer für die Unternehmen. Sie sagen auch, dass die Unternehmen Probleme bekommen, wenn die Väter dann im Vaterschaftsurlaub sind und nicht arbeiten. Die Kosten sind aber sehr klein und der Vaterschaftsurlaub hilft, dass die Väter motivierter arbeiten. Die Zeit, die sie mit den Kindern am Anfang verbringen ist Gold wert und hilft, dass sie auch später mehr Zeit mit ihren Kindern verbringen. Die Väter können die zwei Wochen bis ein halbes Jahr nach Geburt des Kindes beziehen und zwar auch tageweise. Sie müssen also nicht zwei Wochen am Stück beziehen, das hilft dann auch den Unternehmen die Abwesenheit gut organisieren zu können.
 

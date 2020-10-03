@@ -37,7 +37,11 @@
 		margin-bottom: $margin-s;
 	}
 
-	&__duration { margin-bottom: 3rem; }
+	&__duration {
+		text-align: center;
+		font-weight: 700;
+		margin-bottom: 3rem;
+	}
 
 	&__container {
 		display: flex;
@@ -107,6 +111,7 @@
 		}
 
 		&-group {
+			text-align: justify;
 			width: 30rem;
 
 			@include respond(tab-port-lg) {
@@ -115,5 +120,9 @@
 				&:not(:last-child) { margin-bottom: 3rem; }
 			}
 		}
+
+		&-heading { color: $chinder-orange; }
+
+		&-text { font-size: 1.5rem; }
 	}
 }

@@ -21,13 +21,13 @@ Du kennst sicher viele Strahlen, bei genauem Überlegen. Sonnenstrahlen, Röntge
 
 {{< image img="handystrahlung-2_lponeo.jpg" desc="Back of cellphone with 5G moniker" src="https://unsplash.com/@haishiwa" photographer="Shiwa ." >}}
 
-## Handystrahlung
+### Handystrahlung
 
 Handy-Strahlung kennt ihr natürlich auch. Man spricht immer von 3G, 4G oder neu 5G. Das sind Abkürzungen für die Geschwindigkeit, Stärke und Belastung am Menschen. Das Handy strahlt die ganze Zeit: Ohne Strahlung empfängt es keine Nachrichten, keine Anrufe, kein Internet. Strahlen braucht es. Ob die Handystrahlen tatsächlich ungesund für den Menschen und Tiere sind, weiss man noch nicht sicher. Tiere lassen sich leicht ablenken, durch künstliche Strahlen. So können sich Vögel zum Beispiel "verfliegen" und sterben.
 
 Sicher ist, das wir uns schützen, wenn wir vermehrt mit Lautsprecher oder Kopfhörern telefonieren und so das Handy nicht direkt ans Ohr lassen. Müslüm sagte einst, man solle lieber häufiger seine Mitmenschen streicheln , als dauernd sein Handy streicheln. Fakt ist, viele Kinder und vor allem Jugendliche sowie Erwachsene hängen viel zu oft am Handy, was sicher nicht nur gesund sein kann. Ob die Strahlen zusätzlich ungesund sind, wird man sehen. Angst haben, brauchst du nicht. Aber das Handy auch einmal ganz ausschalten, oder zumindest in den Flugmodus wechseln, schadet sicher auch nicht.
 
-## Strahleninfos für Fortgeschritten
+### Strahleninfos für Fortgeschritten
 
 Wie wir auch haben nicht alle Strahlungen den gleichen Charakter und sind daher in vier Eigenschaften aufgeteilt worden, Elektronische Wellen, Strahlung aus dem Weltraum, Ionisierende Strahlung, Harte- und Weiche-Strahlung.
 

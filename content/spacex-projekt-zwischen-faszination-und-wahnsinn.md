@@ -21,13 +21,13 @@ _Habt ihr es auch gesehen? An vielen Orten konnten wir am Wochenende mehrere Lic
 
 Die Lichterkette sind Satelliten. Diese stammen vom Unternehmen für Weltraumforschung SpaceX. Insgesamt sollen bis 2027 12’000 Satelliten – künstliche Planeten – ins All gebracht werden. Derzeit sind mehr als 400 Satelliten bereits im Weltall.
 
-## Lichterketten mitten am Sternenhimmel
+### Lichterketten mitten am Sternenhimmel
 
 Vielleicht habt ihr in letzter Zeit vom Projekt Starlink gelesen. Das ist der Name des Projekts, das hinter diesen vielen Satelliten steckt. Ziel ist es, dass die ganze Welt Internet hat. Das heisst es soll auch zum Beispiel in der Wüste möglich sein Internetzugang zu haben. Hinter dem Projekt steckt der Chef des Unternehmens SpaceX, Elon Musk. Er ist euch vielleicht eher ein Begriff, wenn ihr an das Elektroauto Tesla denkt. Von diesem Unternehmen ist er ebenfalls der Geschäftsführer. Die Satelliten sehen wir immer mal wieder im Himmel. Wie an einer Schnur wandern sie durch den Himmel. Wann wir die Satelliten sehen, können wir auf der [findstarlink](https://findstarlink.com/) Internetseite sehen. Einfach den Ort eingeben, an dem wir uns befinden. Ab 2021 soll das ganze Weltall mit den Satelliten bedeckt sein. So faszinierend es ist, bedenklich ist es auch.
 
 {{< image img="spacex-2_vqomew.jpg" desc="SpaceX Falcon Heavy Demo Mission" photographer="SpaceX" src="https://unsplash.com/@spacex" >}}
 
-## Satelliten-Ketten statt Sternenhimmel?
+### Satelliten-Ketten statt Sternenhimmel?
 
 Der Anblick der Kette ist durchaus spannend. Jedoch gibt es auch viel Kritik. Astronauten haben Angst, dass die Satelliten zu [Weltraumschrott](https://www.chinderzytig.ch/weltraumschrott) werden. Ausserdem verringern viele Satelliten die Sicht auf die Sterne. Es ist zwar ein Spektakel. Dennoch können diese gemäss Kritikern zu Störungen von Signalen anderer Satelliten führen. So könnte es zu Problemen in der Forschung des Weltalls kommen. diese zu Störungen in den Signalen. Zudem kann die Vorstellung von Tausenden Satelliten am Himmel beängstigend sein.
 

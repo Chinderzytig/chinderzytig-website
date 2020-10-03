@@ -21,7 +21,7 @@ _Terroristische Anschläge von Palästinensern prägten die Zeit von 1960 bis 19
 
 Zwischen den Palästinensern (Bewohner von Palästina) und den Israeli (Bewohner von Israel) herrscht seit sehr langer Zeit der älteste ungelöste Konflikt, den es gibt – auch Nahostkonflikt genannt. Nach dem 1. Weltkrieg wurde das Gebiet des heutigen Israels von Engländern eingenommen. Damals lebten im heutigen Israel mehrheitlich Araber – die Palästinenser. Diese wurden mit der Zeit aus ihrer Heimat verdrängt, vor allem nachdem dort 1948 der Staat Israel gegründet worden war. Der Konflikt entstand daraus, dass fast niemand den Arabern ein eigenes Gebiet für einen palästinensischen Staat zugestehen wollte.
 
-## Palästina – konfliktbehafteter Start
+### Palästina – konfliktbehafteter Start
 
 Die Zeit vom Ersten Weltkrieg bis 2006 war geprägt von mehreren Kriegen und vielen Auseinandersetzungen zwischen den Konfliktparteien. Die Palästinenser schafften es nicht, einen eigenen Staat zu bilden und gründeten deshalb 1964 die „Palästinensische Befreiungsorganisation“ (PLO). Die PLO bestand aus vielen kleineren Widerstandsgruppen, beispielsweise „dem Schwarzen September“.
 
@@ -29,13 +29,13 @@ Weil die Aufstandsversuche der PLO in Israel zu keinem Erfolg führten, führte 
 
 {{< image img="Israel_and_occupied_territories_map_cmbsyc.png" desc="Map of Israel, the Palestinian territories (West Bank and Gaza Strip), the Golan Heights, and portions of neighbouring countries. Also former United Nations deployment areas in countries adjoining Israel or Israeli-held territory, as of February 2018 - Via Wikimedia Commons" photographer="ChrisO" src="![](https://commons.wikimedia.org/wiki/File:Israel_and_occupied_territories_map.png)" cc_licence="CC0 1.0" cc_src="https://creativecommons.org/publicdomain/zero/1.0/deed.de" >}}
 
-## Mediales Interesse aufgrund von Unklarheiten
+### Mediales Interesse aufgrund von Unklarheiten
 
 Die Anschläge weckten nicht nur die internationale Aufmerksamkeit, sie dienten auch dazu, auf der ganzen Welt Sympathisanten zu finden, die der PLO bei weiteren Anschlägen behilflich waren. Zudem bildete die PLO in verschiedenen Regionen von Afrika, Asien und Europa Männer und Frauen zu Kämpfern aus. Den Palästinensern gelang es, ein Netz aus mindestens 40 Gruppen zu erschaffen, die für sie Anschläge planten und durchführten. Aus diesem Grund war es schwierig, die Anschläge auf bestimmte Personen zurückzuführen.
 
 Die verdeckten Taten waren und sind sehr schwierig aufzudecken. Dazu braucht es ausserdem viel Zeit. Aus diesem Grund können einige Anschläge erst heute genauer erklärt werden und treten erst jetzt in den Medien auf. Zudem wurde der Konflikt zwischen Israelis und Palästinensern noch nicht gelöst, was zu weiteren Auseinandersetzungen führen könnte.
 
-## Quellenverzeichnis:
+### Quellenverzeichnis:
 
 Johannsen, Margret (2017). Der Nahost-Konflikt. 4.Auflage. Wiesbaden: Springer VS
 

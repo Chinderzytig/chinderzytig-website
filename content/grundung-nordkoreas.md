@@ -31,11 +31,11 @@ Früher kannte man kein Nord- und kein Südkorea. Die {{< fremdwort id="halbinse
 
 {{< image img="fdw-gruendung-nordkorea-2_ertm2u.jpg" desc="Via Wikimedia Commons" photographer="Hulton Archive/Getty Images" src="![](https://commons.wikimedia.org/wiki/File:Kim_Il-sung_in_1950.jpg)" cc_licence="CC PDM 1.0" cc_src="https://creativecommons.org/publicdomain/mark/1.0/deed.de" >}}
 
-## Aus einem werden zwei Länder
+### Aus einem werden zwei Länder
 
 Während die Sowjetunion und die USA die Halbinsel gemeinsam verwalteten, wurde die Beziehung zwischen den beiden Ländern immer schlechter. Sie begannen nicht mehr zusammen und für ein freies Korea, sondern gegeneinander zu arbeiten. Dadurch entstanden statt einem vereinten Korea zwei unabhängige Staaten. Am 15. August 1948 wurde Südkorea als Republik Korea mit Rhee Syng-man als Präsidenten gegründet. Kurz darauf, am 9.September, wurde Nordkorea als Demokratische Republik Korea durch den ersten Staatschef des Landes Kim Il-sung ins Leben gerufen. Beide Länder sahen sich selbst als das einzig wahre Korea an und wollten einander nicht akzeptieren. Wieso war das so schwierig? Hätten sie nicht friedlich nebeneinander leben können?
 
-## Unterschiedliche Entwicklungen
+### Unterschiedliche Entwicklungen
 
 Südkorea und Nordkorea verfolgten ganz verschiedene Ziele. Beide fanden die Ansichten des anderen schlecht und wollten ihre eigenen auf der gesamten Koreanischen Halbinsel umsetzen und falls notwendig mit Gewalt verteidigen. Nordkorea machte den ersten Schritt in diese Richtung, indem der Staatschef Kim Il-Sung 1950 seiner Armee befahl, den Süden zu überfallen. Das war der Beginn des Koreakrieges. Er dauerte drei Jahre, ohne dass sich an der Teilung der Halbinsel etwas änderte. Damals waren beide Staaten eine {{< fremdwort wort="Diktatur" >}}, heute nur noch Nordkorea. Aber wieso ist denn der offizielle Name des Landes Demokratische Volksrepublik Korea? In einer Demokratie kann doch das ganze Volk mitbestimmen und in einer Diktatur wird es von einer Person, einer Gruppe oder einer Partei, die alleine an der Macht ist, unterdrückt? Das ist richtig. Daher ist der Name, den sich Nordkorea selbst gegeben hat, nicht korrekt und kann verwirren. Der aktuelle Herrscher Kim Jong-un führt das Land im Sinne seiner Vorgänger, seinem Vater Kim Jong-il und seinem Grossvater Kim Il-sung, weiter. Dadurch gilt Nordkorea im Vergleich zu allen anderen Ländern der Welt aktuell als das Land, welches das Leben seiner Bevölkerung am meisten einschränkt. Südkorea hat sich dagegen seit dem Koreakrieg tatsächlich von einer Diktatur zu einer Demokratie entwickelt und ist heute sehr modern.
 
@@ -43,11 +43,11 @@ Südkorea und Nordkorea verfolgten ganz verschiedene Ziele. Beide fanden die Ans
 
 {{< image img="fdw-gruendung-nordkorea-3_kpqm24.jpg" desc="President Donald J. Trump shakes hands with Chairman of the Workers’ Party of Korea Kim Jong Un Sunday, June 30, 2019, as the two leaders meet at the Korean Demilitarized Zone" photographer="The White House" src="https://www.flickr.com/photos/148748355@N05/48162702412" cc_licence="CC PDM 1.0" cc_src="https://creativecommons.org/publicdomain/mark/1.0/deed.de" >}}
 
-## Keine Vereinigung in Sicht
+### Keine Vereinigung in Sicht
 
 Ob sich Nord- und Südkorea jemals wieder zu einem einzigen Korea vereinen werden? Beide sagen, dass sie das eigentlich wollen. Seit dem Koreakrieg gab es immer wieder Zeiten, in denen sie sich näher kamen. Aber auch solche, in denen es Konflikte gab. Die beiden Länder haben sich in fast allen Bereichen so unterschiedlich entwickelt, dass eine baldige Wiedervereinigung sehr unwahrscheinlich ist. Um zusammenzukommen, müssten sich der Norden und der Süden der Halbinsel wieder ähnlicher werden. Aber egal ob es dadurch zu einer Wiedervereinigung kommen würde oder nicht: es wäre wünschenswert, wenn sich Nordkorea auf lange Sicht auch zu einer modernen Demokratie entwickeln würde. Kurzfristig gesehen ist die Hauptsache, dass Nord- und Südkorea einigermassen friedlich nebeneinander leben können und es zu keinem weiteren Krieg kommt.
 
-## Nun bist du an der Reihe
+### Nun bist du an der Reihe
 
 Glaubst du, dass sich Nord- und Südkorea irgendwann wieder vereinen? Wieso sollen sie deiner Meinung nach wieder ein Land werden – oder wieso nicht? Was weisst du eigentlich alles über Nord- und Südkorea?
 

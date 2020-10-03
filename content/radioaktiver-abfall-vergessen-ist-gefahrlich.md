@@ -24,7 +24,7 @@ radioaktives Material.
 
 {{< image img="KernkraftwerkMühleberg_g4nvtn.jpg" desc="Mühleberg Nuclear Power Plant - Via Wikimedia Commons" photographer="BKW FMB Energie AG" src="https://commons.wikimedia.org/wiki/File:KernkraftwerkM%C3%BChleberg.jpg" cc_licence="CC BY-SA 3.0" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
 
-## Müllentsorgung für die Zukunft
+### Müllentsorgung für die Zukunft
 
 Radioaktives Material ist wegen seiner Strahlung sehr gefährlich für Menschen und Tiere. Die Strahlung verändert die Körperzellen. Dadurch entstehen Krankheiten. Das radioaktive Material muss deshalb in einer gut gesicherten Deponie gelagert werden – und zwar lange, bis die Strahlung aufhört. Das dauert viele tausend Jahre. Diese lange Zeit ist es ein Problem: Es ist nämlich möglich, dass die Menschen in tausend oder zweitausend Jahren vergessen haben, was radioaktives Material ist. Sie kommen vielleicht auf die Idee, die Deponie wieder auszugraben, weil sie neugierig sind auf den Inhalt. Das klingt auf den ersten Blick seltsam, aber viele Sachen werden vergessen. Die Römer und Kelten lebten vor 2‘000 Jahren in der Schweiz. Von ihnen ist nicht viel übrig geblieben: verfallene Ruinen, Teller, Töpfe, alte Werkzeuge. Wir kennen ihr Leben fast nur durch Ausgrabungen.
 

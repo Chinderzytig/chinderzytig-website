@@ -23,7 +23,7 @@ Vorneweg: Schulen sind geschlossen. Restaurants dürfen nur noch 50 Gäste aufne
 
 Warum? Es geht darum, unser Gesundheitssystem zu entlasten, in dem sich die Menschen nicht noch schneller gegenseitig anstecken. Wenn sich die Ansteckungen nicht schneller als nötig ausbreiten, kann das Pflegepersonal die vielen Erkrankten pflegen und den Aufwand bewältigen. Kinder und Jugendliche können das Virus ebenfalls auf sich tragen und weitergeben, zum Beispiel an Lehrpersonen oder Grosseltern, ohne dass sie das überhaupt merken. Dass nun auch ihr zu Hause bleiben müsst, obwohl ihr kerngesund seid, hat mit Solidarität zu tun!
 
-## Schule geschlossen. Was nun?
+### Schule geschlossen. Was nun?
 
 * Schulen und Lehrpersonen müssen nun dafür sorgen, dass Schulkinder digital, per Post oder per Abholtermin mit Unterrichtsmaterial versorgt werden. Das heisst, ihr kriegt wohl bald Hausaufgaben und Aufträge, die ihr zu Hause erledigen müsst. Die Schule ist zu, aber die Arbeit geht nicht aus. Das Nötigste muss erledigt werden.
 * Eure Eltern übernehmen den Unterricht nicht, müssen aber dafür sorgen, dass ihr eure Hausaufträge erledigt.
@@ -34,7 +34,7 @@ Warum? Es geht darum, unser Gesundheitssystem zu entlasten, in dem sich die Mens
 * Vermutlich streichen auch eure Sportvereine das Training. Also, bewegt euch trotzdem. Fahrt Velo, geht in den Wald...
 * Wohl das Schwierigste: Bleibt verständnisvoll. Die Situation ist neu, auch für die Erwachsenen. Vielleicht betreuen euch halt ausnahmsweise Nachbarn oder Personen, die noch keine grosse Rolle gespielt haben. Vielleicht sind eure Eltern gereizt, weil sie gleichzeitig zu Hause arbeiten müssen, aber auch mit euch Zeit verbringen sollen. Diese Doppelbelastung kann auch Erwachsene an ihre Grenzen treiben. Ihr als Kinder? Bleibt locker, bleibt geduldig - das hilft auch euren Eltern.
 
-## Und wie weiter?
+### Und wie weiter?
 
 Es ist für die ganze Schweiz, ja für die ganze Welt, ein Ausnahmezustand. Vielleicht ist der Spuk nach den Frühlingsferien schon wieder ein wenig vorbei, vielleicht wird es noch extremer. Uns bleibt nicht viel mehr, als ruhig und locker zu bleiben, dem Bundesrat zu vertrauen und unsere Pflicht zu tun: Hände waschen, Abstand halten, häufiger zu Hause und in der Natur bleiben, abwarten und hoffen. Angst, Panik und Wut sind da keine Hilfe.
 

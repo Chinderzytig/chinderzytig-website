@@ -21,11 +21,11 @@ _Die Kurden sind mit etwa 35 Millionen Menschen das weltweit grösste Volk, das 
 
 Nach der Unabhängigkeit des Landes 1946 gerieten die Kurden in Syrien zunehmend unter den Druck der arabischen Bevölkerung. Die Kurden wurden als Sündenböcke dargestellt und für verschiedene Probleme im Land verantwortlich gemacht, auch wenn sie gar nichts damit zu tun hatten. Ab 1965 wurden sie zusätzlich unterdrückt, als die herrschende Baath-Partei die Kurden, die in Grenznähe lebten, verdrängten, damit arabische Syrer dort leben konnten. Das Ziel war, dass alle Araber (also alle, die arabisch sprechen und auf arabischem Boden leben) vereint werden und Seite an Seite leben – auch wenn sie Landesgrenzen trennen. Für die Kurden gab es aber in dieser sogenannten «Politik des Arabischen Gürtels» keinen Platz.
 
-## Der syrische Bürgerkrieg beginnt
+### Der syrische Bürgerkrieg beginnt
 
 2011 begannen in Syrien grosse Unruhen, als sich syrische Bürger gegen den Präsidenten Baschar al-Assad stellten. In einem älteren [Artikel](https://www.chinderzytig.ch/unabhaengigkeitstag-syrien) haben wir bereits darüber berichtet. Die Lage eskalierte schnell und es kam zu einem blutigen Bürgerkrieg zwischen Assad und seinen Gegnern. Da der Präsident und die arabische syrische Bevölkerung damit beschäftigt waren, sich zu bekämpfen, achteten sie nicht mehr so stark auf die syrischen Kurden, die sich möglichst aus dem Bürgerkrieg heraus hielten und sich bewusst auf keine Seite schlugen.
 
-## Rojava
+### Rojava
 
 Im Chaos des Bürgerkriegs gelang es den syrischen Kurden im Sommer 2012 das von ihnen kontrollierte Gebiet «Rojava» im Nordosten von Syrien zu etablieren. Präsident Assad,die syrische Armee und die Polizei hatten sich aus den mehrheitlich kurdischen Grenzgebieten zurückgezogen, um sich auf den Kampf gegen die Gegner zu konzentrieren. Die Kontrolle über Rojava wurde daher dem «Militär» der syrischen Kurden übergeben.
 

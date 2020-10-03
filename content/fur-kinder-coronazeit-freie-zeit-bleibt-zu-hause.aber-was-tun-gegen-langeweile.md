@@ -17,7 +17,7 @@ title = "Für Kinder: Coronazeit = freie Zeit? Bleibt zu Hause. Aber was tun geg
 +++
 _Durch das neuartige Coronavirus gibt es viele Einschränkungen: Die Schulen sind geschlossen, viele Läden und Dienstleistungen sind gestoppt und Gruppen grösser als 5 sind verboten. Wichtig: Wir sollen, ja, wir müssen zu Hause bleiben, damit wir das Virus nicht weitergeben. Dadurch sind wir viel Zuhause und hier wird es schnell langweilig. Um diese Zeit zu überbrücken, hier ein paar Tipps und Anregungen: Von Kind zu Kind! Auch für Erwachsene._
 
-## Was man schon lange hätte machen wollen...
+### Was man schon lange hätte machen wollen...
 
 ​Jeder kennt sie; die Sachen, die man einmal anfängt, aber nie fertig bringt, weil einfach die Zeit fehlt. Doch jetzt hast du die Zeit dafür.
 
@@ -25,7 +25,7 @@ Da ist zum Beispiel das angefangene **Buch** das herum liegt und man fertig lese
 
 Manchmal hat man auch **Spiele wie Monopoly** die man nie spielt weil niemand mitspielt, weil sie so lange dauern. Jetzt wirst du alle dafür motivieren können!
 
-## Wichtig: bei allen Dingen immer Abstand halten!
+### Wichtig: bei allen Dingen immer Abstand halten!
 
 Natürlich gibt es auch viele neue Sachen zum ausprobieren: Man kann so ein **neues Hobby** finden, wie Jonglieren, wofür es viele hilfreiche Inhalte im Web gibt oder Basteln indem man seine Wohnung dekorativ aufwerten kann. Für **Geniesser** gibt es im Internet viele neue und **köstliche Rezepte**, da ist für jeden was dabei.
 
@@ -35,7 +35,7 @@ Oder vielleicht haben deine Eltern ein **Instrument**, dass du lernen kannst. Ab
 
 Wer ein **Tierfreund** ist und ein Haustier hat kann z.B ein Labyrinth für seine Maus oder ein kleines Häuschen für sein Kaninchen machen, aber achte darauf, dass die Vierbeiner die gebrauchten Materialen vertragen.
 
-## Phantasie ist erlaubt!
+### Phantasie ist erlaubt!
 
 Also, du siehst, es gibt viele Sachen die du machen kannst. Probiere also einfach aus, was dir gefällt. **Um die Krise zu überstehen, achte auf deine Hygiene und halte Abstand.** So bleiben wir gesund. Auch diese Krise geht vorbei! Und du kannst wieder deine Freunde treffen oder zu deinem Opa oder deiner Oma gehen. Wir schaffen das alle miteinander.​
 

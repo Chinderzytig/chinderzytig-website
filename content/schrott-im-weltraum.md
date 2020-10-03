@@ -25,13 +25,13 @@ Viele alte Satelliten sind inzwischen kaputt gegangen oder werden nicht mehr geb
 
 {{< image img="Why_space_debris_mitigation_is_needed_ESA289519_nenus1.gif" desc="ia Wikimedia Commons" photographer="European Space Agency" src="https://commons.wikimedia.org/wiki/File:Why_space_debris_mitigation_is_needed_ESA289519.gif" cc_licence="CC BY-SA 3.0 IGO" cc_src="https://creativecommons.org/licenses/by-sa/3.0/igo/deed.de" >}}
 
-## Abfallgürtel um die Erde
+### Abfallgürtel um die Erde
 
 In den letzten 60 Jahren haben sich auf diese Weise etwa 6‘500 Tonnen Schrott im Weltall angesammelt. Weil es keinen Luftwiderstand gibt, der die Trümmer bremst, fliegen sie mit Geschwindigkeiten von über 20‘000 Kilometer pro Stunde um die Erde herum. Das ist schneller als eine Pistolenkugel.
 
 Der Schrott ist eine grosse Gefahr für die Astronautinnen und Astronauten. Immer wieder treffen Trümmerteile die Raumstation ISS, die ebenfalls um die Erde kreist. Die Raumstation muss regelmässig repariert werden und ihren Kurs ändern, um grösseren Brocken auszuweichen. Durch den vielen Schrott wird auch der Start von Raketen immer schwieriger. Inzwischen ist der Müll zu einem ernsthaften Problem geworden. Wissenschaftler überlegen bereits, wie man ihn einfangen und entsorgen könnte.
 
-## Stürzt alles auf die Erde?
+### Stürzt alles auf die Erde?
 
 Für uns auf der Erde ist der Schrott zum Glück nicht gefährlich. Wenn er zu nahe an die Atmosphäre kommt, verglüht er meistens. Nur ganz wenige Stücke schaffen es auf die Erde. Es ist deshalb immer noch wahrscheinlicher, von einem Blitz getroffen zu werden als von einem ausgedienten Satelliten.
 

@@ -19,13 +19,13 @@ _Spielt es eine Rolle, in wen man sich verliebt? Ist es wichtig, ob eine Frau ei
 
 Curdin Orlik ist ein Topsportler, ein Schwinger. 27 Jahre alt, bekannt, beliebt. Ein eindrücklicher Sportler in einer traditionellen und kraftbetonten Sportart. Schwingen gilt als sehr männlich und die Schwingern nennt man auch gerne «die Bösen». Traditionen sind wichtig, Rollenbilder ebenfalls. Plötzlich ergreift ein junger Mann das Wort, sagt, dass er Männer liebe – und die Zeitungen sind voll davon. Warum?
 
-## Für viele ist immer noch normal: Mann liebt Frau. Fertig.
+### Für viele ist immer noch normal: Mann liebt Frau. Fertig.
 
 {{< fremdwort id="Toleranz" wort="Toleranz" >}} ist wichtig. Viele Menschen behaupten von sich, tolerant zu sein und andere zu respektieren, so wie sie sind. Solange alles «normal» ist, so wie es eben zu sein hat. Nun ist ein Profisportler, ein Schwinger, offiziell schwul. Einer der ersten Sportler, der offen dazu steht. Die Zeitungen füllten Artikel, das TV übertrug Interviews. Es scheint eine wichtige Nachricht zu sein.
 
 {{< definition id="Toleranz" wort="Toleranz" def="Akzeptanz, Respekt, Toleranz. Das sind ähnliche Wörter. Wenn man jemanden toleriert, oder eine Handlung toleriert, dann duldet man sie. Man findet sie vielleicht nicht toll und möchte sie auch nicht selber machen, aber man akzeptiert und duldet die Handlung. Beispiel: Man toleriert, dass Kinder auf dem Spielplatz übermässig laut sind, auch wenn man den Lärm vielleicht nicht so gut erträgt. Die Kinder haben auf dem Spielplatz aber Vorrang." >}}
 
-## Warum {{< fremdwort id="outet" wort="outet" >}} sich Curdin Orlik?
+### Warum {{< fremdwort id="outet" wort="outet" >}} sich Curdin Orlik?
 
 {{< definition id="outet" wort="Outing" def="Englisch für 'nach aussen gehend'. Wenn sich jemand outet, dann geht er mit einer Informatione an die Öffentlichkeit, die vielleicht nicht jederman mag. Outing benützt man oft beim Thema Homosexualität. Wenn sich jemand als schwul outet, dann bekennt er sich zu seiner Neigung und macht das öffentlich." >}}
 
@@ -33,7 +33,7 @@ Curdin Orlik sagte: «Ich will frei sein… Viel zu lange habe ich verdrängt, w
 
 {{< image img="curdin-orlik_hjpzyl.jpg" desc="Curdin Orlik" src="https://www.curdinorlik.ch/bilder" photographer="curdinorlik.ch" >}}
 
-## Wir sind im 2020
+### Wir sind im 2020
 
 Glücklicherweise schlägt das Thema keine grossen Wellen im Internet. Den meisten Menschen scheint es egal zu sein, wer in wen verliebt sind. Andererseits werden aktuell häufig Homosexuelle aus dem Nichts verprügelt, einfach, weil sie schwul sind. Deshalb ist es für viele Menschen immer noch eine grosse Hürde, sich als homosexuell zu bekennen, aus Angst vor Reaktionen.
 
@@ -51,6 +51,6 @@ Wie stehst du zu diesem Thema? Bist du dem Thema in deinem Umfeld bereits begegn
 
 [https://www.watson.ch/sport/schwingen/524829398-curdin-orlik-und-sein-coming-out-na-und](https://www.watson.ch/sport/schwingen/524829398-curdin-orlik-und-sein-coming-out-na-und "https://www.watson.ch/sport/schwingen/524829398-curdin-orlik-und-sein-coming-out-na-und")
 
-## _Abstimmung in der Schweiz_
+### _Abstimmung in der Schweiz_
 
 _Eben erst wurde in der Schweiz darüber abgestimmt, ob es strafbar sein soll, wenn man Menschen wegen deren Liebe beleidigt. Darf jeder Mensch frei entscheiden, wen er liebt? Und darf man sich dazu äussern? (_[_www.jugendzytig.ch/diskriminierung_](http://www.jugendzytig.ch/diskriminierung)_) Die Schweiz hat entschieden: man darf keine Menschen beleidigen, weil sie zum Beispiel schwul sind._

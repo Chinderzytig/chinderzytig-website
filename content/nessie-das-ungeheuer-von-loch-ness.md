@@ -17,7 +17,7 @@ slug = "sagenhafte-tiere-teil-2-nessie"
 title = "Nessie: Das Ungeheuer von Loch Ness"
 
 +++
-## **Serie: Sagenhafte Tiere**
+### **Serie: Sagenhafte Tiere**
 
 **Die Chinderzytig berichtet in einer Artikel-Serie über bekannte Tiere, die es wahrscheinlich gar nicht gibt. Der** [**Yeti**](https://www.chinderzytig.ch/sagenhaftetiere-teil1-yeti "Yeti: Der Schneemensch aus dem Himalaya") **machte den Anfang. Nach dem Artikel zu Nessie folgt Bigfoot.**
 
@@ -29,17 +29,17 @@ Geschichten über das schottische Ungeheuer gibt es seit Hunderten von Jahren. F
 
 {{< image img="loch-ness-monster-2_rfoguu.jpg" desc="Christian Spurling - Loch Ness Monster (1934)" photographer="luvi" src="https://www.flickr.com/photos/20638954@N00/1266380969" cc_licence="CC BY-NC-ND 2.0" cc_src="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.de" >}}
 
-## Ein Dinosaurier?
+### Ein Dinosaurier?
 
 Manche Leute glauben, dass Nessie ein [Plesiosaurier](https://de.wikipedia.org/wiki/Plesiosaurier) sein könnte: ein im Wasser lebender Dinosaurier, der bis heute überlebt habe. Diese Theorie ist aber unwahrscheinlich. Es müsste viele dieser Tiere im See geben, damit sie bis heute hätten überleben können. Und die Dinosaurier müssten zum Luft holen regelmässig auftauchen. Das würde man bemerken.
 
 So gut wie alle Wissenschaftler und Experten sind überzeugt: Nessie existiert nicht. Das Ungeheuer ist nur eine Legende. Für die Region rund um den See ist Nessie und der Mythos dennoch sehr wichtig – nämlich als Einnahmequelle: Jahr für Jahr lockt Nessie Tausende Touristinnen und Touristen in die Gegend. Für die Besucherinnen und Besucher gibt es ein Nessie-Museum, Nessie-Bootsfahrten und zahlreiche Nessie-Souvenirs.
 
-## Unter Naturschutz
+### Unter Naturschutz
 
 So hat sich im Laufe der Jahrhunderte das Bild der Sagengestalt gewandelt. Aus dem schrecklichen Monster wurde eine sympathische Werbefigur. Das zeigt auch der freundlich klingende Name «Nessie». Seit 1934 steht das Ungeheuer sogar unter Naturschutz. Falls es doch einmal auftaucht, hat es also nichts zu befürchten.
 
-## Weitere Informationen
+### Weitere Informationen
 
 * Nessie im Kinderlexikon Klexikon: [https://klexikon.zum.de/wiki/Ungeheuer_von_Loch_Ness](https://klexikon.zum.de/wiki/Ungeheuer_von_Loch_Ness "https://klexikon.zum.de/wiki/Ungeheuer_von_Loch_Ness")
 * Ist Nessie ein Aal? Artikel und Radio-Beitrag über eine neue Theorie: [https://kinder.wdr.de/radio/kiraka/nachrichten/klicker/loch-ness100.html](https://kinder.wdr.de/radio/kiraka/nachrichten/klicker/loch-ness100.html "https://kinder.wdr.de/radio/kiraka/nachrichten/klicker/loch-ness100.html")

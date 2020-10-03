@@ -1,5 +1,12 @@
 .arbeitsmaterial {
 
+	&__heading {
+		font-size: $font-bigger;
+		font-family: $font-patrick, $font-fallback;
+		color: $chinder-orange;
+		margin-bottom: 1.5rem;
+	}
+
 	&__link {
 		display: flex;
 		flex-direction: column;
