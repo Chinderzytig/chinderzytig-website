@@ -23,7 +23,7 @@ Ein Jahr hat 52 Sonntage. Doch nicht jeder Sonntag ist gleich wichtig. Der Sonnt
 
 Die Initiative will die Einwanderung «begrenzen». Sie will den Vertrag über die Personenfreizügigkeit kündigen. Das ist ein Vertrag zwischen der Schweiz und der Europäischen Union (EU). Im Vertrag steht, wer alles in die Schweiz einwandern darf.
 
-## Eine ewige Diskussion
+### Eine ewige Diskussion
 
 Für die Schweizer Volkspartei SVP sind das zu viele Leute. Die Partei möchte den Vertrag kündigen und neue, strengere Gesetze einführen. Sie sagt: Die Leute aus der EU nehmen den Einheimischen die Arbeitsplätze weg.
 
@@ -33,7 +33,7 @@ Die Diskussion über die Einwanderung gibt es schon länger. Im Jahr 2014 und 20
 
 {{< image img="fdw-personenfreizu%CC%88gigkeit-2_lpka0m.jpg" desc="Voting during Coronavirus pandemic" photographer="Jernej Furman" src="https://www.flickr.com/photos/91261194@N06/50096823886" cc_licence="CC BY 2.0" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
 
-## Angst ändert unser Verhalten
+### Angst ändert unser Verhalten
 
 Doch mit Corona ändert sich das vielleicht. Es ist eine besondere Stimmung im Land. Die Wirtschaft läuft nicht mehr so gut, die Arbeitslosigkeit steigt. Viele Leute haben Angst vor der Zukunft. Das führt vielleicht dazu, dass sie anders abstimmen.
 
@@ -41,11 +41,11 @@ Wenn Angst besteht, verhält man sich anders. Das hast du bestimmt auch schon be
 
 Genau das passiert auch bei Abstimmungen und Wahlen. Wer Angst hat, stimmt anders, als wer sich freut und positiv in die Zukunft schaut. Länder ziehen sich in Krisensituationen häufig zurück. Sie schliessen die Grenzen und brechen den Kontakt mit anderen Ländern ab.
 
-## Beginnt mit Corona eine neue Zeit?
+### Beginnt mit Corona eine neue Zeit?
 
 Corona ist so eine Krise. Viele Leute haben Angst vor der Zukunft bekommen. Sie fürchten, ihre Arbeit oder ihren Wohlstand zu verlieren. Die Stimmung ist anders als vor einem halben Jahr. Und in dieser negativen Stimmung kommt nun die wichtige Abstimmung über den Vertrag mit der EU. Vielleicht beeinflusst das Virus also, wie wir in Zukunft mit anderen Ländern zusammenarbeiten und wie offen wir gegenüber anderen Ländern sind.
 
-## Nun bist du an der Reihe
+### Nun bist du an der Reihe
 
 Wie verhältst du dich, wenn du vor etwas Angst hat? Ist dieses Verhalten gut oder schlecht in dieser Situation? Ist Angst ein guter Ratgeber?
 

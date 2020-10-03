@@ -25,7 +25,7 @@ Es passierte am Samstag dem 4. Juli 2020: Die 55-jährige Tierpflegerin, welche 
 
 Seit Jahren werden Zoos immer wieder kritisiert. Tiere gehören nicht in Gefangenschaft, sagen Tierschützer. Für sie gehört Irina in ihre gewohnte Umgebung. Gibt es jetzt nach dem Unfall keine Tiger mehr im Zoo?
 
-## Was haben Raubtiere im Zoo zu suchen?
+### Was haben Raubtiere im Zoo zu suchen?
 
 Raubtiere faszinieren. Können wir sie im Zoo und aus der Nähe sehen, ist das spannend. Spannend auch, eben weil sie gefährlich sind. Bei Tieren in Gefangenschaft kommt es immer wieder zu Unfällen:
 
@@ -36,7 +36,7 @@ Zwischen Pflegepersonen und wilden Tieren im Zoo kommt es oft zu Unfällen. Was 
 
 {{< image img="fdw-tiergefangenschaft-2_sz6mmt.jpg" desc="Irina the tiger exploring her enclosure at the Zurich zoo" photographer="Tambako The Jaguar" src="https://www.flickr.com/photos/8070463@N03/50030446186" cc_licence="CC BY-ND 2.0" cc_src="https://creativecommons.org/licenses/by-nd/2.0/deed.de" >}}
 
-## Wo liegt die Schuld?
+### Wo liegt die Schuld?
 
 ​Seit dem 5. Juli 2020, einen Tag nach dem tödlichen Unfall, ist klar: Irina wird nicht eingeschläfert. Sie kann im Zoo bleiben. Armurtiger – auch bekannt als sibirischer Tiger, zu denen auch Irina gehört – waren lange vom Aussterben bedroht. 1940 gab es praktisch keine mehr. Zoos wie der Zürcher Zoo versuchen durch die Aufnahme von solchen Tigern das Aussterben zu stoppen.
 

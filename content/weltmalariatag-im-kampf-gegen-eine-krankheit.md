@@ -21,11 +21,11 @@ _Jedes Jahr am 25. April will die {{< fremdwort id="who" wort="Weltgesundheitsor
 
 Die Krankheit Malaria wird von einer Mücke übertragen, der sogenannten Anopheles-Mücke. Der Name der Mücke kommt vom griechischen und bedeutet “schädlich”. Sie kommt in feuchten und warmen Gebieten vor (zum Beispiel in der Sahara). Die Krankheit Malaria können jedoch nur weibliche Mücken übertragen.
 
-## Auswirkungen eines einzelnen Mückenstichs
-  
+### Auswirkungen eines einzelnen Mückenstichs
+
 Einwohner von subtropischen und tropischen Gebieten in Afrika und auch Asien erkranken immer wieder an Malaria. Dabei reicht ein Stich der weiblichen Anopheles-Mücke. Die Auswirkung der Krankheit ist vor allem hohes Fieber. Die erkrankte Person hat immer wieder Fieber und dann wieder nicht – sogenannte Fieberschübe. Wird die Person nicht behandelt, stirbt sie daran. Für die Behandlung werden Medikamente verwendet. Diese sind sehr teuer und in armen Regionen nicht vorhanden. Deshalb sterben jährlich viele Menschen an der Krankheit. Oft trifft es die Kinder. Wenn wir als Touristen in die Malariaregionen reisen, sollten wir lange Kleidung tragen. Zudem helfen Netze und Mückenschutzmittel. Machen wir Ferien in einem Malariagebiet, sollten wir auf jeden Fall vorher den Arzt um Rat fragen.
 
-## Mit Malaria gegen Corona – oder umgekehrt?
+### Mit Malaria gegen Corona – oder umgekehrt?
 
 Momentan lesen wir in den Medien kaum über die Krankheit Malaria. Eine andere Krankheit macht uns mehr Sorgen – der Coronavirus. Die beiden Krankheiten haben einen unterschiedlichen Ursprung: Die eine wird durch eine Mücke übertragen, bei der anderen – dem Coronavirus – ist der Ursprung unklar. Malaria wird durch Blut weitergegeben, Corona durch Tröpfchen (z.B. Speichel) von den Menschen. Die eine Krankheit führt zu Fieberschüben, die andere zu starken Atemnöten. Und doch sind Zusammenhänge vorhanden. Kürzlich haben Zeitungen über ein Malaria-Medikament gegen den Coronavirus berichtet. Das Medikament beinhaltet “Chloroquin”. Dies ist eine Verbindung aus mehreren chemischen Elementen. Vor vielen Jahren zeigte sich, dass der Stoff gegen Viruskrankheiten wirkt. Damals, im Jahr 2003, ging es um die SARS-Epidemie. Das SARS-Virus gehört zur Gruppe der Coronaviren. Bis heute ist jedoch unklar, ob das Medikament wirklich gegen das Coronavirus wirkt.
 

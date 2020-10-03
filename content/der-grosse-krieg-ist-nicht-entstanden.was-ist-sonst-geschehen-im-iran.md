@@ -23,17 +23,17 @@ Einige Tage nach der Beerdigung des legendären Generals im Januar dieses Jahres
 
 {{< image img="Sardar-Qasem-Soleimani-04_zvjo9w.jpg" desc="Via Wikimedia Commons" photographer="sayyed shahab-o- din vajedi" src="![](https://commons.wikimedia.org/wiki/File:Sardar_Qasem_Soleimani-04.jpg)" cc_licence="CC BY 4.0" cc_src="https://creativecommons.org/licenses/by/4.0/deed.de" >}}
 
-## Unglück​
+### Unglück​
 
 Leider gab es zu diesem Zeitpunkt noch einen anderen traurigen Zwischenfall. Ein ukrainischer Passagierflug wurde in der Nähe der iranischen Hauptstadt Teheran versehentlich abgeschossen. Alle 176 Menschen an Bord kamen beim Abschuss ums Leben. Der Passagierflug wurde mit einem militärischen Angriff der USA verwechselt. Einige Tage nach dem Unglück entschuldigte sich der iranische Präsident Hassan Ruhani in einem Telefongespräch mit seinem ukrainischen Kollegen Wolodymyr Selenskyj offiziell bei der Ukraine.
 
-## Kampf auf eine andere Art
+### Kampf auf eine andere Art
 
 Die Reibereien zwischen der USA und dem Iran gehen weiter. Der US-Präsident [Donald Trump](https://www.chinderzytig.ch/donaldtrump) setzt momentan mehr auf die Schwächung der iranischen Wirtschaft als auf militärische Aktionen. Seine {{< fremdwort id="sanktionen" wort="Sanktionen" >}} verbieten es Firmen aus den USA, Geschäfte mit iranischen Firmen zu machen. Die USA will sogar Unternehmen aus anderen Ländern bestrafen, wenn sie Geschäfte im Iran machen. Gerade in der Corona-Krise wären aber die Menschen auf Geschäfte mit anderen Ländern angewiesen.
 
 {{< definition id="sanktionen" wort="Sanktionen" def="Das Wort kommt aus dem Lateinischen. Eine Bedeutung ist 'Bestätigung'. Meistens wird das Wort dafür benutzt, wenn von Massnahmen die Rede ist. Sanktionen werden verhängt als Massnahmen für ein Verhalten, dass nicht geduldet wird. Es ist eine Möglichkeit der Bestrafung." >}}
 
-## Corona-Krise in Iran
+### Corona-Krise in Iran
 
 Seit Januar dieses Jahres hat der Iran auch mit dem Corona-Virus zu kämpfen. Neben vielen Ansteckungen in der Bevölkerung wurde sogar der Vizegesundheitsminister positiv auf das Virus getestet. Die Sanktionen der USA machen die Situation nicht einfacher. Denn so wie die Schweiz, ist auch der Iran auf Medikamente und Schutzmasken aus dem Ausland angewiesen. Die iranische Bevölkerung bleibt dennoch kreativ und stellt sogar Schutzmasken aus Papier her. Die Pandemie zeigt auch, dass die Staaten momentan andere Probleme haben als kriegerische Auseinandersetzungen.
 

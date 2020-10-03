@@ -21,11 +21,11 @@ Naja schauen wir zuerst auf die Geschichte: Das Elektroauto wurde von Gustav Tro
 
 {{< image img="elektroautos-2_abgucl.jpg" desc="Interior of a Tesla electric car" src="https://unsplash.com/@ort" photographer="Bram Van Oost" >}}
 
-## Sind Elektroautos perfekte Autos?
+### Sind Elektroautos perfekte Autos?
 
 Die Antwort ist Jein. Zwar stossen sie anders als Benzin- oder Dieselautos keine Abgase aus, die die Umwelt belasten und machen (fast) keinen Lärm. Auch gibt es jetzt schon ein grosses, dichtes Netz aus Auflade-Stationen. Trotzdem entsteht, wie bei anderen Autos auch, durch die Produktion CO2, also bei der Herstellung des Autos und des Transport von der Fabrik in die ganze Welt. Dazu stösst ein Elektroauto in der Produktion mehr CO2 aus als Benzin- oder Dieselautos.
 
-## Die Schattenseite
+### Die Schattenseite
 
 Doch der wohl schlimmste Teil des Elektroautos sind die Batterien, die die Elektrizität speichern. Denn für die Produktion der Elektroautos braucht man Lithium, ein fossiles Element, das in Salzseen vorkommt. Fossil heisst, dass es das Material nur begrenzt gibt und einmal ganz abgebaut sein wird. Um Lithium abzubauen werden ganze Landstriche zu Salzwüsten so z.B in Argentinien wo ganze indigene Völker wegen Wassermangel umziehen müssen. Also ihr seht es ist keine einfache Antwort.
 

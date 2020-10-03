@@ -23,7 +23,7 @@ Bereits seit 1828 hilft das Schweizerische Rote Kreuz. Weltweit als äusserst wi
 
 {{< image img="rotes-kreuz-2_drxms9.jpg" desc="Red Cross box with supplies for prisoners of war used in WWII" src="https://unsplash.com/@soroushkarimi" photographer="Soroush Karimi" >}}
 
-## Der wegweisende Zweite Weltkrieg
+### Der wegweisende Zweite Weltkrieg
 
 Der Zweite Weltkrieg von 1939 - 1945 wurde wegweisend. Das Schweizerische Rote Kreuz wurde zunehmend eingekesselt von den Kriegsmächten. Die Schweiz war lange auf sich alleine gestellt. General Henri Guisan igelte die Schweiz erfolgreich ein. Das SRK verfolgte eine menschliche Strategie und entwickelte die SRK-Kinderhilfe. Diese nahm sich zum Ziel, kriegsgeschädigten Kindern zu helfen. Ein düsterer Fleck auf der weissen Weste: Jüdische Kinder wurden zu Beginn von der Hilfe ausgeschlossen.
 

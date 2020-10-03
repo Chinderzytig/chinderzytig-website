@@ -25,7 +25,7 @@ Man könnte meinen, jeder Mensch auf dieser Welt kann das, oder? Leider ist das 
 
 {{< image img="welt-alphabetisierungs-tag-2_ovqpmg.png" desc="2007/2008 World literacy rates - Via Wikimedia Commons" photographer="Sbw01f" src="![](https://commons.wikimedia.org/wiki/File:World_literacy_map_UNHD_2007_2008.png)" cc_licence="CC BY 3.0" cc_src="https://creativecommons.org/licenses/by/3.0/deed.de" >}}
 
-## Grosse Unterschiede
+### Grosse Unterschiede
 
 Wie man auf der Karte sieht, können in Nordamerika, Europa und Australien fast alle Menschen lesen und schreiben. Die Zahl liegt bei mehr als 97 Prozent. Auch in Südamerika ist die Zahl seit den letzten Jahren immer mehr gestiegen.
 
@@ -33,7 +33,7 @@ In Asien und vor allem in Afrika sieht das aber ganz anders aus. Mit schwarzer F
 
 In Europa konnten schon vor über 2000 Jahren viele Menschen lesen oder schreiben. Das war zur Zeit der Römer. Die Kaiser von dieser Zeit führten ein Schulsystem ein und eröffneten viele Bibliotheken. Als das Römische Reich zerfiel, gingen aber viele Schriften von damals verloren und Schulen wurden wieder geschlossen. Danach konnten nicht mehr so viele Leute das Lesen und Schreiben lernen. Es dauerte fast 800 Jahre, bis es wieder so viele waren wie bei den Römern.
 
-## Wichtig für unser Leben
+### Wichtig für unser Leben
 
 Am 8. September ist der Welttag der Alphabetisierung. An diesem Tag will die {{< fremdwort id="UNESCO" wort="UNESCO" >}} daran erinnern, wie wichtig es für unser Leben ist, dass wir lesen und schreiben können. Denn nur so, können die Menschen ganz selbständig sein.
 

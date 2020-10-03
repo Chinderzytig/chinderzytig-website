@@ -17,7 +17,7 @@ slug = "sagenhaftetiere-teil1-yeti"
 title = "Yeti: Der Schneemensch aus dem Himalaya"
 
 +++
-## Serie: Sagenhafte Tiere
+### Serie: Sagenhafte Tiere
 
 **Die Chinderzytig berichtet in einer Artikel-Serie über bekannte Tiere, die es wahrscheinlich gar nicht gibt. Der Yeti macht den Anfang. Es folgen Artikel über** [**Nessie**](https://www.chinderzytig.ch/sagenhafte-tiere-teil-2-nessie) **und den** [**Bigfoot**](https://www.chinderzytig.ch/sagenhafte-tiere-teil-3-bigfoot)**.**
 
@@ -27,7 +27,7 @@ Hast du auch schon vom Yeti gehört? Wenn nicht, dann hast du ihn bestimmt schon
 
 Seinen Ursprung hat der Schneemensch in alten asiatischen Legenden. Der erste Yeti ist angeblich aus einer Kreuzung zwischen einem Affen und einem Menschen entstanden. Ein Affe habe eine tibetische Frau entführt und mit ihr ein Kind gezeugt. Die Einheimischen in Tibet fürchteten sich viele Jahrhunderte lang vor dem weissbehaarten Wesen.
 
-## Im Yeti-Fieber
+### Im Yeti-Fieber
 
 Vor fast genau 100 Jahren kamen Berichte über den Yeti nach Europa. Im Jahr 1921 erforschte eine britische Expedition das Tibet und hörte von dem Tier. Die Forscher vermuteten zunächst, dass in den Bergen eine neue Tierart lebt.
 
@@ -35,11 +35,11 @@ Daraufhin brach ein regelrechtes Yeti-Fieber aus. Viele Bergsteiger und Abenteur
 
 {{< image img="yeti-2_dzjczf.jpg" desc="Aerial view of the Himalayas" photographer="Jeremy Zero" src="https://unsplash.com/@jeremy0" >}}
 
-## 12 Jahre vergebliche Suche
+### 12 Jahre vergebliche Suche
 
 Die bekannteste Yeti-Sichtung stammt von Reinhold Messner. Der berühmte österreichische Bergsteiger behauptete 1986, dem Wesen begegnet zu sein, auf einer Tour in Tibet. Der Schneemensch sei plötzlich aus einem Gebüsch hervorgetreten. Messner beschreibt ihn als sehr gross und behaart, auf zwei Beinen stehend und mit langen Armen. Der Bergsteiger und der Yeti hätten sich einige Sekunden lang gegenübergestanden. Dann sei der Schneemensch wieder im Gebüsch verschwunden. Reinhold Messner versuchte danach noch 12 Jahre lang den Yeti erneut aufzuspüren, jedoch ohne Erfolg.
 
-## Weitere Informationen
+### Weitere Informationen
 
 * Yeti im Kinderlexikon Klexikon: [https://klexikon.zum.de/wiki/Yeti](https://klexikon.zum.de/wiki/Yeti "https://klexikon.zum.de/wiki/Yeti")
 * Artikel über den Yeti im Beobachter: [https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom](https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom "https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom")

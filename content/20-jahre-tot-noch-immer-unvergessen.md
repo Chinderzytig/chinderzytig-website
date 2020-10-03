@@ -21,7 +21,7 @@ _Am 24. August 2000 starb ein Superstar des Kampfsports mit erst 35 Jahren: Andy
 
 Eine Legende ist jemand, den die Menschen bewundern, zu dem man hochschauen kann, der über einem zu stehen scheint. Legenden der heutigen Zeit sind zum Beispiel der frühere US-Präsident John F. Kennedy, Nelson Mandela, Prinzessin Diana oder auch der Sänger Elvis Presley. Alle verstorben. Es gibt auch lebende Legenden, beispielsweise Roger Federer. Alle zeichnen sich durch etwas Perfektes in ihrem Tun aus. So auch Andy Hug. In der Schweiz füllte er das ganze Hallenstadion, in Japan war er ein Megastar. Doch weshalb? War es, weil er als eher kleiner Kampfsportler (183cm gross) dennoch alles gewann und einen unglaublichen Kampfgeist hatte, was besonders bei der japanischen Fanmenge für Furore sorgte? War es sein höflicher, liebenswürdiger Charakter? Oder doch einfach "nur" seine sportlichen Erfolge? Vermutlich von allem etwas. Er war in den 90er-Jahren ein weltbekannter Kampfsportler und ein Phänomen.
 
-## Der Samurai mit den blauen Augen
+### Der Samurai mit den blauen Augen
 
 Andy Hug lebte ein filmreifes Leben, weshalb man ihn gut als Legende bezeichnen kann. Er wuchs in ärmlichen Verhältnissen bei seiner Grossmutter auf, erkämpfte sich schulisch und beruflich alles, trainierte sich dazu zum Kampfsportler hoch, feierte Erfolge in der Karate-Nati und verliess die Schweiz - um über den Umweg Japan die Heimat zu erobern. In Japan eroberte er als "Samurai mit den blauen Augen" die Herzen der zehntausenden von Kampfsportfans.
 
@@ -31,15 +31,15 @@ Auch sein Privatleben nahm einen Wendepunkt: 1993 heiratete er seine Frau Ilona 
 
 {{< image img="fdw-unsersamurai-2_sglbfv.jpg" desc="Via Wikimedia Commons" photographer="Ripandyhug" src="![](https://commons.wikimedia.org/wiki/File:Andy_hug.jpg)" cc_licence="CC BY-SA 3.0" cc_src="https://creativecommons.org/licenses/by-sa/3.0/deed.de" >}}
 
-## A Star is born
+### A Star is born
 
 Die Erfolge, besonders jener als K1-Champion, machten ihn weltberühmt. Seine zurückhaltende, bescheidene Art verbanden viele Fans mit den Charakterzügen eines Kriegers; die besonders in Japan einen hohen Stellenwert geniessen. Auch die Schweiz wird von einer Begeisterungswelle erfasst und Andy Hug bestimmt das TV-Programm (seine Kämpfe zeigt das TV oft live) und füllt das Hallenstadion. In Japan ist er ein Übermensch: Sein Leben, das sich wie aus einem Filmdrehbuch anhört, wird als Manga gedruckt und millionenfach verkauft. Er wird eine erfolgreiche Werbefigur und gilt bei Japans Jugendlichen als der berühmteste Ausländer überhaupt. Im Jahr 2000 ist er des Kämpfens müde und entscheidet sich, nach Hollywood zu gehen. Er will nun Filmstar sein, mit 35 Jahren. SeinDrehbuch hatte andere Pläne für ihn.
 
-## Den letzten Kampf verliert jeder
+### Den letzten Kampf verliert jeder
 
 Noch sieben Tage vor seinem Tod, kurz nachdem er selber von seiner Diagnose der akuten Leukämie erfahren hatte, schrieb er seinen Fans, dass dies der schwerste Gegner in seinem Leben sei, er dennoch siegen werde. Sein Optimismus war gross. Sechs Tage nach dieser Mitteilung fiel er ins Koma, am siebten Tag danach verstarb er mit 35 Jahren. Seine Beerdigung wurde ebenfalls live im TV übertragen, viele Prominente und auch Bundesräte nahmen teil. Auf dem Höhepunkt mit vielen Zielen im Kopf und der Zukunft noch vor sich, verstarb der Samurai mit den blauen Augen - und wurde endgültig zur Legende.
 
-## Nun bist du an der Reihe
+### Nun bist du an der Reihe
 
 Was braucht es für dich, dass jemand eine Legende ist? Wer ist "deine" Legende? Ist es korrekt, dass ein Kampfsportler zur Legende werden kann?
 

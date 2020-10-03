@@ -28,7 +28,7 @@ auf Schweizerdeutsch, mit Fieber. Mühsam! Wie immer bei solchen Krankheiten
 besteht dabei die grösste Gefahr für die ältesten, jüngsten und schwächsten
 Menschen.
 
-## Noch keine Angst!
+### Noch keine Angst!
 
 Die Krankheit ist nicht zwingend gefährlicher als frühere, weltweite
 Krankheitsausbrüche wie SARS oder MERS. Aber das Coronavirus ist sehr
@@ -37,7 +37,7 @@ oder Verstorbenen auch so hoch sind. Das Virus ist deutlich ansteckender als
 unsere normale Winter-Grippe. Impfungen gibt es leider noch keine. Gemäss
 Experten ist das frühestens in einem Jahr der Fall.
 
-## Und wir?
+### Und wir?
 
 In der Schweiz wurde bisher noch kein Corona-Fall entdeckt. Es gelten auch keine
 besonderen Massnahmen, wie Atemschutzmasken. Wir sollen uns schützen, wie gegen

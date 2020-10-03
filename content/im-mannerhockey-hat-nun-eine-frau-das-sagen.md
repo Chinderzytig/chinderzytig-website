@@ -19,11 +19,11 @@ _Der SCB, Schlittschuhclub Bern, hat während dem Corona-Lockdown dafür gesorgt
 
 Florence Schelling weiss, wie Eishockey geht. Als langjährige Nationaltorhüterin, die an Weltmeisterschaften und Olympischen Spielen Medaillen gewann, hat mehr Erfolge vorzuweisen, als viele der aktiven, männlichen Spieler. Dennoch wird sie als Frau sicher speziell beobachtet. Frauen haben, leider auch heute noch, einen schweren Stand in der Arbeitswelt. Sei es, weil die Löhne zwischen Mann und Frau ungleich verteilt werden oder weil Frauen kritischer beurteilt werden. Der Grund dafür liegt tief in der Geschichte der Menschheit verankert. Und es gibt aktive Gruppen, die das ändern wollen und sich für die Gleichstellung zwischen Mann und Frau stark einsetzen. Nach dem Prinzip: alle sind gleich!
 
-## ​Bringt Florence Schelling Steine ins Rollen?
+### ​Bringt Florence Schelling Steine ins Rollen?
 
 Es ist einzigartig im professionellen Bereich des Fussballs und des Eishockeys, dass eine Frau den Chefposten übernimmt. Dass sie dem Posten der Sportchefin gewachsen ist, verdankt sie nicht nur ihrer Erfahrung als Eishockeyspielerin, sicher auch ihrem Studium in Betriebswirtschaft. Es ist nun zu hoffen, dass Schelling Strukturen aufbricht und andere Vereine dazu verleitet, die Verantwortung ebenfalls in Frauenhände zu legen. Sei es im Sport oder in der Politik - zuoberst sind noch sehr oft ausschliesslich Männer. Obwohl mehr Frauen auf der Erde leben. Eishockey ist ein Männersport, Frauenligen finden in den Medien kaum Beachtung. Es ist lobenswert, dass der SCB der bekanntesten Eishockeyspielerin Vertrauen schenkt und ihr einen zentralen Posten anbietet - hoffentlich schützt er sie auch, falls es in eben diesen Medien oder im Internet Kritik hagelt.
 
-## Und im Fussball? ​
+### Und im Fussball? ​
 
 Der Fussball ist weltweit berühmter und beliebter als Eishockey, weshalb vielleicht deswegen bereits mehr Frauen in Erscheinung getreten sind. Profifussballerinnen kennt man vielleicht bereits die eine oder andere: Marta, Meghan Rapinoe oder die Schweizerin Alisha Lehmann. Diese Frauen können sich als aktive Sportlerinnen Gehör verschaffen, besonders auch in den Sozialen Medien wie Instagram, und man respektiert sie. Im viel besser bezahlten Fussball der Männer sind jedoch auch sie selten.
 

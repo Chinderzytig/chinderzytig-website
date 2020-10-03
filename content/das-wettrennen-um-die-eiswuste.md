@@ -29,7 +29,7 @@ Man vermutet, dass es in der Arktis bzw. im Meeresboden grosse Mengen an Erdöl 
 
 {{< image img="fdw-eiswueste-2_oiqc5n.jpg" desc="The U.S. Coast Guard Cutter Healy a 420 ft. icebreaker homeported in Seattle, Wash., breaks ice in support of scientific research in the Arctic Ocean" photographer="Coast Guard News" src="https://www.flickr.com/photos/23412076@N06/2869523258" cc_licence="CC BY 2.0" cc_src="https://creativecommons.org/licenses/by/2.0/deed.de" >}}
 
-## Die grossen Drei zeigen (wieder einmal) die Muskeln
+### Die grossen Drei zeigen (wieder einmal) die Muskeln
 
 Die Grossmächte USA, Russland und China schielen auf diese kostbaren Güter. Alle möchten das grösste Stück vom Kuchen abhaben. Die Länder rüsten auf. China und Russland besitzen bereits mehrere grosse Eisbrecher und bauen noch weitere. Eisbrecher sind Schiffe, die mit ihrem starken Bug das Eis durchbrechen können. Die USA ist im Rückstand. Das Land hat momentan nur einen Eisbrecher. Präsident Donald Trump hat aber bereits angekündigt, sechs neue zu bauen.
 
@@ -37,7 +37,7 @@ Die Arktis selbst sagt zu alldem nichts. Es gibt keine Einheimischen, die direkt
 
 Noch ist zwischen den drei Grossmächten kein richtiger Konflikt ausgebrochen. Es ist eher ein Muskelspiel. Jedes der Länder zeigt, dass es Interesse hat an der Arktis – und Möglichkeiten, dieses Interesse durchzusetzen. Zum Beispiel mit Kriegsschiffen und Eisbrechern. Das schafft eine angespannte Atmosphäre und die Anspannung wird in Zukunft wohl noch zunehmen.
 
-## Nun bist du an der Reihe
+### Nun bist du an der Reihe
 
 Wie wirkt der Fokus der Woche auf dich? Die Arktis ist eine Region, die niemandem gehört - und deshalb haben die mächtigen Länder das Gefühl, sie dürfen sich einfach bedienen. Findest du das in Ordnung?
 
