@@ -28,7 +28,7 @@ Denn viele Leute glauben daran, dass das rote Quecksilber existiert – und sind
 
 Das ruft auch Betrüger auf den Plan. Im Internet gibt es diverse Angebote für rotes Quecksilber. Diese Angebote sind natürlich Betrug. Die Verkäufer hoffen aber, dass Leute darauf hereinfallen und eine Vorauszahlung leistenz
 
-{{< image img="rotesquecksilber-2_plpjmx.jpg" desc="hehuneahueuauCinnabar on Dolomite" photographer="JJ Harrison (https://www.jjharrison.com.au/)" src="https://en.wikipedia.org/wiki/Red_mercury" cc_licence="Enter CC licence type here" cc_src="Enter CC licence link here" >}}
+{{< image img="rotesquecksilber-2_plpjmx.jpg" desc="Cinnabar on Dolomite - via Wikimedia Commons" photographer="JJ Harrison (https://www.jjharrison.com.au/)" src="https://en.wikipedia.org/wiki/Red_mercury" cc_licence="Enter CC licence type here" cc_src="Enter CC licence link here" >}}
 
 ### Elend in Afrika
 
