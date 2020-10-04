@@ -19,9 +19,7 @@ title = "Das kurdische Volk"
 +++
 _Die Kurden sind ein Volk, welches heute keinen eigenen Staat besitzt. Ihr Gebiet ist aufgeteilt auf die Türkei, Syrien, Iran und den Irak. Total sind das zirka 20 Millionen Menschen. Die meisten Kurden, zirka 13 Millionen leben in der Türkei. Es ist ein vielfältiges Volk._
 
-Der grösste Teil der Kurden gehört einer Untergruppe des {{< fremdwort id="islams" wort="Islams" >}} an. Es gibt aber auch Christen, Juden und Jesiden. Innerhalb der Kurden gibt es zwei offizielle Sprachen und viele verschiedene Dialekte.
-
-{{< definition id="islams" wort="Islam" def="Der Islam gehört zu den bekanntesten Weltreligionen. Wie beim Christentum glauben die Anhänger dieser Religion an nur einen Gott." >}}
+Der grösste Teil der Kurden gehört einer Untergruppe des Islams an. Es gibt aber auch Christen, Juden und Jesiden. Innerhalb der Kurden gibt es zwei offizielle Sprachen und viele verschiedene Dialekte.
 
 ### Die Unabhängigkeit der Kurden
 
