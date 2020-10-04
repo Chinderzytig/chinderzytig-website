@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-09-04T11:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1601725761/rotesquecksilber_sxzcxc.jpg"
 img_description = "An atom bomb detonating"
@@ -41,3 +40,7 @@ Der Amerikaner Michael P. Moore hat deshalb eine Kampagne gestartet, die vor dem
 Artikel über rotes Quecksilber auf einer Seite über Verschwörungstheorien: [https://verschwoerungstheorien.fandom.com/de/wiki/Red_Mercury](https://verschwoerungstheorien.fandom.com/de/wiki/Red_Mercury "Red Mercury")
 
 Webseite der «Kampagne gegen rotes Quecksilber» (englisch): [https://redmercurycampaign.wordpress.com/](https://redmercurycampaign.wordpress.com/ "https://redmercurycampaign.wordpress.com/")
+
+{{< teiler >}}
+
+{{< container-center >}} {{< arbeitsmaterial file="rotesquecksilber_jrs9u3" >}}{{< /container-center >}}
