@@ -18,3 +18,24 @@ slug = "rotesquecksilber"
 title = "Rotes Quecksilber – ein gefährliches Gerücht"
 
 +++
+_Mit rotem Quecksilber könne man auf einfache Weise eine Atombombe bauen. Das glauben Terroristen und Schatzsucher. Der Stoff existiert in Wirklichkeit aber gar nicht._
+
+Mit rotem Quecksilber könne man eine Atombombe bauen – einfacher und schneller als je zuvor. Das seltene Material sei also ziemlich gefährlich. Es könne grossen Schaden anrichten, wenn es in die falschen Hände gelangt. Die gute Nachricht: Rotes Quecksilber gibt es gar nicht. Es ist eine Legende, ein Gerücht. Seit Jahrzehnten geistert es herum und richtet bis heute grossen Schaden an.
+
+### Terroristen bieten viel Geld
+
+Denn viele Leute glauben daran, dass das rote Quecksilber existiert – und sind ganz versessen darauf. Terroristen und andere Verbrecherorganisationen versuchen immer wieder, rotes Quecksilber zu beschaffen. Sie sind bereit, hohe Summen zu bezahlen. Die Terrororganisation IS («Islamischer Staat») bot vor kurzem sechs Millionen Dollar für das Material. Auch der Terroristenführer Osama Bin-Laden und seine Organisation al-Qaida waren hinter dem Stoff her.
+
+Das ruft auch Betrüger auf den Plan. Im Internet gibt es diverse Angebote für rotes Quecksilber. Diese Angebote sind natürlich Betrug. Die Verkäufer hoffen aber, dass Leute darauf hereinfallen und eine Vorauszahlung leistenz
+
+### Elend in Afrika
+
+Das eigentliche Elend richtet das Gerücht ums rote Quecksilber aber in Afrika an, beim ärmsten Teil der Bevölkerung. Junge Leute suchen nach dem Material, in der Hoffnung, der Armut zu entkommen. Viele vermuten, das rote Quecksilber sei in Landminen enthalten, die in vielen Gebieten im Boden vergraben sind. Beim Versuch, die Landminen auszugraben und zu öffnen, kommt es häufig zu Explosionen. Im afrikanischen Land Simbabwe sterben jedes Jahr 20 bis 25 Menschen auf der Suche nach dem Stoff.
+
+Der Amerikaner Michael P. Moore hat deshalb eine Kampagne gestartet, die vor dem roten Quecksilber warnt. Er hat eine Webseite erstellt. Sie vermittelt eindringlich: «Red mercury does not exist.» Rotes Quecksilber existiert nicht.
+
+### Weitere Informationen und Bilder
+
+Artikel über rotes Quecksilber auf einer Seite über Verschwörungstheorien: [https://verschwoerungstheorien.fandom.com/de/wiki/Red_Mercury](https://verschwoerungstheorien.fandom.com/de/wiki/Red_Mercury "Red Mercury")
+ 
+Webseite der «Kampagne gegen rotes Quecksilber» (englisch): [https://redmercurycampaign.wordpress.com/](https://redmercurycampaign.wordpress.com/ "https://redmercurycampaign.wordpress.com/")
