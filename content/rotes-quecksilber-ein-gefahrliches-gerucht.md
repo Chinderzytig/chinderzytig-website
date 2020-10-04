@@ -28,6 +28,10 @@ Denn viele Leute glauben daran, dass das rote Quecksilber existiert – und sind
 
 Das ruft auch Betrüger auf den Plan. Im Internet gibt es diverse Angebote für rotes Quecksilber. Diese Angebote sind natürlich Betrug. Die Verkäufer hoffen aber, dass Leute darauf hereinfallen und eine Vorauszahlung leistenz
 
+{{< image img="rotesquecksilber-2_tmyzyi.jpg" desc="Cinnabar on Dolomite" photographer="JJ Harrison" src="![](https://commons.wikimedia.org/wiki/File:Cinnabar_on_Dolomite.jpg)" cc_licence="Enter CC licence type here" cc_src="Enter CC licence link here" >}}
+
+![](https://commons.wikimedia.org/wiki/File:Cinnabar_on_Dolomite.jpg)
+
 ### Elend in Afrika
 
 Das eigentliche Elend richtet das Gerücht ums rote Quecksilber aber in Afrika an, beim ärmsten Teil der Bevölkerung. Junge Leute suchen nach dem Material, in der Hoffnung, der Armut zu entkommen. Viele vermuten, das rote Quecksilber sei in Landminen enthalten, die in vielen Gebieten im Boden vergraben sind. Beim Versuch, die Landminen auszugraben und zu öffnen, kommt es häufig zu Explosionen. Im afrikanischen Land Simbabwe sterben jedes Jahr 20 bis 25 Menschen auf der Suche nach dem Stoff.
@@ -37,5 +41,5 @@ Der Amerikaner Michael P. Moore hat deshalb eine Kampagne gestartet, die vor dem
 ### Weitere Informationen und Bilder
 
 Artikel über rotes Quecksilber auf einer Seite über Verschwörungstheorien: [https://verschwoerungstheorien.fandom.com/de/wiki/Red_Mercury](https://verschwoerungstheorien.fandom.com/de/wiki/Red_Mercury "Red Mercury")
- 
+
 Webseite der «Kampagne gegen rotes Quecksilber» (englisch): [https://redmercurycampaign.wordpress.com/](https://redmercurycampaign.wordpress.com/ "https://redmercurycampaign.wordpress.com/")
