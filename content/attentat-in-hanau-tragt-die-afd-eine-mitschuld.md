@@ -17,9 +17,7 @@ slug = "hanau"
 title = "Attentat in Hanau – trägt die AfD eine Mitschuld?"
 
 +++
-_In Deutschland gab es in den letzten Monaten drei rechtsterroristische Attentate. Diese Attentate wurden von_ _{{< fremdwort id="Rechtsextremisten" wort="Rechtsextremisten" >}}_ _verübt. Ziel dieser Bewegung ist es, Deutschland frei von Personen aus anderen Ländern zu halten._
-
-{{< definition id="Rechtsextremisten" wort="Rechtsextremismus" def="Rechtsextremismus ist eine Sammelbezeichnung für extrem rechts orientierte Aktivitäten. Dadurch werden alle Menschen bekämpft, die anders sind. Es geht in tiefen Rassismus rein." >}}
+_In Deutschland gab es in den letzten Monaten drei rechtsterroristische Attentate. Diese Attentate wurden von_ _Rechtsextremisten_ _verübt. Ziel dieser Bewegung ist es, Deutschland frei von Personen aus anderen Ländern zu halten._
 
 Deutschland geriet während dem 2. Weltkrieg durch den ausgeübten Nationalsozialismus stark in Kritik. Es ging darum, Deutschland von allen anderen zu befreien. Diese vergangenen Ereignisse setzen Deutschland bis heute unter Druck gegen rechtsextremistische Bewegungen vorzugehen.
 
