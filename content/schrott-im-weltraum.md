@@ -31,8 +31,16 @@ In den letzten 60 Jahren haben sich auf diese Weise etwa 6‘500 Tonnen Schrott 
 
 Der Schrott ist eine grosse Gefahr für die Astronautinnen und Astronauten. Immer wieder treffen Trümmerteile die Raumstation ISS, die ebenfalls um die Erde kreist. Die Raumstation muss regelmässig repariert werden und ihren Kurs ändern, um grösseren Brocken auszuweichen. Durch den vielen Schrott wird auch der Start von Raketen immer schwieriger. Inzwischen ist der Müll zu einem ernsthaften Problem geworden. Wissenschaftler überlegen bereits, wie man ihn einfangen und entsorgen könnte.
 
+{{< youtube R7YnC3d_Q3Y >}}
+
 ### Stürzt alles auf die Erde?
 
 Für uns auf der Erde ist der Schrott zum Glück nicht gefährlich. Wenn er zu nahe an die Atmosphäre kommt, verglüht er meistens. Nur ganz wenige Stücke schaffen es auf die Erde. Es ist deshalb immer noch wahrscheinlicher, von einem Blitz getroffen zu werden als von einem ausgedienten Satelliten.
 
-Youtube-Video über Weltraumschrott: [https://www.youtube.com/watch?v=R7YnC3d_Q3Y](https://www.youtube.com/watch?v=R7YnC3d_Q3Y "https://www.youtube.com/watch?v=R7YnC3d_Q3Y")
+{{< teiler >}}
+
+{{< container-center >}}
+{{< arbeitsmaterial file="schrott-im-weltraum-arbeitsmaterial_bui64q" >}}
+
+{{< arbeitsmaterial file="schrott-im-weltraum-arbeitsmaterial-2_acgnid" >}}
+{{< /container-center >}}
