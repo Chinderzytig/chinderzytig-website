@@ -1,6 +1,8 @@
 +++
 artikel = true
 author = "Schülerbeitrag von Olivier Dick"
+cc_licence = ""
+cc_src = ""
 date = 2020-03-30T11:00:00Z
 description = ""
 fdw = false
@@ -30,3 +32,9 @@ Die Antwort ist Jein. Zwar stossen sie anders als Benzin- oder Dieselautos keine
 Doch der wohl schlimmste Teil des Elektroautos sind die Batterien, die die Elektrizität speichern. Denn für die Produktion der Elektroautos braucht man Lithium, ein fossiles Element, das in Salzseen vorkommt. Fossil heisst, dass es das Material nur begrenzt gibt und einmal ganz abgebaut sein wird. Um Lithium abzubauen werden ganze Landstriche zu Salzwüsten so z.B in Argentinien wo ganze indigene Völker wegen Wassermangel umziehen müssen. Also ihr seht es ist keine einfache Antwort.
 
 Fazit: Die Idee der Elektroautos sind gut, doch braucht es bessere und umweltfreundlichere Batterien für das perfekte Auto.
+
+{{< teiler >}}
+
+{{< container-center >}}
+{{< arbeitsmaterial file="das-perfekte-auto-arbeitsmaterial_mecdrd" >}}
+{{< /container-center >}}
