@@ -1,6 +1,8 @@
 +++
 artikel = true
 author = "Lars Ziörjen"
+cc_licence = ""
+cc_src = ""
 date = 2020-03-25T12:00:00Z
 description = ""
 fdw = false
@@ -37,3 +39,9 @@ Hier ist eine kurze Erklärung zu diesen Begriffen.
 * Strahlung aus dem Weltraum: Strahlung aus dem Weltraum unterscheidet man nach ihrer Quelle, beispielsweise Sonnenstrahlung, Hintergrundstrahlung, kosmische Strahlung. Strahlung, die von radioaktiven Stoffen ausgeht, wird häufig fälschlicherweise als radioaktive Strahlung bezeichnet, obwohl nicht die Strahlung radioaktiv ist, sondern der beinhaltende Stoff. Die Strahlung aufgrund der natürlichen Radioaktivität der Erde heißt terrestrische Strahlung.
 * Ionisierende Strahlung: Ist die Energie der Strahlungsteilchen so hoch, dass sie aus Atomen oder Molekülen Elektronen entfernen kann, wird die Strahlung als ionisierende Strahlung bezeichnet. Elektromagnetische Wellen in diesem Energiebereich geben oft beim ersten Stoß einen Großteil ihrer Energie ab. Geladene Teilchen mit hoher Energie geben diese beim Durchgang durch Materie in vielen kleinen Portionen ab.
 * „Harte“ und „weiche“ Strahlung: Bei verschiedenen den Strahlenarten, z. B. Röntgen-, Gamma- und auch Betastrahlung, wird manchmal von „harter“ oder „weicher“ Strahlung gesprochen. Genaue Abgrenzungen dieser Begriffe gibt es aber nicht. Von Harter Röntgenstrahlung wird beispielsweise in der Röngenoptik gesprochen.
+
+{{< teiler >}}
+
+{{< container-center >}}
+{{< arbeitsmaterial file="handystrahlung-arbeitsmaterial_jsjfdo" >}}
+{{< /container-center >}}
