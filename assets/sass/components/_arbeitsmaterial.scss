@@ -1,5 +1,10 @@
 .arbeitsmaterial {
 
+	&__container {
+		display: flex;
+		justify-content: space-around;
+	}
+
 	&__heading {
 		font-size: $font-bigger;
 		font-family: $font-patrick, $font-fallback;
