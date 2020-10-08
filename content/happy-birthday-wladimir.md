@@ -5,7 +5,6 @@ cc_licence = "CC BY 4.0"
 cc_src = "https://creativecommons.org/licenses/by/4.0/deed.de"
 date = 2020-10-07T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1600768925/2018_inauguration_of_Vladimir_Putin_01_defhos.jpg"
 img_description = "Vladimir Putin has been sworn in as President of Russia (2018) - Via Wikimedia Commons"
@@ -22,7 +21,7 @@ _Am 7. Oktober 1952, vor 68 Jahren also, erblickte ein Mensch das Licht der Welt
 
 Russland, früher unter dem Namen Sowjetunion bekannt, gilt als eine der Supermächte der Welt. Gemeinsam mit den USA und China gibt es kaum andere Länder, die dermassen einflussreich sind. Und waren. Einfluss bedeutet Macht. Macht bedeutet auch oft Konflikte, weil der eine immer mächtiger als der andere sein möchte. So ist es bis heute, dass insbesondere die USA und Russland stets im offenen oder verdeckten Konflikt sind. Nach Jahren der Skandale und Schwierigkeiten, übernahm im Jahr 2000 Putin das Präsidentenamt. Seither bleibt wenig unversucht, um Russland nach dem Geschmack von Putin zu stärken und gegenüber den anderen, mächtigen Ländern in eine Vorteilsposition zu bringen. Im aktuellen Jahr scheint dies so günstig zu sein, wie noch nie.
 
-{{< image img="Enter file with ext. here" desc="President Donald J. Trump and President Vladimir Putin of the Russian Federation | July 16, 2018" photographer="The White House" src="https://www.flickr.com/photos/whitehouse/" cc_licence="Enter PDM 1.0" cc_src="https://creativecommons.org/publicdomain/mark/1.0/deed.de" >}}
+{{< image img="happybirthdayputin_wxkv0r.jpg" desc="President Donald J. Trump and President Vladimir Putin of the Russian Federation | July 16, 2018" photographer="The White House" src="https://www.flickr.com/photos/whitehouse/" cc_licence="Enter PDM 1.0" cc_src="https://creativecommons.org/publicdomain/mark/1.0/deed.de" >}}
 
 ### Putin, der ewige Präsident
 
@@ -36,4 +35,4 @@ Tatsächlich ist die Ausgangslage nahezu ideal, denn auf Russland schaut momenta
 
 Was weisst du über Russland? Wie wirken Putin, Trump und Co. auf dich? Weshalb scheinen diese Länder wichtiger zu sein als andere? Was möchtest du noch (von uns) wissen?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder mit einem Mail auf [info@chinderzytig.ch](mailto:info@chinderzytig.ch?subject=Fokus%20der%20Woche). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
