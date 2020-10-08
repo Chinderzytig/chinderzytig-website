@@ -7,7 +7,7 @@ date = 2020-10-07T11:00:00Z
 description = ""
 draft = true
 fdw = true
-hero_img = ""
+hero_img = "/v1600768925/2018_inauguration_of_Vladimir_Putin_01_defhos.jpg"
 img_description = "Vladimir Putin has been sworn in as President of Russia (2018) - Via Wikimedia Commons"
 img_photographer = "Kremlin.ru"
 img_src = "https://commons.wikimedia.org/w/index.php?curid=68869230"
@@ -21,6 +21,8 @@ title = "Happy Birthday, Wladimir"
 _Am 7. Oktober 1952, vor 68 Jahren also, erblickte ein Mensch das Licht der Welt, der zu einer prägenden Figur werden sollte: Wladimir Putin. Putin ist der Präsident von Russland, gefühlt seit einer Ewigkeit. Russland ist ein einflussreiches Land in der Weltpolitik, geliebt und gefürchtet, und vermutlich geniesst es im Moment die anderen Schauplätze: Corona, Konflikte, Flüchtlingskrise, Klimakrise - und Donald Trump. Beleuchten wir zum Geburtstag die Situation von Putins Russland._
 
 Russland, früher unter dem Namen Sowjetunion bekannt, gilt als eine der Supermächte der Welt. Gemeinsam mit den USA und China gibt es kaum andere Länder, die dermassen einflussreich sind. Und waren. Einfluss bedeutet Macht. Macht bedeutet auch oft Konflikte, weil der eine immer mächtiger als der andere sein möchte. So ist es bis heute, dass insbesondere die USA und Russland stets im offenen oder verdeckten Konflikt sind. Nach Jahren der Skandale und Schwierigkeiten, übernahm im Jahr 2000 Putin das Präsidentenamt. Seither bleibt wenig unversucht, um Russland nach dem Geschmack von Putin zu stärken und gegenüber den anderen, mächtigen Ländern in eine Vorteilsposition zu bringen. Im aktuellen Jahr scheint dies so günstig zu sein, wie noch nie.
+
+{{< image img="Enter file with ext. here" desc="President Donald J. Trump and President Vladimir Putin of the Russian Federation | July 16, 2018" photographer="The White House" src="https://www.flickr.com/photos/whitehouse/" cc_licence="Enter PDM 1.0" cc_src="https://creativecommons.org/publicdomain/mark/1.0/deed.de" >}}
 
 ### Putin, der ewige Präsident
 
