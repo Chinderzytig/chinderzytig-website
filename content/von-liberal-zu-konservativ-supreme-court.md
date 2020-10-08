@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-09-30T11:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1602190086/supreme-court_djl2pz.jpg"
 img_description = "The Supreme Court in Washington, D.C."
@@ -40,4 +39,4 @@ Wir sind gespannt darauf, wie der Supreme Court entscheiden wird. Da jedoch bere
 
 Wie stehst du zur Gleichberechtigung von Mann und Frau? Wie siehst du die Problematik der konservativen in Amerika? Oder bist du der Meinung, lieber konservativ als liberal?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder mit einem Mail auf [info@chinderzytig.ch](mailto:info@chinderzytig.ch?subject=Fokus%20der%20Woche). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
