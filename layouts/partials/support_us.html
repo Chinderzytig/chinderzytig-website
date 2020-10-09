@@ -21,7 +21,8 @@
 				Auch kleine Spenden können eine grosse Wirkung erzielen.
 			</p>
 			<div class="support__options-btns">
-				{{ range .Site.Data.partials.support.donation }}
+				<button class="btn btn--disabled" disabled>Demnächst verfügbar</button>
+				<!-- {{ range .Site.Data.partials.support.donation }}
 					<button class="btn btn--secondary support__options-btn snipcart-add-item"
 						data-item-id="{{ .id }}"
 						data-item-price="{{ .price }}"
@@ -31,7 +32,7 @@
 						data-item-name="{{ .label }} Spende an Chinderzytig">
 						{{ .label }}
 					</button>
-				{{ end }}
+				{{ end }} -->
 			</div>
 		</div>
 	</div>
