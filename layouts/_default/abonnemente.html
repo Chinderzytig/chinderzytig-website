@@ -44,7 +44,8 @@
 						{{ end }}
 					</div>
 					<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_250,q_auto:good/logos/{{ .img }}" alt="{{ .alt }}" class="abonnemente__img">
-					{{ range .btn }}
+					<button class="btn btn--disabled" disabled>Blied Dran</button>
+					<!-- {{ range .btn }}
 						<button class="btn btn--{{ .class }} abonnemente__cta snipcart-add-item"
 							data-item-id="{{ .id }}"
 							data-item-price="{{ .price }}"
@@ -56,7 +57,7 @@
 							data-item-custom1-options="{{ .custom_options }}">
 							Auswählen
 						</button>
-					{{ end }}
+					{{ end }} -->
 				</div>
 			{{ end }}
 		</div>
