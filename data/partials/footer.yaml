@@ -9,9 +9,9 @@ main:
     link: "/verein"
   - label: Kontakt
     link: "/kontakt"
-  - label: Seitenverzeichnis
-    link: "#"
   - label: Datenschutz
+    link: "/datenschutz"
+  - label: Seitenverzeichnis
     link: "#"
   - label: Admin
     link: "/admin"
