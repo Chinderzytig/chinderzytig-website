@@ -86,7 +86,7 @@ fields:
   label: markierungen
   description: Add any tags that you feel belong to this article that are not already
     categories. Standard practice at the moment is to use country names as tags, when
-    the article has been assigned to a continent under categories. <em>f the article
+    the article has been assigned to a continent under categories. <em>If the article
     you are writing is for Focus der Woche, </em><strong><em>please leave this blank!</em></strong>
 - type: boolean
   name: fdw
