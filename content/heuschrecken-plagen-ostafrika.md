@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-03-01T10:00:00Z
 description = "Am Horn von Afrika im Osten des Kontinents findet die schlimmste Heuschreckenplage seit 25 Jahren statt. Massive Schäden gibt es bereits, nun befürchtet man auch noch eine Hungersnot."
-draft = true
 fdw = false
 hero_img = "/v1602359637/Heuschrecke_qytbbp.jpg"
 img_description = "Heuschrecke auf einem Grashalm"
@@ -14,7 +13,7 @@ img_src = "https://unsplash.com/@trollinho"
 kategorien = ["Natur/Umwelt", "Afrika"]
 markierungen = []
 paid = false
-slug = "heuschrecken"
+slug = "heuschreckenplage"
 title = "Heuschrecken plagen Ostafrika"
 
 +++
