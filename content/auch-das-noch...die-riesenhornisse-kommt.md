@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-05-07T09:00:00Z
 description = "Als hätte die USA mit Corona nicht schon genug Probleme am Hals. Nun kommt auch noch die Asiatische Riesenhornisse. Sie bedroht Bienen - und Menschen. Was kann man tun?"
-draft = true
 fdw = false
 hero_img = "/v1602361383/Hornisse_wnviz0.jpg"
 img_description = ""
