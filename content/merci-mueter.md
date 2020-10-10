@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-05-10T09:00:00Z
 description = "Der Muttertag wird seit 1914 gefeiert. In den USA erfunden, in Europa auch ein kleiner (oder grosser) Feiertag. Es geht darum, die Mütter und das Muttersein zu ehren. Respekt zu zeigen. Danke sagen. Darum an dieser Stelle einmal keine Geschichten über Viren, Krisen und Probleme - nein, wir sagen einfach Danke."
-draft = true
 fdw = false
 hero_img = "/v1602362867/Mutter-liest-vor_brk14h.jpg"
 img_description = "Eine Mutter zeig ihrem Kind etwas auf dem iPad. "
