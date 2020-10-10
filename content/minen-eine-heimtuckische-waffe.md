@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-04-06T09:00:00Z
 description = "Weltweit liegen noch explosive Kriegsreste wie Landminen versteckt. Wo diese Minen liegen, ist nicht klar. Deshalb treten immer wieder Personen ohne Wissen darauf. Dadurch werden tödliche Explosionen ausgelöst."
-draft = true
 fdw = false
 hero_img = "/v1602362417/Warnsignal-Do-not-enter_lhyhul.jpg"
 img_description = "Ein Warnsignal mit der Aufschrift - Danger. Do not enter. "
