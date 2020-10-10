@@ -5,6 +5,7 @@ cc_licence = ""
 cc_src = ""
 date = 2020-05-13T22:00:00Z
 description = "Auf der Insel Komo in Indonesien leben die grössten Echsen der Welt: die Komodowarane. Auf ihrem Speiseplan stehen unter anderem Wildschweine und Wasserbüffel."
+draft = true
 fdw = false
 hero_img = "/v1602360661/komodowaran_hzzcwi.jpg"
 img_description = "Komodowaran"
