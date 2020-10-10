@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-02-09T10:00:00Z
 description = "Sehr vieles auf der Welt dreht sich ums Geld. Geld regiert die Welt, ist ein bekanntes Sprichwort. Die Verteilung des Geldes ist leider jedoch nicht gerecht. Begeben wir uns auf eine Zahlenreise…"
-draft = true
 fdw = false
 hero_img = "/v1602363803/Reichtum_rne0s6.jpg"
 img_description = "Hand mit Goldtalern."
