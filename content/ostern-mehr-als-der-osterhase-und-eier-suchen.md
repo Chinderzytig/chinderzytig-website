@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-04-12T09:00:00Z
 description = "Der Frühling ist da, die ersten Blumen blühen. In dieser Zeit feiern wir jedes Jahr Ostern. Wir suchen versteckte Schokoladenhasen. Wir bemalen Eier mit Farben. Doch der Ursprung liegt an einem anderen Ort."
-draft = true
 fdw = false
 hero_img = "/v1602363405/Osternest_axyosv.jpg"
 img_description = "Osternest mit Eiern"
