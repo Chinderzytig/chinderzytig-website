@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2019-09-20T09:00:00Z
 description = "Mindestens 20 Personen sind auf den Bahamas wegen dem Hurrikan «Dorian» gestorben. Viele Häuser wurden zerstört. Kann man sich nicht schützen? Hätte man etwas anders machen können? Wie gehen die Menschen auf den Bahamas nun mit ihrem Schicksal um? "
-draft = true
 fdw = false
 hero_img = "/v1602360189/hurricane_mvwvb7.jpg"
 img_description = "Hurrikan von oben gesehen"
