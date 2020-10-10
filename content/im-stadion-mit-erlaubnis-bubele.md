@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-02-16T10:00:00Z
 description = "Jene von euch, die bereits an einem grossen Fussballspiel waren, sind ihnen sicher bereits begegnet: bengalischen Fackeln, Feuerkörper, Pyro-Shows. Für viele eingefleischte Fussballfans gehören Pyro zu einem Spiel dazu."
-draft = true
 fdw = false
 hero_img = "/v1602364347/Pyro-im-Stadion_claefl.jpg"
 img_description = "Pyro im Fussbaldstadion."
