@@ -7,7 +7,7 @@ date = 2020-06-29T09:00:00Z
 description = "Im letzten Teil der Serie zu den Detailhändlern stellen wir vor: Denner, Volg und Spar."
 draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1602410860/Brot-Frischeabteilung-Schindellegi_t6r6mu.jpg"
 img_description = ""
 img_photographer = ""
 img_src = ""
@@ -51,5 +51,5 @@ In der Schweiz gibt es 2‘202 Gemeinden. Jede Gemeinde hat im Durchschnitt also
 {{< teiler >}}
 
 {{< container-center >}}
-{{< arbeitsmaterial file="add file name without extension" >}}
+{{< arbeitsmaterial file="Arbeitsmaterial_Ladenserie_DennerVolgundSpar_c5kkc2" >}}
 {{< /container-center >}}
