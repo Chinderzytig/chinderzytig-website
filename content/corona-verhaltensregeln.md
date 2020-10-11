@@ -13,7 +13,7 @@ img_src = "https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien
 kategorien = ["Gesellschaft", "Europa"]
 markierungen = ["Schweiz"]
 paid = false
-slug = ""
+slug = "corona-verhaltensregeln"
 title = "Corona - Verhaltensregeln "
 
 +++
