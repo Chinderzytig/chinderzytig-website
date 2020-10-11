@@ -42,7 +42,7 @@ Diese Geschäfte gehören alle zu Coop:
 
 ### **Migros oder Coop?​**
 
-Migros und Coop verfolgen eine ähnliche Strategie. Beide versuchen stark zu wachsen und viele Bereiche des Lebens abzudecken. Die beiden Unternehmen werden deshalb häufig miteinander verglichen und als «Rivalen» bezeichnet. Wer von beiden grösser ist, lässt sich nicht wirklich sagen. Es kommt darauf an, welchen Bereich man vergleicht. Der Umsatz der beiden Unternehmen ist ähnlich hoch (Umsatz = alles Geld, das eingenommen wird). Im Jahr 2019 machte Coop einen Umsatz von 30.7 Milliarden Franken. Der Umsatz der Migros lag bei 28.4 Milliarden Franken. 
+Migros und Coop verfolgen eine ähnliche Strategie. Beide versuchen stark zu wachsen und viele Bereiche des Lebens abzudecken. Die beiden Unternehmen werden deshalb häufig miteinander verglichen und als «Rivalen» bezeichnet. Wer von beiden grösser ist, lässt sich nicht wirklich sagen. Es kommt darauf an, welchen Bereich man vergleicht. Der Umsatz der beiden Unternehmen ist ähnlich hoch (Umsatz = alles Geld, das eingenommen wird). Im Jahr 2019 machte Coop einen Umsatz von 30.7 Milliarden Franken. Der Umsatz der Migros lag bei 28.4 Milliarden Franken.
 
 ​
 
@@ -51,3 +51,9 @@ Migros und Coop verfolgen eine ähnliche Strategie. Beide versuchen stark zu wac
 [Faktenblatt zu den Coop-Supermärkten](https://report.coop.ch/app/uploads/Factsheet_Supermarkt_CoopToGo_Sapori_Karma_DE.pdf)
 
 [Coop Kennzahlen 2019](https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind/wichtige-kennzahlen.html)
+
+{{< teiler >}}
+
+{{< container-center >}}
+{{< arbeitsmaterial file="Arbeitsmaterial_Coop_vpj99d" >}}
+{{< /container-center >}}
