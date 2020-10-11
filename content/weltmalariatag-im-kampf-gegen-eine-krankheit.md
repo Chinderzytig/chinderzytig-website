@@ -1,8 +1,10 @@
 +++
 artikel = true
 author = "Seraina Branschi"
+cc_licence = ""
+cc_src = ""
 date = 2020-04-25T11:00:00Z
-description = ""
+description = "Was ist Malaria und von wo kommt es? In diesem Artikel erklärt. "
 fdw = false
 hero_img = "/v1600264551/welt-malaria-tag_ejtm5i.jpg"
 img_description = "Close-up of a mosquito"
