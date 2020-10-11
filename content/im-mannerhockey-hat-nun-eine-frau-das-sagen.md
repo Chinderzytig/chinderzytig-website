@@ -1,17 +1,19 @@
 +++
 artikel = true
 author = "Lars Ziörjen"
-kategorien = ["Europa", "Gesellschaft"]
+cc_licence = ""
+cc_src = ""
 date = 2020-05-27T23:00:00Z
-description = ""
+description = "Wir blicken ein wenig hinter die Kulissen und zeigen einzelne Beispiele von Frauen im \"Männersport\"."
 fdw = false
 hero_img = "/v1599988277/frauen-im-maennersport_woikxx.jpg"
 img_description = "Female ice hockey players engage during faceoff. "
 img_photographer = "Jerry Yu"
 img_src = "https://unsplash.com/@jerryyu"
+kategorien = ["Europa", "Gesellschaft"]
+markierungen = ["Schweiz", "Rechte"]
 paid = false
 slug = "frauen-im-maennersport"
-markierungen = ["Schweiz", "Rechte"]
 title = "Im Männerhockey hat nun eine Frau das Sagen"
 
 +++
