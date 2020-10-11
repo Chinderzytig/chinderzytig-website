@@ -1,8 +1,10 @@
 +++
 artikel = true
-author = ""
+author = "Lars Ziörjen"
+cc_licence = ""
+cc_src = ""
 date = 2020-03-15T12:00:00Z
-description = ""
+description = "Spielt es eine Rolle, in wen man sich verliebt?"
 fdw = false
 hero_img = "/v1600195833/outing_gnqbfk.jpg"
 img_description = "\"Love is love\" mural"
