@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-05-28T09:00:00Z
 description = "In Krisenzeiten braucht es Menschen, die befehlen und sagen, was die Bevölkerung zu tun hat. Im Fall der Schweiz sind dies der Bundesrat sowie das Bundesamt für Gesundheit (BAG). Was befehlen sie? Was empfehlen sie?"
-draft = true
 fdw = false
 hero_img = "/v1600109297/so-schu%CC%88tzen-wir-uns_eima92.jpg"
 img_description = "Schutzinformation des BAGs"
