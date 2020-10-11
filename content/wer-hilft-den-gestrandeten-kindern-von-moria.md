@@ -1,17 +1,19 @@
 +++
 artikel = true
-author = ""
-kategorien = ["Gesellschaft", "Europa"]
+author = "Lars Ziörjen"
+cc_licence = ""
+cc_src = ""
 date = 2020-01-05T00:00:00Z
-description = ""
+description = "Tausende Kinder hängen auf der griechischen Insel Lesbos im Flüchtlingslager Moria fest. Sie kämpfen gegen Hunger, Krankheiten, fehlende Betreuung und Überforderung der Eltern."
 fdw = false
 hero_img = "/v1599897746/moria-children_jwj1ua.jpg"
 img_description = "Refugee children smiling for camera"
 img_photographer = "Siddhant Soni"
 img_src = "https://unsplash.com/@52nd_"
+kategorien = ["Gesellschaft", "Europa"]
+markierungen = ["Migration", "Griechenland"]
 paid = false
 slug = "kinder-von-moria"
-markierungen = ["Migration", "Griechenland"]
 title = "Wer hilft den gestrandeten Kindern von Moria?"
 
 +++
