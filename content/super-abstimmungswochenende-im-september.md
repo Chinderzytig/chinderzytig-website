@@ -1,6 +1,6 @@
 +++
 artikel = true
-author = "CF"
+author = "Christoph Forster"
 cc_licence = "CC BY 2.0"
 cc_src = "https://creativecommons.org/licenses/by/2.0/deed.de"
 date = 2020-09-23T11:00:00Z
