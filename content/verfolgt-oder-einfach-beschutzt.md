@@ -1,8 +1,10 @@
 +++
 artikel = true
 author = "Seraina Branschi"
+cc_licence = ""
+cc_src = ""
 date = 2020-05-10T23:00:00Z
-description = ""
+description = "In den letzten Tagen war immer wieder die Rede von der “Tracing-App”. Die App dient der Bekämpfung des Coronavirus. "
 fdw = false
 hero_img = "/v1600154362/corona-tracing_iazhgb.jpg"
 img_description = "Corona smartphone application"
