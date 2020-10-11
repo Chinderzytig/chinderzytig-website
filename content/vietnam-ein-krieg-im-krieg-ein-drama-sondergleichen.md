@@ -4,7 +4,7 @@ author = "Lars Ziörjen"
 cc_licence = "CC BY 2.0"
 cc_src = "https://creativecommons.org/licenses/by/2.0/deed.de"
 date = 2020-04-29T11:00:00Z
-description = "vietnamkrieg"
+description = "Auch nach der Unabhängigkeit von Frankreich, dauerte es lange bis zur Einigung von Nord- und Südvietnam. "
 fdw = false
 hero_img = "/v1600714177/vietnamkrieg_zzn28s.jpg"
 img_description = "Vietnam War 1969 - Hamburger Hill"
@@ -13,7 +13,7 @@ img_src = "https://www.flickr.com/photos/13476480@N07/28288507836"
 kategorien = ["Asien", "Politik"]
 markierungen = ["Vietnam", "Kriege/Konflikte"]
 paid = false
-slug = ""
+slug = "vietnamkrieg"
 title = "Vietnam - ein Krieg im Krieg, ein Drama sondergleichen"
 
 +++
