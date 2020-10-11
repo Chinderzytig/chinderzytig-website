@@ -1,10 +1,10 @@
 +++
 artikel = true
-author = ""
+author = "Lars Ziörjen"
 cc_licence = ""
 cc_src = ""
 date = 2020-03-22T12:00:00Z
-description = ""
+description = "Während auf der Erde ein Virus unkontrolliert herumschwirrt, schwirren im Weltraum Unmengen von alten Satelliten und Raketenteilen unkontrolliert um die Erde."
 fdw = false
 hero_img = "/v1600456406/weltraumschrott_bv1c6d.jpg"
 img_description = "Satellite in orbit"
