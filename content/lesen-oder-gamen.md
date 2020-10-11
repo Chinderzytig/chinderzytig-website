@@ -1,8 +1,10 @@
 +++
 artikel = true
-author = ""
+author = "Rosemarie Bernasconi"
+cc_licence = ""
+cc_src = ""
 date = 2020-04-23T11:00:00Z
-description = ""
+description = "Wieso soll ich ein Buch lesen, wenn ich doch gamen könnte? Wieso soll ich gamen, wenn ich doch einBuch lesen könnte?"
 fdw = false
 hero_img = "/v1600360080/buch_kwgg7v.jpg"
 img_description = "A young girl reading a book"
