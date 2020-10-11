@@ -1,8 +1,10 @@
 +++
 artikel = true
 author = "Georg Stalder"
+cc_licence = ""
+cc_src = ""
 date = 2020-04-16T11:00:00Z
-description = ""
+description = "Fast jeden Tag informiert die Schweizer Regierung an einer Pressekonferenz über das Coronavirus. Aber was genau ist eigentlich eine Pressekonferenz?"
 fdw = false
 hero_img = "/v1600356467/presse-konferenz_mv91xi.jpg"
 img_description = "Journalist writing in notebook"
