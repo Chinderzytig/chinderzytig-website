@@ -1,10 +1,10 @@
 +++
 artikel = true
-author = ""
+author = "Lars Ziörjen"
 cc_licence = "CC BY 4.0"
 cc_src = "https://creativecommons.org/licenses/by/4.0/deed.de"
 date = 2020-01-19T12:00:00Z
-description = ""
+description = "Die USA sind kämpferisch unterwegs und sind nicht immer zuverlässige Freunde. Europa sieht machtlos zu und ist selber ein wenig durcheinander, sowie viele andere Länder und Regionen auch, während Putin, der Präsident von Russland lächelt."
 fdw = false
 hero_img = "/v1600768912/Angela_Merkel_and_Vladimir_Putin__2017-07-07_yg5sgt.jpg"
 img_description = "Via Wikimedia Commons"
