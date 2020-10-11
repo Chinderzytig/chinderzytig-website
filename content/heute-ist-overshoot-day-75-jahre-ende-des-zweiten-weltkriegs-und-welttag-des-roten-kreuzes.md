@@ -1,8 +1,10 @@
 +++
 artikel = true
 author = "Lars Ziörjen"
+cc_licence = ""
+cc_src = ""
 date = 2020-05-08T11:00:00Z
-description = ""
+description = "Das Rote Kreuz hilft, wo Hilfe benötigt wird. Das ist das Ziel. Zentrale Eigenschaften des Roten Kreuzes sind Menschlichkeit, Neutralität und Freiwilligkeit."
 fdw = false
 hero_img = "/v1600350932/rotes-kreuz_g3p3fn.jpg"
 img_description = "A US Amry ambulance from WWII bearing the red cross symbol"
