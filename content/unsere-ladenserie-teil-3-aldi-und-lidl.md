@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-06-15T09:00:00Z
 description = "Vor etwas mehr als 10 Jahren kamen Aldi und Lidl in die Schweiz – der Einzug der Billig-Läden sorgte für Aufsehen und Spekulationen."
-draft = true
 fdw = false
 hero_img = "/v1602410077/Einkaufen_Lidl_z5yesj.jpg"
 img_description = "Kassierin bei Lidl"
