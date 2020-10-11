@@ -1,10 +1,10 @@
 +++
 artikel = true
-author = ""
+author = "Lars Ziörjen"
 cc_licence = ""
 cc_src = ""
 date = 2020-04-01T11:00:00Z
-description = ""
+description = "«Me too» bedeutet auf Deutsch soviel wie «ich auch». Mein Körper gehört mir. "
 fdw = false
 hero_img = "/v1600666052/me-too_u2x1uq.jpg"
 img_description = "A women holds up a sign with the hashtag '#metoo' written on it"
