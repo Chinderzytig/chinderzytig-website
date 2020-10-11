@@ -27,6 +27,8 @@ Der Januar 2020 war ein turbulenter Monat für Grossbritannien. Am 31. Januar 20
 
 Seit dem 1. April ist es nun soweit: Meghan Markle und Prinz Harry sind keine Royals mehr. Sie leben in Amerika und versuchen dort auch einen Beruf zu finden. Eben ein ganz normales Leben zu führen. Trotz des Austritts wird Harry von der {{< fremdwort id="Thronfolge" wort="Thronfolge" >}} nicht ausgeschlossen und muss spätestens dann wieder die Aufgaben eines Mitglieds der Königsfamilie wahrnehmen.
 
+{{< definition id="Thronfolge" wort="Thronfolge" def="Beschreibt die Nachfolge und Übernahme der Rechte und Pflichten eines Königs oder einer Königin. Der Thorn ist ein schön verzierter Stuhl auf dem der König oder die Königin sitzt. " >}}
+
 ### Megxit​
 
 Seit der Austritt bekannt ist, hören wir immer wieder in den Medien von Megxit oder #Megxit. Doch es ist nicht klar, wann der Name entstand. Bereits als die Hochzeit von Harry und Meghan bekannt wurde, verwendeten einige Medien diesen Begriff. Es gab und gibt viele Kritiker von Meghan Markle. Sie soll England umgehend wieder verlassen und auch Prinz Harry und sie schade der Königsfamilie, dies könnten wir immer wieder lesen und hören. Der Begriff kombiniert sich aus Meghan und exit – was so viel heisst wie Austritt. Stark wurde der Begriff jedoch erst, als der Austritt aus dem Königshaus bekannt wurde.
