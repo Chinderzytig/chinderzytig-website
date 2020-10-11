@@ -1,17 +1,19 @@
 +++
 artikel = true
 author = "Lars Ziörjen"
-kategorien = ["Europa", "Gesellschaft"]
+cc_licence = ""
+cc_src = ""
 date = 2020-04-19T23:00:00Z
-description = ""
+description = "Kinderhilfe in der Krise. Wie kann dir geholfen werden. "
 fdw = false
 hero_img = "/v1600007515/kinder-hilfe_ptsbv4.jpg"
 img_description = "A distressed child"
 img_photographer = "Emiliano Vittoriosi"
 img_src = "https://unsplash.com/@emilianovittoriosi"
+kategorien = ["Europa", "Gesellschaft"]
+markierungen = ["Schweiz", "Soziales"]
 paid = false
 slug = "kinderhilfe"
-markierungen = ["Schweiz", "Soziales"]
 title = "Kinder in Not - hier wird dir geholfen"
 
 +++
