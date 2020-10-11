@@ -31,7 +31,7 @@ Zu den letzten Ereignissen: In Kassel wurde der Politiker Walter Lübcke von ein
 
 Durch die Finanzkrise 2008 und die anschliessende Weltwirtschaftskrise machte sich eine grosse Unsicherheit um die wenigen Arbeitsplätze breit. Dadurch stärkte sich die Einstellung, dass die Landbevölkerung das Recht auf diese Arbeitsplätze hat. Die Zahl der Arbeitslosen stieg in Europa nämlich seit der Weltwirtschaftskrise an. Hinzu kommt die Unsicherheit, wie sich die Wirtschaft und die Gesellschaft wegen der zunehmenden Globalisierung und Digitalisierung entwickeln wird. Auch die Flüchtlingskrise 2015 und die damit verbundene Zunahme von Flüchtlingen in europäischen Ländern, stärkte die Unsicherheit.
 
-Rechtspopulistische Parteien wie die [Alternative für Deutschland (AfD)](https://www.chinderzytig.ch/), der Front National in Frankreich oder die Freiheitliche Partei Österreichs (FPÖ) werden durch diese Unsicherheiten gestärkt.
+Rechtspopulistische Parteien wie die [Alternative für Deutschland (AfD)](https://www.afd.de), der Front National in Frankreich oder die Freiheitliche Partei Österreichs (FPÖ) werden durch diese Unsicherheiten gestärkt.
 
 ### Trägt die AfD eine Mitschuld an rechtsterroristischen Attentaten?
 
