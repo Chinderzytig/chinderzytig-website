@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-06-02T09:00:00Z
 description = "Coop ist 1969 aus verschiedenen «Konsumvereinen» entstanden. Heute hat der Detailhändler das dichteste Netz an Filialen in der Schweiz."
-draft = true
 fdw = false
 hero_img = "/v1602408852/mediathek_coop_city_04_u0cipa.jpg"
 img_description = "Foto eines Coop City Gebäudes"
