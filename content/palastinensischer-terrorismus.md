@@ -1,10 +1,10 @@
 +++
 artikel = true
-author = ""
+author = "Lars Ziörjen"
 cc_licence = ""
 cc_src = ""
 date = 2020-07-03T11:00:00Z
-description = ""
+description = "Terroristische Anschläge von Palästinensern prägten die Zeit von 1960 bis 1980. Diese Anschläge tauchen noch heute in vielen Schlagzeilen der Zeitungen auf. "
 fdw = false
 hero_img = "/v1600700856/palaestinensischer-terrorismus_egog6d.jpg"
 img_description = "A Palestinian youth throws a stone with a home-made sling through thick black smoke"
