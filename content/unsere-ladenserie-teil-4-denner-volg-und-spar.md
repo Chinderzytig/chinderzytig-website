@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-06-29T09:00:00Z
 description = "Im letzten Teil der Serie zu den Detailhändlern stellen wir vor: Denner, Volg und Spar."
-draft = true
 fdw = false
 hero_img = "/v1602410860/Brot-Frischeabteilung-Schindellegi_t6r6mu.jpg"
 img_description = ""
