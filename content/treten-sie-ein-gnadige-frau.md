@@ -1,8 +1,10 @@
 +++
 artikel = true
-author = ""
+author = "Lars Ziörjen"
+cc_licence = ""
+cc_src = ""
 date = 2019-12-09T12:00:00Z
-description = ""
+description = "Das Frauenrecht in Saudi Arabien ist anders als bei uns."
 fdw = false
 hero_img = "/v1600194557/saudi-arabien-frauenrechte_ywtgxz.jpg"
 img_description = "Niqab clad women sitting together"
