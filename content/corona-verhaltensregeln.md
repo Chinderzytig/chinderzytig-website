@@ -22,37 +22,27 @@ _In Krisenzeiten braucht es Menschen, die befehlen und sagen, was die Bevölkeru
 
 ### **Befehle / Verbote**
 
-> Alle Schulen öffnen wieder, ab 8.6.
-
-> Gruppen bis 30 Personen sind erlaubt, Veranstaltungen bis 300 Personen ebenso
-
-> Kinos, Theater, Zoos, Schwimmbäder können öffnen, unter gewissen Auflagen (Distanzregel)
-
-> Restaurants dürfen wieder grössere Gruppen annehmen​
+> * Alle Schulen öffnen wieder, ab 8.6.
+> * Gruppen bis 30 Personen sind erlaubt, Veranstaltungen bis 300 Personen ebenso
+> * Kinos, Theater, Zoos, Schwimmbäder können öffnen, unter gewissen Auflagen (Distanzregel)
+> * Restaurants dürfen wieder grössere Gruppen annehmen​
 
 ### **Lockerung**
 
-> Der Bundesrat will eine Lockerung mit mindestens drei Stufen
+Der Bundesrat will eine Lockerung mit mindestens drei Stufen
 
-> 1. Stufe beginnt am 27.4.: Gartengeschäfte, Coiffeur, Massage, Physio... sind wieder gestattet
-
-> 2. Stufe beginnt, sofern alles gut läuft, am 11.5.: öffentliche Schulen öffnen wieder, alle Geschäfte dürfen den Betrieb aufnehmen, Restaurants ebenfalls (unter der Bedingung eines Hygienekonzepts), Breitensport ohne Körperkontakt ist erlaubt, Sportanlagen dürfen unter den Bedingungen geöffnet werden, öffentlicher Verkehr wie "früher. Man darf sich zu 4 an einen Tisch im Restaurant setzen (oder als Familie mit mehr als zwei Kindern). Museen und Blibliotheken werden geöffnet
-
-> Im besten Fall wird in der 3. Stufe ab 8.6. weiteres gelockert, unter anderem das Versammlungsgebot
-
-> Profisport darf ab 8.6. ohne Publikum durchgeführt werden
-
-> Grossveranstaltungen mit mehr als 1000 Personen werden bis Ende August verboten**​**
+> * Die erste Stufe beginnt am 27.4.: Gartengeschäfte, Coiffeur, Massage, Physio... sind wieder gestattet
+> * Die zweite Stufe beginnt, sofern alles gut läuft, am 11.5.: öffentliche Schulen öffnen wieder, alle Geschäfte dürfen den Betrieb aufnehmen, Restaurants ebenfalls (unter der Bedingung eines Hygienekonzepts), Breitensport ohne Körperkontakt ist erlaubt, Sportanlagen dürfen unter den Bedingungen geöffnet werden, öffentlicher Verkehr wie "früher. Man darf sich zu 4 an einen Tisch im Restaurant setzen (oder als Familie mit mehr als zwei Kindern). Museen und Blibliotheken werden geöffnet
+> * Im besten Fall wird in der 3. Stufe ab 8.6. weiteres gelockert, unter anderem das Versammlungsgebot
+> * Profisport darf ab 8.6. ohne Publikum durchgeführt werden
+> * Grossveranstaltungen mit mehr als 1000 Personen werden bis Ende August verboten**​**
 
 ### **Hinweise**
 
-> "So schützen wir uns": ernst nehmen! Hände waschen!
-
-> Wenn nicht nötig, dann die Wohnung nicht verlassen. Am Besten bleibt man zu Hause.
-
-> Keine Kontakte zu Risikorgruppen (Grosseltern, Kranke...) haben. Am Besten eh Kontakte kürzen. Es gibt Internet, Telefon, Skype... um mit Freunden in Kontakt zu bleiben.
-
-> Kinder sollen nur noch in Gruppen von höchstens fünf Kindern Zeit verbringen​
+> * "So schützen wir uns": ernst nehmen! Hände waschen!
+> * Wenn nicht nötig, dann die Wohnung nicht verlassen. Am Besten bleibt man zu Hause.
+> * Keine Kontakte zu Risikorgruppen (Grosseltern, Kranke...) haben. Am Besten eh Kontakte kürzen. Es gibt Internet, Telefon, Skype... um mit Freunden in Kontakt zu bleiben.
+> * Kinder sollen nur noch in Gruppen von höchstens fünf Kindern Zeit verbringen​
 
 ### **Grund für die soziale Distanz**
 
@@ -60,5 +50,4 @@ Es geht darum, dass wir das Gesundheitssystem (Spitäler...) entlasten müssen. 
 
 Darum wichtig, auch wenn es nicht logisch tönt: Bleibt zu Hause, wascht euch die Hände, nehmt die Ratschläge ernst.
 
-  
 Auch diese Krise geht vorbei!
