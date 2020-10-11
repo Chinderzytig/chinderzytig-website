@@ -1,8 +1,10 @@
 +++
 artikel = true
 author = "Lars Ziörjen"
+cc_licence = ""
+cc_src = ""
 date = 2019-11-22T12:00:00Z
-description = ""
+description = "Der neuste Schrei im Internet und absoluter Spass für Kinder und Jugendliche kommt aus Peking, China, und heisst TikTok. "
 fdw = false
 hero_img = "/v1600370740/tiktok_mapxuy.jpg"
 img_description = "Smartphone home screen with TikTok app in focus"
