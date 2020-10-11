@@ -1,10 +1,10 @@
 +++
 artikel = true
-author = ""
+author = "Natalie Hald"
 cc_licence = "CC BY 2.0"
 cc_src = "https://creativecommons.org/licenses/by/2.0/deed.de"
 date = 2020-05-12T11:00:00Z
-description = ""
+description = "Venezuela ist reich an Rohstoffen. Es hat die grössten Erdölvorkommen der Welt und trotzdem lebt der grösste Anteil der Bevölkerung in Armut und leidet unter Hunger. "
 fdw = false
 hero_img = "/v1600703920/venezuela_fqboia.jpg"
 img_description = "Young man chains himself to the Francia Square, in the Altamira neighborhood (Caracas, Venezuela), asking for the release of all the jailed protesters of this year Venezuelan unrest - Via Wikimedia Commons"
