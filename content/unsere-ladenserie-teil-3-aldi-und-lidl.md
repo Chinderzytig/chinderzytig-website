@@ -11,10 +11,10 @@ hero_img = ""
 img_description = ""
 img_photographer = ""
 img_src = ""
-kategorien = []
-markierungen = []
+kategorien = ["Gesellschaft", "Europa"]
+markierungen = ["Schweiz"]
 paid = false
-slug = ""
+slug = "aldi"
 title = "Unsere Ladenserie: Teil 3 – Aldi und Lidl"
 
 +++
@@ -26,7 +26,7 @@ Der Einzug von Aldi vor 15 Jahren war ein nationales Ereignis. Zeitungen und Fer
 
 ### **Von der Autobahnausfahrt in die Fussgängerzone**
 
-Aldi und Lidl bauten ihre Filialen anfänglich an abgelegenen Orten, wo die Miete billig war, z.B. an Autobahnausfahrten. An diesen Standorten hatten Migros und Coop kein Interesse. Die Supermärkte waren häufig nur mit dem Auto erreichbar. 
+Aldi und Lidl bauten ihre Filialen anfänglich an abgelegenen Orten, wo die Miete billig war, z.B. an Autobahnausfahrten. An diesen Standorten hatten Migros und Coop kein Interesse. Die Supermärkte waren häufig nur mit dem Auto erreichbar.
 
 Inzwischen haben Aldi 206 und Lidl 140 Filialen in der Schweiz. Die Ausbreitung der Discounter hat den Schweizer Detailhandel stark beeinflusst. Migros und Coop haben wegen der Konkurrenz ihr Billigsortiment (Migros-Budget und Prix-Garantie) massiv vergrössert. Preise wie in Deutschland gibt es in der Schweiz jedoch nicht. Denn auch Aldi und Lidl müssen die Schweizer Mindestlöhne bezahlen.
 
@@ -35,3 +35,9 @@ Neuerdings nehmen Aldi und Lidl exklusivere Lagen ins Visier: Innenstädte, Bahn
 ### **Reichster Mensch in Deutschland**
 
 Dass man mit billigen Produkten viel Geld verdienen kann, zeigt übrigens Karl Hans Albrecht. Er gründete 1962 Aldi, zusammen mit seinem Bruder. Als Albrecht 2014 starb, war er der reichste Mensch in Deutschland.
+
+{{< teiler >}}
+
+{{< container-center >}}
+{{< arbeitsmaterial file="Arbeitsmaterial_Aldi_Lidl_mitLoesungen_t8g0wu" >}}
+{{< /container-center >}}
