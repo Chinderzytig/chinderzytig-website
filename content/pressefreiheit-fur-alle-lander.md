@@ -1,8 +1,10 @@
 +++
 artikel = true
 author = "Seraina Branschi"
+cc_licence = ""
+cc_src = ""
 date = 2020-05-03T11:00:00Z
-description = ""
+description = "Journalisten dürfen in vielen Ländern ohne Einschränkungen schreiben. Wir sprechen dabei von Pressefreiheit. "
 fdw = false
 hero_img = "/v1600357814/internationaler-presse-freiheits-tag_lc4mip.jpg"
 img_description = "A line of press cameras"
