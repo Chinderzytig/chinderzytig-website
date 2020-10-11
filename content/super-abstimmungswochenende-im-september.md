@@ -1,10 +1,10 @@
 +++
 artikel = true
-author = ""
+author = "CF"
 cc_licence = "CC BY 2.0"
 cc_src = "https://creativecommons.org/licenses/by/2.0/deed.de"
 date = 2020-09-23T11:00:00Z
-description = ""
+description = "Das Schweizer Volk entscheidet am 27. September gleich über fünf Fragen. Am meisten gestritten wird über die SVP-Initiative zur Einwanderung aus der EU und über den Kauf von neuen Kampfjets für die Schweizer Armee."
 fdw = true
 hero_img = "/v1601281104/fdw-abstimmungssonntag_rzytbt.jpg"
 img_description = "A McDonnell-Douglas FA-18D Hornet of the Swiss Air Force"
