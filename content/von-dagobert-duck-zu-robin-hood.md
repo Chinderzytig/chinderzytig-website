@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-03-08T10:00:00Z
 description = "Steve Jobs erfand die Firma mit dem Apfel. Dank iPhone, iPod, iMac und vielen anderen Produkten wurden Apple und er weltberühmt – und steinreich. Nach seinem Tod hütet seine Frau nun das Vermögen, das sich auf etwa 20 Milliarden schätzen lässt. Doch anstatt es in einem Geldspeicher aufzubewahren will sie das Vermögen nun schrittweise verteilen. Zum \"Tag der Frau\" am 8.3. zeigen wir ein Beispiel einer tollen Frau, die Gutes tun will."
-draft = true
 fdw = false
 hero_img = "/v1602407691/Magazine_Woman_Yes-you-can_tm9lnk.jpg"
 img_description = "Aufgeschlagenes Heft mit Ausdruck 'Yes you can'"
