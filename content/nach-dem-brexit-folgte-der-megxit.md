@@ -1,6 +1,6 @@
 +++
 artikel = true
-author = "Sarinia Branschi"
+author = "Seraina Branschi"
 cc_licence = ""
 cc_src = ""
 date = 2020-05-18T23:00:00Z
