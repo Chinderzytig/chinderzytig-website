@@ -40,4 +40,6 @@ Dass die Natur eine Entspannung erlebt, schadet gar nicht. Dass wir Menschen ler
 * Schauen wir zueinander. Besonders auch: Liebe Kinder und Jugendliche, schaut auch zu den Erwachsenen. Ihr seid oftmals entspannter und lockerer drauf als wir und auch für uns Erwachsenen ist diese Phase das erste Mal. Danke für euer Verständnis 😊
 * Freuen wir uns auf den Moment, in dem die alt bekannte Freiheit vielleicht wieder ein wenig normaler wird – und geniessen wir sie umso mehr.
 
+  {{< image img="Enter file with ext. here" desc="Hands holding a large bottle of hand sanitizer" photographer="Kelly Sikkema" src="https://unsplash.com/photos/V_-vbcHMATA" >}}
+
 Wir wünschen allen Menschen und speziell all unseren Lesenden gute Gesundheit, Durchhaltewillen, Geduld, Freude am Leben, keine Angst, Optimismus – und wenn es zu mühsam wird, zumindest allen ein Schöggeli, damit das Herz von innen genährt wird!
