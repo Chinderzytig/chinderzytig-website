@@ -13,7 +13,7 @@ img_src = "https://unsplash.com/@davidclode"
 kategorien = ["Natur/Umwelt", "Asien"]
 markierungen = ["Indonesien", "Tierwelt"]
 paid = false
-slug = "komodowarane"
+slug = "komodowaran"
 title = "Komodowarane: Ein Wildschwein zum Frühstück"
 
 +++
