@@ -13,7 +13,7 @@ img_src = "https://corporate.lidl.ch/de/newsroom"
 kategorien = ["Gesellschaft", "Europa"]
 markierungen = ["Schweiz"]
 paid = false
-slug = "aldi"
+slug = "ladenserie-3-aldi-und-lidl"
 title = "Unsere Ladenserie: Teil 3 – Aldi und Lidl"
 
 +++
