@@ -13,7 +13,7 @@ img_src = "https://www.coop.ch/de/unternehmen/medien/mediathek.html"
 kategorien = ["Europa", "Gesellschaft"]
 markierungen = ["Schweiz"]
 paid = false
-slug = "coop"
+slug = "ladenserie-coop"
 title = "Unsere Ladenserie: Teil 2 – Coop"
 
 +++
