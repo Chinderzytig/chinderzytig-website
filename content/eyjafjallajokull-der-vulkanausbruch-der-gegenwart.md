@@ -13,7 +13,7 @@ img_src = "https://unsplash.com/@marcszeglat"
 kategorien = ["Europa", "Natur/Umwelt "]
 markierungen = ["Island"]
 paid = false
-slug = "eyjafjallajokull"
+slug = "eyjafjallajoekull"
 title = "Eyjafjallajökull – Der Vulkanausbruch der Gegenwart "
 
 +++
