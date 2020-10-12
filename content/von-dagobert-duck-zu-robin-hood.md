@@ -13,7 +13,7 @@ img_src = "https://unsplash.com/@contentpixie"
 kategorien = ["Nordamerika", "Gesellschaft"]
 markierungen = ["Personen", "Soziales"]
 paid = false
-slug = ""
+slug = "von-dagobert-duck-zu-robin-hood"
 title = "Von Dagobert Duck zu Robin Hood"
 
 +++
