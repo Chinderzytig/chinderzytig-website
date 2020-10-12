@@ -13,7 +13,7 @@ img_src = "https://unsplash.com/@masjidmpd"
 kategorien = ["Asien", "Gesellschaft"]
 markierungen = ["Irak"]
 paid = false
-slug = ""
+slug = "freiheit-durch-tod"
 title = "Freiheit durch Tod"
 
 +++
