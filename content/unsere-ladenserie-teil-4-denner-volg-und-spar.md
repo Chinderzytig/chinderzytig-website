@@ -13,7 +13,7 @@ img_src = ""
 kategorien = []
 markierungen = []
 paid = false
-slug = "denner"
+slug = "ladenserie4-spar-denner-volg"
 title = "Unsere Ladenserie: Teil 4 – Denner, Volg und Spar"
 
 +++
