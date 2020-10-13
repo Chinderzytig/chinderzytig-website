@@ -5,7 +5,7 @@ $(document).ready(function() {
 		$('html, body').animate({scrollTop: $('.js-section-comments').offset().top}, 1000);
 	});
 
-	if($(".card__hidden:hidden").length < 6) {$("#loadMore").hide();}
+	if($(".card__hidden:hidden").length <= 6) {$("#loadMore").hide();}
 
 	$(".card__hidden").slice(0, 6).show();
 
