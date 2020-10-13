@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-04-24T11:00:00Z
 description = "Die Dokumentation auf Netflix ist sehr spannend und bring die gewünschte Ablenkung zu Zeiten von Corona."
-draft = true
 fdw = false
 hero_img = "/v1600436876/TigerKing_1x1_PRE_tldmdc.jpg"
 img_description = "Key art for Netflix's series Tiger King: Murder, Mayhem and Madness"
