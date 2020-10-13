@@ -2,6 +2,8 @@
 artikel = true
 author = "P.B. und Lars Ziörjen"
 categories = []
+cc_licence = ""
+cc_src = ""
 date = 2020-03-15T00:00:00Z
 description = ""
 fdw = false
@@ -10,7 +12,7 @@ img_description = "Visual representation of the Coronavirus"
 img_photographer = "CDC"
 img_src = "https://unsplash.com/@cdc"
 kategorien = ["Welt", "Gesundheit"]
-markierungen = ["COVID-19"]
+markierungen = ["COVID19"]
 paid = false
 slug = "corona"
 tags = []
