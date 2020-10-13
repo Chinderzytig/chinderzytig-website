@@ -5,7 +5,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-10-14T06:00:00Z
 description = "In diesem Jahr nimmt uns ein kleines Virus gewaltig in die Mangel. Corona dominiert die Welt."
-draft = true
 fdw = true
 hero_img = "/v1602504864/cdc-w9KEokhajKw-unsplash_daburx.jpg"
 img_description = "Das Corona-Virus verbreitet sich weiter und weiter"
