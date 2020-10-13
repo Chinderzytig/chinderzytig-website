@@ -1,6 +1,8 @@
 +++
 artikel = true
 author = ""
+cc_licence = ""
+cc_src = ""
 date = 2020-04-09T11:00:00Z
 description = ""
 fdw = false
@@ -9,7 +11,7 @@ img_description = "Empty train station - Zurich"
 img_photographer = "Dorothea Oldani"
 img_src = "https://unsplash.com/@dorographie"
 kategorien = ["Welt", "Gesundheit"]
-markierungen = ["COVID-19"]
+markierungen = ["COVID19"]
 paid = false
 slug = "dasgutedaran"
 title = "Das Gute daran - Licht und Schatten mit Corona "
