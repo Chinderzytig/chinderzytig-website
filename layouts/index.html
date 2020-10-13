@@ -7,7 +7,7 @@
 		<div class="card__list">
 			<h2 class="heading heading__tertiary">Coronavirus</h2>
 			<div class="card__container">
-				{{ range first 3 (index .Site.Taxonomies.markierungen "covid-19") }}
+				{{ range first 3 .Site.Taxonomies.markierungen.covid19 }}
 					<a href="{{.RelPermalink}}" class="card card--white">
 						<div class="card__img-container">
 							<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
@@ -26,7 +26,7 @@
 				{{ end }}
 			</div>
 			<div class="btn__container">
-				<a href="/markierungen/covid-19" class="btn btn--secondary">Mehr Artikel</a>
+				<a href="/markierungen/covid19" class="btn btn--secondary">Mehr Artikel</a>
 			</div>
 		</div>
 	</section>
