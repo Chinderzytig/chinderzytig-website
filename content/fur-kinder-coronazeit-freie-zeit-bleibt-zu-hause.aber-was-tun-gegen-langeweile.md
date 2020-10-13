@@ -1,6 +1,8 @@
 +++
 artikel = true
 author = "Gastbeitrag vom 6.klässler Olivier Dick"
+cc_licence = ""
+cc_src = ""
 date = 2020-03-22T00:00:00Z
 description = ""
 fdw = false
@@ -9,7 +11,7 @@ img_description = "Child peeking through blinds"
 img_photographer = "Sharon McCutcheon"
 img_src = "https://unsplash.com/@sharonmccutcheon"
 kategorien = ["Welt", "Gesundheit"]
-markierungen = ["COVID-19"]
+markierungen = ["COVID19"]
 paid = false
 slug = "corona-und-langeweile"
 title = "Für Kinder: Coronazeit = freie Zeit? Bleibt zu Hause. Aber was tun gegen Langeweile?"
