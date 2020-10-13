@@ -1,6 +1,6 @@
 baseURL = "https://www.chinderzytig.ch"
 languageCode = "de"
-title = "Die Zeitung für Kinder und Jungendliche"
+title = "Die Zeitung für Kinder und Jugendliche"
 disqusShortname = "chinderzytig"
 [params]
 	DateForm = "2.01.2006"
