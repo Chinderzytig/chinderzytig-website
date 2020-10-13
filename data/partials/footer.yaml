@@ -12,7 +12,7 @@ main:
   - label: Datenschutz
     link: "/datenschutz"
   - label: Seitenverzeichnis
-    link: "#"
+    link: "/sitemap.xml"
   - label: Admin
     link: "/admin"
 left:
