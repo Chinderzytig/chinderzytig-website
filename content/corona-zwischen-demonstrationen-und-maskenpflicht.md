@@ -1,6 +1,8 @@
 +++
 artikel = true
 author = "Seraina Branschi"
+cc_licence = ""
+cc_src = ""
 date = 2020-05-26T11:00:00Z
 description = ""
 fdw = false
@@ -9,7 +11,7 @@ img_description = "Anti-corona protest sign"
 img_photographer = "Markus Spiske"
 img_src = "https://unsplash.com/@markusspiske"
 kategorien = ["Welt", "Gesundheit"]
-markierungen = ["COVID-19"]
+markierungen = ["COVID19"]
 paid = false
 slug = "coronademonstrationen"
 title = "Corona – Zwischen Demonstrationen und Maskenpflicht"
