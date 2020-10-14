@@ -1,6 +1,8 @@
 +++
 artikel = true
 author = "Oliver Dick"
+cc_licence = ""
+cc_src = ""
 date = 2020-04-21T11:00:00Z
 description = ""
 fdw = false
@@ -9,7 +11,7 @@ img_description = "People wait in line to get flu masks to avoid the spread of S
 img_photographer = "California State Library"
 img_src = "https://oac.cdlib.org/search?style=oac4;Institution=California%20State%20Library::California%20History%20Room;idT=ACT-6804"
 kategorien = ["Welt", "Gesundheit"]
-markierungen = ["Krankheiten"]
+markierungen = ["COVID19", "Krankheiten"]
 paid = false
 slug = "spanischegrippe"
 title = "Heute: Corona. Vor 100 Jahren? Spanische Grippe"
