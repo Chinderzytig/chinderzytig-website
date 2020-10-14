@@ -23,11 +23,9 @@ _Wenn ein Mensch einen anderen Menschen auf eine Art körperlich berührt, ohne 
 
 Diese zwei Worte sind die berühmtesten Worte auf sozialen Plattformen wie z.B Twitter. Diese Worte wurden so berühmt, weil im Oktober 2017 in der amerikanischen Zeitung «New York Times» ein Artikel über den 67 Jährigen erfolgreichen Filmproduzenten Harvey Weinstein erschien. Ihm wurde darin vorgeworfen, dass er mehrere Frauen {{< fremdwort id="sexuell genötigt" wort="sexuell genötigt" >}} und einige auch vergewaltigt haben soll.
 
-{{< definition id="sexuell genötigt" wort="Sexuelle Nötigung" def="Sexuelle Nötigung bedeutet, dass sexuelle Handlungen gegen den Willen des Opfers gemacht werden. Vergewaltigung ist auch eine Art von sexueller Nötigung, bei der das Opfer nicht «nur» zu sexuellen Handlungen, sondern auch zu Sex gezwungen wird." >}}
-
-{{< container-center >}}
 {{< tweet 919659438700670976 >}}
-{{< /container-center >}}
+
+{{< definition id="sexuell genötigt" wort="Sexuelle Nötigung" def="Sexuelle Nötigung bedeutet, dass sexuelle Handlungen gegen den Willen des Opfers gemacht werden. Vergewaltigung ist auch eine Art von sexueller Nötigung, bei der das Opfer nicht «nur» zu sexuellen Handlungen, sondern auch zu Sex gezwungen wird." >}}
 
 ### #metoo erobert die Welt
 
