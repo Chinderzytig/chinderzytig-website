@@ -10,7 +10,7 @@ hero_img = "/v1602651038/united-nations-covid-19-response-TM0Iw87uiCY-unsplash_z
 img_description = "Im Moment herrscht grosse Unsicherheit. Viele von uns sind gezwungen, ihre Gewohnheiten zu ändern."
 img_photographer = "United Nations COVID-19 Response"
 img_src = "https://unsplash.com/photos/TM0Iw87uiCY"
-kategorien = ["Gesundheit", "Welt"]
+kategorien = ["Coronavirus", "Gesundheit", "Welt"]
 markierungen = []
 paid = false
 slug = "quarantaene-nach-den-herbstferien"
@@ -31,17 +31,16 @@ Das Bundesamt für Gesundheit (BAG) beobachtet die Situation in den verschiedene
 * Dänemark
 * Marokko
 * Russland
-* verschiedene Regionen in Deutschland, Frankreich, Italien und Österreich  
+* verschiedene Regionen in Deutschland, Frankreich, Italien und Österreich
 
 Das Ansteckungsrisiko ist in diesen Gebieten höher als in der Schweiz. Das BAG empfiehlt, diese Länder oder Regionen nur zu besuchen, wenn es wirklich nötig ist. Wer jetzt aus diesen Ländern zurückkommt, muss 10 Tage in Quarantäne. Das gilt übrigens für alle Leute, die von dort in die Schweiz kommen, also auch für Touristen aus diesen Ländern oder sonstige Besucher.
 
 Nicht in Quarantäne gehen muss man, wenn man nur in einer Grenzregion war – also in einer Region direkt an der Schweizer Grenze. Hier gibt es eine Ausnahme, weil viele Leute zur Arbeit oder für kurze Ausflüge die Grenze übertreten.
 
-  
 Die vollständige Liste der Risikoländer: [https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html "https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html")
 
 {{< teiler >}}
 
 {{< container-center >}}
-{{< arbeitsmaterial file="add file name without extension" >}}
+{{< arbeitsmaterial file="Quaranta%CC%88ne_AM_sg_eq9vfo" >}}
 {{< /container-center >}}
