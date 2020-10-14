@@ -1,40 +1,45 @@
 team:
-- img: "yvonne_otgjpm.jpg"
+- img: "Yvonne_pnn93g.png"
   desc: Yvonne Bischof
   info:
     - name: Yvonne Bischof
       title: Verantwortung Ressort Bildung, Co-Präsidentin
       focus: Lehrperson Zyklus 2
-- img: "seraina_oo1jvl.png"
+- img: "Seraina_kqachl.png"
   desc: Seraina Branschi
   info:
     - name: Seraina Branschi
       title: Verantwortung Redaktion und Website
       focus: Mitarbeiterin Marketing & Kommunikation, Swiss Economic Forum & NZZ Konferenzen
-- img: "melanie_eju55k.jpg"
+- img: "Melanie_uong0n.png"
   desc: Melanie Cabalerio
   info:
     - name: Melanie Cabalerio
       title: Verantwortung Ressort Bildung / Marketing
       focus: Lehrperson Zyklus 2
-- img: "simone_ninxtj.jpg"
+- img: "Simone_ezczne.png"
   desc: Simone Gefeller
   info:
     - name: Simone Gefeller
       title: Verantwortung Datenbankbewirtschaftung / Ressort Bildung
       focus: Lehrperson Zyklus 1
-- img: "isabel_u1reb4.png"
+- img: "Isabel_uwzuh0.png"
   desc: Isabel Niklaus
   info:
     - name: Isabel Niklaus
       title: Verantwortung Marketing / Kommunikation / Sales
       focus: Projektleiterin, Swiss Economic Forum & NZZ Konferenzen
-- img: "lars_w1kacn.jpg"
+- img: "Lars_q8z7o1.png"
   desc: Lars Ziörjen
   info:
     - name: Lars Ziörjen
       title: Gesamtverantwortung, Co-Präsident
       focus: Lehrperson Zyklus 3, Schulleiter, Theater- und Kinderbuchautor
+- img: "Matt_vprxkn.png"
+  desc: Matthew LaPorte
+  info:
+    - name: Matthew LaPorte
+      title: Technischer Leiter/Web-Entwickler
 
 others:
 - heading: Finanzen
@@ -59,9 +64,6 @@ others:
     - member: Christoph Kuhn, Lehrperson Zyklus 3
     - member: Oliver Dick, Schüler
     - member: Studierende der PHBern IS1
-- heading: Website-Weiterentwicklung
-  members:
-    - member: Matt LaPorte, Web-Entwickler
 - heading: Ressort Bildung (Pädagogik & Didaktik)
   members:
     - member: Yvonne Bischof, Hauptverantwortung, Lehrperson Zyklus 2
