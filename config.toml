@@ -8,3 +8,6 @@ disqusShortname = "chinderzytig"
 [taxonomies]
 	katagorie = "kategorien"
 	markierung = "markierungen"
+[services]
+	[services.youtube]
+		privacyEnhanced = true
