@@ -33,7 +33,7 @@ Das Bundesamt für Gesundheit (BAG) beobachtet die Situation in den verschiedene
 * Russland
 * verschiedene Regionen in Deutschland, Frankreich, Italien und Österreich
 
-Das Ansteckungsrisiko ist in diesen Gebieten höher als in der Schweiz. Das BAG empfiehlt, diese Länder oder Regionen nur zu besuchen, wenn es wirklich nötig ist. Wer jetzt aus diesen Ländern zurückkommt, muss 10 Tage in Quarantäne. Das gilt übrigens für alle Leute, die von dort in die Schweiz kommen, also auch für Touristen aus diesen Ländern oder sonstige Besucher.
+Das Ansteckungsrisiko ist in diesen Gebieten höher als in der Schweiz. Das BAG empfiehlt, diese Länder oder Regionen nur zu besuchen, wenn es wirklich nötig ist. Wer jetzt aus diesen Ländern zurückkommt, muss 10 Tage in Quarantäne. Das gilt übrigens für alle Leute, die von dort in die Schweiz kommen, also auch für Touristen aus diesen Ländern oder sonstige Besucher. Auch die Schweiz oder zumindest einige Kantone gelten für gewisse Länder als Risikoländer. Zum Beispiel gelten in Deutschland der Kanton Genf und Waadt als Risikogebiete und von einer Reise dorthin wird abgeraten.
 
 Nicht in Quarantäne gehen muss man, wenn man nur in einer Grenzregion war – also in einer Region direkt an der Schweizer Grenze. Hier gibt es eine Ausnahme, weil viele Leute zur Arbeit oder für kurze Ausflüge die Grenze übertreten.
 
