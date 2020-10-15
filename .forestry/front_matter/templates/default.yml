@@ -12,7 +12,7 @@ fields:
   description: "(ie. https://www.chinderzytig.ch/<strong>the-sub-directory-is-here</strong>).
     Only fill this out if you want a specific sub-directory. If empty, this field
     will automatically take the title with added hypens (-)."
-  hidden: false
+  hidden: true
 - type: text
   name: description
   label: description
