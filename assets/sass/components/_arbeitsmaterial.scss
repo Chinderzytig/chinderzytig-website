@@ -1,5 +1,7 @@
 .arbeitsmaterial {
 
+	&-group { margin-bottom: $margin-s; }
+
 	&__container {
 		display: flex;
 		justify-content: space-around;

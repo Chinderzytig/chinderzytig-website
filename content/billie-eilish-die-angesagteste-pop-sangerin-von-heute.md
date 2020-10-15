@@ -21,6 +21,6 @@ Ihr erstes Album landete in der Hitparade der USA sofort auf Platz 1. 12 ihrer 1
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="billie-ellish-arbeitmaterial_btdqpc" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

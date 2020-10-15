@@ -49,6 +49,6 @@ In der Schweiz gibt es 2‘202 Gemeinden. Jede Gemeinde hat im Durchschnitt also
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="Arbeitsmaterial_Ladenserie_DennerVolgundSpar_c5kkc2" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

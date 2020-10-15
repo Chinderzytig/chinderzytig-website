@@ -45,4 +45,4 @@ Rega Homepage: [https://www.rega.ch/](https://www.rega.ch/ "https://www.rega.ch/
 
 {{< teiler >}}
 
-{{< container-center >}} {{< arbeitsmaterial file="rega-arbeitsmaterial_g35awb" >}} {{< /container-center >}}
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="rega-arbeitsmaterial_g35awb" >}} {{< /arbeitsmaterial-group >}}

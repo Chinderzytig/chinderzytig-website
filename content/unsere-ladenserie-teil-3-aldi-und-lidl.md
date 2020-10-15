@@ -37,6 +37,6 @@ Dass man mit billigen Produkten viel Geld verdienen kann, zeigt übrigens Karl H
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="Arbeitsmaterial_Aldi_Lidl_mitLoesungen_t8g0wu" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

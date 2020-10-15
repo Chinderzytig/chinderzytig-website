@@ -37,6 +37,6 @@ Damit das nicht passiert, ist es wichtig, dass man sich immer wieder daran erinn
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="wasistscho%CC%88n_of8bbt" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

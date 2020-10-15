@@ -1,1 +1,5 @@
-.container__center { margin-bottom: $margin-s; }
+.container__center {
+	display: flex;
+	justify-content: center;
+	margin-bottom: $margin-s;
+}

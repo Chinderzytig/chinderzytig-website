@@ -41,6 +41,6 @@ Die vollständige Liste der Risikoländer: [https://www.bag.admin.ch/bag/de/home
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="Quaranta%CC%88ne_AM_sg_eq9vfo" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

@@ -37,4 +37,4 @@ Warum sagt man 9/11 (nine-eleven)? Im US-Englisch nimmt man den Monat vor dem Ta
 
 {{< teiler >}}
 
-{{< container-center >}} {{< arbeitsmaterial file="nine-eleven-arbeitsmaterial_upqqbx" >}} {{< /container-center >}}
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="nine-eleven-arbeitsmaterial_upqqbx" >}} {{< /arbeitsmaterial-group >}}

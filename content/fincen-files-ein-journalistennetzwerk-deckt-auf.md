@@ -37,4 +37,4 @@ Wieviel Geld in welchen Ländern als illegal gilt, wieviele Reiche vom Geld für
 
 {{< teiler >}}
 
-{{< container-center >}} {{< arbeitsmaterial file="fincen-files_nn1uly" >}} {{< /container-center >}}
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="fincen-files_nn1uly" >}} {{< /arbeitsmaterial-group >}}

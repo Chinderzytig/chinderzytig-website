@@ -39,8 +39,8 @@ Für uns auf der Erde ist der Schrott zum Glück nicht gefährlich. Wenn er zu n
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="schrott-im-weltraum-arbeitsmaterial_bui64q" >}}
 
 {{< arbeitsmaterial file="schrott-im-weltraum-arbeitsmaterial-2_acgnid" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

@@ -32,6 +32,6 @@ Forscherinnen und Forscher machen sich deshalb schon heute Gedanken, wie man die
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="radioaktiver-abfall-arbeitsmaterial_lxfevk" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

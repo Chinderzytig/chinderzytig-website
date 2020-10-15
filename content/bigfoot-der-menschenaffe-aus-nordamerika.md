@@ -48,6 +48,6 @@ Viele der älteren Sichtungen oder Aufnahmen geschahen zufällig. Seit einigen J
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="bigfoot-arbeitsmaterial_wikmrx" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}
