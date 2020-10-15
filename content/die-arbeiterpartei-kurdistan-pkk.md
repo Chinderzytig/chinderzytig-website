@@ -35,6 +35,6 @@ Wir haben in mehreren Artikeln über die Konflikte im nahen Osten berichtet. Die
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="arbeiterpartei-kurdistan-arbeitsmaterial_vq9unb" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

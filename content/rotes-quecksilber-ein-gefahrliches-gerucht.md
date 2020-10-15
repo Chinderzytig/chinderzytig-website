@@ -43,4 +43,4 @@ Webseite der «Kampagne gegen rotes Quecksilber» (englisch): [https://redmercur
 
 {{< teiler >}}
 
-{{< container-center >}} {{< arbeitsmaterial file="rotesquecksilber_jrs9u3" >}}{{< /container-center >}}
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="rotesquecksilber_jrs9u3" >}}{{< /arbeitsmaterial-group >}}

@@ -33,6 +33,6 @@ Ihr habt sicher in letzter Zeit viel vom Coronavirus gehört. Personen müssen w
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="Ein-Hoch-auf-das-Pflegepersonal-arbeitsmaterial_z9klkl" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

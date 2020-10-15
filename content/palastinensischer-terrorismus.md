@@ -43,6 +43,6 @@ Riegler, Thomas (2018): «Das «Spinnennetz» des internationalen Terrorismus- D
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="palaestinensischer-terrorismus-arbeitsmaterial_xz6iwc" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

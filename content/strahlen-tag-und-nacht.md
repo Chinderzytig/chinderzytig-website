@@ -42,6 +42,6 @@ Hier ist eine kurze Erklärung zu diesen Begriffen.
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="handystrahlung-arbeitsmaterial_jsjfdo" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

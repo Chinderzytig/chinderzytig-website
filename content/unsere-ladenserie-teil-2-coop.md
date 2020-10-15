@@ -53,6 +53,6 @@ Migros und Coop verfolgen eine ähnliche Strategie. Beide versuchen stark zu wac
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="Arbeitsmaterial_Coop_vpj99d" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

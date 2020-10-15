@@ -46,4 +46,4 @@ So hat sich im Laufe der Jahrhunderte das Bild der Sagengestalt gewandelt. Aus d
 
 {{< teiler >}}
 
-{{< container-center >}} {{< arbeitsmaterial file="loch-ness-monster-arbeitsmaterial_c3qd3p" >}} {{< /container-center >}}
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="loch-ness-monster-arbeitsmaterial_c3qd3p" >}} {{< /arbeitsmaterial-group >}}

@@ -39,6 +39,6 @@ Rund 150’000 Frauen, Männer und Kinder sind wegen des türkischen Angriffs be
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="kurden-in-syrien-arbeitsmaterial_qiuzsc" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}

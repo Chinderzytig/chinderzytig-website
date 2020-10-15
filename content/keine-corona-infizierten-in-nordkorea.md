@@ -48,6 +48,6 @@ Frank, Rüdiger (2013) Nordkorea: Zwischen Stagnation und Veränderungsdruck. In
 
 {{< teiler >}}
 
-{{< container-center >}}
+{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial file="nordkorea-und-corona-arbeitsmaterial_ofbj21" >}}
-{{< /container-center >}}
+{{< /arbeitsmaterial-group >}}
