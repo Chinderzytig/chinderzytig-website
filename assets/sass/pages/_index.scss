@@ -5,10 +5,9 @@
 	@include respond(tab-port-sm) { margin-top: 0; }
 }
 
-.special__cta { @include cta-color($cta-azure); }
+.new__cta { @include cta-color($cta-azure); }
 
 .fdw__cta {
-	@include cta-color($cta-seashell);
 
 	&-container {
 		display: flex;
@@ -19,3 +18,5 @@
 
 	&-link { text-decoration: none; }
 }
+
+.special__cta { @include cta-color($cta-seashell); }
