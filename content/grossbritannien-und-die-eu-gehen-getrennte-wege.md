@@ -1,11 +1,13 @@
 +++
 artikel = true
-author = ""
+author = "Lars Ziörjen"
+cc_licence = ""
+cc_src = ""
 date = 2020-02-02T00:00:00Z
-description = ""
+description = "Der Kontinent Europa versuchte mit der EU die Länder zu vereinen. Keine Grenzen, gleiche Währung, ähnliche Regeln. Doch die EU scheint langsam auseinanderzubrechen. Viele kritische Stimmen werden laut. Am Lautesten die Stimmen von Grossbritannien."
 fdw = false
 hero_img = "/v1599985327/brexitisreal_tqvitt.jpg"
-img_description = "Two British protesters against Brexit"
+img_description = "Zwei Briten demonstrieren gegen Brexit."
 img_photographer = "Jannes Van den wouwer"
 img_src = "https://unsplash.com/@jannesvdw"
 kategorien = ["Europa", "Politik"]
