@@ -35,4 +35,4 @@ Tatsächlich ist die Ausgangslage nahezu ideal, denn auf Russland schaut momenta
 
 Was weisst du über Russland? Wie wirken Putin, Trump und Co. auf dich? Weshalb scheinen diese Länder wichtiger zu sein als andere? Was möchtest du noch (von uns) wissen?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
