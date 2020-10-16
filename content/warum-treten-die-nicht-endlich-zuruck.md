@@ -45,4 +45,4 @@ Wenn eine ganze Regierung eines Landes zurücktritt, braucht es eine neue. Das d
 
 Was glaubst du, ist mit dem Rücktritt der Regierung jetzt das Problem gelöst? Was denkst du über die Ursache der Explosion? War es wirklich die Regierung? Oder war es deiner Meinung nach ein einfacher Unfall? Und was würdest du dir für eine Art von Regierung wünschen?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
