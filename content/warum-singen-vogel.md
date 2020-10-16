@@ -27,7 +27,7 @@ Das Vogelmännchen markiert mit dem Gesang sein Territorium – so wie ein Hund,
 
 In der Vogelwelt machen meistens die Männchen den ersten Schritt bei der Partnersuche. Das bedeutet: Meistens singen nur die Männchen. Das heisst aber nicht, dass die Weibchen nicht singen können. Sie tun es nur nicht so oft und nicht so laut.
 
-{{< image img="warum-singen-voegel-2_bdtj1e.jpg" desc="A Hawk looks for breakfast from a tree" photographer="Robert Thiemann" src="https://unsplash.com/@rthiemann" >}}
+{{< image img="warum-singen-voegel-2_bdtj1e.jpg" desc="Ein Falke späht nach Essen von einem Baum" photographer="Robert Thiemann" src="https://unsplash.com/@rthiemann" >}}
 
 ### Warnung vor dem Feind
 
@@ -46,4 +46,4 @@ Der Gesang hat also mehrere Funktionen: Als Markierung des Reviers, als Lockruf 
 {{< arbeitsmaterial file="warum-singen-voegel-arbeitsmaterial_b1bv4h" >}}
 {{< /arbeitsmaterial-group >}}
 
-###
+### 
