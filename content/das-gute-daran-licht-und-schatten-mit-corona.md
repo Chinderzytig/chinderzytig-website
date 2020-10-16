@@ -23,7 +23,7 @@ _So verliefen viele Gespräche mit (alten) Freunden oder auch Verwandten, die ma
 
 Das Corona-Virus bringt Schrecken, Angst und Leid. Viele Infizierte, viele Tote, Arbeitslose, Existenzängste, grosse Unsicherheit, grosse Veränderung. Läden geschlossen, Grenzen gesperrt, Schulen zu. Unser Leben, wie wir es im vergangenen Februar noch kannten, existiert so nicht mehr. Die unsichtbare Kraft der Natur zwingt die Menschen weltweit zum Umdenken. Der Folgende Artikel soll nicht werten und nichts schönreden. Das Leid ist bei sehr vielen Menschen Tatsache. Dennoch gibt es grundsätzlich auch Gute Seiten daran, die über die eigene Situation hinausgehen.
 
-Wir von der Chinderzytig sind überzeugt, dass in fast allem auch irgendwo etwas Gutes stecken kann, so auch in dieser verrückten Situation. Schauen wir einige Punkte an - und vielleicht kennt ihr noch mehr? **Dann schreibt sie in die Kommentare oder** [**kontaktiere uns**](https://chinderzytig-v1.netlify.app/kontakt/ "kontaktiere uns")**.**
+Wir von der Chinderzytig sind überzeugt, dass in fast allem auch irgendwo etwas Gutes stecken kann, so auch in dieser verrückten Situation. Schauen wir einige Punkte an - und vielleicht kennt ihr noch mehr? **Dann schreibt sie in die Kommentare oder** [**kontaktiere uns**](https://www.chinderzytig.ch/kontakt/)**.**
 
 ### Wir rücken zusammen - Hallo, Du!
 
