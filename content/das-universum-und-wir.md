@@ -35,4 +35,4 @@ Im Universum spielt sich viel Spannendes ab. Auch auf der Erde - aber nicht nur.
 
 ### Nun bist du an der Reihe
 
-Wie wirkt der Fokus der Woche auf dich? Was denkst du zum Thema? Was denken deine Freunde, deine Familie? Welche Gefühle kommen auf, welche Diskussionen entstehen? Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Wie wirkt der Fokus der Woche auf dich? Was denkst du zum Thema? Was denken deine Freunde, deine Familie? Welche Gefühle kommen auf, welche Diskussionen entstehen? Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
