@@ -51,4 +51,4 @@ Ob sich Nord- und Südkorea jemals wieder zu einem einzigen Korea vereinen werde
 
 Glaubst du, dass sich Nord- und Südkorea irgendwann wieder vereinen? Wieso sollen sie deiner Meinung nach wieder ein Land werden – oder wieso nicht? Was weisst du eigentlich alles über Nord- und Südkorea?
 
-Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
