@@ -45,4 +45,4 @@ Währenddessen will Swetlana Tichanowskaja, die noch immer in Litauen ist, eine 
 
 Was glaubst du, wurde die Wahl manipuliert? Was denkst du über die Äusserungen von Putin, sollte Russland doch einschreiben? Ist der Weg von Tichanowskaja der richtige? Bringen die Demonstrationen doch etwas?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
