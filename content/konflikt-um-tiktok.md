@@ -46,4 +46,4 @@ Auch in Europa wird TikTok kritisch betrachtet. Daher hat die {{< fremdwort id="
 
 Was denkst du über die Vorwürfe gegen den TikTok-Besitzer ByteDance? Verstehst du, dass die US-Regierung TikTok verbieten will? Glaubst du, dass bald auch bei uns in Europa über ein Verbot der App gesprochen wird?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
