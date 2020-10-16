@@ -4,10 +4,10 @@ author = "Seraina Branschi"
 cc_licence = ""
 cc_src = ""
 date = 2020-09-02T11:00:00Z
-description = ""
+description = "Aufgrund des Lockdowns wurde der Event verschoben und findet heute und morgen in Montreux statt. Dieses mal mit rund 900 Personen. Warum wird der Event trotz Corona durchgeführt und wie kam es überhaupt zu diesem Anlass?"
 fdw = true
 hero_img = "/v1601231845/sef_u1zkmq.jpg"
-img_description = "Former French President François Hollande speaking at SEF 2020"
+img_description = "Ehemaliger Präsident Frankreichs François Hollande spricht am SEF 2020"
 img_photographer = "SEF "
 img_src = "https://www.swisseconomic.ch/en/speakers/francois-hollande/"
 kategorien = []
@@ -19,7 +19,7 @@ title = "Ein Wirtschaftsevent, trotz Corona?"
 +++
 _Wegen Corona mussten viele Veranstaltungen abgesagt oder verschoben werden. Noch immer ist die Situation ungewiss. Im Mai hätte der grösste Wirtschaftsevent der Schweiz, das Swiss Economic Forum, stattgefunden. Normalerweise treffen sich dort rund 1350 Unternehmerinnen und Unternehmer sowie Personen aus der Politik und Wirtschaft der Schweiz. Aufgrund des Lockdowns wurde der Event verschoben und findet heute und morgen in Montreux statt. Dieses mal mit rund 900 Personen. Warum wird der Event trotz Corona durchgeführt und wie kam es überhaupt zu diesem Anlass?_
 
-Eigentlich gibt es kein Event, der besser in eine Krise passt, als das Swiss Economic Forum: Das Unternehmen Swiss Economic Forum entstand in den 90er-Jahren aus einer Krise in Thun. Die Spar- und Leihkasse Thun brach zusammen. Dadurch kam es zu einer finanziellen Krise und viele Firmen mussten darauf schliessen. Traurigkeit und Verzweiflung war überall zu spüren. In dieser düsteren Stimmung griffen Mitglieder der «Thuner Wirtschaftskammer der Jungen» (TWJ) ein. Sie gründeten das «Forum der Jungen Wirtschaft». Daraus formte sich später das «Swiss Economic Forum». Damals wie heute lautet das Ziel: Fördern von kleinen, mittleren und grossen Unternehmen in der Schweiz. Auch dieses Jahr muss das Swiss Economic Forum mit einer Krise wachsen lernen. Und das 22 Jahre nach dem Start.
+Eigentlich gibt es kein Event, der besser in eine Krise passt, als das Swiss Economic Forum: Das Unternehmen Swiss Economic Forum entstand in den 90er-Jahren aus einer Krise in Thun. Die Spar- und Leihkasse Thun brach zusammen. Dadurch kam es zu einer finanziellen Krise und viele Firmen mussten darauf schliessen. Traurigkeit und Verzweiflung war überall zu spüren. In dieser düsteren Stimmung griffen Mitglieder der «Thuner Wirtschaftskammer der Jungen» (TWJ) ein. Sie gründeten das «Forum der Jungen Wirtschaft». Daraus formte sich später das «Swiss Economic Forum». Damals wie heute lautet das Ziel: Fördern von kleinen, mittleren und grossen Unternehmen in der Schweiz. Auch dieses Jahr muss das Swiss Economic Forum mit einer Krise wachsen lernen. Und das 22 Jahre nach dem Start.
 
 ### Ein Grossanlass mitten in der Krise?
 
