@@ -41,7 +41,7 @@ Wer ein **Tierfreund** ist und ein Haustier hat kann z.B ein Labyrinth für sein
 
 Also, du siehst, es gibt viele Sachen die du machen kannst. Probiere also einfach aus, was dir gefällt. **Um die Krise zu überstehen, achte auf deine Hygiene und halte Abstand.** So bleiben wir gesund. Auch diese Krise geht vorbei! Und du kannst wieder deine Freunde treffen oder zu deinem Opa oder deiner Oma gehen. Wir schaffen das alle miteinander.​
 
-**Hast du weitere Ideen? Schreibe sie in die Kommentarspalte oder** [**kontakiere uns**](https://chinderzytig-v1.netlify.app/kontakt/ "kontaktiere uns")**.**
+**Hast du weitere Ideen? Schreibe sie in die Kommentarspalte oder** [**kontakiere uns**](https://www.chinderzytig.ch/kontakt/)**.**
 
 Nochmal wirklich wichtig, auch wenn es vielleicht nicht logisch tönt: Bleibt zu Hause, wascht euch die Hände, nehmt die Ratschläge ernst.
 
