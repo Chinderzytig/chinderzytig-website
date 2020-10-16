@@ -38,4 +38,4 @@ Seit Jahren ist die Frage wie geht es mit Hongkong weiter, wer sorgt für Sicher
 
 Was hältst du davon, dass eine Stadt nicht zum angrenzenden Land gehört? Kannst du die Proteste verstehen? Findest du es gut, wenn sich andere Länder dafür einsetzen? Was hältst du von dem neuen Sicherheitsgesetz?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
