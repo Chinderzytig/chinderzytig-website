@@ -43,4 +43,4 @@ Noch sieben Tage vor seinem Tod, kurz nachdem er selber von seiner Diagnose der 
 
 Was braucht es für dich, dass jemand eine Legende ist? Wer ist "deine" Legende? Ist es korrekt, dass ein Kampfsportler zur Legende werden kann?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
