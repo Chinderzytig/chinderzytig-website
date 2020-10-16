@@ -41,4 +41,4 @@ Das Motto der diesjährigen Konferenz heisst «Walk the Line?» (übersetzt: den
 
 Wie wirkt der Fokus der Woche auf dich? Was denkst du über das Swiss Economic Forum? Hättest du den Anlass abgesagt? Wenn ja warum? Was denken deine Freunde, deine Familie? Welche Gefühle kommen auf, wenn du hörst, dass ein grosser Anlass in einer solchen Krise durchgeführt wird? Welche Diskussionen entstehen?
 
-Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
