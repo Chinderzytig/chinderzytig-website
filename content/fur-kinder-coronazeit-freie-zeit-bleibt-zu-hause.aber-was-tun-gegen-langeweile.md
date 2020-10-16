@@ -1,13 +1,13 @@
 +++
 artikel = true
-author = "Gastbeitrag vom 6.klässler Olivier Dick"
+author = "Olivier Dick"
 cc_licence = ""
 cc_src = ""
 date = 2020-03-22T00:00:00Z
-description = ""
+description = "Durch das neuartige Coronavirus gibt es viele Einschränkungen: Die Schulen sind geschlossen, viele Läden und Dienstleistungen sind gestoppt und Gruppen grösser als 5 sind verboten. "
 fdw = false
 hero_img = "/v1600152902/corona-und-langeweile_pqj7hu.jpg"
-img_description = "Child peeking through blinds"
+img_description = "Ein Kind späht zwischen den Storen durch."
 img_photographer = "Sharon McCutcheon"
 img_src = "https://unsplash.com/@sharonmccutcheon"
 kategorien = ["Welt", "Gesundheit"]
