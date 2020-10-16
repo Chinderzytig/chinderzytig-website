@@ -49,4 +49,4 @@ Corona ist so eine Krise. Viele Leute haben Angst vor der Zukunft bekommen. Sie 
 
 Wie verhältst du dich, wenn du vor etwas Angst hat? Ist dieses Verhalten gut oder schlecht in dieser Situation? Ist Angst ein guter Ratgeber?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
