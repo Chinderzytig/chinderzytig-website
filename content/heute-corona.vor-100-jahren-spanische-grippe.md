@@ -7,7 +7,7 @@ date = 2020-04-21T11:00:00Z
 description = ""
 fdw = false
 hero_img = "/v1600261474/spanisch-grippe_cedpyv.png"
-img_description = "People wait in line to get flu masks to avoid the spread of Spanish influenza on Montgomery Street in San Francisco in 1918"
+img_description = "Schlangen stehende Leute, welche Masken kaufen möchten zum Schutz vor der Spanischen Grippe in San Francisco in 1918"
 img_photographer = "California State Library"
 img_src = "https://oac.cdlib.org/search?style=oac4;Institution=California%20State%20Library::California%20History%20Room;idT=ACT-6804"
 kategorien = ["Welt", "Gesundheit"]
