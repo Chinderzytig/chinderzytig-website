@@ -41,4 +41,4 @@ Noch ist zwischen den drei Grossmächten kein richtiger Konflikt ausgebrochen. E
 
 Wie wirkt der Fokus der Woche auf dich? Die Arktis ist eine Region, die niemandem gehört - und deshalb haben die mächtigen Länder das Gefühl, sie dürfen sich einfach bedienen. Findest du das in Ordnung?
 
-Was denkst du zum Thema? Was denken deine Freunde, deine Familie? Welche Gefühle kommen auf, welche Diskussionen entstehen? Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Was denkst du zum Thema? Was denken deine Freunde, deine Familie? Welche Gefühle kommen auf, welche Diskussionen entstehen? Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
