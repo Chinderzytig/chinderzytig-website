@@ -37,4 +37,4 @@ Dass das Corona-Virus keine Ahnung davon hat, in welchem Land oder in welchem Ka
 
 Was hältst du von der Maske? Hast du schon irgendwo eine tragen müssen? Wie fühlt(e) es sich an? Fändest du es gut, wenn im Zug eine Maske getragen werden müsste? Warum? Warum nicht?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
