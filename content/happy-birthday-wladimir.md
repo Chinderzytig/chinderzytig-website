@@ -4,10 +4,10 @@ author = "Lars Ziörjen"
 cc_licence = "CC BY 4.0"
 cc_src = "https://creativecommons.org/licenses/by/4.0/deed.de"
 date = 2020-10-07T11:00:00Z
-description = ""
+description = "Am 7. Oktober 1952, vor 68 Jahren also, erblickte ein Mensch das Licht der Welt, der zu einer prägenden Figur werden sollte: Wladimir Putin. Putin ist der Präsident von Russland, gefühlt seit einer Ewigkeit. Beleuchten wir zum Geburtstag die Situation von Putins Russland."
 fdw = true
 hero_img = "/v1600768925/2018_inauguration_of_Vladimir_Putin_01_defhos.jpg"
-img_description = "Vladimir Putin has been sworn in as President of Russia (2018) - Via Wikimedia Commons"
+img_description = "Vladimir Putin bei seiner Verbindung als Russlands Präsident. "
 img_photographer = "Kremlin.ru"
 img_src = "https://commons.wikimedia.org/w/index.php?curid=68869230"
 kategorien = []
