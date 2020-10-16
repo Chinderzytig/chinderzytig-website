@@ -43,6 +43,6 @@ Sind Geisterspiele für (neutrale) Beobachtende wirklich so tragisch? Nein! Man 
 
 Was hältst du davon, dass der Fussball wieder eine Rolle spielt - obwohl immer noch Menschen an Corona erkranken und sterben? Vermisst du das Stadion oder ist es dir sowieso egal? Findest du es gut, dass wir uns mit einem Spiel zwischen Grossverdienenden amüsieren und ablenken? Sollte dieses Geld für andere Zwecke eingesetzt werden?
 
-Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://chinderzytig-v1.netlify.app/kontakt/). Wir freuen uns auf Rückmeldungen.
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
 
 Und, nur damit kein falsches Bild entsteht: Der Autor dieses Fokus' freut sich jetzt schon auf die Fussballgeistermeisterfeier in der Hauptstadt - mit zwei Metern Abstand!
