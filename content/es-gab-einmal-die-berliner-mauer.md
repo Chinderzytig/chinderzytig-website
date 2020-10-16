@@ -1,13 +1,13 @@
 +++
 artikel = true
-author = ""
+author = "Lars Ziörjen"
 cc_licence = ""
 cc_src = ""
 date = 2019-11-09T12:00:00Z
-description = "CC BY-SA 3.0"
+description = "Berlin war während 28 Jahren eine geteilte Stadt. Durch eine Mauer wurde Ostberlin von Westberlin getrennt. Die beiden Stadtteile wurden von fremden Ländern geführt und entwickelten sich dadurch äusserst unterschiedlich."
 fdw = false
 hero_img = "/v1600676242/der-fall-der-berliner-mauer_nytxue.jpg"
-img_description = "Preserved section of the Berlin Wall along Niederkirchnerstraße"
+img_description = "Erhaltener Teil der Berliner Mauer bei der Niederkirchnerstraße."
 img_photographer = "Claudio Schwarz"
 img_src = "https://unsplash.com/@purzlbaum"
 kategorien = ["Europa", "Politik"]
