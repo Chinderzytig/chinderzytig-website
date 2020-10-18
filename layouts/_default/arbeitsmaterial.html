@@ -2,7 +2,8 @@
 	<section class="arbeitsmaterial__container">
 		<h2 class="heading heading__secondary">arbeitsmaterial</h2>
 		<div class="card__container">
-			{{ range where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
+			{{ $arbeitsmaterial := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
+			{{ range $arbeitsmaterial.ByDate.Reverse }}
 				{{ if isset .Params "arbeitsmaterial" }}
 					<div class="arbeitsmaterial__card">
 						<div class="arbeitsmaterial__card-upper">
