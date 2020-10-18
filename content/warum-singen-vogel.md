@@ -15,6 +15,7 @@ markierungen = ["Tierwelt"]
 paid = false
 slug = "warumsingenvoegel"
 title = "Warum singen Vögel?"
+arbeitsmaterial = "warum-singen-voegel-arbeitsmaterial_b1bv4h"
 
 +++
 _Hübsch zwitschern die Vögel in den Bäumen. Aber wieso machen sie das eigentlich?_
@@ -43,7 +44,7 @@ Der Gesang hat also mehrere Funktionen: Als Markierung des Reviers, als Lockruf 
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="warum-singen-voegel-arbeitsmaterial_b1bv4h" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}
 
-### 
+###

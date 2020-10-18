@@ -13,6 +13,7 @@ markierungen = ["USA", "Musik"]
 paid = false
 slug = "billieeilish"
 title = "Billie Eilish – die angesagteste Pop-Sängerin von heute"
+arbeitsmaterial = "billie-ellish-arbeitmaterial_btdqpc"
 
 +++
 _Viele Teenager lieben die Musik und den Stil von Billie Eilish. Das 17jährige Mädchen füllt Konzertsäle und gilt als die angesagteste Sängerin für die heutige Jugend. Was unterscheidet sie von anderen? Was macht sie so erfolgreich?_
@@ -22,5 +23,5 @@ Ihr erstes Album landete in der Hitparade der USA sofort auf Platz 1. 12 ihrer 1
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="billie-ellish-arbeitmaterial_btdqpc" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

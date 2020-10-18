@@ -15,6 +15,7 @@ markierungen = ["Schweiz", "Organisationen"]
 paid = false
 slug = "rega"
 title = "Seit fast 70 Jahren fliegt sie durch die Lüfte"
+arbeitsmaterial = "rega-arbeitsmaterial_g35awb"
 
 +++
 _Du hörst sie schon von weitem, die Helikopter. Eine Faszination für jeden: Die Rega kommt zu Hilfe, wenn sich jemand verletzt hat und die Ambulanz nicht gut hinkommt._
@@ -45,4 +46,4 @@ Rega Homepage: [https://www.rega.ch/](https://www.rega.ch/ "https://www.rega.ch/
 
 {{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="rega-arbeitsmaterial_g35awb" >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}

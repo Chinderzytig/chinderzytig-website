@@ -4,7 +4,7 @@
 @import "base/base";
 @import "base/typography";
 
-@import "components/arbeitsmaterial";
+@import "components/arbeitsmaterial-shortcode";
 @import "components/article_svgs";
 @import "components/breadcrumb";
 @import "components/btn";
@@ -28,6 +28,7 @@
 @import "layout/navbar";
 
 @import "pages/abonnemente";
+@import "pages/arbeitsmaterial";
 @import "pages/datenschutz";
 @import "pages/fokus_der_woche";
 @import "pages/index";

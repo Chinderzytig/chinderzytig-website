@@ -15,6 +15,7 @@ markierungen = ["Schweiz", "Rechte"]
 paid = false
 slug = "fincen-files"
 title = "Fincen Files – Ein Journalistennetzwerk deckt auf"
+arbeitsmaterial = "fincen-files_nn1uly"
 
 +++
 _"Statt in eine Armensiedlung, flossen Millionen in die Schweiz", so der Titel eines Artikels der Zeitung Der Bund vom 20. September 2020. Es geht um das Datenleck Fincen Files. Es wurde Geldwäscherei betrieben. Ein Journalistennetzwerk deckt auf. Was heisst das nun genau? Und was ist das?_
@@ -37,4 +38,4 @@ Wieviel Geld in welchen Ländern als illegal gilt, wieviele Reiche vom Geld für
 
 {{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="fincen-files_nn1uly" >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}

@@ -15,6 +15,7 @@ markierungen = ["Schottland", "Tierwelt"]
 paid = false
 slug = "sagenhafte-tiere-teil-2-nessie"
 title = "Nessie: Das Ungeheuer von Loch Ness"
+arbeitsmaterial = "loch-ness-monster-arbeitsmaterial_c3qd3p"
 
 +++
 ### **Serie: Sagenhafte Tiere**
@@ -46,4 +47,4 @@ So hat sich im Laufe der Jahrhunderte das Bild der Sagengestalt gewandelt. Aus d
 
 {{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="loch-ness-monster-arbeitsmaterial_c3qd3p" >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}

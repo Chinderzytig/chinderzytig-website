@@ -15,6 +15,7 @@ markierungen = ["Schweiz"]
 paid = false
 slug = "ladenserie-3-aldi-und-lidl"
 title = "Unsere Ladenserie: Teil 3 – Aldi und Lidl"
+arbeitsmaterial = "Arbeitsmaterial_Aldi_Lidl_mitLoesungen_t8g0wu"
 
 +++
 _Vor etwas mehr als 10 Jahren kamen Aldi und Lidl in die Schweiz – der Einzug der Billig-Läden sorgte für Aufsehen und Spekulationen._
@@ -38,5 +39,5 @@ Dass man mit billigen Produkten viel Geld verdienen kann, zeigt übrigens Karl H
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="Arbeitsmaterial_Aldi_Lidl_mitLoesungen_t8g0wu" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

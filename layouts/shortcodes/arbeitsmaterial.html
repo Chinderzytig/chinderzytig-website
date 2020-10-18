@@ -1,4 +1,4 @@
-<a href="{{ .Site.Params.cloudinary_url }}/{{ .Get `file`}}.pdf" target="_blank" class="arbeitsmaterial__link">
-	<img src="{{ .Site.Params.cloudinary_url }}/bo_1px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .Get `file`}}.png" alt="Arbeitsmaterial cover" class="arbeitsmaterial__file">
-	<div class="arbeitsmaterial__file-name">PDF</div>
+<a href="{{ .Site.Params.cloudinary_url }}/{{ .Page.Params.arbeitsmaterial }}.pdf" target="_blank" class="arbeitsmaterial-sc__link">
+	<img src="{{ .Site.Params.cloudinary_url }}/bo_1px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .Page.Params.arbeitsmaterial }}.png" alt="Arbeitsmaterial cover" class="arbeitsmaterial-sc__file">
+	<div class="arbeitsmaterial-sc__file-name">PDF</div>
 </a>

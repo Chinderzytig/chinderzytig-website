@@ -15,6 +15,7 @@ markierungen = ["Palästina", "Kriege/Konflikte"]
 paid = false
 slug = "palaestinensischer-terrorismus"
 title = "Palästinensischer Terrorismus"
+arbeitsmaterial = "palaestinensischer-terrorismus-arbeitsmaterial_xz6iwc"
 
 +++
 _Terroristische Anschläge von Palästinensern prägten die Zeit von 1960 bis 1980. Diese Anschläge tauchen noch heute in vielen Schlagzeilen der Zeitungen auf. Wer genau verübte die Anschläge und aus welchem Grund? Und warum beeinflussen sie unsere Nachrichten noch heute?_
@@ -44,5 +45,5 @@ Riegler, Thomas (2018): «Das «Spinnennetz» des internationalen Terrorismus- D
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="palaestinensischer-terrorismus-arbeitsmaterial_xz6iwc" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

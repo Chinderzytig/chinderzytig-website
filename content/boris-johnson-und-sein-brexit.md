@@ -15,6 +15,7 @@ markierungen = ["Großbritannien"]
 paid = false
 slug = "brexit"
 title = "Boris Johnson und \"sein\" Brexit"
+arbeitsmaterial = "brexit_fhv0qz"
 
 +++
 _England hat keinen Präsidenten, aber dafür ein Premierminister, der so etwas wie der Chef des Landes ist. Boris Johnson ist noch nicht lange der Chef, wirbelt aber Traditionen durcheinander. Er will Ende Oktober aus der EU austreten – wenn es sein muss, auf die harte Tour._
@@ -24,5 +25,5 @@ England gehört zur EU dazu. Nun hat ein bisschen mehr als die Hälfte des Volke
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="brexit_fhv0qz" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

@@ -15,6 +15,7 @@ markierungen = ["USA", "Kriege/Konflikte"]
 paid = false
 slug = "nine-eleven"
 title = "9/11 - ein Datum, das die Welt veränderte"
+arbeitsmaterial = "nine-eleven-arbeitsmaterial_upqqbx"
 
 +++
 _Es gibt Ereignisse, die für die Menschen unvergesslich bleiben. Die Bilder bleiben in den Köpfen hängen. Man erinnert sich genau, was man in diesem Moment gerade gemacht hat und wo man war. Wenn man mit Menschen über 30 spricht, oder speziell mit Menschen aus den USA, dann kann jede*r seine Geschichte des 11. Septembers erzählen. 9/11 – ein Datum, das sich in die Köpfe hinein gebrannt hat._
@@ -37,4 +38,4 @@ Warum sagt man 9/11 (nine-eleven)? Im US-Englisch nimmt man den Monat vor dem Ta
 
 {{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="nine-eleven-arbeitsmaterial_upqqbx" >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}

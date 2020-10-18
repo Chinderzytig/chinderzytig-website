@@ -12,6 +12,7 @@ cc_licence:
 cc_src:
 kategorien: []
 markierungen: []
+arbeitsmaterial:
 fdw: false
 paid: false
 artikel: true

@@ -15,6 +15,8 @@ markierungen = ["Weltall"]
 paid = false
 slug = "weltraumschrott"
 title = "Schrott im Weltraum"
+arbeitsmaterial = "schrott-im-weltraum-arbeitsmaterial_bui64q"
+
 
 +++
 _Während auf der Erde ein Virus unkontrolliert herumschwirrt, schwirren im Weltraum Unmengen von alten Satelliten und Raketenteilen unkontrolliert um die Erde. Für Astronauten ist der Weltraumschrott eine grosse Gefahr._
@@ -40,7 +42,5 @@ Für uns auf der Erde ist der Schrott zum Glück nicht gefährlich. Wenn er zu n
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="schrott-im-weltraum-arbeitsmaterial_bui64q" >}}
-
-{{< arbeitsmaterial file="schrott-im-weltraum-arbeitsmaterial-2_acgnid" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

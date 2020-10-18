@@ -15,6 +15,7 @@ markierungen = ["Syrian", "Parteien"]
 paid = false
 slug = "arbeiterpartei-kurdistan"
 title = "Die Arbeiterpartei Kurdistan (PKK)"
+arbeitsmaterial = "arbeiterpartei-kurdistan-arbeitsmaterial_vq9unb"
 
 +++
 _Die Arbeiterpartei Kurdistans (PKK) wurde 1978 durch Abdullah Öcalan gegründet. Er ist ein sehr harter Parteiführer. Er ist bekannt dafür, dass er auch mal zur Gewalt gegenüber Feinden und Parteimitgliedern, die nicht seiner Meinung sind, greift._
@@ -36,5 +37,5 @@ Wir haben in mehreren Artikeln über die Konflikte im nahen Osten berichtet. Die
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="arbeiterpartei-kurdistan-arbeitsmaterial_vq9unb" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}
