@@ -29,6 +29,10 @@
 			flex-direction: column;
 		}
 
-		&-btn { &:first-child { margin-bottom: 3rem; } }
+		&-btn {
+			text-align: center;
+
+			&:first-child { margin-bottom: 3rem; }
+		}
 	}
 }
