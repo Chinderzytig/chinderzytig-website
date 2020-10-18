@@ -15,6 +15,7 @@ markierungen = ["COVID19", "Schweiz"]
 paid = false
 slug = "quarantaene-nach-den-herbstferien"
 title = "Quarantäne nach den Herbstferien?"
+arbeitsmaterial = "Quaranta%CC%88ne_AM_sg_eq9vfo"
 
 +++
 _Wer in den Herbstferien im Ausland war, muss sich jetzt vielleicht in Quarantäne begeben._
@@ -42,5 +43,5 @@ Die vollständige Liste der Risikoländer: [https://www.bag.admin.ch/bag/de/home
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="Quaranta%CC%88ne_AM_sg_eq9vfo" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

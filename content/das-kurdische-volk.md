@@ -15,6 +15,7 @@ markierungen = ["Irak", "Iran", "Türkei", "Syrien", "Kriege/Konflikte"]
 paid = false
 slug = "kurdisches-volk"
 title = "Das kurdische Volk"
+arbeitsmaterial = "kurdische-volk-arbeitsmaterial_op1rav"
 
 +++
 _Die Kurden sind ein Volk, welches heute keinen eigenen Staat besitzt. Ihr Gebiet ist aufgeteilt auf die Türkei, Syrien, Iran und den Irak. Total sind das zirka 20 Millionen Menschen. Die meisten Kurden, zirka 13 Millionen leben in der Türkei. Es ist ein vielfältiges Volk._
@@ -38,5 +39,5 @@ Wenn ihr mehr zu den Kurden erfahren wollt, könnt ihr einen unserer bereits pub
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="kurdische-volk-arbeitsmaterial_op1rav" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

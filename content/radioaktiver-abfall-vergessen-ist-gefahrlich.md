@@ -15,6 +15,7 @@ markierungen = ["Energie"]
 paid = false
 slug = "radioaktivitaet"
 title = "Radioaktiver Abfall: Vergessen ist gefährlich"
+arbeitsmaterial = "radioaktiver-abfall-arbeitsmaterial_lxfevk"
 
 +++
 _Radioaktives Material ist sehr schädlich – und das viele tausend Jahre lang. Die Menschen stehen deshalb heute vor einer seltsamen, aber ernsten Aufgabe: Sie müssen die Menschen in der Zukunft warnen._
@@ -33,5 +34,5 @@ Forscherinnen und Forscher machen sich deshalb schon heute Gedanken, wie man die
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="radioaktiver-abfall-arbeitsmaterial_lxfevk" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

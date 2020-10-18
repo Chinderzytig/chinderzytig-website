@@ -15,6 +15,7 @@ markierungen = ["Soziales"]
 paid = false
 slug = "weltalphabetisierungstag"
 title = "Wer kann lesen und schreiben?"
+arbeitsmaterial = "welt-alphabetisierungs-tag-arbeitsmateral_bsb4mx"
 
 +++
 _Immer noch können mehr als 700 Millionen Erwachsene nicht lesen und schreiben. Häufig stammen sie aus Afrika._
@@ -41,4 +42,4 @@ Am 8. September ist der Welttag der Alphabetisierung. An diesem Tag will die {{<
 
 {{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="welt-alphabetisierungs-tag-arbeitsmateral_bsb4mx" >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}

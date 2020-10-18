@@ -15,6 +15,7 @@ markierungen = ["Schweiz"]
 paid = false
 slug = "ladenserie-coop"
 title = "Unsere Ladenserie: Teil 2 – Coop"
+arbeitsmaterial = "Arbeitsmaterial_Coop_vpj99d"
 
 +++
 _Coop ist 1969 aus verschiedenen «Konsumvereinen» entstanden. Heute hat der Detailhändler das dichteste Netz an Filialen in der Schweiz._
@@ -54,5 +55,5 @@ Migros und Coop verfolgen eine ähnliche Strategie. Beide versuchen stark zu wac
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="Arbeitsmaterial_Coop_vpj99d" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

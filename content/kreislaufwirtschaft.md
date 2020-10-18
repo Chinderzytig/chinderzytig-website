@@ -15,6 +15,7 @@ markierungen = ["Klimawandel"]
 paid = false
 slug = "kreislaufwirtschaft"
 title = "Kreislaufwirtschaft"
+arbeitsmaterial = "Kreislaufwirtschaft-arbeitsmaterial_fgferx"
 
 +++
 _Die Kreislaufwirtschaft verursacht weniger Abfälle und schont die Umwelt. Doch wie schafft sie das genau?_
@@ -48,5 +49,5 @@ Am 17. September 2020 fand die Konferenz zur Kreislaufwirtschaft statt. Diese Ko
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="Kreislaufwirtschaft-arbeitsmaterial_fgferx" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

@@ -15,6 +15,7 @@ markierungen = ["USA", "Energie"]
 paid = false
 slug = "elektroautos"
 title = "Das perfekte Auto"
+arbeitsmaterial = "das-perfekte-auto-arbeitsmaterial-2_vkd5xo"
 
 +++
 _Strom als neues Benzin. Die mögliche Zukunft der Automobilbranche - das sind Elektroautos. Anstatt mit unweltschädlichem Benzin oder Diesel fahren sie mit Strom. Sie sind (fast) lautlos und je nach Strombezug deutlich weniger umweltschädlich. Also das perfekte Auto?_
@@ -36,7 +37,5 @@ Fazit: Die Idee der Elektroautos sind gut, doch braucht es bessere und umweltfre
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="das-perfekte-auto-arbeitsmaterial_mecdrd" >}}
-{{< arbeitsmaterial file= "das-perfekte-auto-arbeitsmaterial-2_vkd5xo" >}}
-{{< arbeitsmaterial file= "das-perfekte-auto-arbeitsmaterial-3_iskcfc" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

@@ -15,6 +15,7 @@ markierungen = ["Online", "Soziales"]
 paid = false
 slug = "wasistschön"
 title = "Bin ich schön? Was ist schön? Like oder nicht like..."
+arbeitsmaterial = "wasistscho%CC%88n_of8bbt"
 
 +++
 _In den sozialen Medien Fotos und Videos von sich teilen – wer macht das nicht? Dabei ist es den meisten wichtig, dabei auch gut auszusehen, so wie scheinbar alle anderen auch. Denn in den sozialen Medien wie Instagram, Snapchat oder TikTok sehen wir in sehr kurzer Zeit sehr viele Personen, die dem Schönheitsideal entsprechen._
@@ -38,5 +39,5 @@ Damit das nicht passiert, ist es wichtig, dass man sich immer wieder daran erinn
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="wasistscho%CC%88n_of8bbt" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

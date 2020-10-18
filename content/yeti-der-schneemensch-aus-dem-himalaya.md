@@ -15,6 +15,7 @@ markierungen = ["Tibet", "Tierwelt"]
 paid = false
 slug = "sagenhaftetiere-teil1-yeti"
 title = "Yeti: Der Schneemensch aus dem Himalaya"
+arbeitsmaterial = "yeti-arbeitsmaterial_yj1uzu"
 
 +++
 ### Serie: Sagenhafte Tiere
@@ -47,5 +48,5 @@ Die bekannteste Yeti-Sichtung stammt von Reinhold Messner. Der berühmte österr
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="yeti-arbeitsmaterial_yj1uzu" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

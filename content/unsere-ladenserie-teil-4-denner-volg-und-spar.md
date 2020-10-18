@@ -15,6 +15,7 @@ markierungen = []
 paid = false
 slug = "ladenserie4-spar-denner-volg"
 title = "Unsere Ladenserie: Teil 4 – Denner, Volg und Spar"
+arbeitsmaterial = "Arbeitsmaterial_Ladenserie_DennerVolgundSpar_c5kkc2"
 
 +++
 _Im letzten Teil der Serie zu den Detailhändlern stellen wir vor: Denner, Volg und Spar._
@@ -50,5 +51,5 @@ In der Schweiz gibt es 2‘202 Gemeinden. Jede Gemeinde hat im Durchschnitt also
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="Arbeitsmaterial_Ladenserie_DennerVolgundSpar_c5kkc2" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

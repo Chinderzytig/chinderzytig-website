@@ -15,6 +15,7 @@ markierungen = ["Schweiz", "Tierwelt"]
 paid = false
 slug = "jagdsaison"
 title = "Die Jagdsaison – Warum 5560 Hirsche erschossen werden"
+arbeitsmaterial = "jagsaison-arbeitsmaterial_td4zbb"
 
 +++
 _Im Kanton Graubünden startete am 3. September 2020 die Jagdsaison. Genauer gesagt: die Hochjagd. Diese dauerte bis zum 13. September 2020 und startet wieder am 21. September 2020. In dieser Zeit werden 5560 Hirsche gejagt. Auf der einen Seite ist das brutal. Auf der anderen hilft das dem Gleichgewicht der Natur._
@@ -45,5 +46,5 @@ Jagd in Graubünden:
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="jagsaison-arbeitsmaterial_td4zbb" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

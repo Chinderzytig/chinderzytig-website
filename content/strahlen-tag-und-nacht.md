@@ -15,6 +15,7 @@ markierungen = ["Energie"]
 paid = false
 slug = "handystrahlung"
 title = "Strahlen - Tag und Nacht"
+arbeitsmaterial = "handystrahlung-arbeitsmaterial_jsjfdo"
 
 +++
 _Strahlen gibt es überall, jedoch sind sie nicht immer nicht sichtbar. Es gibt viele Arten von Strahlung in unserem Alltag. Sind Strahlen gefährlich? Müssen wir uns vor diesen schützen? Welche Strahlen gibt es?_
@@ -43,5 +44,5 @@ Hier ist eine kurze Erklärung zu diesen Begriffen.
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="handystrahlung-arbeitsmaterial_jsjfdo" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

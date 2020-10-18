@@ -15,6 +15,7 @@ markierungen = ["Tierwelt"]
 paid = false
 slug = "sagenhafte-tiere-teil-3-bigfoot"
 title = "Bigfoot: Der Menschenaffe aus Nordamerika"
+arbeitsmaterial = "bigfoot-arbeitsmaterial_wikmrx"
 
 +++
 ### Serie: Sagenhafte Tiere
@@ -49,5 +50,5 @@ Viele der älteren Sichtungen oder Aufnahmen geschahen zufällig. Seit einigen J
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="bigfoot-arbeitsmaterial_wikmrx" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}

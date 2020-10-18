@@ -15,6 +15,7 @@ markierungen = ["Organisationen"]
 paid = false
 slug = "weltgesundheit"
 title = "Ein Hoch auf das Pflegepersonal"
+arbeitsmaterial = "Ein-Hoch-auf-das-Pflegepersonal-arbeitsmaterial_z9klkl"
 
 +++
 _Jedes Jahr am 7. April findet der Weltgesundheitstag statt. Warum braucht es den Weltgesundheitstag? Weil es immer wieder neue Themen zur Gesundheit gibt. Über diese müssen informiert werden._
@@ -34,5 +35,5 @@ Ihr habt sicher in letzter Zeit viel vom Coronavirus gehört. Personen müssen w
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial file="Ein-Hoch-auf-das-Pflegepersonal-arbeitsmaterial_z9klkl" >}}
+{{< arbeitsmaterial >}}
 {{< /arbeitsmaterial-group >}}
