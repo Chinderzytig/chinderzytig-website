@@ -1,7 +1,7 @@
 {{ define "main" }}
 	<section class="arbeitsmaterial__container">
 		<h2 class="heading heading__secondary">arbeitsmaterial</h2>
-		<div class="arbeitsmaterial__list">
+		<div class="card__container">
 			{{ range where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 				{{ if isset .Params "arbeitsmaterial" }}
 					<div class="arbeitsmaterial__card">
