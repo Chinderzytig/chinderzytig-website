@@ -1,3 +1,23 @@
 {{ define "main" }}
-
+	<section class="arbeitsmaterial__container">
+		<h2 class="heading heading__secondary">arbeitsmaterial</h2>
+		<div class="arbeitsmaterial__list">
+			{{ range where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
+				{{ if isset .Params "arbeitsmaterial" }}
+					<div class="arbeitsmaterial__card">
+						<div class="arbeitsmaterial__card-upper">
+							<h3 class="arbeitsmaterial__card-title">{{ .Params.title }}</h3>
+						</div>
+						<div class="arbeitsmaterial__card-lower">
+							<img src="{{ .Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .Params.arbeitsmaterial }}.png" alt="Arbeitsmaterial cover" class="arbeitsmaterial-sc__file">
+							<div class="arbeitsmaterial__card-btns">
+								<a href="{{ .Permalink }}" class="btn btn--primary arbeitsmaterial__card-btn">Artikel</a>
+								<a href="/markierungen/covid19" class="btn btn--secondary arbeitsmaterial__card-btn">PDF</a>
+							</div>
+						</div>
+					</div>
+				{{ end }}
+			{{ end }}
+		</div>
+	</section>
 {{ end }}

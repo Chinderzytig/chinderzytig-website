@@ -1,0 +1,34 @@
+.arbeitsmaterial {
+
+	&__container {
+		@include container-main;
+	}
+
+	&__card {
+		background-color: $chinder-cultured;
+		width: 30rem;
+		display: flex;
+		flex-direction: column;
+		padding: 2rem;
+
+		&-upper { margin-bottom: 2rem; }
+
+		&-lower {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+		}
+
+		&-title {
+			font-family: $font-patrick, $font-fallback;
+			text-align: center;
+		}
+
+		&-btns {
+			display: flex;
+			flex-direction: column;
+		}
+
+		&-btn { &:first-child { margin-bottom: 3rem; } }
+	}
+}
