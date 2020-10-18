@@ -88,6 +88,13 @@ fields:
     categories. Standard practice at the moment is to use country names as tags, when
     the article has been assigned to a continent under categories. <em>If the article
     you are writing is for Focus der Woche, </em><strong><em>please leave this blank!</em></strong>
+- name: arbeitsmaterial
+  type: text
+  config:
+    required: false
+  label: Arbeitsmaterial
+  description: Add the file name (without the extension .pdf) to this field. Be sure
+    to add the arbeitsmaterial shortcode to the end of your article.
 - type: boolean
   name: fdw
   label: Fokus der Woche article?
