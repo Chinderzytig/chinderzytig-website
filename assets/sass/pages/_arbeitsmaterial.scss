@@ -12,12 +12,16 @@
 		margin-top: 3rem;
 		padding: 2rem;
 
+		@include respond(tab-port-xl) { width: 25rem; }
+
 		&-upper { margin-bottom: 2rem; }
 
 		&-lower {
 			display: flex;
 			justify-content: space-between;
 			align-items: center;
+
+			@include respond(tab-port-xl) { flex-direction: column; }
 		}
 
 		&-title {
@@ -28,12 +32,22 @@
 		&-btns {
 			display: flex;
 			flex-direction: column;
+
+			@include respond(tab-port-xl) { width: 100% }
 		}
 
 		&-btn {
 			text-align: center;
 
 			&:first-child { margin-bottom: 3rem; }
+
+			@include respond(tab-port-xl) {
+				&:first-child { margin-bottom: 0; }
+
+				margin-top: 1.5rem;
+			}
 		}
 	}
 }
+
+.card__hidden { display: none; }

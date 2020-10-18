@@ -5,7 +5,7 @@
 			{{ $arbeitsmaterial := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 			{{ range $arbeitsmaterial.ByTitle }}
 				{{ if isset .Params "arbeitsmaterial" }}
-					<div class="arbeitsmaterial__card">
+					<div class="arbeitsmaterial__card card__hidden">
 						<div class="arbeitsmaterial__card-upper">
 							<h3 class="arbeitsmaterial__card-title">{{ .Params.title }}</h3>
 						</div>
@@ -24,6 +24,9 @@
 				{{ end }}
 			{{ end }}
 			<div class="card card__buffer"></div>
+		</div>
+		<div class="btn__container">
+			<a href="#" class="btn btn--primary" id="loadMore">Mehr Arbeitsmaterial</a>
 		</div>
 	</section>
 {{ end }}
