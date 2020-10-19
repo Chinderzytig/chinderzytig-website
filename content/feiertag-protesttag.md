@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20201020_AM_hongkong_qpkear"
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -30,3 +30,9 @@ Nein, von Freiheit wie wir sie in der Schweiz kennen, kann in Hongkong momentan 
 ### Vierergruppen am Morgen
 
 Am Morgen des Nationalfeiertags organisierten sich die Protestierenden noch in Vierergruppen, die laut ihre Meinungen hinausschrien. Zum Teil waren sie von zehnmal mehr Polizisten umringt. Die Message blieb klar, denn es laufe momentan eine Bewegung, in der die kommunistische Regierungspartei die Stimme Hongkongs zum Schweigen bringen wolle. In den vergangenen 20 Jahren galt das Prinzip: 1 Land, 2 Systeme. Mit dem neuen Sicherheitsgesetz könnte dieses Prinzip nun am Ende sein und Hongkong seine Unabhängigkeit verlieren.
+
+{{< teiler >}}
+
+{{< container-center >}}
+{{< arbeitsmaterial file="20201020_AM_hongkong_qpkear" >}}
+{{< /container-center >}}
