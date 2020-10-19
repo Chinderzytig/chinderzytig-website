@@ -4,7 +4,7 @@
 		<div class="card__container">
 			{{ $arbeitsmaterial := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 			{{ range $arbeitsmaterial.ByTitle }}
-				{{ if isset .Params "arbeitsmaterial" }}
+				{{ if .Params.arbeitsmaterial }}
 					<div class="arbeitsmaterial__card card__hidden">
 						<div class="arbeitsmaterial__card-upper">
 							<h3 class="arbeitsmaterial__card-title">{{ .Params.title }}</h3>
