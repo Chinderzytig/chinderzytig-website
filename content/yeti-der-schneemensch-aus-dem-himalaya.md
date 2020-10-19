@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "yeti-arbeitsmaterial_yj1uzu"
 artikel = true
 author = "Georg Stalder"
 cc_licence = ""
@@ -7,7 +8,7 @@ date = 2020-08-10T11:00:00Z
 description = "In den Bergen rund um den Mount Everest soll er leben: der Yeti. Gefunden hat das faszinierende Tier aber noch niemand."
 fdw = false
 hero_img = "/v1600438005/yeti_gstqpm.jpg"
-img_description = "A lifelike depiction of the Yeti"
+img_description = "Eine Darstellung von Yeti."
 img_photographer = "Wolfgang Eckert"
 img_src = "https://pixabay.com/users/anaterate-2348028/"
 kategorien = ["Asien", "Welt", "Natur/Umwelt"]
@@ -15,7 +16,6 @@ markierungen = ["Tibet", "Tierwelt"]
 paid = false
 slug = "sagenhaftetiere-teil1-yeti"
 title = "Yeti: Der Schneemensch aus dem Himalaya"
-arbeitsmaterial = "yeti-arbeitsmaterial_yj1uzu"
 
 +++
 ### Serie: Sagenhafte Tiere
