@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-10-20T05:00:00Z
 description = "China und Hongkong – das gehört zusammen und passt irgendwie nicht. "
-draft = true
 fdw = false
 hero_img = "/v1603137195/Protest_Hongkong_jktaaq.jpg"
 img_description = "Protestierende Menschenmenge in den Strassen von Hongkong"
