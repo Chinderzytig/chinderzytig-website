@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "random-PDF_r8hxeq"
+arbeitsmaterial = ""
 artikel = true
 author = ""
 cc_licence = "CC0 1.0"
