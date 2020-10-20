@@ -32,6 +32,6 @@ Am Morgen des Nationalfeiertags organisierten sich die Protestierenden noch in V
 
 {{< teiler >}}
 
-{{< container-center >}}
-{{< arbeitsmaterial file="20201020_AM_hongkong_qpkear" >}}
-{{< /container-center >}}
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
