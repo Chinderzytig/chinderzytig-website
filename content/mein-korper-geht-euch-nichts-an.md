@@ -18,7 +18,7 @@ slug = ""
 title = "Mein Körper geht euch nichts an "
 
 +++
-_Die Musikerin Billie Eilish musste sich im Internet tausende Kommentare anhören, weil sie für einmal ein enges T-Shirt getragen hat. Muss das wirklich sein?_
+_Die Musikerin_ [_Billie Eilish_](https://www.chinderzytig.ch/billieeilish/) _musste sich im Internet tausende Kommentare anhören, weil sie für einmal ein enges T-Shirt getragen hat. Muss das wirklich sein?_
 
 Billie Eilish ist ein Weltstar. Die Amerikanerin ist zwar erst 18 Jahre alt, hat aber schon unzählige Musikpreise für ihre Lieder abgeräumt. Kein Wunder folgen der jungen Frau auf Instagram so viele Leute – über 67 Millionen um genau zu sein. Billie Eilish ist aber nicht nur wegen ihrer Stimme so bekannt und beliebt geworden. Sondern auch, weil sie ihre Meinung zu den verschiedensten Themen offen ausspricht – ganz egal, was die anderen davon halten.
 
@@ -42,6 +42,6 @@ Zum Glück gibt es auf der anderen Seite immer mehr Menschen, die genau dasselbe
 
 Warum sprechen denn überhaupt so viele Leute über das Aussehen von anderen? Ist es, weil man selbst mit sich unzufrieden ist? Denn das ist das nächste Problem an diesem ganzen Thema. Weil so oft über das Aussehen gesprochen wird, wird es auch für einen selbst immer wichtiger. Man findet immer öfter etwas, das einen stört und das man ändern möchte.
 
-Und deshalb sollte man genau in diesem Moment Billie Eilish zuhören, wenn sie sagt: «Mein Körper geht niemanden etwas an». Denn der Körper hat ja wirklich nichts damit zu tun, was für eine Person in uns steckt, oder was meint ihr dazu? Was denkt ihr über Bodyshaming? Sollte man nicht auch einem Weltstar wie ihr die Privatsphäre lassen? Ist es berechtigt in der Öffentlichkeit so über sie zu diskutieren – nur weil sie berühmt ist? 
+Und deshalb sollte man genau in diesem Moment Billie Eilish zuhören, wenn sie sagt: «Mein Körper geht niemanden etwas an». Denn der Körper hat ja wirklich nichts damit zu tun, was für eine Person in uns steckt, oder was meint ihr dazu? Was denkt ihr über Bodyshaming? Sollte man nicht auch einem Weltstar wie ihr die Privatsphäre lassen? Ist es berechtigt in der Öffentlichkeit so über sie zu diskutieren – nur weil sie berühmt ist?
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
