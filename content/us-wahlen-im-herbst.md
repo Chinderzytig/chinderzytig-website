@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "20201023_US-Artikel_Wahlen_im_Herbst_vxlwyt"
+arbeitsmaterial = "AM_US-Artikel_Wahlen_im_Herbst_lekmld"
 artikel = true
 author = "Textbroker"
 cc_licence = ""
