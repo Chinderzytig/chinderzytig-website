@@ -32,7 +32,7 @@ Denn es ist ihr wichtig, dass die Menschen sie nicht nach ihrem Aussehen beurtei
 
 Na und? Genau das werden jetzt viele denken.
 
-Sobald das Foto veröffentlicht wurde, gab es im Internet unzählige Personen, die ihren Kommentar dazu abgeben wollten. Dort konnte man dann lesen, dass Billie Eilish aussehe wie eine 30-Jährige oder dass sie zugenommen hat. Auch die Worte «hässlich» und «dick» musste die Musikerin über sich lesen.
+Sobald das Foto veröffentlicht wurde, gab es im Internet unzählige Personen, die ihren Kommentar dazu abgeben wollten. Dort konnte man dann lesen, dass Billie Eilish aussehe wie eine 30-Jährige oder dass sie zugenommen habe. Auch die Worte «hässlich» und «dick» musste die Musikerin über sich lesen.
 
 Es war nicht das erste Mal, dass Billie Eilish solche Kommentare über ihren Körper zu sehen bekam. «Bodyshaming» nennt sich das, wenn jemand für seinen Körper verurteilt wird. Seit die sozialen Medien immer wichtiger werden, nehmen auch solche Urteile immer stärker zu. Denn auf Instagram, Snapchat und Co. kann man sich jederzeit tausende von Bildern von allen möglichen Leuten anschauen. Und man kann sie ohne Aufwand vergleichen. Wer ist grösser, hübscher, dünner, sportlicher?
 
@@ -42,6 +42,6 @@ Zum Glück gibt es auf der anderen Seite immer mehr Menschen, die genau dasselbe
 
 Warum sprechen denn überhaupt so viele Leute über das Aussehen von anderen? Ist es, weil man selbst mit sich unzufrieden ist? Denn das ist das nächste Problem an diesem ganzen Thema. Weil so oft über das Aussehen gesprochen wird, wird es auch für einen selbst immer wichtiger. Man findet immer öfter etwas, das einen stört und das man ändern möchte.
 
-Und deshalb sollte man genau in diesem Moment Billie Eilish zuhören, wenn sie sagt: «Mein Körper geht niemanden etwas an». Denn der Körper hat ja wirklich nichts damit zu tun, was für eine Person in uns steckt, oder was meint ihr dazu? Sollte man nicht auch einem Weltstar wie ihr die Privatsphäre lassen? Ist es berechtigt in der Öffentlichkeit so über sie zu diskutieren – nur weil sie berühmt ist?
+Und deshalb sollte man genau in diesem Moment Billie Eilish zuhören, wenn sie sagt: «Mein Körper geht niemanden etwas an». Denn der Körper hat ja wirklich nichts damit zu tun, was für eine Person in uns steckt, oder was meint ihr dazu? Was denkt ihr über Bodyshaming? Sollte man nicht auch einem Weltstar wie ihr die Privatsphäre lassen? Ist es berechtigt in der Öffentlichkeit so über sie zu diskutieren – nur weil sie berühmt ist? 
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
