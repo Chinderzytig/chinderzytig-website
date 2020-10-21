@@ -38,3 +38,9 @@ Die Demokraten haben andere Ziele und Vorstellungen als die Republikaner. Den De
 Wird Joe Biden von den Demokraten neuer Präsident, so ist außenpolitisch eine Verbesserung des Verhältnisses zwischen USA und Deutschland zu erwarten. Er hat außerdem eine „freundlichere“ Haltung im Hinblick auf Zuwanderer aus anderen Ländern. Innenpolitisch ist Biden das Verhindern weiterer Abgrenzung innerhalb der amerikanischen Gesellschaft ein Anliegen. Indem er beispielsweise die einst von Präsident Barack Obama ins Leben gerufene Krankenversicherung für jeden US-Bürger („Obamacare“) wieder richtig einführen möchte, will er finanziell Schwache vor noch mehr Armut bewahren. Bleibt Donald Trump im Amt, dann steht weiterhin der Gedanke „America First“ an erster Stelle. Das heißt, dass es ihm vor allem darum geht, die Interessen Amerikas – ohne Rücksicht auf andere – durchzusetzen. Er würde weiterhin eine Politik der Ausgrenzung anstreben, den angekündigten Rückzug des Militärs aus Konfliktgebieten umsetzen und weiterhin fordern, dass Deutschland das NATO-Engagement steigert. In der NATO haben sich mehrere Staaten zu einem Militärbündnis zusammengeschlossen. Das Bereithalten von Militär erfordert sehr hohe Summen. Am meisten Geld wendet Amerika auf. Der amtierende Präsident findet das unfair.
 
 Nicht nur die Bürgerinnen und Bürger der USA, sondern auch alle anderen Länder schauen gespannt darauf, wer im November zum Präsidenten der Vereinigten Staaten gewählt wird.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
