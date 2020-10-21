@@ -24,7 +24,9 @@ Billie Eilish ist ein Weltstar. Die Amerikanerin ist zwar erst 18 Jahre alt, hat
 
 Zum Beispiel will sich der Teenager nicht so anziehen, wie viele andere weibliche Musik- oder Filmstars das machen. Eilish trägt häufig weite Hosen und Pullover statt enge Tops oder kurze Kleider.
 
-Denn es ist ihr wichtig, dass die Menschen sie nicht nach ihrem Aussehen beurteilen, sondern nach dem was sie tut und sagt. Nach ihrer Persönlichkeit also. Genau das gelingt ihr aber nicht immer. Erst letzte Woche hat ein Paparazzo (Glossar?) sie auf der Strasse fotografiert. Auf dem Bild trägt Billie Eilish für einmal nicht einen weiten Pulli, sondern ein enges T-Shirt.
+Denn es ist ihr wichtig, dass die Menschen sie nicht nach ihrem Aussehen beurteilen, sondern nach dem was sie tut und sagt. Nach ihrer Persönlichkeit also. Genau das gelingt ihr aber nicht immer. Erst letzte Woche hat ein {{< fremdwort id="Paparazzo" wort="Paparazzo" >}} sie auf der Strasse fotografiert. Auf dem Bild trägt Billie Eilish für einmal nicht einen weiten Pulli, sondern ein enges T-Shirt.
+
+{{< definition id="Paparazzo" wort="Paparazzi" def="Ein Paparazzo ist ein Pressefotograf, die Mehrzahl ist Paparazzi. Als Paparazzi gelten Fotografen/Fotografinnen, welche Personen – meistens bekannte Personen – in unerwünschten Situationen fotografieren. Die Bilder werden dann veröffentlicht, ohne Einwilligung der jeweiligen Person." >}}
 
 ### Unzählige Kommentare
 
