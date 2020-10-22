@@ -1,11 +1,11 @@
 .map__svg {
 
 	&--north-america {
-		fill: $chinder-orange;
+		fill: $map-citron;
 
 		&:hover,
 		&:active {
-			fill: $chinder-chestnut;
+			fill: $map-moss-green;
 		}
 	}
 
@@ -46,11 +46,11 @@
 	}
 
 	&--africa {
-		fill: $map-citron;
+		fill: $chinder-orange;
 
 		&:hover,
 		&:active {
-			fill: $map-moss-green;
+			fill: $chinder-chestnut;
 		}
 	}
 
