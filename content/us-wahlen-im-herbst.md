@@ -20,7 +20,7 @@ title = "US-Wahlen im Herbst "
 +++
 _Alle vier Jahre wird in den USA ein neuer Präsident, der das Staatsoberhaupt und der Regierungschef des Landes ist, gewählt. Die Aufgabe des Präsidenten ist es zudem, das oberste Gericht zu ernennen und Gesetze zu unterschreiben. Ihm steht außerdem ein Vetorecht zu, das heißt, dass er Einspruch einlegen darf, wenn er mit einem Gesetzt nicht einverstanden ist. Die Verfassung sieht für den Präsidenten Amerikas eine starke Position vor._
 
-Dieses Jahr im Herbst – am 03. November 2020 – ist es wieder soweit. Donald Trump, der amtierende Präsident der Vereinigten Staaten ist Republikaner und tritt gegen Joe Biden von den Demokraten an. Beide möchten das Land in den nächsten vier Jahren regieren und ihre Pläne umsetzen.
+Dieses Jahr im Herbst – am 03. November 2020 – ist es wieder soweit. Donald Trump, der amtierende Präsident der Vereinigten Staaten ist Republikaner und tritt gegen Joe Biden von den Demokraten an. Beide möchten das Land in den nächsten vier Jahren regieren und ihre Pläne umsetzen. 
 
 ### Wie laufen die Präsidentschaftswahlen in Amerika ab?
 
