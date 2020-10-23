@@ -26,7 +26,7 @@ Dieses Jahr im Herbst – am 03. November 2020 – ist es wieder soweit. Donald 
 
 In Amerika wird der Präsident nicht direkt vom Volk gewählt, sondern die Bürger wählen Wahlmänner aus dem Bundesstaat, in dem sie leben. Diese vom Volk gewählten Personen aus den jeweiligen Bundesstaaten geben schlussendlich ihre Stimme für einen der beiden Präsidentschaftskandidaten ab.
 
-### Wer tritt gegen wen an?
+### Wer tritt gegen wen an? 
 
 In Amerika gibt es zwei große Parteien: die Republikaner und die Demokraten. Der amtierende Präsident der USA, Donald Trump gehört den Republikanern an. Seine Partei steht für den Wunsch nach einer freien Marktwirtschaft. Der Staat soll möglichst wenig in wirtschaftliche Vorgänge eingreifen und jeder Mensch ist für sich selbst verantwortlich. Der Gedanke des wirtschaftlichen Erfolgs steht im Vordergrund. Auf sozialstaatliche Verbesserungen, Gleichberechtigung und Klimaschutz legen die Republikaner keinen Fokus.
 
