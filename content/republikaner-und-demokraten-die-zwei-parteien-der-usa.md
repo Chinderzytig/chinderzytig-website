@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "AM_Republikaner_und_Demokraten_zcjccd"
 artikel = true
 author = "Georg Stalder"
 cc_licence = ""
 cc_src = ""
 date = 2020-10-29T05:00:00Z
 description = "Wer in den USA wählen geht, hat wenig Auswahl. Es gibt nur zwei Parteien: Demokraten und Republikaner. Für mehr Parteien hat es im amerikanischen Wahlsystem keinen Platz."
-draft = true
 fdw = false
 hero_img = "/v1603542768/markus-winkler-7PSpOMxpsoE-unsplash_tmilo9.jpg"
 img_description = "Im Kampf für die Wahlen stehen die Republikaner den Demokraten gegenüber."
@@ -36,3 +35,9 @@ Die Demokraten sind politisch eher links. Sie setzen sich ein für Gleichberecht
 Wie kommt es, dass es in den USA nur die zwei Parteien gibt, die bestimmen? Der Grund liegt im Wahlsystem. Bei den Wahlen gewinnt immer die Partei mit der Mehrheit der Stimmen. Also diejenige Partei, die über 50 Prozent der Stimmen in einem Wahlkreis hat. Dadurch gibt es nur Platz für zwei grosse Parteien. Eine kleine Partei, die z.B. nur 5 Prozent der Stimmen erreicht, hat schlicht keine Chance.
 
 Du willst mehr über das Zweiparteien-System erfahren? Dann schau dir das Video hier an: [SRF Erklärt](https://www.srf.ch/play/tv/srf-news/video/erklaert-das-zweiparteiensystem-der-usa?urn=urn:srf:video:d4b2701b-297e-44bc-9b78-73b7b8a3b247).
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
