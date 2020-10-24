@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-10-27T05:00:00Z
 description = "Im September traf sich die Schweizer Klimabewegung in Bern, um während einer Woche gegen den Umgang der Wirtschaft und der Politik mit dem Klimawandel zu protestieren."
-draft = true
 fdw = false
 hero_img = "/v1603542532/50383002446_0c7eef74fa_k_ptcusd.jpg"
 img_description = "Viele Menschen in der Schweiz demonstrierten im September für mehr Klimaschutz."
