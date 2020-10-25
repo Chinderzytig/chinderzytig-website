@@ -24,15 +24,15 @@
 		</div>
 	</div>
 	<div class="footer__bottom">
-		<div class="footer__logo-group">
-			<div class="footer__chinderzytig">
-				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,h_62,q_auto:good,w_100/v1594391535/logos/chinder_main_grey_hifabo.png" alt="Chinderzytig logo">
-				<span class="footer__chinderzytig-text">Chinderzytig</span>
-			</div>
-			<a href="https://www.schweizermedien.ch/medienkompetenz/angebote-netzwerkpartner" class="footer__medien">
-				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_200/v1595591559/logos/sm_grey_sx76sk.png" alt="Schweizer Medien logo">
-			</a>
-		</div>
+		<a href="https://www.schweizermedien.ch/medienkompetenz/angebote-netzwerkpartner" class="footer__partner">
+			<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_200/v1595591559/logos/sm_grey_sx76sk.png" alt="Schweizer Medien logo" class="footer__partner-logo" >
+			<div class="footer__partner-line"></div>
+			<ul class="footer__partner-list">
+				<li class="footer__partner-text">Offizieller</li>
+				<li class="footer__partner-text">Netzwerkpartner</li>
+				<li class="footer__partner-text">Verband</li>
+			</ul>
+		</a>
 		<div class="footer__line"></div>
 		<div class="footer__social-group">
 			{{- partial "svgs/social_svgs.html" . -}}
