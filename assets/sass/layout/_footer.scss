@@ -55,23 +55,23 @@
 		}
 	}
 
-	&__logo-group {
+	&__partner {
+		color: $chinder-platinum;
+		font-weight: 500;
+		font-size: 1.2rem;
+		text-decoration: none;
 		display: flex;
 		align-items: center;
 
-		@include respond(phone-xl) {
-			flex-direction: column;
+		&-line {
+			height: 5rem;
+			border-right: 1px solid $chinder-platinum;
+			margin: 0 1rem;
 		}
-	}
 
-	&__chinderzytig {
-		display: flex;
-		align-items: center;
-		margin-right: 2rem;
-
-		@include respond(phone-xl) {
-			margin-right: 0;
-			margin-bottom: 2rem;
+		&-list {
+			list-style: none;
+			padding: 0;
 		}
 	}
 
