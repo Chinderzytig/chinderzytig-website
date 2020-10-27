@@ -1,4 +1,11 @@
 media:
+- url: "https://res.cloudinary.com/chinderzytig/image/upload/v1603777233/berner-schule-okt-2020_ccnndz.pdf"
+  logo:
+    - img: "bildung_bern_swkpb6.jpg"
+      description: "Bildung Bern logo"
+  content:
+    - title: "SchülerInnen sollen verstehen, was auf der Welt passiert"
+      date: "27.10.2020"
 - url: "https://www.telebaern.tv/telebaern-news/projekt-chinderzytig-soll-schueler-die-erwachsenenwelt-simpel-erklaeren-136290126"
   logo:
     - img: "telebarn4_dixhjg.png"
