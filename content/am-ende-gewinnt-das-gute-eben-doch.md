@@ -32,11 +32,15 @@ Nein, nicht noch mehr Menschen, von denen hat es schon viele. Der Babyboom, der 
 
 Wir merken es alle, seit dem Lockdown: Die Natur geniesst unsere Eingeschränktheit. Sie atmet spürbar auf, die Flüsse sind klarer, die Tiere mutiger, die Luft reiner. Auch in Indien. Dort können die Menschen im Ort Panjab erstmals seit mehr als 30 Jahren wieder bis zum Himalaya sehen. Dank des Lockdowns und somit dem fehlenden Strassenverkehr nahm die Luftverschmutzung ab. Reinere Luft und Weitsicht. Good News!
 
+{{< image img="India_vtrwhn.jpg" desc="Via unsplash" photographer="Shubham Nikam" src="https://unsplash.com/photos/t3d5LOgIZHo">}}
+
 ### Zum Beispiel: Plastikfreier Pazifik
 
 Mit 16 war {{< fremdwort id="Boyan Slat" wort="Boyan Slat" >}} aus Holland schockiert, als er bei Familienferien am Meer unzähligen Plastikmüll im Wasser entdeckte. Drei Jahre später hat er bereits 2 Millionen Dollar gesammelt, um seine Idee des “Ocean Cleanup” (der Ozean-Reinigung) zu entwickeln: eine Röhre, die im Meer Plastikrückstände einsaugt und zurück an Land bringt, damit es fachgerecht entsorgt werden kann. Nun lief eine erste grosse Testphase im Pazifik an der Küste von San Francisco - mit Erfolg. Viel Plastikmüll konnte gesammelt werden und Tiere kamen kaum zu Schaden. Nun sollen bis zu 60 solche Plastiksaugrohre produziert und ins Meer gebracht werden.
 
 {{< definition id="Boyan Slat" wort="Boyan Slat" def="Boyan Slat st ein niederländischer Erfinder, Unternehmer und ehemaliger Student am Fachbereich Luft- und Raumfahrttechnik der Technischen Universität Delft (in den Niederlanden), der die Ozeane vom Plastikmüll befreien will." >}}
+
+{{< image img="Enter file with ext. here" desc="Enter photo description here" photographer="Enter name here" src="Enter photo src here" cc_licence="Enter CC licence type here" cc_src="Enter CC licence link here" >}}
 
 ### Nun bist du dran
 
