@@ -40,7 +40,7 @@ Mit 16 war {{< fremdwort id="Boyan Slat" wort="Boyan Slat" >}} aus Holland schoc
 
 {{< definition id="Boyan Slat" wort="Boyan Slat" def="Boyan Slat st ein niederländischer Erfinder, Unternehmer und ehemaliger Student am Fachbereich Luft- und Raumfahrttechnik der Technischen Universität Delft (in den Niederlanden), der die Ozeane vom Plastikmüll befreien will." >}}
 
-{{< image img="Enter file with ext. here" desc="Enter photo description here" photographer="Enter name here" src="Enter photo src here" cc_licence="Enter CC licence type here" cc_src="Enter CC licence link here" >}}
+{{< image img="ocean_plastic_gux72j.jpg" desc="Via Unsplash" photographer="Brian Yurasits" src="https://unsplash.com/photos/y8k-dMPNWNI">}}
 
 ### Nun bist du dran
 
