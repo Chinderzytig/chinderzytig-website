@@ -7,10 +7,10 @@ cc_src = ""
 date = 2020-10-28T05:00:00Z
 description = "Die Medien berichten über viel, vor allem viel Negatives. Chinderzytig deckt das Gute an vielen aktuellen Themen auf."
 fdw = true
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
+hero_img = "/v1603824632/viktor-forgacs-qe5mRoPJjQ0-unsplash_aijb7f.jpg"
+img_description = "An jedem negativen Bericht der Medien, gibt es auch etwas Gutes."
+img_photographer = "Viktor Forgacs"
+img_src = "https://unsplash.com/photos/qe5mRoPJjQ0"
 kategorien = []
 markierungen = []
 paid = false
@@ -18,13 +18,15 @@ slug = ""
 title = "Am Ende gewinnt das Gute eben doch"
 
 +++
-_Ein Virus hier, ein Krieglein dort, eine Ungerechtigkeit drüben, ein selbstverliebter Mensch auf dieser Seite… wenn man die heutigen Medien verfolgt, kann man meinen, auf der Welt geschieht nichts Gutes._ 
+_Ein Virus hier, ein Krieglein dort, eine Ungerechtigkeit drüben, ein selbstverliebter Mensch auf dieser Seite… wenn man die heutigen Medien verfolgt, kann man meinen, auf der Welt geschieht nichts Gutes._
 
 Ich bin ein Fan von kitschigen Filmen und gewissen Superhelden: denn dort gewinnt am Ende immer das Gute. Nehmen wir uns diesen Fokus der Woche lang Zeit und schauen auf das Gute, das gerade geschieht...
 
 ### Zum Beispiel: Babyboom in Afrika
 
 Nein, nicht noch mehr Menschen, von denen hat es schon viele. Der Babyboom, der gerade Freude auslöst, geschieht in Kenia. Dort erleben die gefährdeten Elefanten eine Babywelle. Oft auf der Flucht von Touristen, Hobby-Jägern und Grosstierwilderern, die nur die Stosszähne wollen, wurden bis heute in diesem Jahr bereits 170 Neugeborene gezählt. Die Zahl der Elefanten in Kenia hat sich in den vergangenen gut 20 Jahren nun mehr als verdoppelt. Die Gefahr des Aussterbens ist mit etwa 35 000 Elefanten in Kenia nun ein bisschen weiter weg.
+
+{{< image img="elephantbabys_pugwfk.jpg" desc="Via unsplash" photographer="Hu Chen" src="https://unsplash.com/photos/3yd8oXGoLqM" >}}
 
 ### Zum Beispiel: Weitsicht in Indien
 
