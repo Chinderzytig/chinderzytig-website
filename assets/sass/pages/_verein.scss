@@ -17,19 +17,9 @@
 		@include respond(tab-port-sm) { text-align: center; }
 	}
 
-	&__highlight-word {
-		border-radius: 60px 5px 80px 15px;
-		padding: 0 .5rem 0 0;
-		text-shadow: 4px 4px 20px $color-white;
-	  background-image: -webkit-linear-gradient(left, rgba(255,255,255,0) 20%, $chinder-orange 40%, rgba(255,255,255,0) 70%);
-	  background-image: -o-linear-gradient(left, rgba(255,255,255,0) 20%, $chinder-orange 40%, rgba(255,255,255,0) 70%);
-	  background-image: linear-gradient(to top, rgba(255,255,255,0) 20%, $chinder-orange 40%, rgba(255,255,255,0) 70%);
-	}
+	&__highlight-word { color: $chinder-orange; }
 
-	&__history-btn {
-		align-self: center;
-
-	}
+	&__history-btn { align-self: center; }
 
 	&__media { @include cta-color($cta-azure); }
 
