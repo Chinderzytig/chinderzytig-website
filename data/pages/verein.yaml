@@ -83,3 +83,7 @@ companies:
   logo:
     - img: "heavyfeather_czmc34.png"
       desc: Heavyfeather logo
+- website: "https://www.polygon-schule.ch/"
+  logo:
+    - img: "poly_rnmcnm.png"
+      desc: Polygon Schule logo
