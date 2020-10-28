@@ -18,13 +18,13 @@ slug = ""
 title = "Am Ende gewinnt das Gute eben doch"
 
 +++
-_Ein Virus hier, ein Krieglein dort, eine Ungerechtigkeit drüben, ein selbstverliebter Mensch auf dieser Seite… wenn man die heutigen Medien verfolgt, kann man meinen, auf der Welt geschieht nichts Gutes._
+_Ein Virus hier, ein Krieglein dort, eine Ungerechtigkeit drüben, ein selbstverliebter Mensch hüben... wenn man die heutigen Medien verfolgt, kann man meinen, auf der Welt geschieht nichts Gutes._
 
 Ich bin ein Fan von kitschigen Filmen und gewissen Superhelden: denn dort gewinnt am Ende immer das Gute. Nehmen wir uns diesen Fokus der Woche lang Zeit und schauen auf das Gute, das gerade geschieht...
 
 ### Zum Beispiel: Babyboom in Afrika
 
-Nein, nicht noch mehr Menschen, von denen hat es schon viele. Der Babyboom, der gerade Freude auslöst, geschieht in Kenia. Dort erleben die gefährdeten Elefanten eine Babywelle. Oft auf der Flucht von Touristen, Hobby-Jägern und Grosstierwilderern, die nur die Stosszähne wollen, wurden bis heute in diesem Jahr bereits 170 Neugeborene gezählt. Die Zahl der Elefanten in Kenia hat sich in den vergangenen gut 20 Jahren nun mehr als verdoppelt. Die Gefahr des Aussterbens ist mit etwa 35 000 Elefanten in Kenia nun ein bisschen weiter weg.
+Nein, nicht noch mehr Menschen, von denen hat es schon viele. Der Babyboom, der gerade Freude auslöst, geschieht in Kenia. Dort erleben die gefährdeten Elefanten eine Babywelle. Oft auf der Flucht vor Touristen, Hobby-Jägern und Grosstierwilderern, die nur die Stosszähne wollen, wurden bis heute in diesem Jahr bereits 170 Neugeborene gezählt. Die Zahl der Elefanten in Kenia hat sich in den vergangenen gut 20 Jahren nun mehr als verdoppelt. Die Gefahr des Aussterbens ist mit etwa 35 000 Elefanten in Kenia nun ein bisschen weiter weg.
 
 {{< image img="elephantbabys_pugwfk.jpg" desc="Via unsplash" photographer="Hu Chen" src="https://unsplash.com/photos/3yd8oXGoLqM" >}}
 
