@@ -18,7 +18,7 @@ slug = ""
 title = "Am Ende gewinnt das Gute eben doch"
 
 +++
-_Ein Virus hier, ein Krieglein dort, eine Ungerechtigkeit drüben, ein selbstverliebter Mensch hüben... wenn man die heutigen Medien verfolgt, kann man meinen, auf der Welt geschieht nichts Gutes._
+_Ein Virus hier, ein Krieglein dort, eine Ungerechtigkeit drüben, ein selbstverliebter Mensch hüben wenn man die heutigen Medien verfolgt, kann man meinen, auf der Welt geschieht nichts Gutes._
 
 Ich bin ein Fan von kitschigen Filmen und gewissen Superhelden: denn dort gewinnt am Ende immer das Gute. Nehmen wir uns diesen Fokus der Woche lang Zeit und schauen auf das Gute, das gerade geschieht...
 
