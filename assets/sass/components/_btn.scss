@@ -70,13 +70,6 @@
 		&:active { .arrow { fill: $color-white; } }
 	}
 
-	&--disabled {
-		border: 2px solid rgba(16, 16, 16, 0.3);
-
-		&:hover,
-		&:active { color: rgba(16, 16, 16, 0.3); }
-	}
-
 	&__container {
 		text-align: center;
 		margin-top: $margin-m;
