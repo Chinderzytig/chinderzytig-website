@@ -9,7 +9,7 @@ breakdown:
     alt: "Chinderzytig Einkaufswagen ohne"
     btn:
       - class: "secondary"
-        id: "ohne"
+        id: "ohne-arbeitsmaterial"
         price: "40.00"
         item_name: "Jahresabonnement Artikel ohne Arbeitsmaterial"
         custom_options: "Einzelteilnehmer|Andere Teilnehmer[+100.00]"
@@ -25,7 +25,7 @@ breakdown:
     alt: "Chinderzytig Einkaufswagen mit"
     btn:
       - class: "primary"
-        id: "arbeitsmaterial"
+        id: "mit-arbeitsmaterial"
         price: "60.00"
         item_name: "Jahresabonnement Artikel mit Arbeitsmaterial"
         custom_options: "Einzelteilnehmer|Andere Teilnehmer[+220.00]"
