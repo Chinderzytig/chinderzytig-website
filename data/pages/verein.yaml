@@ -1,8 +1,8 @@
 media:
 - url: "https://res.cloudinary.com/chinderzytig/image/upload/v1603777233/berner-schule-okt-2020_ccnndz.pdf"
   logo:
-    - img: "bildung_bern_swkpb6.jpg"
-      description: "Bildung Bern logo"
+    - img: "berner-schule-oct-20_avcuhq.png"
+      description: "Berner Schule logo"
   content:
     - title: "SchülerInnen sollen verstehen, was auf der Welt passiert"
       date: "27.10.2020"
@@ -15,8 +15,8 @@ media:
       date: "27.1.2020"
 - url: "https://res.cloudinary.com/chinderzytig/image/upload/v1597816965/pdfs/berner_schule_npdljk.pdf"
   logo:
-    - img: "bildung_bern_swkpb6.jpg"
-      description: "Bildung Bern logo"
+    - img: "berner-schule-dec-19_ubvlap.png"
+      description: "Berner Schule logo"
   content:
     - title: "Erwachsenenthemen sind für Kinder kein Tabu"
       date: "19.12.2019"
@@ -83,6 +83,10 @@ companies:
   logo:
     - img: "heavyfeather_czmc34.png"
       desc: Heavyfeather logo
+- website: "https://www.bildungbern.ch/"
+  logo:
+    - img: "bildung-bern_yqpjs1.png"
+      desc: Bildung Bern logo
 - website: "https://www.polygon-schule.ch/"
   logo:
     - img: "poly_rnmcnm.png"
