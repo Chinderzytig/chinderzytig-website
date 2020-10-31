@@ -7,33 +7,31 @@
 		&--fb {
 
 			&:hover,
-			&:active {
-				fill: $social-fb;
-			}
+			&:active { fill: $social-fb; }
 		}
 
 		&--twitter {
 
 			&:hover,
-			&:active {
-				fill: $social-twitter;
-			}
+			&:active { fill: $social-twitter; }
 		}
 
 		&--whatsapp {
 
 			&:hover,
-			&:active {
-				fill: $social-whatsapp;
-			}
+			&:active { fill: $social-whatsapp; }
+		}
+
+		&--email {
+
+			&:hover,
+			&:active { fill: $social-email; }
 		}
 
 		&--disqus {
 
 			&:hover,
-			&:active {
-				fill: $social-disqus;
-			}
+			&:active { fill: $social-disqus; }
 		}
 	}
 }
