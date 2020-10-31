@@ -1,4 +1,11 @@
 media:
+- url: "https://res.cloudinary.com/chinderzytig/image/upload/v1604177363/lindacher-nachrichten-artikel_ukahtq.jpg"
+  logo:
+    - img: "lindacher-nachrichten_xxv5jv.png"
+      description: "Lindacher Nachrichten"
+  content:
+    - title: "Die Welt ist kompliziert - versuchen wir sie zu vereinfachen"
+      date: "30.10.2020"
 - url: "https://res.cloudinary.com/chinderzytig/image/upload/v1603777233/berner-schule-okt-2020_ccnndz.pdf"
   logo:
     - img: "berner-schule-oct-20_avcuhq.png"
