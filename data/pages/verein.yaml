@@ -55,6 +55,10 @@ companies:
   logo:
     - img: "stiftun_schweiz_x8sv4n.png"
       desc: Stiftung Schweiz logo
+- website: "https://www.bildungbern.ch/"
+  logo:
+    - img: "bildung-bern_yqpjs1.png"
+      desc: Bildung Bern logo
 - website: "https://www.schweizermedien.ch/"
   logo:
     - img: "sm_colour_l7ueym.png"
@@ -83,10 +87,6 @@ companies:
   logo:
     - img: "heavyfeather_czmc34.png"
       desc: Heavyfeather logo
-- website: "https://www.bildungbern.ch/"
-  logo:
-    - img: "bildung-bern_yqpjs1.png"
-      desc: Bildung Bern logo
 - website: "https://www.polygon-schule.ch/"
   logo:
     - img: "poly_rnmcnm.png"
