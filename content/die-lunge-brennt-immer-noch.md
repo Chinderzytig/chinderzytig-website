@@ -1,10 +1,10 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20201105_Regenwaldbrand_Brasilien_AM_zkywel"
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
 cc_src = ""
-date = 2020-11-05T05:00:00Z
+date = 2020-11-05T05:00:33Z
 description = "Der Regenwald brennt erneut. Die Chinderzytig durchleuchtet die Hintergründe."
 fdw = false
 hero_img = "/v1604310484/henrique-malaguti-mK_a9Of9za8-unsplash_e1ohuy.jpg"
@@ -18,7 +18,7 @@ slug = ""
 title = "Die Lunge brennt – immer noch"
 
 +++
-_Der Regenwald in Brasilien brennt – stärker als je zuvor. Doch nun wurde die Brandlöschung gestoppt. Der Feuerwehr fehlt das Geld._
+_Während die ganze Welt auf die USA schaut, brennt der Regenwald in Brasilien weiterhin – stärker als je zuvor. Doch nun wurde die Brandlöschung gestoppt. Der Feuerwehr fehlt das Geld._
 
 Die im Regenwald wohnhaften Völker (indigene Völker) beschuldigen die Regierung von {{< fremdwort id="Jair Bolsonaro" wort="Jair Bolsonaro" >}} absichtlich nichts gegen die Brände zu tun. Er wiederum sagt, dass die indigenen Völker die Brände selbst gelegt haben. Die Leidtragende ist die Natur!
 
@@ -35,3 +35,9 @@ Die indigenen Völker aber auch Umweltschutzorganisationen beschuldigen wiederum
 ### Sie leidet
 
 Leidtragend bleibt die Natur. Die Pflanzenwelt. Die Tierwelt. Aktuell gibt es alleine im Amazonasgebiet 89'604 Feuer, die noch nicht gelöscht sind und nun durch die Feuerwehr auch nicht gelöscht werden sollen. Im Pantanalgebiet gab es Ende September 18'259 lodernde Feuer. Eine riesige Fläche des Regenwalds, der Lunge der Erde, verbrennt. Die Folgen für Brasilien sind kurzfristig halb so wild: denn weniger Wald, mehr Bodenfläche, mehr Bauland, mehr Geldeinnahmen. Langfristig sind die Brände aber für die ganze Welt verheerend: Klimawandel, weniger Wald, schlechtere Luft usw.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
