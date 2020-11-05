@@ -6,10 +6,8 @@
 			{{ range $arbeitsmaterial.ByTitle }}
 				{{ if .Params.arbeitsmaterial }}
 					<div class="document__card card__hidden">
-						<div class="document__card-upper">
-							<h3 class="document__card-title">{{ .Params.title }}</h3>
-						</div>
-						<div class="document__card-lower">
+						<h3 class="document__card-title">{{ .Params.title }}</h3>
+						<div class="document__card--arbeitsmaterial">
 							<img src="{{ .Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .Params.arbeitsmaterial }}.png" alt="Arbeitsmaterial cover" class="document-sc__file">
 							<div class="document__card-btns">
 								<a href="{{ .Permalink }}" class="btn btn--primary document__card-btn">Artikel</a>

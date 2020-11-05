@@ -1,20 +1,15 @@
 {{ define "main" }}
-<section class="arbeitsmaterial__container">
+<section class="document__container">
 	<h2 class="heading heading__secondary">schulprojekte</h2>
 	<div class="card__container">
 		{{ range .Site.Data.pages.schulprojekte.projekte }}
-			<div class="arbeitsmaterial__card card__hidden">
-				<div class="arbeitsmaterial__card-upper">
-					<h3 class="arbeitsmaterial__card-title">{{ .title }}</h3>
-				</div>
-				<div class="arbeitsmaterial__card-lower">
-					<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf">
-						<img src="{{ $.Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .document }}.png" alt="Schuleprojekte cover" class="arbeitsmaterial-sc__file">
-					</a>
-				</div>
+			<div class="document__card card__hidden">
+				<h3 class="document__card-title">{{ .title }}</h3>
+				<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" class="document__card--schulprojekte">
+					<img src="{{ $.Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .document }}.png" alt="Schuleprojekte cover" class="document-sc__file">
+				</a>
 			</div>
 		{{ end }}
-
 		<div class="card card__buffer"></div>
 	</div>
 	<div class="btn__container">
