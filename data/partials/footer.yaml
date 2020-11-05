@@ -5,6 +5,8 @@ main:
     link: "/fokus-der-woche"
   - label: Arbeitsmaterial
     link: "/arbeitsmaterial"
+  - label: Schulprojekte
+    link: "/schulprojekte"
   - label: Abonnemente
     link: "/abonnemente"
   - label: Der Verein

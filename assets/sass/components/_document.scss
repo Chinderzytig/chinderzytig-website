@@ -1,4 +1,4 @@
-.arbeitsmaterial {
+.document {
 
 	&__container {
 		@include container-main;
@@ -14,19 +14,23 @@
 
 		@include respond(tab-port-xl) { width: 25rem; }
 
-		&-upper { margin-bottom: 2rem; }
+		&-title {
+			font-family: $font-patrick, $font-fallback;
+			text-align: center;
+			margin-bottom: 2rem;
+		}
 
-		&-lower {
+		&--schulprojekte {
+			display: flex;
+			justify-content: center;
+		}
+
+		&--arbeitsmaterial {
 			display: flex;
 			justify-content: space-between;
 			align-items: center;
 
 			@include respond(tab-port-xl) { flex-direction: column; }
-		}
-
-		&-title {
-			font-family: $font-patrick, $font-fallback;
-			text-align: center;
 		}
 
 		&-btns {
