@@ -18,14 +18,27 @@
 
 	.heading--article { font: 24pt Georgia, "Times New Roman", Times, serif; }
 
+	figcaption.single__image-caption { margin-left: 70pt; }
+
 	.single__container .single__content {
+
 		h3 { font: 16pt Georgia, "Times New Roman", Times, serif; }
 
-		p a { color: $color-black; }
+		p a {
+			color: $color-black;
+			word-wrap: break-word;
+		}
 
 		p a.fremdwort {
 			color: $color-black;
 			text-decoration: none;
+		}
+
+		figure.image {
+			display: block;
+			text-align: center;
+
+			figcaption.image__caption { margin-left: 70pt;}
 		}
 	}
 }
