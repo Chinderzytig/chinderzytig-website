@@ -33,7 +33,7 @@ In den letzten 60 Jahren haben sich auf diese Weise etwa 6‘500 Tonnen Schrott 
 
 Der Schrott ist eine grosse Gefahr für die Astronautinnen und Astronauten. Immer wieder treffen Trümmerteile die Raumstation ISS, die ebenfalls um die Erde kreist. Die Raumstation muss regelmässig repariert werden und ihren Kurs ändern, um grösseren Brocken auszuweichen. Durch den vielen Schrott wird auch der Start von Raketen immer schwieriger. Inzwischen ist der Müll zu einem ernsthaften Problem geworden. Wissenschaftler überlegen bereits, wie man ihn einfangen und entsorgen könnte.
 
-{{< youtube R7YnC3d_Q3Y >}}
+{{< youtube R7YnC3d_Q3Y single__content-video >}}
 
 ### Stürzt alles auf die Erde?
 

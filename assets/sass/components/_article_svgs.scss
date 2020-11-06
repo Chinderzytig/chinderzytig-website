@@ -1,37 +1,35 @@
-.article {
+.article__svgs {
+	display: flex;
+	justify-content: space-between;
 
-	&__svgs {
+	&--btn {
 		fill: $social-base;
+		color: $social-base;
 		text-decoration: none;
 
-		&--fb {
-
-			&:hover,
-			&:active { fill: $social-fb; }
-		}
-
-		&--twitter {
-
-			&:hover,
-			&:active { fill: $social-twitter; }
-		}
-
-		&--whatsapp {
-
-			&:hover,
-			&:active { fill: $social-whatsapp; }
-		}
-
-		&--email {
-
-			&:hover,
-			&:active { fill: $social-email; }
-		}
-
-		&--disqus {
-
-			&:hover,
-			&:active { fill: $social-disqus; }
+		&:hover,
+		&:active {
+			fill: $chinder-verdigris;
+			color: $chinder-verdigris;
 		}
 	}
+
+	&--print {
+		@extend .article__svgs--btn;
+		background-color: $color-white;
+		border: none;
+		display: flex;
+		align-items: center;
+
+		&-text {
+			text-transform: uppercase;
+			font-size: 1.3rem;
+			margin-right: 1rem;
+
+			@include respond(phone-xl) { display: none; }
+		}
+	}
+
+	&-left { display: flex; }
+
 }
