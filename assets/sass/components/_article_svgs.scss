@@ -1,16 +1,34 @@
 .article__svgs {
-	fill: $social-base;
-	text-decoration: none;
 	display: flex;
 	justify-content: space-between;
 
-	&-btn {
+	&--btn {
+		fill: $social-base;
+		color: $social-base;
+		text-decoration: none;
+
 		&:hover,
-		&:active { fill: $chinder-verdigris; }
+		&:active {
+			fill: $chinder-verdigris;
+
+			color: $chinder-verdigris;
+		}
 	}
 
-	&-main {
+	&--print {
+		@extend .article__svgs--btn;
+		background-color: $color-white;
+		border: none;
 		display: flex;
-		justify-content: center;
+		align-items: center;
+
+		&-text {
+			text-transform: uppercase;
+			font-size: 1.3rem;
+			margin-right: 1rem;
+		}
 	}
+
+	&-left { display: flex; }
+
 }
