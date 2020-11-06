@@ -34,7 +34,7 @@ Der freie Journalist Christoph Kummer hat mehrere Artikel über den Bigfoot gesc
 
 Doch Christoph Kummer gibt auch zu bedenken: «Immer wieder werden grosse, menschenhafte Fussspuren gefunden. Auch von ernstzunehmenden Wissenschaftlern. Es gibt schon Hinweise, die auf seine Existenz hindeuten.» Im Laufe der Zeit ist etliches zusammengekommen: Fussabdrücke, Sichtungen, Fotos und Videos.
 
-{{< youtube lOxuRIfFs0w >}}
+{{< youtube lOxuRIfFs0w single__content-video >}}
 
 Die berühmteste Filmaufnahme stammt aus dem Jahr 1967 von den Amerikanern Roger Patterson und Bob Gimlin. Das Video zeigt ein Wesen, das sich auf zwei Beinen fortbewegt, sich kurz umschaut und dann im Wald verschwindet. Die kurze Szene wurde Dutzende Male analysiert – die Meinungen gehen auseinander. Bigfoot-Fans halten es für einen eindeutigen Beweis, Skeptiker für einen Menschen im Gorillakostüm.
 
