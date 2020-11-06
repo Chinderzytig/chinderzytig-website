@@ -18,7 +18,16 @@
 
 	.heading--article { font: 24pt Georgia, "Times New Roman", Times, serif; }
 
-	.single__container .single__content h3 { font: 16pt Georgia, "Times New Roman", Times, serif; }
+	.single__container .single__content {
+		h3 { font: 16pt Georgia, "Times New Roman", Times, serif; }
+
+		p a { color: $color-black; }
+
+		p a.fremdwort {
+			color: $color-black;
+			text-decoration: none;
+		}
+	}
 }
 
 @page { margin: 2cm; }
