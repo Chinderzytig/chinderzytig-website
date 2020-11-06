@@ -1,37 +1,16 @@
-.article {
+.article__svgs {
+	fill: $social-base;
+	text-decoration: none;
+	display: flex;
+	justify-content: space-between;
 
-	&__svgs {
-		fill: $social-base;
-		text-decoration: none;
+	&-btn {
+		&:hover,
+		&:active { fill: $chinder-verdigris; }
+	}
 
-		&--fb {
-
-			&:hover,
-			&:active { fill: $social-fb; }
-		}
-
-		&--twitter {
-
-			&:hover,
-			&:active { fill: $social-twitter; }
-		}
-
-		&--whatsapp {
-
-			&:hover,
-			&:active { fill: $social-whatsapp; }
-		}
-
-		&--email {
-
-			&:hover,
-			&:active { fill: $social-email; }
-		}
-
-		&--disqus {
-
-			&:hover,
-			&:active { fill: $social-disqus; }
-		}
+	&-main {
+		display: flex;
+		justify-content: center;
 	}
 }
