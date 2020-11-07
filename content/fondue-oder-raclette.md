@@ -37,6 +37,8 @@ Das französische Wort „fondu“ bedeutet „geschmolzen“. Das Fondue besteh
 
 {{< image img="Enter file with ext. here" desc="Enter photo description here" photographer="Enter name here" src="Enter photo src here" cc_licence="Enter CC licence type here" cc_src="Enter CC licence link here" >}}
 
+{{< image img="yeti-2_dzjczf.jpg" desc="Aerial view of the Himalayas" photographer="Jeremy Zero" src="https://unsplash.com/@jeremy0" >}}
+
 ### Geschabt
 
 Auch das Wort Raclette stammt aus dem Französischen: „Racler“ bedeutet „schaben, kratzen“. Ursprünglich wurde das Raclette nämlich von einem halben Käse abgeschabt, welcher am Ofen oder am offenen Feuer erhitzt wurde. Heute wird das Raclette oft in kleinen Pfännchen auf dem elektrischen Raclette-Ofen am Tisch serviert. Jeder schmilzt sich seinen Käse selber und würzt ihn nach Belieben. Die klassischen Beilagen zum Raclette sind Kartoffeln, Essiggurken und Silberzwiebeln.
