@@ -21,6 +21,7 @@
 	figcaption.single__image-caption { margin-left: 70pt; }
 
 	.single__container .single__content {
+		border-bottom: none;
 
 		h3 { font: 16pt Georgia, "Times New Roman", Times, serif; }
 
@@ -42,9 +43,14 @@
 			figcaption.image__caption { margin-left: 70pt;}
 		}
 
-		.single__content-video { display: none; }
-
+		.single__content-video,
 		.container__center { display: none; }
+	}
+
+	.single__content:after {
+		content: "Passendes Arbeitsmaterial zu diesem Artikel auf www.chinderzytig.ch";
+		font-weight: 700;
+		font-style: italic;
 	}
 }
 
