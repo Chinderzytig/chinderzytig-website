@@ -41,6 +41,8 @@ Das französische Wort „fondu“ bedeutet „geschmolzen“. Das Fondue besteh
 
 Auch das Wort Raclette stammt aus dem Französischen: „Racler“ bedeutet „schaben, kratzen“. Ursprünglich wurde das Raclette nämlich von einem halben Käse abgeschabt, welcher am Ofen oder am offenen Feuer erhitzt wurde. Heute wird das Raclette oft in kleinen Pfännchen auf dem elektrischen Raclette-Ofen am Tisch serviert. Jeder schmilzt sich seinen Käse selber und würzt ihn nach Belieben. Die klassischen Beilagen zum Raclette sind Kartoffeln, Essiggurken und Silberzwiebeln.
 
+{{< image img="claudio-schwarz-purzlbaum-8EfaUXB8qw4-unsplash_smzcu4.jpg" desc="Raclette ist ebenfalls eine Spezialität der Schweiz, die aus geschmolzenem Käse besteht." photographer="Claudio Schwarz" src="https://unsplash.com/@purzlbaum" >}}
+
 ### Kein Fondue und Raclette diesen Winter?
 
 Die Diskussion, was ist nun besser – Raclette oder Fondue – bleibt wohl noch viele Jahre bestehen.
