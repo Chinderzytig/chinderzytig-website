@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-11-10T05:00:00Z
 description = "Die radikale Bewegung QAnon ist eine der Bekanntesten. Das Chinderzytig-Team macht daraus eine Rassismus-Serie."
-draft = true
 fdw = false
 hero_img = "/v1604733241/ehimetalor-akhere-unuabona-3xhn3g2Oni0-unsplash_qsul8t.jpg"
 img_description = "Anhänger von QAnon demonstrieren für Ihre Überzeugung."
