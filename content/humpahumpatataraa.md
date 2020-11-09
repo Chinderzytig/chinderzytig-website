@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-11-11T05:00:00Z
 description = "Heute würde vielerorts die Fasnacht beginnen. Faschingsprinzenpaare in Deutschland, Ehren-Födlebürger in St. Gallen, Guggen in Zürich, der Fasnachtsbär in Bern."
-draft = true
 fdw = true
 hero_img = "/v1604947209/Guggenmusik_Spieler_waolbk.jpg"
 img_description = "Zwei Guggenmusiker am Piccollo spielen. "
@@ -19,15 +18,15 @@ slug = ""
 title = "Humpahumpatätärää…"
 
 +++
-### Humpahumpatätärää… 
+### Humpahumpatätärää…
 
 Humpahumpatätärää. Oder in anderen Worten: Heute würde vielerorts die Fasnacht beginnen. Faschingsprinzenpaare in Deutschland, Ehren-Födlebürger in St. Gallen, Guggen in Zürich, der Fasnachtsbär in Bern. Viele Kostüme, viel Konfetti, viel Gedöns, viel humpahumpatätärää. Blicken wir ein wenig auf die Herkunft dieses Brauchs und freuen uns auf die Zukunft.
 
-### Fasnacht findet wieder statt - irgendwann!
+### Fasnacht findet wieder statt – irgendwann!
 
 Wir wollen in dieser Woche nicht darüber berichten, warum Fasnacht leider auch im 2021 wohl kaum stattfinden wird und wenn, dann sicher nicht im gewohnten Stil. Die Antwort auf diese Frage ist wohl allen klar.
 
-Deshalb blicken wir zurück freuen wir uns ab den Fakten, warum es Fasnacht gibt und was daran Spass macht… in voller Vorfreude auf Zeiten, die wieder kommen werden, in denen Fasnacht wieder ein Volksfest sein wird! Übrigens: wusstet ihr, dass Fasnacht eigentlich einen katholischen Hintergrund hat? Die folgende Herleitung erklärt, weshalb der 11.11. besonders in katholischen Gebieten zentral ist - mit Ausnahme von Basel und Luzern, den grössten Fasnachtsstädten in der Schweiz
+Deshalb blicken wir zurück, freuen uns ab den Fakten, warum es Fasnacht gibt und was daran Spass macht… in voller Vorfreude auf Zeiten, die wieder kommen werden, in denen Fasnacht wieder ein Volksfest sein wird! Übrigens: wusstet ihr, dass Fasnacht eigentlich einen katholischen Hintergrund hat? Die folgende Herleitung erklärt, weshalb der 11.11. besonders in katholischen Gebieten zentral ist – mit Ausnahme von Basel und Luzern, den grössten Fasnachtsstädten in der Schweiz
 
 ### Warum würde sie heute beginnen?
 
