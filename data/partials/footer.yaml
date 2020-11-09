@@ -13,12 +13,6 @@ main:
     link: "/verein"
   - label: Kontakt
     link: "/kontakt"
-  - label: Datenschutz
-    link: "/datenschutz"
-  - label: Seitenverzeichnis
-    link: "/sitemap.xml"
-  - label: Admin
-    link: "/admin"
 left:
   - label: Nordamerika
     link: "/kategorien/nordamerika"
@@ -49,3 +43,10 @@ right:
     link: "/kategorien/weltraum/universum"
   - label: Welt
     link: "/kategorien/welt"
+bottom:
+  - label: Datenschutz
+    link: "/datenschutz"
+  - label: Seitenverzeichnis
+    link: "/sitemap.xml"
+  - label: Admin
+    link: "/admin"

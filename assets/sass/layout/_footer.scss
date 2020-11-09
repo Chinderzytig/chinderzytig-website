@@ -28,6 +28,26 @@
 		justify-content: space-between;
 		align-items: center;
 
+		&-links {
+			list-style: none;
+			padding-left: 0;
+			display: flex;
+			margin-bottom: 6rem;
+		}
+
+		&-item {
+
+			&:not(:last-child) {
+				margin-right: 2rem;
+
+				&:after {
+					content: "|";
+					color: $chinder-platinum;
+					margin-left: 2rem;
+				}
+			}
+		}
+
 		@include respond(tab-land) { padding: 2rem 3rem; }
 
 		@include respond(tab-port-lg) {
