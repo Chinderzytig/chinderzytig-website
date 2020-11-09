@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Wahlen_Afrika_AM_ee4pfz"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
@@ -8,10 +8,10 @@ date = 2020-11-12T05:00:00Z
 description = "Diesen Herbst wird in verschiedenen Ländern in Afrika der Präsident oder die Präsidentin gewählt. Zwar können die Menschen ihre Stimme abgeben. Doch oft geht nicht alles mit rechten Dingen zu und her."
 draft = true
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
+hero_img = "/v1604945721/Elections_2020_fmbiyv.jpg"
+img_description = "Schreibmaschine mit Blatt auf welchem 'Elections 2020' steht. "
+img_photographer = "Markus Winkler"
+img_src = "https://unsplash.com/photos/7PSpOMxpsoE"
 kategorien = ["Politik", "Afrika"]
 markierungen = []
 paid = false
