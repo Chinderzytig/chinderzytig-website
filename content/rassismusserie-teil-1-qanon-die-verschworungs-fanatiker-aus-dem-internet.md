@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "QAnon_AM_sg_yzbgwa"
 artikel = true
 author = "Georg Stalder"
 cc_licence = ""
@@ -43,3 +43,9 @@ Die Chinderzytig befasst sich in einer Artikel-Serie mit extremen Gruppierungen 
 
 * Artikel in der [Aargauer Zeitung](https://www.aargauerzeitung.ch/schweiz/die-unheimlich-netten-q-schweizer-radikale-verschwoerungs-bewegung-breitet-sich-auch-hierzulande-aus-139060229 "Aargauer Zeitung") über QAnon
 * [SRF-Artikel](https://www.srf.ch/news/international/verschwoerungstheorien-im-netz-qanon-trump-und-die-erloesung-von-satans-weltenlenkern "SRF-Artikel") über QAnon
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
