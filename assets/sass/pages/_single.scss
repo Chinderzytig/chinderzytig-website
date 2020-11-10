@@ -76,6 +76,10 @@
 				width: 60rem;
 				height: 40rem;
 				margin-bottom: 3rem;
+
+				@include respond(phone-lg) { height: 30rem; }
+
+				@include respond(phone-md) { height: 20rem; }
 			}
 		}
 	}
