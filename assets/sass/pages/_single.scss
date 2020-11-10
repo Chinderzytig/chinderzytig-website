@@ -68,9 +68,15 @@
 
 		.arbeitsmaterial__link { color: $color-black; }
 
-		&-iframe {
+		&-video {
 			display: flex;
-			align-self: center;
+			justify-content: center;
+
+			iframe {
+				width: 60rem;
+				height: 40rem;
+				margin-bottom: 3rem;
+			}
 		}
 	}
 
