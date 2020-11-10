@@ -1,9 +1,9 @@
 ---
-title: "Unsere Geschichte"
+title: Unsere Geschichte
 layout: unsere-geschichte
 artikel: false
----
 
+---
 Die Idee von chinderzytig.ch sowie von [jugendzytig.ch](https://www.jugendzytig.ch/)
 ist, dass sich Kinder und Jugendliche mit Themen aus der Erwachsenenwelt
 auseinandersetzen können. Dies dient primär dem Interesse der Meinungsbildung,
@@ -28,6 +28,7 @@ Jugendlichen näher zu bringen: Die Idee einer Zeitung für Kinder war geboren.
 Dank eines Kindes und nicht dank Erwachsenen, die zu oft meinen besser zu
 wissen, was Kinder wollen.
 ​
+
 ### Der Aktivismus beginnt
 
 ​Im Januar wurde die Idee einer Zeitung im Umkreis von engagierten Lehrpersonen
@@ -36,7 +37,4 @@ Ziel digitaler Zeitungen für Kinder und Jugendliche geboren. Zu Beginn agierten
 wir vor allem zu zweit, mittlerweile hat unser Verein fünf Vorstandsmitglieder
 sowie weitere Unterstützende (siehe "Über uns") und ausserdem ein Beirat.
 
-Wir sprühen vor Ideen und Möglichkeiten und glauben fest daran, dass der Weg
-der Chinderzytig erst gerade begonnen hat. Werden Sie Teil unseres Weges und
-abonnieren Sie unseren Newsletter oder unterstützen Sie uns als Fördermitglied
-finanziell. Herzilchen Dank!
+Wir sprühen vor Ideen und Möglichkeiten und glauben fest daran, dass der Weg der Chinderzytig erst gerade begonnen hat. Werden Sie Teil unseres Weges und abonnieren Sie unseren Newsletter oder unterstützen Sie uns als Fördermitglied finanziell. Herzlichen Dank!
