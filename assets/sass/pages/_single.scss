@@ -72,6 +72,19 @@
 			display: flex;
 			align-self: center;
 		}
+
+		&-video {
+			display: flex;
+			justify-content: center;
+
+			iframe {
+				width: 60rem;
+				height: 40rem;
+				margin-bottom: 3rem;
+			}
+		}
+
+
 	}
 
 	&__comments {
