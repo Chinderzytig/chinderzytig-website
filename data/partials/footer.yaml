@@ -46,7 +46,5 @@ right:
 bottom:
   - label: Datenschutz
     link: "/datenschutz"
-  - label: Seitenverzeichnis
-    link: "/sitemap.xml"
   - label: Admin
     link: "/admin"
