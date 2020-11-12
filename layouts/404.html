@@ -1,3 +1,10 @@
 {{ define "main" }}
-
+	<section class="404">
+		<div class="404__text 404__text--title">UPS!</div>
+		<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,w_800/graphics/page-not-found_gfhkg9.png" alt="Page not found graphic" class="404__img">
+		<div class="404__text 404__text--caption">
+			Wir haben alle uns zur Verfügung stehenden Tools genutzt und konnten die
+			gesuchte Seite immer noch nicht finden.
+		</div>
+	</section>
 {{ end }}
