@@ -1,0 +1,18 @@
+{{ define "main" }}
+	<section class="fof">
+		<div class="fof__text fof__text--title">UPS...</div>
+		<img srcset="{{ .Site.Params.cloudinary_url }}/c_scale,w_320/graphics/page-not-found_gfhkg9.png 320w,
+			{{ .Site.Params.cloudinary_url }}/c_scale,w_414/graphics/page-not-found_gfhkg9.png 414w,
+			{{ .Site.Params.cloudinary_url }}/c_scale,w_512/graphics/page-not-found_gfhkg9.png 512w,
+			{{ .Site.Params.cloudinary_url }}/c_scale,w_600/graphics/page-not-found_gfhkg9.png 600w"
+			sizes="(min-width: 800px) 800px, 100vw"
+			src="{{ .Site.Params.cloudinary_url }}/c_scale,w_800/graphics/page-not-found_gfhkg9.png"
+			alt="Page not found graphic"
+			class="fof__img">
+		<div class="fof__text fof__text--caption">
+			Wir haben alle uns zur Verfügung stehenden Tools genutzt und konnten die
+			gesuchte Seite immer noch nicht finden.
+		</div>
+		<a href="/" class="btn btn--primary">Bringen Sie mich zurück nach Hause</a>
+	</section>
+{{ end }}

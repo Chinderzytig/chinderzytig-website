@@ -1,0 +1,25 @@
+.fof {
+	@include container-main;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	&__text {
+		font-family: $font-patrick, $font-fallback;
+
+		&--title {
+			font-weight: 700;
+			font-size: 10rem;
+
+			@include respond(phone-xl) { font-size: 6rem; }
+		}
+
+		&--caption {
+			font-size: 3.5rem;
+			text-align: center;
+			margin: 3rem 0;
+
+			@include respond(phone-xl) { font-size: 2.2rem; }
+		}
+	}
+}
