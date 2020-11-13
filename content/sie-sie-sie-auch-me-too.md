@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600666052/me-too_u2x1uq.jpg"
 img_description = "A women holds up a sign with the hashtag '#metoo' written on it"
 img_photographer = "Mihai Surdu"
 img_src = "https://unsplash.com/@mihaisurdu"
-kategorien = ["Welt", "Politik"]
-markierungen = ["Bewegungen"]
+kategorien = ["Nordamerika", "Politik"]
+markierungen = ["Hollywood", "Bewegungen"]
 paid = false
 slug = "metoo"
 title = "Sie? Sie? Sie auch? Me too!"
