@@ -1,6 +1,7 @@
 +++
+arbeitsmaterial = "iran-arbeitsmaterial_djnhsy"
 artikel = true
-author = ""
+author = "Philipp Feusi"
 cc_licence = "CC BY 4.0"
 cc_src = "https://creativecommons.org/licenses/by/4.0/deed.de"
 date = 2020-06-12T11:00:00Z
@@ -15,7 +16,6 @@ markierungen = ["Kriege/Konflikte", "Iran"]
 paid = false
 slug = "iran"
 title = "Der grosse Krieg ist nicht entstanden. Was ist sonst geschehen im Iran?"
-arbeitsmaterial = "iran-arbeitsmaterial_djnhsy"
 
 +++
 _Bald ist ein halbes Jahr vergangen, seit der iranische General Qasem Soleimani von einer Rakete der USA getötet wurde. Ein früherer Artikel der_ [_Jugendzytig_](https://www.jugendzytig.ch/kriegimiran) _ging damals der Frage nach, ob es vielleicht zu einem grossen Krieg zwischen den zwei Ländern kommt, die schon seit über 40 Jahren Streit haben. Was ist bisher geschehen? Die Chinderzytig rollt die Geschehnisse im Iran auf:_
