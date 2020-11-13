@@ -1,7 +1,7 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = "IB"
+author = "Lars Beer"
 cc_licence = ""
 cc_src = ""
 date = 2020-06-08T09:00:00Z
