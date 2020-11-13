@@ -1,6 +1,7 @@
 +++
+arbeitsmaterial = ""
 artikel = true
-author = "P.B. und Lars Ziörjen"
+author = "Lars Ziörjen"
 categories = []
 cc_licence = ""
 cc_src = ""
