@@ -1,6 +1,9 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
+cc_licence = ""
+cc_src = ""
 date = 2020-05-05T11:00:00Z
 description = ""
 fdw = false
@@ -9,7 +12,7 @@ img_description = "Hands being washed with soap"
 img_photographer = "Mélissa Jeanty"
 img_src = "https://unsplash.com/@meljeanty"
 kategorien = ["Welt", "Gesundheit"]
-markierungen = ["Krankheiten"]
+markierungen = ["COVID19", "Krankheiten"]
 paid = false
 slug = "handhygiene"
 title = "Die magische Seife"
