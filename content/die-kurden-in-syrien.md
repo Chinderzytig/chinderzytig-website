@@ -1,6 +1,7 @@
 +++
+arbeitsmaterial = "kurden-in-syrien-arbeitsmaterial_qiuzsc"
 artikel = true
-author = ""
+author = "Patricia Jover"
 cc_licence = ""
 cc_src = ""
 date = 2020-06-19T11:00:00Z
@@ -15,7 +16,6 @@ markierungen = ["Syrien", "Kriege/Konflikte"]
 paid = false
 slug = "kurden-in-syrien"
 title = "Die Kurden in Syrien"
-arbeitsmaterial = "kurden-in-syrien-arbeitsmaterial_qiuzsc"
 
 +++
 _Die Kurden sind mit etwa 35 Millionen Menschen das weltweit grösste Volk, das keinen eigenen Staat hat. Sie leben in der Türkei, im Iran, im Irak und in Syrien. Die Kurden haben eine gemeinsame Sprache und es verbindet sie eine starke Zusammengehörigkeit. In diesem Artikel wird die Situation der syrischen Kurden beleuchtet._
