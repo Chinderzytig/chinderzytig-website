@@ -71,15 +71,28 @@ fields:
   label: Creative Commons licence reference
 - type: list
   name: kategorien
-  description: 'Add any categories that you feel belong to this article. The categories
-    are: <strong>Nordamerika</strong>, <strong>Südamerika</strong>, <strong>Europa</strong>,
-    <strong>Afrika</strong>, <strong>Asien</strong>, <strong>Australien</strong>,
-    <strong>Antarktis</strong>, <strong>Gesellschaft</strong>, <strong>Gesundheit</strong>,
-    <strong>Medien</strong>, <strong>Natur/Umwelt</strong>, <strong>Politik</strong>,
-    <strong>Weltraum/Universum</strong>, <strong>Welt</strong>. <em>If the article
-    you are writing is for Focus der Woche, </em><strong><em>please leave this blank!</em></strong>'
+  description: Add any categories that you feel belong to this article. <em>If the
+    article you are writing is for Focus der Woche, </em><strong><em>please leave
+    this blank!</em></strong>
   config:
-    use_select: false
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Nordamerika
+    - Südamerika
+    - Europa
+    - Afrika
+    - Asien
+    - Australien
+    - Antarktis
+    - Gesellschaft
+    - Gesundheit
+    - Medien
+    - Natur/Umwelt
+    - Politik
+    - Weltraum/Universium
+    - Welt
   label: kategorien
 - type: list
   name: markierungen
