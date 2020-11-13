@@ -1,6 +1,7 @@
 +++
+arbeitsmaterial = "wasistscho%CC%88n_of8bbt"
 artikel = true
-author = "rc"
+author = "Rebekka Christen"
 cc_licence = ""
 cc_src = ""
 date = 2020-08-31T11:00:00Z
@@ -15,7 +16,6 @@ markierungen = ["Online", "Soziales"]
 paid = false
 slug = "wasistschön"
 title = "Bin ich schön? Was ist schön? Like oder nicht like..."
-arbeitsmaterial = "wasistscho%CC%88n_of8bbt"
 
 +++
 _In den sozialen Medien Fotos und Videos von sich teilen – wer macht das nicht? Dabei ist es den meisten wichtig, dabei auch gut auszusehen, so wie scheinbar alle anderen auch. Denn in den sozialen Medien wie Instagram, Snapchat oder TikTok sehen wir in sehr kurzer Zeit sehr viele Personen, die dem Schönheitsideal entsprechen._
