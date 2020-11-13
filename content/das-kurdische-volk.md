@@ -1,6 +1,7 @@
 +++
+arbeitsmaterial = "kurdische-volk-arbeitsmaterial_op1rav"
 artikel = true
-author = "Yvonne Bischof"
+author = "Yannick von Ballmoos"
 cc_licence = "CC0 1.0"
 cc_src = "https://creativecommons.org/publicdomain/zero/1.0/deed.de"
 date = 2020-06-22T11:00:00Z
@@ -15,7 +16,6 @@ markierungen = ["Irak", "Iran", "Türkei", "Syrien", "Kriege/Konflikte"]
 paid = false
 slug = "kurdisches-volk"
 title = "Das kurdische Volk"
-arbeitsmaterial = "kurdische-volk-arbeitsmaterial_op1rav"
 
 +++
 _Die Kurden sind ein Volk, welches heute keinen eigenen Staat besitzt. Ihr Gebiet ist aufgeteilt auf die Türkei, Syrien, Iran und den Irak. Total sind das zirka 20 Millionen Menschen. Die meisten Kurden, zirka 13 Millionen leben in der Türkei. Es ist ein vielfältiges Volk._
