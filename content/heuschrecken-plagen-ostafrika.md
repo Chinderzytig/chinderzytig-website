@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -11,7 +12,7 @@ img_description = "Heuschrecke auf einem Grashalm"
 img_photographer = "Trollinho"
 img_src = "https://unsplash.com/@trollinho"
 kategorien = ["Natur/Umwelt", "Afrika"]
-markierungen = []
+markierungen = ["Katastrophen"]
 paid = false
 slug = "heuschreckenplage"
 title = "Heuschrecken plagen Ostafrika"
