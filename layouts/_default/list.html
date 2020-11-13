@@ -8,14 +8,14 @@
 			{{ end }}
 		{{ end }}
 
-		{{ $tags = $tags | uniq }}
+		{{ $tags = $tags.ByTitle | uniq }}
 
 		{{ if in $link "kategorien"}}
 			<section class="list">
 				<h3 class="heading heading--list">{{ .Title }} Markierungen</h3>
 				<div class="list__markers">
-					{{ range $tags.ByTitle }}
-					<a href="{{ .Permalink }}" class="marker marker--list">{{ .LinkTitle }}</a>
+					{{ range $tags}}
+						<a href="{{ .Permalink }}" class="marker marker--list">{{ .LinkTitle }}</a>
 					{{ end }}
 				</div>
 			</section>
