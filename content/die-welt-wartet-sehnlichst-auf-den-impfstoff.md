@@ -1,6 +1,9 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
+cc_licence = ""
+cc_src = ""
 date = 2020-04-28T11:00:00Z
 description = ""
 fdw = false
@@ -9,7 +12,7 @@ img_description = "A nurse in the process of administering a vaccination in the 
 img_photographer = "CDC"
 img_src = "https://unsplash.com/@cdc"
 kategorien = ["Asien", "Gesundheit"]
-markierungen = ["China", "Krankheiten"]
+markierungen = ["COVID19", "China", "Krankheiten"]
 paid = false
 slug = "impfstoffe"
 title = "Die Welt wartet sehnlichst auf den Impfstoff"
