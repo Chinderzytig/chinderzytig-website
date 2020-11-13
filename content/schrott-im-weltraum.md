@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "schrott-im-weltraum-arbeitsmaterial_bui64q"
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,13 +11,11 @@ hero_img = "/v1600456406/weltraumschrott_bv1c6d.jpg"
 img_description = "Satellite in orbit"
 img_photographer = "NASA"
 img_src = "https://unsplash.com/@nasa"
-kategorien = ["Weltraum/Universum"]
+kategorien = ["Natur/Umwelt", "Weltraum/Universum"]
 markierungen = ["Weltall"]
 paid = false
 slug = "weltraumschrott"
 title = "Schrott im Weltraum"
-arbeitsmaterial = "schrott-im-weltraum-arbeitsmaterial_bui64q"
-
 
 +++
 _Während auf der Erde ein Virus unkontrolliert herumschwirrt, schwirren im Weltraum Unmengen von alten Satelliten und Raketenteilen unkontrolliert um die Erde. Für Astronauten ist der Weltraumschrott eine grosse Gefahr._
