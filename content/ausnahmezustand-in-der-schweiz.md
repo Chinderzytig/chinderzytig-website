@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = ""
 cc_licence = ""
@@ -10,7 +11,7 @@ hero_img = "/v1600716107/wef-2_zbhbo1.jpg"
 img_description = "View of Davos and surrounding mountains"
 img_photographer = "Evangeline Shaw"
 img_src = "https://unsplash.com/@evangelineshaw"
-kategorien = ["Europa", "Politik"]
+kategorien = ["Wirtschaft", "Europa", "Politik"]
 markierungen = ["Schweiz", "Organisationen"]
 paid = false
 slug = "wef"
