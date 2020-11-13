@@ -1,6 +1,7 @@
 +++
+arbeitsmaterial = "nordkorea-und-corona-arbeitsmaterial_ofbj21"
 artikel = true
-author = "Michèle Häberli"
+author = "Seraina Branschi"
 cc_licence = ""
 cc_src = ""
 date = 2020-06-05T11:00:00Z
@@ -15,7 +16,6 @@ markierungen = ["COVID19", "Nordkorea"]
 paid = false
 slug = "nordkorea-und-corona"
 title = "Keine Corona-Infizierten in Nordkorea?"
-arbeitsmaterial = "nordkorea-und-corona-arbeitsmaterial_ofbj21"
 
 +++
 _Aus dem Munde von Kim Jong-un, der seit seinem Amtsantritt 2011 als Oberster Führer Nordkoreas, weltweit für Aufregung sorgt, kam die Nachricht: Keine Covid-19-Infizierten in Nordkorea. Kann das sein?_
