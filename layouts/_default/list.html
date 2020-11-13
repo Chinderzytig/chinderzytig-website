@@ -3,7 +3,7 @@
 		{{ $link := string .Permalink }}
 
 		{{ range .Pages.ByTitle.Reverse }}
-			{{ with (.GetTerms "markierungen") }}
+			{{ range (.GetTerms "markierungen") }}
 				{{ $tags = $tags | append . }}
 			{{ end }}
 		{{ end }}
@@ -15,7 +15,7 @@
 				<h3 class="heading heading--list">{{ .Title }} Markierungen</h3>
 				<div class="list__markers">
 					{{ range $tags.ByTitle}}
-						<a href="{{ .Permalink }}" class="marker marker--list">{{ .LinkTitle }}</a>
+						<a href="{{ .Permalink }}" class="marker marker--list">{{ .Page.LinkTitle }}</a>
 					{{ end }}
 				</div>
 			</section>
