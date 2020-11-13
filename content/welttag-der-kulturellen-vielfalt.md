@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -11,7 +12,7 @@ img_description = "Painted mural of colourful hands"
 img_photographer = "Tim Mossholder"
 img_src = "https://unsplash.com/@timmossholder"
 kategorien = ["Welt", "Gesellschaft"]
-markierungen = ["Rechte"]
+markierungen = ["Organisationen", "Rechte"]
 paid = false
 slug = "welttag-kulturelle-vielfalt"
 title = "Welttag der kulturellen Vielfalt"
