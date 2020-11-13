@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "Arbeitsmaterial_Ladenserie_DennerVolgundSpar_c5kkc2"
 artikel = true
 author = "Georg Stadler"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1602410860/Brot-Frischeabteilung-Schindellegi_t6r6mu.jpg"
 img_description = ""
 img_photographer = ""
 img_src = ""
-kategorien = []
-markierungen = []
+kategorien = ["Welt"]
+markierungen = ["Ernährung"]
 paid = false
 slug = "ladenserie4-spar-denner-volg"
 title = "Unsere Ladenserie: Teil 4 – Denner, Volg und Spar"
-arbeitsmaterial = "Arbeitsmaterial_Ladenserie_DennerVolgundSpar_c5kkc2"
 
 +++
 _Im letzten Teil der Serie zu den Detailhändlern stellen wir vor: Denner, Volg und Spar._
