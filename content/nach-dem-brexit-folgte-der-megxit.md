@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -10,7 +11,7 @@ hero_img = "/v1599984536/mexit_owkcca.jpg"
 img_description = "Wedding spectator waving Harry and Meghan Union Jack flag."
 img_photographer = "King's Church International"
 img_src = "https://unsplash.com/@kingschurchinternational"
-kategorien = ["Gesellschaft"]
+kategorien = ["Europa", "Gesellschaft"]
 markierungen = ["Großbritannien", "Personen"]
 paid = false
 slug = "megxit"
