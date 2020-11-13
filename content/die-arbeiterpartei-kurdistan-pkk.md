@@ -1,7 +1,7 @@
 +++
 arbeitsmaterial = "arbeiterpartei-kurdistan-arbeitsmaterial_vq9unb"
 artikel = true
-author = "Yvonne Bischof"
+author = "Yannick von Ballmoos"
 cc_licence = "CC BY-SA 2.0"
 cc_src = "https://creativecommons.org/licenses/by-sa/2.0/deed.de"
 date = 2020-06-26T11:00:00Z
