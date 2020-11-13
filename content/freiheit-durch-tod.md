@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "IB"
 cc_licence = ""
@@ -11,7 +12,7 @@ img_description = "Junger Mann liest Koran."
 img_photographer = "Masjid Pogung Dalangan"
 img_src = "https://unsplash.com/@masjidmpd"
 kategorien = ["Asien", "Gesellschaft"]
-markierungen = ["Irak"]
+markierungen = ["Kriege/Konflikte", "Irak"]
 paid = false
 slug = "freiheit-durch-tod"
 title = "Freiheit durch Tod"
