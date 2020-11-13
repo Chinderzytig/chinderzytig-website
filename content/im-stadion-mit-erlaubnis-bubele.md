@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1602364347/Pyro-im-Stadion_claefl.jpg"
 img_description = "Pyro im Fussbaldstadion."
 img_photographer = "Waldemar Brandt"
 img_src = "https://unsplash.com/@waldemarbrandt67w"
-kategorien = ["Gesellschaft"]
-markierungen = []
+kategorien = ["Welt", "Gesellschaft"]
+markierungen = ["Sport"]
 paid = false
 slug = "pyro-im-fussballstadion"
 title = " Im Stadion mit Erlaubnis «bubele»?"
