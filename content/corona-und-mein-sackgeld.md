@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -10,7 +11,7 @@ hero_img = "/v1600155256/Corona-und-mein-Sackgeld_q3ywnn.jpg"
 img_description = "A pile of Swiss Rappen"
 img_photographer = "Claudio Schwarz"
 img_src = "https://unsplash.com/@purzlbaum"
-kategorien = ["Welt", "Gesundheit"]
+kategorien = ["Wirtschaft", "Welt", "Gesundheit"]
 markierungen = ["COVID19"]
 paid = false
 slug = "coronaundwirtschaft"
