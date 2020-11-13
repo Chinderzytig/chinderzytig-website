@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Christoph Forster"
 cc_licence = "CC BY 2.0"
@@ -49,4 +50,4 @@ Bei dieser Abstimmung geht es darum, ob Eltern einen höheren Betrag von den Ste
 
 ### Nun bist du an der Reihe
 
-Wie wirkt der Fokus der Woche auf dich? Was denkst du zu den Abstimmungsthemen? Was denken dein Freunde, deine Familie? Welche Gefühle kommen auf, welche Diskussionen entstehen? Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+Wie wirkt der Fokus der Woche auf dich? Was denkst du zu den Abstimmungsthemen? Was denken deine Freunde, deine Familie? Welche Gefühle kommen auf, welche Diskussionen entstehen? Sprich darüber - und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
