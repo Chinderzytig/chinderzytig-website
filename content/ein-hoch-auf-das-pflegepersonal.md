@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "Ein-Hoch-auf-das-Pflegepersonal-arbeitsmaterial_z9klkl"
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -11,11 +12,10 @@ img_description = "Eine Krankenschwester sitz am Boden eines Krankenhauses in Mo
 img_photographer = "Vladimir Fedotov"
 img_src = "https://unsplash.com/@fedotov_vs"
 kategorien = ["Welt", "Gesundheit"]
-markierungen = ["Organisationen"]
+markierungen = ["COVID19", "Organisationen"]
 paid = false
 slug = "weltgesundheit"
 title = "Ein Hoch auf das Pflegepersonal"
-arbeitsmaterial = "Ein-Hoch-auf-das-Pflegepersonal-arbeitsmaterial_z9klkl"
 
 +++
 _Jedes Jahr am 7. April findet der Weltgesundheitstag statt. Warum braucht es den Weltgesundheitstag? Weil es immer wieder neue Themen zur Gesundheit gibt. Über diese müssen informiert werden._
