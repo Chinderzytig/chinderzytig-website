@@ -1,6 +1,9 @@
 +++
+arbeitsmaterial = "billie-ellish-arbeitmaterial_btdqpc"
 artikel = true
 author = "Lars Ziörjen"
+cc_licence = ""
+cc_src = ""
 date = 2019-09-21T11:00:00Z
 description = ""
 fdw = false
@@ -9,11 +12,10 @@ img_description = "Billie Eilish preforming on stage infront of fans"
 img_photographer = "Nathan DeFiesta"
 img_src = "https://unsplash.com/@natedefiesta"
 kategorien = ["Nordamerika", "Medien"]
-markierungen = ["USA", "Musik"]
+markierungen = ["Personen", "USA", "Musik"]
 paid = false
 slug = "billieeilish"
 title = "Billie Eilish – die angesagteste Pop-Sängerin von heute"
-arbeitsmaterial = "billie-ellish-arbeitmaterial_btdqpc"
 
 +++
 _Viele Teenager lieben die Musik und den Stil von Billie Eilish. Das 17jährige Mädchen füllt Konzertsäle und gilt als die angesagteste Sängerin für die heutige Jugend. Was unterscheidet sie von anderen? Was macht sie so erfolgreich?_
