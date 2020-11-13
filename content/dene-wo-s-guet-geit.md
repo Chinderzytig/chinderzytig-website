@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1602363803/Reichtum_rne0s6.jpg"
 img_description = "Hand mit Goldtalern."
 img_photographer = "Sharon McCutcheon"
 img_src = "https://unsplash.com/@sharonmccutcheon"
-kategorien = ["Gesellschaft"]
-markierungen = []
+kategorien = ["Welt", "Gesellschaft"]
+markierungen = ["Soziales"]
 paid = false
 slug = "reichtum"
 title = "Dene wo’s guet geit…"
