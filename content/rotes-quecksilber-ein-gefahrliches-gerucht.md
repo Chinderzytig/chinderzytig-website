@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "rotesquecksilber_jrs9u3"
 artikel = true
 author = "Georg Stalder"
 cc_licence = ""
@@ -11,11 +12,10 @@ img_description = "An atom bomb detonating"
 img_photographer = "Science in HD"
 img_src = "https://unsplash.com/@scienceinhd"
 kategorien = ["Afrika", "Welt"]
-markierungen = []
+markierungen = ["Afrika"]
 paid = false
 slug = "rotesquecksilber"
 title = "Rotes Quecksilber – ein gefährliches Gerücht"
-arbeitsmaterial = "rotesquecksilber_jrs9u3"
 
 +++
 _Mit rotem Quecksilber könne man auf einfache Weise eine Atombombe bauen. Das glauben Terroristen und Schatzsucher. Der Stoff existiert in Wirklichkeit aber gar nicht._
