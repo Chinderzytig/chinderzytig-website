@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -11,7 +12,7 @@ img_description = "Female ice hockey players engage during faceoff. "
 img_photographer = "Jerry Yu"
 img_src = "https://unsplash.com/@jerryyu"
 kategorien = ["Europa", "Gesellschaft"]
-markierungen = ["Schweiz", "Rechte"]
+markierungen = ["Sport", "Schweiz", "Rechte"]
 paid = false
 slug = "frauen-im-maennersport"
 title = "Im Männerhockey hat nun eine Frau das Sagen"
