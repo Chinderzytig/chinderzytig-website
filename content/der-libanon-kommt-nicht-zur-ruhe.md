@@ -1,6 +1,7 @@
 +++
+arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Seraina Branschi"
 cc_licence = "CC BY-SA 4.0"
 cc_src = "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
 date = 2020-04-14T11:00:00Z
