@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "arbeiterpartei-kurdistan-arbeitsmaterial_vq9unb"
 artikel = true
 author = "Yvonne Bischof"
 cc_licence = "CC BY-SA 2.0"
@@ -11,11 +12,10 @@ img_description = "Kurdistan Workers Party flag flying in Brussels"
 img_photographer = "Eoghan OLionnain"
 img_src = "https://www.flickr.com/photos/11742539@N03/6177939134"
 kategorien = ["Asien", "Politik"]
-markierungen = ["Syrian", "Parteien"]
+markierungen = ["Syrien", "Parteien"]
 paid = false
 slug = "arbeiterpartei-kurdistan"
 title = "Die Arbeiterpartei Kurdistan (PKK)"
-arbeitsmaterial = "arbeiterpartei-kurdistan-arbeitsmaterial_vq9unb"
 
 +++
 _Die Arbeiterpartei Kurdistans (PKK) wurde 1978 durch Abdullah Öcalan gegründet. Er ist ein sehr harter Parteiführer. Er ist bekannt dafür, dass er auch mal zur Gewalt gegenüber Feinden und Parteimitgliedern, die nicht seiner Meinung sind, greift._
