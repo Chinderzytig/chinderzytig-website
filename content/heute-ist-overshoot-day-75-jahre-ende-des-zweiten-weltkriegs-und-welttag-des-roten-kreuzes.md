@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -11,7 +12,7 @@ img_description = "A US Amry ambulance from WWII bearing the red cross symbol"
 img_photographer = "Pierpaolo Riondato"
 img_src = "https://unsplash.com/@rynocerontem"
 kategorien = ["Welt", "Europa", "Gesundheit"]
-markierungen = ["Schweiz", "Organisationen"]
+markierungen = ["Kriege/Konflikte", "Schweiz", "Organisationen"]
 paid = false
 slug = "roteskreuz"
 title = "Heute ist: Overshoot-Day, 75 Jahre Ende des Zweiten Weltkriegs und Welttag des Roten Kreuzes"
