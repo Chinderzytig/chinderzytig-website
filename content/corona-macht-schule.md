@@ -1,6 +1,7 @@
 +++
+arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Lars Ziörjen"
 cc_licence = ""
 cc_src = ""
 date = 2020-03-15T00:00:00Z
