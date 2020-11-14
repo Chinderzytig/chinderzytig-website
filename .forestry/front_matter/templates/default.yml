@@ -127,6 +127,7 @@ fields:
   default: true
   hidden: true
 pages:
+- content/2-jahre-gelbwestenbewegung.md
 - content/20-jahre-tot-noch-immer-unvergessen.md
 - content/20-millionen-baume-als-zeichen-gegen-den-klimawandel.md
 - content/26.04.1986-tschernobyl.md
