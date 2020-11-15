@@ -6,6 +6,7 @@ cc_licence = ""
 cc_src = ""
 date = 2020-11-18T05:00:00Z
 description = "Am 29. November 2020 finden in der Schweiz erneut Abstimmungen statt. Die Chinderzytig zeigt dir um was es geht."
+draft = true
 fdw = true
 hero_img = "/v1605264757/claudio-schwarz-purzlbaum-E6vecMws7M0-unsplash_fa2kdw.jpg"
 img_description = "In der Schweiz finden regelmässig Volksabstimmungen statt. Die Bevölkerung kann über neue Gesetze abstimmen."
