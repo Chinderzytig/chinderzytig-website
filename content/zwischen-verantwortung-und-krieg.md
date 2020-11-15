@@ -37,6 +37,12 @@ Du willst mehr wissen? Wir haben von zwei Politikerinnen jeweils einen Gastkomme
 
 ### Gastkommentare
 
+{{< container-center >}}
+
+{{< document doc="Konzernverantwortungsinitiative-Ja_z2zrda" caption="Gastkommentar-Pro" >}}
+
+{{< /container-center >}}
+
 {{< teiler >}}
 
 ### Kriegsgeschäfte-Initiative – Für ein Verbot der Finanzierung von Kriegsmaterialproduzenten
