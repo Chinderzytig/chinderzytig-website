@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "1_CZ_JZ_Vorlage_AM-1_ds2fex"
 artikel = true
 author = "Rebekka Christen"
 cc_licence = ""
 cc_src = ""
 date = 2020-11-17T05:00:00Z
 description = "Die \"Gilets jaunes\" oder auf Deutsch Gelbwesten-Bewegung ist auch heute noch immer in Frankreich bekannt. Die Chinderzytig erklärt wie sie entstand und was ihr Ziel ist."
-draft = true
 fdw = false
 hero_img = "/v1605365881/ev-O01eKWuXCbo-unsplash_u3vcle.jpg"
 img_description = "Anhänger der Gelbwesten-Bewegung demonstrieren gehen erhöhte Benzinpreise."
@@ -41,3 +40,9 @@ Die Corona-Pandemie sorgte schliesslich dafür, dass die Gelbwesten gar nicht me
 
 Wie steht es heute um die Gelbwesten? Seit im Mai 2020 in Frankreich der Corona-Lockdown aufgehoben wurde, protestierten sie ein paar Mal in kleinem Rahmen. Da aber aktuell wieder strenge Massnahmen zur Bekämpfung des Virus eingeführt wurden, ist das jetzt zum wiederholten Mal nicht mehr möglich. Die Bewegung ist daher wie am Anfang vor allem im Internet aktiv.  
 Ganz verschwinden wird sie wahrscheinlich noch eine Weile nicht. So lange sich die Gelbwesten benachteiligt und von der Regierung nicht gehört fühlen, werden sie sich weiterhin in irgendeiner Form bemerkbar machen und Forderungen stellen – wenn auch nicht so laut wie am Anfang.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
