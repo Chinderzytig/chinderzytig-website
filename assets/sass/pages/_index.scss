@@ -5,18 +5,30 @@
 	@include respond(tab-port-sm) { margin-top: 0; }
 }
 
-.new__cta { @include cta-color($cta-azure); }
+.new__cta {
+	@include cta-color($cta-azure);
+	margin-bottom: 0;
+}
 
 .fdw__cta {
+	border: 1rem solid $chinder-platinum;
+	margin-bottom: 0;
+	padding: 4rem 0;
 
 	&-container {
 		display: flex;
 		justify-content: space-around;
 		flex-wrap: wrap;
-		margin-top: -3rem;
+		align-items: center;
 	}
 
 	&-link { text-decoration: none; }
+
+	&-card {
+		margin-top: 0;
+
+		@include respond(phone-xl) { margin-top: 3rem; }
+	}
 }
 
 .special__cta { @include cta-color($cta-seashell); }

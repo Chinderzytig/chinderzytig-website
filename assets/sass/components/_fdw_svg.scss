@@ -1,4 +1,5 @@
 .fdw__svg {
 	width: 37rem;
-	padding-top: 2rem;
+
+	@include respond(phone-xxl) { width: 30rem; }
 }
