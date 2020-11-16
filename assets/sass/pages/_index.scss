@@ -24,7 +24,11 @@
 
 	&-link { text-decoration: none; }
 
-	&-card { margin-top: 0; }
+	&-card {
+		margin-top: 0;
+
+		@include respond(phone-xl) { margin-top: 3rem; }
+	}
 }
 
 .special__cta { @include cta-color($cta-seashell); }

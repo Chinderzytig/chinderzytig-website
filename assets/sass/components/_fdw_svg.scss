@@ -1,1 +1,5 @@
-.fdw__svg { width: 37rem; }
+.fdw__svg {
+	width: 37rem;
+
+	@include respond(phone-xxl) { width: 30rem; }
+}
