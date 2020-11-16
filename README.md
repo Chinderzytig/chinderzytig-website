@@ -1,8 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1e519541-da15-44b2-9d10-23d8c1bc6f0a/deploy-status)](https://app.netlify.com/sites/chinderzytig-v1/deploys)
 
-# Chinderzytig.ch
-[Chinderzytig](https://www.chinderzytig.ch/) is a German speaking news website producing weekly articles in a simplified manner, with the intent of making current events more accessible and
-understandable for school children.
+![Chinderzytig website banner](https://res.cloudinary.com/chinderzytig/image/upload/v1605558755/logos/banner_hlymn4.png)
+[Chinderzytig](https://www.chinderzytig.ch/) is a news website producing weekly articles in simplified German, with the intent of making current events more accessible and understandable for school children.
 
 This website is built using [Hugo](https://gohugo.io/), a very fast and flexible Go based static site generator, while loosely
 employing Jamstack architectural principles (less focus on "J" and more focus on "amstack") through the incooporation of third party applications, such as:
@@ -10,7 +9,7 @@ employing Jamstack architectural principles (less focus on "J" and more focus on
 - [Foresty](https://forestry.io/): content management;
 - [Snipcart](https://snipcart.com/): shopping cart/ecommerce;
 - [Cloudinary](https://cloudinary.com/): asset hosting;
-- [Disqus](https://disqus.com/): user engagement and moderation; and
+- [Disqus](https://disqus.com/): user interaction and moderation; and
 - [Algolia](https://www.algolia.com/): website search and discovery [Coming Soon!]
 
 ## Build
