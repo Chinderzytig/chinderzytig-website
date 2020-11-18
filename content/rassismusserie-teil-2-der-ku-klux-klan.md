@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-11-19T05:00:00Z
 description = "Die Rassismusserie der Chinderzytig geht in die zweite Runde. Diesmal geht es um den Ku-Klux-Klan."
-draft = true
 fdw = false
 hero_img = "/v1605366528/aaron-burden-5c5VcFshOds-unsplash_fygvff.jpg"
 img_description = "Der Ku-Klux-Klan gehört zu den bekanntesten Rassistischen Bewegungen. Oftmals zünden sie grosse Holzkreuze an."
