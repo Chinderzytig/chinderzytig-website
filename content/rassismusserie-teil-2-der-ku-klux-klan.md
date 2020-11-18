@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20201119_Rassismusserie_Teil2_Ku-Klux-Klan_AM_vsb19i"
 artikel = true
 author = "Georg Stalder"
 cc_licence = ""
@@ -45,3 +45,9 @@ Die Chinderzytig befasst sich in einer Artikel-Serie mit extremen Gruppierungen 
 Artikel zum Ku-Klux-Klan im Kinderlexikon: [https://klexikon.zum.de/wiki/Ku-Klux-Klan](https://klexikon.zum.de/wiki/Ku-Klux-Klan "https://klexikon.zum.de/wiki/Ku-Klux-Klan")
 
 Lied von The Ramones «The KKK took my baby away» (Der KKK nahm mir meine Freundin weg): [https://www.youtube.com/watch?v=Qx0zeMbLOCY](https://www.youtube.com/watch?v=Qx0zeMbLOCY "https://www.youtube.com/watch?v=Qx0zeMbLOCY")
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
