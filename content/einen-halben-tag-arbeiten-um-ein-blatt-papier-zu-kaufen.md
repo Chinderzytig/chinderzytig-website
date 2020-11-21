@@ -16,7 +16,7 @@ kategorien = ["Medien", "Welt"]
 markierungen = []
 paid = false
 slug = ""
-title = "Einen halben Tag arbeiten, um ein Blatt Papier zu kaufen"
+title = "Einen halben Tag arbeiten um ein Blatt Papier zu kaufen"
 
 +++
 _Wir kaufen sie am Kiosk oder erhalten sie in den Briefkasten. Zeitungen und Zeitschriften kennt jeder und jede von euch, wahrscheinlich könnt ihr mehr als zehn davon aufzählen, oder? Aber wisst ihr auch, wann und wie sie entstanden sind?_
@@ -33,8 +33,8 @@ Nicht alle Menschen konnten sich zu dieser Zeit aber ein solches Flugblatt leist
 
 ### Heute für das Pizzamenu
 
-Zu dieser Zeit konnten noch viel weniger Menschen lesen als heute. Deshalb war auf fast jedem Flugblatt ein Bild zu sehen. Denn mit diesen Zeichnungen konnte man auch den Personen erklären, wenn etwas passiert war. Weil es nun möglich war, solche Blätter schneller zu drucken und man viel mehr Exemplare davon drucken konnte, erhielten nach und nach viel mehr Menschen auf der Welt Zugang zu solchen Flugblättern. Deshalb wurden diese immer beliebter.
+Früher konnten noch viel weniger Menschen lesen als heute. Deshalb war auf fast jedem Flugblatt ein Bild zu sehen. Denn mit diesen Zeichnungen konnte man auch leseunfähigen Personen informieren, wenn etwas passiert war. Weil es nun möglich war, solche Blätter schneller zu drucken und man viel mehr Exemplare davon produzieren konnte, erhielten nach und nach viel mehr Menschen auf der Welt Zugang zu solchen Flugblättern. Deshalb wurden diese immer beliebter.
 
-Der grosse Unterschied zu den Zeitschriften und Zeitungen, wie ihr sie heute kennt war, dass ein Flugblatt nicht regelmässig erschien. Sie wurden nur dann geschrieben und gedruckt, wenn etwas Wichtiges passiert war. Das änderte sich im Laufe der Zeit, als die Druckmaschinen noch schneller wurden und das Papier noch weniger kostete.
+Der grosse Unterschied zu den Zeitschriften und Zeitungen, wie ihr sie heute kennt, war, dass Flugblätter nicht regelmässig erschienen. Sie wurden nur dann geschrieben und gedruckt, wenn etwas Wichtiges passiert war. Das änderte sich im Laufe der Zeit, als die Druckmaschinen noch schneller wurden und das Papier noch weniger kostete.
 
-Heute sind die Merkmale einer Zeitschrift, dass sie jeden Tag, einmal pro Woche, einmal im Monat oder ein paar Mal im Jahr erscheint. Ein Flugblatt von heute - ein Flyer - wird fast nur noch als Werbung gebraucht: Für das Pizzamenu vom Takeaway im Quartier, für einen neuen Laden, der bald aufgehen soll oder vor allem für politische Botschaften von verschiedenen Parteien.
+Heute sind die Merkmale von Zeitschriften, dass sie jeden Tag, einmal pro Woche, einmal im Monat oder ein paar Mal im Jahr erscheinen. Ein Flugblatt von heute - ein Flyer - wird fast nur noch als Werbung gebraucht: Für das Pizzamenu vom Takeaway im Quartier, für einen neuen Laden, der bald aufgehen soll oder vor allem für politische Botschaften von verschiedenen Parteien.
