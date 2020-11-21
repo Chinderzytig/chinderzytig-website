@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-11-24T05:00:00Z
 description = "Im Winter wird viel Fondue oder Raclette konsumiert, speziell in der Schweiz. Doch was ist besser? "
-draft = true
 fdw = false
 hero_img = "/v1604733840/angela-pham-vo7GGTh6sXM-unsplash_ol06yl.jpg"
 img_description = "Fondue oder Raclette – Welcher Schmelzkäse schmeckt besser."
