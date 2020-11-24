@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20201126_Flugbla%CC%88tter_AM_ymrtwb"
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
@@ -37,3 +37,9 @@ Früher konnten noch viel weniger Menschen lesen als heute. Deshalb war auf fast
 Der grosse Unterschied zu den Zeitschriften und Zeitungen, wie ihr sie heute kennt, war, dass Flugblätter nicht regelmässig erschienen. Sie wurden nur dann geschrieben und gedruckt, wenn etwas Wichtiges passiert war. Das änderte sich im Laufe der Zeit, als die Druckmaschinen noch schneller wurden und das Papier noch weniger kostete.
 
 Heute sind die Merkmale von Zeitschriften, dass sie jeden Tag, einmal pro Woche, einmal im Monat oder ein paar Mal im Jahr erscheinen. Ein Flugblatt von heute - ein Flyer - wird fast nur noch als Werbung gebraucht: Für das Pizzamenu vom Takeaway im Quartier, für einen neuen Laden, der bald aufgehen soll oder vor allem für politische Botschaften von verschiedenen Parteien.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
