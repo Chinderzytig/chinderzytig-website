@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-11-26T05:00:00Z
 description = "Welttag des Flugblattes. Doch gibt es das heute noch? Die Chinderzytig erklärt mehr dazu"
-draft = true
 fdw = false
 hero_img = "/v1605975685/yonghyun-lee-RhGK4qOwxxw-unsplash_xxxmcz.jpg"
 img_description = "Flugblätter dienen der Information für die Einwohnerinnen und Einwohner."
