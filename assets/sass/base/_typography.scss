@@ -41,15 +41,6 @@ body {
 	}
 }
 
-/* ----- FREMDWORT (SHORTCODE) ------ */
-.fremdwort {
-	&:link,
-	&:visited {
-		color: $chinder-orange;
-	}
-}
-
-
 /* ----- HEADINGS ------ */
 .heading {
 	font-family: $font-patrick, $font-fallback;
