@@ -9,5 +9,16 @@
 		{{- partial "footer.html" . -}}
 		<script async src="https://cdn.snipcart.com/themes/v3.0.23/default/snipcart.js"></script>
 		<div hidden id="snipcart" data-api-key="MTRjYjJiNTUtNjUzYS00MzhiLThjOGItNDViOWJlMjdkOTZlNjM3MzYzODgwMjc1ODIwMjI4"></div>
+		<script type="text/javascript">
+		  algoliasearchNetlify({
+		    appId: 'FLJ8P5T64I',
+		    apiKey: ALGOLIA_API_KEY,
+		    siteId: '1e519541-da15-44b2-9d10-23d8c1bc6f0a',
+		    branch: 'master',
+		    autocomplete: {
+		      inputSelector: 'input[type=search]',
+		    },
+		  });
+		</script>
 	</body>
 </html>
