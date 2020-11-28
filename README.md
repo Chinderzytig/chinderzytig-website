@@ -10,7 +10,7 @@ employing Jamstack architectural principles (less focus on "J" and more focus on
 - [Snipcart](https://snipcart.com/): shopping cart/ecommerce;
 - [Cloudinary](https://cloudinary.com/): asset hosting;
 - [Disqus](https://disqus.com/): user interaction and moderation; and
-- [Algolia](https://www.algolia.com/): website search and discovery [Coming Soon!]
+- [Algolia](https://www.algolia.com/): website search and discovery
 
 ## Build
 To run our website locally:
