@@ -95,9 +95,19 @@
 		&-item { padding-bottom: 1rem; }
 
 		&-link {
+			text-decoration: none;
+			color: $chinder-platinum;
+
 			&:active,
 			&:hover { border-bottom: 2px solid $chinder-platinum;}
 		}
+
+		&--heavy {
+			font-weight: 700;
+			text-transform: uppercase;
+		}
+
+		&--normal { font-weight: 500; }
 	}
 
 	&__partner {

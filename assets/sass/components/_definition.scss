@@ -28,11 +28,15 @@
 	&__close {
 		&:link,
 		&:visited {
+			font-size: 3rem;
+			text-decoration: none;
 			position: absolute;
 			top: 2.5rem;
 			right: 2.5rem;
 			display: inline-block;
 			line-height: 1;
 		}
+
+		&:hover { color: $chinder-orange; }
 	}
 }

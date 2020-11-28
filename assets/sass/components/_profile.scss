@@ -26,7 +26,20 @@
 		border-radius: 50%;
 	}
 
-	&__content { margin-top: 1rem; }
+	&__content {
+		text-align: center;
+		margin-top: 1rem;
+	}
+
+	&__name,
+	&__title { font-family: $font-patrick, $font-fallback; }
+
+	&__name {
+		font-size: $font-big;
+		color: $chinder-orange;
+	}
+
+	&__title { color: $chinder-verdigris; }
 
 	&__background { margin-top: 1rem; }
 

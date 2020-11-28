@@ -7,9 +7,25 @@
 		margin-bottom: $margin-s;
 	}
 
-	p { margin-bottom: $margin-s; }
+	p {
+		text-align: justify;
+		margin-bottom: $margin-s;
+	}
 
-	h3 { margin-bottom: 2rem; }
+	a {
+		text-decoration: none;
+		color: $chinder-verdigris;
+
+		a:link,
+		a:visited { color: $chinder-verdigris; }
+	}
+
+	h3 {
+		font-family: $font-patrick, $font-fallback;
+		font-size: $font-bigger;
+		color: $chinder-orange;
+		margin-bottom: 2rem;
+	}
 
 	&__pdf {
 
