@@ -2,14 +2,20 @@
 
 	&:link,
 	&:visited {
+		text-decoration: none;
+		color: $social-base;
 		background-color: $chinder-platinum;
 		border-radius: .5rem;
 	}
 
 	&:hover,
-	&:active { background-color: $chinder-verdigris; }
+	&:active {
+		color: $color-white;
+		background-color: $chinder-verdigris;
+	}
 
 	&--article {
+		font-size: 1.3rem;
 		padding: .5rem;
 
 		&:not(:first-child) { margin-left: 1rem; }

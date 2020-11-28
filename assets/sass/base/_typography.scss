@@ -116,18 +116,3 @@ body {
 		z-index: 2;
 	}
 }
-
-/* ----- MARKER ------ */
-.marker {
-
-	&:link,
-	&:visited {
-		text-decoration: none;
-		color: $social-base;
-	}
-
-	&:hover,
-	&:active { color: $color-white; }
-
-	&--article { font-size: 1.3rem; }
-}
