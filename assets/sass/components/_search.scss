@@ -1,6 +1,7 @@
 .search {
 
 	&__container {
+		@include container-main;
 		display: flex;
 		justify-content: center;
 	}
