@@ -147,13 +147,3 @@ body {
 
 	&__title { color: $chinder-verdigris; }
 }
-
-/* ----- SNIPCART ------ */
-.snipcart-overwrite {
-
-	&.snipcart-items-count {
-		color: $color-white;
-		font-weight: 700;
-		font-size: 1rem;
-	}
-}
