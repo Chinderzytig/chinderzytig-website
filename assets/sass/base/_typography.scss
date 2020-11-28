@@ -5,42 +5,6 @@ body {
 	line-height: 1.6;
 }
 
-// -----------------------------------------------
-// COMPONENTS
-// -----------------------------------------------
-/* ----- CARD ------ */
-.card {
-
-	&:link,
-	&:visited {
-		text-decoration: none;
-		color: $color-black;
-	}
-
-	&:hover,
-	&:active { color: $color-white; }
-
-	&__content {
-
-		&-title {
-			font-family: $font-patrick, $font-fallback;
-			font-size: $font-big;
-			font-weight: 700;
-
-			&--highlight {
-				font-family: $font-patrick, $font-fallback;
-				font-size: $font-heading;
-			}
-		}
-
-		&-date {
-			font-weight: 300;
-
-			&--highlight { font-weight: 300; }
-		}
-	}
-}
-
 /* ----- HEADINGS ------ */
 .heading {
 	font-family: $font-patrick, $font-fallback;

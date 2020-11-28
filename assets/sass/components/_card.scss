@@ -5,6 +5,15 @@
 	position: relative;
 	z-index: 0;
 
+	&:link,
+	&:visited {
+		text-decoration: none;
+		color: $color-black;
+	}
+
+	&:hover,
+	&:active { color: $color-white; }
+
 	@include respond(tab-port-xl) {
 		height: 38rem;
 		width: 25rem;
@@ -27,6 +36,17 @@
 		justify-content: space-between;
 
 		@include respond(tab-port-xl) { height: 21.3rem; }
+
+		&-title {
+			font-family: $font-patrick, $font-fallback;
+			font-size: $font-big;
+			font-weight: 700;
+
+			&--highlight {
+				font-family: $font-patrick, $font-fallback;
+				font-size: $font-heading;
+			}
+		}
 	}
 
 	&--grey { background-color: $chinder-cultured; }
