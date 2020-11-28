@@ -1,0 +1,19 @@
+.search {
+
+	&__container {
+		@include container-main;
+		display: flex;
+		justify-content: center;
+	}
+
+	&__field.aa-input {
+		font-family: 'Lato', sans-serif;
+		font-size: inherit;
+		width: 45rem;
+		padding: .5rem 1rem;
+		border: 2px solid $social-base;
+		border-left: 0;
+
+		&::placeholder { font-weight: 300; }
+	}
+}

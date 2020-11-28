@@ -93,10 +93,8 @@
 		height: 3rem;
 	}
 
-	&__newsletter {
+	&__cultured {
 		background-color: $chinder-cultured;
-		padding: 2rem 0 .5rem 0;
-
-		@include respond(phone-xxl) { padding-top: 1.5rem; }
+		padding: 1rem 0;
 	}
 }
