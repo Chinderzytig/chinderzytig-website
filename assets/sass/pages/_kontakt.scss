@@ -37,6 +37,14 @@
 		&-group { margin-bottom: 1rem; }
 
 		input,
+		input::placeholder,
+		textarea,
+		textarea::placeholder {
+			font-family: inherit;
+			font-size: inherit;
+		}
+
+		input,
 		textarea {
 			border: 2px solid $social-base;
 
@@ -83,6 +91,8 @@
 			}
 		}
 	}
+
+	&__datenschutz { color: $chinder-orange; }
 
 	&__field {
 		padding: 1rem;

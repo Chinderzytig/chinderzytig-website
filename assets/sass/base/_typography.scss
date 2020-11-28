@@ -199,19 +199,6 @@ body {
 // PAGES
 // -----------------------------------------------
 
-/* ----- KONTAKT ------ */
-.kontakt {
-
-	input,
-	input::placeholder,
-	textarea,
-	textarea::placeholder {
-		font-family: inherit;
-		font-size: inherit;
-	}
-
-	&__datenschutz { color: $chinder-orange; }
-}
 
 /* ----- UNSERE GESCHICHTE ------ */
 .geschichte {
