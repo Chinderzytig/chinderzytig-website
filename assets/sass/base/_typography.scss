@@ -49,21 +49,6 @@ body {
 	}
 }
 
-/* ----- DEFINITION (SHORTCODE) ------ */
-.definition {
-
-	&__close {
-		&:link,
-		&:visited {
-			font-size: 3rem;
-			text-decoration: none;
-		}
-
-		&:hover { color: $chinder-orange; }
-	}
-
-	&__word { font-size: $font-heading; }
-}
 
 /* ----- HEADINGS ------ */
 .heading {
