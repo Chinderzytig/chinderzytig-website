@@ -15,5 +15,7 @@
 		border-left: 0;
 
 		&::placeholder { font-weight: 300; }
+
+		&::-webkit-search-decoration { -webkit-appearance: none; }
 	}
 }
