@@ -131,19 +131,3 @@ body {
 
 	&--article { font-size: 1.3rem; }
 }
-
-/* ----- PROFILE ------ */
-.profile {
-
-	&__content { text-align: center; }
-
-	&__name,
-	&__title { font-family: $font-patrick, $font-fallback; }
-
-	&__name {
-		font-size: $font-big;
-		color: $chinder-orange;
-	}
-
-	&__title { color: $chinder-verdigris; }
-}
