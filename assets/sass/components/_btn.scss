@@ -49,6 +49,8 @@
 	}
 
 	&--footer {
+		-webkit-appearance: none;
+    -moz-appearance: none;
 		font-family: 'Lato', sans-serif;
 		color: $chinder-platinum;
 		border: 2px solid $chinder-platinum;
