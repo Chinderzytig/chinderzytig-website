@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "ProudBoys_AM_sg_m3xhtl"
 artikel = true
 author = "Georg Stalder"
 cc_licence = ""
 cc_src = ""
 date = 2020-12-01T05:00:00Z
 description = "Die Proud-Boys gehören zu den bekanntesten rassistischen Organisationen der Welt. Die Chinderzytig erzählt in der Rassismusserie mehr dazu."
-draft = true
 fdw = false
 hero_img = "/v1605977253/joseph-chan-GOX3FMgcWK4-unsplash_cez2um.jpg"
 img_description = "Die «Proud Boys» demonstrieren für das Land, für die Heimat und gegen Fremde/Ausländer."
@@ -38,3 +37,9 @@ Die Chinderzytig befasste sich in einer Artikel-Serie mit extremen Gruppierungen
 ### Weiterführende Links
 
 Artikel über die Proud Boys auf Watson: [https://www.watson.ch/international/wissen/460866301-proud-boys-das-ist-trumps-schlaegertrupp](https://www.watson.ch/international/wissen/460866301-proud-boys-das-ist-trumps-schlaegertrupp "https://www.watson.ch/international/wissen/460866301-proud-boys-das-ist-trumps-schlaegertrupp")
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
