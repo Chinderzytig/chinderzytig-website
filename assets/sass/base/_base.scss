@@ -14,13 +14,7 @@ html {
 	@include respond(tab-port-xl) { font-size: 50%; }
 }
 
-body {
-	box-sizing: border-box;
-	input[type="search"]::-webkit-search-decoration,
-	input[type="search"]::-webkit-search-cancel-button,
-	input[type="search"]::-webkit-search-results-button,
-	input[type="search"]::-webkit-search-results-decoration { display: none; }
-}
+body { box-sizing: border-box; }
 
 section {
 	margin-bottom: $margin-m;
