@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-12-03T05:00:00Z
 description = "Nelson Mandela ist wohl die bekannteste Person, welche sich für die Gleichberechtigung von Schwarzen und Weissen einsetzte. Die Chinderzytig erklärt."
-draft = true
 fdw = false
 hero_img = "/v1605977774/john-paul-henry-0Qlfq4rh9aY-unsplash_au2ukf.jpg"
 img_description = "Nelson Mandela kämpfte als Dunkelhäutiger Mensch gegen die Unterscheidung von Schwarzen und Weissen."
