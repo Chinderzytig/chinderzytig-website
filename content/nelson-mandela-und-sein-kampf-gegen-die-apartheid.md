@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "NelsonMandela_AM_FA_l40fwd"
 artikel = true
 author = "Rebekka Christen"
 cc_licence = ""
@@ -41,3 +41,9 @@ Die folgenden Jahre verbrachte Nelson Mandela unter teilweise schlimmen Bedingun
 ### Ein Leben für die Gerechtigkeit
 
 1991 wurde Nelson Mandela zum Präsidenten der ANC und drei Jahre später zum ersten schwarzen Präsidenten Südafrikas gewählt. Während seiner Amtszeit als südafrikanisches Staatsoberhaupt von 1994 bis 1999 bemühte er sich, die schwarze und weisse Bevölkerung zu versöhnen und allen die gleichen Rechte zu geben. Dafür erhielt er international sehr viel Respekt. Nach seiner Präsidentschaft engagierte er sich auf der ganzen Welt gegen Ungerechtigkeiten. Am 5. Dezember 2013 starb der Mann, der auch heute noch für viele Menschen ein Vorbild ist, in Südafrika an den Folgen einer Lungenentzündung.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
