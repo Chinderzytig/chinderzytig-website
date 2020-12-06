@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-12-08T05:00:00Z
 description = "Die Antarktis gilt als sechster Kontinent. Die Chinderzytig erklärt."
-draft = true
 fdw = false
 hero_img = "/v1605975256/andy-holmes-tmsxaFx1Sws-unsplash_fmrapx.jpg"
 img_description = "Die Königspinguine zeichnen sich durch ihr elegantes erscheinen in ihrem Frack."
