@@ -29,7 +29,7 @@ Auf der Erde gibt es zwei Polarregionen, die sich am nördlichen und am südlich
 
 ### Überlebenskünstler
 
-Weil es in der Antarktis so kalt, dunkel und windig ist, gibt es keine Bäume und nur wenige Tierarten, die hier überleben können. Sie passen sich den schweren Bedingungen an: Der Eisfuchs bekommt zum Beispiel im Winter ein dickeres und weisses Fell, mit dem er sich im Schnee verstecken kann und so vor der Kälte und vor Feinden geschützt ist. Wale und Robben legen sich eine dicke Fettschicht an, den sogenannten Blubber, um sich warm zu halten. Schneehühner haben im Winter mehr Federn, um sich vor der Kälte zu schützen und übernachten in einer Schneehöhle. Viele Säugetiere und Vögel ziehen im Winter in wärmere Regionen und kommen erst im Frühling zurück. Jedoch die Kaiserpinguine sind besonders gut an das raue Klima angepasst. Sie pflanzen sich mitten im Winter fort.
+Weil es in der Antarktis so kalt, dunkel und windig ist, gibt es keine Bäume und nur wenige Tierarten, die hier überleben können. Sie passen sich den schweren Bedingungen an: Wale und Robben legen sich zum Beispiel eine dicke Fettschicht an, den sogenannten Blubber, um sich warm zu halten. Schneehühner haben im Winter mehr Federn, um sich vor der Kälte zu schützen und übernachten in einer Schneehöhle. Viele Säugetiere und Vögel ziehen im Winter in wärmere Regionen und kommen erst im Frühling zurück. Jedoch die Kaiserpinguine sind besonders gut an das raue Klima angepasst. Sie pflanzen sich mitten im Winter fort.
 
 ### Moderne Arbeitsteilung
 
