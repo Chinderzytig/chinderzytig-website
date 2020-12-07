@@ -4,55 +4,48 @@
 		fill: $map-citron;
 
 		&:hover,
-		&:active {
-			fill: $map-moss-green;
-		}
+		&:active { fill: $map-moss-green; }
 	}
 
 	&--south-america {
 		fill: $map-maroon;
 
 		&:hover,
-		&:active {
-			fill: $map-tyrian;
-		}
+		&:active { fill: $map-tyrian; }
 	}
 
 	&--europe {
 		fill: $map-blue;
 
 		&:hover,
-		&:active {
-			fill: $map-indigo-dye;
-		}
+		&:active { fill: $map-indigo-dye; }
 	}
 
 	&--asia {
 		fill: $map-minion;
 
 		&:hover,
-		&:active {
-			fill: $map-old-gold;
-		}
+		&:active { fill: $map-old-gold; }
 	}
 
 	&--australia {
 		fill: $chinder-verdigris;
 
 		&:hover,
-		&:active {
-			fill: $chinder-celadon;
-		}
+		&:active { fill: $chinder-celadon; }
 	}
 
 	&--africa {
 		fill: $chinder-orange;
 
 		&:hover,
-		&:active {
-			fill: $chinder-chestnut;
-		}
+		&:active { fill: $chinder-chestnut; }
 	}
 
-	&--antarctica { fill: $chinder-platinum; }
+	&--antarctica {
+		fill: $chinder-platinum;
+
+		&:hover,
+		&:active { fill: $map-light-grey; }
+	}
 }
