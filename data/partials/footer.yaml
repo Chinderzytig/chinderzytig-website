@@ -27,7 +27,7 @@ left:
   - label: Australien
     link: "/kategorien/australien"
   - label: Antarktis
-    link: "#"
+    link: "kategorien/antarktis"
 right:
   - label: Gesellschaft
     link: "/kategorien/gesellschaft"
