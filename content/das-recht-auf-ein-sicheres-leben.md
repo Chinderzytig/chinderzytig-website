@@ -18,8 +18,9 @@ slug = ""
 title = "Das Recht auf ein sicheres Leben"
 
 +++
-_Menschenrechte sind Rechte, die für alle Menschen auf der Welt gelten sollten. Jedes Jahr, am 10. Dezember feiert man den Tag dieser Rechte. Leider werden diese aber nicht in allen Ländern eingehalten.  
-_Stellt euch Folgendes vor: Von einem Tag auf den anderen verbietet euch jemand, weiterhin zur Schule zu gehen. Man sagt euch, ihr müsstet von jetzt an irgendwo arbeiten, obwohl ihr noch gar nicht alt genug dafür seid.  
+_Menschenrechte sind Rechte, die für alle Menschen auf der Welt gelten sollten. Jedes Jahr, am 10. Dezember feiert man den Tag dieser Rechte. Leider werden diese aber nicht in allen Ländern eingehalten._
+
+Stellt euch Folgendes vor: Von einem Tag auf den anderen verbietet euch jemand, weiterhin zur Schule zu gehen. Man sagt euch, ihr müsstet von jetzt an irgendwo arbeiten, obwohl ihr noch gar nicht alt genug dafür seid.  
 Stellt euch vor, jemand bestimmt, dass ihr nicht mehr in eurem Zuhause wohnen dürft und umziehen müsst – einfach so, ohne Grund.  
 Oder stellt euch vor, jemand verbietet euch zu sagen, was ihr gut und was schlecht findet. Wenn ihr es trotzdem machen würdet, würdet ihr dafür bestraft werden.
 
