@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "Artikel_Menschenrechte_vq4nqv"
+arbeitsmaterial = "AM_Menschenrechte_xcjxig"
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
