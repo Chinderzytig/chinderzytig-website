@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Artikel_Menschenrechte_vq4nqv"
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
@@ -41,3 +41,9 @@ Der erste Satz der Erklärung lautet: „Alle Menschen sind frei und gleich an W
 Jedes Jahr am 10. Dezember wollen verschiedene Organisationen besonders darauf aufmerksam machen, dass die Menschenrechte leider bis heute nicht auf der ganzen Welt eingehalten werden.
 
 Vor allem in Ländern, die ärmer sind als die Schweiz und weniger entwickelt, gibt es viele Menschen, die ihr Leben nicht nach ihren eigenen Wünschen leben können. Etwa 67 Millionen Kinder können zum Beispiel nicht zur Schule gehen, obwohl ein Punkt der Erklärung sagt, dass jeder Mensch das Recht auf Bildung hat.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
