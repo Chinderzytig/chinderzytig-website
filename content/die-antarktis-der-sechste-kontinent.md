@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "AM_Antarktis_asncd9"
 artikel = true
 author = "Désirée Scheidegger"
 cc_licence = ""
@@ -37,3 +37,9 @@ In der Antarktis leben mehrere Pinguinarten. Pinguine gehören zwar zu den Vöge
 ### Warum tragen Pinguine eigentlich einen Frack?
 
 Mit dem weissen Bauch, dem schwarzen Rücken und den schwarzen Flügeln sehen die Kaiserpinguine so aus, als ob sie einen Frack trügen. Wieso aber sind sie so „elegant“? Die weisse und schwarze Farbe dient zur Tarnung im Wasser: Von oben ist der schwarze Pinguinrücken gegen den dunklen Meeresgrund kaum zu erkennen und von unten ist der weisse Pinguinbauch gegen die helle Wasseroberfläche kaum zu sehen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
