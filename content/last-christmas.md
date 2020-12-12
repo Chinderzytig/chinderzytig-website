@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-12-15T05:00:00Z
 description = "Die Weihnachtszeit ist die schönste Zeit des Jahres. Doch manche Sachen gehen einem auf die Nerven. Die Chinderzytig erklärt."
-draft = true
 fdw = false
 hero_img = "/v1607450841/annie-spratt-V705bwrTnQI-unsplash_rperr9.jpg"
 img_description = "Viel Glitzer und Schmuck erwartet uns jedes Jahr an Weihnachten."
