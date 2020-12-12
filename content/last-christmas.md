@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Last_Christmas_AM_sg_wgpzlg"
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -34,3 +34,9 @@ Es ist schwierig zu erklären, warum das Lied ein so grosser Hit wurde. Es hat n
 ### Ironie 2020
 
 In diesem Jahr hat der Song “Last Christmas” eine zusätzliche Kraft. Wer wünscht sich momentan nicht unser “Last Christmas” aus dem Jahr 2019 zurück. Das Jahr, in dem man noch dicht an dicht durch Weihnachtsmärkte spazierte, in Kindergedränge einen Blick auf den Samichlous erhaschen konnte und auf dem Schoss der Grosseltern hemmungslos Lieder trällern durfte? In diesem Jahr ist vieles anders, nicht zwingend schlechter, aber anders. Versuchen wir, diese neue Weihnacht auf ihre Art zu geniessen. Und: Schauen wir gespannt aufs Jahr 2021 und stellen uns vor, was wir wohl im Dezember in einem Jahr denken mögen, wenn wir den Song “Last Christmas” wieder hören.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
