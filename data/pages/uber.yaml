@@ -29,11 +29,6 @@ team:
     - name: Lars Ziörjen
       title: Gesamtverantwortung, Co-Präsident
       focus: Lehrperson Zyklus 3, Schulleiter, Theater- und Kinderbuchautor
-- img: "Matt_vprxkn.png"
-  desc: Matthew LaPorte
-  info:
-    - name: Matthew LaPorte
-      title: Technischer Leiter/Web-Entwickler
 
 others:
 - heading: Ressort Redaktion
@@ -70,6 +65,8 @@ others:
     - member: PHBern IVP, Institutsleiterin Katharina Kalcsics
     - member: Spick News, Roger Hartmann und Alexander Volz
     - member: Stiftung Rollis-Senta Meyer
-- heading: Finanzen
+- heading: Verschiedenes
   members:
-    - member: Walter Ziörjen
+    - member: Walter Ziörjen, Finanzen
+    - member: Selina Häuselmann, Social Media
+    - member: Matthew LaPorte, Web-Entwickler
