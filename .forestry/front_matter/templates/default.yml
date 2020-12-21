@@ -96,6 +96,22 @@ fields:
     categories. Standard practice at the moment is to use country names as tags, when
     the article has been assigned to a continent under categories. <em>If the article
     you are writing is for Focus der Woche, </em><strong><em>please leave this blank!</em></strong>
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Gesellschaft
+    - Gesundheit
+    - Kultur
+    - Medien
+    - Natur
+    - Organisationen
+    - Personen
+    - Politik
+    - Sport
+    - Wirtschaft
+    - Wissenschaft
 - name: arbeitsmaterial
   type: text
   config:
