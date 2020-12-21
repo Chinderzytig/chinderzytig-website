@@ -84,10 +84,10 @@ fields:
     - Europa
     - Afrika
     - Asien
-    - Australien
     - Antarktis
     - Weltraum/Universium
     - Welt
+    - Ozeanien
   label: kategorien
 - type: list
   name: markierungen
