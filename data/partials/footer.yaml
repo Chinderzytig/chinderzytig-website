@@ -30,15 +30,13 @@ left:
     link: "kategorien/antarktis"
 right:
   - label: Gesellschaft
-    link: "/kategorien/gesellschaft"
+    link: "#"
   - label: Gesundheit
-    link: "/kategorien/gesundheit"
+    link: "#"
   - label: Medien
-    link: "/kategorien/medien"
-  - label: Natur/Umwelt
-    link: "/kategorien/natur/umwelt"
+    link: "#"
   - label: Politik
-    link: "/kategorien/politik"
+    link: "#"
   - label: Weltraum/Universum
     link: "/kategorien/weltraum/universum"
   - label: Welt
