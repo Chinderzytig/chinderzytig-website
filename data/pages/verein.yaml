@@ -50,18 +50,18 @@ btns:
     - text: Kontaktiere Uns
 
 companies:
-- website: "https://www.migros.ch/de/genossenschaften.html"
+- website: "https://www.migros-kulturprozent.ch/"
   logo:
-    - img: "migros_swxvzo.png"
+    - img: "schwarzweiss_d_bmyctr.eps"
       desc: Migros logo
-- website: "https://www.phbern.ch/"
-  logo:
-    - img: "phbern_black_e5tq45.png"
-      desc: PHBern logo
 - website: "https://stiftungschweiz.ch/"
   logo:
     - img: "stiftun_schweiz_x8sv4n.png"
       desc: Stiftung Schweiz logo
+- website: "https://www.phbern.ch/"
+  logo:
+    - img: "phbern_black_e5tq45.png"
+      desc: PHBern logo
 - website: "https://www.bildungbern.ch/"
   logo:
     - img: "bildung-bern_yqpjs1.png"
