@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2020-12-22T05:00:00Z
 description = "Diego Maradona starb 2020. Er wird allen in Erinnerung bleiben. Die Chinderzytig erklärt."
-draft = true
 fdw = false
 hero_img = "/v1608459537/emilio-garcia-AWdCgDDedH0-unsplash_cocgbk.jpg"
 img_description = "Maradona überzeugte als Fussballer und wird in Erinnerung bleiben."
