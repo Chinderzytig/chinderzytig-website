@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20202212_Maradona_AM_bceeng"
 artikel = true
 author = "Nicole Emch"
 cc_licence = ""
@@ -39,3 +39,9 @@ Schon mit 39 Jahren hatte er einen ersten Herzinfarkt, später einen zweiten. Er
 ### Ein Nationalheld in Argentinien
 
 Trotz all dieser Skandale ist er ein Star geblieben. Und für die Argentinier ist er ein Held. Er ist einer, der es geschafft hat, der aus der Armut rausgekommen ist und die Welt gesehen hat. Gleichzeitig war er auch ein Mensch, der nie vergass, wo er herkam. Wenn seine Tochter ein neues Spielzeug wollte, musste sie eines abgeben, das dann eine arme Familie bekam. Er hat vielen Menschen Hoffnung gegeben, besonders Kindern aus armen Familien. Nach dem Tod von Maradona wurde eine dreitätige Staatstrauer ausgerufen. Diese Ehre bekommen nur ganz wichtige Personen. Alle wollten ihn ein letztes Mal sehen. Alle wollten einen letzten Moment mit ihrem Helden verbringen. Ein Mann, der wie andere stundenlang gewartet hatte, sagte: «Ohne Maradona ist die Welt nicht mehr dieselbe, ohne Maradona ist der Fussball nicht mehr derselbe.» Und so denken viele Argentinier und Argentinierinnen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
