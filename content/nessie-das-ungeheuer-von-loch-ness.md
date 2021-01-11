@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "loch-ness-monster-arbeitsmaterial_c3qd3p"
 artikel = true
 author = "Georg Stalder"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1600439544/loch-ness-monster_kkmcdz.jpg"
 img_description = "Rain storm over Loch Ness, United Kingdom"
 img_photographer = "Ezra Winston"
 img_src = "https://unsplash.com/@ez_4_prez"
-kategorien = ["Europa", "Welt", "Natur/Umwelt"]
-markierungen = ["Schottland", "Tierwelt"]
+kategorien = ["Europa", "Welt"]
+markierungen = ["Gesellschaft", "Natur", "Schottland"]
 paid = false
 slug = "sagenhafte-tiere-teil-2-nessie"
 title = "Nessie: Das Ungeheuer von Loch Ness"
-arbeitsmaterial = "loch-ness-monster-arbeitsmaterial_c3qd3p"
 
 +++
 ### **Serie: Sagenhafte Tiere**
