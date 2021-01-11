@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600194557/saudi-arabien-frauenrechte_ywtgxz.jpg"
 img_description = "Niqab clad women sitting together"
 img_photographer = "mostafa meraji"
 img_src = "https://unsplash.com/@mostafa_meraji"
-kategorien = ["Asien", "Gesellschaft"]
-markierungen = ["Saudi Arabien", "Rechte"]
+kategorien = ["Asien"]
+markierungen = ["Politik", "Gesellschaft", "Saudi Arabien"]
 paid = false
 slug = "saudi-arabien-frauenrechte"
 title = "Treten Sie ein, gnädige Frau"
