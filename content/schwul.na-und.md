@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600195833/outing_gnqbfk.jpg"
 img_description = "\"Love is love\" mural"
 img_photographer = "Yoav Hornung"
 img_src = "https://unsplash.com/@yoav"
-kategorien = ["Europa", "Gesellschaft"]
-markierungen = ["Schweiz", "Rechte"]
+kategorien = ["Europa"]
+markierungen = ["Personen", "Gesellschaft", "Schweiz"]
 paid = false
 slug = "outing"
 title = "Schwul. Na und!?"
