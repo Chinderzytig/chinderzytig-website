@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "warum-singen-voegel-arbeitsmaterial_b1bv4h"
 artikel = true
 author = "Georg Stalder"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1600453199/warum-singen-voegel_nypxaq.jpg"
 img_description = "Singendes Rotbrüstchen auf einem Ast. "
 img_photographer = "Jan Meeus"
 img_src = "https://unsplash.com/@janmeeus"
-kategorien = ["Welt", "Natur/Umwelt"]
-markierungen = ["Tierwelt"]
+kategorien = ["Welt"]
+markierungen = ["Natur"]
 paid = false
 slug = "warumsingenvoegel"
 title = "Warum singen Vögel?"
-arbeitsmaterial = "warum-singen-voegel-arbeitsmaterial_b1bv4h"
 
 +++
 _Hübsch zwitschern die Vögel in den Bäumen. Aber wieso machen sie das eigentlich?_
