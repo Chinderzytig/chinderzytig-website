@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "Arbeitsmaterial_Coop_vpj99d"
 artikel = true
 author = "Georg Stadler"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1602408852/mediathek_coop_city_04_u0cipa.jpg"
 img_description = "Foto eines Coop City Gebäudes"
 img_photographer = "Coop"
 img_src = "https://www.coop.ch/de/unternehmen/medien/mediathek.html"
-kategorien = ["Europa", "Gesellschaft"]
-markierungen = ["Schweiz"]
+kategorien = ["Europa"]
+markierungen = ["Wirtschaft", "Gesellschaft", "Schweiz"]
 paid = false
 slug = "ladenserie-coop"
 title = "Unsere Ladenserie: Teil 2 – Coop"
-arbeitsmaterial = "Arbeitsmaterial_Coop_vpj99d"
 
 +++
 _Coop ist 1969 aus verschiedenen «Konsumvereinen» entstanden. Heute hat der Detailhändler das dichteste Netz an Filialen in der Schweiz._
