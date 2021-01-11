@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Rosemarie Bernasconi"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600360080/buch_kwgg7v.jpg"
 img_description = "A young girl reading a book"
 img_photographer = "Johnny McClung"
 img_src = "https://unsplash.com/@johnnymcclung"
-kategorien = ["Welt", "Medien"]
-markierungen = ["Buch"]
+kategorien = ["Welt"]
+markierungen = ["Organisationen", "Gesellschaft", "Medien"]
 paid = false
 slug = "buch"
 title = "Lesen oder gamen?"
