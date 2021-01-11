@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Natalie Hald"
 cc_licence = "CC BY 2.0"
@@ -10,8 +11,8 @@ hero_img = "/v1600703920/venezuela_fqboia.jpg"
 img_description = "Young man chains himself to the Francia Square, in the Altamira neighborhood (Caracas, Venezuela), asking for the release of all the jailed protesters of this year Venezuelan unrest - Via Wikimedia Commons"
 img_photographer = "Carlos Díaz"
 img_src = "https://commons.wikimedia.org/w/index.php?curid=40544189"
-kategorien = ["Südamerika", "Politik"]
-markierungen = ["Venezuela", "Kriege/Konflikte"]
+kategorien = ["Südamerika"]
+markierungen = ["Politik", "Gesellschaft", "Venezuela"]
 paid = false
 slug = "venezuela"
 title = "Was ist los in Venezuela?"
