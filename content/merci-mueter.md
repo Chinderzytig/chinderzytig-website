@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1602362867/Mutter-liest-vor_brk14h.jpg"
 img_description = "Eine Mutter zeig ihrem Kind etwas auf dem iPad. "
 img_photographer = "Alexander Dummer"
 img_src = "https://unsplash.com/@4dgraphic"
-kategorien = ["Gesellschaft", "Welt"]
-markierungen = ["Religion/Tradition"]
+kategorien = ["Welt"]
+markierungen = ["Kultur", "Gesellschaft"]
 paid = false
 slug = "muttertag"
 title = "Merci, Mueter! "
