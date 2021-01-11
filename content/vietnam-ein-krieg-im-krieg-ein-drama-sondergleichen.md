@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = "CC BY 2.0"
@@ -10,8 +11,8 @@ hero_img = "/v1600714177/vietnamkrieg_zzn28s.jpg"
 img_description = "Vietnam War 1969 - Hamburger Hill"
 img_photographer = "manhhai"
 img_src = "https://www.flickr.com/photos/13476480@N07/28288507836"
-kategorien = ["Asien", "Politik"]
-markierungen = ["Vietnam", "Kriege/Konflikte"]
+kategorien = ["Asien"]
+markierungen = ["Politik", "Vietnam"]
 paid = false
 slug = "vietnamkrieg"
 title = "Vietnam - ein Krieg im Krieg, ein Drama sondergleichen"
