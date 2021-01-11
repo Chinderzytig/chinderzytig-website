@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Georg Stalder"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600356467/presse-konferenz_mv91xi.jpg"
 img_description = "Journalist writing in notebook"
 img_photographer = "The Climate Reality Project"
 img_src = "https://unsplash.com/@climatereality"
-kategorien = ["Medien"]
-markierungen = ["Digital"]
+kategorien = ["Welt"]
+markierungen = ["Gesellschaft", "Medien"]
 paid = false
 slug = "pressekonferenz"
 title = "Ruhe bitte, jetzt gibt es Infos"
