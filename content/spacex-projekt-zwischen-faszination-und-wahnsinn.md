@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -11,7 +12,7 @@ img_description = "A Starlink satellite passing through the night sky"
 img_photographer = "Andy Holmes"
 img_src = "https://unsplash.com/@andyjh07"
 kategorien = ["Weltraum/Universum"]
-markierungen = ["Weltall"]
+markierungen = ["Natur", "Wirtschaft"]
 paid = false
 slug = "spacex"
 title = "SpaceX Projekt – Zwischen Faszination und Wahnsinn?"
