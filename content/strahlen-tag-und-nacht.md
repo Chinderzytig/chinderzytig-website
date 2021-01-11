@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "handystrahlung-arbeitsmaterial_jsjfdo"
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1600373430/handystrahlung_vde6kp.jpg"
 img_description = "Cellular towers stand tall in the sunset"
 img_photographer = "Mario Caruso"
 img_src = "https://unsplash.com/@giggiulena"
-kategorien = ["Welt", "Natur/Umwelt"]
-markierungen = ["Energie"]
+kategorien = ["Welt"]
+markierungen = ["Wissenschaft", "Gesundheit", "Natur"]
 paid = false
 slug = "handystrahlung"
 title = "Strahlen - Tag und Nacht"
-arbeitsmaterial = "handystrahlung-arbeitsmaterial_jsjfdo"
 
 +++
 _Strahlen gibt es überall, jedoch sind sie nicht immer nicht sichtbar. Es gibt viele Arten von Strahlung in unserem Alltag. Sind Strahlen gefährlich? Müssen wir uns vor diesen schützen? Welche Strahlen gibt es?_
