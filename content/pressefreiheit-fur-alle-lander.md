@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600357814/internationaler-presse-freiheits-tag_lc4mip.jpg"
 img_description = "A line of press cameras"
 img_photographer = "David Aguirre"
 img_src = "https://pixabay.com/users/skratos1983-1057358/"
-kategorien = ["Welt", "Medien"]
-markierungen = ["Digital"]
+kategorien = ["Welt"]
+markierungen = ["Medien"]
 paid = false
 slug = "internationaler-pressefreiheitstag"
 title = "Pressefreiheit für alle Länder "
