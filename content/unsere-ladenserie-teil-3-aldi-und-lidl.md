@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "Arbeitsmaterial_Aldi_Lidl_mitLoesungen_t8g0wu"
 artikel = true
 author = "Georg Stadler"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1602410077/Einkaufen_Lidl_z5yesj.jpg"
 img_description = "Kassierin bei Lidl"
 img_photographer = "Lidl"
 img_src = "https://corporate.lidl.ch/de/newsroom"
-kategorien = ["Gesellschaft", "Europa"]
-markierungen = ["Schweiz"]
+kategorien = ["Europa"]
+markierungen = ["Wirtschaft", "Gesellschaft", "Schweiz"]
 paid = false
 slug = "ladenserie-3-aldi-und-lidl"
 title = "Unsere Ladenserie: Teil 3 – Aldi und Lidl"
-arbeitsmaterial = "Arbeitsmaterial_Aldi_Lidl_mitLoesungen_t8g0wu"
 
 +++
 _Vor etwas mehr als 10 Jahren kamen Aldi und Lidl in die Schweiz – der Einzug der Billig-Läden sorgte für Aufsehen und Spekulationen._
