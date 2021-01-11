@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1602407691/Magazine_Woman_Yes-you-can_tm9lnk.jpg"
 img_description = "Aufgeschlagenes Heft mit Ausdruck 'Yes you can'"
 img_photographer = "Content Pixie"
 img_src = "https://unsplash.com/@contentpixie"
-kategorien = ["Nordamerika", "Gesellschaft"]
-markierungen = ["Personen", "Soziales"]
+kategorien = ["Nordamerika"]
+markierungen = ["Gesellschaft", "Personen"]
 paid = false
 slug = "von-dagobert-duck-zu-robin-hood"
 title = "Von Dagobert Duck zu Robin Hood"
