@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "welt-alphabetisierungs-tag-arbeitsmateral_bsb4mx"
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
@@ -11,11 +12,10 @@ img_description = "Children at table reading and writing"
 img_photographer = "Santi Vedrí"
 img_src = "https://unsplash.com/@santivedri"
 kategorien = ["Welt", "Gesellschaft"]
-markierungen = ["Soziales"]
+markierungen = ["Organisationen", "Personen", "Gesellschaft", "Soziales"]
 paid = false
 slug = "weltalphabetisierungstag"
 title = "Wer kann lesen und schreiben?"
-arbeitsmaterial = "welt-alphabetisierungs-tag-arbeitsmateral_bsb4mx"
 
 +++
 _Immer noch können mehr als 700 Millionen Erwachsene nicht lesen und schreiben. Häufig stammen sie aus Afrika._
