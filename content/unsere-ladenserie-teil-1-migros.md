@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Georg Stadler"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1602408305/logo_migros-1_dcpgzb.jpg"
 img_description = "Logo der Migros"
 img_photographer = "Migros"
 img_src = "https://www.migros.ch/de/unternehmen/medien/fotos-und-logos.html"
-kategorien = ["Gesellschaft", "Europa"]
-markierungen = ["Schweiz"]
+kategorien = ["Europa"]
+markierungen = ["Wirtschaft", "Gesellschaft", "Schweiz"]
 paid = false
 slug = "migros"
 title = "Unsere Ladenserie: Teil 1 – Migros"
