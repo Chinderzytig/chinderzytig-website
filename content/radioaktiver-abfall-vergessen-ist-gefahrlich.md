@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "radioaktiver-abfall-arbeitsmaterial_lxfevk"
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1600417843/radioaktivitaet_eckr9r.jpg"
 img_description = "Geiger counter measuring radiation levels in the area of Chernobyl"
 img_photographer = "Jorge Fernández Salas"
 img_src = "https://unsplash.com/@jorgefdezsalas"
-kategorien = ["Welt", "Natur/Umwelt"]
-markierungen = ["Energie"]
+kategorien = ["Welt"]
+markierungen = ["Wissenschaft", "Natur"]
 paid = false
 slug = "radioaktivitaet"
 title = "Radioaktiver Abfall: Vergessen ist gefährlich"
-arbeitsmaterial = "radioaktiver-abfall-arbeitsmaterial_lxfevk"
 
 +++
 _Radioaktives Material ist sehr schädlich – und das viele tausend Jahre lang. Die Menschen stehen deshalb heute vor einer seltsamen, aber ernsten Aufgabe: Sie müssen die Menschen in der Zukunft warnen._
