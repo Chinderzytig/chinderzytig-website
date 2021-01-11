@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = "CC BY 4.0"
@@ -10,8 +11,8 @@ hero_img = "/v1600768912/Angela_Merkel_and_Vladimir_Putin__2017-07-07_yg5sgt.jpg
 img_description = "Via Wikimedia Commons"
 img_photographer = "Kremlin.ru"
 img_src = "https://commons.wikimedia.org/w/index.php?curid=60753671"
-kategorien = ["Europa", "Politik"]
-markierungen = ["Russland", "Personen"]
+kategorien = ["Europa"]
+markierungen = ["Politik", "Personen"]
 paid = false
 slug = "wladimirputin"
 title = "Wenn zwei sich streiten, freut sich der Dritte…"
