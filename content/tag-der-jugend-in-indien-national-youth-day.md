@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210112_YouthDay_AM_vyeikb"
 artikel = true
 author = "Nicole Emch"
 cc_licence = ""
@@ -37,3 +37,9 @@ In ganz Indien werden die Schulen für diesen Tag geschmückt. Es finden zahlrei
 Indien ist nicht das einzige Land, das einen Tag der Jugend kennt. Früher und zum Teil noch heute wird oder wurde beispielsweise in Österreich und Rumänien an unterschiedlichen Tagen der Jugend gedacht. Seit 1999 gibt es zudem den internationalen Tag der Jugend. Die UNO hat ihn auf den 12. August festgelegt. Weltweit wird an diesem Tag auf die Situation und die Interessen von Kindern und Jugendlichen aufmerksam gemacht. Ziel ist, dass auch die Politik die Anliegen von Kindern und Jugendlichen besser wahrnimmt. Denn viele Entscheidungen, die die Politiker treffen, gelten nicht nur für Erwachsene. Sie betreffen vor allem auch die Jugendlichen und ihre Zukunft, zum Beispiel wenn es um Bildung oder Umweltschutz geht. Gleichzeitig sollen sich aber auch die Jugendlichen für diese Themen interessieren und an diesem Tag darauf aufmerksam gemacht werden. Vielerorts können sich Jugendliche in Jugendgruppen oder Jugendparlamenten organisieren, Themen diskutieren und eigene Vorschläge einbringen.
 
 Viele Hilfsorganisationen nutzen den Tag der Jugend auch, um auf die grossen Ungleichheiten aufmerksam zu machen, die es nach wie vor gibt. Die Lage der Jugendlichen ist von Land zu Land sehr unterschiedlich. Für viele ist Bildung zum Beispiel immer noch nicht selbstverständlich. Ziel ist es, den Kindern und Jugendlichen weltweit die Mittel zu geben, damit sie die Zukunft aktiv mitgestalten können. Gerade Themen wie die Bekämpfung der Armut oder eine nachhaltige Entwicklung sind zentral für die Zukunft der Jugendlichen. Darauf wird aufmerksam gemacht. Und dafür wollen und sollen sie sich engagieren.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
