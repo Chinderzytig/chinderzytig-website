@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -8,10 +9,10 @@ description = "Was ist Malaria und von wo kommt diese Krankheit? In diesem Artik
 fdw = false
 hero_img = "/v1600264551/welt-malaria-tag_ejtm5i.jpg"
 img_description = "Close-up of a mosquito"
-img_photographer = "Егор Камелев"
+img_photographer = "Egor Kamelex"
 img_src = "https://unsplash.com/@ekamelev"
-kategorien = ["Welt", "Afrika", "Gesundheit"]
-markierungen = ["Krankheiten"]
+kategorien = ["Welt", "Afrika"]
+markierungen = ["Natur", "Gesundheit"]
 paid = false
 slug = "weltmalariatag"
 title = "Weltmalariatag – Im Kampf gegen eine Krankheit?"
