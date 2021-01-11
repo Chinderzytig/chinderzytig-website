@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "rega-arbeitsmaterial_g35awb"
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1600769259/rega_aiugxj.jpg"
 img_description = "Rega helicopter landing in the mountains"
 img_photographer = "Yoshiki 787"
 img_src = "https://unsplash.com/@yoshiki787"
-kategorien = ["Europa", "Gesundheit"]
-markierungen = ["Schweiz", "Organisationen"]
+kategorien = ["Europa"]
+markierungen = ["Gesundheit", "Schweiz", "Organisationen"]
 paid = false
 slug = "rega"
 title = "Seit fast 70 Jahren fliegt sie durch die Lüfte"
-arbeitsmaterial = "rega-arbeitsmaterial_g35awb"
 
 +++
 _Du hörst sie schon von weitem, die Helikopter. Eine Faszination für jeden: Die Rega kommt zu Hilfe, wenn sich jemand verletzt hat und die Ambulanz nicht gut hinkommt._
