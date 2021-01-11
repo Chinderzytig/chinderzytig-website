@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600436876/TigerKing_1x1_PRE_tldmdc.jpg"
 img_description = "Key art for Netflix's series Tiger King: Murder, Mayhem and Madness"
 img_photographer = "Netflix"
 img_src = "https://vandam.netflix.com/shares/0406902b388f462f806b91e03364f698?assets=22282574"
-kategorien = ["Nordamerika", "Natur/Umwelt"]
-markierungen = ["USA", "Tierwelt"]
+kategorien = ["Nordamerika"]
+markierungen = ["Natur", "Kultur", "Gesellschaft", "USA"]
 paid = false
 slug = "tigerking"
 title = "Tiger King - zwischen Mördern, Spinnern und Wahnsinn"
