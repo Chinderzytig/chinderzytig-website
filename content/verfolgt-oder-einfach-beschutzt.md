@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600154362/corona-tracing_iazhgb.jpg"
 img_description = "Corona smartphone application"
 img_photographer = "Mika Baumeister"
 img_src = "https://unsplash.com/@mbaumi"
-kategorien = ["Welt", "Gesundheit"]
-markierungen = ["COVID19"]
+kategorien = ["Welt"]
+markierungen = ["Gesellschaft", "Gesundheit"]
 paid = false
 slug = "corona-tracing"
 title = "Verfolgt oder einfach beschützt?"
