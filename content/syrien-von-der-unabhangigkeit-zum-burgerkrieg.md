@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = "CC BY-ND 2.0"
@@ -10,8 +11,8 @@ hero_img = "/v1600701966/7805643488_3c9e4e929d_b_uwcrvp.jpg"
 img_description = "A Free Syrian Army fighter takes cover during clashes with Syrian Army in the Salaheddine neighbourhood of central Aleppo"
 img_photographer = "a.anis"
 img_src = "https://www.flickr.com/photos/78607708@N02/7805643488"
-kategorien = ["Asien", "Politik"]
-markierungen = ["Syrien", "Kriege/Konflikte"]
+kategorien = ["Asien"]
+markierungen = ["Gesellschaft", "Politik", "Syrien"]
 paid = false
 slug = "unabhaengigkeitstag-syrien"
 title = "Syrien – Von der Unabhängigkeit zum Bürgerkrieg"
