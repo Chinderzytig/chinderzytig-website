@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1602362417/Warnsignal-Do-not-enter_lhyhul.jpg"
 img_description = "Ein Warnsignal mit der Aufschrift - Danger. Do not enter. "
 img_photographer = "Raúl Nájera"
 img_src = "https://unsplash.com/@reinf"
-kategorien = ["Gesellschaft", "Welt"]
-markierungen = ["Kriege/Konflikte"]
+kategorien = ["Welt"]
+markierungen = ["Wissenschaft", "Gesellschaft"]
 paid = false
 slug = "minen"
 title = "Minen - eine heimtückische Waffe"
