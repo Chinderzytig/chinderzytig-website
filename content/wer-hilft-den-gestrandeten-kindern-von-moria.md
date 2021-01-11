@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1599897746/moria-children_jwj1ua.jpg"
 img_description = "Refugee children smiling for camera"
 img_photographer = "Siddhant Soni"
 img_src = "https://unsplash.com/@52nd_"
-kategorien = ["Gesellschaft", "Europa"]
-markierungen = ["Migration", "Griechenland"]
+kategorien = ["Europa"]
+markierungen = ["Organisationen", "Gesellschaft", "Migration", "Griechenland"]
 paid = false
 slug = "kinder-von-moria"
 title = "Wer hilft den gestrandeten Kindern von Moria?"
