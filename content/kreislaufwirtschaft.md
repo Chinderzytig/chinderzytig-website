@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "Kreislaufwirtschaft-arbeitsmaterial_fgferx"
 artikel = true
 author = "Rebekka Christen"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1600431453/Kreislaufwirtschaft_yao59a.jpg"
 img_description = "Plastic buckets containing items for recycling"
 img_photographer = "Jasmin Sessler"
 img_src = "https://unsplash.com/@open_photo_js"
-kategorien = ["Welt", "Natur/Umwelt"]
-markierungen = ["Klimawandel"]
+kategorien = ["Welt"]
+markierungen = ["Natur", "Wirtschaft"]
 paid = false
 slug = "kreislaufwirtschaft"
 title = "Kreislaufwirtschaft"
-arbeitsmaterial = "Kreislaufwirtschaft-arbeitsmaterial_fgferx"
 
 +++
 _Die Kreislaufwirtschaft verursacht weniger Abfälle und schont die Umwelt. Doch wie schafft sie das genau?_
