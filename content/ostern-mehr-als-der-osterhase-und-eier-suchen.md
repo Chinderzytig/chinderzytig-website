@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1602363405/Osternest_axyosv.jpg"
 img_description = "Osternest mit Eiern"
 img_photographer = "Christine Sandu"
 img_src = "https://unsplash.com/@lenscapewithme"
-kategorien = ["Gesellschaft", "Welt"]
-markierungen = ["Religion/Tradition"]
+kategorien = ["Welt"]
+markierungen = ["Gesellschaft"]
 paid = false
 slug = "ostern"
 title = "Ostern – Mehr als der Osterhase und Eier suchen?"
