@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "Quaranta%CC%88ne_AM_sg_eq9vfo"
 artikel = true
 author = "Georg Stalder"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1602651038/united-nations-covid-19-response-TM0Iw87uiCY-unsplash_z
 img_description = "Im Moment herrscht grosse Unsicherheit. Viele von uns sind gezwungen, ihre Gewohnheiten zu ändern."
 img_photographer = "United Nations COVID-19 Response"
 img_src = "https://unsplash.com/photos/TM0Iw87uiCY"
-kategorien = ["Gesundheit", "Welt"]
-markierungen = ["COVID19", "Schweiz"]
+kategorien = ["Welt"]
+markierungen = ["Gesundheit", "Schweiz"]
 paid = false
 slug = "quarantaene-nach-den-herbstferien"
 title = "Quarantäne nach den Herbstferien?"
-arbeitsmaterial = "Quaranta%CC%88ne_AM_sg_eq9vfo"
 
 +++
 _Wer in den Herbstferien im Ausland war, muss sich jetzt vielleicht in Quarantäne begeben._
