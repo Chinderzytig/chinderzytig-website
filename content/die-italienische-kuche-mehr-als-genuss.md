@@ -8,12 +8,12 @@ date = 2021-01-14T05:00:00Z
 description = "Pizza, Pasta – Der internationale Tag der italienischen Küche erinnert an eine Tradition. Die Chinderzytig erklärt."
 draft = true
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
-kategorien = []
-markierungen = []
+hero_img = "/v1610555800/jakub-kapusnak-tEVisOXz26Y-unsplash_yf5jlx.jpg"
+img_description = "Von Pizza bis Pasta, Italien hat eine der bekanntesten Küche."
+img_photographer = "Jakup Kapusnak"
+img_src = "https://unsplash.com/photos/tEVisOXz26Y"
+kategorien = ["Europa"]
+markierungen = ["Kultur"]
 paid = false
 slug = ""
 title = "Die italienische Küche – mehr als Genuss"
@@ -34,7 +34,9 @@ Das ist auch der Grund, weshalb die „Internationale Vereinigung der italienisc
 
 Vor vier Jahren feierte die Organisation die Pizza. Diese kommt ursprünglich aus Neapel, im Süden von Italien. Pizza ist eines der Gerichte, die auf der ganzen Welt bekannt geworden sind. Man kennt sie wirklich überall.
 
-Deshalb hat sich die **UNESCO** (Glossar) auch dazu entschieden, die Kunst des Pizzabackens und den Beruf des Pizzabäckers in ihre Liste des sogenannten „immateriellen Kulturerbes“ aufzunehmen. In dieser Liste befinden sich Bräuche aus allen möglichen Ländern, die von Generation zu Generation weitergegeben werden und die Kultur einer ganzen Gesellschaft prägen. Zum Beispiel bestimmte Tänze oder Lieder, ganz spezielle Feste wie bei uns die Fasnacht oder eben auch Spezielles aus der Küche des Landes.
+Deshalb hat sich die {{< fremdwort id="UNESCO" wort="UNESCO" >}} auch dazu entschieden, die Kunst des Pizzabackens und den Beruf des Pizzabäckers in ihre Liste des sogenannten „immateriellen Kulturerbes“ aufzunehmen. In dieser Liste befinden sich Bräuche aus allen möglichen Ländern, die von Generation zu Generation weitergegeben werden und die Kultur einer ganzen Gesellschaft prägen. Zum Beispiel bestimmte Tänze oder Lieder, ganz spezielle Feste wie bei uns die Fasnacht oder eben auch Spezielles aus der Küche des Landes.
+
+{{< definition id="UNESCO" wort="UNESCO" def="UNESCO steht für United Nations Educational, Scientific and Cultural Organization. Das bedeutet soviel wie, Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur. Die UNESCO hat die Aufgabe die Erziehung, Wissenschaft, Kultur und Kommunikation zu fördern. " >}}
 
 ### Wer kann‘s nachbacken?
 
