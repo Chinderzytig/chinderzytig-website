@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "italienischeKu%CC%88che_AM_FA_kwlx56"
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
 cc_src = ""
 date = 2021-01-14T05:00:00Z
 description = "Pizza, Pasta – Der internationale Tag der italienischen Küche erinnert an eine Tradition. Die Chinderzytig erklärt."
-draft = true
 fdw = false
 hero_img = "/v1610555800/jakub-kapusnak-tEVisOXz26Y-unsplash_yf5jlx.jpg"
 img_description = "Von Pizza bis Pasta, Italien hat eine der bekanntesten Küche."
@@ -41,3 +40,9 @@ Deshalb hat sich die {{< fremdwort id="UNESCO" wort="UNESCO" >}} auch dazu entsc
 ### Wer kann‘s nachbacken?
 
 Wenn ihr also das nächste Mal eine Pizza bestellt oder es zuhause eine gibt, schaut doch kurz nach, was die originale Pizza aus dem Süden Italiens eigentlich so alles draufhat. Viel ist es nämlich gar nicht. Sie aber so nachzubacken, wie es die Neapolitaner machen, ist ganz schön schwierig. Denn wer von uns hat schon einen grossen Pizzaofen zuhause?
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
