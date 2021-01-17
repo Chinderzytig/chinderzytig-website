@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Georg Stadler"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1602360661/komodowaran_hzzcwi.jpg"
 img_description = "Komodowaran"
 img_photographer = "David Close"
 img_src = "https://unsplash.com/@davidclode"
-kategorien = ["Natur/Umwelt", "Asien"]
-markierungen = ["Indonesien", "Tierwelt"]
+kategorien = ["Asien"]
+markierungen = ["Wissenschaft", "Natur", "Indonesien"]
 paid = false
 slug = "komodowaran"
 title = "Komodowarane: Ein Wildschwein zum Frühstück"
