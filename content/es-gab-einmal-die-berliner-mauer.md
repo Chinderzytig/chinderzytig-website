@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600676242/der-fall-der-berliner-mauer_nytxue.jpg"
 img_description = "Erhaltener Teil der Berliner Mauer bei der Niederkirchnerstraße."
 img_photographer = "Claudio Schwarz"
 img_src = "https://unsplash.com/@purzlbaum"
-kategorien = ["Europa", "Politik"]
-markierungen = ["Deutschland", "Kriege/Konflikte"]
+kategorien = ["Europa"]
+markierungen = ["Politik", "Deutschland"]
 paid = false
 slug = "der-fall-der-berliner-mauer"
 title = "Es gab einmal… die Berliner Mauer"
