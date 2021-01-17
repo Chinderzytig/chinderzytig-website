@@ -11,8 +11,8 @@ hero_img = "/v1603137195/Protest_Hongkong_jktaaq.jpg"
 img_description = "Protestierende Menschenmenge in den Strassen von Hongkong"
 img_photographer = "Joseph Chan"
 img_src = "https://unsplash.com/@yulokchan"
-kategorien = ["Asien", "Gesellschaft", "Politik"]
-markierungen = ["Hongkong", "China", "Kriege/Konflikte", "Parteien"]
+kategorien = ["Asien"]
+markierungen = ["Politik", "Gesellschaft", "Hongkong", "China"]
 paid = false
 slug = ""
 title = "Feiertag = Protesttag"
