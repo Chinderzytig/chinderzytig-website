@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600370740/tiktok_mapxuy.jpg"
 img_description = "Smartphone home screen with TikTok app in focus"
 img_photographer = "Solen Feyissa"
 img_src = "https://unsplash.com/@solenfeyissa"
-kategorien = ["Asien", "Medien"]
-markierungen = ["China", "Online"]
+kategorien = ["Asien"]
+markierungen = ["Medien", "China"]
 paid = false
 slug = "tiktok"
 title = "Instagram? Snapchat? Jetzt ist TikTok der Hit!"
