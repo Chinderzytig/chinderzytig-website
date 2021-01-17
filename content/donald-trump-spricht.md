@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = ""
 cc_licence = "CC PDM 1.0"
@@ -10,8 +11,8 @@ hero_img = "/v1600767951/president-donald-trump_sngb4a.jpg"
 img_description = "President Donald J. Trump addresses his remarks at the Summit on Transforming Mental Health Treatment"
 img_photographer = "The White House"
 img_src = "https://www.flickr.com/photos/148748355@N05/49248712961"
-kategorien = ["Nordamerika", "Politik"]
-markierungen = ["USA", "Personen"]
+kategorien = ["Nordamerika"]
+markierungen = ["Politik", "USA", "Personen"]
 paid = false
 slug = "donaldtrump"
 title = "Donald Trump spricht"
