@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1599985327/brexitisreal_tqvitt.jpg"
 img_description = "Zwei Briten demonstrieren gegen Brexit."
 img_photographer = "Jannes Van den wouwer"
 img_src = "https://unsplash.com/@jannesvdw"
-kategorien = ["Europa", "Politik"]
-markierungen = ["Großbritannien"]
+kategorien = ["Europa"]
+markierungen = ["Wirtschaft", "Politik", "Großbritannien"]
 paid = false
 slug = "brexitisreal"
 title = "Grossbritannien und die EU gehen getrennte Wege"
