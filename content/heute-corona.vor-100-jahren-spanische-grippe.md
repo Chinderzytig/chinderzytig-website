@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Oliver Dick"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600261474/spanisch-grippe_cedpyv.png"
 img_description = "Schlangen stehende Leute, welche Masken kaufen möchten zum Schutz vor der Spanischen Grippe in San Francisco in 1918"
 img_photographer = "California State Library"
 img_src = "https://oac.cdlib.org/search?style=oac4;Institution=California%20State%20Library::California%20History%20Room;idT=ACT-6804"
-kategorien = ["Welt", "Gesundheit"]
-markierungen = ["COVID19", "Krankheiten"]
+kategorien = ["Welt"]
+markierungen = ["Gesundheit"]
 paid = false
 slug = "spanischegrippe"
 title = "Heute: Corona. Vor 100 Jahren? Spanische Grippe"
