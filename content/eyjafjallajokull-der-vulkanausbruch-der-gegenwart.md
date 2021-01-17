@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1602356698/Eyjafjallajokull_neb0g6.jpg"
 img_description = "The first part of the eruption of Eyjafjallajökull on Iceland in 2010."
 img_photographer = "Marc Szeglat"
 img_src = "https://unsplash.com/@marcszeglat"
-kategorien = ["Europa", "Natur/Umwelt "]
-markierungen = ["Island"]
+kategorien = ["Europa"]
+markierungen = ["Natur", "Island"]
 paid = false
 slug = "eyjafjallajoekull"
 title = "Eyjafjallajökull – Der Vulkanausbruch der Gegenwart "
