@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "fincen-files_nn1uly"
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1602423414/fincen-files_skaryc.jpg"
 img_description = "A screen of unintelligible progamming code"
 img_photographer = "Markus Spiske"
 img_src = "https://unsplash.com/@markusspiske"
-kategorien = ["Europa", "Welt", "Gesellschaft"]
-markierungen = ["Schweiz", "Rechte"]
+kategorien = ["Europa", "Welt"]
+markierungen = ["Wirtschaft", "Gesellschaft", "Schweiz"]
 paid = false
 slug = "fincen-files"
 title = "Fincen Files – Ein Journalistennetzwerk deckt auf"
-arbeitsmaterial = "fincen-files_nn1uly"
 
 +++
 _"Statt in eine Armensiedlung, flossen Millionen in die Schweiz", so der Titel eines Artikels der Zeitung Der Bund vom 20. September 2020. Es geht um das Datenleck Fincen Files. Es wurde Geldwäscherei betrieben. Ein Journalistennetzwerk deckt auf. Was heisst das nun genau? Und was ist das?_
