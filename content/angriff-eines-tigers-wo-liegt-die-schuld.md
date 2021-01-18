@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
 cc_licence = "CC BY-ND 2.0"
@@ -7,7 +8,7 @@ date = 2020-07-08T11:00:00Z
 description = ""
 fdw = true
 hero_img = "/v1601214476/fdw-tiergefangenschaft_z6grbp.jpg"
-img_description = "Irina the tiger posing at Zurich Zoo"
+img_description = "Tigerdame Irina posiert im Zoo Zürich."
 img_photographer = "Tambako The Jaguar"
 img_src = "https://www.flickr.com/photos/8070463@N03/50030750721"
 kategorien = []
