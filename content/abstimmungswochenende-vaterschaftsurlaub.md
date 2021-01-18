@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Adrian Wüthrich"
 cc_licence = ""
@@ -7,7 +8,7 @@ date = 2020-09-24T11:00:00Z
 description = "In der Schweiz bekommt ein Vater bei der Geburt seines Kindes einen Tag frei. Die Mutter darf seit 2005 14 Wochen Mutterschaftsurlaub beziehen. Wir stimmen ab, ob ein Vater neu 10 Arbeitstage frei bekommen soll."
 fdw = true
 hero_img = "/v1601282118/fdw-abstimmungssonntag-kommentar_vkhv0l.jpg"
-img_description = "A father kissing his infant son"
+img_description = "Ein Vater gibt seinem kleinen Kind einen Kuss. "
 img_photographer = "Kelly Sikkema"
 img_src = "https://unsplash.com/@kellysikkema"
 kategorien = []
