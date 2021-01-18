@@ -33,22 +33,13 @@ Wer sich für das Wörterbuch interessiert, findet hier die Angaben: Bickel, H.,
 
 Zum Abschluss nun noch ein paar Beispiele für _Helvetismen_:
 
-· _Es jagt mir den Nuggi raus_
+· _Es jagt mir den Nuggi raus  
+_· _Kartoffelstock (statt Kartoffelbrei)  
+_· _Pressieren (statt beeilen)  
+_· _Znacht (statt Abendessen)  
+_· _Abfallsack (statt Müllbeutel)  
+_· _Weggli (statt Brötchen)  
+_· _Apéro  
+_· _Süss (Doppel-s statt ß)_
 
-· _Kartoffelstock (statt Kartoffelbrei)_
-
-· _Pressieren (statt beeilen)_
-
-· _Znacht (statt Abendessen)_
-
-· _Abfallsack (statt Müllbeutel)_
-
-· _Weggli (statt Brötchen)_
-
-· _Apéro_
-
-· _Süss (Doppel-s statt ß)_
-
-Welchen „{{< fremdwort id="Käsekuchen" wort="Käsekuchen" >}}“ hättest du jetzt gerade lieber, den süssen oder den salzigen? Hast du selbst auch schon einmal so ein Missverständnis wie das mit dem „Käsekuchen“ erlebt? Merkst du beim Sprechen oder Schreiben, welche Wörter _typisch schweizerisch_ sind, oder fällt dir das gar nicht auf? Findest du es wichtig, dass die Unterschiede der deutschen Standardsprache in der Schule thematisiert werden oder ist es dir eher egal?
-
-{{< definition id="Käsekuchen" wort="Käsekuchen" def="Der Käsekuchen ist ein süsses oder salziges Gericht." >}}
+Welchen „Käsekuchen“ hättest du jetzt gerade lieber, den süssen oder den salzigen? Hast du selbst auch schon einmal so ein Missverständnis wie das mit dem „Käsekuchen“ erlebt? Merkst du beim Sprechen oder Schreiben, welche Wörter _typisch schweizerisch_ sind, oder fällt dir das gar nicht auf? Findest du es wichtig, dass die Unterschiede der deutschen Standardsprache in der Schule thematisiert werden oder ist es dir eher egal?
