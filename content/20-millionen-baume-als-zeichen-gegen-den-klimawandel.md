@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -7,11 +8,11 @@ date = 2019-11-04T12:00:00Z
 description = ""
 fdw = false
 hero_img = "/v1600432875/youtube-pflanzt-baeume_lbkit1.jpg"
-img_description = "Looking down onto a forest"
+img_description = "Blick von oben auf einen Wald. "
 img_photographer = "Martin Katler"
 img_src = "https://unsplash.com/@martinkatler"
-kategorien = ["Nordamerika", "Natur/Umwelt"]
-markierungen = ["USA", "Klimawandel"]
+kategorien = ["Nordamerika"]
+markierungen = ["Natur", "USA"]
 paid = false
 slug = "youtube-pflanzt-baeume"
 title = "20 Millionen Bäume als Zeichen gegen den Klimawandel"
