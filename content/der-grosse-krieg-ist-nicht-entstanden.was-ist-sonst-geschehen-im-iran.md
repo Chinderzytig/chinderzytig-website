@@ -11,8 +11,8 @@ hero_img = "/v1600682734/iran_gexg9a.jpg"
 img_description = "Via Wikimedia Commons"
 img_photographer = "Mehr News Agency"
 img_src = "https://commons.wikimedia.org/w/index.php?curid=85675554"
-kategorien = ["Politik", "Asien"]
-markierungen = ["Kriege/Konflikte", "Iran"]
+kategorien = ["Asien"]
+markierungen = ["Politik", "Iran"]
 paid = false
 slug = "iran"
 title = "Der grosse Krieg ist nicht entstanden. Was ist sonst geschehen im Iran?"
