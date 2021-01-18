@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "20210119_Artikel_Ka%CC%88sekuchen_ynie3n"
+arbeitsmaterial = "20210119_Ka%CC%88sekuchen_AM_vuebuf"
 artikel = true
 author = "Désirée Scheidegger"
 cc_licence = ""
