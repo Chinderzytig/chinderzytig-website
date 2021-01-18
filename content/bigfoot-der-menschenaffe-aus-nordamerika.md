@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "bigfoot-arbeitsmaterial_wikmrx"
 artikel = true
 author = "Georg Stalder"
 cc_licence = "PDM 1.0"
@@ -10,12 +11,11 @@ hero_img = "/v1600451362/sasquatch_i2fo2s.jpg"
 img_description = "sasquatch"
 img_photographer = "steve baxter"
 img_src = "https://www.flickr.com/photos/139800128@N03/25546846833/in/photolist-5nYkSY-6UNqK8-5nU8wn-4RJBGP-6UU3Jw-6roLjw-4DhEoE-85UsMK-6rDaJy-2f2CLYq-5PpAeg-4WQPy4-26YtvCP-qZUHk-5wazAc-6R1tXb-6rz3QD-NvsAn-87z37f-6UNryk-6pVV6Z-8FaNCB-bCRHsB-PjYk4-46TtD6-4RNMVq-6UU15L-27r5AhP-8bbx9c-4dsV5n-833QnU-6rxGhf-EVugwr-2pnKiG-QXDkWH-8ruZ6c-6USrrW-7vihPH-6rD9bm-qERGce-psgvPi-4SfkE3-eSBEw-2jhiaiZ-nNKK62-nLN2qJ-nutEVx-FnRSSq-nuu1b6-GSQKQs/"
-kategorien = ["Nordamerika", "Welt", "Natur/Umwelt"]
-markierungen = ["Tierwelt"]
+kategorien = ["Nordamerika", "Welt"]
+markierungen = ["Natur"]
 paid = false
 slug = "sagenhafte-tiere-teil-3-bigfoot"
 title = "Bigfoot: Der Menschenaffe aus Nordamerika"
-arbeitsmaterial = "bigfoot-arbeitsmaterial_wikmrx"
 
 +++
 ### Serie: Sagenhafte Tiere
