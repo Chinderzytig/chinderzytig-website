@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Jolan Ziörjen"
 cc_licence = ""
@@ -10,8 +11,8 @@ hero_img = "/v1600187913/mittelmeer-flucht_qko0pu.jpg"
 img_description = "Refugees packed onto a boat"
 img_photographer = "Gerd Altmann"
 img_src = "https://pixabay.com/users/geralt-9301/"
-kategorien = ["Gesellschaft", "Afrika", "Europa"]
-markierungen = ["Mittelmeer", "Migration"]
+kategorien = ["Afrika", "Europa"]
+markierungen = ["Politik", "Gesellschaft"]
 paid = false
 slug = "mittelmeerflucht"
 title = "Dem Untergang geweiht?  – Bootsflüchtlinge auf dem Weg nach Europa"
