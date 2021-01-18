@@ -43,3 +43,9 @@ Zum Abschluss nun noch ein paar Beispiele für _Helvetismen_:
 · _Süss (Doppel-s statt ß)_
 
 Welchen „Käsekuchen“ hättest du jetzt gerade lieber, den süssen oder den salzigen? Hast du selbst auch schon einmal so ein Missverständnis wie das mit dem „Käsekuchen“ erlebt? Merkst du beim Sprechen oder Schreiben, welche Wörter _typisch schweizerisch_ sind, oder fällt dir das gar nicht auf? Findest du es wichtig, dass die Unterschiede der deutschen Standardsprache in der Schule thematisiert werden oder ist es dir eher egal?
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
