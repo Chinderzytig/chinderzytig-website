@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = "brexit_fhv0qz"
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -10,12 +11,11 @@ hero_img = "/v1600671557/brexit_bg4nrq.jpg"
 img_description = "A portrait of UK Prime Minister on a sign, altered to look like that of the character Joker from the 2019 major motion picture Joker."
 img_photographer = "Jannes Van den wouwer"
 img_src = "https://unsplash.com/@jannesvdw"
-kategorien = ["Europa", "Politik"]
-markierungen = ["Großbritannien"]
+kategorien = ["Europa"]
+markierungen = ["Personen", "Politik", "Großbritannien"]
 paid = false
 slug = "brexit"
 title = "Boris Johnson und \"sein\" Brexit"
-arbeitsmaterial = "brexit_fhv0qz"
 
 +++
 _England hat keinen Präsidenten, aber dafür ein Premierminister, der so etwas wie der Chef des Landes ist. Boris Johnson ist noch nicht lange der Chef, wirbelt aber Traditionen durcheinander. Er will Ende Oktober aus der EU austreten – wenn es sein muss, auf die harte Tour._
