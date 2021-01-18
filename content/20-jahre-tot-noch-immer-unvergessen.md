@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = "CC BY-SA 3.0"
@@ -7,7 +8,7 @@ date = 2020-08-26T11:00:00Z
 description = ""
 fdw = true
 hero_img = "/v1601230369/fdw-unsersamurai_vuqqga.jpg"
-img_description = "Via Wikimedia Commons"
+img_description = "Boxer Andy Hug mit Auszeichnung"
 img_photographer = "Ripandyhug"
 img_src = "https://commons.wikimedia.org/w/index.php?curid=25745946"
 kategorien = []
