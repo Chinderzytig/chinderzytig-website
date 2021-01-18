@@ -1,4 +1,5 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -7,11 +8,11 @@ date = 2020-05-07T09:00:00Z
 description = "Als hätte die USA mit Corona nicht schon genug Probleme am Hals. Nun kommt auch noch die Asiatische Riesenhornisse. Sie bedroht Bienen - und Menschen. Was kann man tun?"
 fdw = false
 hero_img = "/v1602361383/Hornisse_wnviz0.jpg"
-img_description = ""
+img_description = "Kopf einer Riesenhornisse"
 img_photographer = "USGS"
 img_src = "https://unsplash.com/@usgs"
-kategorien = ["Natur/Umwelt", "Nordamerika"]
-markierungen = ["USA", "Tierwelt"]
+kategorien = ["Nordamerika"]
+markierungen = ["Natur", "USA"]
 paid = false
 slug = "riesenhornisse"
 title = "Auch das noch... die Riesenhornisse kommt"
