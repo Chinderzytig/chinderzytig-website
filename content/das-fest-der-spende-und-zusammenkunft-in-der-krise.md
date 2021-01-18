@@ -1,7 +1,9 @@
 +++
+arbeitsmaterial = ""
 artikel = true
 author = "Seraina Branschi"
-kategorien = ["Welt", "Gesellschaft"]
+cc_licence = ""
+cc_src = ""
 date = 2020-04-21T23:00:00Z
 description = ""
 fdw = false
@@ -9,9 +11,10 @@ hero_img = "/v1599997107/ramadan_z5gcvm.jpg"
 img_description = "Muslims kneeling and praying"
 img_photographer = "Levi Clancy"
 img_src = "https://unsplash.com/@leviclancy"
+kategorien = ["Welt"]
+markierungen = ["Kultur", "Gesellschaft"]
 paid = false
 slug = "ramadan"
-markierungen = [" Religion / Tradition"]
 title = "Das Fest der Spende und Zusammenkunft – in der Krise?"
 
 +++
