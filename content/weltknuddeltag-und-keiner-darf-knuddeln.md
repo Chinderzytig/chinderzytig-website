@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "20210121_Welt-Knuddel-Tag und keiner darf knuddeln_AM."
+arbeitsmaterial = "20210121_Welt-Knuddel-Tag und keiner darf knuddeln_AM.docx (1)."
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
