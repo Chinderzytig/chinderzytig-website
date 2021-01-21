@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210121_Welt-Knuddel-Tag_und_keiner_darf_knuddeln_AM_qclcpc"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
@@ -29,3 +29,9 @@ Was passiert denn nun genau, wenn wir uns umarmen? Bei Umarmungen stösst unser 
 ### Kein Weltknuddeltag wegen Corona?
 
 Umarmungen wären in dem Fall also doch besonders hilfreich, um die aktuell so besondere und oft auch bedrückende Situation zu überstehen. Aber können Umarmungen mit der Aufforderung zu „Social Distancing“, zum Abstandhalten vereinbart werden? Gibt es eine coronakonforme Art der Umarmung? Grundsätzlich nicht. Abstandhalten ist eine der wichtigsten Verhaltensregeln um die Ansteckungen einzudämmen. Im sehr vertrauten Umfeld findet Körperkontakt sicherlich nach wie vor statt und kann seine positive Wirkung entfalten. Doch diese Kontakte müssen beschränkt werden. Umarmungen im erweiterten Umfeld sollten im Moment vermieden werden. Gibt es also noch andere Möglichkeiten, „Glückshormone“ ausschütten zu lassen? Studien haben gezeigt, dass auch beim Streicheln von Tieren Glücksgefühle entstehen. Zudem gibt es Menschen, die in der Natur Energie tanken oder beim Musikhören oder -machen Glücksmomente finden. Der Weltknuddeltag wird 2021 also bestimmt anders ausfallen als in den letzten 34 Jahren. Der Gründer selbst ruft sogar auf der [Webseite des Tages](http://www.nationalhuggingday.com/) dazu auf, sich an die geltenden Abstandsregeln zu halten und schickt allen Besuchern eine virtuelle Umarmung.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
