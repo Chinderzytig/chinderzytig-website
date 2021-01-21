@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "https://res.cloudinary.com/chinderzytig/image/upload/v1611180076/20210121_Welt-Knuddel-Tag_und_keiner_darf_knuddeln_AM_qclcpc"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
