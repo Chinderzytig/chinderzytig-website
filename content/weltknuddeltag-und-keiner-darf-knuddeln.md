@@ -1,10 +1,10 @@
 +++
-arbeitsmaterial = "0210121_Welt-Knuddel-Tag_und_keiner_darf_knuddeln_AM_oncp4c."
+arbeitsmaterial = "0210121_Welt-Knuddel-Tag_und_keiner_darf_knuddeln_AM_oncp4c"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
-date = 2021-01-21T07:00:00Z
+date = 2021-01-21T05:00:00Z
 description = "Knuddeln trotz Corona? Die Chinderzytig erklärt. "
 fdw = false
 hero_img = "/v1611176376/courtney-cook-DWaiEFt9VT4-unsplash_2_g0jk90.jpg"
