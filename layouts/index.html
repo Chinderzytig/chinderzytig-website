@@ -8,7 +8,7 @@
 			<h2 class="heading heading__tertiary">Neuste Artikel</h2>
 			<div class="card__container">
 				{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
-				{{ range first 6 $artikel.ByDate.Reverse }}
+				{{ range first 9 $artikel.ByDate.Reverse }}
 				<a href="{{.RelPermalink}}" class="card card--white">
 					<div class="card__img-container">
 						<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
