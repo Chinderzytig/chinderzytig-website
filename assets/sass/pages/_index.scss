@@ -11,8 +11,8 @@
 }
 
 .fdw__cta {
-	border: 1rem solid $chinder-platinum;
-	margin-bottom: 0;
+	@include cta-color($cta-seashell);
+	margin-bottom: 3rem;
 	padding: 4rem 0;
 
 	&-container {
@@ -30,5 +30,3 @@
 		@include respond(phone-xl) { margin-top: 3rem; }
 	}
 }
-
-.special__cta { @include cta-color($cta-seashell); }
