@@ -110,6 +110,8 @@
 		display: flex;
 		align-items: center;
 
+		@include respond(tab-port-lg) { margin-top: 3rem; }
+
 		@include respond(phone-sm) { margin-left: 0; }
 
 		&-line {
@@ -122,14 +124,5 @@
 			list-style: none;
 			padding: 0;
 		}
-	}
-
-	&__line-horizontal {
-		width: 10rem;
-		margin: 2rem 0;
-		border-bottom: 1px solid $chinder-platinum;
-		display: none;
-
-		@include respond(tab-port-lg) { display: block; }
 	}
 }
