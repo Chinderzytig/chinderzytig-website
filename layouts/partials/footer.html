@@ -9,18 +9,16 @@
 				<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
 				{{ end }}
 			</ul>
-			<div class="footer__middle-right">
-				<ul class="footer__column footer__column--normal">
-					{{ range .Site.Data.partials.footer.left }}
-						<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
-					{{ end }}
-				</ul>
-				<ul class="footer__column footer__column--normal">
-					{{ range .Site.Data.partials.footer.right}}
-						<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
-					{{ end }}
-				</ul>
-			</div>
+			<ul class="footer__column footer__column--normal">
+				{{ range .Site.Data.partials.footer.left }}
+					<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
+				{{ end }}
+			</ul>
+			<ul class="footer__column footer__column--normal">
+				{{ range .Site.Data.partials.footer.right}}
+					<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
+				{{ end }}
+			</ul>
 		</div>
 	</div>
 
