@@ -18,35 +18,31 @@ main:
   - label: Admin
     link: "/admin"
 left:
-  - label: Nordamerika
-    link: "/kategorien/nordamerika"
-  - label: Südamerika
-    link: "/kategorien/südamerika"
-  - label: Europa
-    link: "/kategorien/europa"
   - label: Afrika
     link: "/kategorien/afrika"
-  - label: Asien
-    link: "/kategorien/asien"
-  - label: Ozeanien
-    link: "/kategorien/ozeanien"
   - label: Antarktis
     link: "kategorien/antarktis"
-right:
-  - label: Gesellschaft
-    link: "#"
-  - label: Gesundheit
-    link: "#"
-  - label: Medien
-    link: "#"
-  - label: Politik
-    link: "#"
-  - label: Weltraum/Universum
-    link: "/kategorien/weltraum/universum"
+  - label: Asien
+    link: "/kategorien/asien"
+  - label: Europa
+    link: "/kategorien/europa"
+  - label: Nordamerika
+    link: "/kategorien/nordamerika"
+  - label: Ozeanien
+    link: "/kategorien/ozeanien"
+  - label: Südamerika
+    link: "/kategorien/südamerika"
   - label: Welt
     link: "/kategorien/welt"
-bottom:
-  - label: Datenschutz
-    link: "/datenschutz"
-  - label: Admin
-    link: "/admin"
+  - label: Weltraum/Universum
+    link: "/kategorien/weltraum/universum"
+
+right:
+  - label: Gesellschaft
+    link: "kategorien/gesellschaft"
+  - label: Gesundheit
+    link: "kategorien/gesundheit"
+  - label: Medien
+    link: "kategorien/medien"
+  - label: Politik
+    link: "kategorien/politik"
