@@ -1,4 +1,4 @@
-main:
+column_one:
   - label: Artikel
     link: "/alle-artikel"
   - label: Fokus der Woche
@@ -17,7 +17,7 @@ main:
     link: "/datenschutz"
   - label: Admin
     link: "/admin"
-left:
+column_two:
   - label: Afrika
     link: "/kategorien/afrika"
   - label: Antarktis
@@ -39,7 +39,7 @@ left:
   - label: Wissenschaft
     link: "/markierungen/wissenschaft"
 
-right:
+column_three:
   - label: Gesellschaft
     link: "/markierungen/gesellschaft"
   - label: Gesundheit
