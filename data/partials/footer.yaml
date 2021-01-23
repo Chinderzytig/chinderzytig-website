@@ -13,6 +13,10 @@ main:
     link: "/verein"
   - label: Kontakt
     link: "/kontakt"
+  - label: Datenschutz
+    link: "/datenschutz"
+  - label: Admin
+    link: "/admin"
 left:
   - label: Nordamerika
     link: "/kategorien/nordamerika"

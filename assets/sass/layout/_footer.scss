@@ -35,18 +35,6 @@
 			padding: 3rem 0;
 		}
 
-		&-links {
-			list-style: none;
-			padding-left: 0;
-			display: flex;
-			margin-bottom: 6rem;
-
-			@include respond(tab-port-lg) { margin: 3rem 0 0 0; }
-
-			@include respond(phone-md) { margin-left: 5rem; }
-
-		}
-
 		&-item {
 
 			&:not(:last-child) {
