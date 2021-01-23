@@ -36,13 +36,27 @@ left:
     link: "/kategorien/welt"
   - label: Weltraum/Universum
     link: "/kategorien/weltraum/universum"
+  - label: Wissenschaft
+    link: "/markierungen/wissenschaft"
 
 right:
   - label: Gesellschaft
-    link: "kategorien/gesellschaft"
+    link: "/markierungen/gesellschaft"
   - label: Gesundheit
-    link: "kategorien/gesundheit"
+    link: "/markierungen/gesundheit"
+  - label: Kultur
+    link: "/markierungen/kultur"
   - label: Medien
-    link: "kategorien/medien"
+    link: "/markierungen/medien"
+  - label: Natur
+    link: "/markierungen/natur"
+  - label: Organisationen
+    link: "/markierungen/organisationen"
+  - label: Personen
+    link: "/markierungen/personen"
   - label: Politik
-    link: "kategorien/politik"
+    link: "/markierungen/politik"
+  - label: Sport
+    link: "/markierungen/sport"
+  - label: Wirtschaft
+    link: "/markierungen/wirtschaft"
