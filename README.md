@@ -4,7 +4,7 @@
 [Chinderzytig](https://www.chinderzytig.ch/) is a news website producing weekly articles in simplified German, with the intent of making current events more accessible and understandable for school children.
 
 This website is built using [Hugo](https://gohugo.io/), a very fast and flexible Go based static site generator, while loosely
-employing Jamstack architectural principles (less focus on "J" and more focus on "amstack") through the incooporation of third party applications, such as:
+employing Jamstack architectural principles (less focus on "J" and more focus on "amstack") through the incorporation of third party applications, such as:
 
 - [Foresty](https://forestry.io/): content management;
 - [Snipcart](https://snipcart.com/): shopping cart/ecommerce;
