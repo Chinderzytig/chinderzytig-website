@@ -1,4 +1,4 @@
-main:
+column_one:
   - label: Artikel
     link: "/alle-artikel"
   - label: Fokus der Woche
@@ -13,36 +13,50 @@ main:
     link: "/verein"
   - label: Kontakt
     link: "/kontakt"
-left:
-  - label: Nordamerika
-    link: "/kategorien/nordamerika"
-  - label: Südamerika
-    link: "/kategorien/südamerika"
-  - label: Europa
-    link: "/kategorien/europa"
-  - label: Afrika
-    link: "/kategorien/afrika"
-  - label: Asien
-    link: "/kategorien/asien"
-  - label: Ozeanien
-    link: "/kategorien/ozeanien"
-  - label: Antarktis
-    link: "kategorien/antarktis"
-right:
-  - label: Gesellschaft
-    link: "#"
-  - label: Gesundheit
-    link: "#"
-  - label: Medien
-    link: "#"
-  - label: Politik
-    link: "#"
-  - label: Weltraum/Universum
-    link: "/kategorien/weltraum/universum"
-  - label: Welt
-    link: "/kategorien/welt"
-bottom:
   - label: Datenschutz
     link: "/datenschutz"
   - label: Admin
     link: "/admin"
+column_two:
+  - label: Afrika
+    link: "/kategorien/afrika"
+  - label: Antarktis
+    link: "kategorien/antarktis"
+  - label: Asien
+    link: "/kategorien/asien"
+  - label: Europa
+    link: "/kategorien/europa"
+  - label: Nordamerika
+    link: "/kategorien/nordamerika"
+  - label: Ozeanien
+    link: "/kategorien/ozeanien"
+  - label: Südamerika
+    link: "/kategorien/südamerika"
+  - label: Welt
+    link: "/kategorien/welt"
+  - label: Weltraum/Universum
+    link: "/kategorien/weltraum/universum"
+  - label: Wissenschaft
+    link: "/markierungen/wissenschaft"
+
+column_three:
+  - label: Gesellschaft
+    link: "/markierungen/gesellschaft"
+  - label: Gesundheit
+    link: "/markierungen/gesundheit"
+  - label: Kultur
+    link: "/markierungen/kultur"
+  - label: Medien
+    link: "/markierungen/medien"
+  - label: Natur
+    link: "/markierungen/natur"
+  - label: Organisationen
+    link: "/markierungen/organisationen"
+  - label: Personen
+    link: "/markierungen/personen"
+  - label: Politik
+    link: "/markierungen/politik"
+  - label: Sport
+    link: "/markierungen/sport"
+  - label: Wirtschaft
+    link: "/markierungen/wirtschaft"

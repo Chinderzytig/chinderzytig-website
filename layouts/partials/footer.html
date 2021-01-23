@@ -5,31 +5,24 @@
 	<div class="footer__middle">
 		<div class="footer__middle-container">
 			<ul class="footer__column footer__column--heavy">
-				{{ range .Site.Data.partials.footer.main }}
+				{{ range .Site.Data.partials.footer.column_one }}
 				<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
 				{{ end }}
 			</ul>
-			<div class="footer__middle-right">
-				<ul class="footer__column footer__column--normal">
-					{{ range .Site.Data.partials.footer.left }}
-						<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
-					{{ end }}
-				</ul>
-				<ul class="footer__column footer__column--normal">
-					{{ range .Site.Data.partials.footer.right}}
-						<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
-					{{ end }}
-				</ul>
-			</div>
+			<ul class="footer__column footer__column--normal">
+				{{ range .Site.Data.partials.footer.column_two}}
+					<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
+				{{ end }}
+			</ul>
+			<ul class="footer__column footer__column--normal">
+				{{ range .Site.Data.partials.footer.column_three}}
+					<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
+				{{ end }}
+			</ul>
 		</div>
 	</div>
 	<div class="footer__bottom">
 		<div class="footer__bottom-left">
-			<ul class="footer__column--normal footer__bottom-links">
-				{{ range .Site.Data.partials.footer.bottom}}
-					<li class="footer__bottom-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
-				{{ end }}
-			</ul>
 			<a href="https://www.schweizermedien.ch/medienkompetenz/angebote-netzwerkpartner" class="footer__partner">
 				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_200/v1595591559/logos/sm_grey_sx76sk.png" alt="Schweizer Medien logo" class="footer__partner-logo" >
 				<div class="footer__partner-line"></div>
@@ -40,7 +33,6 @@
 				</ul>
 			</a>
 		</div>
-		<div class="footer__line-horizontal"></div>
 		<div class="footer__bottom-right">
 			<div class="footer__social-group">
 				{{- partial "svgs/social_svgs.html" . -}}
