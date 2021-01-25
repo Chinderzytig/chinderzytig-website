@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "20210126_Australia Day_AM"
+arbeitsmaterial = "20210126_Australia Day_AM."
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
