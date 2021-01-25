@@ -1,11 +1,12 @@
 +++
-arbeitsmaterial = "20210126_Australia Day_AM"
+arbeitsmaterial = ""
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
 cc_src = ""
 date = 2021-01-26T05:00:00Z
 description = "Australien feiert Geburtstag. Die Chinderzytig erklärt, warum das Land trauert und nicht feiert. "
+draft = true
 fdw = false
 hero_img = "/v1611611893/Australia_Media_ezpavz.jpg"
 img_description = "The map of Australia."
@@ -36,9 +37,3 @@ Bevor die Engländer nach Australien kamen, lebten ungefähr eine halbe Million 
 
 Die Engländer trieben die Ureinwohner immer mehr in trockene Gebiete, in denen es wenige Möglichkeiten zum Überleben gab und liessen sie nicht Teil der neuen Gesellschaft werden. Dadurch wurden die Ureinwohner immer ärmer, hatten keinen Zugang zu Schulen und keine gute medizinische Versorgung.  
 Die Konflikte wurden nur sehr langsam wieder besser und sind auch heute noch vorhanden. Für die einen ist der 26. Januar also ein ganz normaler Feiertag, an dem ihr Land Geburtstag feiert. Für die anderen ist es ein Tag der Trauer, an dem ihre Vorfahren vertrieben wurden von dem Land, das sie schon so lange vorher bewohnt hatten.
-
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
