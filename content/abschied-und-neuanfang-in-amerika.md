@@ -16,7 +16,7 @@ kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "ABSCHIED UND NEUANFANG IN AMERIKA"
+title = "Abschied und Neuanfang in Amerika"
 
 +++
 _Heute vor einer Woche war ein denkwürdiger Tag. Donald Trump verlässt das Weisse Haus und Joe Biden tritt sein neues Amt als Präsident von Amerika an. Seitdem ist eine Woche vergangen. Und wir stellen fest: der neue Präsident hat keine leichten Aufgaben vor sich und vom alten werden wir wohl noch das eine oder andere zu sehen oder hören bekommen._
