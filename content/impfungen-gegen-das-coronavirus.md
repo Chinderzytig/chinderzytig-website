@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210128_Impfungen_gegen_das_Coronavirus_AM_kmfbti"
 artikel = true
 author = "Nicole Emch"
 cc_licence = ""
 cc_src = ""
 date = 2021-01-28T05:00:00Z
 description = "Die Chinderzytig schreibt über die Impfung gegen das Coronavirus - über Hoffnung und Kritik. "
-draft = true
 fdw = false
 hero_img = "/v1611784287/Corona_Media_a1zyc3.jpg"
 img_description = "Impfung gegen das Coronavirus"
@@ -41,3 +40,9 @@ Deshalb empfiehlt auch das Bundesamt für Gesundheit (BAG) in der Schweiz eine I
 Ganz so weit wie Israel ist die Schweiz noch nicht. Dieses Land gilt momentan als «Impfweltmeister» und hat schon rund einen Viertel der Bevölkerung geimpft. In der Schweiz haben die Impfungen Ende Dezember begonnen. Einige fordern, dass es nun schnell gehen soll. Das Problem ist, dass die Impfdosen nur langsam und in Etappen in der Schweiz eintreffen. Bis die ganze Bevölkerung, die sich impfen möchte, dies tun kann, dauert es deswegen noch Monate. Um die Impfung möglichst schnell und effektiv zu machen, wurde die Bevölkerung in Gruppen eingeteilt. Geimpft werden zuerst die Risikogruppen, also Personen, die besonders gefährdet sind und bei denen eine Ansteckung mit dem Virus eine grosse Gefahr darstellen würde. Im Moment können sich Personen, die über 75 Jahre alt sind, impfen lassen. Auch wer in einem Alters- oder Pflegeheim wohnt oder arbeitet und Menschen, die eine chronische Krankheit mit hohem Risiko für einen schweren Krankheitsverlauf haben, können sich bereits impfen lassen. Die meisten müssen sich aber noch etwas gedulden. Das Ziel des BAG ist, dass sich bis im Sommer alle impfen lassen können, die dies möchten.
 
 Die Impfung in der Schweiz ist gratis, egal welchen Impfstoff man erhält. Zugelassen sind im Moment die Impfstoffe von Pfizer/BioNTech und Moderna. Auch bei AstraZeneca wurden Impfstoffe bestellt. Geimpft wird vor allem in kantonalen Impfzentren. In Zukunft sollen aber auch Hausärzte impfen können. Wer sich impfen lassen möchte, muss sich in seinem Kanton anmelden (Kantonswebseite) und erhält dann alle weiteren Informationen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
