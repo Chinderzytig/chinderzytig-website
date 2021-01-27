@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-01-27T05:00:00Z
 description = "Donald Trump verlässt das Weisse Haus und Joe Biden tritt sein neues Amt als Präsident von Amerika an."
-draft = true
 fdw = true
 hero_img = "/v1611694954/Capitol_Media_onhdmk.jpg"
 img_description = "Das Kapitol der Vereinigten Staaten"
