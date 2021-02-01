@@ -98,3 +98,11 @@ companies:
   logo:
     - img: "poly_rnmcnm.png"
       desc: Polygon Schule logo
+- website: "http://kit-initiative.de/"
+  logo:
+    - img: "KIT-Logo_xbzlwp.png"
+      desc: KIT-Initiative logo
+- website: "http://www.schule-kihe.ch/"
+  logo:
+    - img: "schule-kh_bzefc6.png"
+      desc: Schule Kirchlindach Herrenschwanden logo
