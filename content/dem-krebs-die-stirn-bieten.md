@@ -20,7 +20,7 @@ title = "Dem Krebs die Stirn bieten"
 +++
 _Krebs ist die zweithäufigste Todesursache in der Schweiz. Jeder vierte Todesfall geht auf eine Krebserkrankung zurück. Allerdings: DEN Krebs gibt es eigentlich gar nicht. Krebs ist ein Sammelbegriff für über 100 verschiedene Krankheiten. Und ausgeliefert sind wir dem Krebs auch nicht. Schauen wir uns das mal etwas genauer an._
 
-Krebs ist eine heimtückische Krankheit. Sie kommt oft schleichend, nimmt irgendwo im Körper ihren Anfang und verbreitet sich dann oder wächst leise vor sich hin. Es passiert deshalb immer wieder, dass eine Krebserkrankung zu spät entdeckt wird und eine Heilung nicht mehr möglich ist. Das muss nicht sein. Bis zu einem Drittel der Krebserkrankungen könnte schon nur durch Veränderungen der Lebensweise und Früherkennung verhindert werden. Um darauf aufmerksam zu machen und das Thema Krebs in der Öffentlichkeit immer wieder zur Diskussion zu bringen, wurde heute vor 21 Jahren der Weltkrebstag (Link auf [https://www.worldcancerday.org/](https://www.worldcancerday.org/ "Weltkrebstag")) ins Leben gerufen.
+Krebs ist eine heimtückische Krankheit. Sie kommt oft schleichend, nimmt irgendwo im Körper ihren Anfang und verbreitet sich dann oder wächst leise vor sich hin. Es passiert deshalb immer wieder, dass eine Krebserkrankung zu spät entdeckt wird und eine Heilung nicht mehr möglich ist. Das muss nicht sein. Bis zu einem Drittel der Krebserkrankungen könnte schon nur durch Veränderungen der Lebensweise und Früherkennung verhindert werden. Um darauf aufmerksam zu machen und das Thema Krebs in der Öffentlichkeit immer wieder zur Diskussion zu bringen, wurde heute vor 21 Jahren der Weltkrebstag ([https://www.worldcancerday.org/](https://www.worldcancerday.org/ "Weltkrebstag")) ins Leben gerufen.
 
 ### Krebs ist nicht gleich Krebs
 
@@ -33,8 +33,6 @@ Der Hauptgrund ist, dass die Menschen immer älter werden. Und Krebs tritt bei �
 ### Was können wir dagegen tun?
 
 Wie erwähnt gibt es einige Faktoren, die eine Erkrankung begünstigen. Wenn wir diese Faktoren vermeiden – also wenig oder keinen Alkohol trinken, nicht rauchen, aufs "Sünnelen“ verzichten und auf unsere Ernährung und Bewegung achten, können wir schon wesentlich dazu beitragen, das Risiko einer Erkrankung zu senken. Zudem gilt: Je früher eine Krebserkrankung entdeckt wird, umso besser sind die Heilungschancen. Deshalb ist es wichtig, gewisse Untersuchungen regelmässig und präventiv – also vorbeugend – durchzuführen. Zum Beispiel tastet der Frauenarzt bei den Vorsorgeuntersuchungen jeweils die Brüste der Frauen ab, um allfällige Knoten frühzeitig zu entdecken.
-
-Bildlink [https://pixabay.com/de/illustrations/mitose-meiose-zelle-zellteilung-3876669/](https://pixabay.com/de/illustrations/mitose-meiose-zelle-zellteilung-3876669/ "https://pixabay.com/de/illustrations/mitose-meiose-zelle-zellteilung-3876669/")
 
 {{< teiler >}}
 
