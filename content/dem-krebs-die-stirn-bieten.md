@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210204_Weltkrebstag_AM.docx_cplzm1"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2021-02-04T05:00:00Z
 description = "Die Chinderzytig definiert die Kankheit \"Krebs\" und was wir dagegen tun können. "
-draft = true
 fdw = false
 hero_img = "/v1612171180/Weltkrebstag_Media_opfh6r.jpg"
 img_description = "Krebskrankes Kind im Spital"
@@ -38,3 +37,9 @@ Wie erwähnt gibt es einige Faktoren, die eine Erkrankung begünstigen. Wenn wir
 Bildlinks (wenn vorhanden)
 
 [https://pixabay.com/de/illustrations/mitose-meiose-zelle-zellteilung-3876669/](https://pixabay.com/de/illustrations/mitose-meiose-zelle-zellteilung-3876669/ "https://pixabay.com/de/illustrations/mitose-meiose-zelle-zellteilung-3876669/")
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
