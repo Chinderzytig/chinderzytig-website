@@ -20,7 +20,7 @@ title = "Dem Krebs die Stirn bieten"
 +++
 _Krebs ist die zweithäufigste Todesursache in der Schweiz. Jeder vierte Todesfall geht auf eine Krebserkrankung zurück. Allerdings: DEN Krebs gibt es eigentlich gar nicht. Krebs ist ein Sammelbegriff für über 100 verschiedene Krankheiten. Und ausgeliefert sind wir dem Krebs auch nicht. Schauen wir uns das mal etwas genauer an._
 
-Krebs ist eine heimtückische Krankheit. Sie kommt oft schleichend, nimmt irgendwo im Körper ihren Anfang und verbreitet sich dann oder wächst leise vor sich hin. Es passiert deshalb immer wieder, dass eine Krebserkrankung zu spät entdeckt wird und eine Heilung nicht mehr möglich ist. Das muss nicht sein. Bis zu einem Drittel der Krebserkrankungen könnte schon nur durch Veränderungen der Lebensweise und Früherkennung verhindert werden. Um darauf aufmerksam zu machen und das Thema Krebs in der Öffentlichkeit immer wieder zur Diskussion zu bringen, wurde heute vor 21 Jahren der Weltkrebstag ([https://www.worldcancerday.org/](https://www.worldcancerday.org/ "Weltkrebstag")) ins Leben gerufen.
+Krebs ist eine heimtückische Krankheit. Sie kommt oft schleichend, nimmt irgendwo im Körper ihren Anfang und verbreitet sich dann oder wächst leise vor sich hin. Es passiert deshalb immer wieder, dass eine Krebserkrankung zu spät entdeckt wird und eine Heilung nicht mehr möglich ist. Das muss nicht sein. Bis zu einem Drittel der Krebserkrankungen könnte schon nur durch Veränderungen der Lebensweise und Früherkennung verhindert werden. Um darauf aufmerksam zu machen und das Thema Krebs in der Öffentlichkeit immer wieder zur Diskussion zu bringen, wurde heute vor 21 Jahren der [Weltkrebstag](20210204_Weltkrebstag_AM.docx_cplzm1 "Weltkrebstag") ins Leben gerufen.
 
 ### Krebs ist nicht gleich Krebs
 
