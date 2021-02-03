@@ -4,7 +4,7 @@ artikel = true
 author = "Rebekka Christen"
 cc_licence = ""
 cc_src = ""
-date = 2021-02-03T07:00:00Z
+date = 2021-02-03T05:00:00Z
 description = "Seit 50 Jahre dürfen die Frauen wählen. Die Chinderzytig berichtet über diesen Kampf zum Stimm- und Wahlrecht der Frauen. "
 fdw = true
 hero_img = "/v1612333076/Simm-_und_Wahlrecht_Frauen_Media_cur734.jpg"
@@ -21,12 +21,6 @@ title = "Fünfzig Jahre Frauenstimmrecht "
 _Vor fünf Jahrzehnten sagten die stimmberechtigten Schweizer Männer «Ja» zum nationalen Wahl- und Stimmrecht für Frauen. Welcher Kampf ging dieser Abstimmung voraus? Und konnte dadurch Gleichstellung erreicht werden?_
 
 In der Schweiz finden regelmässig Wahlen und Abstimmungen statt. Daran dürfen alle Schweizerinnen und Schweizer teilnehmen, die mindestens 18 Jahre alt sind und nicht wegen grundsätzlicher {{< fremdwort id="Urteilsunfähigkeit" wort="Urteilsunfähigkeit" >}} als handlungsunfähig gelten. Das ist doch klar, oder? Ja, aber erst seit 50 Jahren. Denn bis dahin war es fast undenkbar, dass sich auch Frauen in die Schweizer Politik einbringen. Erst am 7. Februar 1971 sagten die Schweizer Männer im Rahmen einer landesweiten Abstimmung «Ja» zum nationalen Stimm- und Wahlrecht für ihre Mütter, Schwestern, Ehefrauen und Töchter. Im Kanton Appenzell-Innerrhoden mussten die Frauen sogar bis 1990 warten.
-
-{{< definition id="Urteilsunfähigkeit" wort="Urteilsunfähigkeit" def="In der Schweiz muss eine Person handlungsfähig sein, um politische Rechte zu haben. Politische Rechte erlauben den Bürgerinnen und Bürgern, in der Politik Einfluss zu nehmen. Ein Beispiel dafür ist das Wahlrecht.
-
-Handlungsfähig ist eine Person, wenn sie mindestens 18 Jahre alt und urteilsfähig ist. Urteilsfähig sein bedeutet, dass jemand den Sinn und Zweck einer Handlung erkennt. Er oder sie begreift, dass das Verhalten Folgen haben kann und handelt daher entsprechend.
-
-Wer ist also nicht urteilsfähig? Das Gesetzt sagt, dass Kinder aufgrund ihres Alters Dinge oft noch nicht gut abschätzen können. Zudem gelten Personen, die aufgrund einer geistigen Behinderung, einer psychischen Störung, wegen Drogeneinfluss oder einem ähnlichen Zustand nicht vernünftig handeln können, als urteilsunfähig [(Artikel 16 des schweizerischen Zivilgesetzbuches (ZGB)).](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_d) Es kann also sein, dass eine Person zwar über 18 Jahre alt ist, aber eine geistige Beeinträchtigung hat, die es ihr nicht erlaubt, den Sinn und Zweck einer Handlung zu erkennen. Dann gilt sie als grundsätzlich urteilsunfähig und damit auch als handlungsunfähig. Dadurch kann sie keine politischen Rechte ausüben.">}}
 
 ### Kampf für eine politische Stimme
 
@@ -45,3 +39,9 @@ Dem über hundert Jahre andauernden Kampf mutiger Frauen haben wir es zu verdank
 Was denkst du: Wieso wurde das Wahl- und Stimmrecht für Frauen in der Schweiz so spät eingeführt? Kennst du Länder, in denen Frauen noch immer kein politisches Mitspracherecht haben? Was müsste geschehen, damit Männer und Frauen in der Schweiz sowie weltweit gleichberechtigt sind?
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+
+{{< definition id="Urteilsunfähigkeit" wort="Urteilsunfähigkeit" def="In der Schweiz muss eine Person handlungsfähig sein, um politische Rechte zu haben. Politische Rechte erlauben den Bürgerinnen und Bürgern, in der Politik Einfluss zu nehmen. Ein Beispiel dafür ist das Wahlrecht.
+
+Handlungsfähig ist eine Person, wenn sie mindestens 18 Jahre alt und urteilsfähig ist. Urteilsfähig sein bedeutet, dass jemand den Sinn und Zweck einer Handlung erkennt. Er oder sie begreift, dass das Verhalten Folgen haben kann und handelt daher entsprechend.
+
+Wer ist also nicht urteilsfähig? Das Gesetzt sagt, dass Kinder aufgrund ihres Alters Dinge oft noch nicht gut abschätzen können. Zudem gelten Personen, die aufgrund einer geistigen Behinderung, einer psychischen Störung, wegen Drogeneinfluss oder einem ähnlichen Zustand nicht vernünftig handeln können, als urteilsunfähig [(Artikel 16 des schweizerischen Zivilgesetzbuches (ZGB)).](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_d) Es kann also sein, dass eine Person zwar über 18 Jahre alt ist, aber eine geistige Beeinträchtigung hat, die es ihr nicht erlaubt, den Sinn und Zweck einer Handlung zu erkennen. Dann gilt sie als grundsätzlich urteilsunfähig und damit auch als handlungsunfähig. Dadurch kann sie keine politischen Rechte ausüben.">}}
