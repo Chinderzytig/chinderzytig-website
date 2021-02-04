@@ -106,3 +106,7 @@ companies:
   logo:
     - img: "schule-kh_bzefc6.png"
       desc: Schule Kirchlindach Herrenschwanden logo
+- website: "https://wikimediafoundation.org/"
+  logo:
+    - img: "wikimedia-foundation_s3dcjo.png"
+      desc: Wikimedia Foundation logo
