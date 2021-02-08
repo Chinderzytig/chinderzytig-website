@@ -15,7 +15,7 @@ kategorien = ["Welt", "Weltraum/Universium"]
 markierungen = ["Kultur", "Gesellschaft"]
 paid = false
 slug = ""
-title = "Die Macht der Sterne und ihren Einfluss auf unsere Charakteren"
+title = "Die Macht der Sterne und ihr Einfluss auf unseren Charakter"
 
 +++
 _Alle kennen ihr Sternzeichen und die meisten kennen ihren Aszendenten.  
