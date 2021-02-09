@@ -1,15 +1,15 @@
 <div class="impfstoffe">
 	<div class="impfstoffe__main">
 		<ul class="impfstoffe__stats">
-			<li class="impfstoffe__item">Total gelieferte Dosen:<span class="impfstoffe__num">696 700</span></li>
-			<li class="impfstoffe__item">Total verabreichte Dosen:<span class="impfstoffe__num">413 698</span></li>
-			<li class="impfstoffe__item">Einfach geimpfte Personen:<span class="impfstoffe__num">4,79%</span></li>
+			<li class="impfstoffe__item">Total gelieferte Dosen:<span class="impfstoffe__num">{{ .Get "gelieferte" }}</span></li>
+			<li class="impfstoffe__item">Total verabreichte Dosen:<span class="impfstoffe__num">{{ .Get "verabreichte" }}</span></li>
+			<li class="impfstoffe__item">Einfach geimpfte Personen:<span class="impfstoffe__num">{{ .Get "geimpfte" }}</span></li>
 		</ul>
 		<svg viewBox="0 0 581 373" xmlns="http://www.w3.org/2000/svg">
 			<defs>
 				<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-					<stop offset="4.79%" style="stop-color:rgb(218,41,28);stop-opacity:1" />
-					<stop offset="4.80%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+					<stop offset="{{ .Get `offleft` }}" style="stop-color:rgb(218,41,28);stop-opacity:1" />
+					<stop offset="{{ .Get `offright` }}" style="stop-color:rgb(255,255,255);stop-opacity:1" />
 				</linearGradient>
 			</defs>
 	    <g transform="matrix(1,0,0,1,-21.5,-46.5)">
