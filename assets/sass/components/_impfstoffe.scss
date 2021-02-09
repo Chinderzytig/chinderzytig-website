@@ -5,6 +5,31 @@
 		display: flex;
 		justify-content: space-around;
 		align-items: center;
+
+		@include respond(tab-port-sm) { flex-direction: column-reverse; }
+	}
+
+	&__stats {
+
+		@include respond(tab-port-sm) {
+			margin-top: 3rem;
+			display: flex;
+			justify-content: space-around;
+			flex-wrap: wrap;
+		}
+	}
+
+	&__item {
+
+		@include respond(tab-port-sm) {
+
+			&:not(:last-child) { margin-right: 3rem; }
+		}
+
+		@include respond(phone-lg) {
+
+			&:not(:last-child) { margin-right: 0; }
+		}
 	}
 
 	&__num {
@@ -15,5 +40,17 @@
 	&__source {
 		font-size: 1.3rem;
 		margin-left: 7rem;
+
+		@include respond(tab-port-sm) { margin-left: 0; }
+	}
+}
+
+.impfstoffe svg {
+	height: 50%;
+	width: 50%;
+
+	@include respond(phone-xxl) {
+		height: 100%;
+		width: 100%;
 	}
 }
