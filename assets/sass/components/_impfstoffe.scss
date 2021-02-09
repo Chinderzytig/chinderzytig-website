@@ -1,0 +1,19 @@
+.impfstoffe {
+	margin: 3rem 0;
+
+	&__main {
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+	}
+
+	&__num {
+		font-weight: 700;
+		margin-left: 1rem;
+	}
+
+	&__source {
+		font-size: 1.3rem;
+		margin-left: 7rem;
+	}
+}
