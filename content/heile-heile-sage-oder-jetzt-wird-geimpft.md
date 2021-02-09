@@ -6,6 +6,7 @@ cc_licence = ""
 cc_src = ""
 date = 2021-02-10T05:00:00Z
 description = "Das weltweite Impfen gegen das Coronavirsu hat begonnen. Die Chinderzytig erläutert diesbezüglich einige wichtige Punkte. "
+draft = true
 fdw = true
 hero_img = "/v1612866869/Impfung_Media_k06m94.jpg"
 img_description = "Ein Arzt zeigt eine Impfspritze"
