@@ -25,7 +25,9 @@ _Heile, heile säge, drü Tag Räge, drü Tag Schnee - u scho muesch d´Sprütze
 Ihr seid vielleicht auch geimpft. Wisst ihr, wie eine Impfung funktioniert? Eigentlich ganz einfach: man spritzt dem gesunden Menschen auf eine Art die Krankheit, vor der der Mensch geschützt werden soll. Der Körper produziert Antikörper, die gegen die Viren kämpfen (was wir nicht merken). So soll es auch mit dem Corona-Virus gehen. Viele Menschen und Regierungen gehen davon aus, dass die Impfung der einzige Weg zurück zur Normalität sei. Es gibt dabei drei unterschiedliche Varianten: Lebendimpfstoff, Totimpfstoff und der mRNA-Impfstoff. Doch, was ist was?
 
 \- Lebendimpfstoff: Ein kleiner Teil von lebendigen, schwachen Krankheitserregern wird dem Körper gespritzt. Er beginnt sich sofort dagegen zu wehren und entwickelt Antikörper. Der Lebendimpfstoff wird zum Beispiel oft auch bei Masern, Mumps oder Röteln verwendet.  
+  
 \- Totimpfstoff: Hier werden bereits tote Krankheitserreger zugefügt. Nun entstehen keine Krankheitssymptome im Körper, der Körper produziert dennoch Antikörper, weil er die “Gegner” erkennt.  
+  
 \- mRNA-Impfstoff: Das ist etwas spezieller. Viren sind keine eigenständigen Lebewesen und brauchen immer einen so genannten Wirten, zum Beispiel einen Menschen, um sich zu vermehren. RNA steht für den Bauplan des Virus. Bei der mRNA-Impfung wird der Bauplan des Virus kopiert und in den Körper gespritzt. Es kommen also keine echten Viren rein sondern nur der Bauplan. Für unseren Körper reicht das und er beginnt mit der Produktion von Antikörpern.
 
 ### Verschiedene Hersteller
