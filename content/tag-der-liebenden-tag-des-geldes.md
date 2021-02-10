@@ -21,8 +21,7 @@ title = "Tag der Liebenden, Tag des Geldes? "
 _Der 14. Februar kommt jedes Jahr mit roten Herzen, Rosen, Schokolade und viel Liebe daher. Aber was genau steckt eigentlich hinter dem Valentinstag?_
 
 Der Valentinstag wird auf der ganzen Welt als Tag für die Liebenden angepriesen. Schon Wochen vorher sieht man die roten Herzen und Blumen auf Werbeplakaten, im Fernseher und auf allen möglichen Broschüren, Heftchen oder Zeitungen.  
-Heutzutage wird dieser Tag, der 14. Februar, wie viele andere Feiertage, immer häufiger über Geld definiert. Wie viel geben die Leute für Geschenke oder Blumen aus? Womit wollen sie ihrem Partner oder ihrer Partnerin eine Freude machen?
-
+Heutzutage wird dieser Tag, der 14. Februar, wie viele andere Feiertage, immer häufiger über Geld definiert. Wie viel geben die Leute für Geschenke oder Blumen aus? Womit wollen sie ihrem Partner oder ihrer Partnerin eine Freude machen?  
 Die Bedeutung und der Ursprung des Valentintags hingegen, sind im Laufe der Zeit etwas verloren gegangen.
 
 ### Liebe trotz Verbot
