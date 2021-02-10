@@ -32,7 +32,7 @@ Der Krebsgeborene ist gefühlsbetont und setzt sich für die Familie ein. Er ist
 
 ### Einfluss diverser Kulturen
 
-Ich denke, es ist wichtig zu wissen, dass es auch immer drauf ankommt, wo jemand geboren ist. Es ist nicht dasselbe, ob jemand in der Schweiz, in Japan oder in Amerika geboren wurde. Unser eigenes Umfeld, die Eltern und Geschwister prägen uns. Die unterschiedlichen Kulturen beeinflussen einen Menschen, deshalb ist es wesentlich, nicht nur die Astrologie allein zu betrachten.  
+Ich denke, es ist wichtig zu wissen, dass es auch immer darauf ankommt, wo jemand geboren ist. Es ist nicht dasselbe, ob jemand in der Schweiz, in Japan oder in Amerika geboren wurde. Unser eigenes Umfeld, die Eltern und Geschwister prägen uns. Die unterschiedlichen Kulturen beeinflussen einen Menschen, deshalb ist es wesentlich, nicht nur die Astrologie allein zu betrachten.  
 Und was mir wichtig ist – man kann Menschen nicht einfach auf ihr Sternzeichen festlegen, sonst wären alle Zwillinge, Skorpione, Wassermänner gleich – und das ist nicht so, oder?
 
 {{< teiler >}}
