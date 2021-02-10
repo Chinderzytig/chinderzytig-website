@@ -1,6 +1,10 @@
 .impfstoffe {
 	margin: 3rem 0;
 
+	&__intro-text {
+		text-align: justify;
+	}
+
 	&__main {
 		display: flex;
 		justify-content: space-around;
@@ -9,7 +13,11 @@
 		@include respond(tab-port-sm) { flex-direction: column-reverse; }
 	}
 
-	&__stats {
+	&__stats,
+	&__stats-sc {
+		background-color: $chinder-cultured;
+		list-style: none;
+		padding: 3rem;
 
 		@include respond(tab-port-sm) {
 			margin-top: 3rem;
@@ -19,8 +27,11 @@
 		}
 	}
 
+	&__stats-sc { padding-bottom: 0; }
+
 	&__item {
-		margin-bottom: 3rem;
+
+		&:not(:last-child) { margin-bottom: 3rem; }
 
 		@include respond(tab-port-sm) {
 
@@ -40,9 +51,12 @@
 
 	&__source {
 		font-size: 1.3rem;
-		margin-left: 5rem;
+		margin-left: 2rem;
 
-		@include respond(tab-port-sm) { margin-left: 0; }
+		@include respond(tab-port-sm) {
+			margin-left: 0;
+			margin-top: 2rem;
+		}
 	}
 }
 
