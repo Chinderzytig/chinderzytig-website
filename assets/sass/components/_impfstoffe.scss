@@ -40,7 +40,7 @@
 
 	&__source {
 		font-size: 1.3rem;
-		margin-left: 7rem;
+		margin-left: 5rem;
 
 		@include respond(tab-port-sm) { margin-left: 0; }
 	}
