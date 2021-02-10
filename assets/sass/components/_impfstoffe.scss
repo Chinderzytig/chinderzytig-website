@@ -20,6 +20,7 @@
 	}
 
 	&__item {
+		margin-bottom: 3rem;
 
 		@include respond(tab-port-sm) {
 
