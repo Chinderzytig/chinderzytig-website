@@ -3,7 +3,8 @@
 
 	&__intro-text { text-align: justify; }
 
-	&__article-link {
+	&__article-link,
+	&__link {
 
 		&:link,
 		&:visited { color: $chinder-verdigris; }
