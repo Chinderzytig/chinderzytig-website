@@ -1,51 +1,39 @@
 .map__svg {
 
-	&--north-america {
-		fill: $map-citron;
+	&--north-america { fill: $map-citron; }
 
-		&:hover,
-		&:active { fill: $map-moss-green; }
-	}
+	&--south-america { fill: $map-maroon; }
 
-	&--south-america {
-		fill: $map-maroon;
+	&--europe { fill: $map-blue; }
 
-		&:hover,
-		&:active { fill: $map-tyrian; }
-	}
+	&--asia { fill: $map-minion; }
 
-	&--europe {
-		fill: $map-blue;
+	&--oceania { fill: $chinder-verdigris; }
 
-		&:hover,
-		&:active { fill: $map-indigo-dye; }
-	}
+	&--africa { fill: $chinder-orange; }
 
-	&--asia {
-		fill: $map-minion;
+	&--antarctica { fill: $chinder-platinum; }
 
-		&:hover,
-		&:active { fill: $map-old-gold; }
-	}
-
-	&--australia {
-		fill: $chinder-verdigris;
-
-		&:hover,
-		&:active { fill: $chinder-celadon; }
-	}
-
-	&--africa {
-		fill: $chinder-orange;
-
-		&:hover,
-		&:active { fill: $chinder-chestnut; }
-	}
-
+	&--north-america,
+	&--south-america,
+	&--europe,
+	&--asia,
+	&--oceania,
+	&--africa,
 	&--antarctica {
-		fill: $chinder-platinum;
 
 		&:hover,
-		&:active { fill: $map-light-grey; }
+		&:active {
+			opacity: .6;
+
+			text { display: block; }
+		}
+	}
+
+	text {
+		display: none;
+		fill: $color-black;
+		font-size: 4rem;
+		font-family: $font-patrick, $font-fallback;
 	}
 }
