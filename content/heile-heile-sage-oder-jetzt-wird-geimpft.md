@@ -24,9 +24,9 @@ _Heile, heile säge, drü Tag Räge, drü Tag Schnee - u scho muesch d´Sprütze
 
 Ihr seid vielleicht auch geimpft. Wisst ihr, wie eine Impfung funktioniert? Eigentlich ganz einfach: man spritzt dem gesunden Menschen auf eine Art die Krankheit, vor der der Mensch geschützt werden soll. Der Körper produziert Antikörper, die gegen die Viren kämpfen (was wir nicht merken). So soll es auch mit dem Corona-Virus gehen. Viele Menschen und Regierungen gehen davon aus, dass die Impfung der einzige Weg zurück zur Normalität sei. Es gibt dabei drei unterschiedliche Varianten: Lebendimpfstoff, Totimpfstoff und der mRNA-Impfstoff. Doch, was ist was?
 
-\- Lebendimpfstoff: Ein kleiner Teil von lebendigen, schwachen Krankheitserregern wird dem Körper gespritzt. Er beginnt sich sofort dagegen zu wehren und entwickelt Antikörper. Der Lebendimpfstoff wird zum Beispiel oft auch bei Masern, Mumps oder Röteln verwendet.  
+\- Lebendimpfstoff: Ein kleiner Teil von lebendigen, schwachen Krankheitserregern wird dem Körper gespritzt. Er beginnt sich sofort dagegen zu wehren und entwickelt Antikörper. Der Lebendimpfstoff wird zum Beispiel oft auch bei Masern, Mumps oder Röteln verwendet.
 
-\- Totimpfstoff: Hier werden bereits tote Krankheitserreger zugefügt. Nun entstehen keine Krankheitssymptome im Körper, der Körper produziert dennoch Antikörper, weil er die “Gegner” erkennt.  
+\- Totimpfstoff: Hier werden bereits tote Krankheitserreger zugefügt. Nun entstehen keine Krankheitssymptome im Körper, der Körper produziert dennoch Antikörper, weil er die “Gegner” erkennt.
 
 \- mRNA-Impfstoff: Das ist etwas spezieller. Viren sind keine eigenständigen Lebewesen und brauchen immer einen so genannten Wirten, zum Beispiel einen Menschen, um sich zu vermehren. RNA steht für den Bauplan des Virus. Bei der mRNA-Impfung wird der Bauplan des Virus kopiert und in den Körper gespritzt. Es kommen also keine echten Viren rein sondern nur der Bauplan. Für unseren Körper reicht das und er beginnt mit der Produktion von Antikörpern.
 
@@ -40,7 +40,7 @@ Wie so oft sind sich Menschen in grossen, einschneidenden Themen, die viel Geld 
 
 Wir überlassen euch eure Meinung dazu selber. Bevor ihr diskutiert, lest noch mehr im Internet und macht euch schlau: [www.infoeasy-news.ch](http://www.infoeasy-news.ch), [www.planet-wissen.de](http://www.planet-wissen.de), oder auch [Swissmedic](https://vimeo.com/491313737) helfen dir weiter. Wie weit die Schweiz im Impfplan ist, zeigen wir euch nun mit der regelmässig aktualisierten Schweizerkarte; damit ihr im Bild seid!
 
-{{< impfstoffe gelieferte="696 700" verabreichte="413 698" geimpfte="4,79%" offleft="4.79%" offright="4.80%" >}}
+{{< impfstoffe gelieferte="782 275" verabreichte="482 423" geimpfte="5,58%" offleft="5.58%" offright="5.59%" >}}
 
 ### Nun bist du dran
 
