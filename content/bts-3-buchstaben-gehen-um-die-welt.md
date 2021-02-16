@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-02-16T17:00:00Z
 description = "Eine koreanische Band sprengt alle Rekorde. Die Chinderzytig deckt auf, wer hinter dieser erfolgreichen Musikgruppe steckt."
-draft = true
 fdw = false
 hero_img = "/v1613453933/BTS_Media_jdfa1h.jpg"
 img_description = "Das Bild zeigt Menschen bei einem Musikkonzert"
