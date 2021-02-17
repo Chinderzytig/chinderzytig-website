@@ -10,8 +10,8 @@ draft = true
 fdw = true
 hero_img = "/v1613540635/Media_E-ID_zgj9r0.jpg"
 img_description = "Ein junger Mann schaut sich Videos im Internet an"
-img_photographer = "Priscilla Du Preez"
-img_src = "https://unsplash.com/photos/OEdkPaxYMXU"
+img_photographer = "Aaron Weiss"
+img_src = "https://unsplash.com/photos/_x6XZ_jp0g8"
 kategorien = []
 markierungen = []
 paid = false
@@ -19,7 +19,7 @@ slug = ""
 title = "Nicht nachmachen"
 
 +++
-_Das Internet ist voll davon: Challenges. Videos, die uns Zuschauenden dazu bringen sollen, ähnliches nachzumachen. Es gibt harmlose Challenges wie zum Beispiel das Nachtanzen von “Jerusalema”. Andere, ein wenig, höflich gesagt, doofere Challenges können gut auch zu Problemen führen. Und wir raten: Kinder, nicht zu Hause nachmachen._
+_Das Internet ist voll davon: Challenges, Videos, die uns Zuschauenden dazu bringen sollen, ähnliches nachzumachen. Es gibt harmlose Challenges wie zum Beispiel das Nachtanzen von “Jerusalema”. Andere, ein wenig, höflich gesagt, doofere Challenges können gut auch zu Problemen führen. Und wir raten: Kinder, nicht zu Hause nachmachen._
 
 ### Ja, Leim ist klebrig
 
