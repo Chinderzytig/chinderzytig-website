@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-02-17T05:00:00Z
 description = "Die Chinderzytig zeigt im Fokus der Woche die Sicht der Gegner der E-ID Initivative"
-draft = true
 fdw = true
 hero_img = "/v1613540635/Media_E-ID_zgj9r0.jpg"
 img_description = "Ein junger Mann sitzt an seinem Computer "
