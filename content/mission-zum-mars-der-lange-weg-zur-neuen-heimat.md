@@ -19,7 +19,7 @@ slug = ""
 title = "Mission zum Mars – Der lange Weg zur neuen Heimat? "
 
 +++
-_In den letzten Jahren haben Weltraummissionen und das öffentliche Interesse zum Thema stark zugenommen. Der Rummel um das Weltall ist so gross wie seit Jahrzehnten nicht mehr. Allein diesen Monat sollen gleich drei Weltraumsonden den roten Planeten erreichen. Mit an Bord einer dieser Sonden ist der von der NASA gesendete Mars-Rover „Perseverence“. Dieser soll nun erstmals den Weg zurück zur Erde finden und wichtige Erkenntnisse mit sich bringen. Was aber sind eigentlich Weltraumsonden und Rover?_
+_In den letzten Jahren haben Weltraummissionen und das öffentliche Interesse zum Thema stark zugenommen. Der Rummel um das Weltall ist so gross wie seit Jahrzehnten nicht mehr. Allein diesen Monat sollen gleich drei Weltraumsonden den_ {{< fremdwort id="roten Planeten" wort="roten Planeten" >}} _erreichen. Mit an Bord einer dieser Sonden ist der von der NASA gesendete Mars-Rover „Perseverence“. Dieser soll nun erstmals den Weg zurück zur Erde finden und wichtige Erkenntnisse mit sich bringen. Was aber sind eigentlich Weltraumsonden und Rover?_
 
 Rover sind meistens ferngesteuerte Landfahrzeuge mit der Aufgabe fremde Himmelskörper zu untersuchen. Weltraumsonden sind unbemannte Raumflugobjekte, welche an einem fremden Himmelskörper vorbeifliegen oder auf diesem landen. Das Landen auf einem fremden Himmelskörper, wie zum Beispiel dem Mars, ist aber gar nicht so einfach.
 
@@ -32,6 +32,8 @@ Auf einem anderen Planeten zu landen ist schwierig, sehr schwierig. Es kostet vi
 Die „Perseverence“ wurde vor knapp sieben Monaten von der NASA auf ihre Reise geschickt. Heute zwischen 21 und 22 Uhr soll sie endlich 450 Millionen Kilometer entfernt auf dem Mars landen und als erster Rover überhaupt in einer Folgemission zurückgeholt werden. Das ist aber nicht das einzig Besondere an der „Perseverence“. Denn die „Perseverance“ hat ein Mikrofon an Bord, welches uns ermöglicht Tonaufnahmen vom Mars zu hören. Dies ist besonders spannend, da die Unterschiede in der Marsatmosphäre zur Erde für komplett andere Klänge sorgen, als wir sie hier kennen. Zudem sind auch zwei neue und interessante Technologien im Gepäck. Zum einen ein Gerät, welches aus Kohlendioxid Sauerstoff herstellen soll. Es bleibt abzuwarten, wie effektiv die Technologie auf dem Mars eingesetzt werden kann, was einen grossen Schritt in Richtung Leben auf dem Mars bedeuten würde. Zum anderen ist ein Fluggerät mit an Bord der „Perseverance“, welches selbst in der dünnen Atmosphäre des Mars fliegen können soll und uns somit eine ganz neue Sicht auf den Planeten eröffnen würde.
 
 Der wirkliche Effekt dieser Mission und der eingesetzten Technologien steht noch in den Sternen. Jedoch wäre eine erfolgreiche Landung heute Abend ein bedeutender Schritt in Richtung einer neuen Heimat.
+
+{{< definition id="roten Planeten" wort="roten Planeten" def="Der rote Planet ist eine Bezeichnung für den Mars. Diese Bezeichnung bezieht sich auf die rote Oberflächenfarbe des Planeten" >}}
 
 {{< teiler >}}
 
