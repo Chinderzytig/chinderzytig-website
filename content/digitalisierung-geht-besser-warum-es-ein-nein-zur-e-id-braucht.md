@@ -15,7 +15,7 @@ kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "Nicht nachmachen"
+title = "Nicht nachmachen!"
 
 +++
 _Das Internet ist voll davon: Challenges, Videos, die uns Zuschauenden dazu bringen sollen, ähnliches nachzumachen. Es gibt harmlose Challenges wie zum Beispiel das Nachtanzen von “Jerusalema”. Andere, ein wenig, höflich gesagt, doofere Challenges können gut auch zu Problemen führen. Und wir raten: Kinder, nicht zu Hause nachmachen._
