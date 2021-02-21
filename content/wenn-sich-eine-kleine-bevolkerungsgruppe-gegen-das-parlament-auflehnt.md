@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210223_Neuseeland_AM_yq9rlz"
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -34,3 +34,9 @@ Doch auch kleine Bevölkerungsgruppen können im Parlament etwas bewirken. Dies 
 Dieser Entscheid löste eine grosse Diskussion auf den Social Media Kanälen unter dem #no2tie aus. Wir sind gespannt, wie es in Neuseeland weitergeht und halten euch auf dem Laufenden.
 
 {{< definition id="indigene Völker" wort="indigene Völker" def="Als indigene Völker gelten die Eingebornen eines Landes, die Menschen, welche als erstes ein Land besiedelten. Während es z.B. in Amerika die Indianer, Eskimos und weitere sind, sind es in Neuseeland die Maoris." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
