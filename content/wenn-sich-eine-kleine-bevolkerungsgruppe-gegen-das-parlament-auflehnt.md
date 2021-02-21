@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-02-23T05:00:00Z
 description = "Die Ureinwohner von Neuseeland und Ihre eigene politische Partei. "
-draft = true
 fdw = false
 hero_img = "/v1613935601/New_Zealand_Media_zn5bdo.jpg"
 img_description = "Das Bild zeigt eine Naturalandschaft von Neuseeland"
