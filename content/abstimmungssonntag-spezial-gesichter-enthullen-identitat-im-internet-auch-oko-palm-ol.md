@@ -168,10 +168,10 @@ Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Komment
 
 {{< definition id="Burkas" wort="Burkas" def="Burka ist ein Umhang, der den ganzen Körper verhüllt. Die Augen sind durch ein Netz bedeckt." >}}
 
-{{< definition id="Gegenvorschlag" wort="Gegenvorschlag" def="_Der indirekte Gegenvorschlag: Das Parlament hat ein Gesetz erlassen, das automatisch in Kraft tritt, wenn die Initiative abgelehnt wird: Danach müssten alle Personen den Behörden bei Bedarf ihr Gesicht zu Identifizierungszwecken zeigen._" >}}
+{{< definition id="Gegenvorschlag" wort="Gegenvorschlag" def="Der indirekte Gegenvorschlag: Das Parlament hat ein Gesetz erlassen, das automatisch in Kraft tritt, wenn die Initiative abgelehnt wird: Danach müssten alle Personen den Behörden bei Bedarf ihr Gesicht zu Identifizierungszwecken zeigen." >}}
 
-{{< definition id="Referendum" wort="Referendum" def="_(fakultatives) Referendum: Unterschriftensammlung, damit man über ein Gesetz abstimmen kann, das das Parlament einführen will._" >}}
+{{< definition id="Referendum" wort="Referendum" def="(fakultatives) Referendum: Unterschriftensammlung, damit man über ein Gesetz abstimmen kann, das das Parlament einführen will." >}}
 
-{{< definition id="_E-ID-Anbieterin_" wort="_E-ID-Anbieterin_" def="_Sowohl Gemeinden, Kantone wie private Unternehmen können E-ID-AnbieterInnen werden. Dazu müssen sie sich vom Bund anerkennen und laufend kontrollieren lassen. Die beiden Anbieter, welche sich zurzeit zertifizieren lassen wollen, sind ein Konsortium aus staatsnahen Betrieben, Versicherungen, Banken und Krankenkassen namens SwissSign sowie der Kanton Schaffhausen, der bereits eine el-D+ für seine BürgerInnen geschaffen hat._" >}}
+{{< definition id="E-ID-Anbieterin" wort="E-ID-Anbieterin" def="Sowohl Gemeinden, Kantone wie private Unternehmen können E-ID-AnbieterInnen werden. Dazu müssen sie sich vom Bund anerkennen und laufend kontrollieren lassen. Die beiden Anbieter, welche sich zurzeit zertifizieren lassen wollen, sind ein Konsortium aus staatsnahen Betrieben, Versicherungen, Banken und Krankenkassen namens SwissSign sowie der Kanton Schaffhausen, der bereits eine el-D+ für seine BürgerInnen geschaffen hat." >}}
 
-{{< definition id="Palmöl" wort="Palmöl" def="_Weltweit wird mehr Öl aus Ölpalmen konsumiert als aus allen andern Öl-Arten wie Sonnenblumen- oder Rapsöl. Auch du konsumierst Palmöl: in Margarine, Süssgebäck etc.; selbst in Waschmitteln hat es Palmöl._" >}}
+{{< definition id="Palmöl" wort="Palmöl" def="Weltweit wird mehr Öl aus Ölpalmen konsumiert als aus allen andern Öl-Arten wie Sonnenblumen- oder Rapsöl. Auch du konsumierst Palmöl: in Margarine, Süssgebäck etc.; selbst in Waschmitteln hat es Palmöl." >}}
