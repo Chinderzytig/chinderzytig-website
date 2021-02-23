@@ -158,3 +158,5 @@ Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Komment
 {{< definition id="Referendum" wort="Referendum" def="_(fakultatives) Referendum: Unterschriftensammlung, damit man über ein Gesetz abstimmen kann, das das Parlament einführen will._" >}}
 
 {{< definition id="_E-ID-Anbieterin_" wort="_E-ID-Anbieterin_" def="_Sowohl Gemeinden, Kantone wie private Unternehmen können E-ID-AnbieterInnen werden. Dazu müssen sie sich vom Bund anerkennen und laufend kontrollieren lassen. Die beiden Anbieter, welche sich zurzeit zertifizieren lassen wollen, sind ein Konsortium aus staatsnahen Betrieben, Versicherungen, Banken und Krankenkassen namens_ [_SwissSign_](https://www.swisssign.com/)_, sowie der Kanton Schaffhausen, der bereits eine «_[_el-D+_](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Services/Schaffhauser-eID--2077281-DE.html)_» für seine BürgerInnen geschaffen hat._" >}}
+
+{{< definition id="Palmöl" wort="Palmöl" def="_Weltweit wird mehr Öl aus Ölpalmen konsumiert als aus allen andern Öl-Arten wie Sonnenblumen- oder Rapsöl. Auch du konsumierst Palmöl: in Margarine, Süssgebäck etc.; selbst in Waschmitteln hat es Palmöl._" >}}
