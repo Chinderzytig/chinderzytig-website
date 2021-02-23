@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-02-24T05:00:00Z
 description = "Die Chinderzytig spricht über die drei Abstimmungen, welche am 7. März in der Schweiz gemacht werden. "
-draft = true
 fdw = true
 hero_img = "/v1614107849/Media_FdW_24.02.21_sqkcoc.jpg"
 img_description = "Das Bild zeit eine muslimische Frau mit Burka."
