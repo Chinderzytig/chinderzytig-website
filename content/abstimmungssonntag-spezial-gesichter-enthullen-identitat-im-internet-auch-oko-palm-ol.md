@@ -31,17 +31,17 @@ _Am 7. März 2021 können die Schweizer Stimmberechtigten über drei Vorlagen ab
 
 Die Schweiz kennt bis jetzt keine nationalen Kleidervorschriften. Das „Egerkinger Komitee“ schlägt nun mit einer Initiative ein Verhüllungsverbot für den öffentlichen Raum vor.
 
-Gezielt wird auf _Niqabs* und Burkas*_ von Muslimas (Einheimische wie Touristinnen) sowie auf Verhüllungen in Sportstadien (Hooligans). Vom Verbot ausgenommen wären Gotteshäuser. Weitere Ausnahmen gelten aus Gründen der Sicherheit, Gesundheit (Corona-Maske...), klimatischen Bedingungen und einheimischen Brauchtums.
+Gezielt wird auf {{< fremdwort id="Nigabs" wort="Nigabs" >}} _und_ {{< fremdwort id="Burkas" wort="Burkas" >}} von Muslimas (Einheimische wie Touristinnen) sowie auf Verhüllungen in Sportstadien (Hooligans). Vom Verbot ausgenommen wären Gotteshäuser. Weitere Ausnahmen gelten aus Gründen der Sicherheit, Gesundheit (Corona-Maske...), klimatischen Bedingungen und einheimischen Brauchtums.
 
-### **Argumente für das Verhüllungsverbot:**
+**Argumente für das Verhüllungsverbot**
 
 ● Mit dem Verhüllungsverbot werde ein Zeichen für die Gleichstellung von Mann und Frau gesetzt. Die muslimische Verschleierung sei nämlich eine Unterdrückung der Frau.
 
 ● Gesetzesverbrecher, wie etwa Terroristen, Chaoten oder gewalttätige Demonstrierende, könnten leichter identifiziert werden.
 
-### **Argumente gegen das Verhüllungsverbot:**
+**Argumente gegen das Verhüllungverbot**
 
-● Die Initiative gehe zu weit; der _Gegenvorschlag*_ reiche aus.
+● Die Initiative gehe zu weit; der {{< fremdwort id="Gegenvorschlag" wort="Gegenvorschlag" >}} reiche aus.
 
 ● Zudem würde Frauen durch das Verhüllungsverbot bloss eine weitere Vorschrift auferlegt. Sie sollen selbst entscheiden können, wie viel sie von ihrem Körper zeigen. Verschleierte Frauen würde man aus dem öffentlichen Leben ausschliessen.
 
@@ -67,11 +67,11 @@ Gezielt wird auf _Niqabs* und Burkas*_ von Muslimas (Einheimische wie Touristinn
 
 Bundesrat und Parlament wollen mit einem neuen Gesetz eine elektronische Identität (E-ID) einführen. Sie soll (auch) von privaten Firmen unter Bundesaufsicht herausgegeben werden.
 
-Gegen dieses neue Gesetz wurde das _Referendum*_ ergriffen. Deshalb stimmen wir nun darüber ab.
+Gegen dieses neue Gesetz wurde das {{< fremdwort id="Referendum" wort="Referendum" >}} ergriffen. Deshalb stimmen wir nun darüber ab.
 
 **Was würde sich ändern mit dem neuen Gesetz?**
 
-Wer eine E-ID will, muss bei einer vom Bund anerkannten _E-ID-Anbieterin*_ ihre E-ID beantragen. Die AnbieterInnen leiten den Antrag an den Bund weiter. Der Bund überprüft die Identität der Person und schickt die notwendigen Daten an die E-ID-Anbieterin. Die Person muss der Weitergabe der Daten immer zustimmen. Die E-ID ist freiwillig.
+Wer eine E-ID will, muss bei einer vom Bund anerkannten {{< fremdwort id="_E-ID-Anbieterin_" wort="_E-ID-Anbieterin_" >}} ihre E-ID beantragen. Die AnbieterInnen leiten den Antrag an den Bund weiter. Der Bund überprüft die Identität der Person und schickt die notwendigen Daten an die E-ID-Anbieterin. Die Person muss der Weitergabe der Daten immer zustimmen. Die E-ID ist freiwillig.
 
 **Was bietet die E-ID?**
 
@@ -103,7 +103,7 @@ Die E-ID ist auf einer App oder einer persönlichen Karte gespeichert. Damit kan
 
 Die Schweiz hat (zusammen mit der Europäischen Freihandelsassoziation (EFTA)) erstmals mit Indonesien ein Wirtschaftsabkommen geschlossen:
 
-Die meisten Zölle fallen weg oder werden gesenkt. Dadurch wird der gegenseitige Handel erleichtert. Zudem wurden erstmals ökologische und soziale Regeln für den Abbau von Palmöl erlassen. Die Schweiz importiert nämlich viel _Palmöl*_ aus Indonesien, weshalb bisher viel Regenwald gerodet worden ist.
+Die meisten Zölle fallen weg oder werden gesenkt. Dadurch wird der gegenseitige Handel erleichtert. Zudem wurden erstmals ökologische und soziale Regeln für den Abbau von Palmöl erlassen. Die Schweiz importiert nämlich viel {{< fremdwort id="Palmöl" wort="Palmöl" >}} aus Indonesien, weshalb bisher viel Regenwald gerodet worden ist.
 
 Das Parlament hat dem Abkommen zugestimmt. Ein [Komitee](https://stop-palmoel.ch/) hat aber dagegen das Referendum ergriffen, weil ihm die Schutzbestimmunen zu wenig weit gehen und nicht neutral kontrolliert würden.
 
@@ -148,3 +148,7 @@ Das Parlament hat dem Abkommen zugestimmt. Ein [Komitee](https://stop-palmoel.ch
 ● Was denken deine Freunde und deine Familie darüber? Welche Gefühle kommen auf, welche Diskussionen entstehen?
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+
+{{< definition id="Nigabs" wort="Nigabs" def="_Niqab ist ein Schleier, der das ganze Gesicht verhüllt. Die Augen sind nicht bedeckt._" >}}
+
+{{< definition id="Burkas" wort="Burkas" def="_Burka ist ein Umhang, der den ganzen Körper verhüllt. Die Augen sind durch ein Netz bedeckt._" >}}
