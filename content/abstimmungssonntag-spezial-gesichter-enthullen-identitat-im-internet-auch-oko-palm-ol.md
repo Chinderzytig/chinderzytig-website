@@ -152,3 +152,7 @@ Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Komment
 {{< definition id="Nigabs" wort="Nigabs" def="_Niqab ist ein Schleier, der das ganze Gesicht verhüllt. Die Augen sind nicht bedeckt._" >}}
 
 {{< definition id="Burkas" wort="Burkas" def="_Burka ist ein Umhang, der den ganzen Körper verhüllt. Die Augen sind durch ein Netz bedeckt._" >}}
+
+{{< definition id="Gegenvorschlag" wort="Gegenvorschlag" def="_Der indirekte Gegenvorschlag: Das Parlament hat ein Gesetz erlassen, das automatisch in Kraft tritt, wenn die Initiative abgelehnt wird: Danach müssten alle Personen den Behörden bei Bedarf ihr Gesicht zu Identifizierungszwecken zeigen._" >}}
+
+{{< definition id="Referendum" wort="Referendum" def="_(fakultatives) Referendum: Unterschriftensammlung, damit man über ein Gesetz abstimmen kann, das das Parlament einführen will._" >}}
