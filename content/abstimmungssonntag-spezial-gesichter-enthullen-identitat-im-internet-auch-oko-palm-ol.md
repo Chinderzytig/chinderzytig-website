@@ -31,7 +31,7 @@ _Am 7. März 2021 können die Schweizer Stimmberechtigten über drei Vorlagen ab
 
 Die Schweiz kennt bis jetzt keine nationalen Kleidervorschriften. Das „Egerkinger Komitee“ schlägt nun mit einer Initiative ein Verhüllungsverbot für den öffentlichen Raum vor.
 
-Gezielt wird auf {{< fremdwort id="Nigabs" wort="Nigabs" >}} _und_ {{< fremdwort id="Burkas" wort="Burkas" >}} von Muslimas (Einheimische wie Touristinnen) sowie auf Verhüllungen in Sportstadien (Hooligans). Vom Verbot ausgenommen wären Gotteshäuser. Weitere Ausnahmen gelten aus Gründen der Sicherheit, Gesundheit (Corona-Maske...), klimatischen Bedingungen und einheimischen Brauchtums.
+Gezielt wird auf {{< fremdwort id="Niqabs" wort="Niqabs" >}} _und_ {{< fremdwort id="Burkas" wort="Burkas" >}} von Muslimas (Einheimische wie Touristinnen) sowie auf Verhüllungen in Sportstadien (Hooligans). Vom Verbot ausgenommen wären Gotteshäuser. Weitere Ausnahmen gelten aus Gründen der Sicherheit, Gesundheit (Corona-Maske...), klimatischen Bedingungen und einheimischen Brauchtums.
 
 **Argumente für das Verhüllungsverbot**
 
@@ -149,7 +149,7 @@ Das Parlament hat dem Abkommen zugestimmt. Ein [Komitee](https://stop-palmoel.ch
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
 
-{{< definition id="Nigabs" wort="Nigabs" def="_Niqab ist ein Schleier, der das ganze Gesicht verhüllt. Die Augen sind nicht bedeckt._" >}}
+{{< definition id="Niqabs" wort="Niqabs" def="_Niqab ist ein Schleier, der das ganze Gesicht verhüllt. Die Augen sind nicht bedeckt._" >}}
 
 {{< definition id="Burkas" wort="Burkas" def="_Burka ist ein Umhang, der den ganzen Körper verhüllt. Die Augen sind durch ein Netz bedeckt._" >}}
 
