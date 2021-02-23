@@ -72,7 +72,7 @@ Gegen dieses neue Gesetz wurde das {{< fremdwort id="Referendum" wort="Referendu
 
 **Was würde sich ändern mit dem neuen Gesetz?**
 
-Wer eine E-ID will, muss bei einer vom Bund anerkannten {{< fremdwort id="_E-ID-Anbieterin_" wort="_E-ID-Anbieterin_" >}} ihre E-ID beantragen. Die AnbieterInnen leiten den Antrag an den Bund weiter. Der Bund überprüft die Identität der Person und schickt die notwendigen Daten an die E-ID-Anbieterin. Die Person muss der Weitergabe der Daten immer zustimmen. Die E-ID ist freiwillig.
+Wer eine E-ID will, muss bei einer vom Bund anerkannten {{< fremdwort id="E-ID-Anbieterin" wort="E-ID-Anbieterin" >}} ihre E-ID beantragen. Die AnbieterInnen leiten den Antrag an den Bund weiter. Der Bund überprüft die Identität der Person und schickt die notwendigen Daten an die E-ID-Anbieterin. Die Person muss der Weitergabe der Daten immer zustimmen. Die E-ID ist freiwillig.
 
 **Was bietet die E-ID?**
 
