@@ -164,9 +164,9 @@ Das Parlament hat dem Abkommen zugestimmt. Ein [Komitee](https://stop-palmoel.ch
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
 
-{{< definition id="Niqabs" wort="Niqabs" def="_Niqab ist ein Schleier, der das ganze Gesicht verhüllt. Die Augen sind nicht bedeckt._" >}}
+{{< definition id="Niqabs" wort="Niqabs" def="Niqab ist ein Schleier, der das ganze Gesicht verhüllt. Die Augen sind nicht bedeckt." >}}
 
-{{< definition id="Burkas" wort="Burkas" def="_Burka ist ein Umhang, der den ganzen Körper verhüllt. Die Augen sind durch ein Netz bedeckt._" >}}
+{{< definition id="Burkas" wort="Burkas" def="Burka ist ein Umhang, der den ganzen Körper verhüllt. Die Augen sind durch ein Netz bedeckt." >}}
 
 {{< definition id="Gegenvorschlag" wort="Gegenvorschlag" def="_Der indirekte Gegenvorschlag: Das Parlament hat ein Gesetz erlassen, das automatisch in Kraft tritt, wenn die Initiative abgelehnt wird: Danach müssten alle Personen den Behörden bei Bedarf ihr Gesicht zu Identifizierungszwecken zeigen._" >}}
 
