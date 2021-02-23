@@ -140,7 +140,7 @@ Das Parlament hat dem Abkommen zugestimmt. Ein [Komitee](https://stop-palmoel.ch
 
 {{< container-center >}}
 
-{{< document doc="Konzernverantwortungsinitiative-Ja_z2zrda" caption="Gastkommentar-Pro" >}}
+{{< document doc="Abstimmungen_EID-Pro_bng1ki" caption="Gastkommentar-Pro" >}}
 
 {{< document doc="Konzernverantwortungsinitiative-Nein_par2l3" caption="Gastkommentar-Contra" >}}
 
