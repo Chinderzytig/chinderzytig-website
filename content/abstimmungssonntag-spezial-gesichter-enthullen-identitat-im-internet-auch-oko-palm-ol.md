@@ -16,9 +16,11 @@ kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "Abstimmungssonntag Spezial: Gesichter enthüllen – Identität im Internet auch? – Öko-Palm-Öl? "
+title = "Gesichter enthüllen – Identität im Internet auch? – Öko-Palm-Öl? "
 
 +++
+### _Abstimmungssonntag Spezial_
+
 _Am 7. März 2021 können die Schweizer Stimmberechtigten über drei Vorlagen abstimmen._
 
 1\. Eine Volksinitiative verlangt ein Verhüllungsverbot in der Öffentlichkeit.
