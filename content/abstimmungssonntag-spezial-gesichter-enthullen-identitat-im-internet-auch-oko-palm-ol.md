@@ -134,6 +134,20 @@ Das Parlament hat dem Abkommen zugestimmt. Ein [Komitee](https://stop-palmoel.ch
 
 **Mehr wissen? – gleiche Links wie beim ersten Thema!**
 
+{{< teiler >}}
+
+### Gastkommentare
+
+{{< container-center >}}
+
+{{< document doc="Konzernverantwortungsinitiative-Ja_z2zrda" caption="Gastkommentar-Pro" >}}
+
+{{< document doc="Konzernverantwortungsinitiative-Nein_par2l3" caption="Gastkommentar-Contra" >}}
+
+{{< /container-center >}}
+
+{{< teiler >}}
+
 ### Nun bist du dran
 
 ● Was denkst du über die Themen im Allgemeinen?
