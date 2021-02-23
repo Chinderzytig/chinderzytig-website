@@ -33,10 +33,6 @@ Die Schweiz kennt bis jetzt keine nationalen Kleidervorschriften. Das „Egerkin
 
 Gezielt wird auf _Niqabs* und Burkas*_ von Muslimas (Einheimische wie Touristinnen) sowie auf Verhüllungen in Sportstadien (Hooligans). Vom Verbot ausgenommen wären Gotteshäuser. Weitere Ausnahmen gelten aus Gründen der Sicherheit, Gesundheit (Corona-Maske...), klimatischen Bedingungen und einheimischen Brauchtums.
 
-_Eine *Burka ist ein Umhang, der den ganzen Körper verhüllt. Die Augen sind durch ein Netz bedeckt._
-
-_Eine *Niqab ist ein Schleier, der das ganze Gesicht verhüllt. Die Augen sind nicht bedeckt._ 
-
 ### **Argumente für das Verhüllungsverbot:**
 
 ● Mit dem Verhüllungsverbot werde ein Zeichen für die Gleichstellung von Mann und Frau gesetzt. Die muslimische Verschleierung sei nämlich eine Unterdrückung der Frau.
@@ -45,13 +41,11 @@ _Eine *Niqab ist ein Schleier, der das ganze Gesicht verhüllt. Die Augen sind n
 
 ### **Argumente gegen das Verhüllungsverbot:**
 
-● Die Initiative gehe zu weit; der _Gegenvorschlag_[\[3\]](#_msocom_3) _*_ reiche aus.
+● Die Initiative gehe zu weit; der _Gegenvorschlag*_ reiche aus.
 
 ● Zudem würde Frauen durch das Verhüllungsverbot bloss eine weitere Vorschrift auferlegt. Sie sollen selbst entscheiden können, wie viel sie von ihrem Körper zeigen. Verschleierte Frauen würde man aus dem öffentlichen Leben ausschliessen.
 
 ● Ausserdem sei die Vollverschleierung ein Randphänomen. Der Umgang damit sollte den Kantonen überlassen sein. (St. Gallen und Tessin kennen bereits ein Verhüllungsverbot.)
-
-_*Der indirekte Gegenvorschlag: Das Parlament hat ein Gesetz erlassen, das automatisch in Kraft tritt, wenn die Initiative abgelehnt wird: Danach müssten alle Personen den Behörden bei Bedarf ihr Gesicht zu Identifizierungszwecken zeigen._
 
 **Positionen:**
 
@@ -73,19 +67,15 @@ _*Der indirekte Gegenvorschlag: Das Parlament hat ein Gesetz erlassen, das autom
 
 Bundesrat und Parlament wollen mit einem neuen Gesetz eine elektronische Identität (E-ID) einführen. Sie soll (auch) von privaten Firmen unter Bundesaufsicht herausgegeben werden.
 
-Gegen dieses neue Gesetz wurde das _Referendum_[\[4\]](#_msocom_4) _*_ ergriffen. Deshalb stimmen wir nun darüber ab.
-
-_*(fakultatives) Referendum: Unterschriftensammlung, damit man über ein Gesetz abstimmen kann, das das Parlament einführen will._
+Gegen dieses neue Gesetz wurde das _Referendum*_ ergriffen. Deshalb stimmen wir nun darüber ab.
 
 **Was würde sich ändern mit dem neuen Gesetz?**
 
-Wer eine E-ID will, muss bei einer vom Bund anerkannten _E-ID-Anbieterin*_ [\[5\]](#_msocom_5) ihre E-ID beantragen. Die AnbieterInnen leiten den Antrag an den Bund weiter. Der Bund überprüft die Identität der Person und schickt die notwendigen Daten an die E-ID-Anbieterin. Die Person muss der Weitergabe der Daten immer zustimmen. Die E-ID ist freiwillig.
+Wer eine E-ID will, muss bei einer vom Bund anerkannten _E-ID-Anbieterin*_ ihre E-ID beantragen. Die AnbieterInnen leiten den Antrag an den Bund weiter. Der Bund überprüft die Identität der Person und schickt die notwendigen Daten an die E-ID-Anbieterin. Die Person muss der Weitergabe der Daten immer zustimmen. Die E-ID ist freiwillig.
 
 **Was bietet die E-ID?**
 
 Die E-ID ist auf einer App oder einer persönlichen Karte gespeichert. Damit kann man sich bei verschiedenen Online-Diensten anmelden und Dienstleistungen beziehen, z.B. einen Auszug beim Betreibungsamt beantragen oder ein Bankkonto eröffnen.
-
-_*Sowohl Gemeinden, Kantone wie private Unternehmen können E-ID-AnbieterInnen werden. Dazu müssen sie sich vom Bund anerkennen und laufend kontrollieren lassen. Die beiden Anbieter, welche sich zurzeit zertifizieren lassen wollen, sind ein Konsortium aus staatsnahen Betrieben, Versicherungen, Banken und Krankenkassen namens_ [_SwissSign_](https://www.swisssign.com/)_, sowie der Kanton Schaffhausen, der bereits eine «_[_el-D+_](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Services/Schaffhauser-eID--2077281-DE.html)_» für seine BürgerInnen geschaffen hat._
 
 **Argumente der BefürworterInnen**
 
@@ -113,7 +103,7 @@ _*Sowohl Gemeinden, Kantone wie private Unternehmen können E-ID-AnbieterInnen w
 
 Die Schweiz hat (zusammen mit der Europäischen Freihandelsassoziation (EFTA)) erstmals mit Indonesien ein Wirtschaftsabkommen geschlossen:
 
-Die meisten Zölle fallen weg oder werden gesenkt. Dadurch wird der gegenseitige Handel erleichtert. Zudem wurden erstmals ökologische und soziale Regeln für den Abbau von Palmöl erlassen. Die Schweiz importiert nämlich viel _Palmöl_[\[6\]](#_msocom_6) _*_ aus Indonesien, weshalb bisher viel Regenwald gerodet worden ist.
+Die meisten Zölle fallen weg oder werden gesenkt. Dadurch wird der gegenseitige Handel erleichtert. Zudem wurden erstmals ökologische und soziale Regeln für den Abbau von Palmöl erlassen. Die Schweiz importiert nämlich viel _Palmöl*_ aus Indonesien, weshalb bisher viel Regenwald gerodet worden ist.
 
 Das Parlament hat dem Abkommen zugestimmt. Ein [Komitee](https://stop-palmoel.ch/) hat aber dagegen das Referendum ergriffen, weil ihm die Schutzbestimmunen zu wenig weit gehen und nicht neutral kontrolliert würden.
 
