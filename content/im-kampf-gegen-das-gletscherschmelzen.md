@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210302_Gletscherschmelzen_AM_cdqrfs"
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -39,3 +39,9 @@ Doch nicht nur Felix Keller widmet sich dem Projekt für den Gletscherschutz. Se
 Was meinst du? Kennst du noch weitere Projekte, welche das Gletschersterben verhindern möchten? Warum ist so etwas überhaupt notwendig? Lohnt es sich denn die Gletscher zu schützen?
 
 {{< definition id="Glaziologie" wort="Glaziologie" def="Ein Glaziologe erforscht die Formen, das Auftreten und die Eigenschaften von Schnee und Eis." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
