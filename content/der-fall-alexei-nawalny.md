@@ -38,6 +38,8 @@ Das Video hat Nawalny kurz nach seiner Rückkehr nach Russland veröffentlicht. 
 
 Viele Russland-Kenner sagen, das Video habe tatsächlich aufgerüttelt. Die Proteste im Januar waren so gross wie schon lange nicht mehr. Allerdings werden sie wohl immer noch nicht von einer Mehrheit der Bevölkerung getragen. Ein Grund dafür dürfte die Repression gegen alle Andersdenkenden sein. Forderungen nach einem Ende der Korruption oder nach fairem politischem Wettbewerb werden von offizieller Seite schnell als Bedrohung eingestuft. Die Unterdrückung findet auch im Internet statt. Viele Seiten sind gesperrt, besonders jene von Regierungsgegnern. Betreiber von sozialen Medien sind zudem neu verpflichtet, Informationen zu Demonstrationen zu suchen und zu blockieren. So sollen grosse Demonstrationen verhindert werden.
 
+### Nawalny´s Strafe wird vom Gericht bestätigt
+
 Die Anwälte von Nawalny hatten nach dem Urteil Berufung eingelegt. Das bedeutet, dass das Urteil von einem höheren Gericht geprüft wurde. Am 20. Februar hat das Gericht in Moskau die Strafe allerdings bestätigt. Nach Abzug des Hausarrests, den er bereits verbüsst hat, wird Alexei Nawalny wohl noch für rund zweieinhalb Jahre in Haft bleiben müssen. In einem zweiten Prozess wurde Nawalny zudem noch zu einer Geldstrafe verurteilt, weil er angeblich einen Kriegsveteranen beleidigt hatte. Die EU hat nach der Bestätigung des Urteils neue Sanktionen eingeleitet. So sollen Vermögen gesperrt werden und es gibt Einreiseverbote für Verantwortliche im Prozess an Nawalny.
 
 {{< teiler >}}
