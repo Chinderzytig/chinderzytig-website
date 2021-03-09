@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-03-10T05:00:00Z
 description = "Die Chinderzytig berichtet über die Abstimmungen vom letzten Wochenende"
-draft = true
 fdw = true
 hero_img = "/v1615313111/Media_Abstimmung_g36yqp.jpg"
 img_description = "Das Bild zeigt eine Person, die aktuellen News liest. "
