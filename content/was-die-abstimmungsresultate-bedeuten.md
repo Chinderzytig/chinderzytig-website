@@ -41,10 +41,8 @@ Viel wird sich nach den Abstimmungen wahrscheinlich für niemanden ändern. Ein 
 
 ### Nun bist du dran
 
-Welches Resultat hat dich am meisten überrascht?
-
-Wie denkst du, werden sich die Ergebnisse auf dein Leben auswirken?
-
+Welches Resultat hat dich am meisten überrascht?  
+Wie denkst du, werden sich die Ergebnisse auf dein Leben auswirken?  
 Bist du mit dem Entscheid des Volkes einverstanden?
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
