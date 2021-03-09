@@ -1,7 +1,7 @@
 +++
 arbeitsmaterial = "20210309_Weltfrauentag_AM_ztrrtu"
 artikel = true
-author = "Samira, Lussi"
+author = "Samira Lussi"
 cc_licence = ""
 cc_src = ""
 date = 2021-03-09T05:00:00Z
