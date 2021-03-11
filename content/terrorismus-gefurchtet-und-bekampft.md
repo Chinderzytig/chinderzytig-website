@@ -1,19 +1,18 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "0210311_Terrorismus_AM__rsrxjk"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2021-03-11T05:00:00Z
 description = "Die Chinderzytig schriebt über den Terrorismus und wie wir damit umgehen"
-draft = true
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
-kategorien = []
-markierungen = []
+hero_img = "/v1615442178/Media_Terrorismus_gncizv.jpg"
+img_description = "Ein Kriegsflugzeug fliegt über Rauch, der durch eine abgefeuerte Bombe entstanden wurde"
+img_photographer = "Daniel Klein"
+img_src = "https://unsplash.com/photos/_d5MwfyqcNw"
+kategorien = ["Welt"]
+markierungen = ["Politik", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Terrorismus – gefürchtet und bekämpft "
@@ -34,3 +33,9 @@ Die Schweiz hat aber auch eigene Mittel um den Terror zu bekämpfen, respektive 
 ### Europäischer Gedenktag für die Opfer von Terrorismus
 
 Seit dem Jahr 2004 gedenkt Europa jeweils am 11. März der Opfer von Terrorismus. Dabei geht es um alle Menschen, die durch Terrorismus ihr Leben oder Angehörige verloren haben. Der Gedenktag wurde in Erinnerung an die Anschläge in der spanischen Stadt Madrid ins Leben gerufen. Damals, am 11. März 2004, wurden am Morgen im Berufsverkehr in mehreren Pendlerzügen Bomben gezündet. Es kamen 191 Menschen ums Leben, rund 1800 wurden verletzt.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
