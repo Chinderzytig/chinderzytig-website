@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "0210311_Terrorismus_AM__rsrxjk"
+arbeitsmaterial = "20210311_Terrorismus_AM__rsrxjk"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
