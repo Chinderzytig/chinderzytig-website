@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210316_WhatsApp_AM_arewvr"
 artikel = true
 author = "Sam Penfold"
 cc_licence = ""
 cc_src = ""
 date = 2021-03-16T05:00:00Z
 description = "WhatsApp hat neue Datenschutzbestimmung kommuniziert. Die Chinderzytig berichtet was dies für uns bedeutet. "
-draft = true
 fdw = false
 hero_img = "/v1615828972/Media_Whatsapp_ciq5rk.jpg"
 img_description = "Das Bild zeigt ein Iphone Bildschirm, auf dem man eine WhatsApp Nachricht sieht. "
@@ -19,9 +18,9 @@ slug = ""
 title = "Wer liest eigentlich meine Chats?"
 
 +++
-_Der Begriff “WhatsApp” ist heute ein gängiger und generationsübergreifender Name. Der Nachrichtendienst, der als Alternative zum klassischen SMS dient, lässt weltweit über eine Milliarde Menschen miteinander **chatten**_ _und telefonieren – egal, welches Smartphone sie besitzen. Anfang Jahr kündigte WhatsApp an, dass sie neue Datenschutzbestimmungen einführen wollen, was bei Nutzern eine weltweite Reaktion auslöste. Was wird sich genau ändern? Und was gibt es für Alternativen für alle, die deswegen umsteigen wollen? Wir erklären es euch._
+_Der Begriff “WhatsApp” ist heute ein gängiger und generationsübergreifender Name. Der Nachrichtendienst, der als Alternative zum klassischen SMS dient, lässt weltweit über eine Milliarde Menschen miteinander_ {{< fremdwort id="chatten" wort="chatten" >}} _und telefonieren – egal, welches Smartphone sie besitzen. Anfang Jahr kündigte WhatsApp an, dass sie neue Datenschutzbestimmungen einführen wollen, was bei Nutzern eine weltweite Reaktion auslöste. Was wird sich genau ändern? Und was gibt es für Alternativen für alle, die deswegen umsteigen wollen? Wir erklären es euch._
 
-WhatsApp (eine Anspielung auf das Englische “what’s up?”) wurde 2009 von den beiden Ex-Yahoo!-Mitarbeitern Brian Acton und Jan Koum gegründet und programmiert. Dies geschah ein paar Jahre, nachdem das erste iPhone auf den Markt gekommen war. Acton und Koum sahen eine Marktlücke in einem Nachrichtendienst, der dem Benutzer aufzeigt, ob sein Textpartner **online** ist – also, ob er oder sie gerade das Chat-Programm offen hat. Nach ein paar Startschwierigkeiten in den Anfangsjahren war WhatsApp 2011 unter den Top 20 der Applikationen für das iPhone zu finden. In den Jahren seither hat sich der Chat-Riese zum meistgebrauchten Nachrichtendienst der Welt gefestigt.
+WhatsApp (eine Anspielung auf das Englische “what’s up?”) wurde 2009 von den beiden Ex-Yahoo!-Mitarbeitern Brian Acton und Jan Koum gegründet und programmiert. Dies geschah ein paar Jahre, nachdem das erste iPhone auf den Markt gekommen war. Acton und Koum sahen eine Marktlücke in einem Nachrichtendienst, der dem Benutzer aufzeigt, ob sein Textpartner {{< fremdwort id="online" wort="online" >}} ist – also, ob er oder sie gerade das Chat-Programm offen hat. Nach ein paar Startschwierigkeiten in den Anfangsjahren war WhatsApp 2011 unter den Top 20 der Applikationen für das iPhone zu finden. In den Jahren seither hat sich der Chat-Riese zum meistgebrauchten Nachrichtendienst der Welt gefestigt.
 
 ### Und dann kam Facebook…
 
@@ -40,6 +39,10 @@ Wer sich trotzdem bezüglich WhatsApp (und Facebook) unsicher ist, hat jedoch au
 • _Threema_: Der Einzige der vorgestellten Dienste, mit seinem einmaligen Kaufpreis von CHF 3 Franken, ist ein Schweizer Produkt. Seine Daten werden auch in der Schweiz speichert.
 
 Eines ist jedoch klar: Nachrichtendienste wie WhatsApp haben gegenüber dem klassischen SMS langsam aber sicher klar die Überhand: Seit 2013 nimmt die Anzahl versandter SMS weltweit konstant ab.
+
+{{< fremdwort id="chatten" wort="Chatten stammt vom Englischen Begriff “to chat”, was auf Deutsch “plaudern” bedeutet. Heute wird der Begriff in verschiedenen Sprachen verwendet, um die Kommunikation via Nachrichtendiensten wie WhatsApp zu bezeichnen." >}}
+
+{{< definition id="online" wort="Der Begriff “online” bezeichnet den Zustand, wenn jemand mit dem Internet verbunden ist." def="add definition here" >}}
 
 {{< teiler >}}
 
