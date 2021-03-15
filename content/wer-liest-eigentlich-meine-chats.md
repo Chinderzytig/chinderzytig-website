@@ -12,8 +12,8 @@ hero_img = "/v1615828972/Media_Whatsapp_ciq5rk.jpg"
 img_description = "Das Bild zeigt ein Iphone Bildschirm, auf dem man eine WhatsApp Nachricht sieht. "
 img_photographer = "Jamie Street"
 img_src = "https://unsplash.com/photos/33oxtOMk6Ac"
-kategorien = []
-markierungen = []
+kategorien = ["Welt"]
+markierungen = ["Personen", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Wer liest eigentlich meine Chats?"
@@ -40,3 +40,9 @@ Wer sich trotzdem bezüglich WhatsApp (und Facebook) unsicher ist, hat jedoch au
 • _Threema_: Der Einzige der vorgestellten Dienste, mit seinem einmaligen Kaufpreis von CHF 3 Franken, ist ein Schweizer Produkt. Seine Daten werden auch in der Schweiz speichert.
 
 Eines ist jedoch klar: Nachrichtendienste wie WhatsApp haben gegenüber dem klassischen SMS langsam aber sicher klar die Überhand: Seit 2013 nimmt die Anzahl versandter SMS weltweit konstant ab.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
