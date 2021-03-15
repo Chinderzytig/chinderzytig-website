@@ -40,9 +40,9 @@ Wer sich trotzdem bezüglich WhatsApp (und Facebook) unsicher ist, hat jedoch au
 
 Eines ist jedoch klar: Nachrichtendienste wie WhatsApp haben gegenüber dem klassischen SMS langsam aber sicher klar die Überhand: Seit 2013 nimmt die Anzahl versandter SMS weltweit konstant ab.
 
-{{< fremdwort id="chatten" wort="Chatten stammt vom Englischen Begriff “to chat”, was auf Deutsch “plaudern” bedeutet. Heute wird der Begriff in verschiedenen Sprachen verwendet, um die Kommunikation via Nachrichtendiensten wie WhatsApp zu bezeichnen." >}}
+{{< definition id="chatten" wort="chatten" def="Chatten stammt vom Englischen Begriff “to chat”, was auf Deutsch “plaudern” bedeutet. Heute wird der Begriff in verschiedenen Sprachen verwendet, um die Kommunikation via Nachrichtendiensten wie WhatsApp zu bezeichnen." >}}
 
-{{< definition id="online" wort="Der Begriff “online” bezeichnet den Zustand, wenn jemand mit dem Internet verbunden ist." def="add definition here" >}}
+{{< definition id="online" wort="online" def="Der Begriff “online” bezeichnet den Zustand, wenn jemand mit dem Internet verbunden ist." >}}
 
 {{< teiler >}}
 
