@@ -1,17 +1,16 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210318_Sterne_AM_w8tnuw"
 artikel = true
 author = "Désirée Scheidegger"
 cc_licence = ""
 cc_src = ""
 date = 2021-03-18T05:00:00Z
 description = "Die Chinderzytig schreibt über die Sterne - wie sie entstehen und wieso sie leuchten.  "
-draft = true
 fdw = false
 hero_img = "/v1615923884/Media_Sterne_aj26ee.jpg"
 img_description = "Das Bild zeigt ein wunderschönes Sternenbild"
 img_photographer = "Denis Degioanni"
-img_src = "20210318_Sterne_AM_w8tnuw"
+img_src = "https://unsplash.com/photos/9wH624ALFQA"
 kategorien = ["Welt", "Weltraum/Universium"]
 markierungen = ["Natur", "Wissenschaft"]
 paid = false
@@ -26,7 +25,7 @@ Es gibt eine eigene Wissenschaft, die sich mit den Sternen befasst, sie heisst _
 ### Ein Star wird geboren
 
 Ein Stern entsteht aus Gas und Staub. Diese Materialien sind im Weltall in grossen Mengen vorhanden. Sie verbinden sich zu riesigen Kugeln, die sich um sich selbst drehen. Der so entstandene Stern lebt so lange, bis ihm das Gas als Brennstoff ausgeht. Grosse Sterne leben am kürzesten. Wenn ihnen der Brennstoff ausgeht, gibt es eine grosse und laute Explosion. Kleine und mittelgrosse Sterne sterben ohne Explosion. Sie kühlen sich langsam und still ab und schrumpfen so lange, bis sie ganz verschwinden. Ein Stern kann viele Milliarden Jahre alt werden.  
- Wenn der Stern stirbt, verteilen sich das Gas und der Staub wieder im Weltall und es kann ein neuer Stern daraus entstehen. Es findet also sozusagen ein _Recycling_ statt, so ähnlich wie bei einer Glasflasche, die immer wieder verwendet wird.
+Wenn der Stern stirbt, verteilen sich das Gas und der Staub wieder im Weltall und es kann ein neuer Stern daraus entstehen. Es findet also sozusagen ein _Recycling_ statt, so ähnlich wie bei einer Glasflasche, die immer wieder verwendet wird.
 
 ### Wieso funkeln Sterne?
 
@@ -38,5 +37,8 @@ Um diese Frage zu beantworten, muss zuerst geklärt werden, was die Milchstrasse
 
 Weisst du noch mehr über die Sterne oder hast du eine Frage, die hier noch nicht beantwortet wurde? Welches ist dein Sternzeichen und hast du es schon einmal am Himmel gesehen? Liest du ab und zu dein Horoskop und glaubst du daran? Wusstest du, dass unsere Sonne eigentlich auch ein Stern ist?
 
-  
- 
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
