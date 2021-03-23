@@ -28,8 +28,7 @@ Die Schweiz wollte nicht zur „Zeitinsel“ werden. Das heisst, sie wollte nich
 
 ### Die grosse Frage
 
-Und da ist die grosse Frage: Soll denn für alle die Sommerzeit oder die Winterzeit gelten? Darüber gehen die Meinungen in Europa auseinander. Denn je nachdem, ob ein Land eher im Westen oder im Osten von Europa liegt, hätte das andere Auswirkungen. Für die Schweiz würde ein Entscheid folgendes bedeuten: Wenn die Winterzeit gelten würde, könnte der Bundesrat in der Schweiz die Sommerzeit einfach wieder abschaffen. Wenn aber die Sommerzeit gelten sollte, müsste das Zeitgesetz geändert werden. Und dies könnte nur über eine Vernehmlassung passieren, wo Parteien und politische Interessensgruppen angehört werden müssten.
-
+Und da ist die grosse Frage: Soll denn für alle die Sommerzeit oder die Winterzeit gelten? Darüber gehen die Meinungen in Europa auseinander. Denn je nachdem, ob ein Land eher im Westen oder im Osten von Europa liegt, hätte das andere Auswirkungen. Für die Schweiz würde ein Entscheid folgendes bedeuten: Wenn die Winterzeit gelten würde, könnte der Bundesrat in der Schweiz die Sommerzeit einfach wieder abschaffen. Wenn aber die Sommerzeit gelten sollte, müsste das Zeitgesetz geändert werden. Und dies könnte nur über eine Vernehmlassung passieren, wo Parteien und politische Interessensgruppen angehört werden müssten.  
 Da jedoch bis heute weder in Europa noch in der Schweiz etwas entschieden wurde, könnte uns die Zeitumstellung durchaus noch eine Zeitlang erhalten bleiben.
 
 ### Nun bist du dran
