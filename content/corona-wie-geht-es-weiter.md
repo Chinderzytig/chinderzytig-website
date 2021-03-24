@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-03-25T05:00:00Z
 description = "Corona-Lockerungen nicht in Sicht. Die Chinderzytig berichtet über den neusten Entscheid vom Bundesrat"
-draft = true
 fdw = false
 hero_img = "/v1616615050/Media_Corona_wak6cp.jpg"
 img_description = "Die Restaurants bleiben aufgrund der Pandemie nach wie vor geschlossen"
