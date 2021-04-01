@@ -1,19 +1,19 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Annic Berset"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2021-04-01T04:00:00Z
+description = "Wie der 1. Aprilscherz entstanden ist, erklärt heute die Chinderzytig"
 draft = true
 fdw = false
 hero_img = ""
 img_description = ""
-img_photographer = ""
-img_src = ""
-kategorien = []
-markierungen = []
+img_photographer = "Caroline Hernandez"
+img_src = "Das Bild zweigt zwei verscherzte Kinder "
+kategorien = ["Welt"]
+markierungen = ["Gesellschaft"]
 paid = false
 slug = ""
 title = "„April, April“. -  Woher kommst du wohl?"
