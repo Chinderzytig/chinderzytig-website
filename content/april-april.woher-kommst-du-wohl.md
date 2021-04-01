@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-04-01T04:00:00Z
 description = "Wie der 1. Aprilscherz entstanden ist, erklärt heute die Chinderzytig"
-draft = true
 fdw = false
 hero_img = "/v1617254778/April_April_Media_koghsi.jpg"
 img_description = ""
@@ -21,8 +20,7 @@ title = "„April, April“. -  Woher kommst du wohl?"
 +++
 _Na, habt ihr heute schon jemanden reingelegt oder euch einen Witz mit jemandem erlaubt? Heute, am 1. April, ist das sogar ein bisschen erlaubt, solange man den Aprilscherz danach auflöst und nichts Böses im Schild führt._
 
-Nehmt euch heute irgendeine beliebige Zeitung aus irgendeinem Land dieser Welt zur Hand und schaut sie gut durch. Oder hört euch aufmerksam die Sendungen im Radio an. Und sogar beim Fernsehen werdet ihr wahrscheinlich fündig. Ihr könnt fast sicher sein: Eine Meldung, ein Artikel, ein Bericht, eine Geschichte oder ein Foto sind heute frei erfunden.
-
+Nehmt euch heute irgendeine beliebige Zeitung aus irgendeinem Land dieser Welt zur Hand und schaut sie gut durch. Oder hört euch aufmerksam die Sendungen im Radio an. Und sogar beim Fernsehen werdet ihr wahrscheinlich fündig. Ihr könnt fast sicher sein: Eine Meldung, ein Artikel, ein Bericht, eine Geschichte oder ein Foto sind heute frei erfunden.  
 Und Achtung, auch wenn ihr mit jemandem sprecht oder euch jemand etwas besonders Interessantes oder Lustiges erzählt, müsst ihr euch heute gut überlegen: Kann das wohl stimmen oder erlaubt sich da eine Person einen Spass mit euch?
 
 Jemanden reinlegen, das ist am 1. April erlaubt – die Tradition „jemanden in den April schicken“, wie man früher sagte, gibt es nämlich bereits seit vielen hundert Jahren. Wie genau der Aprilscherz entstanden ist, darüber gibt es verschiedene Theorien.
