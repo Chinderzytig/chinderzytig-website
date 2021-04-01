@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210401_April_April_AM_ec3xby"
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
@@ -8,7 +8,7 @@ date = 2021-04-01T04:00:00Z
 description = "Wie der 1. Aprilscherz entstanden ist, erklärt heute die Chinderzytig"
 draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1617254778/April_April_Media_koghsi.jpg"
 img_description = ""
 img_photographer = "Caroline Hernandez"
 img_src = "Das Bild zweigt zwei verscherzte Kinder "
@@ -38,3 +38,9 @@ Jemanden reinlegen, das ist am 1. April erlaubt – die Tradition „jemanden in
 \- Für den Aprilscherz gibt es auch einen möglichen Ursprung aus der Religion. Der gefallene Engel Luzifer und alle Engel, die ihm folgten, sollen am 1. April aus dem Himmel ausgeschlossen worden und in die Hölle gekommen sein. Viele Christen glaubten deshalb, dass der 1. April ein Unglückstag sei.
 
 Und was denkt ihr, könnt ihr selber auch noch eine Erklärung dazu erfinden, woher der Aprilscherz kommt?
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
