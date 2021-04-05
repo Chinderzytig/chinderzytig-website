@@ -15,7 +15,7 @@ kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "Stau im Suezanal "
+title = "Stau im Suezkanal "
 
 +++
 _Stau gibt es nicht nur am Gotthard-Tunnel: fast eine Woche lang blockierte ein quer-stehendes Frachtschiff den Suez-Kanal in Ägypten. Wir erklären euch, was im Suezkanal genau passiert und wieso es für die ganze Welt ein Problem sein kann, wenn er wie letzte Woche blockiert ist._
