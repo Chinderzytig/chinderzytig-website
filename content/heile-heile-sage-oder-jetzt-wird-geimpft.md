@@ -40,7 +40,7 @@ Wie so oft sind sich Menschen in grossen, einschneidenden Themen, die viel Geld 
 
 Wir überlassen euch eure Meinung dazu selber. Bevor ihr diskutiert, lest noch mehr im Internet und macht euch schlau: [www.infoeasy-news.ch](http://www.infoeasy-news.ch), [www.planet-wissen.de](http://www.planet-wissen.de), oder auch [Swissmedic](https://vimeo.com/491313737) helfen dir weiter. Wie weit die Schweiz im Impfplan ist, zeigen wir euch nun mit der regelmässig aktualisierten Schweizerkarte; damit ihr im Bild seid!
 
-{{< impfstoffe gelieferte="1 742 075" verabreichte="1 436 996" geimpfte="16,62%" offleft="16.62%" offright="16.63%" >}}
+{{< impfstoffe gelieferte="2 063 550" verabreichte="1 542 286" geimpfte="17,84%" offleft="17.84%" offright="17.85%" >}}
 
 ### Nun bist du dran
 
