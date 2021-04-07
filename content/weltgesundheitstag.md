@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210408_Weltgesundheitstag_AM_suswn9"
 artikel = true
 author = "Nicole Emch"
 cc_licence = ""
@@ -8,7 +8,7 @@ date = 2021-04-08T04:00:00Z
 description = "Zum Weltgesundheitstag schreibt die Chinderzytig dessen Entstehung und Bedeutung "
 draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1617823543/Gesundheitstag_Media_non6pz.jpg"
 img_description = "Das Bild zeig einen Arzt mit einem Stethoskop in der Hand"
 img_photographer = "Online Marketing"
 img_src = "https://unsplash.com/photos/hIgeoQjS_iE"
