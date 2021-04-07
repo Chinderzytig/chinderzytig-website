@@ -4,7 +4,7 @@ artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
 cc_src = ""
-date = 2021-04-07T04:00:00Z
+date = 2021-04-07T11:00:00Z
 description = "Die Chinderzytig klärt auf woher der Osterhase und die Eier an Ostern kommen"
 fdw = true
 hero_img = "/v1617792910/Ostern_Media_irou07.jpg"
@@ -52,7 +52,7 @@ Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Komment
 
 {{< definition id="Gläubigern" wort="Gläubigern" def="Eine Gruppe von Menschen, die an eine bestimmte Religion glauben." >}}
 
-{{< definition id="Fastenzeit vor Ostern" wort="Fastenzeit vor Ostern" def="Gemäss dem christlichen Glauben ist die Fastenzeit vor Ostern. Sie dauert 40 Tage und erinnert daran, dass [Jesus](https://klexikon.zum.de/wiki/Jesus "Jesus") 40 Tage in der [Wüste](https://klexikon.zum.de/wiki/W%C3%BCste "Wüste") verbrachte und während der ganzen Zeit gefastet hat. Während der Fastenzeit wird auf den Konsum von Fleisch verzichtet." >}}
+{{< definition id="Fastenzeit vor Ostern" wort="Fastenzeit vor Ostern" def="Gemäss dem christlichen Glauben ist die Fastenzeit vor Ostern. Sie dauert 40 Tage und erinnert daran, dass Jesus 40 Tage in der Wüste verbrachte und während der ganzen Zeit gefastet hat. Während der Fastenzeit wird auf den Konsum von Fleisch verzichtet." >}}
 
 {{< definition id="Pachtzinsen" wort="Pachtzinsen" def="Ein Bauer (der Pächter) der ein Grundstück gemietet hat, zahlt dem Eigentümer (dem Verpächter) etwas als Gegenleistung dafür, dass er das Grundstück mietet. Diese Zahlung wird als Pachtzins bezeichnet." >}}
 
