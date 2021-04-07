@@ -56,6 +56,6 @@ Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Komment
 
 {{< definition id="Pachtzinsen" wort="Pachtzinsen" def="Ein Bauer (der Pächter) der ein Grundstück gemietet hat, zahlt dem Eigentümer (dem Verpächter) etwas als Gegenleistung dafür, dass er das Grundstück mietet. Diese Zahlung wird als Pachtzins bezeichnet." >}}
 
-{{< definition id="Fruchtbarkeit " wort="Fruchtbarkeit " def="Als **Fruchtbarkeit** wird die Fähigkeit bezeichnet, Früchte oder Nachkommen hervorzubringen. Fruchtbares Land ist also eine Stelle, wo man etwas anpflanzen kann." >}}
+{{< definition id="Fruchtbarkeit " wort="Fruchtbarkeit " def="Als Fruchtbarkeit wird die Fähigkeit bezeichnet, Früchte oder Nachkommen hervorzubringen. Fruchtbares Land ist also eine Stelle, wo man etwas anpflanzen kann." >}}
 
 {{< definition id="Massenproduktion" wort="Massenproduktion" def="Massenproduktion ist, wenn man etwas in grossen Mengen hertsellt." >}}
