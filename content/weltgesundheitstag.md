@@ -1,17 +1,17 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Nicole Emch"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2021-04-08T04:00:00Z
+description = "Zum Weltgesundheitstag schreibt die Chinderzytig dessen Entstehung und Bedeutung "
 draft = true
 fdw = false
 hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
+img_description = "Das Bild zeig einen Arzt mit einem Stethoskop in der Hand"
+img_photographer = "Online Marketing"
+img_src = "https://unsplash.com/photos/hIgeoQjS_iE"
 kategorien = []
 markierungen = []
 paid = false
