@@ -38,3 +38,9 @@ Das Thema für das Jahr 2021 lautet „eine gerechtere, gesündere Welt schaffen
 Diese Ungleichheiten sind ungerecht und sie sind verhinderbar. Die WHO ruft deshalb die führenden Politiker dazu auf, diese Unterschiede zu bekämpfen, dafür zu sorgen, dass alle Menschen Zugang zu guten Gesundheitsleistungen erhalten, wann und wo immer sie diese brauchen.
 
 {{< definition id="Allergene" wort="Allergene" def="Das sind Stoffe, die eine allergische Reaktion auslösen können." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
