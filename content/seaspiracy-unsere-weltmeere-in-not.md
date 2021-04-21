@@ -1,12 +1,12 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Samira Lussi"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
-fdw = false
+date = 2021-04-21T06:00:00Z
+description = "Die Chinderzytig schreibt über die Dokumentation auf Netflix \"Seaspiracy\"."
+fdw = true
 hero_img = ""
 img_description = ""
 img_photographer = ""
