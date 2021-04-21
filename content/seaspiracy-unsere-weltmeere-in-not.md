@@ -36,6 +36,6 @@ Forschende glauben, dass wir mindestens 30% unserer Ozeane schützen sollten. Do
 
 Was ist deine Meinung? Hast du die Dokumentation bereits angeschaut? Was ist deine Meinung zu diesem Thema und was sagen die Menschen in deinem Umfeld dazu?
 
-Und wenn sie nichts sagen: warum nicht?
+Und wenn du nichts sagst: warum nicht?
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
