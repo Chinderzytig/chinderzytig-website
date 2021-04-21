@@ -15,7 +15,7 @@ kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "Seaspiracy – unsere Weltmeere in Not "
+title = "Seaspiracy - unsere Weltmeere in Not "
 
 +++
 _Am 24. März wurde die Netflix Dokumentation Seaspriacy veröffentlicht. Der Film von den Machern von Cowspiracy zeigt den zerstörerischen Einfluss des industriellen Fischfangs auf die Ökosysteme unserer Meere und landete in mehreren Ländern in den Top 10 der Netflix Charts._
