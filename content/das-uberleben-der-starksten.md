@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210427_Das_U%CC%88berleben_der_Sta%CC%88rksten_AM_jlalxh"
 artikel = true
 author = "Sam Penfold"
 cc_licence = ""
@@ -8,12 +8,12 @@ date = 2021-04-27T04:00:00Z
 description = "Die Chinderzytig berichtet über Charles Darwin und seine bekannte Evolutionstheorie"
 draft = true
 fdw = false
-hero_img = ""
-img_description = ""
+hero_img = "/v1619455276/Media_Charles_Darwin_evrbkp.jpg"
+img_description = "Das Bild zeigt zwei spezifische Vögel auf den Galapagos Inseln, wo Charles Darwin durch seinen Evolutionstheorie noch sehr bekannt ist.  "
 img_photographer = "Andy Brunner"
 img_src = "https://unsplash.com/photos/VrHA48aTsUQ"
-kategorien = []
-markierungen = []
+kategorien = ["Welt"]
+markierungen = ["Natur", "Wissenschaft"]
 paid = false
 slug = ""
 title = "Das Überleben der Stärksten "
@@ -48,3 +48,9 @@ Ein Barometer ist ein Gerät, dass den Luftdruck misst.
 Die Naturwissenschaft der Zoologie beschäftigt sich mit dem Erkunden von Tieren - also in diesem Fall mit Tieren, die im Meer zuhause sind.
 
 Der Begriff “Theologie” bezeichnet das Studieren von Religionen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
