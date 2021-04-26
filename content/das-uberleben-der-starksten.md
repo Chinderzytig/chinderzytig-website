@@ -24,8 +24,7 @@ Charles Robert Darwin wurde am 12. Februar 1809 in Shrewsbury, einer damals klei
 
 ### Vom Wald in den Weihrauch
 
-Sein Interesse an der Natur prägte auch seine Freizeit. Er verbrachte unter anderem einen Teil davon mit dem Sammeln von Muscheln, dem Erforschen des Walds und dem Beobachten der Verhaltensweisen von Vögeln. Schon damals war Charles ein begabter “Beobachter” - eine Fähigkeit, die sich in seinem späteren Leben als sehr wertvoll beweisen sollte - und wollte gemäss Berichten in die Fussstapfen seines Vaters treten und Arzt werden.
-
+Sein Interesse an der Natur prägte auch seine Freizeit. Er verbrachte unter anderem einen Teil davon mit dem Sammeln von Muscheln, dem Erforschen des Walds und dem Beobachten der Verhaltensweisen von Vögeln. Schon damals war Charles ein begabter “Beobachter” - eine Fähigkeit, die sich in seinem späteren Leben als sehr wertvoll beweisen sollte - und wollte gemäss Berichten in die Fussstapfen seines Vaters treten und Arzt werden.  
 Diesem Drang folgte er dann auch und begann 1825 ein Medizinstudium an der Universität in Edinburgh, Schottland. Jedoch merkte er schnell, dass die medizinischen Vorlesungen ihn langweilten - mit Ausnahme der Chemie. Charles wurde bewusst, dass seine Interessen und Leidenschaften mehrheitlich in der Wissenschaft der Natur lagen. So studierte er nebst Medizin {{< fremdwort id="Meereszoologie" wort="Meereszoologie" >}} und andere verwandte Disziplinen. In dieser Zeit bemerkte sein Vater, dass sein Sohn im Medizinstudium unglücklich war und schlug ihm einen Wechsel in ein {{< fremdwort id="Theologiestudium" wort="Theologiestudium" >}} an der Kirche Englands vor. Er schloss dieses Studium ohne Begeisterung ab und bezeichnete es später im Leben als “Zeitverschwendung” (und im gleichen Zug als “glücklichste Zeit seines Lebens”).
 
 ### Mit der HMS Beagle in den Westen
