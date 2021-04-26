@@ -46,7 +46,7 @@ In seinen letzten Jahren zog sich Charles Darwin mehrheitlich zurück und verbra
 
 {{< definition id="Meereszoologie" wort="Meereszoologie" def="Die Naturwissenschaft der Zoologie beschäftigt sich mit dem Erkunden von Tieren - also in diesem Fall mit Tieren, die im Meer zuhause sind." >}}
 
-{{< definition id="Theologie" wort="Theologie" def="Der Begriff Theologie bezeichnet das Studieren von Religionen." >}}
+{{< definition id="Theologiestudium" wort="Theologiestudium" def="Der Begriff Theologie bezeichnet das Studieren von Religionen." >}}
 
 {{< teiler >}}
 
