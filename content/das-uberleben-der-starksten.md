@@ -38,7 +38,7 @@ Nach seiner Rückkehr begann Charles, sich erste Gedanken über den Artenwandel 
 
 In seinen letzten Jahren zog sich Charles Darwin mehrheitlich zurück und verbrachte die Tage in seinem Garten. Seine Gesundheit hatte während längerer Zeit gelitten und er wurde zunehmend schwächer. Als er 1882 verstarb, waren seine Ideen über den Ursprung des Lebens höchst kontrovers - heute sind sie in wissenschaftlichen Kreisen als wahrscheinliche Erklärung für unser Dasein akzeptiert.
 
-{{< definition id="Internatschule" wort="Internatschule" def="Ein Internat oder Internatsschule bezeichnet eine Institution, in der Kinder wohnen, betreut werden und zur Schule gehen." >}}
+{{< definition id="Internatsschule" wort="Internatsschule" def="Ein Internat oder Internatsschule bezeichnet eine Institution, in der Kinder wohnen, betreut werden und zur Schule gehen." >}}
 
 {{< definition id="Literatur" wort="Literatur" def="Unter Literatur versteht man den Überbegriff, der schriftliche Werke beinhaltet." >}}
 
