@@ -38,11 +38,11 @@ Nach seiner Rückkehr begann Charles, sich erste Gedanken über den Artenwandel 
 
 In seinen letzten Jahren zog sich Charles Darwin mehrheitlich zurück und verbrachte die Tage in seinem Garten. Seine Gesundheit hatte während längerer Zeit gelitten und er wurde zunehmend schwächer. Als er 1882 verstarb, waren seine Ideen über den Ursprung des Lebens höchst kontrovers - heute sind sie in wissenschaftlichen Kreisen als wahrscheinliche Erklärung für unser Dasein akzeptiert.
 
-{{< definition id="Internat" wort="Internat" def="Ein Internat oder Internatsschule bezeichnet eine Institution, in der Kinder wohnen, betreut werden und zur Schule gehen." >}}
+{{< definition id="Internatschule" wort="Internatschule" def="Ein Internat oder Internatsschule bezeichnet eine Institution, in der Kinder wohnen, betreut werden und zur Schule gehen." >}}
 
 {{< definition id="Literatur" wort="Literatur" def="Unter Literatur versteht man den Überbegriff, der schriftliche Werke beinhaltet." >}}
 
-{{< definition id="Barometer" wort="Barometer" def="Ein Barometer ist ein Gerät, dass den Luftdruck misst." >}}
+{{< definition id="Barometers" wort="Barometers" def="Ein Barometer ist ein Gerät, dass den Luftdruck misst." >}}
 
 {{< definition id="Meereszoologie" wort="Meereszoologie" def="Die Naturwissenschaft der Zoologie beschäftigt sich mit dem Erkunden von Tieren - also in diesem Fall mit Tieren, die im Meer zuhause sind." >}}
 
