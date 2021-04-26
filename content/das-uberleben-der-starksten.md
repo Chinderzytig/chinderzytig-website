@@ -1,11 +1,11 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Sam Penfold"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2021-04-27T04:00:00Z
+description = "Die Chinderzytig berichtet über Charles Darwin und seine bekannte Evolutionstheorie"
 draft = true
 fdw = false
 hero_img = ""
