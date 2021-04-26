@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-04-27T04:00:00Z
 description = "Die Chinderzytig berichtet über Charles Darwin und seine bekannte Evolutionstheorie"
-draft = true
 fdw = false
 hero_img = "/v1619455276/Media_Charles_Darwin_evrbkp.jpg"
 img_description = "Das Bild zeigt zwei spezifische Vögel auf den Galapagos Inseln, wo Charles Darwin durch seinen Evolutionstheorie noch sehr bekannt ist.  "
@@ -39,15 +38,15 @@ Nach seiner Rückkehr begann Charles, sich erste Gedanken über den Artenwandel 
 
 In seinen letzten Jahren zog sich Charles Darwin mehrheitlich zurück und verbrachte die Tage in seinem Garten. Seine Gesundheit hatte während längerer Zeit gelitten und er wurde zunehmend schwächer. Als er 1882 verstarb, waren seine Ideen über den Ursprung des Lebens höchst kontrovers - heute sind sie in wissenschaftlichen Kreisen als wahrscheinliche Erklärung für unser Dasein akzeptiert.
 
-Ein Internat (oder Internatsschule) bezeichnet eine Institution, in der Kinder wohnen, betreut werden und zur Schule gehen.
+{{< definition id="Internat" wort="Internat" def="Ein Internat oder Internatsschule bezeichnet eine Institution, in der Kinder wohnen, betreut werden und zur Schule gehen." >}}
 
-Unter “Literatur” versteht man den Überbegriff, der schriftliche Werke beinhaltet.
+{{< definition id="Literatur" wort="Literatur" def="Unter Literatur versteht man den Überbegriff, der schriftliche Werke beinhaltet." >}}
 
-Ein Barometer ist ein Gerät, dass den Luftdruck misst.
+{{< definition id="Barometer" wort="Barometer" def="Ein Barometer ist ein Gerät, dass den Luftdruck misst." >}}
 
-Die Naturwissenschaft der Zoologie beschäftigt sich mit dem Erkunden von Tieren - also in diesem Fall mit Tieren, die im Meer zuhause sind.
+{{< definition id="Meereszoologie" wort="Meereszoologie" def="Die Naturwissenschaft der Zoologie beschäftigt sich mit dem Erkunden von Tieren - also in diesem Fall mit Tieren, die im Meer zuhause sind." >}}
 
-Der Begriff “Theologie” bezeichnet das Studieren von Religionen.
+{{< definition id="Theologie" wort="Theologie" def="Der Begriff Theologie bezeichnet das Studieren von Religionen." >}}
 
 {{< teiler >}}
 
