@@ -20,7 +20,7 @@ title = "Atomkraftwerke und ihre Folgen"
 +++
 _Am Montag jährte sich die_ [_Atomkatastrophe von Tschernobyl_](https://www.planet-wissen.de/technik/atomkraft/das_reaktorunglueck_von_tschernobyl/index.html) _zum genau 35sten Mal. Mehrere tausend Menschen starben an der grössten Atomkatastrophe. Doch was genau ist damals passiert und was haben wir bisher daraus gelernt? Haben wir überhaupt etwas gelernt?_
 
-Am 26. April 1986 kam es zu Explosionen im {{< fremdwort id="Kernkraftwerk" wort="Kernkraftwerk" >}} in Tschernobyl. Dabei wurde das hoch {{< fremdwort id="radioaktiveadd id here" wort="radioaktive" >}} Material in die umliegende Atmosphäre freigesetzt. Weite Teile von Russland, Weissrussland und der Ukraine wurden verseucht. Die radioaktive Wolke reichte sogar bis nach Mitteleuropa und zum Nordkap. Die Folge: weltweit kam es zu langjährigen gesundheitlichen Problemen durch die Strahlung. Wie kam es dazu?
+Am 26. April 1986 kam es zu Explosionen im {{< fremdwort id="Kernkraftwerk" wort="Kernkraftwerk" >}} in Tschernobyl. Dabei wurde das hoch {{< fremdwort id="radioaktive" wort="radioaktive" >}} Material in die umliegende Atmosphäre freigesetzt. Weite Teile von Russland, Weissrussland und der Ukraine wurden verseucht. Die radioaktive Wolke reichte sogar bis nach Mitteleuropa und zum Nordkap. Die Folge: weltweit kam es zu langjährigen gesundheitlichen Problemen durch die Strahlung. Wie kam es dazu?
 
 ### Alles Begann mit einem Versuch
 
