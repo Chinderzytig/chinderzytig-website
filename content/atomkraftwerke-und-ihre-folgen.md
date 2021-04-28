@@ -1,13 +1,13 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Seraina Branschi"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2021-04-28T04:00:00Z
+description = "Über die Katastrophe in Tschernobyl"
 draft = true
-fdw = false
+fdw = true
 hero_img = ""
 img_description = ""
 img_photographer = ""
