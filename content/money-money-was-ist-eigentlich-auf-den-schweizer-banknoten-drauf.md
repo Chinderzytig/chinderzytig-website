@@ -1,14 +1,13 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210429_Money_Money_AM_gzw4ty"
 artikel = true
 author = "Désirée Scheidegger"
 cc_licence = ""
 cc_src = ""
 date = 2021-04-29T04:00:00Z
 description = "Die Chinderzytig schreibt heute über das Thema Geld. Wie es uns tagtäglich beeinflusst. "
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1619638296/Media_Money_btkp0r.jpg"
 img_description = "Das Bild zeigt die Schweizer Banknoten"
 img_photographer = "Claudio Schwarz"
 img_src = "https://unsplash.com/photos/htol9OLeW20"
@@ -34,3 +33,9 @@ Damit die Schweizer Banknoten nicht gefälscht werden können, wurden verschiede
 ### Nun weisst du Bescheid über das Schweizer Geld.
 
 Welche Schweizer Banknote gefällt dir am besten und wieso? Hast du dir schon einmal alte Banknotenserien angesehen? Findest du es besser, wenn auf den Noten Schweizer Persönlichkeiten abgebildet werden oder Schweizer Merkmale? Wie würdest du die Banknoten gestalten, wenn du entscheiden dürftest? Kennst du auch Banknoten aus anderen Ländern? Denkst du, in der Zukunft braucht es überhaupt noch Bargeld oder wird es ganz von den Kreditkarten abgelöst?
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
