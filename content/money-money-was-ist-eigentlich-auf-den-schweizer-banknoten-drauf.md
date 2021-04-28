@@ -1,19 +1,19 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Désirée Scheidegger"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2021-04-29T04:00:00Z
+description = "Die Chinderzytig schreibt heute über das Thema Geld. Wie es uns tagtäglich beeinflusst. "
 draft = true
 fdw = false
 hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
-kategorien = []
-markierungen = []
+img_description = "Das Bild zeigt die Schweizer Banknoten"
+img_photographer = "Claudio Schwarz"
+img_src = "https://unsplash.com/photos/htol9OLeW20"
+kategorien = ["Welt"]
+markierungen = ["Wirtschaft", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Money, Money  – Was ist eigentlich auf den Schweizer Banknoten drauf? "
