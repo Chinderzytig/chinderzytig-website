@@ -41,7 +41,7 @@ Heute ist der Tag der Arbeit in der Schweiz nur ein kantonaler Feiertag. Das hei
 Die Unterschiede können verschiedene Ursachen haben. Eine mögliche Begründung sind die religiösen Unterschiede zwischen den Kantonen. In katholischen Kantonen gibt es tendenziell mehr Feiertage als in den reformierten oder evangelischen Kantonen. Zudem gilt der 1. Mai in einigen katholischen Gemeinden auch als Gedenktag des lokalen {{< fremdwort id="Schutzpatrons" wort="Schutzpatrons" >}}. Ein anderer möglicher Grund ist, dass in den bereits früh {{< fremdwort id="industrialisierten" wort="industrialisierten" >}} Kantonen die Gewerkschaften einen stärkeren Einfluss hatten und in diesen der 1. Mai somit als Feiertag erkämpft wurde.  
 Vieles um den 1. Mai ist also etwas schwammig. Sicher ist nur, dass am 1. Mai in diesem Jahr nur die wenigsten arbeiten müssen.
 
-{{< definition id="Gewerkschaften" wort="Gewerkschaften" def="Organisation der Arbeitnehmerinnen und Arbeitnehmer einer bestimmten Berufsgruppe zur Durchsetzung ihrer (sozialen) Interessen" >}}
+{{< definition id="Gewerkschaften" wort="Gewerkschaften" def="Organisation der Arbeitnehmerinnen und Arbeitnehmer einer bestimmten Berufsgruppe zur Durchsetzung ihrer (sozialen) Interessen." >}}
 
 {{< definition id="Kundgebungen" wort="Kundgebungen" def="Öffentliche, politische Versammlung unter freiem Himmel" >}}
 
