@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210504_Tag_der_Arbeit_AM_qporei."
 artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
@@ -48,3 +48,9 @@ Vieles um den 1. Mai ist also etwas schwammig. Sicher ist nur, dass am 1. Mai in
 {{< definition id="Schutzpatrons" wort="Schutzpatrons" def="Ist nach römisch-katholischem und orthodoxem Verständnis ein Heiliger, der in besonderer Weise um seine Fürsprache für einen bestimmten Ort, eine Region, einen Beruf oder einen Zustand angerufen wird." >}}
 
 {{< definition id="industrialisierten" wort="industrialisierten" def="Kantone in welchen die Herstellung von Produkten Dank dem Einsatz von Maschinen und effizienteren Arbeitsmethoden stark zunahm." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
