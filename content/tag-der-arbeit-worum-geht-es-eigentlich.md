@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "20210504_Tag_der_Arbeit_AM_qporei."
+arbeitsmaterial = "20210504_Tag_der_Arbeit_AM_qporei"
 artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
