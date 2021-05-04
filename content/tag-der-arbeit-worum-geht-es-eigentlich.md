@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-05-04T04:00:00Z
 description = "Die Chinderzytig berichtet, was es mit dem Feiertag vom 1. Mai auf sich hat. "
-draft = true
 fdw = false
 hero_img = "/v1619966291/Media_tag_der_Arbeit_p07iad.jpg"
 img_description = "Das Bild zeigt zwei Personen, die am Laptop arbeiten."
