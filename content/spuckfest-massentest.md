@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-05-05T04:00:00Z
 description = "Spucktests werden in der Schweiz immer mehr gemacht. Die Chinderzytig erzählt heute wie dieser funktioniert. "
-draft = true
 fdw = true
 hero_img = "/v1620191384/medai_massentest_ot1n9c.jpg"
 img_description = ""
