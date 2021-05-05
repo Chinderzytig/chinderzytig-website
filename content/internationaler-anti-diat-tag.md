@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-05-06T04:00:00Z
 description = "Zum internationalen Tag der Diät berichtet die Chinderzytig warum dieser Tag so wichtig ist."
-draft = true
 fdw = false
 hero_img = "/v1620235304/media_dia%CC%88t_fucqyh.jpg"
 img_description = "Das Foto zeigt einen leeren Teller, da manche Menschen aufgrund einer Diät mehrheitlich auf das Essen verzichten."
