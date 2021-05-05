@@ -13,7 +13,7 @@ img_description = "Das Foto zeigt einen leeren Teller, da manche Menschen aufgru
 img_photographer = "Thought Catalog"
 img_src = "https://unsplash.com/photos/fnztlIb52gU"
 kategorien = ["Welt"]
-markierungen = []
+markierungen = ["Gesellschaft", "Gesundheit"]
 paid = false
 slug = ""
 title = "Internationaler Anti-Diät-Tag "
@@ -23,7 +23,7 @@ _Auch wenn es sich langsam verändert, ist das aktuelle Schönheitsideal immer n
 
 Auf den Magazin-Titelseiten und den Laufstegen, in den Werbungen sowie den sozialen Medien sind Personen mit alltäglichen Körpern keine Seltenheit mehr. Trotzdem: Die meisten Männer sind durchtrainiert. Der grösste Teil der Frauen ist entweder sehr schlank oder ebenfalls durchtrainiert, hat einen grossen Hintern und grosse Brüste. Alles in allem ist das aktuelle Schönheitsideal noch immer sehr unrealistisch.
 
-Hinzu kommt, dass vermehrt Bodyshaming betrieben wird. Bodyshaming ist das Beleidigen oder Diskriminieren von Menschen wegen ihres Aussehens, das dem Schönheitsideal nicht entspricht. Besonders häufig ist Bodyshaming im Internet zu beobachten _\[LINK:_ [_https://www.chinderzytig.ch/mein-korper-geht-euch-nichts-an/_](https://www.chinderzytig.ch/mein-korper-geht-euch-nichts-an/ "https://www.chinderzytig.ch/mein-korper-geht-euch-nichts-an/")_._
+Hinzu kommt, dass vermehrt Bodyshaming betrieben wird. Bodyshaming ist das Beleidigen oder Diskriminieren von Menschen wegen ihres Aussehens, das dem Schönheitsideal nicht entspricht. Besonders häufig ist [Bodyshaming](https://www.chinderzytig.ch/mein-korper-geht-euch-nichts-an/. "Bodyshaming") im Internet zu beobachten.
 
 ### Ein grosser Druck
 
@@ -40,3 +40,9 @@ Reduktionsdiäten helfen nicht nur schnell Gewicht zu verlieren, sondern können
 ### Weiterhin wichtige Ziele
 
 Wer selbst magersüchtig war und sich davon erholen konnte, ist Mary Evans Young. Unter anderem aufgrund ihrer eigenen Geschichte hat die britische Autorin im Jahr 1992 den 6. Mai zum Anti-Diät-Tag erklärt. Damit wollte sie darauf aufmerksam machen, dass Diäten der Anfang von gefährlichen Essstörungen sein können. Neben der Aufklärungsarbeit bezüglich der Gesundheitsgefahren von Diäten soll der internationale Aktionstag die Vielfalt natürlicher Grössen- und Gewichtsunterschiede hervorheben, Schönheitsideale kritisch hinterfragen oder auch gegen die Diskriminierung von Übergewichtigen vorgehen. Dieses Jahr findet der Anti-Diät-Tag bereits zum 29. Mal statt. Das aktuell vorherrschende Schönheitsideal ist aber noch immer sehr unrealistisch. Daher ist dieser Tag und die damit verbundene Aufklärung heute genauso wichtig wie am Anfang der 90er-Jahre – und wird es wahrscheinlich auch noch lange bleiben.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
