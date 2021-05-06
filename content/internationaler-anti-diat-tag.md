@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "https://unsplash.com/photos/fnztlIb52gU"
+arbeitsmaterial = "https://unsplash.com/photos/fnztlIb52gU."
 artikel = true
 author = "Rebekka Christen"
 cc_licence = ""
