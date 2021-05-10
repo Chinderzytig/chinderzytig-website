@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-05-11T04:00:00Z
 description = "Die Chinderzytig zieht einen Zwischenbilanz zum neuen US Präsidenten Joe Biden"
-draft = true
 fdw = false
 hero_img = "/v1620671886/Media_Joe_Biden_srau18.jpg"
 img_description = ""
