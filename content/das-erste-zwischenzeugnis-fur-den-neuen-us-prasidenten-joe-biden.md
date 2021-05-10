@@ -1,19 +1,19 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Nicole Emch"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2021-05-11T04:00:00Z
+description = "Die Chinderzytig zieht einen Zwischenbilanz zum neuen US Präsidenten Joe Biden"
 draft = true
 fdw = false
 hero_img = ""
 img_description = ""
 img_photographer = ""
 img_src = ""
-kategorien = []
-markierungen = []
+kategorien = ["Nordamerika", "Welt"]
+markierungen = ["Politik", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Das erste Zwischenzeugnis für den neuen US-Präsidenten Joe Biden "
