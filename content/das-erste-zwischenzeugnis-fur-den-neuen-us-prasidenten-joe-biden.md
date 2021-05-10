@@ -8,7 +8,7 @@ date = 2021-05-11T04:00:00Z
 description = "Die Chinderzytig zieht einen Zwischenbilanz zum neuen US Präsidenten Joe Biden"
 draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1620671886/Media_Joe_Biden_srau18.jpg"
 img_description = ""
 img_photographer = "Gayatri Malhotra"
 img_src = "https://unsplash.com/photos/qBBS6GvyCA8"
@@ -43,6 +43,5 @@ Eine Umfrage unter den US-Amerikanern zeigt, dass 52% Prozent zufrieden sind mit
 
 Viele Regierungschefs und Politiker weltweit reagieren erleichtert auf den neuen Präsidenten. Die Handlungen der USA sind wieder voraussehbarer, es gibt weniger Überraschungen als noch bei Trump. Biden will die internationale Zusammenarbeit vorantreiben und sich nicht isolieren.
 
-Problematisch ist hingegen die Beziehung mit Russland, seit dem kalten Krieg eine Art Erzfeind der USA. Manche haben Angst, dass diese Rivalität nun wieder stärker wird. Die US-Regierung hat Mitte April Sanktionen gegen Russland beschlossen und Diplomaten aus dem Land gewiesen. Der Grund dafür ist die angebliche Einmischung Russlands in den US-Wahlkampf und Hackerangriffe. Auch dass Russland wieder Truppen an die Grenze zur Ukraine geschickt hatte, kommt in den USA gar nicht gut an. Russland kündigte Gegenmassnahmen an.
-
+Problematisch ist hingegen die Beziehung mit Russland, seit dem kalten Krieg eine Art Erzfeind der USA. Manche haben Angst, dass diese Rivalität nun wieder stärker wird. Die US-Regierung hat Mitte April Sanktionen gegen Russland beschlossen und Diplomaten aus dem Land gewiesen. Der Grund dafür ist die angebliche Einmischung Russlands in den US-Wahlkampf und Hackerangriffe. Auch dass Russland wieder Truppen an die Grenze zur Ukraine geschickt hatte, kommt in den USA gar nicht gut an. Russland kündigte Gegenmassnahmen an.  
 Die beiden Länder wollen aber im Gespräch bleiben. Biden hat ein Treffen im Sommer vorgeschlagen. Dieses soll in Europa stattfinden. Vielleicht sogar in der Schweiz. Mehrere Quellen sagen, dass die Schweizer Botschafter in den beiden Ländern eine offizielle Einladung in die Schweiz verteilt haben. Vielleicht führt eine der ersten Auslandsreisen des neuen US-Präsidenten also zu uns. Wir werden es sehen.
