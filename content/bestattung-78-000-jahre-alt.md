@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-05-13T04:00:00Z
 description = "Das älteste Grab wurde kürzlich in Afrika entdeckt. "
-draft = true
 fdw = false
 hero_img = "/v1620883360/Media_Bestattung_zyu1pa.jpg"
 img_description = "Das Bild zeigt ein Grab mit wunderschönen Blumen"
