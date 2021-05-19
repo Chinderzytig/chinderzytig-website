@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-05-19T04:00:00Z
 description = "Die Chinderzytig berichtet über den neusten Konflikt im Nahen Osten"
-draft = true
 fdw = true
 hero_img = "/v1621401410/Media_Israel_yz2q1h.jpg"
 img_description = "Das Bild zeigt Palästina"
