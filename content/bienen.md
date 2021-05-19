@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210520_Weltbienentag_AM_qrvv4p"
 artikel = true
 author = "Désirée Scheidegger"
 cc_licence = ""
 cc_src = ""
 date = 2021-05-20T04:00:00Z
 description = "Am 20. Mai ist Weltbienentag. Die Chinderzytig richtet den Fokus einmal auf diese Lebewesen."
-draft = true
 fdw = false
 hero_img = "/v1621274553/Media_Bienen_fawg5z.jpg"
 img_description = "Eine Biene die gerade Honig herstellt. "
@@ -36,3 +35,9 @@ In einem Honigbienenvolk gibt es drei Arten von Bienen. Die Arbeiterinnen, die D
 Leider wird die weltweite Anzahl Bienen immer kleiner, weil sie einerseits Lebensräume verlieren und ausserdem auf Pflanzen, die mit Pestiziden behandelt werden, keine Nahrung mehr finden. Was können wir tun, um die Bienen zu schützen und ihnen zu helfen? Wer einen Balkon oder einen Garten hat, kann dort Nahrung für die Bienen anpflanzen wie Rosmarin oder Thymian. Ausserdem sollte im privaten Garten und Balkon auf chemische Pflanzenschutzmittel verzichtet werden. Wer noch weitergehen möchte, kann ein sogenanntes Insektenhotel aufstellen. Vor allem aber sollten wir nicht vergessen, welche wichtige Bedeutung diese kleinen Wesen für das Leben auf der Erde haben.
 
 Magst du gerne Honig? Welche der drei Bienenarten wärst du am liebsten, wenn du eine Biene wärst? Wirst du in Zukunft dazu beitragen, die Bienen zu schützen?
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
