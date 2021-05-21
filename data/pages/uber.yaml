@@ -1,10 +1,4 @@
 team:
-- img: "Yvonne_pnn93g.png"
-  desc: Yvonne Bischof
-  info:
-    - name: Yvonne Bischof
-      title: Verantwortung Ressort Bildung, Co-Präsidentin
-      focus: Lehrperson Zyklus 2
 - img: "Seraina_kqachl.png"
   desc: Seraina Branschi
   info:
@@ -33,40 +27,41 @@ team:
 others:
 - heading: Ressort Redaktion
   members:
-    - member: Seraina Branschi, Vorstand, Chefredaktorin
-    - member: Lars Ziörjen, Vorstand, Fokus der Woche
-    - member: Georg Stalder, Journalist
-    - member: Rebekka Christen, Studentin
-    - member: Annic Berset, Journalistin
-    - member: Kathrin Hausammann, Maketing und Kommunikation
-    - member: Désirée Scheidegger, Autorin
-    - member: Nicole Emch
+    - member: • Seraina Branschi, Vorstand, Chefredaktorin
+    - member: • Lars Ziörjen, Vorstand, Fokus der Woche
+    - member: • Georg Stalder, Journalist
+    - member: • Rebekka Christen, Studentin
+    - member: • Annic Berset, Journalistin
+    - member: • Kathrin Hausammann, Maketing und Kommunikation
+    - member: • Désirée Scheidegger, Autorin
+    - member: • Nicole Emch
+    - member: • Christoph Kuhn, Lehrperson Zyklus 3
+    - member: • Oliver Dick, Schüler
+    - member: • Studierende der PHBern IS1
+    - member: • Und weitere
 - heading: Ressort Bildung (Pädagogik & Didaktik)
   members:
-    - member: Yvonne Bischof, Hauptverantwortung, Lehrperson Zyklus 2
-    - member: Melanie Cabaleiro, Vorstand, Lehrperson Zyklus 2
-    - member: Simone Gfeller, Lehrperson Zyklus 1
-    - member: Franziska Andermatt, Lehrperson Zyklus 1
-    - member: Michèle Häberli, Lehrperson Zyklus 2
-    - member: Flavia Marti, Lehrperson Zyklus 2
-    - member: Franziska Streit, Heilpädagogik-Lehrperson Zyklus 1
-    - member: Sarah Sturny, Lehrperson Zyklus 2
-    - member: Camille Hegi, Lehrperson Zyklus 1/Zyklus 2
-    - member: Melanie von Allmen, Lehrperson Zyklus 1/Zyklus 2
-- heading: Erweiterte Redaktion
-  members:
-    - member: Christoph Kuhn, Lehrperson Zyklus 3
-    - member: Oliver Dick, Schüler
-    - member: Studierende der PHBern IS1
+    - member: • Yvonne Bischof, Hauptverantwortung, Lehrperson Zyklus 2
+    - member: • Melanie Cabaleiro, Vorstand, Lehrperson Zyklus 2
+    - member: • Simone Gfeller, Lehrperson Zyklus 1
+    - member: • Franziska Andermatt, Lehrperson Zyklus 1
+    - member: • Michèle Häberli, Lehrperson Zyklus 2
+    - member: • Flavia Marti, Lehrperson Zyklus 2
+    - member: • Franziska Streit, Heilpädagogik-Lehrperson Zyklus 1
+    - member: • Sarah Sturny, Lehrperson Zyklus 2
+    - member: • Camille Hegi, Lehrperson Zyklus 1/Zyklus 2
+    - member: • Melanie von Allmen, Lehrperson Zyklus 1/Zyklus
 - heading: Institutionelle Unterstützung
   members:
-    - member: Genossenschaft Migros-Aare
-    - member: PHBern IS1, Institutsleiterin Andrea Schweizer
-    - member: PHBern IVP, Institutsleiterin Katharina Kalcsics
-    - member: Spick News, Roger Hartmann und Alexander Volz
-    - member: Stiftung Rollis-Senta Meyer
+    - member: • mirroco GmbH (Paula Duwan)
+    - member: • Genossenschaft Migros-Aare
+    - member: • PHBern IS1, Institutsleiterin Andrea Schweizer
+    - member: • PHBern IVP, Institutsleiterin Katharina Kalcsics
+    - member: • Spick News, Roger Hartmann und Alexander Volz
+    - member: • Stiftung Rollis-Senta Meyer
 - heading: Sonstiges
   members:
-    - member: Walter Ziörjen, Finanzen
-    - member: Selina Häuselmann, Social Media
-    - member: Matthew LaPorte, Web-Entwickler
+    - member: • Walter Ziörjen, Finanzen
+    - member: • Selina Häuselmann, Social Media
+    - member: • Ardijan Sali, Strategie
+    - member: • Matthew LaPorte, Web-Entwickler

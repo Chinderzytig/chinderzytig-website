@@ -77,6 +77,10 @@ companies:
   logo:
     - img: "sm_colour_l7ueym.png"
       desc: Schweizer Medien logo
+- website: "https://www.mirroco.ch"
+  logo:
+    - img: "mirroco-logo_k926vj.png"
+      desc: "Mirroco logo"
 - website: "https://www.gurtenpark.ch/"
   logo:
     - img: "gurten_logo_uaeaxu.jpg"
@@ -117,3 +121,7 @@ companies:
   logo:
     - img: "wikimedia-foundation_s3dcjo.png"
       desc: Wikimedia Foundation logo
+- website: "http://schulkreis-bethlehem.ch/tscharnergut/"
+  logo:
+    - img: "schule_tscharnergut_dpbit7.png"
+      desc: Schule Tscharnergut placeholder
