@@ -121,3 +121,7 @@ companies:
   logo:
     - img: "wikimedia-foundation_s3dcjo.png"
       desc: Wikimedia Foundation logo
+- website: "http://schulkreis-bethlehem.ch/tscharnergut/"
+  logo:
+    - img: "schule_tscharnergut_dpbit7.png"
+      desc: Schule Tscharnergut placeholder
