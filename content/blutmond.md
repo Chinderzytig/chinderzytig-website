@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210525_Blutmond_AM_efbxnf"
 artikel = true
 author = "Samira Lussi"
 cc_licence = ""
 cc_src = ""
 date = 2021-05-25T04:00:00Z
 description = "Die Chinderzytig schreibt über das Naturspektakel vom Blutmond"
-draft = true
 fdw = false
 hero_img = "/v1621444498/Media_Blutmond_fdmlkz.jpg"
 img_description = "Sichtbarer Blutmond"
@@ -34,3 +33,9 @@ In der nordischen Mythologie ist ein Blutmond ein böses Omen. Dabei spielen Hat
 Auch im Alten Ägypten galt ein Blutmond als böses Omen. Die Menschen glaubten an einen Zweikampf zwischen den Göttern Horus und Seth. Seth schlägt Horus ein Auge aus, als der Mond am Himmel wandert. Der Gott der Heilkunst, Thot, findet das Auge dann in der Dunkelheit und bringt das geheilte Mondauge zu Horus zurück.
 
 Im alten China glaubten die Menschen, dass sich bei einem Blutmond ein Drache der Erde nähert, um sie zu verschlingen. Dieser würde die Erde erst wieder freigeben, wenn die Menschen ihn mit Lärm und Feuerwerk vertreiben. So werden Mondfinsternisse auch Drachenpunkte genannt. Auch wenn wir heute wissen, dass diese Geschichten von Menschen erfunden wurden, um die gespenstische Atmosphäre des Blutmondes zu erklären, sind sie trotzdem immer noch lesenswert. Wer weiss, vielleicht erinnert ihr euch beim nächsten Blutmond an diese Geschichten und erzählt sie euren Freunden weiter.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
