@@ -25,4 +25,4 @@ title = "Abstimmung "
 
 {{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Pro_pzejzn" caption="Gastkommentar-Pro" >}}
 
-{{< document doc="Enter file name here" caption="Gastkommentar-Contra" >}}
+{{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Contra_bijxid" caption="Gastkommentar-Contra" >}}
