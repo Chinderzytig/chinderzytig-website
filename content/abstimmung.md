@@ -16,7 +16,7 @@ kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "Abstimmung "
+title = "Anti-Terrorgesetz"
 
 +++
 
