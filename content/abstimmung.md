@@ -19,9 +19,10 @@ slug = ""
 title = "Abstimmung "
 
 +++
-
 {{ container-center }}
 
 {{ /container-center }}
 
-{{< document doc="Enter file name here" caption="Enter document caption here" >}}
+{{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Pro_pzejzn" caption="Gastkommentar-Pro" >}}
+
+{{< document doc="Enter file name here" caption="Gastkommentar-Contra" >}}
