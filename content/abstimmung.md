@@ -19,9 +19,6 @@ slug = ""
 title = "Abstimmung "
 
 +++
-{{ container-center }}
-
-{{ /container-center }}
 
 {{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Pro_pzejzn" caption="Gastkommentar-Pro" >}}
 
