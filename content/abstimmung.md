@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-05-26T04:00:00Z
 description = "Die Chinderzytig berichtet über die Abstimmung vom 13. Juni 2021"
-draft = true
 fdw = true
 hero_img = "/v1622004074/Media_Abstimmung_czflvp.png"
 img_description = "Nein zu den extremen Agrar-Initiativen"
