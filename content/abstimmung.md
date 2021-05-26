@@ -152,13 +152,13 @@ Gegen das neue CO2-Gesetz wurde das Referendum ergriffen. Deshalb stimmen wir nu
 * Das Gesetz unterstützt Unternehmen, die klimafreundliche Technologien entwickeln und nutzen. Das schafft Arbeitsplätze.
 * Das Gesetz ist fair. Wer z.B. nicht fliegt, bezahlt keine Flugticketabgabe. Wer wenig CO2 ausstösst, spart sogar Geld.
 
-Argumente der GegnerInnen
+**Argumente der GegnerInnen**
 
 * Das neue Gesetz bringt höhere Abgaben und mehr Verbote. Das kann sich die Bevölkerung nicht leisten.
 * Die Schweiz hat kaum Einfluss auf das weltweite Klima. Um das Klima zu beeinflussen, müssen Länder wie China oder die USA weniger CO2 ausstossen.
 * Das CO2-Gesetz bekämpft den Klimawandel nicht. Es braucht radikal andere Lösungen, wie einen Systemwandel, um das Klima zu schützen.
 
-PMT-Gesetz («Terrorismus-Bekämpfung»)
+### PMT-Gesetz («Terrorismus-Bekämpfung»)
 
 Die Polizei soll mit neuen Massnahmen vorbeugend eingreifen können, um terroristische Aktivität zu verhindern.
 
