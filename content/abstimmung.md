@@ -183,6 +183,8 @@ Das PMT-Gesetz sieht vor, dass Kantone, Gemeinden oder der Nachrichtendienst des
 * 12-Jährige können von den Massnahmen betroffen sein. Das verstösst gegen internationale Kinder- und Menschenrechte.
 * Das Gesetz ist gefährlich. Personen werden leicht verdächtigt, können ihre Unschuld aber nur schwer beweisen.
 
+Ein Pro- und Contra Kommentar zum Thema MPT-Gesetz ist hier verfügbar:
+
 {{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Pro_pzejzn" caption="Gastkommentar-Pro" >}}
 
 {{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Contra_bijxid" caption="Gastkommentar-Contra" >}}
