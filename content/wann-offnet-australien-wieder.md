@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-05-27T04:00:00Z
 description = "Aufgrund der Coronakrise bleiben die Grenzen zu Australien bis Mitte 2022 geschlossen. Was bedeutet das?"
-draft = true
 fdw = false
 hero_img = "/v1622090216/Media_Australien_ggxoaa.jpg"
 img_description = "Das Bild zeigt Sidney, Australien"
