@@ -100,7 +100,7 @@ Damit der Bundesrat die Regelungen danach weiterführen konnte, beschloss das Pa
 * Unternehmen und Arbeitnehmende entschädigen, die wegen der Corona-Einschränkungen nicht arbeiten dürfen oder können;
 * die Kantone bei der Entschädigung von Unternehmen unterstützen, die wegen der Corona-Einschränkungen weniger Einnahmen haben;
 * Kultur, Sportvereine und Medien unterstützen, die wegen der Corona-  
-   Einschränkungen weniger Einnahmen haben;
+  Einschränkungen weniger Einnahmen haben;
 * Ausnahmen bei der Zulassung von Medikamenten beschliessen. Ausnahmen bei der Zulassung von Impfstoffen sind nicht vorgesehen.
 
 Die meisten Regelungen gelten voraussichtlich bis Ende 2021; einzelne Bestimmungen gelten bis Ende 2022.
@@ -185,9 +185,19 @@ Das PMT-Gesetz sieht vor, dass Kantone, Gemeinden oder der Nachrichtendienst des
 
 Ein Pro- und Contra Kommentar zum Thema MPT-Gesetz ist hier verfügbar:
 
+{{< teiler >}}
+
+### Gastkommentare
+
+{{< container-center >}}
+
 {{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Pro_pzejzn" caption="Gastkommentar-Pro" >}}
 
 {{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Contra_bijxid" caption="Gastkommentar-Contra" >}}
+
+{{< /container-center >}}
+
+{{< teiler >}}
 
 ### Nun bist du dran
 
