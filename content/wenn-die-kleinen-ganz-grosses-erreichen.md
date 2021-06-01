@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-06-01T04:00:00Z
 description = "Zum Internationalen Tag der Kinder berichtet die Chinderzytig heute über zwei ganz besondere Kinder"
-draft = true
 fdw = false
 hero_img = "/v1622523028/Media_Kids_tdjzgh.jpg"
 img_description = "Kinder beim Spielen"
@@ -46,7 +45,7 @@ Alma und Tyler sind aber nur zwei von ganz vielen Kindern, die uns zeigen, dass 
 
 {{< definition id="4‘000er" wort="4‘000er" def="Im Bergsteigen bezeichnet man einen Berg, welcher über 4'000 Meter hoch ist als einen 4'000er." >}}
 
-{{< definition id="Mount Whitney" wort="Mount Whitney" def="Der Mount Whitney liegt im amerikanischen Bundestaat Kalifornien und is der höchste Berg auf US-amerikanischem Festland." >}}
+{{< definition id="Mount Whitney" wort="Mount Whitney" def="Der Mount Whitney liegt im amerikanischen Bundestaat Kalifornien und ist der höchste Berg auf US-amerikanischem Festland." >}}
 
 {{< definition id="Komponistin" wort="Komponistin" def="Eine Komponistin oder Komponist erfindet Musikstücke und schreibt sie auf." >}}
 
