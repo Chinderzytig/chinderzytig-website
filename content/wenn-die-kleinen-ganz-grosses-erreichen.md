@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210601_Kindertag_AM_mqyozp"
 artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
@@ -8,7 +8,7 @@ date = 2021-06-01T04:00:00Z
 description = "Zum Internationalen Tag der Kinder berichtet die Chinderzytig heute über zwei ganz besondere Kinder"
 draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1622523028/Media_Kids_tdjzgh.jpg"
 img_description = "Kinder beim Spielen"
 img_photographer = "Robert Collins"
 img_src = "https://unsplash.com/photos/tvc5imO5pXk"
@@ -25,9 +25,8 @@ Obwohl in der Schweiz erst am 20. November offiziell der Kindertag gefeiert wird
 
 ### Tyler Armstrong
 
-Tyler Robert Armstrong ist heute 17 Jahre alt und kommt aus den USA. Während viele Jugendliche sich erst in diesem Alter Gedanken darüber machen, was sie später werden möchten, hat Tyler schon heute eine zehnjährige Bergsteigerkarriere hinter sich. Tyler hat nämlich bereits mit sieben Jahre seinen ersten 4‘000er [\[BK1\]](#_msocom_1) bestiegen.
-
-Seine Karriere begann, als er mit sechs Jahren hörte, dass die jüngste Person, welche den Mount Whitney[\[BK2\]](#_msocom_2) jemals bestiegen hatte, neun Jahre alt war. Danach hat er angefangen jeden Tag zu trainieren, und bereits ein Jahr später stand er auf der Spitze des Mount Whitney. Auf seinen Lorbeeren ausgeruht hat er sich danach aber nicht.
+Tyler Robert Armstrong ist heute 17 Jahre alt und kommt aus den USA. Während viele Jugendliche sich erst in diesem Alter Gedanken darüber machen, was sie später werden möchten, hat Tyler schon heute eine zehnjährige Bergsteigerkarriere hinter sich. Tyler hat nämlich bereits mit sieben Jahre seinen ersten {{< fremdwort id="4‘000er" wort="4‘000er" >}} bestiegen.   
+Seine Karriere begann, als er mit sechs Jahren hörte, dass die jüngste Person, welche den {{< fremdwort id="Mount Whitney" wort="Mount Whitney" >}} jemals bestiegen hatte, neun Jahre alt war. Danach hat er angefangen jeden Tag zu trainieren, und bereits ein Jahr später stand er auf der Spitze des Mount Whitney. Auf seinen Lorbeeren ausgeruht hat er sich danach aber nicht.
 
 Bereits ein Jahr darauf bestieg Tyler den Kilimanjaro. Der Gipfel des höchsten Berges in Afrika liegt über 5‘800 Meter und befindet sich in Tansania. Nach viel Training und einer 8-tägigen Tour stand Tyler auf der Spitze Afrikas. Seine beeindruckendste sportliche Leistung kam aber dann, als er den Aconcagua in Argentinien bestieg. Da er den höchsten Berg auf dem amerikanischen Kontinent mit nur neun Jahren bezwungen hat, ist er bis heute der jüngste Mensch, der auf dessen Gipfel stand.
 
@@ -35,7 +34,7 @@ Tyler klettert aber nicht nur für sich, denn als er einen gelähmten Jungen ken
 
 ### Alma Deutscher
 
-Nicht weniger beeindruckend ist Alma Elizabeth Deutscher. Sie ist heute 16 Jahre alt und ist eine britische Komponistin[\[BK3\]](#_msocom_3) , Pianistin und Geigerin. Auch sie hat schon sehr viel erreicht. Alma gilt nämlich als musikalisches Wunderkind und hat ihre erste Klaviersonate [\[BK4\]](#_msocom_4) bereits mit nur sechs Jahren komponiert. Im Alter von zehn Jahren schuf sie ihre erst Oper[\[BK5\]](#_msocom_5) . In den folgenden Jahren arbeitete sie an verschiedenen Projekten, bis sie mit ihrer zweiten Oper mit dem Titel Cinderella den grossen Erfolg feierte. Die Oper wurde weltweit in verschiedenen Ländern aufgeführt und sorgte dafür, dass Alma internationale Bekanntheit erreichte. Seither tritt sie regelmässig rund um die Welt auf und war schon bei Präsidenten und Kanzlern zu Gast.
+Nicht weniger beeindruckend ist Alma Elizabeth Deutscher. Sie ist heute 16 Jahre alt und ist eine britische {{< fremdwort id="Komponistin" wort="Komponistin" >}}, Pianistin und Geigerin. Auch sie hat schon sehr viel erreicht. Alma gilt nämlich als musikalisches Wunderkind und hat ihre erste {{< fremdwort id="Klaviersonate" wort="Klaviersonate" >}} bereits mit nur sechs Jahren komponiert. Im Alter von zehn Jahren schuf sie ihre erst {{< fremdwort id="Oper " wort="Oper " >}}. In den folgenden Jahren arbeitete sie an verschiedenen Projekten, bis sie mit ihrer zweiten Oper mit dem Titel Cinderella den grossen Erfolg feierte. Die Oper wurde weltweit in verschiedenen Ländern aufgeführt und sorgte dafür, dass Alma internationale Bekanntheit erreichte. Seither tritt sie regelmässig rund um die Welt auf und war schon bei Präsidenten und Kanzlern zu Gast.
 
 Diesen Erfolg hat sie aber nicht nur ihrem Talent, sondern auch viel harter Arbeit zu verdanken. Denn eine gute Idee zu haben, sei nicht der schwierige Teil. Aber diese dann umzusetzen und auszuarbeiten, brauche viel Zeit, Geduld und Hingabe, erklärte Alma einmal in einem Interview. Diese Arbeit hat sich aber auf jeden Fall gelohnt.
 
@@ -45,12 +44,18 @@ Alma und Tyler sind aber nur zwei von ganz vielen Kindern, die uns zeigen, dass 
 
 ***
 
-[\[BK1\]](#_msoanchor_1)Im Bergsteigen bezeichnet man einen Berg, welcher über 4'000 Meter hoch ist als einen 4'000er
+{{< definition id="4‘000er" wort="4‘000er" def="Im Bergsteigen bezeichnet man einen Berg, welcher über 4'000 Meter hoch ist als einen 4'000er." >}}
 
-[\[BK2\]](#_msoanchor_2)Der Mount Whitney liegt im amerikanischen Bundestaat Kalifornien und is der höchste Berg auf US-amerikanischem Festland.
+{{< definition id="Mount Whitney" wort="Mount Whitney" def="Der Mount Whitney liegt im amerikanischen Bundestaat Kalifornien und is der höchste Berg auf US-amerikanischem Festland." >}}
 
-[\[BK3\]](#_msoanchor_3)Eine Komponistin oder Komponist erfindet Musikstücke und schreibt sie auf.
+{{< definition id="Komponistin" wort="Komponistin" def="Eine Komponistin oder Komponist erfindet Musikstücke und schreibt sie auf." >}}
 
-[\[BK4\]](#_msoanchor_4)Eine Klaviersonate ist meistens ein mehrteiliges Klavierstück, welches von einer Person oder einem sehr kleinen musikalischen Gruppe gespielt wird.
+{{< definition id="Klaviersonate" wort="Klaviersonate" def="Eine Klaviersonate ist meistens ein mehrteiliges Klavierstück, welches von einer Person oder einem sehr kleinen musikalischen Gruppe gespielt wird." >}}
 
-[\[BK5\]](#_msoanchor_5)Eine Oper ist ein Theaterstück, bei dem viel Musik gespielt wird. Die Schauspieler einer Oper müssen deshalb gut singen können, und im Saal spielt auch ein Orchester.
+{{< definition id="Oper " wort="Oper " def="Eine Oper ist ein Theaterstück, bei dem viel Musik gespielt wird. Die Schauspieler einer Oper müssen deshalb gut singen können, und im Saal spielt auch ein Orchester." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
