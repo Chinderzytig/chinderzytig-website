@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-06-02T04:00:00Z
 description = "Die Chinderzytig schreibt über die Meeresbewohner der ganz besonderen Art"
-draft = true
 fdw = true
 hero_img = "/v1622575397/Media_Mu%CC%88ll_im_See_tklekv.jpg"
 img_description = "Müll im Meer"
