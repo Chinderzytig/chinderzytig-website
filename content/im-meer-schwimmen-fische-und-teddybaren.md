@@ -30,7 +30,7 @@ Ja, Plastik. Wir Menschen schaffen es, dass wir die Umwelt bis in die tiefsten W
 
 ### Wo ist das Problem?
 
-Mittlerweile kennen wir in den Ozeanen der Erde mehrere Plastikmüllfelder. Die Umweltverschmutzung ist brutal, wir zerstören unseren Planeten. Nichts weniger als das! Der grösste Müllstrudel ist der «Great Pacific Garbage Patch», ein Strudel dreimal so gross wie Frankreich. Voller Plastik schwimmt diesem im Pazifik umher. Er enthält 1,8 Trillionen Plastikteile (=1'800'000'000'000'000'000) oder 80'000'000 Kilogramm Plastikmüll. Fische, Vögel und andere Tiere denken, das sei Futter, essen das Plastik und verenden jämmerlich.
+Mittlerweile kennen wir in den Ozeanen der Erde mehrere Plastikmüllfelder. Die Umweltverschmutzung ist brutal, wir zerstören unseren Planeten. Nichts weniger als das! Der grösste Müllstrudel ist der «Great Pacific Garbage Patch», ein Strudel dreimal so gross wie Frankreich. Voller Plastik schwimmt dieser im Pazifik umher. Er enthält 1,8 Trillionen Plastikteile (=1'800'000'000'000'000'000) oder 80'000'000 Kilogramm Plastikmüll. Fische, Vögel und andere Tiere denken, das sei Futter, essen das Plastik und verenden jämmerlich.
 
 ### Nun bist du dran!
 
