@@ -1,19 +1,18 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210603_Fahrradfakten_AM_gqmyyv"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2021-06-03T04:00:00Z
 description = "Alles über das weit verbreitetste Fortbewegungsmittel "
-draft = true
 fdw = false
 hero_img = "/v1622651424/Media_Velo_r90cwu.jpg"
 img_description = "Velos in Amsterdam"
 img_photographer = "Jace & Afsoon"
 img_src = "https://unsplash.com/photos/VEXIwDcY1gw"
-kategorien = []
-markierungen = []
+kategorien = ["Welt"]
+markierungen = ["Gesellschaft", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Ein Hoch auf den Drahtesel "
@@ -42,3 +41,9 @@ Auch in Amsterdam fährt über die Hälfte der Einwohnerinnen und Einwohner täg
 Solche Einrichtungen fehlen in der Schweiz noch. Und auch der Anteil des Veloverkehrs am Gesamtverkehr liegt in den Schweizer Städten noch weit hinter den typischen Velostädten von Europa (Basel: 17%, Bern: 15%, Zürich: 12%, Quelle: [Städtevergleich Mobilität](https://skm-cvm.ch/cmsfiles/stadtevergleich_mobilitat_2015_1.pdf), 2015). Aber wer weiss, vielleicht sehen die Zahlen nach dem neusten Veloboom ja bald anders aus.
 
 Zum Schluss noch eine witzige Anekdote aus der Geschichte des Velos: Als das Velofahren erfunden wurde, warnten Wissenschaftler vor dem sogenannten „Velogesicht“. Sie glaubten, dass sich das Gesicht durch den Fahrtwind verformen könnte. Wie gut, dass sich auch Wissenschaftler hie und da mal irren können…
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
