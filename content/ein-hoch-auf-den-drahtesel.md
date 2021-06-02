@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "20210603_Fahrradfakten_AM_gqmyyv"
+arbeitsmaterial = "20210603_Fahrradfakten_AM_b3zylt"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
