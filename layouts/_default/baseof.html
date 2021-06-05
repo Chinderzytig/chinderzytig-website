@@ -21,5 +21,17 @@
 		    },
 		  });
 		</script>
+		{{ if or .Site.Pages ".Params.artikel" true }}
+			<script src="https://webreader.naturalreaders.com/nr-webreader.js" defer></script>
+			<script>
+					window.addEventListener("DOMContentLoaded", function() {
+							if (typeof NRWebReader != 'undefined') {
+									window['NRWebReader'] = new NRWebReader({
+									widget_id: "8k6ecrnosd"  // DO NOT REMOVE. This is your widget ID for your WebReader
+									});
+							}
+					});
+			</script>
+		{{ end }}
 	</body>
 </html>
