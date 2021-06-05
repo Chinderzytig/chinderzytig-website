@@ -22,7 +22,7 @@ _Wir schreiben immer wieder über das Meer. Schliesslich leben wir auf dem „Bl
 
 ### Die Unterwasserwelt wird vermenschlicht
 
-Dr. Deo Florence Onda tauchte tief, sehr tief. Als erster Mensch besuchte er den dritttiefsten Ozenagraben der Welt. Im philippinischen Ozenagraben, 10'000 Meter tief, erhoffte er sich viel Neues zu entdecken. Neue Lebewesen, neue Kreaturen, neues Wissen. Eine Reise, die so tief geht, ist vergleichbar mit einem Flug ins All. Dort unten ist es finster, verlangsamt, eigenartig, beängstigend – und vermutlich auch sehr faszinierend. Ganze zwölf Stunden dauerte der Tauchgang, bis er im Graben unten ankam. Die Spannung stieg, als die Landung bevorstand. Er erwartete alles, er erwartete Unglaubliches und er entdeckte…
+Dr. Deo Florence Onda tauchte tief, sehr tief. Als erster Mensch besuchte er den dritttiefsten Ozeangraben der Welt. Im philippinischen Ozeangraben, 10'000 Meter tief, erhoffte er sich viel Neues zu entdecken. Neue Lebewesen, neue Kreaturen, neues Wissen. Eine Reise, die so tief geht, ist vergleichbar mit einem Flug ins All. Dort unten ist es finster, verlangsamt, eigenartig, beängstigend – und vermutlich auch sehr faszinierend. Ganze zwölf Stunden dauerte der Tauchgang, bis er im Graben unten ankam. Die Spannung stieg, als die Landung bevorstand. Er erwartete alles, er erwartete Unglaubliches und er entdeckte…
 
 ### …Plastik!
 
