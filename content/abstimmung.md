@@ -20,7 +20,7 @@ title = "Mogelpackung; Preistreiber; gefährlich; extrem...?"
 +++
 _Sicher hast du in letzter Zeit solche Plakate, wie oben auf dem Bild gesehen, die an fast jedem Bauernhof hängen. Was hat es damit auf sich?_
 
-Am 13. Juni 2021 können die Schweizer Stimmberechtigten über vier Vorlagen abstimmen:
+Am 13. Juni 2021 können die Schweizer Stimmberechtigten über fünf Vorlagen abstimmen:
 
 1\. Zwei Volksinitiativen zielen auf eine ökologischere Landwirtschaft:  
 \- Die Trinkwasserinitiative will, dass Bauern Direktzahlungen vom Staat nur noch erhalten, wenn sie zusätzliche ökologische Regeln einhalten.  
