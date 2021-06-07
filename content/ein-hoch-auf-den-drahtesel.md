@@ -18,7 +18,7 @@ slug = ""
 title = "Ein Hoch auf den Drahtesel "
 
 +++
-_Zwei Räder, ein Sattel, zwei Pedale, ein Lenker – ein Rahmen dazu und fertig ist das weltweit beliebteste und weit verbreitetste Fortbewegungsmittel. Seit über 200 Jahren bringt uns das Velo von A nach B. Und seit Corona erlebt das Velo einen regelrechten Boom._
+_Zwei Räder, ein Sattel, zwei Pedale, ein Lenker – ein Rahmen dazu und fertig ist das weltweit beliebteste und verbreitetste Fortbewegungsmittel. Seit über 200 Jahren bringt uns das Velo von A nach B. Und seit Corona erlebt das Velo einen regelrechten Boom._
 
 Heute ist offizieller Weltfahrradtag. Er wurde ins Leben gerufen, um auf den Nutzen des Velos für die Gesellschaft und die Umwelt hinzuweisen. Das Velo sollte mehr beachtet werden als Fortbewegungsmittel für den täglichen Gebrauch – zum Beispiel für den Weg zur Arbeit. Nun hat Corona für diese Aufmerksamkeit gesorgt. Im letzten Jahr ist die Nachfrage nach Velos so stark gestiegen wie noch nie. Man spricht von einem Boom. Die Lager der Velohändler sind leer gekauft. Die Hersteller kommen mit der Produktion von neuen Velos kaum nach. Über 90 Prozent aller Velos werden in Asien hergestellt.
 
