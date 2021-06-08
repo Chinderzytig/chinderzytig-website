@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-06-08T04:00:00Z
 description = "Ein Bericht über den Tag des Meeres und den blauen Planeten."
-draft = true
 fdw = false
 hero_img = "/v1623125763/Media_Meer_wgtg6m.jpg"
 img_description = "Ein Bild vom Meer. "
@@ -32,6 +31,8 @@ Wie vielfältig das Leben im Wasser ist, können wir uns von aussen gar nicht ri
 Die Vielfalt unter den Fischen ist ebenfalls riesig. Es gibt Arten, die sind nur wenige Zentimeter gross, andere mehrere Meter lang. Es gibt runde Fische, flache Fische und lange, fast schlangenartige Fische. Manche bleiben ihr Leben lang am selben Ort, andere bewegen sich im offenen Meer. Lachse zum Beispiel schwimmen jedes Jahr vom Meer zurück ins Süsswasser, um Eier zu legen. Dabei müssen sie sich flussaufwärts kämpfen und auch kleine Wasserfälle und Wehre überwinden und sich an die unterschiedliche Salzkonzentration im Wasser anpassen. Eine andere bekannte Fischart sind Heringe. Sie sind immer in riesigen Schwärmen unterwegs und reagieren panisch und orientierungslos, wenn sie den Kontakt zu den anderen Fischen verlieren. Das Meer hat aber auch weiterhin zahlreiche Mysterien. Über die Tiefsee beispielsweise weiss man noch sehr wenig. Immer wieder werden neue Tier- und Pflanzenarten entdeckt. Es gibt Fische, die eingebaute Leuchten haben, um sich hier in kompletter Dunkelheit zu bewegen.
 
 Während sich die kleineren Fische von Plankton ernähren, essen die grösseren Fische die kleineren. Auch Säugetiere und Vögel sind Teil dieses natürlichen Kreislaufs und spielen eine wichtige Rolle im Ökosystem.
+
+### Gemeinsam die Meere schützen
 
 Von den zahlreichen Lebewesen im Meer waren Fische schon immer besonders wertvoll für uns Menschen. Viele Millionen Menschen leben direkt vom Fischfang. Doch seit Jahren wird zu viel gefischt. Abwasser aus der Industrie, Siedlungen und der Landwirtschaft bedrohen die Fische zusätzlich. Zudem hat man festgestellt, dass sich beispielsweise Quallen in Gebieten, in denen gewisse Fischsorten wie Sardellen intensiv gefischt wurden, stark vermehrt haben, da sie auf einmal keine natürlichen Feinde mehr hatten. Andernorts konnte aber auch beobachtet werden, dass Schutzmassnahmen durchaus Wirkung zeigen und Fisch- und Pflanzenarten in Gebiete zurückgekehrt sind, aus denen sie verschwunden waren.
 
