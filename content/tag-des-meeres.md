@@ -36,3 +36,9 @@ Während sich die kleineren Fische von Plankton ernähren, essen die grösseren 
 Von den zahlreichen Lebewesen im Meer waren Fische schon immer besonders wertvoll für uns Menschen. Viele Millionen Menschen leben direkt vom Fischfang. Doch seit Jahren wird zu viel gefischt. Abwasser aus der Industrie, Siedlungen und der Landwirtschaft bedrohen die Fische zusätzlich. Zudem hat man festgestellt, dass sich beispielsweise Quallen in Gebieten, in denen gewisse Fischsorten wie Sardellen intensiv gefischt wurden, stark vermehrt haben, da sie auf einmal keine natürlichen Feinde mehr hatten. Andernorts konnte aber auch beobachtet werden, dass Schutzmassnahmen durchaus Wirkung zeigen und Fisch- und Pflanzenarten in Gebiete zurückgekehrt sind, aus denen sie verschwunden waren.
 
 Es liegt also an uns, den Meeren, den Ökosystemen Sorge zu tragen. Diese Ökosysteme sind vielfach so gross, dass sie Landesgrenzen überschreiten. Es braucht deshalb die Zusammenarbeit aller, um die Meere zu schützen. Länder sollten sich um ihre Küstengebiete kümmern, mit den Nachbarstaaten zusammenarbeiten und sich auf ein schonendes Fischereimanagement einigen. Es braucht aber auch den Einsatz jedes und jeder Einzelnen, zum Beispiel indem wir nicht mehr so viel Einwegplastik einkaufen, sondern auf nachhaltige Varianten setzen. Daran sollten wir uns erinnern und dies nicht nur heute am internationalen Tag des Meeres, sondern jeden Tag.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
