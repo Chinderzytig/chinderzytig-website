@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-06-09T04:00:00Z
 description = "Was das Covid-Zertifikat für uns bedeutet"
-draft = true
 fdw = true
 hero_img = "/v1623193334/QR_Media_x2vqdi.jpg"
 img_description = "QR Code für das Covid-Zertifikat"
