@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-06-10T04:00:00Z
 description = "Ein Bericht über Wölfe in der Schweiz "
-draft = true
 fdw = false
 hero_img = "/v1623167804/Media_Wolf_gc7z3n.jpg"
 img_description = "Das Bild zeigt einen Wolf im Wald"
