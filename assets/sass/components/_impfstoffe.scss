@@ -72,6 +72,8 @@
 	text {
 		font-family: $font-patrick, $font-fallback;
 		font-size: $font-bigger;
+
+		@include respond(phone-xl) { font-size: 3rem; }
 	}
 }
 
