@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-06-15T04:00:00Z
 description = "Was Gross und Klein über die Windenergie wissen muss"
-draft = true
 fdw = false
 hero_img = "/v1623697173/Wind_Media_wff6kp.jpg"
 img_description = "Das Bild zeigt Windenergieanlagen"
@@ -51,8 +50,14 @@ In der Schweiz wird der Global Wind Day leider noch nicht offiziell begangen. Da
 
 {{< definition id="Industrialisierung" wort="Industrialisierung" def="In dieser Zeit wurden viele Erfindungen gemacht. Das veränderte die Wirtschaft: Viele Bergwerke und Fabriken wurden aufgebaut. Menschliche Handarbeit wurde durch Maschinen ersetzt. Diese Zeit hat viele Veränderungen mit sich gebracht, und deshalb nennt man sie auch die industrielle Revolution." >}}
 
-Eine Dampfmaschine erhitzt Wasser, so dass daraus Dampf wird. Aus dem Dampf macht sie Bewegung. Mit der Bewegung wird eine andere Maschine angetrieben, zum Beispiel in einer Lokomotive.
+{{< definition id="Dampfmaschine" wort="Dampfmaschine" def="Eine Dampfmaschine erhitzt Wasser, so dass daraus Dampf wird. Aus dem Dampf macht sie Bewegung. Mit der Bewegung wird eine andere Maschine angetrieben, zum Beispiel in einer Lokomotive." >}}
 
 {{< definition id="Treibstoff" wort="Treibstoff" def="Erdöl wird häufig genutzt im Energie zu produzieren. Man kann es verbrennen und die Entstehende Hitze nutzen Strom zu erzeugen, zu Heizen oder Fahrzeuge anzutreiben." >}}
 
 {{< definition id="Atomkraftwerken" wort="Atomkraftwerken" def="Atomkraftwerke werden genutzt im Kerne von bestimmten Atomen zu spalten und somit sehr viel Energie zu erzeugen." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
