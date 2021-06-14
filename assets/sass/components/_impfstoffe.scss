@@ -52,6 +52,11 @@
 	&__num {
 		font-weight: 700;
 		margin-left: 1rem;
+		padding: .5rem;
+
+		&--verdigris { background-color: $chinder-verdigris;}
+
+		&--orange { background-color: $chinder-orange;}
 	}
 
 	&__source {
@@ -62,6 +67,13 @@
 			margin-left: 0;
 			margin-top: 2rem;
 		}
+	}
+
+	text {
+		font-family: $font-patrick, $font-fallback;
+		font-size: $font-bigger;
+
+		@include respond(phone-xl) { font-size: 3rem; }
 	}
 }
 

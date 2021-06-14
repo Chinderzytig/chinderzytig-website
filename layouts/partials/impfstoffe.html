@@ -1,21 +1,25 @@
 <div class="impfstoffe">
 	<div class="impfstoffe__main">
 		<ul class="impfstoffe__stats">
-			<li class="impfstoffe__item">Total gelieferte Dosen:<span class="impfstoffe__num">{{ .gelieferte }}</span></li>
 			<li class="impfstoffe__item">Total verabreichte Dosen:<span class="impfstoffe__num">{{ .verabreichte }}</span></li>
-			<li class="impfstoffe__item">Einfach geimpfte Personen:<span class="impfstoffe__num">{{ .geimpfte }}</span></li>
+			<li class="impfstoffe__item">Mit mind. 1 Impfdosis:<span class="impfstoffe__num impfstoffe__num--orange">{{ .eindosis }}</span></li>
+			<li class="impfstoffe__item">Vollständig geimpft:<span class="impfstoffe__num impfstoffe__num--verdigris">{{ .vollgeimpft }}</span></li>
 		</ul>
 		<svg viewBox="0 0 581 373" xmlns="http://www.w3.org/2000/svg">
 			<defs>
 				<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-					<stop offset="{{ .offleft }}" style="stop-color:rgb(218,41,28);stop-opacity:1" />
-					<stop offset="{{ .offright }}" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+					<stop offset="{{ .fullvac }}" style="stop-color:#30AFAA;stop-opacity:1" />
+					<stop offset="{{ .partvacI }}" style="stop-color:#EC633F;stop-opacity:1" />
+					<stop offset="{{ .partvacII }}" style="stop-color:#EC633F;stop-opacity:1" />
+					<stop offset="{{ .whitespace }}" style="stop-color:#fff;" />
 				</linearGradient>
 			</defs>
 	    <g transform="matrix(1,0,0,1,-21.5,-46.5)">
 	        <g>
 	            <path d="M340,90L324,88L318,81L306,82L290,93L273,92L270,87L260,87L249,95L235,93L240,86L235,84L218,94L211,108L207,117L184,118L180,108L157,106L153,111L141,132L163,135L124,178L104,202L84,214L84,240L80,248L45,277L42,293L40,310L47,319L41,339L23,349L43,362L64,342L57,324L77,310L114,303L129,318L133,338L128,361L140,378L158,389L162,404L188,407L209,397L230,388L261,402L286,374L302,357L298,334L308,331L328,304L341,302L346,346L364,364L391,371L382,389L399,401L400,416L416,418L423,403L411,388L423,374L430,357L443,342L449,322L443,298L456,291L468,291L469,318L486,332L505,331L513,322L534,318L540,331L544,346L561,342L555,326L560,313L557,305L546,298L553,274L569,270L573,284L599,286L601,269L587,262L596,246L594,232L598,213L586,200L576,214L558,226L527,216L520,197L476,191L478,180L475,161L496,119L485,105L481,98L444,76L401,77L378,60L360,48L337,65L358,79L340,90Z" style="fill:url(#grad1);stroke:black;stroke-width:3px;"/>
 	            <path d="M479.669,151.661L486,155L482,161L487,164L489,172L487,179L490,184L494,194" style="fill:none;stroke:black;stroke-width:3px;"/>
+							<text x="100" y="250">25.71%</text>
+							<text x="250" y="250">41.51%</text>
 	        </g>
 	    </g>
 		</svg>
