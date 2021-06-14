@@ -2,15 +2,15 @@
 	<div class="impfstoffe__main">
 		<ul class="impfstoffe__stats">
 			<li class="impfstoffe__item">Total verabreichte Dosen:<span class="impfstoffe__num">{{ .verabreichte }}</span></li>
-			<li class="impfstoffe__item">Mit mind. 1 Impfdosis:<span class="impfstoffe__num">{{ .eindosis }}</span></li>
-			<li class="impfstoffe__item">Vollständig geimpft:<span class="impfstoffe__num">{{ .vollgeimpft }}</span></li>
+			<li class="impfstoffe__item">Mit mind. 1 Impfdosis:<span class="impfstoffe__num impfstoffe__num--orange">{{ .eindosis }}</span></li>
+			<li class="impfstoffe__item">Vollständig geimpft:<span class="impfstoffe__num impfstoffe__num--verdigris">{{ .vollgeimpft }}</span></li>
 		</ul>
 		<svg viewBox="0 0 581 373" xmlns="http://www.w3.org/2000/svg">
 			<defs>
 				<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-					<stop offset="{{ .fullvac }}" style="stop-color:#da291c;stop-opacity:1" />
-					<stop offset="{{ .partvacI }}" style="stop-color:#FDEDE9;stop-opacity:1" />
-					<stop offset="{{ .partvacII }}" style="stop-color:#FDEDE9;stop-opacity:1" />
+					<stop offset="{{ .fullvac }}" style="stop-color:#30AFAA;stop-opacity:1" />
+					<stop offset="{{ .partvacI }}" style="stop-color:#EC633F;stop-opacity:1" />
+					<stop offset="{{ .partvacII }}" style="stop-color:#EC633F;stop-opacity:1" />
 					<stop offset="{{ .whitespace }}" style="stop-color:#fff;" />
 				</linearGradient>
 			</defs>
