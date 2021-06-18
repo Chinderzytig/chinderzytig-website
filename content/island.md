@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-06-18T04:00:00Z
 description = "Die Chinderzytig schreibt über die Unabhängigkeit Islands"
-draft = true
 fdw = false
 hero_img = "/v1623872532/Media_Island_nvbgyu.jpg"
 img_description = "Isländische Flagge"
@@ -36,9 +35,3 @@ Motiviert durch diese Erfolge erreichte Island durch viel Verhandlungsgeschick a
 ### Island heute
 
 Heutzutage leben rund zwei Drittel des zweitgrössten Inselstaates Europas im Grossraum Reykjavik. Die Landschaft ist durch Vulkane, Flüsse, Seen und Wasserfälle geprägt. Es gibt eine Vielzahl von Gletschern was viele Gebiete unbewohnbar macht. So ist Island das dünnst besiedelte Land Europas. Das Klima auf Island ist dank des Golfstroms milder als erwartet, so liegen die Temperaturen im Winter zwischen 0 und 3 Grad Celsius und im Sommer zwischen 12 und 15 Grad. Durch die angehende Klimaerwärmung wird sich die Insel in den nächsten Jahren stark verändern. So werden ganze Gletscher verschwinden und das Trinkwasser knapp werden. Denn die Trinkwasserversorgung sowie die Energieerzeugung in Island hängen vom Schmelzwasser ab. Schon ab 2050 könnten starke Folgen für das heute wunderschöne Island eintreten und das Land wird immer mehr einer Mondlandschaft ähneln.
-
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
