@@ -21,7 +21,7 @@ title = "Ein Sommer ganz im Zeichen des Sports"
 +++
 _Eishockey WM, mit einem frühzeitigen Ausscheiden des Schweizer Nationalteams, French Open, mit Novak Djokovic als Sieger und die Fussball EM, die in vollem Gange ist – Der Sommer 2021 steht ganz im Zeichen des Sports. Sportliche Emotionen trotz Corona? Ja das geht!_
 
-Es gibt wohl nichts, was die Menschen mehr zusammenschweisst als Sport. Gerade Fussball bewegt die ganze Welt und das obwohl nicht jeder und jede wirklich Fussball interessiert ist. Aktuell sieht die ganze Welt auf den Bildschirm, um die Fussball EM, die letztes Jahr verschoben wurde, mit anzusehen und mitzufiebern. Es scheint, als sei die mühsame Zeit und die stete Einhaltung von Distanzregelungen für einmal nicht im Zentrum.
+Es gibt wohl nichts, was die Menschen mehr zusammenschweisst als Sport. Gerade Fussball bewegt die ganze Welt und das obwohl nicht jeder und jede wirklich Fussball interessiert ist. Aktuell sieht die ganze Welt auf den Bildschirm, um die Fussball EM, die letztes Jahr verschoben wurde, mit anzusehen und mitzufiebern. Es scheint, als stünde die mühsame Zeit und die stete Einhaltung von Distanzregelungen für einmal nicht im Zentrum.
 
 ### Sport verbindet
 
