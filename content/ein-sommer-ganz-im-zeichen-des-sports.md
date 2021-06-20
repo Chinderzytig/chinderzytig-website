@@ -29,11 +29,11 @@ Eigentlich sollte die Fussball EM 2020 stattfinden, doch aufgrund der Pandemie w
 
 Auch für weniger Fussballbegeisterte ist die Zeit, eine Zeit der Freude. Denn Sport verbindet, egal in welcher Art und Weise. Die Gruppenphase ist heute Abend bereits zu Ende, doch die Emotionen werden noch stärker als zuvor.
 
-Nicht nur die Verschiebung aufgrund der Pandemie, macht die diesjährige EM aussergewöhnlich, sondern auch die Teilnahmen von zwei drei ungewohnten Mannschaften wie Finnland. Für die finnische Mannschaft ist es die erste Teilnahme an der Endrunde einer Fussball EM. Das erste Spiel der Mannschaft gegen Dänemark stand zwar im Schatten des Kollaps des Starspielers Christian Eriksen. Dennoch ist es für die Mannschaft ein grosses Jahr. Für Nordmazedonien ist es die erste Teilnahme an einer Fussball EM. Auch wenn sie sich weniger gut schlagen, zeigt es, dass die EM ganz im Zeichen von Emotionen und Gemeinschaft steht. Allfällige Konflikte und Krisen sind für einmal irrelevant. Wir freuen uns schon auf die Achtelfinale.
+Nicht nur die Verschiebung aufgrund der Pandemie, macht die diesjährige EM aussergewöhnlich, sondern auch die Teilnahmen von zwei drei ungewohnten Mannschaften wie Finnland. Für die finnische Mannschaft ist es die erste Teilnahme an der Endrunde einer Fussball EM. Das erste Spiel der Mannschaft gegen Dänemark stand zwar im Schatten des Kollaps des Starspielers Christian Eriksen. Dennoch ist es für die Mannschaft ein grosses Jahr. Für Nordmazedonien ist es die erste Teilnahme an einer Fussball EM. Auch wenn sie sich weniger gut schlagen, zeigt es, dass die EM ganz im Zeichen von Emotionen und Gemeinschaft steht. Allfällige Konflikte und Krisen sind für einmal irrelevant. Wir freuen uns schon auf die Achtelfinale. Bisher sicher dabei sind: Die Niederlande,
 
-### Was kommt als nächstes?
+### Was kommt als Nächstes?
 
-Mit dem Abschluss der Fussball EM endet die Sportserie jedoch noch lange nicht. Vom 23. Juli bis zum 8. August finden die olympischen Sommerspiele in Tokio statt – zumindest sollten sie es. Aktuell hält das Komitee an einer Durchführung fest, jedoch ist unklar, inwiefern das Publikum aktiv vor Ort teilhaben darf.
+Mit dem Abschluss der Fussball EM endet die Sportserie jedoch noch lange nicht. Gleich nach der EM geht es weiter mit Tennis und zwar mit Wimbledon. Wir sind gespannt, wie weit Roger Federer dieses Mal kommt. Nach Wimbledon folgt das nächste internationale sportliche Highlight: Vom 23. Juli bis zum 8. August finden die olympischen Sommerspiele in Tokio statt – zumindest sollten sie es. Aktuell hält das Komitee an einer Durchführung fest, jedoch ohne Publikum.
 
 Wir sind der Meinung: Corona hin oder her, Sport gibt den Menschen wieder den Zusammenhalt zurück. Ob vor dem TV, draussen im Park, oder mit dem Team im Büro – Emotionen sind vorprogrammiert.
 
