@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210622_Su%CC%88dkorea_AM_jehvin"
 artikel = true
 author = "Sam Penfold"
 cc_licence = ""
 cc_src = ""
 date = 2021-06-22T04:00:00Z
 description = "Die Chindrzytig zeigt ein kurzer Einblick in die Koreanische Republik"
-draft = true
 fdw = false
 hero_img = "/v1624184770/Media_Korea_euw7ue.jpg"
 img_description = "Ein Koreanisches Mädchen steht vor einem koreanischen Palats"
@@ -30,3 +29,9 @@ Nach der Spaltung der Insel erlebte Südkorea jahrzehntelang Militärdiktaturen,
 ### K-Pop und Breakdance
 
 Heute kennt man Südkorea als technologisch fortgeschrittenes Land mit einer der höchsten Lebensqualitäten in Asien. Ebenfalls schlägt das Land im Bereich Kultur weltweit Wellen: Die sogenannte “Koreanische Welle” (in Korea “Hallyu” genannt) bezeichnet die seit 1980 weltweit steigende Bekanntheit der koreanischen Kultur, insbesondere des Koreanischen Pops (“K-Pop”). Die wohl bekannteste K-Pop Gruppe, BTS, erreichte seit 2018 dreimal die Spitze der Charts in den USA. Ausserdem gelten die Breakdancer aus Korea als die Besten der Welt. Seitdem amerikanische Soldaten, welche in Südkorea stationiert waren, diese Tanzart den Südkoreanern vorgestellt hatten, wurde sie zu einem wichtigen Bestandteil der koreanischen Musikkultur.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
