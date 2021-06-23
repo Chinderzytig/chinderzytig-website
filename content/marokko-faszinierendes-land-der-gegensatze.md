@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210624_Marokko_AM_bgi6lo"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
@@ -34,3 +34,9 @@ Der damalige König und seine Nachfolger – Sohn und Enkel – führten Marokko
 ### Zwischen Wachstum und Armut
 
 Und das zieht auch zahlreiche Touristen an. Marokko ist heute das meistbesuchte Land in Afrika. Der Tourismus ist für Marokko dementsprechend wichtig. Doch trotz der wirtschaftlichen Entwicklung und demokratischen Reformen sind viele, vor allem junge Menschen nicht mehr zufrieden mit ihrem Land und ihrem König. Er hat zwar das wirtschaftliche Wachstum vorangetrieben, aber die Armut und insbesondere die Jugendarbeitslosigkeit hat er nicht in den Griff bekommen. Viele junge Menschen wollen daher Marokko verlassen und in Europa ihr Glück finden. Dafür nehmen sie teilweise gefährliche Fluchtwege in Kauf und gehen in eine grosse ungewisse Zukunft. Da kann man ihnen nur wünschen, dass sie dieses Glück dann auch finden werden.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
