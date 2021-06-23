@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-06-23T04:00:00Z
 description = "Das Jahr 2021 - mit viel Sport und Emotionen verbunden"
-draft = true
 fdw = true
 hero_img = "/v1624185444/Media_Sport_Sommer_njm9qx.jpg"
 img_description = "Fussball Torhüter fliegt für den Ball"
