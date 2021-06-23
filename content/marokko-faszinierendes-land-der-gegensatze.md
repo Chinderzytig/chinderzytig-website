@@ -25,7 +25,7 @@ Das Land im Nordwesten von Afrika hat eine lange und bewegte Geschichte. Viele v
 
 ### Von der Kolonie zur Unabhängigkeit
 
-Arabisch ist denn auch die Hauptsprache von Marokko. Sie ist neben dem marokkanischen Tamazight eine der offiziellen Sprachen. Das Tamazight ist eine Berbersprache. Es gibt aber noch weitere Sprachen in Marokko – und zwar Französisch und Spanisch. Wie kommt das? Marokko war lange Zeit eine Kolonie. Das heisst, ein Land, das von einem andern erobert und [\[BF1\]](#_msocom_1) verwaltet wurde. Im Fall von Marokko waren das gleich zwei Länder. Der zentrale Teil von Marokko wurde von Frankreich beherrscht, einige Küstenregionen von Spanien. Erst im Jahr 1956 konnten die Marokkanerinnen und Marokkaner die Unabhängigkeit für ihr Land erkämpfen und ein Sultan hat sich zum König ernannt.
+Arabisch ist denn auch die Hauptsprache von Marokko. Sie ist neben dem marokkanischen Tamazight eine der offiziellen Sprachen. Das Tamazight ist eine Berbersprache. Es gibt aber noch weitere Sprachen in Marokko – und zwar Französisch und Spanisch. Wie kommt das? Marokko war lange Zeit eine Kolonie. Das heisst, ein Land, das von einem andern erobert und verwaltet wurde. Im Fall von Marokko waren das gleich zwei Länder. Der zentrale Teil von Marokko wurde von Frankreich beherrscht, einige Küstenregionen von Spanien. Erst im Jahr 1956 konnten die Marokkanerinnen und Marokkaner die Unabhängigkeit für ihr Land erkämpfen und ein Sultan hat sich zum König ernannt.
 
 ### Modern und traditionell
 
