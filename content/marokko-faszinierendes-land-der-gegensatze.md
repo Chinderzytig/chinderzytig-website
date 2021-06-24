@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-06-24T04:00:00Z
 description = "Die Chinderzytig schreibt über Marokko und dessen Vielseitigkeit/Gegensätzen"
-draft = true
 fdw = false
 hero_img = "/v1624185156/Media_Marokko_mql06u.jpg"
 img_description = "Das Bild zeigt ein Kamelreiter in den Sanddünen von Marokko"
