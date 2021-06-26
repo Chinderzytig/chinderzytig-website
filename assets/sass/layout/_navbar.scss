@@ -45,37 +45,23 @@
 	}
 
 	&__logo {
-		display: flex;
-		align-items: flex-start;
-		text-decoration: none;
 
-		&-image { width: 20rem; }
+		&-image {
+			width: 40rem;
+			margin-left: 10rem;
 
-		&-text {
-			display: flex;
-			flex-direction: column;
-			align-self: center;
-			justify-content: center;
-			margin-left: -1rem;
-
-			@include respond(tab-port-sm) { display: none; }
-
-			&--main {
-				font-size: 4rem;
-				color: $chinder-orange;
-				text-transform: uppercase;
-				letter-spacing: 1.1rem;
-			}
-
-			&--sub {
-				font-size: $font-small;
-				color: $color-black;
-				letter-spacing: .3rem;
-				margin-top: -1.5rem;
-			}
+			@include respond(phone-xxl) { width: 20rem; }
 		}
 
-		@include respond(tab-port-sm) { margin-left: 10rem; }
+		&-standard {
+			@include respond(phone-xxl) { display: none; }
+		}
+
+		&-mobile {
+			display: none;
+
+			@include respond(phone-xxl) { display: block; }
+		}
 	}
 
 	&__ecommerce {

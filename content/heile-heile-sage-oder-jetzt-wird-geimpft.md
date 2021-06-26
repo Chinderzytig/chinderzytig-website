@@ -40,7 +40,7 @@ Wie so oft sind sich Menschen in grossen, einschneidenden Themen, die viel Geld 
 
 Wir überlassen euch eure Meinung dazu selber. Bevor ihr diskutiert, lest noch mehr im Internet und macht euch schlau: [www.infoeasy-news.ch](http://www.infoeasy-news.ch), [www.planet-wissen.de](http://www.planet-wissen.de), oder auch [Swissmedic](https://vimeo.com/491313737) helfen dir weiter. Wie weit die Schweiz im Impfplan ist, zeigen wir euch nun mit der regelmässig aktualisierten Schweizerkarte; damit ihr im Bild seid!
 
-{{< impfstoffe verabreichte="6 731 891" eindosis="4 083 787" vollgeimpft="2 648 104" fullvac="30.63%" partvacactual="47.24%" partvacoffset="77.87%" >}}
+{{< impfstoffe verabreichte="7 012 928" eindosis="4 218 662" vollgeimpft="2 794 266" fullvac="32.32%" partvacactual="48.80%" partvacoffset="81.12%" >}}
 
 ### Nun bist du dran
 
