@@ -53,8 +53,6 @@
 			@include respond(phone-xxl) { width: 20rem; }
 		}
 
-
-
 		&-standard {
 			@include respond(phone-xxl) { display: none; }
 		}
