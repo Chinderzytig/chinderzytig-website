@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210629_Schwitzen_im_Regenwald_AM_junafn"
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
 cc_src = ""
 date = 2021-06-29T04:00:00Z
 description = "Ein Bericht über die tropische Zone - der Regenwald"
-draft = true
 fdw = false
 hero_img = "/v1624779867/Media_regenwald_vhgmq4.jpg"
 img_description = "Ein Papagai im Amazonas Gebiet"
@@ -38,3 +37,9 @@ Den grössten zusammenhängenden Regenwald findest du rund um den Fluss Amazonas
 
 Zum sechsten Mal findet heute der Internationale Tag der Tropen statt. Die UNO hat diesen Tag ins Leben gerufen, um auf diese Klimazone aufmerksam zu machen.  
 Denn schon seit längerer Zeit schrumpft der Anteil des Regenwaldes weltweit von Tag zu Tag. Der Wald wird abgeholzt, um Geld mit dem Holz der dortigen Bäume zu verdienen. Ausserdem werden Flächen gerodet, um riesige Plantagen anzubauen. Durch diese Abholzung gehen Tier- und Pflanzenarten verloren und auch unser Klima verändert sich, wenn der Regenwald immer kleiner wird.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
