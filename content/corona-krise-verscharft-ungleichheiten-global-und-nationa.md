@@ -15,7 +15,7 @@ kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "Corona-Krise verschärft Ungleichheiten global und nationa"
+title = "Corona-Krise verschärft Ungleichheiten global und national"
 
 +++
 _Die Coronavirus-Pandemie stellt die Welt vor eine Herausforderung. Bei einer Pandemie handelt es sich um die Ausbreitung einer bestimmten Infektionskrankheit in vielen Ländern bzw. Kontinenten. Sie kann einen grossen Teil der Weltbevölkerung gefährden._
