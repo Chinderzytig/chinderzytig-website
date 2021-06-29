@@ -1,7 +1,7 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = "Seraina Branschi"
+author = "Sina Boss"
 cc_licence = ""
 cc_src = ""
 date = 2021-06-30T04:00:00Z
