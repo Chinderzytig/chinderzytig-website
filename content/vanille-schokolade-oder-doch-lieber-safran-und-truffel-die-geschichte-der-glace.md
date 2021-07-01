@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-07-01T04:00:00Z
 description = "Ein Artikel über die Glace und ihre Herkunft"
-draft = true
 fdw = false
 hero_img = "/v1625114474/Media_Glace_zow5vf.jpg"
 img_description = "Ein Kind hält eine Glace in der Hand"
