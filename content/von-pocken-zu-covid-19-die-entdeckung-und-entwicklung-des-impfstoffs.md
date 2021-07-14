@@ -30,7 +30,8 @@ So konnte durch die gut entwickelte Pockenimpfung und das Impfprogramm der Weltg
 
 Eine weitere schlimme Krankheit, die die Menschen auf Trab hielt, waren die Masern. Jedoch konnten diese bis ins 18. Jahrhundert nicht von anderen Krankheiten wie Röteln oder Scharlach unterschieden werden. Denn auch sie lösten rote Punkte auf der Haut aus.  
 Im 19. Jahrhundert wurden immer mehr Symptome der Krankheit aufgedeckt und beschrieben. Dies führte dazu, dass der Amerikaner Ludvig Hektoen zu Beginn des 20. Jahrhunderts die auslösenden Viren entdecken konnte. Dies war ein grosser Schritt für die Medizin. So konnte mit dem Virus geforscht werden. Knapp 40 Jahre später (1954) gelang eine Abschwächung des Virus. In den 1960-er Jahren wurde dann die Masernimpfung entdeckt. Bis heute wird der Impfstoff unumstritten angewendet.  
-Durch die Masernimpfung konnte die Ausbreitung der Krankheit stark reduziert werden. Dennoch gibt es heute immer noch tödlich verlaufende Masernfälle, besonders in Afrika. Um die Krankheit in Europa weitgehend auszurotten, müssten 95% der Bevölkerung mit einer ersten Dosis geimpft sein.  
+Durch die Masernimpfung konnte die Ausbreitung der Krankheit stark reduziert werden. Dennoch gibt es heute immer noch tödlich verlaufende Masernfälle, besonders in Afrika. Um die Krankheit in Europa weitgehend auszurotten, müssten 95% der Bevölkerung mit einer ersten Dosis geimpft sein.
+
 Nachdem viele Krankheiten durch die Entwicklung unterschiedlicher Impfstoffe bekämpft und teils ausgerottet werden konnten, tauchte im Jahr 2019 eine neue, noch unbekannte Viruserkrankung auf, Covid-19.
 
 ### Entstehung und Bedingungen zur Einführung eines Impfstoffs
