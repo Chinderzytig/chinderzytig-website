@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-07-14T04:00:00Z
 description = "Wie das Impfen entstand und sich entwickelte"
-draft = true
 fdw = true
 hero_img = "/v1626239203/Media_Impfung_ivs6fv.jpg"
 img_description = "Das Bild zeigt einen Apefel das verschiedne Spritzen (Impfungen) bekommt. "
@@ -30,8 +29,7 @@ Bevor es jedoch so weit kommen konnte, musste das Impfen überhaupt entdeckt wer
 So konnte durch die gut entwickelte Pockenimpfung und das Impfprogramm der Weltgesundheitsorganisation (WHO), welches 1967 begonnen hat, die Krankheit weltweit ausgerottet werden. Dies erklärte die WHO im Jahre 1980. 1963 wurde der letzte Fall von Pocken in der Schweiz gemeldet und 1977 der letzte weltweit. Er trat in Somalia auf.
 
 Eine weitere schlimme Krankheit, die die Menschen auf Trab hielt, waren die Masern. Jedoch konnten diese bis ins 18. Jahrhundert nicht von anderen Krankheiten wie Röteln oder Scharlach unterschieden werden. Denn auch sie lösten rote Punkte auf der Haut aus.  
-Im 19. Jahrhundert wurden immer mehr Symptome der Krankheit aufgedeckt und beschrieben. Dies führte dazu, dass der Amerikaner Ludvig Hektoen zu Beginn des 20. Jahrhunderts die auslösenden Viren entdecken konnte. Dies war ein grosser Schritt für die Medizin. So konnte mit dem Virus geforscht werden. Knapp 40 Jahre später (1954) gelang eine Abschwächung des Virus. In den 1960-er Jahren wurde dann die Masernimpfung entdeckt. Bis heute wird der Impfstoff unumstritten angewendet.
-
+Im 19. Jahrhundert wurden immer mehr Symptome der Krankheit aufgedeckt und beschrieben. Dies führte dazu, dass der Amerikaner Ludvig Hektoen zu Beginn des 20. Jahrhunderts die auslösenden Viren entdecken konnte. Dies war ein grosser Schritt für die Medizin. So konnte mit dem Virus geforscht werden. Knapp 40 Jahre später (1954) gelang eine Abschwächung des Virus. In den 1960-er Jahren wurde dann die Masernimpfung entdeckt. Bis heute wird der Impfstoff unumstritten angewendet.  
 Durch die Masernimpfung konnte die Ausbreitung der Krankheit stark reduziert werden. Dennoch gibt es heute immer noch tödlich verlaufende Masernfälle, besonders in Afrika. Um die Krankheit in Europa weitgehend auszurotten, müssten 95% der Bevölkerung mit einer ersten Dosis geimpft sein.  
 Nachdem viele Krankheiten durch die Entwicklung unterschiedlicher Impfstoffe bekämpft und teils ausgerottet werden konnten, tauchte im Jahr 2019 eine neue, noch unbekannte Viruserkrankung auf, Covid-19.
 
