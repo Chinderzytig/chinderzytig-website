@@ -5,6 +5,15 @@ body {
 	line-height: 1.6;
 }
 
+/* ----- LINKS ------ */
+.link {
+
+	&--general {
+		&:link,
+		&:visited { color: $chinder-verdigris; }
+	}
+}
+
 /* ----- HEADINGS ------ */
 .heading {
 	font-family: $font-patrick, $font-fallback;
@@ -12,17 +21,27 @@ body {
 	text-transform: uppercase;
 	margin-bottom: $margin-s;
 
-	&__secondary-learning {
-		color: $color-black;
-		margin-bottom: 0;
-		text-align: center;
-	}
+	&__content {
 
-	&__tertiary-learning {
-		font-size: 1.8rem;
-		color: $chinder-chestnut;
-		text-align: center;
-		margin-top: -10px;
+		&--secondary {
+			color: $color-black;
+			margin-bottom: 0;
+
+		}
+
+		&--tertiary {
+			font-size: 2.5rem;
+			text-transform: uppercase;
+			border-left: 4px solid $chinder-celadon;
+			padding-left: 1rem;
+		}
+
+		&--quaternary {
+			font-size: 2.2rem;
+			color: $chinder-chestnut;
+			text-transform: none;
+			margin-top: -15px;
+		}
 	}
 
 	&__secondary {

@@ -1,3 +1,19 @@
 .visible {
 	@include container-main;
+
+	&__text {
+		text-align: justify;
+		margin-bottom: 3rem;
+	}
+
+	&__feature {
+		font-size: 2.2rem;
+		font-style: italic;
+	}
+
+	&__img-container {
+		display: flex;
+		justify-content: center;
+		margin-bottom: 3rem;
+	}
 }
