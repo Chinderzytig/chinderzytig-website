@@ -21,10 +21,11 @@
 
 		&-list {
 			display: flex;
+			justify-content: space-between;
 		}
 
 		&-product {
-			flex: 0 0 35%;
+			flex: 0 0 30%;
 			display: flex;
 			flex-direction: column;
 			border: 1px solid $chinder-platinum;
@@ -33,6 +34,7 @@
 
 		&-name {
 			align-self: flex-start;
+			font-size: 1.3rem;
 			color: $chinder-celadon;
 			font-weight: 500;
 			padding: .5rem;
@@ -48,6 +50,7 @@
 		&-type {
 			margin: 2rem 0;
 			align-self: center;
+			text-align: center;
 		}
 
 		&-offersheet {
@@ -55,6 +58,7 @@
 		}
 
 		&-amount {
+			justify-content: flex-start;
 			margin-top: 2rem;
 			display: flex;
 			flex-direction: column;
@@ -62,7 +66,7 @@
 		}
 
 		&-target {
-			font-size: 1.6rem;
+			font-size: 1.3rem;
 			margin-top: -.5rem;
 		}
 	}

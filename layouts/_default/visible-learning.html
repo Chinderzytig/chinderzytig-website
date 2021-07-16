@@ -68,22 +68,21 @@
 				Datenhaltung in der Schweiz
 			</p>
 			<div class="visible__pricing-list">
-				<div class="visible__pricing-product">
-					<div class="visible__pricing-name">mirroco-Chinderzytig home</div>
-					<div class="visible__pricing-type">Für Homeschooler</div>
-					<ul class="visible__pricing-offersheet">
-						<li class="visible__pricing-inclusion">Familienlösung individualisiert für jedes Kind</li>
-						<li class="visible__pricing-inclusion">Kompetenzeinschätzung und Lernbericht für Schulinspektorat</li>
-						<li class="visible__pricing-inclusion">sämtliche Chinderzytig-Inhalte sind verfügbar (primär Fachbereich NMG und Deutsch) und fürs Visible Learning nach LP21 aufbereitet</li>
-						<li class="visible__pricing-inclusion">Integration Lehrplan 21 für Homeschooling</li>
-						<li class="visible__pricing-inclusion">Zugang 6 Phasenmodell der Kompetenzentwicklung</li>
-						<li class="visible__pricing-inclusion">Online-Schulung (Video) individualisierte Auswertung</li>
-					</ul>
-					<div class="visible__pricing-amount">
-						<div class="visible__pricing-number">CHF 250.-</div>
-						<div class="visible__pricing-target">ab zwei Kindern Preisreduktion</div>
+				{{ range .Site.Data.pages.visible.pricing }}
+					<div class="visible__pricing-product">
+						<div class="visible__pricing-name">{{ .name }}</div>
+						<div class="visible__pricing-type">{{ .type }}</div>
+						<ul class="visible__pricing-offersheet">
+							{{ range .offersheet }}
+								<li class="visible__pricing-inclusion">{{ .inclusion }}</li>
+							{{ end }}
+						</ul>
+						<div class="visible__pricing-amount">
+							<div class="visible__pricing-number">{{ .number }}</div>
+							<div class="visible__pricing-target">{{ .target }}</div>
+						</div>
 					</div>
-				</div>
+				{{ end }}
 			</div>
 		</section>
 	</div>
