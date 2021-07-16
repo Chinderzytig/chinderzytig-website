@@ -16,4 +16,54 @@
 		justify-content: center;
 		margin-bottom: 3rem;
 	}
+
+	&__pricing {
+
+		&-list {
+			display: flex;
+		}
+
+		&-product {
+			flex: 0 0 35%;
+			display: flex;
+			flex-direction: column;
+			border: 1px solid $chinder-platinum;
+			padding: 1rem;
+		}
+
+		&-name {
+			align-self: flex-start;
+			color: $chinder-celadon;
+			font-weight: 500;
+			padding: .5rem;
+			background-color: $cta-azure;
+		}
+
+		&-type,
+		&-number {
+			font-size: 2.2rem;
+			font-weight: 700;
+		}
+
+		&-type {
+			margin: 2rem 0;
+			align-self: center;
+		}
+
+		&-offersheet {
+			padding-left: 2rem;
+		}
+
+		&-amount {
+			margin-top: 2rem;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		&-target {
+			font-size: 1.6rem;
+			margin-top: -.5rem;
+		}
+	}
 }
