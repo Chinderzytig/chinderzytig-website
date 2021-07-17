@@ -22,6 +22,7 @@
 		&-list {
 			display: flex;
 			justify-content: space-between;
+			flex-wrap: wrap;
 		}
 
 		&-product {
@@ -69,5 +70,12 @@
 			font-size: 1.3rem;
 			margin-top: -.5rem;
 		}
+	}
+
+	&__fineprint {
+		font-size: 1.2rem;
+		color: $social-base;
+		text-align: justify;
+		margin: 1rem 0 3rem 0;
 	}
 }
