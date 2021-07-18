@@ -67,21 +67,21 @@
 				"Visible Learning" mit der Chinderzytig und mirroco - mit
 				Datenhaltung in der Schweiz
 			</p>
-			<div class="visible__pricing-list">
+			<div class="visible__pricing-info">
 				{{ range .Site.Data.pages.visible.pricing }}
-					<div class="visible__pricing-product">
-						<div class="visible__pricing-name">{{ .name }}</div>
-						<div class="visible__pricing-type">{{ .type }}</div>
-						<ul class="visible__pricing-offersheet">
-							{{ range .offersheet }}
-								<li class="visible__pricing-inclusion">{{ .inclusion }}</li>
-							{{ end }}
-						</ul>
-						<div class="visible__pricing-amount">
-							<div class="visible__pricing-number">{{ .number }}</div>
-							<div class="visible__pricing-target">{{ .target }}</div>
-						</div>
+				<div class="visible__pricing-product">
+					<div class="visible__pricing-name">{{ .name }}</div>
+					<div class="visible__pricing-type">{{ .type }}</div>
+					<ul class="visible__pricing-offersheet">
+						{{ range .offersheet }}
+						<li class="visible__pricing-inclusion">{{ .inclusion }}</li>
+						{{ end }}
+					</ul>
+					<div class="visible__pricing-amount">
+						<div class="visible__pricing-number">{{ .number }}</div>
+						<div class="visible__pricing-target">{{ .target }}</div>
 					</div>
+				</div>
 				{{ end }}
 			</div>
 			<p class="visible__fineprint">
