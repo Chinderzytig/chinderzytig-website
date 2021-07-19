@@ -23,6 +23,8 @@
 		&-info {
 			display: flex;
 			justify-content: space-between;
+
+			@include respond(tab-port-lg) { flex-direction: column; }
 		}
 
 		&-product {
@@ -31,6 +33,11 @@
 			flex-direction: column;
 			border: 2px solid $chinder-platinum;
 			padding: 1rem;
+
+			@include respond(tab-port-lg) {
+
+				&:not(:last-child) { margin-bottom: 3rem; }
+			}
 		}
 
 		&-name {

@@ -24,6 +24,8 @@
 	&__fields-container {
 		display: flex;
 		justify-content: space-between;
+
+		@include respond(tab-port-sm) { flex-direction: column; }
 	}
 
 	&__right,
