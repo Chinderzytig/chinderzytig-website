@@ -26,14 +26,14 @@ body {
 		&--primary {
 			color: $color-black;
 			margin-bottom: 0;
-			border-left: 2px solid $chinder-celadon;
+			border-left: 4px solid $chinder-celadon;
 			padding-left: 1rem;
 		}
 
 		&--secondary {
 			font-size: 2.5rem;
 			text-transform: uppercase;
-			border-left: 2px solid $chinder-chestnut;
+			border-left: 4px solid $chinder-chestnut;
 			padding-left: 1rem;
 		}
 
@@ -42,7 +42,7 @@ body {
 			color: $chinder-chestnut;
 			text-transform: none;
 			margin-top: -15px;
-			border-left: 2px solid $chinder-celadon;
+			border-left: 4px solid $chinder-celadon;
 			padding-left: 1rem;
 		}
 	}

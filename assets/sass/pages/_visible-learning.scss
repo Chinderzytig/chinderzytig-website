@@ -1,5 +1,6 @@
 .visible {
 	@include container-main;
+	margin-bottom: $margin-m;
 
 	&__text {
 		text-align: justify;
@@ -28,7 +29,7 @@
 			flex: 0 0 30%;
 			display: flex;
 			flex-direction: column;
-			border: 1px solid $chinder-platinum;
+			border: 2px solid $chinder-platinum;
 			padding: 1rem;
 		}
 

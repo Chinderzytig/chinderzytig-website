@@ -36,7 +36,8 @@
 
 	&--nav,
 	&--footer,
-	&--kontakt {
+	&--kontakt,
+	&--form {
 		font-size: inherit;
 		padding: .5rem 1rem;
 		@extend .btn--primary;
@@ -58,7 +59,8 @@
 		background-color: $footer-light;
 	}
 
-	&--kontakt { font-family: 'Lato', sans-serif; }
+	&--kontakt,
+	&--form { font-family: 'Lato', sans-serif; }
 
 	&--verein {
 		font-size: $font-bigger;
