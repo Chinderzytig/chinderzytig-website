@@ -58,13 +58,22 @@
 		margin-top: -.5rem;
 	}
 
-	&__fineprint {
+	&__button {
+		text-align: center;
+		margin: 2rem 0 1rem 0;
+	}
 
-		&--visible {
-			font-size: 1.3rem;
-			color: $social-base;
-			text-align: justify;
-			margin: 1rem 0 3rem 0;
+	&__fineprint {
+		font-size: 1.3rem;
+		color: $color-black;
+		text-align: justify;
+		margin: 1rem 0 3rem 0;
+
+		&--bold {
+			color: $color-white;
+			font-weight: 500;
+			background-color: $color-black;
+			padding: .2rem;
 		}
 	}
 }

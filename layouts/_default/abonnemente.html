@@ -1,18 +1,7 @@
 {{define "main"}}
 	<section class="abonnemente">
-		<div class="abonnemente__notice">
-			<div class="abonnemente__notice-icon">
-				{{ partial "svgs/attention_svg.html" (dict "fill" "#EC633F" "width" 120 "height" 120) }}
-			</div>
-			<div class="abonnemente__notice-content">
-				Während der Krise spenden wir 20% der Gönnerschaftsbeiträge an kleinere,
-				lokale Buchhandlungen der Deutschschweiz. Die Koordination übernimmt
-				Rosmarie Bernasconi vom <a href="https://www.einfachlesen.ch/" target="_blank" class="abonnemente__notice-link">Verlag Einfach Lesen</a>
-				in Bern, nach Absprache mit dem Verein Chinderzytig. Du möchtest uns und
-				somit Buchhandlungen unterstützen? <a href="/kontakt" class="abonnemente__notice-link">Melde dich!</a>
-			</div>
-		</div>
-		<h2 class="heading heading__secondary">Abonnemente</h2>
+		<h1 class="heading heading__content--primary">Abonnemente</h2>
+		<h4 class="heading heading__content--quaternary">Wir bieten Wissen - einfach verpackt</h4>
 		<p class="abonnemente__intro">
 			Die Chinderzytig ist bestrebt, das Alltagsgeschehen für Kinder und
 			Jugendliche in einer einfachen Sprache anzubieten und mit Arbeitsmaterial
@@ -23,53 +12,56 @@
 			spannende Plattform für die allgemeine Leseförderung. Für die aufgeweckte
 			Gesellschaft von morgen!
 		</p>
-		<p class="abonnemente__duration">
-			Sie erhalten während der 39 Schulwochen zweimal wöchentlich direkt in
-			Ihre Mailbox:
-		</p>
-		<div class="abonnemente__container">
-			{{ range .Site.Data.pages.abonnemente.breakdown }}
-				<div class="abonnemente__option">
-					<div class="abonnemente__heading">
-						<h2 class="heading heading__tertiary">{{ .heading }} Arbeitsmaterial</h2>
-					</div>
-					<div class="abonnemente__breakdown">
-						{{ range .inclusions }}
-							<div class="abonnemente__breakdown-item">
-								<span class="abonnemente__breakdown-icon">
-									{{ partial "svgs/check_svg.html" (dict "fill" .color "width" 25 "height" 25) }}
-								</span>
-								<span class="abonnemente__breakdown-text">{{ .inclusion }}</span>
-							</div>
+		<div class="abonnemente__pricing">
+			<div class="pricing__info">
+				{{ range .Site.Data.pages.abonnemente.pricing }}
+					<div class="pricing__product">
+						<div class="pricing__name">{{ .name }}</div>
+						<div class="pricing__type">{{ .type }}</div>
+						<ul class="pricing__offersheet">
+							{{ range .offersheet }}
+								<li class="pricing__inclusion">{{ .inclusion }}</li>
+							{{ end }}
+						</ul>
+						<div class="pricing__amount">
+							<div class="pricing__number">{{ .number }}</div>
+							<div class="pricing__target">{{ .target }}</div>
+						</div>
+						{{ range .btn }}
+							<button class="btn btn--pricing pricing__button snipcart-add-item"
+								data-item-id="{{ .id }}"
+								data-item-price="{{ .price }}"
+								data-item-url="{{ $.RelPermalink }}"
+								data-item-description="Einzelteilnehmer: Perfekt für Privatpersonen oder Lehrpersonen. Andere Teilnehmer: Perfekt für Schulen, Institutionen, und Firmen."
+								data-item-image="{{ $.Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png"
+								data-item-name="{{ .item_name }}"
+								data-item-custom1-name="Abonnementtyp"
+								data-item-custom1-options="{{ .custom_options }}">
+									{{ .label }}
+							</button>
+						{{ end }}
+						{{ range .hyper }}
+							<a href="{{ .link }}" class="btn btn--pricing btn--pricing-narrow pricing__button">{{ .label }}</a>
 						{{ end }}
 					</div>
-					<img src="{{ $.Site.Params.cloudinary_url }}/c_scale,h_250,q_auto:good/logos/{{ .img }}" alt="{{ .alt }}" class="abonnemente__img">
-					{{ range .btn }}
-						<button class="btn btn--{{ .class }} abonnemente__cta snipcart-add-item"
-							data-item-id="{{ .id }}"
-							data-item-price="{{ .price }}"
-							data-item-url="{{ $.RelPermalink }}"
-							data-item-description="Einzelteilnehmer: Perfekt für Privatpersonen oder Lehrpersonen. Andere Teilnehmer: Perfekt für Schulen, Institutionen, und Firmen."
-							data-item-image="{{ $.Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png"
-							data-item-name="{{ .item_name }}"
-							data-item-custom1-name="Abonnementtyp"
-							data-item-custom1-options="{{ .custom_options }}">
-							Auswählen
-						</button>
-					{{ end }}
-				</div>
-			{{ end }}
-		</div>
-	</section>
-	<section class="abonnemente__print">
-		<div class="abonnemente__print-divider"></div>
-		<div class="abonnemente__print-container">
-			{{ range .Site.Data.pages.abonnemente.print }}
-			<div class="abonnemente__print-group">
-				<h5 class="abonnemente__print-heading">{{ .heading }}</h5>
-				<p class="abonnemente__print-text">{{ .text }}</p>
+				{{ end }}
 			</div>
-			{{ end }}
 		</div>
+		<p class="pricing__fineprint">
+			<span class="pricing__fineprint--bold">Produktinfo:</span> Hochwertige
+			Artikel nach 4-Augen-Prinzip durch Journalisten, Kommunikationsspezialisten
+			und Pädagogen geprüft. Die Arbeitsmaterialien entstehen durch erfahrene
+			Lehrpersonen und Unterstützung durch die PHBern. So wird der Qualitätsstandard
+			gewährleistet. <span class="pricing__fineprint--bold">Rückgabebedinungen:</span>
+			Keine Rückgabe notwendig. Allerdings sind wir froh, wenn wir Feedback
+			erhalten - Lob oder Verbesserungsvorschläge sind erwünscht! Wir versuchen,
+			für das Wohl der Kinder und Jugendlichen zu arbeiten, so teilen Sie uns
+			bitte mit, was fehlt oder anders gemacht werden sollte.
+			<span class="pricing__fineprint--bold">Versandinfo:</span> Wir senden die
+			Artikel an Ihre Email-Adressen. Die Dokumente sind unverschlüsselt. Da wir
+			als kleiner Verein auf Ehrlichkeit angewiesen sind, vertrauen wir Ihnen,
+			dass, im Fall der Weiterleitung, an unsere Finanzen gedacht wird und
+			allenfalls zusätzliche Ausgaben getätigt werden. Herzlichen Dank!
+		</p>
 	</section>
 {{end}}
