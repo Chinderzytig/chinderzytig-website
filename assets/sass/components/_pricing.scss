@@ -1,0 +1,70 @@
+.pricing {
+
+	&__info {
+		display: flex;
+		justify-content: space-between;
+
+		@include respond(tab-port-lg) { flex-direction: column; }
+	}
+
+	&__product {
+		flex: 0 0 30%;
+		display: flex;
+		flex-direction: column;
+		border: 2px solid $chinder-platinum;
+		padding: 1rem;
+
+		@include respond(tab-port-lg) {
+
+			&:not(:last-child) { margin-bottom: 3rem; }
+		}
+	}
+
+	&__name {
+		align-self: flex-start;
+		font-size: 1.3rem;
+		color: $chinder-celadon;
+		font-weight: 500;
+		background-color: $cta-azure;
+		padding: 1rem;
+		margin: -1rem 0 0 -1rem;
+	}
+
+	&__type,
+	&__number {
+		font-size: 2.2rem;
+		font-weight: 700;
+	}
+
+	&__type {
+		margin: 2rem 0;
+		align-self: center;
+		text-align: center;
+	}
+
+	&__offersheet { padding-left: 2rem; }
+
+	&__amount {
+		margin-top: 2rem;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		flex: 1;
+		justify-content: flex-end;
+	}
+
+	&__target {
+		font-size: 1.3rem;
+		margin-top: -.5rem;
+	}
+
+	&__fineprint {
+
+		&--visible {
+			font-size: 1.3rem;
+			color: $social-base;
+			text-align: justify;
+			margin: 1rem 0 3rem 0;
+		}
+	}
+}
