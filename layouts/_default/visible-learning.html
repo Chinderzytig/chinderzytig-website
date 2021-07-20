@@ -1,0 +1,150 @@
+{{define "main"}}
+	<div class="visible">
+		<h1 class="heading heading__content--primary">Visible Learning</h1>
+		<h4 class="heading heading__content--quaternary">
+			Lernprozesse im Kontext des Lehrplan 21 sichtbar machen
+		</h4>
+
+		<p class="visible__text visible__feature">
+			Ein starkes Trio für das Visible Learning: Die Chinderzytig bietet Inhalt
+			und arbeitet mit mirroco zusammen - der Schweizer Softwarelösung für
+			"Visible Learning" - mit Datenhaltung in der Schweiz - powered by Hazu.
+		</p>
+
+		<p class="visible__text">
+			Individuelle Lernbegleitung ist der Schlüssel für stärkende Bildung.
+			Visible Learning von mirroco ermöglicht die Kompetenzentwicklung der
+			Lernenden im Hinblick auf den Lehrplan 21 sichtbar zu machen und mit
+			Weitsicht zu begleiten. Visible Learning Prozess in 5 Schritten bist
+			Du bereits am Ziel
+		</p>
+		<div class="visible__img-container">
+			<img srcset="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:best,w_320/graphics/visible-learning-schritte_oa0oh2.png 320w,
+			{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:best,w_414/graphics/visible-learning-schritte_oa0oh2.png 414w,
+			{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:best,w_512/graphics/visible-learning-schritte_oa0oh2.png 512w,
+			{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:best,w_600/graphics/visible-learning-schritte_oa0oh2.png 600w"
+			sizes="(min-width: 800px) 800px, 100vw"
+			src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:best,w_800/graphics/visible-learning-schritte_oa0oh2.png"
+			alt="Visible learning schritte graphic"
+			class="visible__img">
+		</div>
+
+		<p class="visible__text">
+			Der gesamte Inhalt der Chinderzytig ist mit den Kompetenzen des Lehrplan 21
+			verknüpft und durch die Software aufbereitet. So wird das Lesen und Lernen
+			mit unseren Themen optimal dargestellt und das Lernen mit uns sichtbar
+			gemacht. Schätze die Entwicklung der Lernenden mit dem 6 Phasenmodell
+			fundiert ein und lass Dir auswerten, welche Kompetenzen die Lernenden mit
+			den Lernaktivitäten erschlossen haben und welche noch fehlen. mirroco
+			erstellt Dir aufgrund dieser Daten auf Knopfdruck einen aussagekräftigen
+			Lernbericht, den Du als Dialoginstrument für alle Beteiligten nutzen kannst.
+		</p>
+
+		<h2 class="heading heading__content--secondary">Hazu - die intuitive Cloud-Plattform</h2>
+
+		<p class="visible__text">
+			mirroco "Visible Learning" nutzt <a href="https://hazu.swiss/hazu" target="_blank" class="link--general">Hazu</a>
+			als Basis um "Visible Learning" in Schulen einführen zu können und
+			gleichzeitig den Schulalltag zu vereinfachen, sowie neue Formen der
+			Interaktionen unter Lernenden, Eltern und Lehrpersonen zu ermöglichen.
+		</p>
+
+		<h2 class="heading heading__content--secondary">Chinderzytig & mirroco</h2>
+
+		<p class="visible__text">
+			mirroco und die Chinderzytig - eine besondere Geschichte! Unsere fundierten
+			Inhalte für Kinder und Jugendliche, welche der Meinungsbildung, der
+			politischen Bildung und der nachhaltigen Entwicklung dienen, sind nun mit
+			dem Lehrplan 21 verknüpft. mirroco ermöglicht es die Inhalte mit den
+			Kompetenzen des Lehrplan 21 zu koppeln und aus dem Lernprozess heraus die
+			individuelle Kompetenzentwicklung sichtbar zu machen. Alles aus einer Hand
+			und praxisnah.
+		</p>
+
+		<section class="visible__pricing">
+			<h2 class="heading heading__content--secondary">Angebote und Preise</h2>
+			<p class="visible__text">
+				"Visible Learning" mit der Chinderzytig und mirroco - mit
+				Datenhaltung in der Schweiz
+			</p>
+			<div class="pricing__info">
+				{{ range .Site.Data.pages.visible.pricing }}
+					<div class="pricing__product">
+						<div class="pricing__name">{{ .name }}</div>
+						<div class="pricing__type">{{ .type }}</div>
+						<ul class="pricing__offersheet">
+							{{ range .offersheet }}
+							<li class="pricing__inclusion">{{ .inclusion }}</li>
+							{{ end }}
+						</ul>
+						<div class="pricing__amount">
+							<div class="pricing__number">{{ .number }}</div>
+							<div class="pricing__target">{{ .target }}</div>
+						</div>
+					</div>
+				{{ end }}
+			</div>
+			<p class="pricing__fineprint">
+				Sämtliche Chinderzytig-Inhalte sind verfügbar (primär Fachbereich NMG
+				und Deutsch) und fürs Visible Learning nach LP21 aufbereitet. Preise für
+				Schulen beinhalten CHF 300.- Hazu Lizenz. Preise verstehen sich exkl.
+				MwSt. Bei mirroco-chinderzytig professional ab 15 Klassen Preis auf
+				Anfrage.
+			</p>
+		</section>
+
+		<h2 class="heading heading__content--secondary">Bist du Interessiert?</h2>
+		<p class="visible__text">
+			Wir erzählen gerne mehr über Testabos und Visible Learning! Ausfüllen und
+			wir nehmen rasch Kontakt auf.
+		</p>
+		<form name="visible-learning" method="post" netlify-honeypot="bot-field" data-netlify="true" class="form">
+			<div class="form__fields-container">
+				<div class="form__left">
+					<div class="form__item">
+						<label for="anrede" class="form__label">Anrede</label>
+						<input type="text" id="anrede" placeholder="Anrede" class="form__input">
+					</div>
+					<div class="form__item">
+						<label for="name" class="form__label">Name*</label>
+						<input type="text" id="name" placeholder="Name*" class="form__input" required>
+					</div>
+					<div class="form__item">
+						<label for="email" class="form__label">E-Mail*</label>
+						<input type="email" id="email" placeholder="E-Mail*" class="form__input" required>
+					</div>
+				</div>
+				<div class="form__right">
+					<div class="form__item">
+						<label for="produkte" id="produkte" class="form__label">An welchem Produkt bist du interessiert?*</label>
+						<select id="dropdown" name="produkte" class="form__input" required>
+							<option value="">Bitte wählst du eine Option</option>
+							<option value="home">mirroco-Chinderzytig home</option>
+							<option value="basic">mirroco-Chinderzytig basic Schulen</option>
+							<option value="professional">mirroco-Chinderzytig professional Schulen</option>
+						</select>
+					</div>
+					<div class="form__item">
+						<label for="kommentare" class="form__label">Zusätzliche Kommentare</label>
+						<textarea name="kommentare" rows="6" placeholder="Zusätzliche Kommentare" class="form__input"></textarea>
+					</div>
+				</div>
+			</div>
+			<div class="form__checkbox">
+				<input type="checkbox" name="datenschutz" required>
+				<label for="datenschutz" class="form__label--checkbox">
+					Ich bin einverstanden, dass meine Personendaten im Kontext dieses
+					Formulars verarbeitet werden. Mehr Informationen findest du unter
+					<a href="https://www.chinderzytig.ch/datenschutz/" target="_blank" class="form__datenschutz">
+						chinderzytig.ch/datenschutz
+					</a>.
+				</label>
+			</div>
+			<div class="form__hidden">
+				<label>Bot trap</label>
+				<input name="bot-field" aria-hidden="true" class="form__input">
+			</div>
+			<button type="submit" value="Senden" class="btn btn--form form__submit">Senden</button>
+		</form>
+	</div>
+{{end}}

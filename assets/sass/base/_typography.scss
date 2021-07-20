@@ -5,12 +5,60 @@ body {
 	line-height: 1.6;
 }
 
+/* ----- LINKS ------ */
+.link {
+
+	&--general {
+		&:link,
+		&:visited { color: $chinder-verdigris; }
+	}
+}
+
 /* ----- HEADINGS ------ */
 .heading {
 	font-family: $font-patrick, $font-fallback;
 	font-size: $font-heading;
 	text-transform: uppercase;
 	margin-bottom: $margin-s;
+
+	&__content {
+
+		&--primary {
+			color: $color-black;
+			margin-bottom: 0;
+			border-left: 4px solid $chinder-celadon;
+			padding-left: 1rem;
+		}
+
+		&--secondary {
+			font-size: 2.5rem;
+			text-transform: uppercase;
+			border-left: 4px solid $chinder-chestnut;
+			padding-left: 1rem;
+		}
+
+		&--quaternary {
+			font-size: 2.2rem;
+			color: $chinder-chestnut;
+			text-transform: none;
+			margin-top: -1.5rem;
+			border-left: 4px solid $chinder-celadon;
+			padding-left: 1rem;
+
+			@include respond(phone-lg) {
+				line-height: 1;
+				margin-top: -.5rem;
+			}
+		}
+
+		&--quinary {
+			font-size: 1.3rem;
+			color: $chinder-chestnut;
+			background-color: $cta-seashell;
+			padding: .5rem;
+			margin-bottom: .5rem;
+		}
+	}
 
 	&__secondary {
 		border-top: 4px solid $color-black;

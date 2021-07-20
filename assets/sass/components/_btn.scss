@@ -36,10 +36,16 @@
 
 	&--nav,
 	&--footer,
-	&--kontakt {
+	&--kontakt,
+	&--form,
+	&--pricing {
 		font-size: inherit;
 		padding: .5rem 1rem;
 		@extend .btn--primary;
+	}
+
+	&--pricing-narrow {
+		padding: .2rem 1rem
 	}
 
 	&--nav,
@@ -58,7 +64,14 @@
 		background-color: $footer-light;
 	}
 
-	&--kontakt { font-family: 'Lato', sans-serif; }
+	&--kontakt,
+	&--form,
+	&--pricing {
+		font-family: 'Lato', sans-serif;
+		font-weight: 300;
+		text-align: center;
+		box-sizing: content-box;
+	}
 
 	&--verein {
 		font-size: $font-bigger;

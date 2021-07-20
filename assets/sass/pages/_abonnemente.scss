@@ -1,100 +1,21 @@
 .abonnemente {
 	@include container-main;
 
-	&__notice {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		border: 3px solid $chinder-verdigris;
-		padding: 3rem;
-		margin-bottom: 6rem;
-
-		@include respond(tab-port-sm) { flex-direction: column; }
-
-		&-content {
-			text-transform: uppercase;
-			text-align: justify;
-			margin-left: 3rem;
-
-			@include respond(tab-port-sm) { margin: 2rem 0 0 0; }
-		}
-
-		&-link {
-			&:link,
-			&:visited {
-				text-decoration: none;
-				color: $chinder-orange;
-				font-weight: 700;
-			}
-
-			&:active,
-			&:hover { color: $chinder-verdigris; }
-		}
-	}
-
 	&__intro {
 		text-align: justify;
 		margin-bottom: $margin-s;
 	}
 
-	&__duration {
-		text-align: center;
-		font-weight: 700;
-		margin-bottom: 3rem;
-	}
-
-	&__container {
+	&__fineprint {
 		display: flex;
 		justify-content: space-between;
+		margin-top: 2rem;
 
-		@include respond(tab-port-sm) {
+		&-group {
+			display: flex;
 			flex-direction: column;
-			align-items: center;
+			flex: 0 0 30%;
 		}
-	}
-
-	&__option {
-		background-color: $chinder-cultured;
-		width: 45rem;
-		padding: 2rem;
-		display: flex;
-		flex-direction: column;
-		justify-content: space-between;
-
-		@include respond(tab-port-lg) { width: 44rem; }
-
-		@include respond(tab-port-sm) {
-			width: 100%;
-
-			&:not(:last-child) { margin-bottom: 3rem; }
-		}
-
-	}
-
-	&__heading {
-		align-self: center;
-
-		@include respond(phone-md) { text-align: center; }
-	}
-
-	&__breakdown {
-		margin-bottom: 2rem;
-
-		&-item { display: flex; }
-
-		&-text { margin-left: 1rem;}
-	}
-
-	&__img {
-		align-self: center;
-		margin-bottom: 3rem;
-	}
-
-	&__cta {
-		align-self: center;
-		width: 75%;
-		text-align: center;
-		margin-bottom: 1rem;
 	}
 
 	&__print {

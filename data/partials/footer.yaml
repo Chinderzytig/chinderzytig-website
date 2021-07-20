@@ -9,6 +9,8 @@ column_one:
     link: "/schulprojekte"
   - label: Abonnemente
     link: "/abonnemente"
+  - label: Visible Learning
+    link: "/visible-learning"
   - label: Der Verein
     link: "/verein"
   - label: Kontakt

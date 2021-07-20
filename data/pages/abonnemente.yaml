@@ -1,3 +1,49 @@
+pricing:
+  - name: "Ohne Arbeitsmaterial"
+    type: "Chinderzytig Wissen"
+    offersheet:
+      - inclusion: "Zweimal wöchentlich direkt in Ihre Mailbox"
+      - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
+      - inclusion: "1 Fokus der Woche zu einem aktuellen und brandheissen Thema"
+    number: "ab CHF 40.-"
+    target: "pro Schuljahr"
+    btn:
+      - id: "ohne-arbeitsmaterial"
+        price: "40.00"
+        item_name: "Jahresabonnement Artikel ohne Arbeitsmaterial"
+        custom_options: "Einzelteilnehmer|Andere Teilnehmer[+100.00]"
+        label: "Auswählen"
+  - name: "Mit Arbeitsmaterial"
+    type: "Chinderzytig Wissen +"
+    offersheet:
+      - inclusion: "Zweimal wöchentlich direkt in Ihre Mailbox"
+      - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
+      - inclusion: "1 Fokus der Woche zu einem aktuellen und brandheissen Thema"
+      - inclusion: |
+          2 Arbeitsmaterialien mit unterschiedlichen Niveaus, passend zu den
+          Artikeln als PDF-Dokumente
+    number: "ab CHF 60.-"
+    target: "pro Schuljahr"
+    btn:
+      - id: "ohne-arbeitsmaterial"
+        price: "40.00"
+        item_name: "Jahresabonnement Artikel ohne Arbeitsmaterial"
+        custom_options: "Einzelteilnehmer|Andere Teilnehmer[+100.00]"
+        label: "Auswählen"
+  - name: "mirroco-Chinderzytig"
+    type: "Visible Learning"
+    offersheet:
+      - inclusion: "Das Lernen mit der Chinderzytig sichtbar machen"
+      - inclusion: "Alle Inhalte gekoppelt an Kompetenzen des Lehrplan 21"
+      - inclusion: "Lernberichte und Kompetenzprofile erstellbar"
+      - inclusion: "aufbereitet mit der Softwarelösung von mirroco & Hazu"
+    number: "ab CHF 250.-"
+    target: "für Homeschooler und Schuler"
+    hyper:
+      - link: "/visible-learning"
+        label: "Mehr erfahren"
+
+
 breakdown:
   - heading: Ohne
     inclusions:
