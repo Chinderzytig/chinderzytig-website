@@ -65,14 +65,14 @@
 
 	&__fineprint {
 		font-size: 1.3rem;
-		color: $color-black;
+		color: $social-base;
 		text-align: justify;
 		margin: 1rem 0 3rem 0;
 
 		&--bold {
 			color: $color-white;
 			font-weight: 500;
-			background-color: $color-black;
+			background-color: $social-base;
 			padding: .2rem;
 		}
 	}

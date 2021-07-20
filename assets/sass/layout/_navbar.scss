@@ -6,30 +6,7 @@
 
 	&__verdigris {
 		background-color: $chinder-verdigris;
-		padding: .5rem 0;
-		text-align: center;
-
-		&-content {
-			text-transform: uppercase;
-			font-weight: 700;
-		}
-
-		&-link {
-			margin-left: .5rem;
-
-			&:link,
-			&:visited {
-				text-decoration: none;
-				color: $color-white;
-			}
-
-			&:active,
-			&:hover { color: $color-black; }
-		}
-
-		@include respond(tab-port-xs) { padding: .5rem 2rem; }
-
-		@include respond(phone-lg) { padding: .5rem .5rem; }
+		height: 3rem;
 	}
 
 	&__main {
