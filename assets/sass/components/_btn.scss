@@ -66,11 +66,33 @@
 
 	&--kontakt,
 	&--form,
-	&--pricing {
+	&--pricing,
+	&--visible {
 		font-family: 'Lato', sans-serif;
 		font-weight: 300;
 		text-align: center;
 		box-sizing: content-box;
+	}
+
+	&--visible {
+		display: flex;
+		justify-content: center;
+		margin-bottom: 6rem;
+
+		&:link,
+		&:visited {
+			color: $color-white;
+			background-color: $chinder-verdigris;
+			border: 2px solid $chinder-celadon;
+			text-decoration: none;
+		}
+
+		&:hover,
+		&:active {
+			color: $color-black;
+			background-color: $color-white;
+			border-color: $color-black;
+		}
 	}
 
 	&--verein {
