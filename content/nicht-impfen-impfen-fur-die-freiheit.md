@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-08-04T04:00:00Z
 description = "Ein Bericht über die Corona-Impfung. Ist die die Lösung für das Problem? "
-draft = true
 fdw = true
 hero_img = "/v1628020418/Media_Impfen_jsshie.jpg"
 img_description = "Das Bild zeigt Covid-19 Impfdosen"
@@ -19,7 +18,7 @@ slug = ""
 title = "Nicht impfen? Impfen für die Freiheit?"
 
 +++
-Der Bundesrat beschliesst immer wieder neue Massnahmen um die Schweizer Bevölkerung vor der Corona-Krankheit zu beschützen. Letztes Jahr befand sich die ganze Schweiz im Lockdown. Die Schulen, die Restaurants, die Kinos und vieles mehr waren geschlossen. Danach wurden Anweisungen des Bundesrates gelockert, verschärft und wieder gelockert. Nun hoffen die Menschen, dass endlich wieder Normalität zurück in ihr Leben kehrt.
+Der Bundesrat beschliesst immer wieder neue Massnahmen, um die Schweizer Bevölkerung vor der Corona-Krankheit zu beschützen. Letztes Jahr befand sich die ganze Schweiz im Lockdown. Die Schulen, die Restaurants, die Kinos und vieles mehr waren geschlossen. Danach wurden Anweisungen des Bundesrates gelockert, verschärft und wieder gelockert. Nun hoffen die Menschen, dass endlich wieder Normalität zurück in ihr Leben kehrt.
 
 ### Ist die Covid-Impfung die Lösung für das Problem?
 
