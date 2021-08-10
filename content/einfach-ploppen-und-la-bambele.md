@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-08-11T04:00:00Z
 description = "Die Chinderzytig spricht über den Trend \"Pop-It-Toys\"."
-draft = true
 fdw = true
 hero_img = "/v1628633877/Media_Toys_qmr3w4.jpg"
 img_description = "Das Bild zeigt Spielzeug-Affen in der Luft"
