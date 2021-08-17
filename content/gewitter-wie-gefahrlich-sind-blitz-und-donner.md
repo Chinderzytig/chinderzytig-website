@@ -18,19 +18,6 @@ slug = ""
 title = "GEWITTER – wie gefährlich sind Blitz und Donner? "
 
 +++
-
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
-
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
-{{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
-
 _Ein heisser Sommertag am See. Mit Buch und Glace auf dem Badetuch chillen. Abkühlung im Wasser. Plötzlich Donner und Blitz. Das Gewitter ist da. Bestimmt hast du solche oder ähnliche Situationen selbst schon erlebt, aber was weisst du über Gewitter und das richtige Verhalten? In diesem Artikel erfährst du mehr darüber._
 
 ### Wie ein Gewitter entsteht
