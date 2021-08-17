@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210817_AM_Gewitter_jx8mnr."
 artikel = true
 author = "Désirée Scheidegger"
 cc_licence = ""
@@ -18,6 +18,19 @@ slug = ""
 title = "GEWITTER – wie gefährlich sind Blitz und Donner? "
 
 +++
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
+
 _Ein heisser Sommertag am See. Mit Buch und Glace auf dem Badetuch chillen. Abkühlung im Wasser. Plötzlich Donner und Blitz. Das Gewitter ist da. Bestimmt hast du solche oder ähnliche Situationen selbst schon erlebt, aber was weisst du über Gewitter und das richtige Verhalten? In diesem Artikel erfährst du mehr darüber._
 
 ### Wie ein Gewitter entsteht
@@ -40,4 +53,10 @@ Wenn du mit dem Velo unterwegs bist, solltest du es beim Gewitter abstellen und 
 4\. Hinhocken  
 Wenn du unterwegs von einem Gewitter überrascht wirst und kein sicheres Gebäude in der Nähe ist, ist es am besten, wenn du dich ohne Schirm hinhockst (nicht liegen oder sitzen) und die Füsse eng zusammenstellst.
 
-Und was hältst du von Gewittern? Magst du sie oder machen sie dir Angst? Hast du selbst schon mal eine Gewittergeschichte erlebt? Bist du schon mal jemandem begegnet, der oder die von einem Blitz getroffen wurde? Was magst du lieber: Donner oder Blitz? Kannst du dich noch an ein Gewitter erinnern, welches für dich besonders war?
+Und was hältst du von Gewittern? Magst du sie oder machen sie dir Angst? Hast du selbst schon mal eine Gewittergeschichte erlebt? Bist du schon mal jemandem begegnet, der oder die von einem Blitz getroffen wurde? Was magst du lieber: Donner oder Blitz? Kannst du dich noch an ein Gewitter erinnern, welches für dich besonders war.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
