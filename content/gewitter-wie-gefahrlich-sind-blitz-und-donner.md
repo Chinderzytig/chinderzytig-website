@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "20210817_AM_Gewitter_jx8mnr."
+arbeitsmaterial = "20210817_AM_Gewitter_jx8mnr"
 artikel = true
 author = "Désirée Scheidegger"
 cc_licence = ""
