@@ -21,10 +21,8 @@ title = "Sie helfen, wo Hilfe am dringendsten nötig ist "
 +++
 _Humanitäre Helfer setzen sich besonders für ihre Mitmenschen in Not ein. An sie soll am heutigen Tag besonders gedacht werden._
 
-Danke. Dieses Wort gehört am 19. August den Menschen, die helfen. Es sind Männer und Frauen, die anderen Menschen auf der ganzen Welt zu Hilfe eilen, wenn diese sich in einer Notlage befinden.
-
-Zum Beispiel wenn, wie vor über einem Jahr, eine weltweite Pandemie ausbricht. Wenn ein Ort von einem Erdbeben erschüttert und verwüstet wird. Wenn eine Küste von einem Hurrikan heimgesucht wird. Oder wenn Menschen vor einem Krieg fliehen müssen.
-
+Danke. Dieses Wort gehört am 19. August den Menschen, die helfen. Es sind Männer und Frauen, die anderen Menschen auf der ganzen Welt zu Hilfe eilen, wenn diese sich in einer Notlage befinden.  
+Zum Beispiel wenn, wie vor über einem Jahr, eine weltweite Pandemie ausbricht. Wenn ein Ort von einem Erdbeben erschüttert und verwüstet wird. Wenn eine Küste von einem Hurrikan heimgesucht wird. Oder wenn Menschen vor einem Krieg fliehen müssen.  
 Diese Personen nennt man humanitäre Helfer – das Wort stammt aus dem Lateinischen und bedeutet so viel wie Menschlichkeit oder Wohltätigkeit. Auf ihren Einsätzen wollen sie vor allem eines: das Leiden von anderen Menschen lindern. Sie leisten unter anderem medizinische Hilfe oder Erstversorgung, sie verteilen Trinkwasser und Nahrungsmittel oder Decken und Zelte. Häufig sind sie auch auf Erkundungstouren unterwegs, um zu Personen zu gelangen, die in sehr abgelegenen oder armen Gebieten leben.
 
 ### Aus dem eigenen Land und von weit her
