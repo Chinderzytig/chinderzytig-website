@@ -26,8 +26,7 @@ Diese Personen nennt man humanitäre Helfer – das Wort stammt aus dem Lateinis
 
 ### Aus dem eigenen Land und von weit her
 
-Solche Helferinnen und Helfer gibt es schon lange Zeit. Sie setzen sich besonders für ihre Mitmenschen ein und viele tun das sogar auf freiwilliger Basis, also ohne dafür Geld zu bekommen. Und sie kommen aus allen Ländern der Welt. Es sind Leute, die von weit her in ein Gebiet reisen, wo sie gebraucht werden. Es sind aber genauso häufig Leute, die in ihrem eigenen Land ihre Hilfe anbieten. Sogar dann, wenn es ihnen selber nicht viel besser geht, als den Menschen, welchen sie helfen.
-
+Solche Helferinnen und Helfer gibt es schon lange Zeit. Sie setzen sich besonders für ihre Mitmenschen ein und viele tun das sogar auf freiwilliger Basis, also ohne dafür Geld zu bekommen. Und sie kommen aus allen Ländern der Welt. Es sind Leute, die von weit her in ein Gebiet reisen, wo sie gebraucht werden. Es sind aber genauso häufig Leute, die in ihrem eigenen Land ihre Hilfe anbieten. Sogar dann, wenn es ihnen selber nicht viel besser geht, als den Menschen, welchen sie helfen.  
 Seit 2008 widmet man ihnen allen den so genannten „Welttag der humanitären Hilfe“. Dieser wurde von den Vereinten Nationen ins Leben gerufen – eben, um ihnen zu danken.
 
 Es gibt viele verschiedene Organisationen, die sich für die Hilfe für notleidende Menschen einsetzen. In der Schweiz kennt ihr vielleicht das Rote Kreuz oder Caritas, es gibt aber noch unzählige weitere.
