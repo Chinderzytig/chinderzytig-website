@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-08-19T04:00:00Z
 description = "Ein Artikel über die humanitären Helfer. "
-draft = true
 fdw = false
 hero_img = "/v1629315711/Media_umcfcr.jpg"
 img_description = "Das Bild zeigt wie eine Person einer anderen die Hand reicht. "
