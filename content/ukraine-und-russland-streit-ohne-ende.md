@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-08-24T04:00:00Z
 description = "Zwei Länder im Konflikt. Die Chinderzytig berichtet. "
-draft = true
 fdw = false
 hero_img = "/v1629659812/Media_Krim_jytojq.jpg"
 img_description = "Die Konflikt-Insel Krim"
