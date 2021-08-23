@@ -1,19 +1,19 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2021-08-24T04:00:00Z
+description = "Zwei Länder im Konflikt. Die Chinderzytig berichtet. "
 draft = true
 fdw = false
 hero_img = "/v1629659812/Media_Krim_jytojq.jpg"
 img_description = "Die Konflikt-Insel Krim"
 img_photographer = "Dmitry Bogatyrev"
 img_src = "https://unsplash.com/photos/3sfl4B10pCM"
-kategorien = []
-markierungen = []
+kategorien = ["Asien", "Europa"]
+markierungen = ["Medien", "Politik"]
 paid = false
 slug = ""
 title = "Ukraine und Russland – Streit ohne Ende? "
