@@ -45,8 +45,8 @@ Wieso denkst du ist der Zugang zum Meer so wichtig für ein Land?
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
 
-{{< definition id="Milizen" wort="Milizen" def="Milizen Sind Streitkräfte oder Teile von Streitkräften, die zum größten Teil oder vollständig erst im zum Einsatz kommen, wenn ein Konflikt ausbricht.e" >}}
+{{< definition id="Milizen" wort="Milizen" def="Milizen Sind Streitkräfte oder Teile von Streitkräften, die zum größten Teil oder vollständig erst zum Einsatz kommen, wenn ein Konflikt ausbricht." >}}
 
-{{< definition id="Schwarzmeerflotte" wort="Schwarzmeerflotte" def="Ist Teil des russischen Militärs, welches auf dem Wasser kämpft." >}}
+{{< definition id="Schwarzmeerflotte" wort="Schwarzmeerflotte" def="Die Schwarzmeerflotte ist Teil des russischen Militärs, welches auf dem Wasser kämpft." >}}
 
 {{< definition id="Proteste" wort="Proteste" def="Grund für den Ausbruch des Konfliktes in der Ukraine waren Proteste gegen den ukrainischen Präsidenten, nachdem dieser entschied, eine Vereinbarung zur Annäherung an die EU doch nicht zu unterschreiben." >}}
