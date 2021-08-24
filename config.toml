@@ -1,14 +1,13 @@
 baseURL = "https://www.chinderzytig.ch"
-languageCode = "de"
-title = "Die Zeitung für Kinder und Jugendliche"
 disqusShortname = "chinderzytig"
 googleAnalytics = "UA-151249702-3"
+languageCode = "de"
+title = "Die Zeitung für Kinder und Jugendliche"
 [params]
-	DateForm = "2.01.2006"
-	cloudinary_url = "https://res.cloudinary.com/chinderzytig/image/upload"
+DateForm = "2.01.2006"
+cloudinary_url = "https://res.cloudinary.com/chinderzytig/image/upload"
+[services.youtube]
+privacyEnhanced = true
 [taxonomies]
-	katagorie = "kategorien"
-	markierung = "markierungen"
-[services]
-	[services.youtube]
-		privacyEnhanced = true
+katagorie = "kategorien"
+markierung = "markierungen"
