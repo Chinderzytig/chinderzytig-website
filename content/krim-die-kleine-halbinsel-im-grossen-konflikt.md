@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-08-25T04:00:00Z
 description = "Der Konflikt zwischen Ukraine und Russland nochmals erklärt."
-draft = true
 fdw = true
 hero_img = "/v1629808752/Media_Konflikt_zhbvri.jpg"
 img_description = "Der Konflikt zwischen Russland und der Ukraine symbolisch dargestellt. "
