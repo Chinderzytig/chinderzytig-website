@@ -8,9 +8,9 @@ date = 2021-08-25T04:00:00Z
 description = "Der Konflikt zwischen Ukraine und Russland nochmals erklärt."
 draft = true
 fdw = true
-hero_img = ""
-img_description = ""
-img_photographer = " Chris Sabor"
+hero_img = "/v1629808752/Media_Konflikt_zhbvri.jpg"
+img_description = "Der Konflikt zwischen Russland und der Ukraine symbolisch dargestellt. "
+img_photographer = "Chris Sabor"
 img_src = "https://unsplash.com/photos/qlaot0VrqTM"
 kategorien = []
 markierungen = []
@@ -21,13 +21,13 @@ title = "Krim - Die kleine Halbinsel im grossen Konflikt "
 +++
 _Seit dem Ausbruch des Krieges im Jahr 2014 sorgt die Ukraine immer wieder für neue Schlagzeilen. Das Land ist im Verlauf der 2010er Jahre zum Aushängeschild des Konfliktes zwischen Russland und dem Westen geworden. Doch was genau steckt hinter diesem Konflikt?_
 
-Der seit 2014 andauernde Bürgerkrieg in der Ukraine scheint kein Ende zu nehmen. Selbst sieben Jahre nach dem Ausbruch des Krieges, kommt es selbst heute noch regelmässig zu bewaffneten Auseinandersetzungen zwischen von Russland unterstützen Milizen[\[BK1\]](#_msocom_1) und der ukrainischen Armee. Vor allem im Osten und Süden des Landes ist die Situation immer noch angespannt. Nun startet die Ukraine mit der Krim Plattform eine neue Initiative, um an den Höhepunkt dieses Krieges zu erinnern. Wieder also scheint diese kleine Halbinsel im Mittelpunkt des Konfliktes zu stehen. Die Wichtigkeit der Insel ist aber nicht nur von symbolischer Natur.
+Der seit 2014 andauernde Bürgerkrieg in der Ukraine scheint kein Ende zu nehmen. Selbst sieben Jahre nach dem Ausbruch des Krieges, kommt es selbst heute noch regelmässig zu bewaffneten Auseinandersetzungen zwischen von Russland unterstützen {{< fremdwort id="Milizen" wort="Milizen" >}} und der ukrainischen Armee. Vor allem im Osten und Süden des Landes ist die Situation immer noch angespannt. Nun startet die Ukraine mit der Krim Plattform eine neue Initiative, um an den Höhepunkt dieses Krieges zu erinnern. Wieder also scheint diese kleine Halbinsel im Mittelpunkt des Konfliktes zu stehen. Die Wichtigkeit der Insel ist aber nicht nur von symbolischer Natur.
 
 ### Eine kleine Halbinsel von grossem Wert
 
-Die Halbinsel Krim ist seit 1954 Teil der Ukraine. Davor gehörte die Halbinsel zu Russland und wurde damals als ein Geschenk and die Ukraine übergeben. Die damalige Angliederung an die Ukraine war aber schon damals nicht unumstritten in Russland. Noch heute ist eine Mehrheit der Bevölkerung russisch. Im Jahr 2014 versuchte Putin die militärische Besatzung der Halbinsel damit zu rechtfertigen, dass er die russische Bevölkerung auf der Insel als gefährdet sah. Doch das eigentliche Interesse Russlands an der Krim hatte damals schon einen strategischen Grund. Denn die Halbinsel hatte zwar seit Jahrzehnten nicht mehr Russland gehört, doch dank einem Vertrag zwischen Russland und der Ukraine, blieb die Insel das Zuhause der russischen Schwarzmeerflotte[\[BK2\]](#_msocom_2) .
+Die Halbinsel Krim ist seit 1954 Teil der Ukraine. Davor gehörte die Halbinsel zu Russland und wurde damals als ein Geschenk and die Ukraine übergeben. Die damalige Angliederung an die Ukraine war aber schon damals nicht unumstritten in Russland. Noch heute ist eine Mehrheit der Bevölkerung russisch. Im Jahr 2014 versuchte Putin die militärische Besatzung der Halbinsel damit zu rechtfertigen, dass er die russische Bevölkerung auf der Insel als gefährdet sah. Doch das eigentliche Interesse Russlands an der Krim hatte damals schon einen strategischen Grund. Denn die Halbinsel hatte zwar seit Jahrzehnten nicht mehr Russland gehört, doch dank einem Vertrag zwischen Russland und der Ukraine, blieb die Insel das Zuhause der russischen {{< fremdwort id="Schwarzmeerflotte" wort="Schwarzmeerflotte" >}}.
 
-Für Russland, ein Land, welches trotz enormer Grösse keinen einfachen Zugang an ein Meer hat, ist die Krim als Militärstützpunkt noch heute von grosser strategischer Bedeutung. Deshalb reagierte der Kreml vor sieben Jahren so aggressiv auf die europafreundlichen Proteste [\[BK3\]](#_msocom_3) in der Ukraine. Denn der politische Umbruch in der Ukraine hätte nicht nur zum Verlust dieser kleinen Insel geführt, sondern auch dem offenen Zugang zum schwarzen Meer.
+Für Russland, ein Land, welches trotz enormer Grösse keinen einfachen Zugang an ein Meer hat, ist die Krim als Militärstützpunkt noch heute von grosser strategischer Bedeutung. Deshalb reagierte der Kreml vor sieben Jahren so aggressiv auf die europafreundlichen {{< fremdwort id="Proteste" wort="Proteste" >}} in der Ukraine. Denn der politische Umbruch in der Ukraine hätte nicht nur zum Verlust dieser kleinen Insel geführt, sondern auch dem offenen Zugang zum schwarzen Meer.
 
 ### Die Krim Plattform
 
@@ -45,10 +45,8 @@ Wieso denkst du ist der Zugang zum Meer so wichtig für ein Land?
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
 
-***
+{{< definition id="Milizen" wort="Milizen" def="Milizen Sind Streitkräfte oder Teile von Streitkräften, die zum größten Teil oder vollständig erst im zum Einsatz kommen, wenn ein Konflikt ausbricht.e" >}}
 
-[\[BK1\]](#_msoanchor_1)Milizen Sind Streitkräfte oder Teile von Streitkräften, die zum größten Teil oder vollständig erst im zum Einsatz kommen, wenn ein Konflikt ausbricht.
+{{< definition id="Schwarzmeerflotte" wort="Schwarzmeerflotte" def="Ist Teil des russischen Militärs, welches auf dem Wasser kämpft." >}}
 
-[\[BK2\]](#_msoanchor_2)Ist Teil des russischen Militärs, welches auf dem Wasser kämpft.
-
-[\[BK3\]](#_msoanchor_3)Grund für den Ausbruch des Konfliktes in der Ukraine waren Proteste gegen den ukrainischen Präsidenten, nachdem dieser entschied, eine Vereinbarung zur Annäherung an die EU doch nicht zu unterschreiben.
+{{< definition id="Proteste" wort="Proteste" def="Grund für den Ausbruch des Konfliktes in der Ukraine waren Proteste gegen den ukrainischen Präsidenten, nachdem dieser entschied, eine Vereinbarung zur Annäherung an die EU doch nicht zu unterschreiben." >}}
