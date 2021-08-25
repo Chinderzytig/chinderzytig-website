@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210826_China_an_der_Angel_AM_svwwp7"
 artikel = true
 author = "Sam Penfold"
 cc_licence = ""
@@ -36,3 +36,9 @@ Die grossen Fischfänge fordern auch viele Hände: Die Fischerei für China ist 
 Während die chinesische Fischerei eine wichtige Rolle für den globalen Markt und China selber spielt, gibt es natürlich auch eine Schattenseite: China steht regelmässig wegen illegaler und unregulierter Fischerei in der Kritik - auch in fremden Gewässern. Während der chinesische Staat vielerorts, zum Beispiel in Gewässern in Westafrika, legale und regulierte Fischerei betreibt, macht er dies an anderen Orten ohne Erlaubnis. So wurden in den letzten Jahren in Galapagos, Argentinien, Nordkorea, Taiwan und Palau chinesische Schiffe abgefangen, die illegal und zum Teil nach geschützten Tierarten fischten. Ebenfalls gibt es durch die schiere Menge der Fischerei Bedenken, dass eine Überfischung stattfindet: Die meisten chinesischen Schiffe sind so gross, dass sie innert einer Woche mehr Fische fangen als ein lokales Fischerboot in einem Jahr, was für die Region und ihre Fischer grosse Herausforderungen darstellt, das heisst, ihre Existenz wird bedroht.
 
 {{< definition id="Aquakulturen" wort="Aquakulturen" def="Aquakulturen (auch Aquafarming genannt) bezeichnet den Prozess der künstlichen und kontrollierten Zucht von Fischen und Meeresfrüchten." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
