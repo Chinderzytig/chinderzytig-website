@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-08-31T04:00:00Z
 description = "Die Chinderzitig schreibt über das Thema Frieden auf der Welt"
-draft = true
 fdw = false
 hero_img = "/v1630060526/Media_Peace_fyc2ez.jpg"
 img_description = "Mit Knopfdruck zum Frieden"
