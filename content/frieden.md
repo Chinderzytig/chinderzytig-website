@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210831_Frieden_AM_gobiui"
 artikel = true
 author = "Samira Lussi"
 cc_licence = ""
@@ -34,3 +34,9 @@ Ein Beispiel für eine aktuelle Friedensmission ist in Mali. Mali ist eine ehema
 ### EU - ein Bund für Frieden
 
 Ein gutes Beispiel für Länder, die lange miteinander verfeindet waren und jetzt ein stabiles und friedliches Verhältnis haben, ist die Europäische Union. Denn die Schaffung der EU hatte zum Ziel, die zahlreichen und blutigen Kriege zwischen den Nachbarländern wie zum Beispiel den Zweiten Weltkrieg zu verhindern. Im Jahr 1950 begann mit der Europäischen Gemeinschaft für Kohle (EGKS) und Stahl die wirtschaftliche und politische Vereinigung der europäischen Länder und so auch der dauerhafte Frieden. Die sechs Gründerländer dieser Gemeinschaft waren Belgien, Deutschland, Frankreich, Italien, Luxemburg und die Niederlande. Doch Kohle und Stahl waren nur der Anfang. Heute leben über 150 Millionen Europäer*innen in 27 Mitgliedsstaaten in Frieden und Freiheit. Aber wie funktioniert dieser Frieden in der EU? Die Mitgliedstaaten sind alle unabhängig aber einige Befugnisse werden gebündelt, wo eine Zusammenarbeit sinnvoll ist. Dies bedeutet, dass Entscheidungen zu bestimmten Fragen von gemeinsamem Interesse auf europäischer Ebene demokratisch getroffen werden. Innerhalb der EU werden Entscheidungen von verschiedenen Organen getroffen. Das Europäische Parlament vertritt ihre Bürgerinnen und Bürger und wird auch direkt von ihnen gewählt. Der Europäische Rate setzt sich aus den Regierungschefs der EU-Mitgliedsstaaten zusammen und die Europäische Kommission vertritt die Interessen der EU insgesamt gegenüber anderen Staaten und Staatenbündnissen. Für die Verbreitung von Frieden, Versöhnung, Demokratie und Menschenrechte hat die EU 2012 den Friedensnobelpreis bekommen. Auch wenn es immer noch Krisen wie zum Beispiel die Flüchtlinge auf dem Mittelmeer oder Waffenexporte aus EU-Ländern gibt, sind doch die Verdienste der EU unbestreitbar und sie haben einen Effekt über die Grenzen von Europa hinaus, indem sie die multilaterale Zusammenarbeit stützt.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
