@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-09-09T04:00:00Z
 description = "Ein Artikel über Hochsensibilität"
-draft = true
 fdw = false
 hero_img = "/v1631014043/Sensibeli_jezyzm.jpg"
 img_description = "Karikatur eines kleinen Jungen und seinem Plüschtier"
@@ -28,6 +27,10 @@ Vielleicht kennst du solche Momente aus deinem Schulalltag: Geräusche deiner Ko
 ### Niemand kann besser Du sein…
 
 ...als Du selbst! Es ist wichtig, bereits als Kind, dass du dich selber spürst. Dass du weisst, was dir gut tut - und was nicht. Dass du weisst, wer dir gut tut - und wer nicht. Als sehr gefühlvoller Mensch ist es nicht immer leicht, damit umzugehen. Wir empfehlen dir, falls du dich dem Sensibeli nahe fühlst, dass du dir immer gut überlegst, was du brauchst. Du darfst auch deinen Eltern oder gewissen Lehrpersonen davon erzählen. Sag ihnen, wie es dir geht und wie es dir wohler wäre. Hol dir einen Gehörschutz, falls es zu laut wird. Schliesse die Augen, wenn es dir gut tut. Oder sei halt einfach nicht überall dabei, wenn es dir zu viel wird. Auch wenn das bedeutet, dass dich vielleicht nicht alle verstehen oder gleich gerne haben. Wichtig ist, dass du auf dich hörst und dich selbst bleibst.
+
+Zum Beispiel haben Hochsensitive eine stärkere Intuition, weswegen man sich ganz fest auf sein Bauchgefühl verlassen darf und soll. Sie „spüren“ zudem besser, wie es anderen geht. Das nennt man auch Empathie.  
+In der Tierwelt (wo das Phänomen der Hochsensitivität auch vorkommt) führt es dazu, dass die hochsensitiven Tiere schneller und besser spüren/wittern/hören, wenn sich Feinde nähern, was zum Überleben von Vielen wichtig sein kann.  
+Die anderen sind vielleicht schneller beim Jagen, aber wo die überlebenswichtigen Wasserlöcher sind, das spüren die Hochsensitiven!
 
 Hochsensible Menschen gibt es viele, alte und junge. Das ist keine Krankheit und sicher nichts Schlechtes. Vielleicht manchmal eine Herausforderung. Doch es wäre schön, wenn die Gesellschaft sensibler wäre und die sensiblen Menschen so sein dürfen, wie sie sind: Sich so wahrnehmen. Für sich einstehen (ohne sich rechtfertigen zu müssen). Und auf das eigene Bauchgefühl hören zu dürfen. Genau so, dass es einem immer wohl bleiben kann.
 
