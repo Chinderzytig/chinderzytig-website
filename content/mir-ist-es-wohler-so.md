@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210909_Sensibeli_AM_yfh5uf"
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
@@ -39,3 +39,9 @@ Hochsensible Menschen gibt es viele, alte und junge. Das ist keine Krankheit und
 Dies wird im Song “Mir sy drü” besungen, bei dem das Sensibeli die besten Freundinnen zu verlieren scheint. Jaël Malli hat Worte gefunden für ihre eigene Hochsensibilität. Und sie gibt diesen nun mit dem Sensibeli eine feinfühlige, herzliche Stimme. Das Album erzählt auch Situationen, die Eltern oft nicht verstehen. So heisst es im gleichnamigen Lied: “Dä Pulli chratzt, u das Halstuech o, das leg i nie meh a, da han i lieber chaut … Sensibeli, säge si mir, u si lache derby, Sensibeli, warum verstöh si mi nid?” Oder, dass es sich in der eigenen Welt am wohlsten fühlt: “Hie bi n i wohl, hie finde si mi nid, cha tröime u spiele u sy wi n i wott, we n i hinder em Vorhang bi.” Diese Lieder gehören in jedes Kinderherz - und auch in jene von allen Erwachsenen.
 
 Das Sensibeli kann man kaufen unter [www.jaelmusic.ch](http://www.jaelmusic.ch) oder in ausgewählten Läden, wie z.B. Changemaker, Chat Noir, o.ä. und ab 2022 bei musikalischen Lesungen live hören.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
