@@ -18,7 +18,7 @@ slug = ""
 title = "Mir ist es wohler so!"
 
 +++
-_Jaël Malli ist eine der bekanntesten und erfolgreichsten Musikerinnen der Schweiz. Sie könnte mit ihren Erfolgen angeben und stets noch mehr wollen. Doch stattdessen wagt sie sich nun, genau nach dem Geschmack der Chinderzytig, heikle Themen anzusprechen, die auch Kinder betreffen. Feine Töne im Kleinen zieht sie den grossen Bühnen und der oberflächlichen Musikwelt vor. Ihr ist es wohler so! Ihr neues Album “Sensibeli” handelt vom Thema der Hochsensibilitä. Doch, was ist das eigentlich?_
+_Jaël Malli ist eine der bekanntesten und erfolgreichsten Musikerinnen der Schweiz. Sie könnte mit ihren Erfolgen angeben und stets noch mehr wollen. Doch stattdessen wagt sie sich nun, genau nach dem Geschmack der Chinderzytig, heikle Themen anzusprechen, die auch Kinder betreffen. Feine Töne im Kleinen zieht sie den grossen Bühnen und der oberflächlichen Musikwelt vor. Ihr ist es wohler so! Ihr neues Album “Sensibeli” handelt vom Thema der Hochsensibilität. Doch, was ist das eigentlich?_
 
 Jeder Mensch ist auf seine Weise gefühlvoll. Einige Menschen sind dies ein wenig mehr. Menschen, die sehr vieles wahrnehmen, haben oft eine sehr hohe Sensibilität, eine Hochsensibilität. Das heisst, sie nehmen zum Beispiel Geräusche und Gerüche viel stärker wahr als andere Menschen.
 
