@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "20210907_Gender_AM_bganz8"
+arbeitsmaterial = "20210907_Gender_AM_icjkjo"
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
