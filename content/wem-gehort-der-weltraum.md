@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-09-16T04:00:00Z
 description = "Ein Artikel zum Thema Weltraum. "
-draft = true
 fdw = false
 hero_img = "/v1631100165/Media_Weltraum_l1emoz.jpg"
 img_description = "Die Erde aus sich vom Weltall"
