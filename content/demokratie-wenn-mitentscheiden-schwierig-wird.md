@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20210914_Demokratie_AM_arv5zq"
 artikel = true
 author = "Botond Kalotav"
 cc_licence = ""
 cc_src = ""
 date = 2021-09-14T04:00:00Z
 description = "Ein Artikel über unsere Demokratie, die vor neue Herausforderungen gestellt wird."
-draft = true
 fdw = false
 hero_img = "/v1631099885/Media_Demokratie_mywfdp.jpg"
 img_description = ""
@@ -23,7 +22,7 @@ _Die Politik ist im Verlauf der letzten beiden Jahre immer stärker in den Fokus
 
 ### Das Volk entscheidet
 
-Demokratien gibt es auf der ganzen Welt in vielen verschiedenen Formen. Wie viel das Volk mitbestimmen kann, ist ganz unterschiedlich. Jedoch geht es in jeder Demokratie im Grund darum, dass die Mehrheit der Bürger*innen darüber entscheidet, welchen Kurs ein Land einschlägt. Häufig geschieht dies, indem das Volk ein Staatsoberhaupt und ein Parlament wählt. Diese sollen danach das Land durch Entscheidungen und Gesetze im Interesse der Bevölkerung lenken. In manchen Ländern, wie auch in der Schweiz, kann das Volk über einzelne Gesetze mitentscheiden. Viele dieser politischen Systeme scheinen aber oft sehr kompliziert und es kann sein, dass man als Bürger*in den Überblick verliert, wie man das eigene Land nun wirklich mitgestalten kann. Dies ist sehr schade, denn, egal in welcher Form das Volk mitentscheiden kann, wichtig ist, dass man sich möglichst gut informiert und aktiv wählen geht. Einfacher wird es aber nicht.
+Demokratien gibt es auf der ganzen Welt in vielen verschiedenen Formen. Wie viel das Volk mitbestimmen kann, ist ganz unterschiedlich. Jedoch geht es in jeder Demokratie im Grund darum, dass die Mehrheit der Bürger_innen darüber entscheidet, welchen Kurs ein Land einschlägt. Häufig geschieht dies, indem das Volk ein Staatsoberhaupt und ein Parlament wählt. Diese sollen danach das Land durch Entscheidungen und Gesetze im Interesse der Bevölkerung lenken. In manchen Ländern, wie auch in der Schweiz, kann das Volk über einzelne Gesetze mitentscheiden. Viele dieser politischen Systeme scheinen aber oft sehr kompliziert und es kann sein, dass man als Bürger_in den Überblick verliert, wie man das eigene Land nun wirklich mitgestalten kann. Dies ist sehr schade, denn, egal in welcher Form das Volk mitentscheiden kann, wichtig ist, dass man sich möglichst gut informiert und aktiv wählen geht. Einfacher wird es aber nicht.
 
 ### Die Flut an Informationen
 
@@ -34,3 +33,9 @@ Die heutige Welt ist besser vernetzt als je zuvor. Man hat innerhalb von Sekunde
 Jede Demokratie lebt davon, dass möglichst viele Leute wählen und abstimmen gehen. Denn selbst wenn einem das nicht so vorkommen mag, jede Stimme hat ein Gewicht, jede Stimme hat Kraft und jede Stimme trägt eine Demokratie mit. Es ist also von grosser Bedeutung, dass man - trotz des immer dichter werdenden Dschungels an Informationen und häufig komplizierten Themen - versucht, sich eine möglichst unvoreingenommene Meinung zu bilden. Dazu sollte man auch Argumente und Informationen zu verstehen versuchen, welche zu Beginn etwas fremd oder unverständlich scheinen. Dabei helfen können auch unabhängige Plattformen wie Campus Demokratie, welche den Bürger*innen aufzeigen, wie die Politik funktioniert und wichtige Informationen aus verlässlichen Quellen sammeln.
 
 Ob man auf solche Unterstützung und solche Plattformen zurückgreifen will, ist jedem selbst überlassen. Wichtig ist, dass man sich unvoreingenommen über politische Themen informiert und wählen geht.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}

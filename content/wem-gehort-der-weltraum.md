@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "202109016_Wem_geho%CC%88rt_der_Weltraum_AM_e7plww"
 artikel = true
 author = "Séverine Hügli"
 cc_licence = ""
@@ -31,7 +31,7 @@ Im Kalten Krieg standen sich in der zweiten Hälfte des 20. Jahrhunderts die bei
 
 ### Der Weltraumvertrag von 1967
 
-Der Wettlauf ins All brachte die Generalversammlung der Vereinten Nationen 1959 dazu,  eine Weltraumkommission~~,~~ einzuberufen. Dieser Ausschuss erarbeitete den Weltraumvertrag von 1967, welcher bis heute die Grundsätze des Weltraumrechts klärt. Wesentlich für die in der Einleitung aufgeworfene Frage ist sicherlich, dass die Erforschung und Nutzung des Weltraums grundsätzlich allen Staaten freistehen. Dennoch gilt zu beachten, dass der gesamte Weltraum keinen staatlichen oder privaten Machtansprüchen unterliegt und somit Staaten nicht befugt sind, Gesetze zu erlassen.
+Der Wettlauf ins All brachte die Generalversammlung der Vereinten Nationen 1959 dazu,  eine Weltraumkommission\~\~,\~\~ einzuberufen. Dieser Ausschuss erarbeitete den Weltraumvertrag von 1967, welcher bis heute die Grundsätze des Weltraumrechts klärt. Wesentlich für die in der Einleitung aufgeworfene Frage ist sicherlich, dass die Erforschung und Nutzung des Weltraums grundsätzlich allen Staaten freistehen. Dennoch gilt zu beachten, dass der gesamte Weltraum keinen staatlichen oder privaten Machtansprüchen unterliegt und somit Staaten nicht befugt sind, Gesetze zu erlassen.
 
 ### Darf Musk also den Weltraum kolonialisieren?
 
@@ -42,3 +42,9 @@ Die oben ausgeführten Punkte bedeuten für das Vorhaben von SpaceX, dass es unz
 Der Weltraum geht alle Menschen etwas an. Durch die geplante wirtschaftliche Nutzung des Weltraums durch das Unternehmen SpaceX wird das geltende Weltraumrecht herausgefordert. Es drängt sich die Frage nach einer Anpassungen auf, welche die faire Nutzung des Weltraums regeln würde. Eine weitere Frage ist:
 
 Wollen wir zulassen, dass private Wirtschaftsführer*innen im Weltraum einen dermassen grossen Einfluss ausüben? Was denkst du? Schreibe dein Statement in die Kommentare.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
