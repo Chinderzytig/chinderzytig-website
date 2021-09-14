@@ -121,3 +121,15 @@ companies:
   logo:
     - img: "schule_tscharnergut_dpbit7.png"
       desc: Schule Tscharnergut placeholder
+- website: "https://diaspora-tv.ch/index.html"
+  logo:
+    - img: "diaspora_gqcevy.jpg"
+      desc: Diaspora TV logo
+- website: "https://www.berufungsfinder.ch"
+  logo:
+    - img: "berufungsfinder_tzmmet.png"
+      desc: Berufungsfinder logo
+- website: "https://campusdemokratie.ch"
+  logo:
+    - img: "campusdemokratie_logo_lvaecn.png"
+      desc: Campus Demokratie logo
