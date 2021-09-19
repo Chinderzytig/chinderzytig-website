@@ -12,12 +12,19 @@
 		font-size: 5rem;
 		word-spacing: 1rem;
 		letter-spacing: .5rem;
-		margin-bottom: $margin-s;
+		margin-bottom: 1rem;
 
 		@include respond(tab-port-sm) { text-align: center; }
 	}
 
 	&__highlight-word { color: $chinder-orange; }
+
+	&__history-subtext {
+		text-align: center;
+		margin-bottom: $margin-s;
+
+		@include respond(phone-land-lg) { text-align: justify; }
+	}
 
 	&__history-btn { align-self: center; }
 
