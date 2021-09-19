@@ -22,6 +22,8 @@
 	&__history-subtext {
 		text-align: center;
 		margin-bottom: $margin-s;
+
+		@include respond(phone-land-lg) { text-align: justify; }
 	}
 
 	&__history-btn { align-self: center; }
