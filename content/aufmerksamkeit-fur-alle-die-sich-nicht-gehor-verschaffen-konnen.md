@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-09-23T04:00:00Z
 description = "Die Gehörlosen sollen heute im Fokus stehen."
-draft = true
 fdw = false
 hero_img = "/v1632163866/Media_Gebra%CC%88desprache_sndrlt.jpg"
 img_description = "Zwei Menschen symbolisieren mit ihren Händen \"Love\""
