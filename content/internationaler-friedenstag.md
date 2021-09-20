@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-09-21T04:00:00Z
 description = "Ein Bericht über den internationalen Tag des Friedens"
-draft = true
 fdw = false
 hero_img = "/v1632163321/Media_Friedenstag_fxmykq.jpg"
 img_description = "Das Bild zeigt eine Gruppe von Menschen, die sich umarmen"
