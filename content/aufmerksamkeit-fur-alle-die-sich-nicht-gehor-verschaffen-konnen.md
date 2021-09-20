@@ -22,8 +22,7 @@ _Am jährlichen Tag der Gebärdensprache sollen heute diejenigen Menschen im Fok
 
 „Hei, pass auf!“, ruft dir jemand zu. Erstaunt schaust du von deinem Handy auf. Uff, Glück gehabt, fast wärst du in einen Pfosten reingelaufen, so vertieft in deinen Bildschirm warst du. Zum Glück hast du die Warnung rechtzeitig gehört, das hätte sonst ganz schön wehtun können.
 
-Nicht für alle aber wäre diese Situation gleich verlaufen, wie für dich. Denn stell dir vor, weltweit gibt es rund 70 Millionen gehörlose Menschen. Die Gehörlosigkeit ist in manchen Fällen genetisch (Glossar?), kann aber beispielsweise auch durch eine Infektionskrankheit oder durch Komplikationen bei der Geburt ausgelöst werden. In der Schweiz sind es ungefähr 10‘000 Personen, die seit ihrer Geburt nichts oder fast nichts hören können.
-
+Nicht für alle aber wäre diese Situation gleich verlaufen, wie für dich. Denn stell dir vor, weltweit gibt es rund 70 Millionen gehörlose Menschen. Die Gehörlosigkeit ist in manchen Fällen genetisch, kann aber beispielsweise auch durch eine Infektionskrankheit oder durch Komplikationen bei der Geburt ausgelöst werden. In der Schweiz sind es ungefähr 10‘000 Personen, die seit ihrer Geburt nichts oder fast nichts hören können.  
 Diese Menschen sind aber angewiesen, in ihrem Leben mit ihren Mitmenschen kommunizieren zu können. Die Allermeisten von ihnen verwenden dafür die Gebärdensprache.
 
 ### Regionale Unterschiede
@@ -40,7 +39,7 @@ Wie auch bei unseren gesprochenen Sprachen gibt es nicht eine einzige Gebärdens
 
 Im 19. Jahrhundert aber, wurde die Gebärdensprache sogar verboten. Primitiv wurde sie genannt und man wollte alle Kinder so dazu zwingen, die „normale“ Lautsprache zu lernen. Das Verbot ging weit über die Schweiz hinaus und hat in manchen Ländern wie zum Beispiel Frankreich über hundert Jahre lang gehalten.
 
-Trotz des Verbots kommunizierten Gehörlose weiterhin mit der Gebärdensprache und begannen, für ihre Rechte und gegen die Diskriminierung (Glossar?) ihrer körperlichen Behinderung zu kämpfen. Sie wollen zum Beispiel mehr Unterstützung in Form von Untertiteln oder technischen Hilfsmitteln im Alltag erreichen.
+Trotz des Verbots kommunizierten Gehörlose weiterhin mit der Gebärdensprache und begannen, für ihre Rechte und gegen die Diskriminierung ihrer körperlichen Behinderung zu kämpfen. Sie wollen zum Beispiel mehr Unterstützung in Form von Untertiteln oder technischen Hilfsmitteln im Alltag erreichen.
 
 Vor 70 Jahren wurde in Rom der Weltverband der Gehörlosen gegründet, der sich für Gleichberechtigung von gehörlosen Menschen einsetzt. Zur Erinnerung an diesen Tag wird am 23. September jedes Jahr der Tag der Gebärdensprache gefeiert.
 
