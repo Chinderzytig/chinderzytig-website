@@ -24,8 +24,7 @@ Der Vulkanausbruch zeichnete sich ab. Tausende Vorbeben wurden gemessen. Das sin
 
 ### Was geschieht mit den Inselbewohner*innen?
 
-Die Insel umfasst ca. 83’000 Bewohner*innen. Da der Vulkan glücklicherweise in einem unbesiedelten Gebiet ausgebrochen ist, musste noch niemand evakuiert werden. Das heisst, es musste niemand in Sicherheit gebracht werden. Allerdings gilt momentan die Alarmstufe Rot und die Behörden sind bereit, rasch zehntausende Menschen zu retten. Der Ausbruch löste auch keinen grossen Tsunami aus, wie anfangs befürchtet wurde.
-
+Die Insel umfasst ca. 83’000 Bewohner*innen. Da der Vulkan glücklicherweise in einem unbesiedelten Gebiet ausgebrochen ist, musste noch niemand evakuiert werden. Das heisst, es musste niemand in Sicherheit gebracht werden. Allerdings gilt momentan die Alarmstufe Rot und die Behörden sind bereit, rasch zehntausende Menschen zu retten. Der Ausbruch löste auch keinen grossen Tsunami aus, wie anfangs befürchtet wurde.  
 Der Vulkan scheint nicht sonderlich aggressiv zu sein. In den vergangenen 100 Jahren gab es nur zwei Ausbrüche. Somit galt er als schlafender Vulkan.
 
 Vielleicht ist das seine Art, die Menschen zu wecken. Die Natur gewinnt immer und sie macht sich bemerkbar, wenn wir nicht damit rechnen. Oder zu sehr mit anderem beschäftigt sind. Sei dies in Form eines Vuklanausbruchs, eines Hochwassers oder eines Virus. Auch wenn wir Menschen selbst Teil der Natur sind, die Naturgewalten gewinnen gegenüber uns Menschen immer. Wenn sie wollen.
