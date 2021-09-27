@@ -35,3 +35,9 @@ Angela Merkel hatte in ihrer Zeit als Bundeskanzlerin viele schwierige Aufgaben 
 Deutschland ist das Land mit den meisten Einwohnern und mit der grössten Volkswirtschaft innerhalb der EU. Das Land hat also eine besonders wichtige Stellung innerhalb der EU und auch gegenüber Ländern wie Amerika oder China. Wenn nun dieses Land einen neuen Regierungschef oder eine neue Regierungschefin wählt, hat das also auch Auswirkungen auf die Beziehungen zu diesen Ländern – und auch auf die Schweiz. Für die Schweiz ist Deutschland der wichtigste Handelspartner. In kein anderes Land exportiert die Schweiz so viele Waren wie nach Deutschland. Und umgekehrt werden auch am meisten Waren aus Deutschland in die Schweiz eingeführt. Auch in den Bereichen Bildung, Forschung und Innovation sowie in der Kultur wird viel zusammengearbeitet.
 
 Nachdem der Bundestag nun gewählt ist, dürfen wir also weiter gespannt sein, wer schlussendlich als Chef oder Chefin von Deutschland die nächsten Jahre auf der internationalen Politbühne mitgestalten und prägen wird.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
