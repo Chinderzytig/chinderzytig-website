@@ -21,6 +21,7 @@ title = "Der Nobelpreis berührt"
 _Welch’ Überraschung! Da forscht gefühlt die ganze Welt nach einem Impfstoff gegen den Corona-Virus, der schliesslich auch gefunden wird - und für den Medizin-Nobelpreis reicht es dennoch nicht. Gewinner sind zwei Männer, die über den Tastsinn geforscht haben._
 
 **Für unsere jüngsten Lesenden: Das Wichtigste in Kürze...  
+  
 **● Jedes Jahr wird in Stockholm, Schweden, der Nobelpreis vergeben  
 ● Den Preis gibt es zum Beispiel für Medizin, Literatur oder den Frieden  
 ● In diesem Jahr geht der Medizin-Nobelpreis an zwei Männer, die über den Tastsinn geforscht haben  
