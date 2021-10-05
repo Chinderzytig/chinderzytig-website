@@ -26,7 +26,7 @@ _Welch’ Überraschung! Da forscht gefühlt die ganze Welt nach einem Impfstoff
 ● Den Preis gibt es zum Beispiel für Medizin, Literatur oder den Frieden  
 ● In diesem Jahr geht der Medizin-Nobelpreis an zwei Männer, die über den Tastsinn geforscht haben  
 ● Sie haben herausgefunden, wie wir Berührungen im Gehirn überhaupt wahrnehmen können  
-● _Die Entdecker*innen der Corona-Impfung gingen leer aus_
+● Die Entdecker*innen der Corona-Impfung gingen leer aus
 
 Berührung ist die erste Sprache. Lange, bevor wir sprechen können, kommunizieren wir über Berührungen. Den Reflex eines Babys, wenn es deinen Finger packt, kennst du bestimmt. Bereits im Bauch der Mutter “sprechen” Babys über den Tastsinn. Leichter Druck auf den Bauch führt zu Gegendruck. Auch das hast du vielleicht bereits erlebt. Auch dein Körper erfährt jeden Tag unzählige Berührungen. Dank der Verbindung ins Gehirn, können wir Schmerzen, Berührungen und Temperaturen erst wahrnehmen.
 
