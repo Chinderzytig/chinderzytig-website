@@ -24,13 +24,13 @@ Seit letzten Mai bekannt wurde, dass gegen Sebastian Kurz wegen {{< fremdwort id
 
 ### Die Ibiza Affäre
 
-Der Auslöser für den ganzen Rummel um den ehemaligen Bundeskanzler wir die so genannte „Ibiza Affäre“. Diese führte bereits im. Jahr 2019 dazu, dass Kurz sein Amt als Kanzler verloren hat. In der Affäre ging es darum, dass ein Video aus 2017 veröffentlicht wurde, welches ein geheimes Gespräch in Ibiza aufgenommen hat. Darin sind zwei hohe Politiker zu hören, wie sie über verschiedene Sachen reden. Sie diskutieren, wie sie durch Korruption und Beeinflussung der Medien mehr Einfluss gewinnen können.
+Der Auslöser für den ganzen Rummel um den ehemaligen Bundeskanzler war die so genannte „Ibiza Affäre“. Diese führte bereits im Jahr 2019 dazu, dass Kurz sein Amt als Kanzler verloren hat. In der Affäre ging es darum, dass ein Video aus 2017 veröffentlicht wurde, welches ein geheimes Gespräch in Ibiza aufgenommen hat. Darin sind zwei hohe Politiker zu hören, wie sie über verschiedene Sachen reden. Sie diskutieren, wie sie durch Korruption und Beeinflussung der Medien mehr Einfluss gewinnen können.
 
 Da diese Politiker in enger Verbindung zu Sebastian Kurz standen, wurde ihm schon damals vorgeworfen, dass er von diesem Gespräch gewusst haben muss. Kurz hat bestritten irgendwas von diesem Gespräch gewusst zu haben. Trotzdem musste er nach einem {{< fremdwort id="Misstrauensvotum" wort="Misstrauensvotum" >}} sein Amt als Kanzler abgeben.
 
 ### Kurz wird wieder Kanzler
 
-Nur wenige Monate nachdem Kurz das Kanzleramt abgeben musste, wurden er und seine Partei jedoch im Oktober vom Volk erneut gewählt. Mit einer neu gebildeten Regierung, begann Kurz im Januar 2020 seine zweite Amtszeit als Bundeskanzler. Doch ein Jahr, nach seiner Wiederwahl stand Sebastian Kurz erneut im Mittelpunkt von einem Skandal. Dieses Mal wurde aber nicht nur gegen Politiker, welche ihm nah standen, ermittelt sondern direkt gegen Kurz selbst.
+Nur wenige Monate nachdem Kurz das Kanzleramt abgeben musste, wurden er und seine Partei jedoch im Oktober vom Volk erneut gewählt. Mit einer neu gebildeten Regierung, begann Kurz im Januar 2020 seine zweite Amtszeit als Bundeskanzler. Doch ein Jahr, nach seiner Wiederwahl stand Sebastian Kurz erneut im Mittelpunkt von einem Skandal. Dieses Mal wurde aber nicht nur gegen Politiker, welche ihm nahe standen ermittelt sondern direkt gegen Kurz selbst.
 
 Im Mai 2021 wurde bekannt, dass gegen Kurz wegen Korruption und mutmasslicher {{< fremdwort id="Falschaussage" wort="Falschaussage" >}} in Zusammenhang mit der Ibiza Affäre ermittelt wird. In den folgenden Monaten wurde der Druck auf Kurz immer grösser. Schliesslich kam es am 6. Oktober zu einer Hausdurchsuchung im Bundesministerium für {{< fremdwort id="Finanzen" wort="Finanzen" >}}. Grund dafür war der Verdacht auf Untreue und Bestechlichkeit gegen Sebastian Kurz und andere Politiker in seinem engen Umfeld. Nach diesen Vorwürfen gab Sebastian Kurz seinen Rücktritt bekannt.
 
