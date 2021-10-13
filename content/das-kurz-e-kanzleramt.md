@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-10-13T05:00:00Z
 description = "Über den Rücktritt von Österreichs Bundeskanzler"
-draft = true
 fdw = true
 hero_img = "/v1634044905/Media_Kanzler_x1z5g3.jpg"
 img_description = "Das Bild zeigt Wien, Österreich"
