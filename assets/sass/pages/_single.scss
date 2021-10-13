@@ -84,6 +84,14 @@
 		}
 	}
 
+	&__info-box {
+		background-color: $cta-azure;
+		padding: 2rem;
+		margin-bottom: 3rem;
+
+		li { margin-bottom: 0; }
+	}
+
 	&__comments {
 		@include container-main;
 		border-top: 4px solid $chinder-cultured;
