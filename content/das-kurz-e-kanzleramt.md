@@ -50,7 +50,7 @@ Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Komment
 
 {{< definition id="Korruption" wort="Korruption" def="Korruption bedeutet, dass ein Mensch das Vertrauen missbraucht, das man in ihm setzt und dafür eigene Ziele verfolgt.">}}
 
-{{< definition id="Kanzler" wort="Kanzler" def="Bundeskanzler oder Bundeskanzlerin heißt in [Deutschland](https://klexikon.zum.de/wiki/Deutschland "Deutschland") und [Österreich](https://klexikon.zum.de/wiki/%C3%96sterreich "Österreich") der Chef der Bundesregierung. Das ist die [Regierung](https://klexikon.zum.de/wiki/Regierung "Regierung") des ganzen [Staates](https://klexikon.zum.de/wiki/Staat "Staat"), nicht nur eines [Bundeslandes](https://klexikon.zum.de/wiki/Bundesland "Bundesland")." >}}
+{{< definition id="Kanzler" wort="Kanzler" def="Bundeskanzler oder Bundeskanzlerin heißt in [Deutschland](https://klexikon.zum.de/wiki/Deutschland) und [Österreich](https://klexikon.zum.de/wiki/Österreich) der Chef der Bundesregierung. Das ist die [Regierung](https://klexikon.zum.de/wiki/Regierung) des ganzen [Staates](https://klexikon.zum.de/wiki/Staat), nicht nur eines [Bundeslandes](https://klexikon.zum.de/wiki/Bundesland)." >}}
 
 {{< definition id="Misstrauensvotum" wort="Misstrauensvotum" def="Ein Misstrauensvotum ist wenn der Nationalrat entschiedet, dass sie kein Vertrauen mehr in die Regierung des Kanzlers haben und diese danach aufgelöst wird." >}}
 
