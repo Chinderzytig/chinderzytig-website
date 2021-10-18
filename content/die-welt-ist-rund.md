@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20211021_Kolumbus_AM_yzdps3"
 artikel = true
 author = "Seraina Branschi"
 cc_licence = ""
@@ -19,3 +19,9 @@ slug = ""
 title = "Die Welt ist rund"
 
 +++
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
