@@ -1,22 +1,21 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Désirée Scheidegger"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
-draft = true
+date = 2021-10-19T04:00:00Z
+description = "Ein Artikel über giftige Tiere in der Schweiz und im Ausland"
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
-kategorien = []
-markierungen = []
+hero_img = "/v1634560193/Media_Giftige_Tiere_bjdwze.jpg"
+img_description = "Eine giftige Spinne im eigenen Gewebe"
+img_photographer = "Michael Podger"
+img_src = "https://unsplash.com/photos/x2dJcfCNO1A"
+kategorien = ["Welt"]
+markierungen = ["Gesundheit", "Natur"]
 paid = false
 slug = ""
-title = ""
+title = "Giftige Tiere"
 
 +++
 _Es ist Ferienzeit. Ob in der Schweiz oder anderswo: Du verbringst viel Zeit draussen und begegnest dabei wilden Tieren. Meistens sind diese Begegnungen schön und harmlos, doch in seltenen Fällen können sie auch gefährlich werden. Dann nämlich, wenn das Tier giftig ist. Welche giftigen Tiere kennst du und wo leben sie? Weisst du, welche Tiere am giftigsten sind? In diesem Artikel lernst du ein paar giftige Tiere aus der Schweiz und aus anderen Ländern kennen._
