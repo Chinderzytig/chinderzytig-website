@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "AM_Giftige_Tiere_acr1ug"
 artikel = true
 author = "Désirée Scheidegger"
 cc_licence = ""
@@ -39,3 +39,9 @@ Auch andere Tiere in der Schweiz lösen durch ihr Gift bei den Menschen Reaktion
 Spannend ist nun die Frage, welche Tiere denn weltweit am giftigsten sind und wo sie leben. An welches Tier denkst du als Erstes? Rate mal. Zu den allergiftigsten Tieren zählt die Seewespe, eine Qualle in Australien. Sie besitzt etwa 60 Tentakel (Arme), die Gift aussenden können. Das Gift der Seewespe blockiert bei den Menschen die Muskeln und kann Atemnot auslösen. Oft halten sie sich im flachen Wasser in der Ufernähe auf. Durch ihre beinahe durchsichtige Färbung sind die Seewespen im Wasser nur schwer zu erkennen und stellen eine Gefahr für Badegäste am Meer in Australien dar. Weitere sehr giftige Tiere weltweit sind der Pfeilgiftfrosch (Kolumbien), die brasilianische Wanderspinne (Brasilien) und die Palythoa-Krustenanemone (tropisches und subtropisches Meer) und der Inlandtaipan (Australen).
 
 Wie sieht es bei dir aus: Bist du schon einmal einem giftigen Tier begegnet? Wenn ja, welchem und wie hast du reagiert? Kennst du noch weitere giftige Tiere, die im Artikel nicht vorgekommen sind? Hast du Angst vor giftigen Tieren oder macht dir der Gedanke nichts aus, dass es sie gibt? Wärst du selber gerne giftig? Wenn ja, warum und wie würdest du dein Gift einsetzen? Wenn nein, warum nicht?
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
