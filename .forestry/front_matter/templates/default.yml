@@ -88,6 +88,7 @@ fields:
     - Weltraum/Universium
     - Welt
     - Ozeanien
+    - Weltraum Universium
   label: kategorien
 - type: list
   name: markierungen
