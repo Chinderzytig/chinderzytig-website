@@ -22,7 +22,7 @@ _In den heutigen Geografie Unterrichtsstunden wird uns beigebracht, dass die Erd
 
 Die asiatischen Produkte waren bereits im 15. Jahrhundert sehr beliebt. Lange wurden die Waren über das Land von Asien nach Europa transportiert. Also von Osten nach Europa. Bis Christoph Kolumbus beschloss, dies über das Meer zu machen. Er dachte, wenn die Erde wirklich rund ist, dann kommt er auch über den Westen irgendwann in Indien an. Doch im Westen von Europa hat es noch einen Kontinent vor Indien: Amerika.
 
-### Eine neue Welte wurde entdeckt
+### Eine neue Welt wurde entdeckt
 
 Am 3. August 1492 startete er mit drei Schiffen von Spanien aus in Richtung Westen. Am 12. Oktober 1492 ertönte endlich der erlösende Ruf “Land in Sicht”. Damals gab es noch kein Internet. Deshalb konnte Kolumbus nicht wissen, wo er wirklich war. Er ging auf einer Insel der Bahamas an Land und glaubte, er sei in Indien. In diesem Irrglauben nannte er die Bewohner*innen der Insel Indianer. Bis zum Tod war er davon überzeugt, einen Weg via Westen nach Indien gefunden zu haben.
 
