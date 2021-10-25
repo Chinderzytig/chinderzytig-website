@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-10-26T04:00:00Z
 description = "Ein Artikel zur Kastanienzeit"
-draft = true
 fdw = false
 hero_img = "/v1634822568/MAaroni_g8gluo.jpg"
 img_description = "Marronisuche im Wald"
