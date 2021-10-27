@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20211028_Winterblues_AM_qxdwrz"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2021-10-28T04:00:00Z
 description = "Es ist wieder Zeit, die Zeit umzustellen"
-draft = true
 fdw = false
 hero_img = "/v1634824901/Winterblues_uhmcos.jpg"
 img_description = "Im Kampf gegen die Winter-Müdigkeit"
@@ -36,3 +35,9 @@ Zudem profitiert der Körper bei einem Spaziergang, einer Joggingrunde oder eine
 Bewegung, frische Luft und zusammen lachen sind genauso wichtige Zutaten für das Rezept gegen den Winterblues wie farbenfrohe und vitaminreiche Früchte und Gemüse. Wie wär’s nach dem Spaziergang mit einem Birchermüesli mit frischen Orangen oder einer würzigen Kürbissuppe? Da kommt die gute Laune bereits beim Kochen.
 
 Wer diese Tipps und Tricks gegen den Winterblues ab und zu beherzigt, der darf sich dann auch gut und gerne mal einen Seriennachmittag auf dem Sofa gönnen – vielleicht mit einer feinen Tasse heisser Schokolade in der Hand. Auch das ist ganz bestimmt sehr wohltuend für unser Gemüt.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
