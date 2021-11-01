@@ -34,3 +34,9 @@ Einmal im Jahr wollten diese Völker sich ganz besonders an die geliebten Person
 Der Glauben nach kehren die Verstorbenen für diesen einen Tag aus dem Jenseits zu ihren Familien zurück, um sie zu besuchen. Diese bereiten sich auf dem Friedhof vor, legen Wasser und Nahrungsmittel auf Altäre, damit sich die Geister nach ihrem langen Weg ausruhen und stärken können. Ausserdem werden die Altäre mit Familienfotos geschmückt und gelb-orange Blumen werden hinterlegt. Diese sollen den Geistern den Weg weisen, damit sie für diesen speziellen Tag zurück zu ihren Familien finden.
 
 Am 2. November erinnert man sich an die schönen Momente, die man mit dem verstorbenen Menschen geteilt hat und erzählt einander Geschichten darüber. Abends verabschiedet man sich wieder von ihnen – bis man sie im nächsten Jahr wieder in der Familie begrüssen darf.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
