@@ -8,9 +8,9 @@ date = 2021-11-03T05:00:00Z
 description = "Über den Klimagipfel in Glasglow"
 fdw = true
 hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
+img_description = "Die Erdkugel im Klimawandel"
+img_photographer = "Markus Spiske"
+img_src = "https://unsplash.com/photos/r1BS0pzlr1M"
 kategorien = []
 markierungen = []
 paid = false
@@ -20,7 +20,7 @@ title = "Weltuntergang verhindern oder doch lieber Apéro? "
 +++
 _Am Montag hat der Klimagipfel in Glasgow begonnen. Die Hauptstadt von Schottland steht im Zentrum, wenn sich mächtige Menschen der Welt treffen, um über die Klimakrise zu sprechen. Doch: Finden sich nun Lösungen bevor es zur Katastrophe kommt, oder geht es doch eher um leere Worte und leckeres Apéro?_
 
-Sie sind alle gekommen. Der US-Präsident Joe Biden, die englische Königin via Video, die Noch-Kanzlerin Angela Merkel, der französische Präsident Macron… ja, sogar unser Bundesrat ist stark vertreten. Ganze drei Regierungsmitglieder aus der Schweiz reisten nach Glasgow, um die Wichtigkeit des Themas auch aus Schweizer Sicht zu betonen. Eindrücklich sind nicht nur die anwesenden Personen, eindrücklich sind auch drei Abwesende: Der russische Präsident Putin, der chinesische Präsident Xi Jinping sowie der brasilianische Präsident Bolsonaro fehlen. Überraschend ist es nicht, gehören diese drei Nationen zu den grössten Klimasündern oder Klimalügnern der Erde.
+Sie sind alle gekommen. Der US-Präsident Joe Biden, die englische Königin via Video, die Noch-Kanzlerin Angela Merkel, der französische Präsident Macron… ja, sogar unser Bundesrat ist stark vertreten. Ganze drei Regierungsmitglieder aus der Schweiz reisten nach Glasgow, um die Wichtigkeit des Themas auch aus Schweizer Sicht zu betonen. Eindrücklich sind nicht nur die anwesenden Personen, eindrücklich sind auch drei Abwesende: Der russische Präsident Putin, der chinesische Präsident Xi Jinping sowie der brasilianische Präsident Bolsonaro fehlen. Überraschend ist es nicht, da diese drei Nationen zu den grössten Klimasündern oder Klimalügnern der Erde gehören.
 
 ### Harte Worte
 
