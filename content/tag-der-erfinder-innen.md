@@ -20,7 +20,7 @@ title = "Tag der Erfinder*innen"
 +++
 _Der Tag der Erfinder wird in verschiedenen Ländern an unterschiedlichen Tagen gefeiert. In Deutschland, Österreich und der Schweiz wird er, im Gedenken an den Geburtstag der Erfinderin und Schauspielerin Hedy Lamarr, am 9. November gehalten._
 
-Obwohl der Tag in Deutschland, Österreich und der Schweiz am Geburtstag einer Erfinderin gefeiert wird, redet man trotzdem immer noch vor allem über Erfinder und vergisst dabei häufig den wichtigen Beitrag von so vielen Frauen und ihren Entwicklungen. Wir nutzen den Tag der Erfinder(innen) um euch 2 solche Frauen kurz vorzustellen. Beginnen können wir direkt mit dem Geburtstagskind, Hedy Lamarr.
+Obwohl der Tag in Deutschland, Österreich und der Schweiz am Geburtstag einer Erfinderin gefeiert wird, redet man trotzdem immer noch vor allem über Erfinder und vergisst dabei häufig den wichtigen Beitrag von so vielen Frauen und ihren Entwicklungen. Wir nutzen den Tag der Erfinder*innen um euch zwei solche Frauen kurz vorzustellen. Beginnen können wir direkt mit dem Geburtstagskind, Hedy Lamarr.
 
 ### Hedy Lamarr und der Funk
 
