@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-11-09T05:00:00Z
 description = "Was am Tag der Erfinder*innen gefeiert wird. "
-draft = true
 fdw = false
 hero_img = "/v1636369918/onur-binay-uk5FrhKtr7E-unsplash_ovkqam.jpg"
 img_description = "Erfindung neuer Technologie"
