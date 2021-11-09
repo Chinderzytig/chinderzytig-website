@@ -36,7 +36,7 @@ Lovelace entwickelte für diese Maschine einen Algorithmus, um die Bernoulli-Zah
 
 ### Noch viele mehr
 
-Das sind nur zwei von vielen Erfinderinnen, welche die Anerkennung, die sie verdient hätten, zu ihren Lebzeiten nicht bekommen haben. Frauen wie Marie Curie, Nancy Johnson, Grace Hopper und Shirley Jackson haben die Welt ein ganzes Stück weiter gebracht, und am Tag der Erfinder(innen) feiern wir auch sie.
+Das sind nur zwei von vielen Erfinderinnen, welche die Anerkennung, die sie verdient hätten, zu ihren Lebzeiten nicht bekommen haben. Frauen wie Marie Curie, Nancy Johnson, Grace Hopper und Shirley Jackson haben die Welt ein ganzes Stück weiter gebracht, und am Tag der Erfinder*innen feiern wir auch sie.
 
 {{< teiler >}}
 
