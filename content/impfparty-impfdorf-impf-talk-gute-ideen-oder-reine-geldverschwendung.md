@@ -1,17 +1,17 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2021-11-10T05:00:00Z
+description = "Ein Artikel über die aktuelle Impfwoche"
 draft = true
-fdw = false
+fdw = true
 hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
+img_description = "Bleibt gesund - Smiley"
+img_photographer = "Nick Fewings"
+img_src = "https://unsplash.com/photos/4pZu15OeTXA"
 kategorien = []
 markierungen = []
 paid = false
