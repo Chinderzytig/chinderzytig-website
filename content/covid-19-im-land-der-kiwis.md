@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-11-11T05:00:00Z
 description = "Der Kampf gegen das Virus in Neuseeland"
-draft = true
 fdw = false
 hero_img = "/v1636373908/pin-adventure-map-kASw76wVTJI-unsplash_bmrkl6.jpg"
 img_description = "Australien und Neuseeland auf der Karte"
