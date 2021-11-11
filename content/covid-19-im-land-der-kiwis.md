@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20211111_Corona_in_NZ_AM_hdaode"
 artikel = true
 author = "Sam Penfold"
 cc_licence = ""
@@ -28,7 +28,7 @@ Dabei fielen vor allem zwei Länder in ihrer Strategie auf: Neuseeland und Austr
 
 ### Schwierige Vergleiche
 
-Wenn man die Infektions-, Hospitalisations- und Todeszahlen von Ländern wie Neuseeland mit dem Rest der Welt vergleicht, fällt schnell auf, dass diese massiv kleiner ausfallen - auch wenn man diese auf die jeweilige Bevölkerungsgrösse anpasst. So sind zum Beispiel in Neuseeland bis jetzt “nur” 28 Personen an COVID-19 gestorben (Stand 02.11.2021). Verglichen mit der Schweiz, wo wir in der zweiten Welle Ende 2020 bis zu 122 Tode pro Tage verzeichneten, ist diese Zahl natürlich sehr klein. Hier muss man aber beachten, dass sich Neuseeland und die Schweiz extrem unterscheiden - nicht zuletzt geografisch. Während man in Neuseeland nur per Luft- und Seeweg ankommen kann, ist man in der Schweiz auch per Auto und Zug international unterwegs. Dabei besteht auch noch die Problematik der {{< fremdwort id="Grenzgänger" wort="Grenzgänger" >}}, von denen sehr viele gerade im Schweizer Gesundheitssystem arbeiten. 
+Wenn man die Infektions-, Hospitalisations- und Todeszahlen von Ländern wie Neuseeland mit dem Rest der Welt vergleicht, fällt schnell auf, dass diese massiv kleiner ausfallen - auch wenn man diese auf die jeweilige Bevölkerungsgrösse anpasst. So sind zum Beispiel in Neuseeland bis jetzt “nur” 28 Personen an COVID-19 gestorben (Stand 02.11.2021). Verglichen mit der Schweiz, wo wir in der zweiten Welle Ende 2020 bis zu 122 Tode pro Tage verzeichneten, ist diese Zahl natürlich sehr klein. Hier muss man aber beachten, dass sich Neuseeland und die Schweiz extrem unterscheiden - nicht zuletzt geografisch. Während man in Neuseeland nur per Luft- und Seeweg ankommen kann, ist man in der Schweiz auch per Auto und Zug international unterwegs. Dabei besteht auch noch die Problematik der {{< fremdwort id="Grenzgänger" wort="Grenzgänger" >}}, von denen sehr viele gerade im Schweizer Gesundheitssystem arbeiten.
 
 ### "Normales" Leben
 
@@ -37,3 +37,9 @@ Durch die geschlossenen Grenzen gelang es vielen Inselregierungen, das Virus gr�
 {{< definition id="_Kiwis_" wort="_Kiwis_" def="Umgangssprachlich werden Neuseeländer*innen “Kiwis” genannt - dies nach dem indigenen Vogel." >}}
 
 < definition id="Grenzgänger" wort="Grenzgänger" def="Als “Grenzgänger” bezeichnet man Personen, die in einem anderen Land arbeiten, als sie wohnen." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
