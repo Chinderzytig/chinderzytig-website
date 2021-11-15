@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "AM_illegal_adoptiert_b5jfwj"
 artikel = true
 author = "Samira Lussy"
 cc_licence = ""
@@ -33,3 +33,9 @@ Eine dieser privaten Organisationen ist der Verein „Back to the Roots“ (Zur�
 ### Niederlande verbietet Adoptionen aus dem Ausland
 
 Auch in den Niederlanden wurden während der 1970er Jahren rund 40’000 Kinder aus dem Ausland adoptiert. Wie in der Schweiz wurden viele von ihnen illegal vermittelt. Auch wenn Adoptionen heute besser kontrolliert werden, ist das System bis heute anfällig für dubiose Praktiken. Aus diesem Grund können vorerst in der Niederlande keine Kinder aus dem Ausland mehr adoptiert werden.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
