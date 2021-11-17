@@ -1,14 +1,14 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Désirée Scheidegger"
 cc_licence = ""
 cc_src = ""
-date = ""
+date = 2021-11-18T05:00:00Z
 description = "Über die Tiere der Adventszeit"
 draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1637168431/norman-tsui-KBKHXjhVQVM-unsplash_1_lyyes9.jpg"
 img_description = "Rentiere im Schnee"
 img_photographer = "Norman Tsui"
 img_src = "https://unsplash.com/photos/KBKHXjhVQVM"
