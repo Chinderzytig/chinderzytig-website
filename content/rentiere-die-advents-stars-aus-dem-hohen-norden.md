@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "0211118_Rentiere_AM_m2rt36"
+arbeitsmaterial = "20211118_Rentiere_AM_m2rt36"
 artikel = true
 author = "Désirée Scheidegger"
 cc_licence = ""
