@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "0211118_Rentiere_AM_m2rt36"
 artikel = true
 author = "Désirée Scheidegger"
 cc_licence = ""
@@ -33,3 +33,9 @@ Wie war das nochmal mit dem Weihnachtsmann und den Rentieren? Sie ziehen den gro
 Falsch. Eigentlich kann das gar nicht sein: In der Natur werfen nämlich die männlichen Rentiere ihre Geweihe bereits vor Weihnachten ab. Die Weibchen hingegen behalten ihre Geweihe länger, um sich und ihren Nachwuchs im Bauch auch im Winter beschützen zu können. Das heisst, all die Rentiere auf den Bildern mit dem Weihnachtsschlitten können nur weibliche Tiere sein, da die Männchen zu diesem Zeitpunkt gar keine Geweihe haben. Na Herr Weihnachtsmann, vielleicht solltest du also nochmal überprüfen, ob dein _Rudolf_ wirklich ein _Rudolf_ ist oder nicht eher eine _Rudolfine_.
 
 Magst du Rentiere? Hast du etwas bei dir zu Hause, wo ein Rentier drauf ist? Hast du schon mal ein echtes Rentier gesehen, zum Beispiel im Zoo? Würdest du gern mal auf einem Rentier-Schlitten fahren? Welchen Namen würdest dem Weihnachtsmann vorschlagen, wenn er merkt, dass _Rudolf_ eigentlich ein Weibchen ist?
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
