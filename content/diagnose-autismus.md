@@ -1,17 +1,16 @@
 +++
 arbeitsmaterial = "Diagnose_Autismus_AM_xto7cx"
 artikel = true
-author = ""
+author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
-draft = true
+date = 2021-11-23T05:00:00Z
+description = "Ein Artikel über Menschen mit der Diagnose Autismus"
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
+hero_img = "/v1637598860/peter-burdon-C2zX9DEVSDs-unsplash_tbuhar.jpg"
+img_description = "Autismus als Titelbild"
+img_photographer = "Peter Burdon"
+img_src = "https://unsplash.com/photos/C2zX9DEVSDs"
 kategorien = ["Welt"]
 markierungen = ["Personen", "Gesellschaft", "Gesundheit"]
 paid = false
