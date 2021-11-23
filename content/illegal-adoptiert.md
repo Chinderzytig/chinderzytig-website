@@ -1,7 +1,7 @@
 +++
 arbeitsmaterial = "AM_illegal_adoptiert_b5jfwj"
 artikel = true
-author = "Samira Lussy"
+author = "Samira Lussi"
 cc_licence = ""
 cc_src = ""
 date = 2021-11-16T05:00:00Z
