@@ -32,7 +32,7 @@ Für autistische Menschen sind Strukturen und Rituale sehr wichtig. Ein klar ger
 
 ### Besondere Interessen und Fähigkeiten
 
-„Er kennt alle Zugtypen der SBB auswendig“ – wie soll das gehen? Autistische Menschen haben oft ganz spezifische Interessen. Sie können sich dann total in dieses Thema vertiefen und sich mit grosser Ausdauer und Begeisterung damit befassen. Dabei sind sie äusserst konzentriert und fokussiert. So können auch aussergewöhnliche Leistungen daraus entstehen – zum Beispiel, dass ein autistischer Mensch bereits im Kindergartenalter seitenlange Klavierkonzerte spielt oder komplizierte Rechnungen löst. Ihr kennt vielleicht den genialen Physiker Albert Einstein oder die Umeltaktivistin Great Thunberg? Auch sie gehör(t)en dem Autismus-Spektrum an.
+„Er kennt alle Zugtypen der SBB auswendig“ – wie soll das gehen? Autistische Menschen haben oft ganz spezifische Interessen. Sie können sich dann total in dieses Thema vertiefen und sich mit grosser Ausdauer und Begeisterung damit befassen. Dabei sind sie äusserst konzentriert und fokussiert. So können auch aussergewöhnliche Leistungen daraus entstehen – zum Beispiel, dass ein autistischer Mensch bereits im Kindergartenalter seitenlange Klavierkonzerte spielt oder komplizierte Rechnungen löst. Ihr kennt vielleicht den genialen Physiker Albert Einstein oder die Umweltaktivistin Great Thunberg? Auch sie gehör(t)en dem Autismus-Spektrum an.
 
 ### Teil unserer Gesellschaft
 
