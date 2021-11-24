@@ -29,3 +29,9 @@ Seit ihrer Einführung gegen Ende der 1990er hat das Emoji eine rasante Entwickl
 ### 3’472’222 Emojis pro Sekunde weltweit
 
 Das Emoji findet sich langsam aber sicher auch in der Geschäftswelt zurecht: Heute ist es kein Tabu mehr, im Büro die kleinen gelben Helfer einzusetzen. Hier ist jedoch eine Spaltung der Generationen deutlicher ersichtlich. Forschungen haben ergeben, dass etwa die Hälfte der Befragten 18-19 -Jährigen finden, dass der Emoji-Gebrauch im Geschäft okay ist oder gar die Kommunikation verbessern kann. Bei Arbeitnehmenden über 45 Jahren ist die Meinung eher umgekehrt: In dieser Altersgruppe schätzen die meisten den Emoji-Gebrauch in der Geschäftskommunikation als unprofessionell ein.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
