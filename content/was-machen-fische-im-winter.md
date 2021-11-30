@@ -1,10 +1,10 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20211130_Fische_im_Winter_AM_xuctdd"
 artikel = true
 author = "Samira Lussi"
 cc_licence = ""
 cc_src = ""
-date = 2021-11-30T05:00:00Z
+date = 2021-11-30T16:35:00Z
 description = "Was die Fische im Winter machen"
 fdw = false
 hero_img = "/v1638126053/scott-osborn-ygly0NflaC0-unsplash_pf0slu.jpg"
@@ -31,3 +31,9 @@ Im Winter kühlt sich die Luft ab und die Wassertemperaturen sinken. Bei 0 Grad 
 ### Fische im Gartenteich
 
 Fische können nur in gefrorenen Gewässern überleben, die mindestens 80 bis 100 cm tief sind. Anderenfalls kann es passieren, dass das Wasser komplett gefriert, mitsamt den Fischen. Teiche, die also nicht tief genug sind, müssen eine eisfreie Stelle besitzen. Diese kann zum Beispiel mit Styroporeinsätzen erzeugt werden. Dort können die giftigen Gase entweichen, die unter dem Eis entstehen und die die Fische vergiften würden. Die beste Überwinterungsmethode für Gartenteichfische ist aber, sie aus dem Teich zu nehmen und sie in einer Wassertonne im Keller aufzubewahren, bis die Temperaturen wieder steigen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
