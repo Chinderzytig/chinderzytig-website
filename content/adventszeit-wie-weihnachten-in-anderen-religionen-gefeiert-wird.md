@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20211202_Adventszeit_AM_shrtqe"
 artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
@@ -37,3 +37,9 @@ Weihnachten selbst wird im Islam jedoch in keiner Weise gefeiert. Ebenfalls gibt
 Das vielleicht bekannteste Fest des Islam, Ramadan wird am Ende der Fastenzeit gefeiert und heisst im arabischen Eid al-Fitr, also Fest des Fastenbrechens. Bei uns kennen die meisten das Fest wahrscheinlich unter dem türkischen Namen „Bayram“. Ein fixes Datum hat das grosse Fest der Muslime jedoch nicht, denn das islamische Festjahr dauert nur 354 Tage und somit ändert sich das Datum des Festes jedes Jahr. Auch am Fest des Fastenbrechens kommen Kinder nicht zu kurz. Denn es ist Brauch, dass man am Festtag Süssigkeiten verteilt und davon profitieren Kinder häufig am meisten.
 
 {{< definition id="monotheistischen Religionen " wort="monotheistischen Religionen " def="Monotheistische Religionen sind Glaubensrichtungen, welche nur an einen allmächtigen Gott glauben." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
