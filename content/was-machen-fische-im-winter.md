@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2021-11-30T05:00:00Z
 description = "Was die Fische im Winter machen"
-draft = true
 fdw = false
 hero_img = "/v1638126053/scott-osborn-ygly0NflaC0-unsplash_pf0slu.jpg"
 img_description = "Gefrorenes Meer"
