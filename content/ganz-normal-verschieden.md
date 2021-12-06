@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20211207_Ganz_normal_verschieden_AM_huqoxd"
 artikel = true
 author = "Annic Berset"
 cc_licence = ""
 cc_src = ""
 date = 2021-12-07T05:00:00Z
 description = "Ein Bericht über Trisomie 21"
-draft = true
 fdw = false
 hero_img = "/v1638462182/gemma-chua-tran-jNVgCpQ0LhQ-unsplash_1_tlewry.jpg"
 img_description = "Unterschiedliche aber fröhliche Menschen "
@@ -36,3 +35,9 @@ Menschen mit dem Down-Syndrom kommen mit geistigen und körperlichen Besonderhei
 ### Keine Krankheit – eine Besonderheit
 
 Menschen mit Trisomie 21 sind genauso verschieden, wie du und deine Freunde es sind. Jeder von ihnen hat eigene Talente und Begabungen. Zwar sind sie sich äusserlich ähnlicher durch das eine Chromosom, das sie mehr besitzen. Das hat aber nichts mit ihrer Persönlichkeit zu tun. Häufig sind sie sogar viel aufgeschlossener und fröhlicher als viele andere. Es sind nicht Menschen, die eine Krankheit haben und von ihr geheilt werden müssen. Das Down-Syndrom entsteht durch Zufall ganz früh, bei der Verschmelzung von Samen und Eizelle, wenn ein neuer Mensch entsteht – und bisher kann niemand ganz genau sagen, warum das so passiert.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
