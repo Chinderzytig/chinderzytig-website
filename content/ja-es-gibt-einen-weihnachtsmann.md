@@ -39,4 +39,4 @@ _Der Weihnachtsmann lebt, und ewig wird er leben. Sogar in zehn mal zehntausend 
 
 _Frohe Weihnacht, Virginia!_
 
-_Dein Francis Church”_
+_Dein Francis Church"_
