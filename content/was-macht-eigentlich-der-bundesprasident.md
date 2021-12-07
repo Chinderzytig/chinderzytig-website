@@ -1,7 +1,7 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = "Kathrin Kausammann"
+author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2021-12-08T05:00:00Z
