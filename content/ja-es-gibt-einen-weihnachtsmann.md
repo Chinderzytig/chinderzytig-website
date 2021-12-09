@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Ja_es_gibt_einen_Weihnachtsmann_AM_h27cxy"
 artikel = true
 author = "Lars Ziörjen"
 cc_licence = ""
 cc_src = ""
 date = 2021-12-09T05:00:00Z
 description = "Gibt es den Weihnachtsmann? - Die Zeitung hat die Antwort"
-draft = true
 fdw = false
 hero_img = "/v1638787653/__-drz-__-YZZz0_MfHto-unsplash_a8xizm.jpg"
 img_description = "Samichlaus "
@@ -40,3 +39,9 @@ _Der Weihnachtsmann lebt, und ewig wird er leben. Sogar in zehn mal zehntausend 
 _Frohe Weihnacht, Virginia!_
 
 _Dein Francis Church"_
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
