@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20211214_Affen_AM_mvaznu"
 artikel = true
 author = "Sam Penfold"
 cc_licence = ""
@@ -33,3 +33,9 @@ Es wird oft gesagt, dass der Mensch vom Affen stammt - dies stimmt in dieser For
 ### Vom Bonobo bis zum Orang-Utan
 
 Heute kennt man in Afrika, Südamerika und Asien eine grosse Vielfalt an Affen (In Europa gibt es nur in Gibraltar Berberaffen, welche aber wahrscheinlich vom Menschen eingeführt worden sind). Zur Gruppe der Menschenaffen gehören z.B. der Gorilla, der Schimpanse und der Orang-Utan. Die Halbaffen unterscheiden sich etwas mehr von uns - z.B. der Lemur. Man kann vor allem bei den Halbaffen ein sehr “menschenähnliches” Verhalten beobachten - z.B. in ihrem Sozialverhalten und ihrer Kommunikation.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
