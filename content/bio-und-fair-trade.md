@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "0211216_Bio_und_Fairtrade_AM_sziptj"
+arbeitsmaterial = "20211216_Bio_und_Fairtrade_AM_sziptj"
 artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
@@ -31,10 +31,16 @@ Als Fair Trade bezeichnet man einen kontrollierten Handel. Wie Bio-Produkte werd
 
 Das Problem mit dem Fair-Trade-Siegel ist aber, dass die Kriterien nicht gesetzlich geregelt sind und dass es viele verschiedene Kennzeichen oder Siegel gibt. Die Organisationen, welche diese Siegel vergeben, können die Kriterien also selbst bestimmen. Das heisst, Fair-Trade ist nicht gleich Fair-Trade. Trotzdem können das Fair-Trade-Siegel und auch das Bio-Siegel eine wichtige Rolle für eine nachhaltige Wirtschaft spielen.
 
-## Wieso es wichtig ist
+### Wieso es wichtig ist
 
 Das Kaufverhalten von uns Konsumenten hat einen grossen Einfluss darauf, welche Produkte es in einem Laden in das Sortiment schaffen. Das Produzieren von gerechteren, gesunderen und nachhaltigeren Lebensmittel und Waren ist mit Mehrkosten verbunden. Das heisst, für diese Produkte muss ein höherer Preis verlangt werden. Wenn der Kunde jedoch nicht weiss, warum und was der Unterschied zu einem billigeren Produkt derselben Art ist, ist es unwahrscheinlich, dass der höhere Preis auch bezahlt wird. Ein Bio-Siegel oder eine Fair-Trade Kennzeichnung ermöglicht es dem Hersteller der Ware dem Kunden zu zeigen, wie sich sein Produkt von der billigeren Alternative unterscheidet. Auf der anderen Seite gibt es dem Konsumenten eine gewisse Sicherheit über die Qualität sowie die Herkunft der gekauften Ware.
 
 {{< definition id="Dünger" wort="Dünger" def="Dünger ist Nahrung für die Pflanzen. Diese versorgt die Pflanzen mit wichtigen Stoffen, damit sie wachsen können." >}}
 
 {{< definition id="Ausbeutung" wort="Ausbeutung" def="Von Ausbeutung spricht man, wenn jemandem eine viel zu tiefe oder gar keine Gegenleistung für eine erbrachte Arbeit gegeben wird." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
