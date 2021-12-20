@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20211223_Weihnachten_AM_glh9zy"
 artikel = true
 author = "Samira Lussi"
 cc_licence = ""
 cc_src = ""
 date = 2021-12-23T05:00:00Z
 description = "Weihnachten wird in diversen Länder anders gefeiert und zelebriert. "
-draft = true
 fdw = false
 hero_img = "/v1639407315/tessa-rampersad-5toRIWF2GUY-unsplash_1_fzctqg.jpg"
 img_description = "Leuchtender Weihnachtsbaum"
@@ -38,8 +37,14 @@ Als spirituelle Vorbereitung auf das Fest der Geburt Christi fasten die Leute in
 Die weihnachtlichen Feierlichkeiten beginnen am 6. Januar mit einem Gottesdienst. Dabei kommen viele tausend Menschen in weisser Kleidung in und vor die überfüllten Kirchen. Aufgrund des grossen Andrangs werden auch Lautsprecher installiert, sodass alle die Predigt nachverfolgen können.  
 Beim Gottesdienst tragen die Menschen weisse Tücher auf dem Kopf und Oberkörper. Ausserdem tragen sie eine Kerze mit sich, die bei der Prozession entzündet wird. Während des Gottesdiensts werden die Gläubigen in einen Bereich für Männer~~n~~ und Frauen aufgeteilt, wo sie zusammen Weihnachtslieder singen.
 
-Nach der Weihnachtsmesse kehren die Familien in ihr Zuhause zurück~~,~~ um die Feierlichkeiten vorzubereiten. Da es das erste Essen nach dem Fasten ist, wird ein grosses Festmahl vorbereitet. Anders als bei uns wird der restliche Festtag aber nicht besinnlich und in stiller Atmosphäre verbracht, sondern mit traditionellen Tänzen zu rhythmischer Trommelmusik. Oftmals wird auch gemeinsam mit den~~m~~ Familienmitgliedern eine Art Hockey Spiel, das Ganna, gespielt.
+Nach der Weihnachtsmesse kehren die Familien in ihr Zuhause zurück\~\~,\~\~ um die Feierlichkeiten vorzubereiten. Da es das erste Essen nach dem Fasten ist, wird ein grosses Festmahl vorbereitet. Anders als bei uns wird der restliche Festtag aber nicht besinnlich und in stiller Atmosphäre verbracht, sondern mit traditionellen Tänzen zu rhythmischer Trommelmusik. Oftmals wird auch gemeinsam mit den~~m~~ Familienmitgliedern eine Art Hockey Spiel, das Ganna, gespielt.
 
 Die Speisen für das Festessen werden nach persönlichen Vorlieben ausgewählt und variieren ja nach Region. In der Region von Addis Abeba wird zum Beispiel ein Weihnachtsbrot gebacken, welches aus Vollkornmehl besteht und in Bananenblätter~~n~~ eingewickelt ist. Vielerorts wird aber auch das bekannte äthiopische Nationalgericht Doro Wat gekocht. Dabei handelt es sich um eine sehr scharfe Chili-Sauce mit Hühnerfleisch und Eiern, welche zusammen mit einem dünnen Sauerteig-Fladenbrot verzehrt wird.
 
 Nach äthiopischer Überzeugung gilt es als unsittlich, an Weihnachten allein zu speisen oder zu trinken. Stattdessen wird die Fastenzeit gemeinsam mit der Familie, Verwandten und Nachbarn beendet, indem man sich auch an den folgenden Tagen gegenseitig besucht und gemeinsam feiert. Es ist ausserdem üblich, Essen an ärmere Menschen zu verschenken.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
