@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20211221_ADHS_AM_geiyid"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2021-12-21T05:00:00Z
 description = "Ein Bericht über die ADHS – das Aufmerksamkeits-Defizit-Hyperaktivitäts-Syndrom"
-draft = true
 fdw = false
 hero_img = "/v1639407582/annie-spratt-Pp2XOLkS5Jg-unsplash_fhdt72.jpg"
 img_description = "Kind versteckt sein Gesicht sich hinter einem Blatt "
@@ -34,3 +33,9 @@ Kinder mit ADHS werden oft zu Aussenseiterinnen und Aussenseitern in der Schule.
 ### Positive Seiten von ADHS
 
 Mit der richtigen Begleitung können Menschen mit ADHS aber sehr gut leben und sich entwickeln. In Therapien lernen sie, ihr Verhalten zu steuern und sich so selbst zu helfen. Es ist aber auch wichtig, dass die Eltern, Freunde und Lehrpersonen wissen, was dem Kind hilft. Wie zum Beispiel ein Arbeitsplatz im Schulzimmer eingerichtet werden soll, damit sich das Kind wohl fühlt. Es ist deshalb wichtig, dass alle Menschen im Umfeld des Kindes einbezogen werden. So hat das Kind auch die Chance, die positiven Seiten von ADHS zu zeigen. Denn Menschen mit ADHS sind oft sehr kreativ. Sie können auch sehr motiviert und begeistert sein, wenn ihnen eine Aufgabe gefällt. Und sie haben oft einen ausgeprägten Gerechtigkeitssinn und sind sehr hilfsbereit. Es lohnt sich also, diese Menschen in einer Gruppe zu integrieren und sie nicht auszustossen. Denn Verschiedenartigkeit und Vielfalt macht unsere Gesellschaft doch erst so richtig spannend.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
