@@ -15,11 +15,19 @@
 				class="geschichte__img"/>
 		</div>
 		{{.Content}}
-		<div class="geschichte__pdf-container">
-			<a href="{{ .Site.Params.cloudinary_url }}/Kurzübersicht_Gesamtprojekt_Mana_202108_i8yrt5.pdf" target="_blank" class="geschichte__pdf-link">
-				<img src="{{ .Site.Params.cloudinary_url }}/bo_1px_solid_rgb:000000/c_scale,h_300,q_auto:best/Kurzübersicht_Gesamtprojekt_Mana_202108_i8yrt5.png" alt="Chinderzytig idee PDF">
-			</a>
-			<div class="geschichte__pdf-title">PDF</div>
+		<div class="geschichte__pdf-group">
+			<div class="geschichte__pdf-container">
+				<a href="{{ .Site.Params.cloudinary_url }}/Kurzübersicht_Gesamtprojekt_Mana_202108_i8yrt5.pdf" target="_blank" class="geschichte__pdf-link">
+					<img src="{{ .Site.Params.cloudinary_url }}/bo_1px_solid_rgb:000000/c_scale,h_300,q_auto:best/Kurzübersicht_Gesamtprojekt_Mana_202108_i8yrt5.png" alt="Mana Vision PDF">
+				</a>
+				<a href="https://explore-mana.org" target="_blank" class="geschichte__pdf-link"><div class="geschichte__pdf-title">Vision Mana</div></a>
+			</div>
+			<div class="geschichte__pdf-container">
+				<a href="{{ .Site.Params.cloudinary_url }}/jahresbericht_2021_gixsjl.pdf" target="_blank" class="geschichte__pdf-link">
+					<img src="{{ .Site.Params.cloudinary_url }}/bo_1px_solid_rgb:000000/c_scale,h_300,q_auto:best/jahresbericht_2021_gixsjl.png" alt="Jahresbericht 2021 PDF">
+				</a>
+				<div class="geschichte__pdf-title">Jahresbericht 2021</div>
+			</div>
 		</div>
 	</section>
 {{end}}
