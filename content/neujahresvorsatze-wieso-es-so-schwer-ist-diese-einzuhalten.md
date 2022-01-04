@@ -28,14 +28,12 @@ Silvester gilt als Symbol für einen Neustart. Obwohl sich nur eine Zahl in unse
 
 ### Wieso wir manchmal scheitern
 
-Trotz besten Absichten, scheitern angeblich fast 50 Prozent der gefassten Vorsätze. Dies kann aus verschiedenen Gründen passieren. Es kann sein, dass die eigenen Ziele nicht gründlich genug durchdacht sind und auch gar nicht gut zu einem selbst passen. Häufig macht man sich aber auch zu viele Vorsätze oder man nimmt sich etwas zu Grosses vor. So, kann der Druck, den man sich selbst macht zu gross werden. Denn sich schlechte Angewohnheit abzugewöhnen, ist gar nicht so einfach. Man braucht Disziplin und Selbstkontrolle. Dasselbe gilt für Ziele, welche man sich steckt. Häufig muss man über längere Zeit darauf hinarbeiten, ohne das Ziel vor Augen zu verlieren.
-
+Trotz besten Absichten, scheitern angeblich fast 50 Prozent der gefassten Vorsätze. Dies kann aus verschiedenen Gründen passieren. Es kann sein, dass die eigenen Ziele nicht gründlich genug durchdacht sind und auch gar nicht gut zu einem selbst passen. Häufig macht man sich aber auch zu viele Vorsätze oder man nimmt sich etwas zu Grosses vor. So, kann der Druck, den man sich selbst macht zu gross werden. Denn sich schlechte Angewohnheit abzugewöhnen, ist gar nicht so einfach. Man braucht Disziplin und Selbstkontrolle. Dasselbe gilt für Ziele, welche man sich steckt. Häufig muss man über längere Zeit darauf hinarbeiten, ohne das Ziel vor Augen zu verlieren.  
 Sind Neujahresvorsätze also zum Scheitern verurteilt und grundsätzlich unnötig? Auf keinen Fall.
 
 ### Wieso es wichtig ist und was helfen kann
 
-An sich selbst zu arbeiten, Ängste zu überwinden oder sich Ziele zu setzen ist nie eine schlechte Idee. Neujahr gibt einem eine Art neuen Start oder frischen Wind für solche Vorsätze. Wichtig dabei ist aber sich selbst ehrlich zu fragen, was man erreichen oder verändern möchte. Denn wenn der gefasste Vorsatz nicht zu einem passt oder doch nicht so wichtig ist wie man vielleicht denkt, wird es sehr schwierig sich daran zu halten. Zudem ist es sicher keine schlechte Idee sich auf wenige, vielleicht ein bis zwei Ziele, zu beschränken. Schliesslich sollte man sich darauf achten, die Vorsätze realistisch zu halten und sich nicht mit dem neuen Jahr gleich neu erfinden zu wollen.
-
+An sich selbst zu arbeiten, Ängste zu überwinden oder sich Ziele zu setzen ist nie eine schlechte Idee. Neujahr gibt einem eine Art neuen Start oder frischen Wind für solche Vorsätze. Wichtig dabei ist aber sich selbst ehrlich zu fragen, was man erreichen oder verändern möchte. Denn wenn der gefasste Vorsatz nicht zu einem passt oder doch nicht so wichtig ist wie man vielleicht denkt, wird es sehr schwierig sich daran zu halten. Zudem ist es sicher keine schlechte Idee sich auf wenige, vielleicht ein bis zwei Ziele, zu beschränken. Schliesslich sollte man sich darauf achten, die Vorsätze realistisch zu halten und sich nicht mit dem neuen Jahr gleich neu erfinden zu wollen.  
 Mit gut durchdachten Vorsätzen kann es nämlich jeder schaffen, am Ende des Jahres zufriedener auf das eigene Jahr zurückzublicken.
 
 ### Nun bist du dran
