@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220113_InfluencerIn_AM_c4crwr"
 artikel = true
 author = "PH Student"
 cc_licence = ""
 cc_src = ""
 date = 2022-01-13T05:00:00Z
 description = "Ein Bericht zum Thema Influencen"
-draft = true
 fdw = false
 hero_img = "/v1641826739/mateus-campos-felipe-ZKJQCWsKmPs-unsplash_zu1fng.jpg"
 img_description = "Eine Influencerin mach ein Video von sich um es auf Social Media zu publizieren"
@@ -41,3 +40,9 @@ Das sind die zwei bekanntesten:
 Als Influencerin verdient man jeden Monat unterschiedlich viel Geld. Es kommt darauf an, wie viele Followerinnen man hat, wie häufig die einzelnen Videos angeschaut werden und wie oft man Werbung macht. Auch zahlen die Firmen immer unterschiedlich viel Geld für Werbung.
 
 Für welche Produkte und Marken machen deine Lieblingsinfluencerinnen Werbung? Kennst du noch weitere Arten, wie Influencerinnen Geld verdienen?
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
