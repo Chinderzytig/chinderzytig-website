@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220111_Tannenbaum_AM_lvuwjs"
 artikel = true
 author = "Nicole Emch"
 cc_licence = ""
 cc_src = ""
 date = 2022-01-11T05:00:00Z
 description = "Über (Tannen-)bäume, die gefällt werden."
-draft = true
 fdw = false
 hero_img = "/v1641308996/denise-johnson-m4eISQg0e0E-unsplash_klrtjr.jpg"
 img_description = "Auto transportiert einen gefällten Baum"
@@ -32,3 +31,9 @@ Wer Bäume fällt, sei ein Naturfeind, denke nicht an morgen und zerstöre den L
 Doch zurück zu unseren Tannenbäumen. Anders als Allee-Bäume, die dort jahrelang stehen sollen, werden viele von ihnen extra gepflanzt, um an Weihnachten in unserer Stube zu stehen. In den ersten Januartagen sieht man sie dann überall am Strassenrand: Weihnachtsbäume, die langsam braun werden, ihr grosser Auftritt mit Kugeln und Lichtern ist vorbei und nun warten sie auf die Grünabfuhr. In einer Industriekompostieranlage werden sie zu Dünger verarbeitet. Wer sich ein anderes Schicksal für seinen Baum wünscht, kann auch mal bei Bauernhöfen anfragen. Alpakas, zum Beispiel, lieben offenbar die knackigen Nadeln unserer Tannenbäume.
 
 Und wer am liebsten gar keine Bäume wachsen lassen will, um sie dann gleich wieder wegzuwerfen, hat seit einigen Jahren die Möglichkeit, einen eigenen Baum im Topf zu kaufen und über Jahre zu behalten. Je nach Angebot bleibt der Baum das ganze Jahr über bei der Familie oder wird jeweils vor Weihnachten angeliefert und danach wieder abgeholt, damit er bis zum nächsten Dezember gehegt und gepflegt wird. So wird der Baum jedes Jahr ein bisschen grösser und kann jedes Jahr 1-2 Kugeln mehr tragen. Über diese Tradition sollten sich sicher alle freuen können, Behörden und Baumfreunde.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
