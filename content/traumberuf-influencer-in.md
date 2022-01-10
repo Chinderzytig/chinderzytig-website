@@ -26,8 +26,7 @@ Influencerin ist die Bezeichnung für einen Beruf.
 Ins Deutsche übersetzt, bedeutet Influencerin Beeinflusserin. Das Wort kommt aus dem Englischen (to influence) und bedeutet beeinflussen.  
 Es handelt sich bei Influencerinnen um Personen, die sich auf sozialen Netzwerken (YouTube, Instagram, TikTok und viele mehr) eine grössere Reichweite aufgebaut haben. Als Reichweite bezeichnet man die Menge an Personen, die einer Person auf den sozialen Netzwerken folgen.  
 Influencerinnen stellen Fotos und Videos her und laden diese auf sozialen Netzwerken hoch. Meistens haben Influencerinnen ein Themengebiet, wie zum Beispiel: Gaming, Kochen, Mode, MakeUp oder Ähnliches. Wenn du diese Fotos und Videos regelmässig sehen möchtest, kannst du der Person folgen oder ihren Kanal abonnieren. Du bist dann ein Follower/eine Followerin und wirst Teil der Reichweite des Influencers/der Influencerin.  
-Welche Influencer*innen kennst du?  
-Wer ist dein Lieblingsinfluencer / deine Lieblingsinfluencerin und weshalb?
+Welche Influencer*innen kennst du? Wer ist dein Lieblingsinfluencer / deine Lieblingsinfluencerin und weshalb?
 
 ### Wie verdienen Influencer*innen Geld?
 
