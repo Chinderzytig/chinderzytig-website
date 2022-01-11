@@ -20,7 +20,7 @@ title = "Djokovic Down Under "
 +++
 _Kaum ein Namen hat die Schlagzeilen letzter Woche so dominiert wie der von Novak Djokovic. Der 34-jährige Serbe, von vielen als weltbester Tennisspieler angesehen, steckt momentan in Australien im Quarantänehotel und darf nicht einreisen. Wie kam es dazu?_
 
-Novak Djokovic liebt eigentlich Australien, und vor Allem das Australian Open Tennisturnier, welches er schon neun Mal gewonnen hat, und somit Rekordhalter ist. Das Turnier, das jährlich Mitte Januar im australischen Melbourne stattfindet, wurde auch in den letzten drei Jahren von Djokovic gewonnen. Doch dieses Jahr stosst er bereits bei der Einreise auf den ersten schwierigen Gegner: die Australischen Grenzbehörden.
+Novak Djokovic liebt eigentlich Australien und vor Allem das Australian Open Tennisturnier, welches er schon neun Mal gewonnen hat, und somit Rekordhalter ist. Das Turnier, das jährlich Mitte Januar im australischen Melbourne stattfindet, wurde auch in den letzten drei Jahren von Djokovic gewonnen. Doch dieses Jahr stosst er bereits bei der Einreise auf den ersten schwierigen Gegner: die Australischen Grenzbehörden.
 
 ### Medizinische Ausnahme - oder doch nicht?
 
@@ -28,7 +28,7 @@ Australien hat seit Anfang der Pandemie sehr strenge Regeln eingeführt - vor Al
 
 ### Der Wut einer Nation
 
-Schon die Ankündigung von Djokovic, dass er eine Ausnahmebewilligung zur Einreise erhalten habe, kam bei den meisten Australier*innen nicht gut an. Viele Australier*innen konnten wegen COVID-19 und den strengen Grenzregeln ihre Familien und Freunde nicht besuchen. Gerade in Melbourne, wo das Australian Open stattfindet, hatte man wenig Verständnis dafür, dass der Sportsmann offenbar andere Regeln genoss als die “normale” Bevölkerung. Auch war einigermassen bekannt, dass Djokovic der Impfung gegenüber skeptisch war - er hatte während 2020 und 2021 diverse fragwürdige Aussagen zur Impfung gemacht und ging sogar soweit, zu behaupten, dass man mit [positiven Emotionen Wasser purifizieren könne](https://www.eurosport.com/tennis/novak-djokovic-positive-emotions-can-purify-polluted-water_sto7744129/story.shtml). So machte der “Djoker” kein Geheimnis aus seiner Skepsis gegenüber der Wissenschaft.
+Schon die Ankündigung von Djokovic, dass er eine Ausnahmebewilligung zur Einreise erhalten habe, kam bei den meisten Australier_innen nicht gut an. Viele Australier_innen konnten wegen COVID-19 und den strengen Grenzregeln ihre Familien und Freunde nicht besuchen. Gerade in Melbourne, wo das Australian Open stattfindet, hatte man wenig Verständnis dafür, dass der Sportsmann offenbar andere Regeln genoss als die “normale” Bevölkerung. Auch war einigermassen bekannt, dass Djokovic der Impfung gegenüber skeptisch war - er hatte während 2020 und 2021 diverse fragwürdige Aussagen zur Impfung gemacht und ging sogar soweit, zu behaupten, dass man mit [positiven Emotionen Wasser purifizieren könne](https://www.eurosport.com/tennis/novak-djokovic-positive-emotions-can-purify-polluted-water_sto7744129/story.shtml). So machte der “Djoker” kein Geheimnis aus seiner Skepsis gegenüber der Wissenschaft.
 
 ### Mangelnde Kommunikation
 
