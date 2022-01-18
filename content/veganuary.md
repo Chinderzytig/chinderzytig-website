@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220118_Veganuary_AM_btuf3h"
 artikel = true
 author = "Samira Lussi"
 cc_licence = ""
 cc_src = ""
 date = 2022-01-18T05:00:00Z
 description = "Ein weltweiter Neujahresvorsatz - Veganuary"
-draft = true
 fdw = false
 hero_img = "/v1642086248/likemeat-3sgNkN4wRWI-unsplash_es9dgv.jpg"
 img_description = "Veganer Burger "
@@ -38,3 +37,9 @@ An erster Stelle steht die Effizienz. So wurde bei Masthühnern das Sättigungsg
 ### Die Vision
 
 Eine vegane Ernährung ist also eine der effektivsten Massnahmen, um die Umwelt zu schützen, Tierleid zu vermeiden und den Klimawandel anzuhalten. Die Mission von Veganuary ist es, Menschen zu inspirieren und dabei zu unterstützten, eine pflanzliche Ernährung auszuprobieren. Ausserdem möchten man den Wandel bei Unternehmen zu mehr veganen Produkten vorantreiben und eine globale Bewegung schaffen, die sich für nachhaltige Ernährungsweisen einsetzt.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
