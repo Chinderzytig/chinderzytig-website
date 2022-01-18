@@ -1,6 +1,30 @@
 {{ define "main" }}
 <section class="document__container">
-	<h2 class="heading heading__secondary">schulprojekte</h2>
+	<div class="kommt-zu">
+		<h1 class="heading heading__content--primary">schulprojekte</h1>
+		<h4 class="heading heading__content--quaternary">Chinderzytig kommt zu euch</h4>
+
+		<p class="visible__text">
+			Uns kann man für Schulprojekte aufbieten. Wir kommen gerne vorbei und
+			realisieren mit der Klasse Inputs zu folgenden möglichen Themen:
+		</p>
+		<ul class="visible__list">
+			<li class="visible__item">Beginn des Schulprojekts «Schülerzeitung»</li>
+			<li class="visible__item">Entwicklung einer Zeitung</li>
+			<li class="visible__item">Medienkunde / From good news to fake news</li>
+			<li class="visible__item">Projektentwicklung: Von der Idee zur Umsetzung</li>
+		</ul>
+		<p class="visible__text">
+			Der Möglichkeiten gibt es viele, gerne setzen wir individuelle Ideen um.
+			Melden Sie sich durch unser <a href="/kontakt" class="link--general">Kontaktformular</a>, um Ihre Ideen zu besprechen
+			und umzusetzen.
+		</p>
+
+		<p class="visible__text">
+			<span class="visible__text--bold">Aufwand:</span> ab 2 Lektionen ist alles denk- und machbar<br>
+			<span class="visible__text--bold">Kosten:</span> der Richtwert ist CHF 350.- für 3 Lektionen
+		</p>
+	</div>
 	<div class="card__container">
 		{{ range .Site.Data.pages.schulprojekte.projekte }}
 			<div class="document__card card__hidden">
