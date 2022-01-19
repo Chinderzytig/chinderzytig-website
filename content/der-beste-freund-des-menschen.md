@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220120_Therapietiere_AM_b08clq"
 artikel = true
 author = "Sam Penfold"
 cc_licence = ""
 cc_src = ""
 date = 2022-01-20T05:00:00Z
 description = "Haustiere als Therapietiere"
-draft = true
 fdw = false
 hero_img = "/v1642086476/alicia-jones-13Nt3KvEQ3w-unsplash_gfcv5i.jpg"
 img_description = "Kind knuddelt sein Haustier"
@@ -28,11 +27,7 @@ Therapietiere unterscheiden sich von anderen “arbeitenden” Tieren, wie z.B. 
 Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:
 
 * Therapietiere können für Menschen mit mentalen oder emotionalen Krankheiten sehr hilfreich sein
-
-
 * Nebst Hunden gibt es zahlreiche andere Therapietiere
-
-
 * Auch die Wissenschaft bestätigt diese positiven Einflüsse
 
 ### Komfort im Stress
@@ -44,3 +39,9 @@ Obwohl der Hund das häufigste Tier ist, wenn es um Therapietiere geht, gibt es 
 ### Tierisches Mitgefühl
 
 Es ist kein Zufall, dass der Hund, weltweit in zirka jedem dritten Haushalt vertreten, das beliebteste Haustier ist. Untersuchungen haben ergeben, dass Hunde und andere Tiere sehr empathisch sein und mit “ihrem” Menschen mitfühlen können. Der Begriff “man’s best friend” kommt also nicht umsonst! Aber auch bei Tieren, die sich vielleicht weniger gut als Haustier eignen, wie Elefanten, Delfine und Schimpansen hat man beobachtet, dass sie empathische Emotionen zeigen, wie z.B. sich selbst im Spiegel erkennen oder beim Tod eines Freundes oder Artgenossen trauern.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
