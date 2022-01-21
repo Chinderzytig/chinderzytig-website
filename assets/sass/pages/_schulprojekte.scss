@@ -3,14 +3,12 @@
 
 	&__options {
 		display: flex;
-		justify-content: space-around;
+		flex-direction: column;
 	}
 
 	&__category {
 		display: flex;
-		flex: 0 0 45%;
-		background-color: $chinder-cultured;
-		align-self: center;
+		justify-content: center;
 	}
 
 	&__title {
@@ -18,18 +16,27 @@
 		padding: 1rem .5rem .5rem .5rem;
 		writing-mode: vertical-lr;
 
-		&--free { background-color: $chinder-verdigris; }
+		&--free {
+			background-color: $chinder-verdigris;
+			border-bottom: 1px solid $color-black;
+		}
 
 		&--sale { background-color: $chinder-orange; }
 	}
 
 	&__list {
+		flex: 0 0 75%;
 		padding: 0 2rem 2rem 4rem;
+		background-color: $chinder-cultured;
+
+		&--free { border-bottom: 1px solid $color-black; }
+
 	}
 
 	&__item {
-		font-weight: bold;
 		padding-top: 1rem;
+
+		&--bold { font-weight: bold; }
 
 		&--special {
 			font-style: italic;
