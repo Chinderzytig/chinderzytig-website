@@ -1,0 +1,67 @@
+.implementation {
+	margin-bottom: 3rem;
+
+	&__options {
+		display: flex;
+		justify-content: space-around;
+	}
+
+	&__category {
+		display: flex;
+		flex: 0 0 45%;
+		background-color: $chinder-cultured;
+		align-self: center;
+	}
+
+	&__title {
+		font-weight: bold;
+		padding: 1rem .5rem .5rem .5rem;
+		writing-mode: vertical-lr;
+
+		&--free { background-color: $chinder-verdigris; }
+
+		&--sale { background-color: $chinder-orange; }
+	}
+
+	&__list {
+		padding: 0 2rem 2rem 4rem;
+	}
+
+	&__item {
+		font-weight: bold;
+		padding-top: 1rem;
+
+		&--special {
+			font-style: italic;
+			font-size: 1.5rem;
+		}
+
+		&-description { font-size: 1.5rem; }
+	}
+}
+
+.comparison {
+	margin-bottom: 3rem;
+
+	&__table { border: 1px solid $color-black; }
+
+	&__row {
+		display: flex;
+
+		&:not(:last-child) { border-bottom: 1px solid $color-black; }
+
+		&--header{ background-color: $cta-seashell; }
+		&--shade{ background-color: $cta-azure; }
+	}
+
+	&__item {
+		flex: 0 0 50%;
+		padding: 1rem;
+
+		&--header {
+			font-weight: bold;
+		}
+
+		&--product { border-right: 1px solid $color-black; }
+	}
+}
