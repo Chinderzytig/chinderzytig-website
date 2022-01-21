@@ -18,7 +18,7 @@
 
 		&--free {
 			background-color: $chinder-verdigris;
-			border-bottom: 1px solid $color-black;
+			border-bottom: 2px dashed $color-black;
 		}
 
 		&--sale { background-color: $chinder-orange; }
@@ -29,7 +29,9 @@
 		padding: 0 2rem 2rem 4rem;
 		background-color: $chinder-cultured;
 
-		&--free { border-bottom: 1px solid $color-black; }
+		@include respond(tab-port-sm) { flex: 1; }
+
+		&--free { border-bottom: 2px dashed $color-black; }
 
 	}
 
