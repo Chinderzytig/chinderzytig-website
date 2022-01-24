@@ -1,18 +1,17 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220125_Achtsamkeit_AM_etpc0s"
 artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
 cc_src = ""
 date = 2022-01-25T05:00:00Z
 description = "Die Chinderzytig schreibt über das Thema Achtsamkeit und seine Bedeutung. "
-draft = true
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
-kategorien = []
+hero_img = "/v1643033793/omid-armin-a5EbQpl-IHw-unsplash_pllwab.jpg"
+img_description = "Eine glücklich meditierende Frau"
+img_photographer = "Omid Armin"
+img_src = "https://unsplash.com/photos/a5EbQpl-IHw"
+kategorien = ["Welt"]
 markierungen = ["Kultur", "Gesellschaft", "Gesundheit"]
 paid = false
 slug = ""
@@ -38,3 +37,9 @@ Achtsam sein bedeutet im Hier und Jetzt zu sein, dies nicht nur mit dem Körper,
 Das Thema Achtsamkeit ist heute also in aller Munde und auch die Forschungsergebnisse zur Achtsamkeit häufen sich rasant in den letzten Jahrzehnten. Der Grund dafür ist, dass sich unser Alltag, unsere Lebensqualität und Arbeitsbedingungen in dieser Zeit sehr stark verändert haben. Menschen sind einer täglichen Flut von Informationen, Push-Benachrichtigungen, Whatsapp-Nachrichten, Social Media Beiträgen und E-Mails ausgesetzt. Noch nie waren wir so oft und einfach erreichbar und dementsprechend auch noch nie so überlastet.
 
 Somit ist es nicht überraschend, dass das Bedürfnis nach einem Moment der Ruhe in der Bevölkerung steigt. Für viele scheint die Praxis der Achtsamkeit dabei zu helfen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
