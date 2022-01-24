@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220127_Rauchen_AM_rbiclf"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2022-01-27T05:00:00Z
 description = "Es wird über ein Werbeverbot für Zigaretten und Tabakprodukte abgestimmt. Die Chinderzytig berichtet"
-draft = true
 fdw = false
 hero_img = "/v1643035301/andres-siimon-ryBnRg4c3L0-unsplash_iezhlu.jpg"
 img_description = "Zigarettenstümmel zum Thema Werbeverbot für Zigaretten "
@@ -29,8 +28,14 @@ Auch die Comicfigur Lucky Luke hatte ursprünglich stets eine Zigarette im Mundw
 
 ### Warum das Werbeverbot?
 
-Warum braucht es dann noch ein Werbeverbot? Studien zeigen, dass die Werbung einen Einfluss hat, ob jemand mit dem Rauchen anfängt oder nicht. Zudem ist Rauchen immer noch ein grosses Risiko für die Gesundheit und führt zu vielen Todesfällen. Rund die Hälfte der Raucher*innen hat zudem bereits vor dem 18. Lebensjahr mit dem Rauchen angefangen. Die Initiant*innen des Werbeverbots sind deshalb der Meinung, dass dafür gesorgt werden muss, dass die Jugendlichen gar nicht erst mit dem Rauchen anfangen. Und dafür braucht es ihrer Meinung nach ein Werbeverbot. Das Werbeverbot will, dass nur noch dort Werbung für Tabakprodukte gemacht werden darf, wo keine Jugendlichen unter 18 Jahren erreicht werden. Zum Beispiel in einer Disco, wo nur Erwachsene ab 18 Jahren Zutritt haben.
+Warum braucht es dann noch ein Werbeverbot? Studien zeigen, dass die Werbung einen Einfluss hat, ob jemand mit dem Rauchen anfängt oder nicht. Zudem ist Rauchen immer noch ein grosses Risiko für die Gesundheit und führt zu vielen Todesfällen. Rund die Hälfte der Raucher_innen hat zudem bereits vor dem 18. Lebensjahr mit dem Rauchen angefangen. Die Initiant_innen des Werbeverbots sind deshalb der Meinung, dass dafür gesorgt werden muss, dass die Jugendlichen gar nicht erst mit dem Rauchen anfangen. Und dafür braucht es ihrer Meinung nach ein Werbeverbot. Das Werbeverbot will, dass nur noch dort Werbung für Tabakprodukte gemacht werden darf, wo keine Jugendlichen unter 18 Jahren erreicht werden. Zum Beispiel in einer Disco, wo nur Erwachsene ab 18 Jahren Zutritt haben.
 
 ### Neues Tabakproduktegesetz
 
 Der Bundesrat und das Parlament lehnen die Volksinitiative ab. Sie haben als indirekten Gegenvorschlag ein neues Tabakproduktegesetz entwickelt. Dieses enthält auch zahlreiche Einschränkungen bei der Werbung. So dürfte zum Beispiel keine Werbung mehr für Tabakprodukte auf Plakaten und im Kino gemacht werden – an Kiosken wäre sie aber noch erlaubt. Weiter ist im Gesetz ein Verkaufsverbot von Zigaretten an unter 18-Jährige enthalten. Das Tabakproduktegesetz kann unabhängig vom Ausgang der Abstimmung über die Volksinitiative in Kraft treten. So oder so werden also neue Massnahmen gegen das Rauchen kommen. Sind wir gespannt, wie weit diese gehen werden.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
