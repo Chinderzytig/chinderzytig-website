@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-02-01T05:00:00Z
 description = "E-Trottis im Trend"
-draft = true
 fdw = false
 hero_img = "/v1643387942/christina-spinnen-mFGcZgjhADc-unsplash_duastw.jpg"
 img_description = "Zwei Personen fahren mit ihren E-Scooter durch die Stadt"
