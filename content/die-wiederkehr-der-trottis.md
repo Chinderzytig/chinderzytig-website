@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "20220201_Trottis_AM_guezj3."
+arbeitsmaterial = "20220201_Trottis_AM_guezj3"
 artikel = true
 author = "Sam Penfold"
 cc_licence = ""
