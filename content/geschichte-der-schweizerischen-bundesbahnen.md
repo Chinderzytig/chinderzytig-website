@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220203_Geschichte_der_Schweizerischen_Bundesbahnen_AM_aztta8"
 artikel = true
 author = ""
 cc_licence = ""
@@ -35,3 +35,9 @@ In den folgenden Jahrzehnten wurde das Schweizer Bahnnetz weiter ausgebaut und m
 Obwohl man also hin und wieder vielleicht wegen eines verpassten Anschlusses oder hoher Billett Preisen die SBB verflucht, scheint die Schweizer Bahngesellschaft im letzten Jahrhundert einiges richtig gemacht zu haben.
 
 {{< definition id="Konkurs anmelden" wort="Konkurs anmelden" def="In Konkurs geraten Unternehmen, die ihre Schulden nicht mehr zurückzahlen können. Konkurs anzumelden bedeutet, dass das Unternehmen beim Staat angibt, dass es diese Schulden nicht mehr zahlen kann. Meistens führt das zu der Auflösung eines solchen Unternehmens." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
