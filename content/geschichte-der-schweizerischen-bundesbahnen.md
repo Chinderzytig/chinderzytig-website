@@ -1,11 +1,11 @@
 +++
 arbeitsmaterial = "20220203_Geschichte_der_Schweizerischen_Bundesbahnen_AM_aztta8"
 artikel = true
-author = ""
+author = "Botond Kalotay"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2022-02-03T05:00:00Z
+description = "Ein Bericht über die Geschichte der Schweizerischen Bundesbahnen"
 fdw = false
 hero_img = "/v1643830547/charles-forerunner-gapYVvUg1M8-unsplash_jausbd.jpg"
 img_description = "Ein Bild von einem Bahnhof"
