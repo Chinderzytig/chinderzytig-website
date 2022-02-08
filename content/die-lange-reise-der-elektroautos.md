@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-02-17T05:00:00Z
 description = "Ein Bericht über die Besonderheit der Elektorautos"
-draft = true
 fdw = false
 hero_img = "/v1644337062/michael-marais-HjV_hEECgcM-unsplash_lvfhh5.jpg"
 img_description = "Parkplatz für Elektroautos - hier kann man aufladen. "
