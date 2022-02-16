@@ -39,3 +39,7 @@ Der Physiker Ernst Mach leistete im 19. Jahrhundert wichtige Pionierarbeit zur B
 Was sich sehr futuristisch anhört, gab es eigentlich schon längere Zeit: die sowjetische “TU-144”, die 1970 bereits die doppelte Schallgeschwindigkeit erreichte - 2150 km/h. Wegen hohen Kosten und anderen Gründen wurde die Maschine aber bereits nach ein paar Jahren wieder ausser Dienst gestellt. Die britisch-französische “Concorde” hatte aber einen erfolgreicheren Einsatz: Sie war von 1976 bis 2003 unterwegs (auch mit bis zu Ma=2). So konnte man als Passagier in ca. 3.5 Stunden von Paris nach New York fliegen; dies dauert heute mit einer “normalen Maschine” 7-8 Stunden. Jedoch musste auch die Concorde wegen hohen Kosten, einer allgemein schlechten Lage für Airlines und eines fatalen Unfalls in Paris 2003 ausser Betrieb gesetzt werden.
 
 Obwohl zur Zeit keine zivilen Flugzeuge mit Überschallgeschwindigkeit reisen, gibt es grosses Interesse, die Technologie zu verbessern, so dass man vielleicht bald doppelt so schnell in die Ferien fliegen kann. Diverse Unternehmen haben es sich zum Ziel gesetzt, in den nächsten Jahren zivile Überschallflugzeuge zu entwickeln. Auch die amerikanische Weltraumbehörde NASA hat bereits ein solches Flugzeug in Auftrag gegeben.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
