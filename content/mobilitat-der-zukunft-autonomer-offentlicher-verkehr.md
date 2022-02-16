@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "Schneller_als_mein_Ton_AM_sg_bxpay1"
+arbeitsmaterial = ""
 artikel = true
 author = "Samira Lussi"
 cc_licence = ""
