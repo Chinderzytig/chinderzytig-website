@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Die_lange_Reise_der_Elektroautos_gyl0kw"
 artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
@@ -41,3 +41,9 @@ Heute sind Elektroautos zwar immer noch in einer grossen Unterzahl, verglichen m
 {{< definition id="Nutzfahrzeuge" wort="Nutzfahrzeuge" def="Ist ein Fahrzeug, das auf Grund seiner Bauart zum Transport von Personen, Gütern oder zum Ziehen von Anhängefahrzeugen bestimmt ist." >}}
 
 {{< definition id="Erdöl" wort="Erdöl" def="Die Förderung von Erdöl ist sehr belastend für die Umwelt. Ausserdem haben im letzten Jahrhundert viele internationale Konflikte und sogar Kriege wegen Erdölvorkommen stattgefunden." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
