@@ -1,47 +1,43 @@
 +++
-arbeitsmaterial = "Die_lange_Reise_der_Elektroautos_gyl0kw"
+arbeitsmaterial = "20220222_AM_Veloreisen_lh134k"
 artikel = true
-author = "Botond Kalotay"
+author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
-date = 2022-02-17T05:00:00Z
-description = "Ein Bericht über die Besonderheit der Elektorautos"
+date = 2022-02-22T05:00:00Z
+description = ""
 draft = true
 fdw = false
-hero_img = "/v1644337062/michael-marais-HjV_hEECgcM-unsplash_lvfhh5.jpg"
-img_description = "Parkplatz für Elektroautos - hier kann man aufladen. "
-img_photographer = "Michael Marais"
-img_src = "https://unsplash.com/photos/HjV_hEECgcM"
+hero_img = "/v1645473338/david-marcu-VfUN94cUy4o-unsplash_tzia30.jpg"
+img_description = "Fahrradreise"
+img_photographer = "David Marcu"
+img_src = "https://unsplash.com/photos/tLg5rJZ3LhU"
 kategorien = ["Welt"]
-markierungen = ["Wirtschaft", "Gesellschaft"]
+markierungen = ["Natur", "Sport", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Auf zwei Rädern die Welt erobern"
 
 +++
-_Elektroautos sind heutzutage keine Besonderheit mehr im Strassenverkehr. Von Audi über Ford bis hin zu Citroën, Autohersteller auf der ganzen Welt haben damit angefangen Elektrofahrzeuge zu produzieren. Was mittlerweile schon fast selbstverständlich ist, war für den Normalbürger vor erst zehn Jahren noch fast unvorstellbar. Was hat sich also geändert?_
+_Immer wieder liest man verrückte Geschichten von Menschen, die mit ihrem Velo die halbe Welt umrunden. Warum machen sie das wohl? Wollen sie besonders fit werden? Und was braucht es alles für eine erfolgreiche Velo-Reise? Schauen und hören wir doch mal etwas genauer hin, was das Velo-Reisen so aufregend macht._
 
-Die Idee von elektrischen Fahrzeugen ist nicht neu. Erste elektrische Fahrzeuge wurden bereits gegen Ende des 19. Jahrhunderts erfunden. Seitdem hat sich der elektrische Betrieb bei einigen Fahrzeugen fest zum Standard entwickelt. Bei Zügen, Trams und U-Bahnen wird nämlich schon seit langem auf Elektro gesetzt. Bei den Autos scheint diese Entwicklung aber etwas länger zu gehen. Denn obwohl erste elektrische Autos bereits vor benzinbetriebenen Autos existierten, hat sich Benzin ganz klar als der Treibstoff im Strassenverkehr durchgesetzt. Ändert sich das nun wirklich?
+Das Velo sieht man fast nicht mehr unter all den Taschen. Links und rechts an Vorder- und Hinterrad sind sie befestigt. Und auf dem Gepäckträger sind noch ein Zelt und ein Schlafsack festgebunden. Da muss man also für einige zusätzliche Kilos strampeln. Sieht das nach erholsamen Ferien aus? Wenn man so die Berichte der Velo-Abenteurerinnen und - Abenteurer liest, merkt man schnell: um erholsame Ferien geht es nicht. Es geht um mehr. Es geht um Begegnungen, um das Erleben von Landschaften, Kulturen, Menschen – und das möglichst direkt und mit allen Sinnen. Das Gepäck gehört einfach dazu. Aber um überflüssige Kilos einzusparen, werden klare Prioritäten gesetzt. Nur das Nötigste kommt mit. Ganz nach dem Motto „reduce to the max“.
 
-### Das Benzin
+### Kamera...
 
-Seit 1911 hat sich Benzin als der standardmässige Treibstoff für Autos durchgesetzt. Denn ein Auto mit Verbrennungsmotor und einem vollen Tank konnte viel längere Distanzen zurücklegen als ein Elektroauto mit voller Batterie. So, wurden Elektroautos schnell in einen kleinen {{< fremdwort id="Nischenmarkt" wort="Nischenmarkt" >}} verdrängt und konnten in der grossen Öffentlichkeit nicht mehr Fuss fassen. Für kurze Strecken wurden Elektroautos immer wieder als {{< fremdwort id="Nutzfahrzeuge" wort="Nutzfahrzeuge" >}} eingesetzt. Währenddessen wurden weltweit unzählige Autos mit Verbrennungsmotor produziert und dazu ein globales Netz von Tankstellen ausgebaut. Trotz des Wissens über die ökologische Belastung durch Autoabgase war es unvorstellbar, dass Elektrofahrzeuge alltagstauglich werden könnten. Dies begann sich erst in den 90er Jahren aus verschiedenen Gründen zu ändern. Einerseits haben sich Batterietechnologien weiterentwickelt und zudem wurde die Förderung von {{< fremdwort id="Erdöl" wort="Erdöl" >}} kritischer angeschaut. Doch ein richtiger Durchbruch gelang dem Elektroauto auch damals noch nicht.
+Und was packen die Velo-Abenteurer denn so alles in ihre Taschen ein? Der Velo-Abenteurer Marc Michel aus Bönigen hat auf seiner Webseite (www.marcmichel.ch) ganze Packlisten aufgeschaltet. Auffällig ist: Die Kamera ist immer mit dabei. Und mit ihr noch viel weitere Elektronik wie Handy, Ladegeräte, USB-Sticks und SD-Karten – wohl zur Speicherung der Fotos und Videos von unterwegs. Doch, wie lädt Michel seine Kamera oder sein Handy auf, wenn er tagelang durch eine Wüste radelt – weit und breit keine Steckdose? Dafür gibt’s Solarpanels und Ladegeräte, die am Dynamo des Velos angehängt werden können. Sie liefern Strom während des Fahrens.
 
-### Tesla
+### ...und Teigwaren
 
-Der heutige Erfolg von Elektroautos ist zu einem grossen Teil einem Unternehmen zu verdanken. Denn Tesla setzte 2008 neue Massstäbe in der Elektromobilität. Der Tesla Roadster glänzte damals schon mit exzellenten Fahrleistungen und zeigte der grossen Masse, dass das Fahren eines Elektrofahrzeuges ebenfalls viel Spass bieten kann.
+Viel wichtiger als elektronische Geräte ist aber natürlich die Nahrung. Je nach Velotour und Klima sieht die unterschiedlich aus. Aber sie muss Energie spenden. So fuhr Marc Michel bei seiner letzten Velotour durch Sibirien rund 39 Kilo Teigwaren mit sich herum. Wegen der Kälte und der Strapazen für seinen Körper musste er pro Tag ca. 5000 Kilokalorien zu sich nehmen. Das sind etwa doppelt so viele wie ein Mann normalerweise pro Tag braucht. Er ass die Teigwaren zum Frühstück, zum Mittagessen und am Abend.
 
-Vier Jahre später erreichte Tesla mit dem Model S schliesslich definitiven Kultstatus. Ein Elektroauto wurde zum Statussymbol. In den nächsten zehn Jahren entwickelte sich nicht nur Tesla weiter, sondern fast alle grossen Automobilhersteller begannen mit Vollgas an ihren eigenen Elektroautos zu arbeiten.
+### Weit weit weg
 
-### Der neue Aufschwung
+Kleider, ein Zelt und Utensilien zum Kochen und für die Körperhygiene fehlen auch nicht in den praktischen Velotaschen. Doch wie bereits gesagt, gilt hier: weniger ist mehr. Und auch eine Auswahl an Medikamenten wird mitgenommen. Die teils extremen Reisebedingungen können den Körper stark belasten. Und die medizinische Versorgung ist in gewissen Ländern auch nicht so gut wie in der Schweiz. Oder man ist schlicht viel zu weit davon entfernt. Denn, was Velo-Abenteurer auch gemeinsam haben: sie strampeln oft durch einsame Gegenden, weitab von der Zivilisation. Das heisst, weit weg von Menschen und Städten. Sie sind oft auf sich alleine gestellt. Da ist ein Vorrat an Notfall-Medikamenten sicher nicht verkehrt. Doch, wenn man richtig schlimm krank wird, hilft auch der Notfall-Koffer nicht mehr. So geschehen Marc Michel.
 
-Heute sind Elektroautos zwar immer noch in einer grossen Unterzahl, verglichen mit den Fahrzeugen, welche Verbrennungsmotoren haben, trotzdem sind sie nicht mehr ein Nischenprodukt. Die Herstellung und der Verkauf von Elektrofahrzeugen werden in vielen Ländern auch staatlich gefördert. Ausserdem wird mit hohem Druck am Ausbau der Ladestationen gearbeitet. Wirklich alltagstauglich für jedermann werden Elektrofahrzeuge nämlich erst, sobald die nötige Infrastruktur dazu besteht. Dieser Ausbau könnte viele Länder noch vor eine grosse Herausforderung stellen. Viele Elektrofahrzeugen sind auch eine Belastung für die Stromnetze weltweit. Der Weg in Richtung Elektromobilität wird also eigene Herausforderungen mit sich bringen. Es scheint aber so, also hätten wir nach mehr als 120 Jahren den ersten Schritt nun gemacht.
+### Ein Lebensstil
 
-{{< definition id="Nischenmarkt" wort="Nischenmarkt" def="Ein Nischenmarkt ist ein Teil eines grösseren Marktes, das sich durch seine eigenen, einzigartigen Eigenschaften, Vorlieben oder seine Identität vom Gesamtmarkt unterscheidet." >}}
-
-{{< definition id="Nutzfahrzeuge" wort="Nutzfahrzeuge" def="Ist ein Fahrzeug, das auf Grund seiner Bauart zum Transport von Personen, Gütern oder zum Ziehen von Anhängefahrzeugen bestimmt ist." >}}
-
-{{< definition id="Erdöl" wort="Erdöl" def="Die Förderung von Erdöl ist sehr belastend für die Umwelt. Ausserdem haben im letzten Jahrhundert viele internationale Konflikte und sogar Kriege wegen Erdölvorkommen stattgefunden." >}}
+Als im Frühling 2020 die Coronapandemie ausbrach, war Michel mit seiner Freundin in China unterwegs. Plötzlich wurden Grenzen geschlossen und Flugverbindungen gestrichen. Es wurde immer schwieriger mit dem Reisen – auch per Velo. Und dann kam da eben noch eine Gehirnentzündung dazu bei Marc Michel. Er musste ins Spital und dann mit dem RegaHelikopter in die Schweiz zurückgeflogen werden. Mittlerweile geht es ihm wieder ziemlich gut und er plant bereits seine nächsten Abenteuer. Auch das eine Gemeinsamkeit der VeloReisenden. Kaum sind sie zu Hause, planen sie schon das nächste Abenteuer. Manche leben mittlerweile von ihren Reisen und Erlebnissen, zum Beispiel der sogenannte „Cyclonaute“ Claude Marthaler. Er hat schon zahlreiche Bücher geschrieben, hält Vorträge und macht FotoAusstellungen. Seine Bücher tragen Namen wie „Der Gesang der Räder“ oder „Soweit das Rad uns trägt“ – wer möchte da nicht auch gleich in den nächsten Sattel steigen? Bildlinks (wenn vorhanden)
 
 {{< teiler >}}
 
