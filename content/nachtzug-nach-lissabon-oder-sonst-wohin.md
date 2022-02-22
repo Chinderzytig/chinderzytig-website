@@ -1,43 +1,41 @@
 +++
-arbeitsmaterial = "20220222_AM_Veloreisen_lh134k"
+arbeitsmaterial = "AM_Nachtzug_euek5z"
 artikel = true
-author = "Kathrin Hausammann"
+author = "Nicole Emch"
 cc_licence = ""
 cc_src = ""
-date = 2022-02-22T05:00:00Z
+date = 2022-02-24T05:00:00Z
 description = ""
 draft = true
 fdw = false
-hero_img = "/v1645473338/david-marcu-VfUN94cUy4o-unsplash_tzia30.jpg"
-img_description = "Fahrradreise"
-img_photographer = "David Marcu"
-img_src = "https://unsplash.com/photos/tLg5rJZ3LhU"
+hero_img = "/v1645536850/laura-cleffmann-zJRLgDaax_I-unsplash_kleiner_kazef9.jpg"
+img_description = "Nachtzug"
+img_photographer = "Laura Cleffmann"
+img_src = "https://images.unsplash.com/photo-1547219469-75c19c0bd220?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
 kategorien = ["Welt"]
-markierungen = ["Natur", "Sport", "Gesellschaft"]
+markierungen = ["Kultur", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Nachtzug – nach Lissabon oder sonst wohin "
 
 +++
-_Immer wieder liest man verrückte Geschichten von Menschen, die mit ihrem Velo die halbe Welt umrunden. Warum machen sie das wohl? Wollen sie besonders fit werden? Und was braucht es alles für eine erfolgreiche Velo-Reise? Schauen und hören wir doch mal etwas genauer hin, was das Velo-Reisen so aufregend macht._
+_Am Abend in den Zug einsteigen, hoffentlich gut schlafen und am nächsten Morgen in einer anderen Stadt aufwachen, der Nachtzug macht das möglich. Auch wenn es sehr gemütlich tönt, wurden die Nachtzugverbindungen während Jahren immer weniger. Jetzt erlebt der Nachtzug aber ein Revival._
 
-Das Velo sieht man fast nicht mehr unter all den Taschen. Links und rechts an Vorder- und Hinterrad sind sie befestigt. Und auf dem Gepäckträger sind noch ein Zelt und ein Schlafsack festgebunden. Da muss man also für einige zusätzliche Kilos strampeln. Sieht das nach erholsamen Ferien aus? Wenn man so die Berichte der Velo-Abenteurerinnen und - Abenteurer liest, merkt man schnell: um erholsame Ferien geht es nicht. Es geht um mehr. Es geht um Begegnungen, um das Erleben von Landschaften, Kulturen, Menschen – und das möglichst direkt und mit allen Sinnen. Das Gepäck gehört einfach dazu. Aber um überflüssige Kilos einzusparen, werden klare Prioritäten gesetzt. Nur das Nötigste kommt mit. Ganz nach dem Motto „reduce to the max“.
+In seinem Roman «Nachtzug nach Lissabon» schickt der Schriftsteller Pascal Mercier den Lehrer Raimund Gregorius auf eine Reise in die portugiesische Hauptstadt Lissabon und auch ein bisschen zu sich selbst. Nicht nur Gregorius geht es so. Wer oft mit dem Zug unterwegs ist, weiss, es ist eine bequeme Art von A nach B zu kommen, in der man Zeit für sich selbst hat. Man kann gemütlich lesen, etwas für die Arbeit erledigen, mit Mitreisenden reden oder auch einfach aus dem Fenster schauen und die Landschaft vorbeiziehen sehen.
 
-### Kamera...
+Der Zug stellt eine Alternative zum Flugzeug dar, eine gute Alternative. Während längerer Zeit ging der Trend eher in die andere Richtung. Das Ziel war es, immer schneller in andere Städte zu kommen. Die Flugreisen, insbesondere jene von Billiganbietern boomten: von Basel nach Lissabon für 50 CHF, von Genf nach London für 100 CHF. Solche Preise waren keine Seltenheit. Doch die grosse Zunahme im Flugverkehr hat auch negative Seiten. Die Umwelt leidet, der Klimawandel ist eine Realität und mit dem grösser werdenden Bewusstsein wurden auch kritische Stimmen laut. Andere Arten zu reisen, wurden wieder gefragter. Und da kommt der Nachtzug ins Spiel. Mit ihm können Städte in ganz Europa bequem erreicht werden. Am Abend in der Schweiz einsteigen, am Morgen in einer anderen Stadt aufwachen und dies meist mitten im Zentrum. Mit den Ferien oder dem Arbeitstag kann also sofort begonnen werden. Wie gut man im Zug schläft, hängt natürlich von der Person ab. Das leichte Ruckeln kann beruhigend wirken. Wenn ein Mitfahrer aber laut schnarcht, ist es auch möglich, dass man in der Nacht kein Auge zumacht. Für Leute, die nicht so gut schlafen, gibt es auch die Möglichkeit kleinere Abteile zu buchen. Das billigste Angebot ist normalerweise ein Platz in einem 6-er Abteil. Luxuriös wird es, wenn man nur zu zweit oder sogar allein reist, ein eigenes Bad ist dann im Abteil inklusive, eine Menu-Karte mit Essensvorschlägen gibt es auch.
 
-Und was packen die Velo-Abenteurer denn so alles in ihre Taschen ein? Der Velo-Abenteurer Marc Michel aus Bönigen hat auf seiner Webseite (www.marcmichel.ch) ganze Packlisten aufgeschaltet. Auffällig ist: Die Kamera ist immer mit dabei. Und mit ihr noch viel weitere Elektronik wie Handy, Ladegeräte, USB-Sticks und SD-Karten – wohl zur Speicherung der Fotos und Videos von unterwegs. Doch, wie lädt Michel seine Kamera oder sein Handy auf, wenn er tagelang durch eine Wüste radelt – weit und breit keine Steckdose? Dafür gibt’s Solarpanels und Ladegeräte, die am Dynamo des Velos angehängt werden können. Sie liefern Strom während des Fahrens.
+Die Reise mit dem Zug nimmt auch noch einen anderen Trend auf, die sogenannte «Entschleunigung». Viele Leute wollen einen entspannteren Lebensstil, wollen nicht mehr immer mehr und alles immer schneller. Die Reise mit dem Zug ist da das perfekte Angebot. Nachdem die Verbindungen in andere Städte lange Zeit abgebaut worden waren, gibt es jetzt wieder mehr Orte, die von der Schweiz aus mit dem Nachtzug erreicht werden können. Leicht gebremst wurde diese Entwicklung von der Corona-Pandemie. Mit 5 fremden Leuten in einem Abteil zu übernachten, schien für viele nicht die optimale Reiseform. Die SBB will aber an ihrem Plan festhalten und weitere Städte ans Nachtzugnetz anbinden. Auch die Bundesverwaltung hat darauf reagiert. Wenn Beamte in Europa reisen und dies zeitlich möglich ist, soll künftig lieber der Zug als das Flugzeug gebucht werden.
 
-### ...und Teigwaren
+### Von der Schweiz in die Welt
 
-Viel wichtiger als elektronische Geräte ist aber natürlich die Nahrung. Je nach Velotour und Klima sieht die unterschiedlich aus. Aber sie muss Energie spenden. So fuhr Marc Michel bei seiner letzten Velotour durch Sibirien rund 39 Kilo Teigwaren mit sich herum. Wegen der Kälte und der Strapazen für seinen Körper musste er pro Tag ca. 5000 Kilokalorien zu sich nehmen. Das sind etwa doppelt so viele wie ein Mann normalerweise pro Tag braucht. Er ass die Teigwaren zum Frühstück, zum Mittagessen und am Abend.
+Doch wohin gelange ich mit dem Nachtzug von der Schweiz aus? Dank der Zusammenarbeit mit den Zugunternehmen anderer Länder hat die SBB verschiedene Strecken im Angebot. Wer in Basel einsteigt, kann am nächsten Morgen schon die Hamburger Hafenluft schnuppern. Von Zürich gelangt man problemlos in einer Nacht nach Wien oder Amsterdam. Weitere Möglichkeiten sind Berlin, Hannover, Graz, Prag, Budapest, Ljubljana und Zagreb. Geplant ist, das Angebot weiter auszubauen.
 
-### Weit weit weg
+Auch in anderen Ländern ist es möglich mit dem (Nacht-) Zug zu reisen. Der «Ghan» zum Beispiel führt einmal der Länge nach durch ganz Australien, von Darwin im Norden nach Adelaide im Süden. 4 Tage dauert die ganze Reise, auf der man die spektakuläre Landschaft des australischen Outbacks bequem durchs Fenster beobachten kann. Eine der bekanntesten Eisenbahnstrecken überhaupt ist sicher die der transsibirischen Eisenbahn. Wer hier die ganze Strecke von Moskau nach Peking mitmacht, verbringt insgesamt fast eine Woche im Zug.
 
-Kleider, ein Zelt und Utensilien zum Kochen und für die Körperhygiene fehlen auch nicht in den praktischen Velotaschen. Doch wie bereits gesagt, gilt hier: weniger ist mehr. Und auch eine Auswahl an Medikamenten wird mitgenommen. Die teils extremen Reisebedingungen können den Körper stark belasten. Und die medizinische Versorgung ist in gewissen Ländern auch nicht so gut wie in der Schweiz. Oder man ist schlicht viel zu weit davon entfernt. Denn, was Velo-Abenteurer auch gemeinsam haben: sie strampeln oft durch einsame Gegenden, weitab von der Zivilisation. Das heisst, weit weg von Menschen und Städten. Sie sind oft auf sich alleine gestellt. Da ist ein Vorrat an Notfall-Medikamenten sicher nicht verkehrt. Doch, wenn man richtig schlimm krank wird, hilft auch der Notfall-Koffer nicht mehr. So geschehen Marc Michel.
+Wenn man Pech hat, kann die Reise im Zug aber auch in einem wahren Krimi enden, wie im Buch «Mord im Orient-Express» von Agatha Christie.
 
-### Ein Lebensstil
-
-Als im Frühling 2020 die Coronapandemie ausbrach, war Michel mit seiner Freundin in China unterwegs. Plötzlich wurden Grenzen geschlossen und Flugverbindungen gestrichen. Es wurde immer schwieriger mit dem Reisen – auch per Velo. Und dann kam da eben noch eine Gehirnentzündung dazu bei Marc Michel. Er musste ins Spital und dann mit dem RegaHelikopter in die Schweiz zurückgeflogen werden. Mittlerweile geht es ihm wieder ziemlich gut und er plant bereits seine nächsten Abenteuer. Auch das eine Gemeinsamkeit der VeloReisenden. Kaum sind sie zu Hause, planen sie schon das nächste Abenteuer. Manche leben mittlerweile von ihren Reisen und Erlebnissen, zum Beispiel der sogenannte „Cyclonaute“ Claude Marthaler. Er hat schon zahlreiche Bücher geschrieben, hält Vorträge und macht FotoAusstellungen. Seine Bücher tragen Namen wie „Der Gesang der Räder“ oder „Soweit das Rad uns trägt“ – wer möchte da nicht auch gleich in den nächsten Sattel steigen? Bildlinks (wenn vorhanden)
+Sei es in Europa oder weiter weg, dem nächsten Abenteuer im Zug steht also nichts im Weg.
 
 {{< teiler >}}
 
