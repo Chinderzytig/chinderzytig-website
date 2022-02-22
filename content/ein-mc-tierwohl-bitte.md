@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-02-23T05:00:00Z
 description = ""
-draft = true
 fdw = true
 hero_img = "/v1645474630/amber-kipp-EwJMBIshgXU-unsplash_xggd3a.jpg"
 img_description = "Schweine"
