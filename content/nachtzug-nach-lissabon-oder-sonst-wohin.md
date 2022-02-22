@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-02-24T05:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1645536850/laura-cleffmann-zJRLgDaax_I-unsplash_kleiner_kazef9.jpg"
 img_description = "Nachtzug"
