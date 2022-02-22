@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-02-22T05:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1645473338/david-marcu-VfUN94cUy4o-unsplash_tzia30.jpg"
 img_description = "Fahrradreise"
