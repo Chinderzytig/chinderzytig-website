@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220303_Putzen_AM_fumg6c"
 artikel = true
 author = "Anja Borer"
 cc_licence = ""
 cc_src = ""
 date = 2022-03-03T05:00:00Z
 description = "Akritel zum Thema Putzen"
-draft = true
 fdw = false
 hero_img = "/v1645972119/Picture1_fbkpz0.jpg"
 img_description = "Mutter und Kind beim Putzen"
@@ -51,3 +50,9 @@ Die Werbung versucht die Verbraucher zu überzeugen, dass alles strahlend glänz
 ### Fun Fact
 
 Der Monat Februar hat seinen Namen im Zusammenhang mit dem römischen Reinigungsfest erhalten, dieses hatte den Namen «Februa». Der Februar war im antiken Rom der letzte Monat des Jahres und zum Jahresende wurde alles gereinigt und parat gemacht für das neue Jahr. Dazu wurde auch ein grosses Fest gefeiert.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
