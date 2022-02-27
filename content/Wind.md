@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-03-01T05:00:00Z
 description = "Ein Artikel über Wind"
-draft = true
 fdw = false
 hero_img = "/v1645773869/oliver-hihn-D0tD6n3Ao8E-unsplash_atct88.jpg"
 img_description = "Blume im Winde verweht"
