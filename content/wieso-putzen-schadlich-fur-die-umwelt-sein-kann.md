@@ -1,19 +1,19 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Anja Borer"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2022-03-03T05:00:00Z
+description = "Akritel zum Thema Putzen"
 draft = true
 fdw = false
 hero_img = ""
-img_description = "Symbolbild: © Studio Romantic - stock.adobe. com"
+img_description = ""
 img_photographer = ""
-img_src = ""
-kategorien = []
-markierungen = []
+img_src = "Symbolbild: © Studio Romantic - stock.adobe. com"
+kategorien = ["Welt"]
+markierungen = ["Personen", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Wieso Putzen schädlich für die Umwelt sein kann "
