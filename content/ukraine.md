@@ -50,8 +50,4 @@ Verfolgst du oder jemand in deiner Familie wie sich die Sache entwickelt?
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
 
-{{< definition id="NATO" wort="NATO" def="Die «NATO» wurde nach dem zweiten Weltkrieg gegründet. Ihr Ziel ist es, zwischen den teilnehmenden Ländern Frieden zu wahren und sich gemeinsam gegen Angriffe von anderen militärisch zu wehren.
-
-In diesem Bündnis sind momentan 30 verschiedene Länder Mitglied. Zum Beispiel die USA, Frankreich, Deutschland oder Portugal. Die Schweiz nicht, da sie ein neutrales Land ist.
-
-«NATO» ist eine Abkürzung und heisst ausgeschrieben North Atlantic Treaty Organization, also «Nord-Atlantischer Gemeinschafts-Pakt»." >}}
+{{< definition id="NATO" wort="NATO" def="Die «NATO» wurde nach dem zweiten Weltkrieg gegründet. Ihr Ziel ist es, zwischen den teilnehmenden Ländern Frieden zu wahren und sich gemeinsam gegen Angriffe von anderen militärisch zu wehren. In diesem Bündnis sind momentan 30 verschiedene Länder Mitglied. Zum Beispiel die USA, Frankreich, Deutschland oder Portugal. Die Schweiz nicht, da sie ein neutrales Land ist. «NATO» ist eine Abkürzung und heisst ausgeschrieben North Atlantic Treaty Organization, also «Nord-Atlantischer Gemeinschafts-Pakt»." >}}
