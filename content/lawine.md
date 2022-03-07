@@ -1,7 +1,7 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = "FHa"
+author = "Fiona Häberli"
 cc_licence = ""
 cc_src = ""
 date = 2022-03-08T07:00:00Z
