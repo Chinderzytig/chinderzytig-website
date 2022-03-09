@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-03-10T05:00:00Z
 description = "Warum es trotz Sonne so eisig kalt ist. "
-draft = true
 fdw = false
 hero_img = "/v1646665258/benjamin-voros-U-Kty6HxcQc-unsplash_zx4iml.jpg"
 img_description = "Klare, kalte Winternacht"
