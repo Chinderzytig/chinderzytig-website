@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220310_Klare_N%C3%A4chte_eisige_K%C3%A4lte_AM_cjbnj6"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
@@ -39,3 +39,9 @@ Stellt euch vor, dass die Wolken eine Art Decke um die Erde herum bilden. Wie ei
 Nebst den Wolken spielt häufig auch der Wind eine zentrale Rolle bei eisigen Nächten. Allerdings nicht, wenn er besonders stark bläst, sondern wenn er gar nicht bläst. Ist es nämlich windstill, wird die unterschiedlich warme Luft nicht durcheinandergemischt. Am Boden ist die Luft schwer und kühl. Weiter oben ist sie wärmer und leichter. Bläst nun ein Wind, so werden diese Luftmengen vermischt und kühlen nie ganz aus. Bläst kein Wind, kühlen die Luftmengen hingegen mehr und mehr aus. So kommt es bei diesen eisigen Temperaturen dann meistens auch zu Bodenfrost (pickelharter eisiger Boden) und stark vereisten Autoscheiben.
 
 Siehst du im Winter also ein schönes Sternenzelt am Himmel, teilst du deinen Eltern besser mit, dass sie am Morgen lieber ein paar Minuten mehr einrechnen sollen, falls sie mit dem Auto zur Arbeit fahren wollen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
