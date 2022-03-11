@@ -7,11 +7,10 @@
 
 .new__cta {
 	@include cta-color($cta-azure);
-	margin-bottom: 0;
+	margin-bottom: 3rem;
 }
 
 .fdw__cta {
-	@include cta-color($cta-seashell);
 	margin-bottom: 3rem;
 	padding: 4rem 0;
 
@@ -29,4 +28,10 @@
 
 		@include respond(phone-xl) { margin-top: 3rem; }
 	}
+}
+
+.ukraine {
+	background: linear-gradient(#0057b7, #ffd700);
+	margin-bottom: 3rem;
+	padding: 3rem 0;
 }
