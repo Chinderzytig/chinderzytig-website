@@ -47,6 +47,11 @@
 				font-size: $font-heading;
 			}
 		}
+
+		&-pdf {
+			color: #FF0000;
+			font-weight: bold;
+		}
 	}
 
 	&--grey { background-color: $chinder-cultured; }
