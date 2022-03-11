@@ -39,7 +39,7 @@
 			</a>
 			{{ $fdwArtikel := where .Site.Pages ".Params.fdw" true }}
 			{{ range first 1 $fdwArtikel.ByDate.Reverse }}
-				<a href="{{.RelPermalink}}" class="card card--white fdw__cta-card">
+				<a href="{{.RelPermalink}}" class="card card--grey fdw__cta-card">
 					<div class="card__img-container">
 						<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
 							{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
@@ -55,6 +55,25 @@
 					</div>
 				</a>
 			{{ end }}
+		</div>
+	</section>
+
+	<section class="ukraine">
+		<div class="card__list ukraine__container">
+			<h2 class="heading heading__tertiary">Ukraine Konflikt</h2>
+			<div class="ukraine__content">
+				<p class="ukraine__info">
+					Hier finden sich Artikel, Materialien und Links rund ums Thema des
+					Ukraine-Konflikts. Es erscheinen unregelmässig neue Inhalte, also schaut
+					immer wieder vorbei.
+				</p>
+				<div class="document__card">
+					<h3 class="document__card-title">Der Ukraine-Konflikt Arbeitsmaterial</h3>
+					<a href="{{ $.Site.Params.cloudinary_url }}/Unterrichtsmaterial_Ukraine_vxfqcx.pdf" target="_blank" class="document__card--schulprojekte">
+						<img src="{{ $.Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/Unterrichtsmaterial_Ukraine_vxfqcx.png" alt="Schuleprojekte cover" class="document-sc__file">
+					</a>
+				</div>
+			</div>
 		</div>
 	</section>
 
