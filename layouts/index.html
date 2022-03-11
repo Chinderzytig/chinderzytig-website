@@ -61,11 +61,19 @@
 	<section class="ukraine">
 		<div class="card__list ukraine__container">
 			<h2 class="heading heading__tertiary">Ukraine Konflikt</h2>
-			<p class="ukraine__info">
-				Hier finden sich Artikel, Materialien und Links rund ums Thema des
-				Ukraine-Konflikts. Es erscheinen unregelmässig neue Inhalte, also schaut
-				immer wieder vorbei.
-			</p>
+			<div class="ukraine__content">
+				<p class="ukraine__info">
+					Hier finden sich Artikel, Materialien und Links rund ums Thema des
+					Ukraine-Konflikts. Es erscheinen unregelmässig neue Inhalte, also schaut
+					immer wieder vorbei.
+				</p>
+				<div class="document__card">
+					<h3 class="document__card-title">Der Ukraine-konflikt Arbeitsmaterial</h3>
+					<a href="{{ $.Site.Params.cloudinary_url }}/Unterrichtsmaterial_Ukraine_vxfqcx.pdf" target="_blank" class="document__card--schulprojekte">
+						<img src="{{ $.Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/Unterrichtsmaterial_Ukraine_vxfqcx.png" alt="Schuleprojekte cover" class="document-sc__file">
+					</a>
+				</div>
+			</div>
 		</div>
 	</section>
 
