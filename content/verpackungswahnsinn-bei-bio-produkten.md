@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220315_Verpackungswahnsinn_bei_Bio-Produkten_AM_sqepsp"
 artikel = true
 author = "Anja Borer"
 cc_licence = ""
 cc_src = ""
 date = 2022-03-15T05:00:00Z
 description = "Serie: reinigen – pflegen – schützen "
-draft = true
 fdw = false
 hero_img = "/v1646849608/john-cameron-KENd4EBdqow-unsplash_iqciqb.jpg"
 img_description = "In Plastik eingepacktes Bio Gemüse"
@@ -23,7 +22,7 @@ _Wenn du im Lebensmittelgeschäft Bio-Produkte kaufst, tust du etwas Gutes für 
 
 ### Das Wichtigste in Kürze
 
-Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels: 
+Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:
 
 * Bio-Früchte und Bio-Gemüse sind im Supermarkt in Plastik eingepackt, weil sie nicht mit herkömmlichen Früchten und Gemüse in Kontakt kommen dürfen. Sie könnten dabei mit Pestiziden kontaminiert (verunreinigt) werden.
 * Verpackungen können anstatt aus Plastik auch aus natürlichen Rohstoffen hergestellt werden.
@@ -44,3 +43,9 @@ Gemüse und Früchte können auch vor der Kontamination mit Pestiziden geschütz
 ### Entsorgung und Reycling
 
 Und wenn wir doch nicht auf Plastik verzichten können, ist es wichtig, dass der Plastikmüll korrekt entsorgt oder wenn möglich recycelt wird, damit das Plastik sehr lange und immer wieder verwendet werden kann.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
