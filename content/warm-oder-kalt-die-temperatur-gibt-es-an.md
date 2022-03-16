@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220317_Temperaturen_AM_pnp7be"
 artikel = true
 author = "Nicole Emch"
 cc_licence = ""
 cc_src = ""
 date = 2022-03-17T05:00:00Z
 description = "Temperaturschwankungen zum Frühlingsbeginn"
-draft = true
 fdw = false
 hero_img = "/v1647442460/erik-mclean-fSLI8RdCdyk-unsplash_vt4mzb.jpg"
 img_description = "Ein Thermometer verrät die Temperatur"
@@ -40,3 +39,9 @@ Doch wie kommt es, dass das Thermometer in der Schweiz an einem kühlen Winterta
 Nicht nur bei den Masseinheiten gibt es Unterschiede. Auch zwischen der effektiven und der gefühlten Temperatur wird unterschieden. Die zwei können ganz schön weit auseinander liegen, wie zum Beispiel letzte Woche, wenn eine zügige Bise für Kälte trotz Sonnenschein sorgt. Dass die gefühlte Temperatur nicht gleich ist wie die objektive, merkt man zum Teil schon im Gespräch mit Freunden. Ein Gfrörli hat schneller kalt; was für jemanden noch angenehm warm ist, ist für den andern schon zum Frösteln. Die gefühlte Lufttemperatur ist abhängig von verschiedenen Faktoren wie der Luftfeuchtigkeit, der Windgeschwindigkeit, der Sonneneinstrahlung, aber auch von unserer Grösse, unserem Alter, davon ob wir in Bewegung sind oder nicht. Da dies für jede und jeden unterschiedlich ist, wird bei Meteo jeweils mit einem Modell-Menschen gerechnet, wenn die gefühlte Temperatur angegeben wird.
 
 Dass -41,8 °C ziemlich kalt ist, da sind sich wohl die Meisten einig. La Brévine hält mit dieser Temperatur seit 1987 den Kälterekord in der Schweiz. Die höchste je gemessene Temperatur in der Schweiz wurde am 11. August 2003 in Grono im Graubünden registriert. Geradezu angenehm erscheinen die damals gemessenen 41,5°C wenn man sie mit dem weltweiten Hitzerekord vergleicht. Im Death Valley in den USA wurden 1913 56,7°C gemessen. Am anderen Ende der Extrem-Skala stehen die -89,2°C, gemessen in der russischen Antarktis im Jahr 1983. Bei dieser Temperatur ist menschliches Leben kaum mehr möglich.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
