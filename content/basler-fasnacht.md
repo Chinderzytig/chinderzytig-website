@@ -15,7 +15,7 @@ kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "Basler Fasnacht"
+title = "Die Basler Fasnacht"
 
 +++
 _Die “fünfti Johreszyt“ oder einfach „die drey scheenschte Dääg im Joor“ nennt man in Basel die Fasnacht, welche seit 2017 von der UNESCO als Weltkulturerbe anerkannt wurde._
