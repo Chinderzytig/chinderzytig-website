@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-03-24T05:00:00Z
 description = "Wie nachhaltig waren die Olympischen Spiele in Peking? "
-draft = true
 fdw = false
 hero_img = "/v1647443629/michal-mrozek-AKc4-l77Idg-unsplash_fl4rsv.jpg"
 img_description = "Schneekanonen"
