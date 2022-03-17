@@ -24,7 +24,7 @@ _Die “fünfti Johreszyt“ oder einfach „die drey scheenschte Dääg im Joor
 
 Die Basler Fasnacht beginnt jeweils am Montagmorgen mit dem Morgenstraich. Punkt 04.00 Uhr werden in der Innenstadt sämtliche Lichter gelöscht und alle Cliquen marschieren zeitgleich los und spielen denselben Marsch. Dies ist ein sehr spezieller und hoch emotionaler Moment. Dabei präsentieren die diversen Gruppierungen ihr Sujet, welches auf der mitgetragenen und beleuchteten Laterne, meist in karikaturistischer Form, aufgezeichnet oder aufgedruckt ist. Jedes Mitglied hat auf seiner Larve eine beleuchtete Kopflaterne stecken. Somit ist für genügend Beleuchtung gesorgt. Traditionell wird am Morgenstraich Käse- und Zwiebelwähe und/oder Mehlsuppe gegessen.
 
-### Cortége
+### Cortège
 
 Am frühen Nachmittag beginnt der eigentliche Fasnachtsumzug, welcher in Basel „Cortége“ genannt wird. Der Cortége findet jeweils am Montag und Mittwochnachmittag statt. Dieser setzt sich aus diversen Gruppierungen zusammen wie Cliquen, Guggenmusiken, Waggiswagen und „Chaisen“ (Kutschen von Pferden gezogen). Die Cliquen und Guggenmusiken bestehen aus einem Vortrab, welcher die „Zeedel“ verteilt, wo in ironischer Versform das Sujet ausgespielt wird. Das Sujet ist jeweils eine aktuelle politische Situation, welche in satirischer Form auf die Schippe genommen wird. Danach folgt die Piccologruppe, der Tambourmajor (Dirigent) und anschliessend die Trommler (Tambouren). Diese tragen ein Kostüm und Larve, welche das Sujet unterstreichen.
 
