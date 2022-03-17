@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220324_Nachhaltigkeit_AM_tkvf12"
 artikel = true
 author = "Fiona Häberli"
 cc_licence = ""
@@ -40,3 +40,9 @@ Die diesjährigen Winterspiele fanden mit Peking als Standort erstmals in einer 
 Um zu den Pisten, Rodelbahnen und Loipen zu gelangen, hat China Autobahnen und Hochgeschwindigkeitsbahnen gebaut. Zudem wurden unzählige pompöse Hotels für die Unterbringung auserwählter Gäste errichtet. Die Abfahrtspisten und die Rodelbahn wurden inmitten eines Naturschutzgebietes gebaut. Die Regierung hat dafür extra die Grenzen des Naturschutzgebietes verändert, damit der Bau der Anlagen möglich wurde.
 
 Der grosse Verbrauch von Wasser und Boden für die Winterspiele in Peking sowie der Bau von neuen Anlagen und Hotels wird von vielen Expertinnen und Experten kritisiert. Damit komme das Gegenteil zum Ausdruck, was die Organisatorinnen und Organisatoren der Olympischen Spiele in Peking angekündigt hätten.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
