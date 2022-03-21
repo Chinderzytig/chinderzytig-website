@@ -25,15 +25,15 @@ _Zum 19. Mal findet dieses Jahr der Weltwassertag statt. Wie gewohnt haben die V
 
 {{<info-box>}} 
 
-<h3>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:
+<h3>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels: </h3>
 
 <ul>
 
-<li>Der Weltwassertag hat zum Ziel, darauf aufmerksam zu machen, dass für viele Menschen der Zugang zu frischem Trinkwasser nicht gewährleitstet ist.
+<li>Der Weltwassertag hat zum Ziel, darauf aufmerksam zu machen, dass für viele Menschen der Zugang zu frischem Trinkwasser nicht gewährleitstet ist.</li>
 
-<li>Grundwasser ist die grösste Trinkwasserquelle auf der Erde. Diese befindet sich aber häufig unter der Oberfläche und ist nicht immer einfach zu erreichen.
+<li>Grundwasser ist die grösste Trinkwasserquelle auf der Erde. Diese befindet sich aber häufig unter der Oberfläche und ist nicht immer einfach zu erreichen.</li>
 
-<li>Das Thema Grundwasser steht aber nicht nur heute im Mittelpunkt. Denn die Vereinten Nationen wollen das Thema das ganze Jahr in verschiedenen Formen behandeln.
+<li>Das Thema Grundwasser steht aber nicht nur heute im Mittelpunkt. Denn die Vereinten Nationen wollen das Thema das ganze Jahr in verschiedenen Formen behandeln.</li>
 
 </ul>
 
