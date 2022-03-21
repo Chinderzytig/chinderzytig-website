@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-03-22T05:00:00Z
 description = "Sauberes Trinkwasser"
-draft = true
 fdw = false
 hero_img = "/v1647443144/artem-beliaikin-6bUmlGstym8-unsplash_khiipy.jpg"
 img_description = "Frisches Trinkwasser aus der Quelle"
