@@ -22,9 +22,9 @@ _Zum 19. Mal findet dieses Jahr der Weltwassertag statt. Wie gewohnt haben die V
 
 ### Das Wichtigste in Kürze
 
-{{<info-box>}} 
+{{<info-box>}}
 
-<h3>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels: </h3>
+<h3>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</h3>
 
 <ul>
 
