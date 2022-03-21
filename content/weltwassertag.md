@@ -6,6 +6,7 @@ cc_licence = ""
 cc_src = ""
 date = 2022-03-22T05:00:00Z
 description = "Sauberes Trinkwasser"
+draft = true
 fdw = false
 hero_img = "/v1647443144/artem-beliaikin-6bUmlGstym8-unsplash_khiipy.jpg"
 img_description = "Frisches Trinkwasser aus der Quelle"
@@ -22,11 +23,25 @@ _Zum 19. Mal findet dieses Jahr der Weltwassertag statt. Wie gewohnt haben die V
 
 ### Das Wichtigste in Kürze
 
-Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:
+{{ info-box }}
 
-* Der Weltwassertag hat zum Ziel, darauf aufmerksam zu machen, dass für viele Menschen der Zugang zu frischem Trinkwasser nicht gewährleitstet ist.
-* Grundwasser ist die grösste Trinkwasserquelle auf der Erde. Diese befindet sich aber häufig unter der Oberfläche und ist nicht immer einfach zu erreichen.
-* Das Thema Grundwasser steht aber nicht nur heute im Mittelpunkt. Denn die Vereinten Nationen wollen das Thema das ganze Jahr in verschiedenen Formen behandeln.
+<h3>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:
+
+<ul>
+
+<il>Der Weltwassertag hat zum Ziel, darauf aufmerksam zu machen, dass für viele Menschen der Zugang zu frischem Trinkwasser nicht gewährleitstet ist.
+
+</il>
+
+<il>Grundwasser ist die grösste Trinkwasserquelle auf der Erde. Diese befindet sich aber häufig unter der Oberfläche und ist nicht immer einfach zu erreichen.
+
+</il>
+
+<il>Das Thema Grundwasser steht aber nicht nur heute im Mittelpunkt. Denn die Vereinten Nationen wollen das Thema das ganze Jahr in verschiedenen Formen behandeln.
+
+</il>
+
+{{ /info-box }}
 
 Dieses Jahr läuft der Weltwassertag unter dem Motto „Unser Grundwasser: der unsichtbare Schatz". Mit diesem Motto wollen die Vereinten Nationen die grosse Bedeutung des Grundwassers bei den Menschen ins Bewusstsein rufen. Wieso aber machen sich die Vereinten Nationen seit 1993 die Mühe auf verschiedene Themen rund um Trinkwasser aufmerksam zu machen? Wie genau wird der Weltwassertag gefeiert? Und was steckt hinter dem Thema „Grundwasser“?
 
