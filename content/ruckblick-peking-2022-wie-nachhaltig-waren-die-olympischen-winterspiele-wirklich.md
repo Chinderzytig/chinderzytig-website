@@ -20,13 +20,23 @@ title = "Rückblick Peking 2022 – Wie nachhaltig waren die Olympischen Winters
 +++
 _Seit dem Bekanntwerden der Klimakrise ist der Begriff „Nachhaltigkeit“ in aller Munde. Immer mehr Firmen und Veranstalter geben an, die natürlichen Ressourcen – die natürlichen Schätze unseres Planeten – erhalten zu wollen, damit auch zukünftige Generationen ihre Bedürfnisse befriedigen und ein gutes Leben führen können. Laut den Organisatoren der Olympischen Spiele in Peking sollten diese Winterspiele die „grünsten“ aller Zeiten werden. Wir blicken auf die vergangenen Spiele zurück und untersuchen, wie nachhaltig dieser sportliche Grossanlass wirklich war._
 
-### Das Wichtigste in Kürze
+{{< info-box >}}
 
-Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:
+<h3>Das Wichtigste in Kürze</h3>
 
-* Die Olympischen Winterspiele sollten zum „grünsten“ Sportgrossanlass der Geschichte werden.
-* Expertinnen und Experten aus dem Westen kritisieren die Olympischen Spiele 2022 stark.
-* Seit Ende Herbst liefen die Schneekanonen in einem wasser- und schneearmen Gebiet in Peking auf Hochtouren.
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Die Olympischen Winterspiele sollten zum „grünsten“ Sportgrossanlass der Geschichte werden.</li>
+
+<li>Expertinnen und Experten aus dem Westen kritisieren die Olympischen Spiele 2022 stark.</li>
+
+<li>Seit Ende Herbst liefen die Schneekanonen in einem wasser- und schneearmen Gebiet in Peking auf Hochtouren.</li>
+
+</ul>
+
+{{< /info-box >}}
 
 ### Was ist Nachhaltigkeit?
 
