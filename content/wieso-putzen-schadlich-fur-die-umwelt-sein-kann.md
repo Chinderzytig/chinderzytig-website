@@ -20,14 +20,23 @@ title = "Wieso Putzen schädlich für die Umwelt sein kann "
 +++
 _Damit es zu Hause und in der Schule sauber ist und gut riecht, müssen die Räume immer wieder gut geputzt werden. Dazu brauchen wir Geräte wie den Staubsauger oder einen Besen, aber auch Putzmittel. Wieso Putzen aber auch problematisch für die Umwelt sein kann, nehmen wir in diesem Artikel genauer unter die Lupe._
 
-### Das Wichtigste in Kürze
+{{< info-box >}}
+<h3>Das Wichtigste in Kürze</h3>
 
-Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
-* Putzmittel haben immer Inhaltsstoffe, welche die Umwelt belasten, sollten sie direkt in das Wasser gelangen.
-* Putzmittel, wie auch Hygieneprodukte enthalten sehr häufig Mikroplastik, welches der Natur extrem schadet.
-* Biologisch abbaubare Verpackungen können der Umwelt auch schaden.
-* Anstatt Putzmittel mit umweltschädlichen Schadstoffen zu verwenden, sollte der Haushalt mit ökologischen Putzmitteln gereinigt werden.
+<ul>
+
+<li>Putzmittel haben immer Inhaltsstoffe, welche die Umwelt belasten, sollten sie direkt in das Wasser gelangen.</li>
+
+<li>Putzmittel, wie auch Hygieneprodukte enthalten sehr häufig Mikroplastik, welches der Natur extrem schadet.</li>
+
+<li>Biologisch abbaubare Verpackungen können der Umwelt auch schaden.</li>
+
+<li>Anstatt Putzmittel mit umweltschädlichen Schadstoffen zu verwenden, sollte der Haushalt mit ökologischen Putzmitteln gereinigt werden.</li>
+
+</ul>
+{{< /info-box >}}
 
 ### Verbrauch und Inhaltsstoffe von Putzmitteln
 
