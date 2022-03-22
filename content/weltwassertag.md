@@ -24,7 +24,7 @@ _Zum 19. Mal findet dieses Jahr der Weltwassertag statt. Wie gewohnt haben die V
 
 <h3>Das Wichtigste in Kürze</h3>
 
-Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
 <ul>
 
