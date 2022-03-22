@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-03-23T05:00:00Z
 description = "Wegen dem Ukraine-Krieg sind tausende Frauen auf der Flucht"
-draft = true
 fdw = true
 hero_img = "/v1647946311/ricardo-gomez-angel-cw_CxgiymqY-unsplash_ggjvsm.jpg"
 img_description = "Flüchtlinge Willkommen"
