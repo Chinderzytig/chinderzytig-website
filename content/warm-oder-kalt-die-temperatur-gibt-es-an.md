@@ -22,17 +22,17 @@ _Gerade zum Frühlingsanfang wie jetzt merken wir es jeden Tag, respektive jede 
 
 {{< info-box >}}
 
-<h3>Für unsere jüngsten Lesenden: Das Wichtigste in Kürze</h3>
+<h3>Das Wichtigste in Kürze</h3>
 
-Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
-<ul> 
+<ul>
 
-<li>Die Temperatur ist eine physikalische Grösse, die angibt, wie warm oder kalt es an einem bestimmten Ort oder in einem bestimmten Körper ist.</li> 
+<li>Die Temperatur ist eine physikalische Grösse, die angibt, wie warm oder kalt es an einem bestimmten Ort oder in einem bestimmten Körper ist.</li>
 
-<li>Die gefühlte Temperatur kann sich deutlich von der effektiv gemessenen Temperatur unterscheiden.</li> 
+<li>Die gefühlte Temperatur kann sich deutlich von der effektiv gemessenen Temperatur unterscheiden.</li>
 
-<li>Gemessen wird die Temperatur meistens mit einem Thermometer, angegeben wird sie in Grad. Am bekanntesten sind die Einheiten Grad Celsius, die in der Schweiz und Europa verbreitet ist, und Grad Fahrenheit, die in den USA benutzt wird.</li> 
+<li>Gemessen wird die Temperatur meistens mit einem Thermometer, angegeben wird sie in Grad. Am bekanntesten sind die Einheiten Grad Celsius, die in der Schweiz und Europa verbreitet ist, und Grad Fahrenheit, die in den USA benutzt wird.</li>
 
 {{< /info-box >}}
 
