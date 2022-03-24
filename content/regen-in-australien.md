@@ -27,9 +27,9 @@ _Australien - ein Land, das man eher mit Hitzewellen und Trockenheit verbindet, 
 
 <ul>
 
-<li>❖ Die australische Ostküste erlebte im März Rekordmengen an Regen.</li>
+<li>Die australische Ostküste erlebte im März Rekordmengen an Regen.</li>
 
-<li>❖ Die darauffolgenden Fluten resultierten in Todesopfern und grossen Sachschäden.</li>
+<li>Die darauffolgenden Fluten resultierten in Todesopfern und grossen Sachschäden.</li>
 
 <li>Die jüngsten Ereignisse haben die öffentliche Diskussion über die Klimaerwärmung intensiviert.</li>
 
