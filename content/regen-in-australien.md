@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-03-29T04:00:00Z
 description = "Rekordregen in Australien"
-draft = true
 fdw = false
 hero_img = "/v1648137047/erik-witsoe-mODxn7mOzms-unsplash_wjkp9g.jpg"
 img_description = "Unter dem Regenschirm"
