@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-03-31T04:00:00Z
 description = "Saharastaub "
-draft = true
 fdw = false
 hero_img = "/v1648137398/wolfgang-hasselmann-pVr6wvUneMk-unsplash_henkgm.jpg"
 img_description = "Wüste der Sahara"
