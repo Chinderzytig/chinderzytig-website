@@ -21,6 +21,20 @@ title = "Die Mondlandung – Ein technologisches Wettrennen zwischen zwei Superm
 +++
 _„Ein kleiner Schritt für einen Menschen, ein grosser Schritt für die Menschheit.“ Dieses Zitat stammt von Neil Armstrong, der am 20. Juli 1969 gemeinsam mit Edwin Aldrin als erster Mensch den Mond betrat. Damit gewannen die Amerikaner den Wettlauf zum Mond gegen die Sowjetunion. Doch weshalb war dieser Wettstreit so wichtig?_
 
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Die Welt war nach dem Zweiten Weltkrieg in zwei Lager gespalten. Das heutige Russland und die USA standen sich feindlich gegenüber, bekriegten sich allerdings nicht direkt.</li>
+
+<li>Sie trugen ihren Wettstreit unter anderem als Kampf um das Weltall aus. Russland und die USA förderten die Raumfahrt in ihrem Land stark.</li>
+
+<li>Den USA gelang es 1969, die ersten Personen zum Mond zu befördern und gesund wieder zurückzuholen.</li>
+
+</ul> {{< /info-box >}}
+
 ### Ein Wettlauf gegen die Zeit
 
 Nach Ende des Zweiten Weltkrieges 1945 teilte sich die Welt in zwei grosse Gruppen von Staaten auf. Man spricht auch von zwei Blöcken oder Lagern. An der Spitze des Ostblocks war die Sowjetunion, deren Kernregion das heutige Russland war. Der Westblock war unter der Führung der USA. Die Sowjetunion und die USA waren sich gegenseitig feindlich eingestellt. Sie bekriegten sich zwar nicht direkt, doch beide Lager schafften sich Waffen an und die Soldaten wurden auf einen „echten“ Krieg vorbereitet.
