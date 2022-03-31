@@ -1,19 +1,19 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Fiona Häberli"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2022-04-05T04:00:00Z
+description = "Ein technologisches Wettrennen zwischen zwei Supermächten"
 draft = true
 fdw = false
 hero_img = ""
 img_description = ""
 img_photographer = ""
 img_src = ""
-kategorien = []
-markierungen = []
+kategorien = ["Welt"]
+markierungen = ["Organisationen", "Gesellschaft", "Wissenschaft"]
 paid = false
 slug = ""
 title = "Die Mondlandung – Ein technologisches Wettrennen zwischen zwei Supermächten"
