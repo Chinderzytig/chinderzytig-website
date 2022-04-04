@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220407_Artikel_H%C3%A4ndewaschen_tme0s4"
 artikel = true
 author = "Anja Borer"
 cc_licence = ""
 cc_src = ""
 date = 2022-04-07T04:00:00Z
 description = "Wie wir mit Bakterien und Hygiene umgehen (sollten)"
-draft = true
 fdw = false
 hero_img = "/v1648734812/H%C3%A4ndewaschen_ubw01s.jpg"
 img_description = "Bakterien mit denen wir es zu tun haben. "
@@ -46,3 +45,9 @@ Viren hingegen gelten nicht als Lebewesen, da sie einen Wirt brauchen, um sich z
 Durch verschiedene Massnahmen können wir uns vor Bakterien und Viren schützen. Die wichtigste ist das regelmässige Händewaschen. Unsere Hände sind die häufigsten Überträger von Krankheitserregern, da wir alles mit ihnen anfassen. Wir schneiden rohes Fleisch, streicheln Tiere, putzen uns die Nase und fassen Geländer an. Und überall befinden sich Viren und Bakterien. Mit dem richtigen Händewaschen werden die Hände von den Krankheitserregern befreit, aber natürlich nur so lange, bis man wieder etwas anfasst. Man kann aber nicht jedes Mal, wenn man etwas berührt hat, sofort die Hände waschen. Aber du solltest deine Hände sicher vor jeder Mahlzeit waschen, sowie wenn du nach Hause kommst, nach der Toilette, dem Kontakt mit Tieren und Abfällen und nach dem Nase putzen. Wenn du dir also regelmässig die Hände wäschst, kannst du gut auf Desinfektionsmittel verzichten. Dieses ist jedoch praktisch für unterwegs, wenn du keine Möglichkeit zum Händewaschen hast oder wenn du mit jemand Krankem in Kontakt warst.
 
 Weitere Massnahmen sind Abstand halten, in den Ellbogen oder in ein Taschentuch niesen und husten und Toiletten sauber halten. Ein sauberer Haushalt hilft ebenfalls dabei, dich vor Krankheitserregern zu schützen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
