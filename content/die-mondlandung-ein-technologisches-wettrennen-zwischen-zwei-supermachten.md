@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220405_Mondlandung_AM_dnpbav"
 artikel = true
 author = "Fiona Häberli"
 cc_licence = ""
@@ -45,3 +45,9 @@ Der Sowjetunion war es wichtig, in wissenschaftlichen und technologischen Gebiet
 Die USA setzten sich als Ziel, noch vor Ende des Jahrzehnts einen Mann auf den Mond zu schicken. Dieser Mann sollte gesund wieder auf die Erde zurückkehren. 1969 gelang den USA dieser entscheidende Schritt. Da die amerikanischen Astronauten eine Kamera dabeihatten, konnte dieses wissenschaftlich und politisch wichtige Spektakel von rund 600 Millionen von Menschen an den Fernsehgeräten mitverfolgt werden.
 
 Das Ereignis wird allerdings von einigen Menschen angezweifelt. Zur Mondlandung gibt es zahlreiche Verschwörungstheorien.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
