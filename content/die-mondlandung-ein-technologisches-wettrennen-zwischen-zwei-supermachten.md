@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-04-05T04:00:00Z
 description = "Ein technologisches Wettrennen zwischen zwei Supermächten"
-draft = true
 fdw = false
 hero_img = "/v1648734812/Mond_t94lmg.jpg"
 img_description = "Amerikanischer Astronaut auf dem Mond "
