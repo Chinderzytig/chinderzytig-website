@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-04-13T03:00:00Z
 description = "Ein Bericht über die bevorstehende WM in Katar"
-draft = true
 fdw = true
 hero_img = "/v1649773988/emilio-garcia-AWdCgDDedH0-unsplash_1_lquyim.jpg"
 img_description = "Fussballspieler"
@@ -21,7 +20,7 @@ title = "FIFA WM 2022 in Katar "
 +++
 _Die global verurteilte Russische Invasion der Ukraine hatte als Teil der Sanktionen zur Folge, dass Russische Fussballmannschaften aus Europäischen Wettbewerben ausgeschlossen wurden. Dies hat die bereits erhitzte Diskussion zur Rolle der Menschenrechte im Massensport beschleunigt - und die Kritik an der bevorstehenden Fussball-Weltmeisterschaft in Katar verstärkt. Wir schauen sie uns heute etwas genauer an.
 
-_Es gibt kaum ein anderes Sportereignis, dass die Welt so in den Bann zieht, wie die Fussballweltmeisterschaft. Seit 1930 findet die WM alle vier Jahre statt, und zieht für ca. einen Monat die Aufmerksamkeit Fussballverrückter (und auch Leute, die sonst wenig Interesse für den Sport haben) an. Einzig in 1942 und 1946 wurde die WM wegen dem Zweiten Weltkrieg nicht ausgetragen. Die weltweiten Zuschauerzahlen bestätigen die globale Beliebtheit: So schauten ca. 715.1 Millionen Personen den Final der WM 2006 - ca. jeder neunte Mensch auf dem Plane. Dieser Event fasziniert und hat eine Reichweite, die praktisch nicht zu kopieren ist. Papst Johannes Paul II behauptete einst dass “Fussball das wichtigste aller unwichtigen Dinge” sei.
+Es gibt kaum ein anderes Sportereignis, dass die Welt so in den Bann zieht, wie die Fussballweltmeisterschaft. Seit 1930 findet die WM alle vier Jahre statt, und zieht für ca. einen Monat die Aufmerksamkeit Fussballverrückter (und auch Leute, die sonst wenig Interesse für den Sport haben) an. Einzig in 1942 und 1946 wurde die WM wegen dem Zweiten Weltkrieg nicht ausgetragen. Die weltweiten Zuschauerzahlen bestätigen die globale Beliebtheit: So schauten ca. 715.1 Millionen Personen den Final der WM 2006 - ca. jeder neunte Mensch auf dem Plane. Dieser Event fasziniert und hat eine Reichweite, die praktisch nicht zu kopieren ist. Papst Johannes Paul II behauptete einst dass “Fussball das wichtigste aller unwichtigen Dinge” sei.
 
 ### Die Rolle des Gastgebers
 
