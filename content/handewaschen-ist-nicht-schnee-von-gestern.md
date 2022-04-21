@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220407_H%C3%A4ndewaschen_ist_nicht_Schnee_von_gestern_AM_twghvl"
 artikel = true
 author = "Anja Borer"
 cc_licence = ""
@@ -45,3 +45,9 @@ Viren hingegen gelten nicht als Lebewesen, da sie einen Wirt brauchen, um sich z
 Durch verschiedene Massnahmen können wir uns vor Bakterien und Viren schützen. Die wichtigste ist das regelmässige Händewaschen. Unsere Hände sind die häufigsten Überträger von Krankheitserregern, da wir alles mit ihnen anfassen. Wir schneiden rohes Fleisch, streicheln Tiere, putzen uns die Nase und fassen Geländer an. Und überall befinden sich Viren und Bakterien. Mit dem richtigen Händewaschen werden die Hände von den Krankheitserregern befreit, aber natürlich nur so lange, bis man wieder etwas anfasst. Man kann aber nicht jedes Mal, wenn man etwas berührt hat, sofort die Hände waschen. Aber du solltest deine Hände sicher vor jeder Mahlzeit waschen, sowie wenn du nach Hause kommst, nach der Toilette, dem Kontakt mit Tieren und Abfällen und nach dem Nase putzen. Wenn du dir also regelmässig die Hände wäschst, kannst du gut auf Desinfektionsmittel verzichten. Dieses ist jedoch praktisch für unterwegs, wenn du keine Möglichkeit zum Händewaschen hast oder wenn du mit jemand Krankem in Kontakt warst.
 
 Weitere Massnahmen sind Abstand halten, in den Ellbogen oder in ein Taschentuch niesen und husten und Toiletten sauber halten. Ein sauberer Haushalt hilft ebenfalls dabei, dich vor Krankheitserregern zu schützen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
