@@ -1,14 +1,13 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220426_Artikel_Denkmal_AM_rv5jy4"
 artikel = true
 author = "Nicole Emch"
 cc_licence = ""
 cc_src = ""
 date = 2022-04-26T04:00:00Z
 description = "Ein Bericht über Denkmäler"
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1650902778/patricio-giusti-dQEbetDkxSg-unsplash_wq5bi3.jpg"
 img_description = "Colosseum in Rom"
 img_photographer = "Patricio Giusti"
 img_src = "https://unsplash.com/photos/dQEbetDkxSg"
@@ -61,3 +60,9 @@ Generell sind es die Behörden, die entscheiden, ob ein Gebäude unter Schutz ge
 ### Das Mocmoc-Denkmal in Romanshorn – hier scheiden sich die Geister
 
 Dass (neue) Denkmäler aber nicht immer den Geschmack von allen treffen, zeigt sich am Beispiel des Mocmoc-Denkmals in Romanshorn. Knapp 20 Jahren steht es schon auf dem Bahnhofsplatz Romanshorn und genau so lange wird darüber gestritten. Das Künstler-Duo COM&COM hat die Plastik mit dem Fabelwesen Mocmoc entworfen. Dazu kommt ein Wandbild, allerlei Publikationen und Werbematerial sowie eine erfundene Gründungslegende des Orts. Proteste löste nicht nur diese Geschichte aus. Auch dass die Kosten viel höher ausfielen als geplant und eine Baubewilligung fehlte, stiess viele Leute vor den Kopf. Was dem Denkmal aber sicher war, ist viel Aufmerksamkeit in den Medien und bei der Bevölkerung. Und Aufmerksamkeit ist gut, für jedes Denkmal.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
