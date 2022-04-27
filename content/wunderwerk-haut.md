@@ -21,7 +21,22 @@ title = "Wunderwerk Haut - darum ist Körperpflege wichtig!"
 +++
 _Unsere Haut ist das grösste Organ des menschlichen Körpers. Ihre Funktion ist es, unseren Körper zu schützen. Gleichzeitig ist sie aber sehr empfindlich und muss deswegen gut gepflegt werden._
 
-###   
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Die Haut schützt unseren Körper vor Temperatur, Verletzungen, Licht und Krankheiten.</li>
+
+<li>Unsere Haut drückt Gefühle aus.</li>
+
+<li>Die richtige Hautpflege hängt stark von deiner Haut ab.</li>
+
+<li>Wie funktioniert Sonnenschutz?</li>
+
+</ul> {{< /info-box >}}
+
 Funktionen der Haut
 
 Die Hauptaufgabe der Haut ist es, unseren Körper zu schützen. Sie schützt ihn vor Hitze und Kälte, Verletzungen, Licht (UV-Strahlung 🡪 Sonnenlicht) und auch vor Krankheiten. Da die Haut auch Wasser speichern kann, schützt sie den Körper vor Austrocknung. Zudem dient sie uns als Sinnesorgan, sie erkennt Reize wie Druck, Schmerz und Temperatur und sendet diese Signale weiter an unser Gehirn.
@@ -42,7 +57,7 @@ Die Haut ist nicht nur in der Lage zu fühlen, sondern kann auch Gefühle ausdr�
 
 Beim Einkaufen von Hautpflegemitteln kann man leicht überfordert sein. Die Auswahl an Produkten im Supermarkt ist riesig und es ist schwierig herauszufinden, welches die richtigen Produkte für die eigene Haut sind. Denn jede Haut ist anders. Besonders wichtig ist aber die regelmässige Reinigung der Haut, da diese vielem ausgesetzt ist. Dabei sollte man aber darauf achten, den Säureschutzmantel der Haut nicht zu beschädigen. Das gelingt, wenn du dich an folgende Tipps hältst.
 
-Beim Duschen: 
+Beim Duschen:
 
 * Zu heisse Duschen und Bäder vermeiden, sie lösen die Fette aus der Haut und die Haut trocknet damit schneller aus.
 * PH-neutrale Duschgels verwenden.
