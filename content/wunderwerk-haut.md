@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220428_AM_Wunderwerk_Haut_vveqag"
 artikel = true
 author = ""
 cc_licence = ""
@@ -19,3 +19,9 @@ slug = ""
 title = "Wunderwerk Haut"
 
 +++
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
