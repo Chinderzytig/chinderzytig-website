@@ -53,7 +53,7 @@ Auf die Situation in Katar wollte auch die deutsche Nationalmannschaft aufmerksa
 
 <li>**Gastarbeiter:** Ausländische Arbeiter, die meist für eine bestimmte Zeit Arbeiten (beispielsweise auf Baustellen) verrichten.</li>
 
-<li>❖ **Menschenrechte:** Das sind Rechte, die alle Menschen auf der ganzen Welt haben sollten. Dazu gehört das Recht, frei und sicher zu leben, jeder soll seine Meinung frei sagen können und alle Menschen dürfen die Religion haben, die sie gerne möchten. Es gibt noch viele andere Rechte.</li>
+<li>**Menschenrechte:** Das sind Rechte, die alle Menschen auf der ganzen Welt haben sollten. Dazu gehört das Recht, frei und sicher zu leben, jeder soll seine Meinung frei sagen können und alle Menschen dürfen die Religion haben, die sie gerne möchten. Es gibt noch viele andere Rechte.</li>
 
 <li>**Boykott / boykottieren:** Mit einem Boykott möchte man zeigen, dass man mit bestimmten Verhaltensweisen von Personen, Firmen oder auch Regierungen nicht einverstanden ist. Indem man sie nicht beachtet, möchte man sie zum Umdenken bewegen oder auch bestrafen. Es handelt sich also um ein geplantes Druckmittel, das eine Änderung erzwingen soll.</li>
 
