@@ -21,6 +21,20 @@ title = "Ungleichheit am Arbeitsplatz "
 +++
 _Vergangenen Sonntag haben wir den Tag der Arbeit gefeiert. An diesem Tag stehen Arbeiterrechte im Fokus. Arbeitnehmende sollen möglichst faire Arbeitsbedingungen haben. In der Schweiz ist das zum grössten Teil der Fall. Doch leider werden auch bei uns nicht alle Angestellten gleichbehandelt._
 
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Junge Menschen sind optimistisch, dass sich die Gleichstellung von Frauen am Arbeitsplatz verbessern wird.</li>
+
+<li>In Führungspositionen werden Frauen heute noch häufig wegen Vorurteilen diskriminiert.</li>
+
+<li>Frauen und Männer verdienen unter den gleichen Bedingungen (Berufserfahrung, Position) fast genau gleich viel Geld.</li>
+
+</ul> {{< /info-box >}}
+
 Junge Menschen scheinen optimistisch zu sein, wenn es um den Fortschritt in der Gleichberechtigung von Frauen am Arbeitsplatz geht. In einer Umfrage aus dem Jahr 2020 haben 75 Prozent der Leute geantwortet, dass sie hoffnungsvoll auf den Fortschritt der Gleichstellung in der Schweiz blicken. Doch die Realität ist etwas ernüchternd.
 
 ### Die Realität
@@ -32,3 +46,9 @@ Gemäss einer Umfrage haben selbst im Jahr 2020 fast die Hälfte der teilnehmend
 Eine Studie der Universität St. Gallen hat ein überraschendes Resultat hervorgebracht. Nur gerade 5 Prozent der Unternehmen bezahlen den Frauen unfaire Löhne. Diese Zahl ist immer noch höher als man sich das Wünschen würde. Trotzdem scheinen die Löhne nicht der grösste Problem bei der Gleichstellung von Frauen am Arbeitsplatz zu sein. Denn die Studie zeigt, Frauen verdienen im Schnitt zwar um einiges weniger als Männer, dies ist aber zum grössten Teil erklärbar: Durch mehr Arbeitserfahrung und mehr Kaderpositionen sind Männer besser entlöhnt. Bei gleicher Arbeitserfahrung und Position verdienen Frauen im Schnitt 4 Prozent weniger als Männer. Das zeigt, nicht erklärbare Lohnunterschiede zwischen Männern und Frauen gibt es zwar noch, diese scheinen aber bei weitem nicht das grösste Problem zu sein.
 
 Der einfachere Teil für die Gleichberechtigung scheint also auf gutem Weg zu sein. Doch die Lösung für das wahrscheinlich grössere Problem, Vorurteile gegen Frauen am Arbeitsplatz abzubauen, scheint schwieriger zu sein. Hier haben wir noch viel Arbeit vor uns.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
