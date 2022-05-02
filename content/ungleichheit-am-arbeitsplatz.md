@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-05-03T03:00:00Z
 description = "Leider werden bei uns nicht alle Angestellten gleichbehandelt."
-draft = true
 fdw = false
 hero_img = "/v1651480815/nicola-styles-K-x1SLlqFyo-unsplash_ytppdb.jpg"
 img_description = "Frauen in der Geschäftsführung"
