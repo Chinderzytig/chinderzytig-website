@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-05-05T04:00:00Z
 description = "Menschenrechtsverletzung an der Fussballweltmeisterschaft"
-draft = true
 fdw = false
 hero_img = "/v1651494887/ben-koorengevel-CVg55UB571Y-unsplash_ocwxjg.jpg"
 img_description = "Fussballstadion in Freiburg"
@@ -58,3 +57,9 @@ Auf die Situation in Katar wollte auch die deutsche Nationalmannschaft aufmerksa
 <li>**Boykott / boykottieren:** Mit einem Boykott möchte man zeigen, dass man mit bestimmten Verhaltensweisen von Personen, Firmen oder auch Regierungen nicht einverstanden ist. Indem man sie nicht beachtet, möchte man sie zum Umdenken bewegen oder auch bestrafen. Es handelt sich also um ein geplantes Druckmittel, das eine Änderung erzwingen soll.</li>
 
 </ul> {{< /info-box >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
