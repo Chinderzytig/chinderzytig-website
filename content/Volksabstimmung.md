@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-05-10T04:00:00Z
 description = "Über die nächste Volksabstimmung der Shweiz"
-draft = true
 fdw = false
 hero_img = "/v1652083867/arnaud-jaegers-IBWJsMObnnU-unsplash_zlhklt.jpg"
 img_description = "Bürgen stimmen ab"
