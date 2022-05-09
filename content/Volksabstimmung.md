@@ -92,3 +92,9 @@ Bei dieser Vorlage wird nun darüber abgestimmt, ob die Schweiz mehr Geld und Pe
 * Es muss sehr viel Geld an Frontex bezahlt werden. Weil die Schweiz aber kein Mitglied der EU ist, kann sie trotzdem nicht gleich mitbestimmen bei Frontex
 * Frontex bekommt mehr Geld und kann damit zum Beispiel Waffen für Gewalt kaufen
 * Frontex hält oft die Grundrechte der Menschen an den Aussengrenzen nicht ein
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
