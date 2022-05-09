@@ -21,6 +21,18 @@ title = "Strassenmagazin Surprise "
 +++
 _Mit dem Strassenmagazin Surprise und weiteren sozialen Projekten werden sozial benachteiligte Menschen in der Schweiz unterstützt. Dabei fördert der Verein Surprise auch die soziale Gerechtigkeit und die gesellschaftliche Vielfalt._
 
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Seit 2012 erscheint alle 14 Tage eine neue Ausgabe des Magazins „Surprise“</li>
+
+<li>Der Verein unterstützt sozial benachteiligte Menschen mit verschiedenen Angeboten.</li>
+
+</ul> {{< /info-box >}}
+
 ### Die Geschichte des Vereins Surprise
 
 1998 wurde der Verein „Strassenmagazin Surprise“ gegründet. Im Jahr 2012 wurde er dann in „Verein Surprise“ umbenannt. Seit 2003 erscheint alle 14 Tage ein neues Heft, welches von sozial benachteiligten Menschen auf den Strassen in der ganzen Schweiz verkauft wird. Ebenfalls im Jahr 2003 hat der Verein angefangen, Strassenfussball-Turniere durchzuführen. In der Zwischenzeit ist der Verein sogar Partner des Homeless World Cup. 2009 wurde der Surprise Strassenchor gegründet. 2014 wurde zuletzt noch das Café Surprise ins Leben gerufen. Betriebe, welche dort mitmachen, offerieren mit Hilfe ihrer Gäste armutsbetroffenen Menschen Gratiskaffee.
@@ -45,7 +57,7 @@ Sport fördert die Gesundheit, Teamgeist, Konfliktfähigkeit und das Selbstvertr
 
 * Strassenchor
 
-Der Chor ist für die Verkäufer*innen des Strassenmagazins und Menschen aus anderen Organisationen da. Das regelmässige Proben und die öffentlichen Konzerte geben den Sänger*innen neue Perspektiven und Selbstvertrauen.
+Der Chor ist für die Verkäufer_innen des Strassenmagazins und Menschen aus anderen Organisationen da. Das regelmässige Proben und die öffentlichen Konzerte geben den Sänger_innen neue Perspektiven und Selbstvertrauen.
 
 * Café Surprise
 
