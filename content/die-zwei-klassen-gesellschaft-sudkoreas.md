@@ -23,6 +23,20 @@ _Südkorea ist ein Land mit vielen guten Seiten. Das Land hat weltweit die meist
 
 _Südkorea hat etwa 50 Millionen Einwohnerinnen und Einwohner und der Graben zwischen Arm und Reich wird immer grösser._
 
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Südkorea hat sich in sehr schnellem Tempo zu einer der grössten Volkswirtschaften der Welt entwickelt. Dabei wurde aber die Mehrheit der Menschen zurückgelassen.</li>
+
+<li>Die Familien, welche im Besitz der grossen Unternehmen des Landes sind, beeinflussen alle Facetten des Lebens in Südkorea. Diese werden Chaebol genannt.</li>
+
+<li>Der Unterschied zwischen Arm und Reich wird aber nicht nur Südkorea, sondern auf der ganzen Welt grösser.</li>
+
+</ul> {{< /info-box >}}
+
 Die Arbeiterklasse des Landes hat es nicht leicht. In Südkorea gelten lange Arbeitszeiten, ein harter Wettbewerb und eine hohe Armutsquote. Viele haben ungeregelte Arbeitsverhältnisse und Arbeitslose und Menschen, die Hilfe brauchen, haben nur ein schwaches Sozialsystem zu ihrer Unterstützung. Doch wie ist es in diesem Land so weit gekommen?
 
 ### Südkorea, der Tigerstaat
