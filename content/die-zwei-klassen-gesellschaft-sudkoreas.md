@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220517_Su%CC%88dkorea_AM_rwazp6"
 artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
 cc_src = ""
 date = 2022-05-17T04:00:00Z
 description = "Das Land zwischen Arm und Reich"
-draft = true
 fdw = false
 hero_img = "/v1652681432/daniel-bernard-qjsmpf0aO48-unsplash_wie2og.jpg"
 img_description = "Koreanische Flagge"
@@ -50,3 +49,9 @@ Aus der Politik Südkoreas kamen einige sehr grosse und heute bekannte Unternehm
 ### Nicht nur Südkorea
 
 Ob sich an diesem Unterscheid zwischen der reichen Minderheit und der armen Mehrheit etwas ändern wird, bleibt abzuwarten. Denn nicht nur Südkorea kämpft mit solchen sozialen Problemen. In vielen reichen Ländern vergrössert sich der Unterschied zwischen Arm und Reich. Somit kann man hier nicht von einem südkoreanischen Problem reden. Sondern von einer weltweiten Entwicklung. Südkorea scheint anderen Ländern nur etwas voraus zu sein.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
