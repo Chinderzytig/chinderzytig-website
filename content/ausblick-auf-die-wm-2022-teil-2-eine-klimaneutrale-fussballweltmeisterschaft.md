@@ -9,11 +9,11 @@ description = "Über eine klimaneutrale Fussballweltmeisterschaft"
 draft = true
 fdw = false
 hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
-kategorien = []
-markierungen = []
+img_description = "Fussballstadion"
+img_photographer = " Vienna Reyes"
+img_src = "https://unsplash.com/photos/qCrKTET_09o"
+kategorien = ["Welt"]
+markierungen = ["Sport", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Ausblick auf die WM 2022 – Teil 2 Eine klimaneutrale Fussballweltmeisterschaft?"
@@ -27,17 +27,17 @@ _Stadien und Hotels wurden in den letzten Jahren im Wüstenstaat Katar aus dem B
 
 <ul>
 
-<li>Die Weltmeisterschaft in Katar soll das erste **klimaneutrale** internationale Fussballturnier werden.</li>
+<li>Die Weltmeisterschaft in Katar soll das erste klimaneutrale internationale Fussballturnier werden.</li>
 
 <li>Die Klimastrategie der Fifa wird von Experten und Expertinnen angezweifelt.</li>
 
-<li>Die Hin- und Rückreise an die WM der Fussballfans verursache am meisten **Emissionen**.</li>
+<li>Die Hin- und Rückreise an die WM der Fussballfans verursache am meisten {{< fremdwort id="Emissionen" wort="Emissionen" >}}</li>
 
 </ul> {{< /info-box >}}
 
 ### Klimaneutralität
 
-Heutzutage treten Dürren, Hitzewellen, starke Regenfälle, Überschwemmungen und Erdrutsche immer häufiger auf. Nicht nur einzelne Regionen, sondern die ganze Welt ist davon betroffen. Es sind die Folgen des Klimawandels. Um zu verhindern, dass sich das Klima weiterhin so rasch verändert, wurden Massnahmen ergriffen. Bis ins Jahr 2050 sollen Länder die sogenannte Klimaneutralität erreichen. Aktivitäten sind klimaneutral, wenn sie keine **Emissionen** verursachen und das Klima nicht belasten. Es ist auch möglich, Emissionen, die nicht ganz vermieden werden können, mit Massnahmen für den Klimaschutz zu **kompensieren.**
+Heutzutage treten Dürren, Hitzewellen, starke Regenfälle, Überschwemmungen und Erdrutsche immer häufiger auf. Nicht nur einzelne Regionen, sondern die ganze Welt ist davon betroffen. Es sind die Folgen des Klimawandels. Um zu verhindern, dass sich das Klima weiterhin so rasch verändert, wurden Massnahmen ergriffen. Bis ins Jahr 2050 sollen Länder die sogenannte Klimaneutralität erreichen. Aktivitäten sind klimaneutral, wenn sie keine **Emissionen** verursachen und das Klima nicht belasten. Es ist auch möglich, Emissionen, die nicht ganz vermieden werden können, mit Massnahmen für den Klimaschutz zu {{< fremdwort id="kompensieren" wort="kompensieren" >}}.
 
 Es spielt keine Rolle, wo auf der Welt die Emissionen verursacht werden und wo sie in die Luft gelangen. Wichtig ist, dass die Summe der Emissionen weltweit abnimmt.
 
@@ -53,11 +53,9 @@ Die Stadien in Katar liegen sehr nahe beieinander und können von den Fussballfa
 
 Martin Müller, Professor für Geografie an der Universität in Lausanne, hat die Klimastrategie der Fifa untersucht. 3.6 Millionen Tonnen **CO2** würden für die Fussballweltmeisterschaft ausgestossen. Laut Müller sei dies mehr, als manche Länder im Jahr ausstossen.
 
-Glossar
+{{< definition id="Emissionen" wort="Emissionen" def="Treiben die globale Erwärmung an. Es handelt sich dabei um Teilchen, Stoffe oder Strahlung, die in die Atmosphäre freigesetzt werden. Es gibt Emissionen aus der Natur, wie beispielsweise Russ aus Vulkanausbrüchen oder CO₂ aus Waldbränden. Es gibt aber auch Emissionen, die von Menschen verursacht werden. Diese entstehen zum Beispiel durch Verkehr, Wärme- und Stromerzeugung oder Methangas aus der Tierhaltung." >}}
 
-**Emissionen:** Treiben die globale Erwärmung an. Es handelt sich dabei um Teilchen, Stoffe oder Strahlung, die in die Atmosphäre freigesetzt werden. Es gibt Emissionen aus der Natur, wie beispielsweise Russ aus Vulkanausbrüchen oder CO₂ aus Waldbränden. Es gibt aber auch Emissionen, die von Menschen verursacht werden. Diese entstehen zum Beispiel durch Verkehr, Wärme- und Stromerzeugung oder Methangas aus der Tierhaltung.
-
-**Kompensieren:** ausgleichen, durch Gegenwirkung aufheben
+{{< definition id="kompensieren" wort="kompensieren" def="ausgleichen, durch Gegenwirkung aufheben" >}}
 
 **Fossile Brennstoffe:** Erdöl, Erdgas, Kohle, Ölschiefer haben sich über Millionen von Jahren aus abgestorbenem, organischem Material, also Tieren und Pflanzen, gebildet. Da sich fossile Energien sehr langsam entwickeln, werden sie zu den nichterneuerbaren Energien gezählt.
 
