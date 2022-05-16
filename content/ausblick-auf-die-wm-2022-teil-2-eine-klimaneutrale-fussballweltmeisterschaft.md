@@ -1,16 +1,15 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220519_Ausblick_WM_Nachhaltigkeit_AM_ixuf0s"
 artikel = true
 author = "Fiona Häberli"
 cc_licence = ""
 cc_src = ""
 date = 2022-05-19T04:00:00Z
 description = "Über eine klimaneutrale Fussballweltmeisterschaft"
-draft = true
 fdw = false
 hero_img = "/v1652683372/vienna-reyes-qCrKTET_09o-unsplash_mlnfop.jpg"
 img_description = "Fussballstadion"
-img_photographer = " Vienna Reyes"
+img_photographer = "Vienna Reyes"
 img_src = "https://unsplash.com/photos/qCrKTET_09o"
 kategorien = ["Welt"]
 markierungen = ["Natur", "Sport", "Gesellschaft"]
@@ -60,3 +59,9 @@ Martin Müller, Professor für Geografie an der Universität in Lausanne, hat di
 {{< definition id="fossilen Brennstoffen" wort="fossilen Brennstoffen" def="aErdöl, Erdgas, Kohle, Ölschiefer haben sich über Millionen von Jahren aus abgestorbenem, organischem Material, also Tieren und Pflanzen, gebildet. Da sich fossile Energien sehr langsam entwickeln, werden sie zu den nichterneuerbaren Energien gezählt." >}}
 
 {{< definition id="CO2" wort="CO2" def="ist die Abkürzung für das Gas Kohlenstoffdioxid. Es besteht aus Kohlenstoff und Sauerstoff. Man kann pures CO2 nicht sehen und nicht riechen, denn es ist farb- und geruchlos. Kohlenstoffdioxid ist von Natur aus in der Luft enthalten. Wenn wir das Licht anknipsen, die Heizung aufdrehen, den Kamin anzünden oder mit dem Auto fahren, gelangt zusätzliches Kohlendioxid in die Atmosphäre. Zu viel CO2 in der Luft ist schlecht für das Klima." >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
