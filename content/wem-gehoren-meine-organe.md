@@ -5,7 +5,7 @@ author = "Nicole Emch"
 cc_licence = ""
 cc_src = ""
 date = 2022-05-18T04:00:00Z
-description = "EinBericht über Organspende"
+description = "Ein Bericht über Organspende"
 fdw = true
 hero_img = "/v1652684279/robina-weermeijer-z8_-Fmfz06c-unsplash_zrsuqq.jpg"
 img_description = "Menschliches Organ"
@@ -15,7 +15,7 @@ kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "Wem gehören meine Organe? ("
+title = "Wem gehören meine Organe?"
 
 +++
 _Am Sonntag, 15.05.2022 hat die Schweizer Stimmbevölkerung der Änderung des Transplantationsgesetzes zugestimmt. Neu gilt für die Organspende in der Schweiz die sogenannte «erweiterte Widerspruchslösung». Ein sehr nüchterner Begriff für ein emotionales Thema. Doch was bedeutet das nun? Und wen betrifft diese Gesetzesänderung?_
