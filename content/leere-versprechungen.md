@@ -8,7 +8,7 @@ date = 2022-05-26T04:00:00Z
 description = "Die Situation der Mädchen und Frauen im Taliban"
 draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1653312104/wanman-uthmaniyyah-siqVxhm93SA-unsplash_1_mwqf7r.jpg"
 img_description = "Afghanische Frauen mit Kinder"
 img_photographer = " Wanman Uthmaniyyah"
 img_src = "https://unsplash.com/photos/siqVxhm93SA"
@@ -20,6 +20,20 @@ title = "Leere Versprechungen "
 
 +++
 _Und es waren doch nur leere Versprechungen. Dass sich die Situation für die Frauen und Mädchen nicht verschlechtern würde, sagten die Taliban. Das war im vergangenen August, als die Taliban in Afghanistan wieder die Macht übernahmen. Leider sieht die Situation heute bereits ganz anders aus._
+
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Seit August 2021 sind in Afghanistan wieder die Taliban an der Macht.</li>
+
+<li>Die Taliban regieren nach sehr strengen und harten Gesetzen. Frauen haben viel weniger Rechte als Männer.</li>
+
+<li>Frauen müssen sich verschleiern und dürfen nicht mehr ohne Mann reisen. Mädchen dürfen nur noch bis zur 6. Klasse in die Schule gehen.</li>
+
+</ul> {{< /info-box >}}
 
 Viele haben es befürchtet. Wenn die Taliban wieder an die Macht kommen, führen sie wieder die Gesetze ein, die vor allem die Rechte von Frauen und Mädchen einschränken. Schrittweise kommen immer mehr Einschränkungen dazu. Seit Anfang Mai müssen die Frauen wieder ihren ganzen Körper verschleiern. Nur die Augen darf man noch sehen. Zudem dürfen die Kleider nicht enganliegend sein. Die Taliban „empfehlen“ den Frauen deshalb, dass sie die Burka tragen. Die Burka ist ein Ganzkörper-Schleier, bei dem sogar die Augen noch mit einem Netz bedeckt sind. In Afghanistan ist die Burka oft hellblau.
 
