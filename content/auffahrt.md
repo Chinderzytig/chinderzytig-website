@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220524_Auffahrt_AM_mhurd9"
 artikel = true
 author = ""
 cc_licence = ""
@@ -19,3 +19,9 @@ slug = ""
 title = "Auffahrt"
 
 +++
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
