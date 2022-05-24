@@ -38,36 +38,35 @@ Die Vereine werden in 2 Gruppen aufgeteilt:
 
 Damit kommen alle Vereine auf insgesamt 32 Partien Fussball, bevor es in die nächste Phase geht.
 
-**3. Phase  
-**Hier wird es nun etwas komplizierter. Die beiden erstplatzierten Vereine der Championsship Group aus der 2. Phase treten in 3 Spielen im Playoffsystem gegeneinander an, wobei der Sieger der Championship Group 2x ein Heimspiel und 1x ein Auswärtsspiel hat. In diesen Partien ist ein Sieg zwingend notwendig und wird, falls nötig, in der Verlängerung bzw. mit Elfmeterschiessen ausgetragen. In diesen Playoffspielen wird der Schweizer Meister ermittelt.
+**3. Phase**  
+Hier wird es nun etwas komplizierter. Die beiden erstplatzierten Vereine der Championsship Group aus der 2. Phase treten in 3 Spielen im Playoffsystem gegeneinander an, wobei der Sieger der Championship Group 2x ein Heimspiel und 1x ein Auswärtsspiel hat. In diesen Partien ist ein Sieg zwingend notwendig und wird, falls nötig, in der Verlängerung bzw. mit Elfmeterschiessen ausgetragen. In diesen Playoffspielen wird der Schweizer Meister ermittelt.
 
 Die 8 Vereine auf den Rängen 3-6 der Championship Group und 1-4 der Qualification Group, treten in drei Runden (Viertelfinal, Halbfinal und Final) gegeneinander an. Im Viertelfinal und dem Halbfinal gibt es je ein Heim- und Auswärtsspiel. Im Final gib es dann nur noch ein einziges Spiel, welches über den Drittplatzierten der Schweizer Meisterschaft entscheidet. Im Viertelfinal und Halbfinal spielt jeweils der am schlechtesten platzierte Verein gegen den am besten platzierten Verein.
 
 In dieser letzten Phase der Playoffs werden auch die Plätze für die Champions League und den Europa Cup verteilt.
 
-Auf- und Abstieg der Vereine
+### Auf- und Abstieg der Vereine
 
 Die beiden bestplatzierten Vereine der Challenge League der Saison 21/22 steigen direkt auf in die Superleague. Einen Absteiger gibt es diese Saison nicht.
 
 Danach wird jeweils der letzte Verein Super League direkt in die Challenge League absteigen und der beste Verein der Challenge League in die Super League aufsteigen. Der zweitletzte Verein der Super League tritt in einem sogenannten Barragespiel gegen den zweitbesten Verein der Challenge League an, wobei der letzte der 12 Plätze in der Super League ermittelt wird.
 
-Chancen und Kritiken
+### Chancen und Kritiken
 
 Die Meinungen der Fans und Vereine über den Modusänderung sind geteilt. Wobei die einen sagen, der Sport wird dadurch interessanter, attraktiver und innovativ, wobei andere Abstriche bei der Fairness und der Sicherheit im Stadion befürchten. Gegen den Modusänderung ausgeprochen haben sich die Vereine YB, FC Zürich, FC Luzern und der FC Thun. Alle anderen 16 vertretenen Vereine haben dafür gestimmt.
 
-Chancen
+### Chancen
 
-\- Attraktivität: der Modus soll laut der Swiss Football League verhindern, dass es eine zu starke Dominanz eines einzelnen Vereins gibt (wie es jahrelang mit YB und FCB der Fall war).
+* Attraktivität: der Modus soll laut der Swiss Football League verhindern, dass es eine zu starke Dominanz eines einzelnen Vereins gibt (wie es jahrelang mit YB und FCB der Fall war).
+* Spannung: mit der Aufstockung von 10 auf 12 Teams wird die Saison unter den schwächeren Teams interessanter.
 
-\- Spannung: mit der Aufstockung von 10 auf 12 Teams wird die Saison unter den schwächeren Teams interessanter.
+### Risiken
 
-Risiken
+Finanzen: weil es 2 Vereine mehr in der Super League gibt, befürchten die Vereine, weniger TV-Gelder zu kassieren.
 
-\- Finanzen: weil es 2 Vereine mehr in der Super League gibt, befürchten die Vereine, weniger TV-Gelder zu kassieren.
+* Sicherheit: es gibt mehr Hochrisiko-Spiele kurz aufeinander (in den Playoffs). Es gibt Bedenken, dass die Spiele nur mit hohen Kosten für Sicherheitspersonal und -einrichtung bewilligt werden.
 
-\- Sicherheit: es gibt mehr Hochrisiko-Spiele kurz aufeinander (in den Playoffs). Es gibt Bedenken, dass die Spiele nur mit hohen Kosten für Sicherheitspersonal und -einrichtung bewilligt werden.
-
-Nun bist du dran
+### Nun bist du dran
 
 Was denkst du über die Modusänderung im Schweizer Fussball? Bist du einverstanden? Wenn ja, wieso? Wenn nein, wieso nicht?
 
