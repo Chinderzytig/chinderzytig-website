@@ -55,12 +55,12 @@ Danach wird jeweils der letzte Verein Super League direkt in die Challenge Leagu
 
 Die Meinungen der Fans und Vereine über den Modusänderung sind geteilt. Wobei die einen sagen, der Sport wird dadurch interessanter, attraktiver und innovativ, wobei andere Abstriche bei der Fairness und der Sicherheit im Stadion befürchten. Gegen den Modusänderung ausgeprochen haben sich die Vereine YB, FC Zürich, FC Luzern und der FC Thun. Alle anderen 16 vertretenen Vereine haben dafür gestimmt.
 
-### Chancen
+**Chancen**
 
 * Attraktivität: der Modus soll laut der Swiss Football League verhindern, dass es eine zu starke Dominanz eines einzelnen Vereins gibt (wie es jahrelang mit YB und FCB der Fall war).
 * Spannung: mit der Aufstockung von 10 auf 12 Teams wird die Saison unter den schwächeren Teams interessanter.
 
-### Risiken
+**Risiken**
 
 Finanzen: weil es 2 Vereine mehr in der Super League gibt, befürchten die Vereine, weniger TV-Gelder zu kassieren.
 
