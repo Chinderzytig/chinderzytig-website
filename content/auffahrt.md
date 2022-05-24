@@ -21,6 +21,20 @@ title = "Warum haben wir an Auffahrt frei? "
 +++
 _An dem verlängerten Auffahrtswochenende mit der Familie wegfahren oder mit Freunden und Freundinnen abmachen. Dies ist schön und gut. Aber was wird da eigentlich genau gefeiert?_
 
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Auffahrt ist ein christlicher Feiertag, der in der Schweiz gesetzlich verankert ist.</li>
+
+<li>Immer 40 Tage nach Ostern wird die Rückkehr von Jesus Christus in den Himmel gefeiert. Deshalb wird der Feiertag auch „Christi Himmelfahrt“ genannt.</li>
+
+<li>Diese Jahr ist Auffahrt am Donnerstag, 26. Mai.</li>
+
+</ul> {{< /info-box >}}
+
 Auffahrt ist in der Schweiz ein gesetzlicher Feiertag. Das heisst, alle Schulen, Geschäfte und Firmen müssen einen Ruhetag machen. Auch in Deutschland, Österreich und vielen anderen Ländern wird an Auffahrt freigemacht. Der Feiertag wird oft auch „Christi Himmelfahrt“ genannt.
 
 Christ Himmelfahrt wird jedes Jahr 40 Tage nach Ostern gefeiert. Deshalb findet dieser Feiertag immer an einem Donnerstag, aber nicht immer am gleichen Datum statt. Dieses Jahr wird Auffahrt am **Donnerstag, 26. Mai** sein.
