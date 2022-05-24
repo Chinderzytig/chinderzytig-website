@@ -1,19 +1,19 @@
 +++
 arbeitsmaterial = "20220524_Auffahrt_AM_mhurd9"
 artikel = true
-author = ""
+author = "Anna Deppeler"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2022-05-24T04:00:00Z
+description = "Warum qir an Auffahrt frei haben"
 draft = true
 fdw = false
 hero_img = ""
 img_description = ""
 img_photographer = ""
 img_src = ""
-kategorien = []
-markierungen = []
+kategorien = ["Europa"]
+markierungen = ["Gesellschaft", "Kultur"]
 paid = false
 slug = ""
 title = "Warum haben wir an Auffahrt frei? "
