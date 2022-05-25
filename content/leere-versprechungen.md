@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-05-26T04:00:00Z
 description = "Die Situation der Mädchen und Frauen im Taliban"
-draft = true
 fdw = false
 hero_img = "/v1653312104/wanman-uthmaniyyah-siqVxhm93SA-unsplash_1_mwqf7r.jpg"
 img_description = "Afghanische Frauen mit Kinder"
