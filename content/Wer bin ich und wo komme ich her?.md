@@ -1,22 +1,22 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = ""
+author = "Nicole Emch"
 cc_licence = ""
 cc_src = ""
-date = ""
-description = ""
+date = 2022-06-02T04:00:00Z
+description = "Die Suche nach seinen Wurzeln"
 draft = true
 fdw = false
 hero_img = ""
 img_description = ""
 img_photographer = ""
 img_src = ""
-kategorien = []
-markierungen = []
+kategorien = ["Welt"]
+markierungen = ["Kultur", "Gesellschaft"]
 paid = false
 slug = ""
-title = ""
+title = "Wer bin ich und wo komme ich her? "
 
 +++
 _Zum Erwachsenwerden gehört auch dazu, sich selbst zu finden. Wer bin ich, was kann ich, wohin will ich? Um diese Fragen zu beantworten ist es wichtig zu wissen, woher man kommt. Und genau das wissen Hunderte von Erwachsenen nicht, die als Kind illegal aus Sri Lanka in die Schweiz adoptiert wurden. Der Bund will Ihnen nun bei der Suche nach ihren Wurzeln helfen._
