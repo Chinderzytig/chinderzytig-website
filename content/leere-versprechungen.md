@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220526_Leere_Versprechungen_AM_iem8nc"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
@@ -51,3 +51,9 @@ Auch hier hiess es zuerst, es gäbe keine Einschränkungen. Mädchen dürften we
 Warum nur haben in den Augen der Taliban die Frauen viel weniger Rechte als Männer? Die Taliban begründen dies mit ihrer Religion, dem Islam. Sie sagen, die islamischen Regeln seien das wichtigste und müssten befolgt werden. Allerdings legen sie diese Regeln sehr streng aus. Denn in anderen, ebenfalls islamischen Ländern, ist die Ungleichbehandlung der Frauen und Männer, resp. der Mädchen und Jungen viel weniger extrem als in Afghanistan.
 
 Für alle Mädchen und Frauen in Afghanistan können wir also nur hoffen, dass sich die offeneren Gruppierungen der Taliban durchsetzen und dass nicht noch mehr Einschränkungen dazukommen werden.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
