@@ -18,7 +18,7 @@ slug = ""
 title = "Pride Month  "
 
 +++
-_Der Monat Juni wird jedes Jahr besonders bunt: Regenbogenflaggen werden geschwungen und Regenbogenmotive werden aufs Gesicht geschminkt oder auf der Kleidung getragen. Paraden ziehen durch die Strassen und Protestaktionen werden organisiert. Im Juni findet der alljährliche **Pride-Month** statt. Weshalb dieser im Juni ist und welchen Zweck der Pride-Month hat, erfährst du im Artikel._
+_Der Monat Juni wird jedes Jahr besonders bunt: Regenbogenflaggen werden geschwungen und Regenbogenmotive werden aufs Gesicht geschminkt oder auf der Kleidung getragen. Paraden ziehen durch die Strassen und Protestaktionen werden organisiert. Im Juni findet der alljährliche_ {{< fremdwort id="**_Pride-Month_**" wort="**_Pride-Month_**" >}} _statt. Weshalb dieser im Juni ist und welchen Zweck der Pride-Month hat, erfährst du im Artikel._
 
 {{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
 
@@ -26,7 +26,7 @@ _Der Monat Juni wird jedes Jahr besonders bunt: Regenbogenflaggen werden geschwu
 
 <ul>
 
-<li>Die **Pride-Month**-Bewegung hat ihren Ursprung in den USA. **Homosexuelle** wurden immer wieder schikaniert. Im Jahr 1969 im Monat Juni wehrten sie sich während mehreren Tagen gegen die Polizei. Seitdem gilt der Juni in einigen Ländern der Welt als Pride-Month.</li>
+<li>Die **Pride-Month**-Bewegung hat ihren Ursprung in den USA. {{< fremdwort id="**Homosexuelle** " wort="**Homosexuelle** " >}} wurden immer wieder schikaniert. Im Jahr 1969 im Monat Juni wehrten sie sich während mehreren Tagen gegen die Polizei. Seitdem gilt der Juni in einigen Ländern der Welt als Pride-Month.</li>
 
 <li>Seit 27 Jahren findet das Pridefestival in Zürich statt. Es ist Teil des Pride-Month. Es soll auf die Rechte der **LGBTIQ+** aufmerksam gemacht werden. Dazu gehören auch die sogenannten Pride-Weeks, in welchen verschiedene Freizeitangebote rund um LGBTIQ+ gemacht werden.</li>
 
@@ -45,3 +45,7 @@ Am 28. Juni 1969 führte die Polizei eine Kontrolle in einer Bar namens Stonewal
 Seit 1994 wird das „Zurich Pride Festival“ durchgeführt. An diesem Tag soll ganz besonders auf die Rechte der LGBTIQ+ aufmerksam gemacht werden und gegen deren Diskriminierung gekämpft werden. Neben einem friedlichen Demonstrationsumzug durch die Stadt Zürich werden Partys gefeiert und Konzerte veranstaltet. Das Pride Festival dauert zwei Tage und Personen mit allen sexuellen Orientierungen und Identitäten sind willkommen.
 
 Der Pride Month umfasst jedoch noch mehr: In den Wochen vor dem Festival werden verschiedene Aktivitäten im Namen der LGBTIQ+ angeboten. So gibt es beispielsweise Pride-Gebete, eine Pride-Wanderung, ein Pride-Workout, Pride-Spaziergänge- und Joggingrunden und Infoveranstaltungen statt. Zudem machen verschieden Firmen auf die LGBTIQ+ aufmerksam. Sie organisieren für ihre Mitarbeiterinnen und Mitarbeiter Workshops und weisen damit auf die immer noch anhaltende Diskriminierung der LGBTIQ+ hin.
+
+{{< definition id="**_Pride-Month_**" wort="**_Pride-Month_**" def="· Stammt aus dem Englischen und kann als Monat des Stolzes übersetzt werden." >}}
+
+{{< definition id="**Homosexuelle** " wort="**Homosexuelle** " def="· Bezeichnet gleichgeschlechtliches sexuelles Verhalten. Homosexualität bedeutet beispielweise, dass ein [Mann](https://klexikon.zum.de/wiki/Mann "Mann") und ein Mann sich lieben, oder eine [Frau](https://klexikon.zum.de/wiki/Frau "Frau") und eine Frau. Das Gegenteil ist Heterosexualität: Dabei lieben sich eine Frau und ein Mann. Männer, die sich zu Männern hingezogen fühlen, nennt man auch Schwule. Frauen, die sich zu Frauen hingezogen fühlen, werden als Lesben bezeichnet." >}}
