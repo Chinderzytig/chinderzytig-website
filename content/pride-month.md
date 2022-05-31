@@ -28,7 +28,7 @@ _Der Monat Juni wird jedes Jahr besonders bunt: Regenbogenflaggen werden geschwu
 
 <li>Die **Pride-Month**-Bewegung hat ihren Ursprung in den USA. {{< fremdwort id="**Homosexuelle** " wort="**Homosexuelle** " >}} wurden immer wieder schikaniert. Im Jahr 1969 im Monat Juni wehrten sie sich während mehreren Tagen gegen die Polizei. Seitdem gilt der Juni in einigen Ländern der Welt als Pride-Month.</li>
 
-<li>Seit 27 Jahren findet das Pridefestival in Zürich statt. Es ist Teil des Pride-Month. Es soll auf die Rechte der **LGBTIQ+** aufmerksam gemacht werden. Dazu gehören auch die sogenannten Pride-Weeks, in welchen verschiedene Freizeitangebote rund um LGBTIQ+ gemacht werden.</li>
+<li>Seit 27 Jahren findet das Pridefestival in Zürich statt. Es ist Teil des Pride-Month. Es soll auf die Rechte der {{< fremdwort id="**LGBTIQ+**" wort="**LGBTIQ+**" >}} aufmerksam gemacht werden. Dazu gehören auch die sogenannten Pride-Weeks, in welchen verschiedene Freizeitangebote rund um LGBTIQ+ gemacht werden.</li>
 
 </ul> {{< /info-box >}}
 
@@ -49,3 +49,5 @@ Der Pride Month umfasst jedoch noch mehr: In den Wochen vor dem Festival werden 
 {{< definition id="**_Pride-Month_**" wort="**_Pride-Month_**" def="· Stammt aus dem Englischen und kann als Monat des Stolzes übersetzt werden." >}}
 
 {{< definition id="**Homosexuelle** " wort="**Homosexuelle** " def="· Bezeichnet gleichgeschlechtliches sexuelles Verhalten. Homosexualität bedeutet beispielweise, dass ein [Mann](https://klexikon.zum.de/wiki/Mann "Mann") und ein Mann sich lieben, oder eine [Frau](https://klexikon.zum.de/wiki/Frau "Frau") und eine Frau. Das Gegenteil ist Heterosexualität: Dabei lieben sich eine Frau und ein Mann. Männer, die sich zu Männern hingezogen fühlen, nennt man auch Schwule. Frauen, die sich zu Frauen hingezogen fühlen, werden als Lesben bezeichnet." >}}
+
+{{< definition id="**LGBTIQ+**" wort="**LGBTIQ+**" def="· Steht als Abkürzung für diese Begriffe: L = lesbisch, G = gay (das englische Wort für schwul), B = bi, T = trans, I = intergeschlechtlich, Q = queer. Das Plus steht für weitere Sexualitäten." >}}
