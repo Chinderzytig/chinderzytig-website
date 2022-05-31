@@ -21,6 +21,18 @@ title = "Pride Month  "
 +++
 _Der Monat Juni wird jedes Jahr besonders bunt: Regenbogenflaggen werden geschwungen und Regenbogenmotive werden aufs Gesicht geschminkt oder auf der Kleidung getragen. Paraden ziehen durch die Strassen und Protestaktionen werden organisiert. Im Juni findet der alljährliche **Pride-Month** statt. Weshalb dieser im Juni ist und welchen Zweck der Pride-Month hat, erfährst du im Artikel._
 
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Die **Pride-Month**-Bewegung hat ihren Ursprung in den USA. **Homosexuelle** wurden immer wieder schikaniert. Im Jahr 1969 im Monat Juni wehrten sie sich während mehreren Tagen gegen die Polizei. Seitdem gilt der Juni in einigen Ländern der Welt als Pride-Month.</li>
+
+<li>Seit 27 Jahren findet das Pridefestival in Zürich statt. Es ist Teil des Pride-Month. Es soll auf die Rechte der **LGBTIQ+** aufmerksam gemacht werden. Dazu gehören auch die sogenannten Pride-Weeks, in welchen verschiedene Freizeitangebote rund um LGBTIQ+ gemacht werden.</li>
+
+</ul> {{< /info-box >}}
+
 ### So ist der Pride-Month entstanden
 
 "Pride" ist Englisch und bedeutet Stolz. Damit soll ausgedrückt werden, dass egal welche sexuelle Identität und sexuelle Orientierung Menschen haben, sie stolz auf sich sein können. Niemand braucht sich aufgrund der sexuellen Identität und Orientierung zu schämen oder zu verstecken.
