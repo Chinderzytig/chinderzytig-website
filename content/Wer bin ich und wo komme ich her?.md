@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220602_Herkunftssuche_AM_mj5nmz"
 artikel = true
 author = "Nicole Emch"
 cc_licence = ""
 cc_src = ""
 date = 2022-06-02T04:00:00Z
 description = "Die Suche nach seinen Wurzeln"
-draft = true
 fdw = false
 hero_img = "/v1653891920/larm-rmah-AEaTUnvneik-unsplash_luzgbe.jpg"
 img_description = "Kinder mit verschiedenen Herkunftswurzeln"
@@ -46,3 +45,9 @@ Viele der Menschen, die damals als Kinder in die Schweiz kamen, stellten sich mi
 ### Was sagt die offizielle Schweiz?
 
 Back to the Roots engagiert sich auch politisch. Sie weibeln für die Anliegen von Betroffenen, sorgen dafür, dass in der Schweiz etwas geht. Mit Erfolg wie sich letzte Woche gezeigt hat. Dass sich die Schweiz nicht richtig verhalten hat, dass viele Fehler begangen wurden, hatte schon eine Untersuchung der Zürcher Hochschule für angewandte Wissenschaften (ZHAW) im Jahr 2020 gezeigt. Damals folgte auch eine offizielle Entschuldigung der Schweiz. Bundesrätin Karin Keller-Sutter drückte den Betroffenen und ihren Familien ihr Bedauern aus. Am 16. Mai 2022 nun hat Keller-Sutter zusammen mit Sarah Ramani Ineichen, der Präsidentin von Back to the Roots und Fredy Fässler, dem Präsidenten der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren ein Abkommen unterzeichnet, das den Betroffenen Unterstützung bei der Herkunftssuche zusichert. In einem dreijährigen Pilotprojekt wird das Angebot von Back to the Roots, das Betroffene bei der Suche begleitet und berät, finanziell unterstützt. Es ist zu hoffen, dass diese Unterstützung Wirkung zeigt und mehr Betroffenen hilft, ihre Wurzeln zu finden. Die Chancen dafür stehen leider auch mit finanzieller Unterstützung nicht sehr hoch.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
