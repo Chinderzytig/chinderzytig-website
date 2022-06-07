@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-06-09T07:00:00Z
 description = "Warum Freunde wichtig sind und was sie bedeuten"
-draft = true
 fdw = false
 hero_img = "/v1654582984/melissa-askew-tSlvoSZK77c-unsplash_fvr0ld.jpg"
 img_description = "Beste Freundinnen"
