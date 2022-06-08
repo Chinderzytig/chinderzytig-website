@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220607_Queer_AM_eqsyv4"
 artikel = true
 author = "Anna Deppeler"
 cc_licence = ""
@@ -69,3 +69,9 @@ Pinguine haben öfters gleichgeschlechtliche Beziehungen. Das wohl berühmteste 
 Die Sonderausstellung im Naturhistorischen Museum in Bern mit dem Namen „Queer - Vielfalt ist unsere Natur“ ist ein voller Erfolg. Sie wurde sogar verlängert und kann noch bis am 19. März 2023 besucht werden. Bei der Ausstellung geht es um die vielfältigen Geschlechter bei Menschen und Tieren. Es wird auf die unterschiedlichen Formen der sexuellen Ausrichtung eingegangen.
 
 Auf einer Entdeckungsreise mit einem kleinen Expeditionsheft können Besucher*innen die eigene Identität erforschen. An spannenden Stationen können Fragebögen ausgefüllt, Videos angeschaut, Musik gehört und „queere“ Tiere kennengelernt werden.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
