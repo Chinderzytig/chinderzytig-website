@@ -6,6 +6,7 @@ cc_licence = ""
 cc_src = ""
 date = 2022-06-01T05:00:00Z
 description = "Weshalb dieser im Juni ist und welchen Zweck der Pride-Month hat, erfährst du im Artikel. "
+draft = true
 fdw = true
 hero_img = "/v1654009060/margaux-bellott-r5tmUSupJwA-unsplash_sk6qyy.jpg"
 img_description = "Paraden ziehen durch die Starssen"
