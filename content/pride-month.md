@@ -48,7 +48,7 @@ Der Pride Month umfasst jedoch noch mehr: In den Wochen vor dem Festival werden 
 
 {{< definition id="**_Pride-Month_**" wort="**_Pride-Month_**" def="· Stammt aus dem Englischen und kann als Monat des Stolzes übersetzt werden." >}}
 
-{{< definition id="**Homosexuelle** " wort="**Homosexuelle** " def="· Bezeichnet gleichgeschlechtliches sexuelles Verhalten. Homosexualität bedeutet beispielweise, dass ein [Mann](https://klexikon.zum.de/wiki/Mann "Mann") und ein Mann sich lieben, oder eine [Frau](https://klexikon.zum.de/wiki/Frau "Frau") und eine Frau. Das Gegenteil ist Heterosexualität: Dabei lieben sich eine Frau und ein Mann. Männer, die sich zu Männern hingezogen fühlen, nennt man auch Schwule. Frauen, die sich zu Frauen hingezogen fühlen, werden als Lesben bezeichnet." >}}
+{{< definition id="**Homosexuelle** " wort="**Homosexuelle** " def="· Bezeichnet gleichgeschlechtliches sexuelles Verhalten. Homosexualität bedeutet beispielweise, dass ein Mann und ein Mann sich lieben, oder eine Frau und eine Frau. Das Gegenteil ist Heterosexualität: Dabei lieben sich eine Frau und ein Mann. Männer, die sich zu Männern hingezogen fühlen, nennt man auch Schwule. Frauen, die sich zu Frauen hingezogen fühlen, werden als Lesben bezeichnet." >}}
 
 {{< definition id="**LGBTIQ+**" wort="**LGBTIQ+**" def="· Steht als Abkürzung für diese Begriffe: L = lesbisch, G = gay (das englische Wort für schwul), B = bi, T = trans, I = intergeschlechtlich, Q = queer. Das Plus steht für weitere Sexualitäten." >}}
 
