@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-06-01T05:00:00Z
 description = "Weshalb dieser im Juni ist und welchen Zweck der Pride-Month hat, erfährst du im Artikel. "
-draft = true
 fdw = true
 hero_img = "/v1654009060/margaux-bellott-r5tmUSupJwA-unsplash_sk6qyy.jpg"
 img_description = "Paraden ziehen durch die Starssen"
@@ -27,9 +26,9 @@ _Der Monat Juni wird jedes Jahr besonders bunt: Regenbogenflaggen werden geschwu
 
 <ul>
 
-<li>Die **Pride-Month**-Bewegung hat ihren Ursprung in den USA. {{< fremdwort id="**Homosexuelle** " wort="**Homosexuelle** " >}} wurden immer wieder schikaniert. Im Jahr 1969 im Monat Juni wehrten sie sich während mehreren Tagen gegen die Polizei. Seitdem gilt der Juni in einigen Ländern der Welt als Pride-Month.</li>
+<li>Die **Pride-Month**-Bewegung hat ihren Ursprung in den USA. {{< fremdwort id="Homosexuelle" wort="Homosexuelle" >}} wurden immer wieder schikaniert. Im Jahr 1969 im Monat Juni wehrten sie sich während mehreren Tagen gegen die Polizei. Seitdem gilt der Juni in einigen Ländern der Welt als Pride-Month.</li>
 
-<li>Seit 27 Jahren findet das Pridefestival in Zürich statt. Es ist Teil des Pride-Month. Es soll auf die Rechte der {{< fremdwort id="**LGBTIQ+**" wort="**LGBTIQ+**" >}} aufmerksam gemacht werden. Dazu gehören auch die sogenannten Pride-Weeks, in welchen verschiedene Freizeitangebote rund um LGBTIQ+ gemacht werden.</li>
+<li>Seit 27 Jahren findet das Pridefestival in Zürich statt. Es ist Teil des Pride-Month. Es soll auf die Rechte der {{< fremdwort id="LGBTIQ+" wort="LGBTIQ+" >}} aufmerksam gemacht werden. Dazu gehören auch die sogenannten Pride-Weeks, in welchen verschiedene Freizeitangebote rund um LGBTIQ+ gemacht werden.</li>
 
 </ul> {{< /info-box >}}
 
@@ -47,10 +46,10 @@ Seit 1994 wird das „Zurich Pride Festival“ durchgeführt. An diesem Tag soll
 
 Der Pride Month umfasst jedoch noch mehr: In den Wochen vor dem Festival werden verschiedene Aktivitäten im Namen der LGBTIQ+ angeboten. So gibt es beispielsweise Pride-Gebete, eine Pride-Wanderung, ein Pride-Workout, Pride-Spaziergänge- und Joggingrunden und Infoveranstaltungen statt. Zudem machen verschieden Firmen auf die LGBTIQ+ aufmerksam. Sie organisieren für ihre Mitarbeiterinnen und Mitarbeiter Workshops und weisen damit auf die immer noch anhaltende Diskriminierung der LGBTIQ+ hin.
 
-{{< definition id="**_Pride-Month_**" wort="**_Pride-Month_**" def="· Stammt aus dem Englischen und kann als Monat des Stolzes übersetzt werden." >}}
+{{< definition id="Pride-Month" wort="Pride-Month" def="· Stammt aus dem Englischen und kann als Monat des Stolzes übersetzt werden." >}}
 
-{{< definition id="**Homosexuelle** " wort="**Homosexuelle** " def="· Bezeichnet gleichgeschlechtliches sexuelles Verhalten. Homosexualität bedeutet beispielweise, dass ein Mann und ein Mann sich lieben, oder eine Frau und eine Frau. Das Gegenteil ist Heterosexualität: Dabei lieben sich eine Frau und ein Mann. Männer, die sich zu Männern hingezogen fühlen, nennt man auch Schwule. Frauen, die sich zu Frauen hingezogen fühlen, werden als Lesben bezeichnet." >}}
+{{< definition id="Homosexuelle" wort="Homosexuelle" def="· Bezeichnet gleichgeschlechtliches sexuelles Verhalten. Homosexualität bedeutet beispielweise, dass ein Mann und ein Mann sich lieben, oder eine Frau und eine Frau. Das Gegenteil ist Heterosexualität: Dabei lieben sich eine Frau und ein Mann. Männer, die sich zu Männern hingezogen fühlen, nennt man auch Schwule. Frauen, die sich zu Frauen hingezogen fühlen, werden als Lesben bezeichnet." >}}
 
-{{< definition id="**LGBTIQ+**" wort="**LGBTIQ+**" def="· Steht als Abkürzung für diese Begriffe: L = lesbisch, G = gay (das englische Wort für schwul), B = bi, T = trans, I = intergeschlechtlich, Q = queer. Das Plus steht für weitere Sexualitäten." >}}
+{{< definition id="LGBTIQ+" wort="LGBTIQ+" def="· Steht als Abkürzung für diese Begriffe: L = lesbisch, G = gay (das englische Wort für schwul), B = bi, T = trans, I = intergeschlechtlich, Q = queer. Das Plus steht für weitere Sexualitäten." >}}
 
-{{< definition id="**Gay Power**" wort="**Gay Power**" def="· Dieser Begriff stammt ebenfalls aus dem Englischen und bedeutet Schwulen- oder Homosexuellenpower" >}}
+{{< definition id="Gay Power" wort="Gay Power" def="· Dieser Begriff stammt ebenfalls aus dem Englischen und bedeutet Schwulen- oder Homosexuellenpower" >}}
