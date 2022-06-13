@@ -1,14 +1,13 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220616_Philosophieren_AM_l7vglm"
 artikel = true
 author = "Sarah Hutter"
 cc_licence = ""
 cc_src = ""
 date = 2022-06-16T04:00:00Z
 description = "Was philosophieren bedeutet"
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1655132567/giammarco-zeH-ljawHtg-unsplash_gvwrc8.jpg"
 img_description = "Philosopher"
 img_photographer = "Giammarco"
 img_src = "https://unsplash.com/photos/zeH-ljawHtg"
@@ -48,3 +47,9 @@ Die Philosophie gibt es schon sehr lange. Bereits die alten Griechen haben sich 
 Sokrates nennt man auch den „Vater der Philosophie“. Sein Schüler -Platon -lehrte die Philosophie an einer Schule, die er Akademie nannte. Dort lehrte Platon seinen Schüler Aristoteles, der dann auch wieder zu einem sehr berühmten Philosophen wurde.
 
 Ein weiterer berühmter Philosoph war René Descartes. René Descartes gilt als erster moderner Philosoph. Er hat sich viele Gedanken dazu gemacht, ob das, was wir sehen und hören, auch wirklich wahr ist. Er hat sich gefragt, ob wir wirklich leben oder ob wir alles nur träumen. Descartes hat aber herausgefunden, dass wir nicht nur träumen, weil wir selbst denken können. Sein berühmter Satz „Ich denke, also bin ich“ soll genau das sagen. Du siehst also, Philosophie kann ganz schön kompliziert sein und ist manchmal gar nicht so einfach zu verstehen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
