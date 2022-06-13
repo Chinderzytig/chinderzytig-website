@@ -30,8 +30,6 @@ _Sich zu bewegen und Sport zu machen ist anstrengend. Neben der Schule, der Fami
 
 <li>Auch der Gesundheit kommt ein Training zugute, denn es kann verschiedene Krankheiten vorbeugen.</li>
 
-<li>Es gibt auch „queere“ Tiere wie z.B. Schnecken oder Pinguine.</li>
-
 <li>Dem Geist hilft regelmässiger Sport auch. Man kann sich unter anderem besser konzentrieren und schlafen.</li>
 
 </ul> {{< /info-box >}}
