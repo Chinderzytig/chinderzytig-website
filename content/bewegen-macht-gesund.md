@@ -43,3 +43,9 @@ Regelmässige Bewegung hat offensichtliche Vorteile für den Körper. Wenn man s
 ### Der Geist
 
 Bewegung fördert eindeutig auch die Leistung des Gehirns. Wenn man sich bewegt, kann man sich besser konzentrieren, lernen und erinnern. Ein Grund dafür ist, dass das Gehirn bei Bewegung und Sport besser durchblutet und mit Sauerstoff versorgt wird. Dadurch wird es auch leistungsfähiger. Zudem hat sich gezeigt, dass ein regelmäßiges Trainieren vor dem Abbau der Fähigkeiten vom Gehirn schützt. Dies führt dazu, dass ältere Erwachsene, die im Laufe des Lebens aktiv bleiben, ein deutlich geringeres Risiko haben, kognitive Störungen wie Demenz und Alzheimer zu entwickeln. Schliesslich hat es sich auch gezeigt, dass regelmäßiges Trainieren eine positive Auswirkung auf unsere psychische Gesundheit hat. Man weiss zwar nicht genau wieso, aber es ist erwiesen, dass Bewegung beim Stressabbau hilft und einen guten Schlaf fördert. Also, sich zu bewegen lohnt sich.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
