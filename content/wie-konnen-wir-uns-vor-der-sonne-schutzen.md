@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-06-21T04:00:00Z
 description = "Sommer ist da, man muss die Haut schützen"
-draft = true
 fdw = false
 hero_img = "/v1655470973/dimitris-chapsoulas-0JZgnNL2N8s-unsplash_xtbooc.jpg"
 img_description = "Sonnenschutz"
