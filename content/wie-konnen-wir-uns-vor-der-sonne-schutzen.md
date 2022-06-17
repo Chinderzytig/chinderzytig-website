@@ -23,6 +23,24 @@ _Nun wird es immer wärmer, die Tage werden länger, die Schlangen bei den Eisdi
 
 Heute ist klar, dass die Sonne der Haut schaden kann. Früher war dies noch nicht bekannt und die Menschen schmierten sich gar nicht oder sogar mit Speiseöl ein, um möglichst schnell einen gebräunten Teint zu kriegen. Es gehörte dazu, dass die Haut nach dem Sonnenbaden rot war. In den 30er Jahren wurde erstmals eine Creme erfunden, die die UV-Strahlen filtern konnte – die sogenannte Delial-Salbe.
 
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Tätowierungen gibt es schon seit tausenden von Jahren.</li>
+
+<li>Die UV-Strahlungen der Sonne könne Sonnenbrand, schnellere Hautalterung oder Hautkrebs verursachen.</li>
+
+<li>Es gibt 3 Typen von UV-Strahlen: UVA-, UVB- und UVC-Strahlen.</li>
+
+<li>Mittel zur Linderung von Sonnenbrand: Schatten suchen, Haut kühlen und viel trinken.</li>
+
+<li>Schutzmassnahmen vor der Sonne: während der Mittagszeit nicht an die direkte Sonne, Sonnencrème mit UVA- und UVB-Schutz + hoher Lichtschutzfaktor, Hut und Sonnenbrille.</li>
+
+</ul> {{< /info-box >}}
+
 ### Wie entsteht ein Sonnenbrand?
 
 Ein Sonnenbrand ist ähnlich wie eine Verbrennung ersten oder zweiten Grades. Der Unterschied ist, dass er nicht durch direkten Kontakt, sondern durch die elektromagnetischen Strahlungen der Sonne entsteht. Diese Strahlungen werden ultraviolette Strahlen – kurz UV-Strahlen – genannt und werden unterschieden in UVA-, UVB- und UVC-Strahlen.
