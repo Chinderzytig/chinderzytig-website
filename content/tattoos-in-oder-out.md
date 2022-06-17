@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-06-23T04:00:00Z
 description = "Der Trend der Tattoos"
-draft = true
 fdw = false
 hero_img = "/v1655470668/waldemar-brandt-gqA_k3vsDqU-unsplash_u1hnr2.jpg"
 img_description = "Tatovierte Frau"
