@@ -151,7 +151,7 @@
 		Hier folgen dann die bestehenden Inhalte inkl. aller hochgeladenen PDFs
 	</p>
 	<div class="card__container">
-		{{ range .Site.Data.pages.schulprojekte.projekte }}
+		{{ range .Site.Data.pages.unterrichtsideen.projekte }}
 			<div class="document__card card__hidden">
 				<h3 class="document__card-title">{{ .title }}</h3>
 				<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="document__card--schulprojekte">
