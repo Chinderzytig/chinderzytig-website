@@ -5,8 +5,8 @@ column_one:
     link: "/fokus-der-woche"
   - label: Arbeitsmaterial
     link: "/arbeitsmaterial"
-  - label: Schulprojekte
-    link: "/schulprojekte"
+  - label: Unterrichtsideen
+    link: "/unterrichtsideen"
   - label: Abonnemente
     link: "/abonnemente"
   - label: Visible Learning

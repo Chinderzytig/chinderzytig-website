@@ -1,11 +1,11 @@
 {{ define "main" }}
 <section class="document__container">
 	<div class="kommt-zu">
-		<h1 class="heading heading__content--primary">schulprojekte</h1>
+		<h1 class="heading heading__content--primary">Unterrichtsideen</h1>
 		<h4 class="heading heading__content--quaternary">Chinderzytig kommt zu euch</h4>
 
 		<p class="visible__text">
-			Uns kann man für Schulprojekte aufbieten. Wir kommen gerne vorbei und
+			Uns kann man für Unterrichtsideen aufbieten. Wir kommen gerne vorbei und
 			realisieren mit der Klasse Inputs zu folgenden möglichen Themen:
 		</p>
 		<ul class="visible__list">
@@ -151,10 +151,10 @@
 		Hier folgen dann die bestehenden Inhalte inkl. aller hochgeladenen PDFs
 	</p>
 	<div class="card__container">
-		{{ range .Site.Data.pages.schulprojekte.projekte }}
+		{{ range .Site.Data.pages.unterrichtsideen.projekte }}
 			<div class="document__card card__hidden">
 				<h3 class="document__card-title">{{ .title }}</h3>
-				<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="document__card--schulprojekte">
+				<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="document__card--unterrichtsideen">
 					<img src="{{ $.Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .document }}.png" alt="Schuleprojekte cover" class="document-sc__file">
 				</a>
 			</div>
