@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "20220616_Philosophieren_AM_l7vglm"
+arbeitsmaterial = "20220616_Philosophieren_AM_z9zkyy"
 artikel = true
 author = "Sarah Hutter"
 cc_licence = ""
