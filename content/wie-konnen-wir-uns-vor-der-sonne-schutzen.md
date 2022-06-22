@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220621_Sonnenschutz_AM_p1bicp"
 artikel = true
 author = "Anna Deppeler"
 cc_licence = ""
@@ -75,3 +75,9 @@ Folgende Tipps helfen auch zusätzlich beim Schutz vor der Sonne:
 * Hut: Er schützt deinen Kopf.
 * Kleidung: Je dunkler und dicker die Kleidung, desto mehr schützt sie.
 * UV-Index auf einer Wetter-App beachten: Je höher der UV-Index an einem Ort ist, desto stärker sind die UV-Strahlen und desto mehr musst du dich schützen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
