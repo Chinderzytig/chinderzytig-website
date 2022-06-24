@@ -21,6 +21,24 @@ title = "Tattoos – in oder out? "
 +++
 _Die Badi-Saison ist eröffnet – und damit die Saison der Tattoos. Wo man hinschaut, Tätowierungen auf Armen, Beinen, Rücken und so weiter. Doch, sind Tattoos heute noch angesagt? Und woher kommt der Körperkult eigentlich?_
 
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Tätowierungen gibt es schon seit tausenden von Jahren.</li>
+
+<li>Die UV-Strahlungen der Sonne könne Sonnenbrand, schnellere Hautalterung oder Hautkrebs verursachen.</li>
+
+<li>Es gibt 3 Typen von UV-Strahlen: UVA-, UVB- und UVC-Strahlen.</li>
+
+<li>Mittel zur Linderung von Sonnenbrand: Schatten suchen, Haut kühlen und viel trinken.</li>
+
+<li>Schutzmassnahmen vor der Sonne: während der Mittagszeit nicht an die direkte Sonne, Sonnencrème mit UVA- und UVB-Schutz + hoher Lichtschutzfaktor, Hut und Sonnenbrille.</li>
+
+</ul> {{< /info-box >}}
+
 Die Geschichte der Tätowierungen geht bis weit in die Steinzeit zurück. So hatte zum Beispiel „Ötzi“, der vor zirka 5300 Jahren lebte, über 60 Tätowierungen auf dem Körper. „Ötzi“ ist eine Gletschermumie, die im Jahr 1991 in Österreich gefunden wurde. Auch in Chile wurde eine etwa 7000 Jahre alte Mumie gefunden, die Tätowierungen an Füssen und Händen aufwies. Man weiss, dass sich in Ägypten die Frauen mit Tätowierungen schmückten. Im alten Rom wurden damit Verbrecher und Sklaven markiert. Den Maori, den Ureinwohnern von Neuseeland, sind ihre sogenannten „Moko“ heilig. Die „Moko“ sind kunstvolle Schnörkel, welche die Menschen im Gesicht tragen. Jede Familie hat ihre eigenen Muster und Figuren, welche die Geschichte der Familie erzählen. Tätowierungen gibt es also schon lange und über die ganze Welt verteilt. Die Bedeutung der Tattoos war jedoch je nach Kultur sehr unterschiedlich und hat sich auch immer wieder gewandelt.
 
 ### Von der Rebellion zum Mainstream
