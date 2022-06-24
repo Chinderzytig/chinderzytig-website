@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220623_Tattoos_AM_aomdon"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
@@ -43,3 +43,9 @@ So sind Tätowierungen heute inzwischen auch bei uns „Mainstream“ (ein Masse
 ### Fast alltäglicher Körperschmuck
 
 Ganz einfach, weil es gefällt. Eine Tätowierung ist heute so etwas wie ein Schmuckstück, um den Körper zu verschönern – wie ein Ohrring oder Schminke. Es gibt sie in allen Farben und Formen, gross oder klein, teuer oder günstig. Heute lassen sich Menschen aus allen Gesellschaftsschichten ein Tattoo stechen. In der Schweiz gibt es etwa 700 offizielle Tattoostudios und rund 1400 weitere Personen, die privat tätowieren. Es stellt sich also die Frage: Wird das Interesse an Tattoos so gross bleiben oder wird der Trend abflachen? Die Darstellung des „Körpers“ ist gerade bei jungen Menschen immer noch sehr wichtig – gerade auch wegen der Social Media. Doch, angesichts der starken Verbreitung von Tätowierungen könnte es künftig vielleicht eher besonders sein, wenn man kein Tattoo hat. Die nächsten Sommersaisons werden es zeigen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
