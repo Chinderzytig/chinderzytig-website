@@ -21,8 +21,7 @@ title = "Festivalauftakt in der Schweiz"
 +++
 _Während der Festivalsommer in den letzten zwei Jahren aufgrund des Coronavirus ins Wasser fiel, freuen sich viele auf die diesjährige Festivalsaison. In den Monaten Juli und August erlebt die Saison ihren Höhepunkt und tausende von Menschen reisen in der Schweiz umher, um den langersehnten Festivalsommer zu geniessen. Wie das Festival zu seinem Namen kam und welche Geschichte dahintersteckt, erfährst du in diesem Artikel._
 
-###   
-Der Begriff „Festival“
+### Der Begriff "Festival"
 
 Der Name stammt aus dem Lateinischen und leitet sich vom Begriff „festivus“ ab. Er kann als „festlich“, „feierlich“ oder „heiter“ übersetzt werden. Im Unterschied zu einem normalen Konzert, Theater oder Vorstellung dauert ein Festival mehrere Tage. Verschiedene Künstlerinnen und Künstler stellen dabei ihre Produkte vor. Bei einem Festival muss nicht zwingend die Musik im Mittelpunkt sein. Es gibt beispielsweise Film-, Comic-, Food-, Literatur-, Kunst-, Tanz- oder Theaterfestivals, um nur einige zu nennen. Die Arten von Festivals sind so vielfältig, dass sie viele Menschen der Bevölkerung ansprechen und anziehen.
 
