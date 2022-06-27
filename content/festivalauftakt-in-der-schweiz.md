@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-06-29T04:00:00Z
 description = "Ein Bericht über Festivals"
-draft = true
 fdw = true
 hero_img = "/v1656348757/stephen-arnold-xSTQzSLJA4c-unsplash_ip9wua.jpg"
 img_description = "Festival"
