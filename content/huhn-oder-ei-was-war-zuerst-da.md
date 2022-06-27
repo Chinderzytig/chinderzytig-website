@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-06-28T16:00:00Z
 description = "Bericht über die Frage, was zuerst da war, das Huhn oder das Ei?"
-draft = true
 fdw = false
 hero_img = "/v1656348131/muhammad-syafi-al-adam-6G0HWfLvP4Y-unsplash_fhqk6h.jpg"
 img_description = "Küken"
