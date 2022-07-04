@@ -54,3 +54,7 @@ Es muss betont werden, dass der Rückgang des Fleischkonsums nur einseitig ist. 
 Schnitzel, Poulet, Würste, Thunfisch, Käse, Joghurt- und Milchgetränke und viele weitere Produkte tierischen Ursprungs werden immer mehr von Produkten auf pflanzlicher Basis imitiert. So befinden sich in der Migros bereits über tausend vegane, pflanzliche Alternativen im Sortiment. Weitere Produkte sollen folgen. Coop hat in einer Studie mit dem Titel „Plant Based Food Report“ Schweizerinnen und Schweizer befragt, weshalb sie pflanzenbasierte Ersatzprodukte konsumieren. Als Antworten wurden die Neugier, die Abwechslung, die Gesundheit, das Tierwohl und die Liebe zur Umwelt genannt.
 
 Abgesehen von Veganerinnen und Veganern konsumieren Menschen, die pflanzliche Ersatzprodukte kaufen, nach wie vor tierische Produkte. Plant Based Food richtet sich also nicht an eine bestimmte Gruppe mit einer bestimmten Ernährungsweise. Es ist schwierig, eine {{< fremdwort id="add id here" wort="Prognose" >}}{{< definition id="add id here" wort="Prognose" def="Vorhersage einer zukünftigen Entwicklung" >}}für die Zukunft zu stellen. Ob Bratwurst und Cervelat neben den pflanzlichen Cervelat- und Bratwurstalternativen in den Regalen bleiben, wird sich zeigen.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
