@@ -19,7 +19,23 @@ slug = ""
 title = "Sind die Bratwurst und Cervelat am Ende?"
 
 +++
-_Wir alle essen täglich. Was wir essen, hängt auch davon ab, was es in den Regalen von Supermärkten wie Coop oder Migros gibt. Das Angebot an **veganen** Fleischalternativen wird immer grösser. Gleichzeitig entscheiden sich immer mehr Menschen für die pflanzlichen Produkte, die unter dem englischen Begriff „Plant Based Food“ bekannt sind. Was bedeutet das wachsende **Angebot** und die wachsende **Nachfrage** für die Fleischprodukte? Verschwinden Bratwurst und Cervelat bald aus dem Sortiment?_
+_Wir alle essen täglich. Was wir essen, hängt auch davon ab, was es in den Regalen von Supermärkten wie Coop oder Migros gibt. Das Angebot an **veganen **_{{< definition id="add id here" wort="vegan" def="**Vegan** zu essen, bedeutet, keine Lebensmittel tierischen Ursprungs also weder Fleisch und Fisch noch Milch, Eier und Honig zu verzehren. Viele Veganerinnen und Veganer verzichten bei ihrem Lebensstil allgemein auf tierische Produkte und tragen z.B. keine Kleidungsstücke aus Leder, Seide oder Wolle oder verwenden vegane Pflegeprodukte." >}}
+
+_Fleischalternativen wird immer grösser. Gleichzeitig entscheiden sich immer mehr Menschen für die pflanzlichen Produkte, die unter dem englischen Begriff „Plant Based Food“ bekannt sind. Was bedeutet das wachsende **Angebot** und die wachsende **Nachfrage** für die Fleischprodukte? Verschwinden Bratwurst und Cervelat bald aus dem Sortiment?_
+
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+<ul>
+
+<li>Der Konsum von Rind- und Schweinefleisch geht in der Schweiz zurück.</li>
+
+<li>Immer mehr Schweizerinnen und Schweizer essen anstatt Fleisch pflanzliche Alternativen, die unter dem Namen „Plant Based Food" bekannt sind.</li>
+
+<li>Das Sortiment an pflanzlichen Alternativen in den Supermärkten wächst stark.</li>
+
+</ul> {{< /info-box >}}
 
 ### Schweizer Fleischkonsum
 
