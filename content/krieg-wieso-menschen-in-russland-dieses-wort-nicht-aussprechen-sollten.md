@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2022-07-06T04:00:00Z
 description = "Bericht über den Konflikt zwischen Russland und der Ukraine"
-draft = true
 fdw = true
 hero_img = "/v1656941184/Bild_Fdw_ob6k1r.jpg"
 img_description = "Moderatorin protestiert in russlands Staats-TV"
