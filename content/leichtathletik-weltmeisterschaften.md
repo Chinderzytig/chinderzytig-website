@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220707_WM_AM_aqk492"
 artikel = true
 author = "Anna Deppeler"
 cc_licence = ""
