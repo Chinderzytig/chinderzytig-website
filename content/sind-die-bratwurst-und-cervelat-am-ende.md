@@ -18,7 +18,7 @@ slug = ""
 title = "Sind die Bratwurst und Cervelat am Ende?"
 
 +++
-_Wir alle essen täglich. Was wir essen, hängt auch davon ab, was es in den Regalen von Supermärkten wie Coop oder Migros gibt. Das Angebot an_ {{< fremdwort id="veganen" wort="veganen" >}}_Fleischalternativen wird immer grösser. Gleichzeitig entscheiden sich immer mehr Menschen für die pflanzlichen Produkte, die unter dem englischen Begriff „Plant Based Food“ bekannt sind. Was bedeutet das_ {{< fremdwort id="wachsende" wort="_wachsende Angebot und die wachsende Nachfrage_" >}}_für die Fleischprodukte? Verschwinden Bratwurst und Cervelat bald aus dem Sortiment?_
+_Wir alle essen täglich. Was wir essen, hängt auch davon ab, was es in den Regalen von Supermärkten wie Coop oder Migros gibt. Das Angebot an_ {{< fremdwort id="veganen" wort="vegan" >}}_Fleischalternativen wird immer grösser. Gleichzeitig entscheiden sich immer mehr Menschen für die pflanzlichen Produkte, die unter dem englischen Begriff „Plant Based Food“ bekannt sind. Was bedeutet das_ {{< fremdwort id="wachsende" wort="_wachsende Angebot und die wachsende Nachfrage_" >}}_für die Fleischprodukte? Verschwinden Bratwurst und Cervelat bald aus dem Sortiment?_
 
 {{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
 
@@ -54,7 +54,7 @@ Schnitzel, Poulet, Würste, Thunfisch, Käse, Joghurt- und Milchgetränke und vi
 
 Abgesehen von Veganerinnen und Veganern konsumieren Menschen, die pflanzliche Ersatzprodukte kaufen, nach wie vor tierische Produkte. Plant Based Food richtet sich also nicht an eine bestimmte Gruppe mit einer bestimmten Ernährungsweise. Es ist schwierig, eine {{< fremdwort id="prognose" wort="Prognose" >}}{{< definition id="prognose" wort="Prognose" def="Vorhersage einer zukünftigen Entwicklung" >}}für die Zukunft zu stellen. Ob Bratwurst und Cervelat neben den pflanzlichen Cervelat- und Bratwurstalternativen in den Regalen bleiben, wird sich zeigen.
 
-{{< definition id="veganen" wort="Vegan" def="Vegan zu essen, bedeutet, keine Lebensmittel tierischen Ursprungs also weder Fleisch und Fisch noch Milch, Eier und Honig zu verzehren. Viele Veganerinnen und Veganer verzichten bei ihrem Lebensstil allgemein auf tierische Produkte und tragen z.B. keine Kleidungsstücke aus Leder, Seide oder Wolle oder verwenden vegane Pflegeprodukte." >}}
+{{< definition id="vegan" wort="Vegan" def="Vegan zu essen, bedeutet, keine Lebensmittel tierischen Ursprungs also weder Fleisch und Fisch noch Milch, Eier und Honig zu verzehren. Viele Veganerinnen und Veganer verzichten bei ihrem Lebensstil allgemein auf tierische Produkte und tragen z.B. keine Kleidungsstücke aus Leder, Seide oder Wolle oder verwenden vegane Pflegeprodukte." >}}
 
 {{< definition id="wachsende" wort="Angebot und Nachfrage" def="Als Angebot wird die Menge an vorhandenen Gütern und Dienstleistungen auf dem Markt bezeichnet, die zum Verkauf angeboten werden. Die Nachfrage hingegen bezeichnet die Absicht von Haushalten und Unternehmen, Waren und Dienstleistungen gegen Geld zu erwerben." >}}
 
