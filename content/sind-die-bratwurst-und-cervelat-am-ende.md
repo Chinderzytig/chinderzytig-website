@@ -40,7 +40,7 @@ Im Jahr 1980 assen Schweizerinnen und Schweizer rund 64 Kilogramm Fleisch in ein
 
 Werden Tierprodukte in Form von Fleisch produziert, werden grosse Mengen an {{< fremdwort id="emissionen" wort="Emissionen" >}}verursacht. Um die Tiere füttern und versorgen zu können, wird Ackerland benötigt. Zusätzlich müssen für die Fütterung grosse Mengen an Soja aus Südamerika importiert werden, was ebenfalls Emissionen verursacht.
 
-Weitere Emissionen entstehen, wenn Kühe ihre pflanzliche Nahrung verdauen und dadurch das Treibhausgas {{< fremdwort id="Methan" wort="Methan" >}}freigesetzt wird, das den Klimawandel antreibt. Methan wird ebenfalls freigesetzt, wenn {{< fremdwort id="gelle" wort="Gülle" >}}auf den Feldern verteilt wird.
+Weitere Emissionen entstehen, wenn Kühe ihre pflanzliche Nahrung verdauen und dadurch das Treibhausgas {{< fremdwort id="Methan" wort="Methan" >}}freigesetzt wird, das den Klimawandel antreibt. Methan wird ebenfalls freigesetzt, wenn {{< fremdwort id="gulle" wort="Gülle" >}}auf den Feldern verteilt wird.
 
 Dürfen Kühe auf einer Weide grasen, werden grosse Flächen benötigt, für welche oftmals Bäume gefällt werden, die das schädliche {{< fremdwort id="co2" wort="CO2" >}}aus der Luft filtern und in Sauerstoff umwandeln.
 
@@ -54,7 +54,7 @@ Schnitzel, Poulet, Würste, Thunfisch, Käse, Joghurt- und Milchgetränke und vi
 
 Abgesehen von Veganerinnen und Veganern konsumieren Menschen, die pflanzliche Ersatzprodukte kaufen, nach wie vor tierische Produkte. Plant Based Food richtet sich also nicht an eine bestimmte Gruppe mit einer bestimmten Ernährungsweise. Es ist schwierig, eine {{< fremdwort id="prognose" wort="Prognose" >}}{{< definition id="prognose" wort="Prognose" def="Vorhersage einer zukünftigen Entwicklung" >}}für die Zukunft zu stellen. Ob Bratwurst und Cervelat neben den pflanzlichen Cervelat- und Bratwurstalternativen in den Regalen bleiben, wird sich zeigen.
 
-{{< definition id="vegan" wort="Vegan" def="Vegan zu essen, bedeutet, keine Lebensmittel tierischen Ursprungs also weder Fleisch und Fisch noch Milch, Eier und Honig zu verzehren. Viele Veganerinnen und Veganer verzichten bei ihrem Lebensstil allgemein auf tierische Produkte und tragen z.B. keine Kleidungsstücke aus Leder, Seide oder Wolle oder verwenden vegane Pflegeprodukte." >}}
+{{< definition id="veganen" wort="Vegan" def="Vegan zu essen, bedeutet, keine Lebensmittel tierischen Ursprungs also weder Fleisch und Fisch noch Milch, Eier und Honig zu verzehren. Viele Veganerinnen und Veganer verzichten bei ihrem Lebensstil allgemein auf tierische Produkte und tragen z.B. keine Kleidungsstücke aus Leder, Seide oder Wolle oder verwenden vegane Pflegeprodukte." >}}
 
 {{< definition id="wachsende" wort="Angebot und Nachfrage" def="Als Angebot wird die Menge an vorhandenen Gütern und Dienstleistungen auf dem Markt bezeichnet, die zum Verkauf angeboten werden. Die Nachfrage hingegen bezeichnet die Absicht von Haushalten und Unternehmen, Waren und Dienstleistungen gegen Geld zu erwerben." >}}
 
