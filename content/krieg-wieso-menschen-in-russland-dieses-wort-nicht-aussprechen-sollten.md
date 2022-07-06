@@ -18,7 +18,7 @@ slug = ""
 title = "Krieg – wieso Menschen in Russland dieses Wort nicht aussprechen sollten"
 
 +++
-Die Fernsehmoderatorin Marina Owsjannikowa aus Russland hat sich im russischen Staatsfernsehen während einer Livesendung mit einer Botschaft an die russische Bevölkerung gerichtet. In ihrer Hand hielt sie ein Plakat, auf dem geschrieben stand: «Stoppt den Krieg. Glaubt der{{< fremdwort id="Propaganda" wort="Propaganda">}}nicht. Hier werdet ihr belogen.»
+Die Fernsehmoderatorin Marina Owsjannikowa aus Russland hat sich im russischen Staatsfernsehen während einer Livesendung mit einer Botschaft an die russische Bevölkerung gerichtet. In ihrer Hand hielt sie ein Plakat, auf dem geschrieben stand: «Stoppt den Krieg. Glaubt der {{< fremdwort id="Propaganda" wort="Propaganda">}}nicht. Hier werdet ihr belogen.»
 
 Wieso es zu dieser speziellen Szene kam und wieso sich die Moderatorin damit in Gefahr brachte, erfährst du im nachstehenden Bericht.
 
@@ -36,11 +36,11 @@ Wieso es zu dieser speziellen Szene kam und wieso sich die Moderatorin damit in 
 
 </ul> {{< /info-box >}}
 
-Es ist nicht neu, dass in Russland{{< fremdwort id="Meinung" wort="Meinungsäusserungs-">}}und{{< fremdwort id="Pressefreiheit" wort="Pressefreiheit">}}nicht gewährleistet sind. Ein Blick in die Vergangenheit zeigt, dass die Einschränkung der Meinungsäusserungs- und Pressefreiheit seit langer Zeit ein wichtiges Merkmal der russischen Geschichte ist.
+Es ist nicht neu, dass in Russland {{< fremdwort id="Meinung" wort="Meinungsäusserungs-">}}und{{< fremdwort id="Pressefreiheit" wort="Pressefreiheit">}}nicht gewährleistet sind. Ein Blick in die Vergangenheit zeigt, dass die Einschränkung der Meinungsäusserungs- und Pressefreiheit seit langer Zeit ein wichtiges Merkmal der russischen Geschichte ist.
 
-Von 1721 – 1917 war Russland ein{{< fremdwort id="Zar" wort="Zarenreich">}}.Das bedeutet, dass es einen Zaren gab, der das ganze Land als Kaiser regierte. Bereits ab 1825 schränkte der damalige Zar alle Schriftsteller*innen Russlands ein. Dafür stellte er extra Leute an, welche alles kontrollierten, was neu veröffentlicht wurde.
+Von 1721 – 1917 war Russland ein {{< fremdwort id="Zar" wort="Zarenreich">}}.Das bedeutet, dass es einen Zaren gab, der das ganze Land als Kaiser regierte. Bereits ab 1825 schränkte der damalige Zar alle Schriftsteller*innen Russlands ein. Dafür stellte er extra Leute an, welche alles kontrollierten, was neu veröffentlicht wurde.
 
-Nach dem Zerfall des Zarenreiches und dem darauffolgenden Bürgerkrieg wurde 1922 formell die{{< fremdwort id="Sowjet" wort="Sowjetunion">}}ausgerufen. Die Sowjetunion bestand aus 15 Unionsrepubliken (darunter Russland und auch die Ukraine), war{{< fremdwort id="komm" wort="kommunistisch">}}und wurde von einem{{<fremdwort id="Diktator" wort="Diktator">}}regiert. Auch in der Sowjetunion waren eine freie Presse und freie Meinungsäusserung nicht möglich. Sowohl in der Zeit des Zarenreiches wie auch in der Zeit der Sowjetunion wechselten sich{{<fremdwort id="add id here" wort="Phasen" >}}mit strengen und weniger strengen Einschränkungen ab. Eines blieb aber immer gleich – freie Meinungsäusserungs- und Pressefreiheit gab es von 1825 bis 1991 nie.
+Nach dem Zerfall des Zarenreiches und dem darauffolgenden Bürgerkrieg wurde 1922 formell die {{< fremdwort id="Sowjet" wort="Sowjetunion">}}ausgerufen. Die Sowjetunion bestand aus 15 Unionsrepubliken (darunter Russland und auch die Ukraine), war {{< fremdwort id="komm" wort="kommunistisch">}}und wurde von einem {{<fremdwort id="Diktator" wort="Diktator">}}regiert. Auch in der Sowjetunion waren eine freie Presse und freie Meinungsäusserung nicht möglich. Sowohl in der Zeit des Zarenreiches wie auch in der Zeit der Sowjetunion wechselten sich {{<fremdwort id="add id here" wort="Phasen" >}}mit strengen und weniger strengen Einschränkungen ab. Eines blieb aber immer gleich – freie Meinungsäusserungs- und Pressefreiheit gab es von 1825 bis 1991 nie.
 
 Nach dem Zusammenbruch der Sowjetunion und dem Ende des {{<fremdwort id="KK" wort="Kalten Kriegs">}}im Jahr 1991 gab es in Russland aufgrund von politischen Neuordnungen zum ersten Mal seit 1825 Meinungsäusserungs- und Pressefreiheit. Diese dauerte bis 1999 und endete mit dem Machtantritt des heutigen Präsidenten, Vladimir Putin. Schrittweise verabschiedet die Duma, das vom Volk gewählte russische Unterhaus, neue Gesetze, die von Vladimir Putin kontrolliert werden und die Meinungsäusserungs- und Pressefreiheit weiter einschränken.
 
