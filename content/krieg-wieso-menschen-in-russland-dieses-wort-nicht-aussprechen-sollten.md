@@ -18,7 +18,7 @@ slug = ""
 title = "Krieg – wieso Menschen in Russland dieses Wort nicht aussprechen sollten"
 
 +++
-Die Fernsehmoderatorin Marina Owsjannikowa aus Russland hat sich im russischen Staatsfernsehen während einer Livesendung mit einer Botschaft an die russische Bevölkerung gerichtet. In ihrer Hand hielt sie ein Plakat, auf dem geschrieben stand: «Stoppt den Krieg. Glaubt der{{< fremdwort id="Propaganda" wort="Propaganda" >}}nicht. Hier werdet ihr belogen.»
+Die Fernsehmoderatorin Marina Owsjannikowa aus Russland hat sich im russischen Staatsfernsehen während einer Livesendung mit einer Botschaft an die russische Bevölkerung gerichtet. In ihrer Hand hielt sie ein Plakat, auf dem geschrieben stand: «Stoppt den Krieg. Glaubt der{{< fremdwort id="Propaganda" wort="Propaganda">}}nicht.Hier werdet ihr belogen.»
 
 Wieso es zu dieser speziellen Szene kam und wieso sich die Moderatorin damit in Gefahr brachte, erfährst du im nachstehenden Bericht.
 
