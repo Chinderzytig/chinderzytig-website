@@ -133,3 +133,7 @@ companies:
   logo:
     - img: "campusdemokratie_logo_lvaecn.png"
       desc: Campus Demokratie logo
+- website: "https://schulen-muensingen.ch/"
+  logo:
+    - img: "volksschule_munsingen_lhqrwu.gif"
+      desc: Volksschule Münsingen logo
