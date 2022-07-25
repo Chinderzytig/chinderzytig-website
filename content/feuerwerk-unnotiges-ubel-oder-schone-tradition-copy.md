@@ -1,44 +1,56 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = "Fiona Häberli"
+author = "Anja Borer"
 cc_licence = ""
 cc_src = ""
-date = 2022-07-20T04:00:00Z
-description = "Bericht über Feuerwerk"
-draft = true
+date = 2022-07-27T04:00:00Z
+description = "Bericht über den Klimawandel"
 fdw = true
-hero_img = "/v1658250438/elisha-terada-_b4ppn1Ssgw-unsplash_ix0dkq.jpg"
+hero_img = "/v1658746681/robert-bye-O8dDy7BRgBA-unsplash_s2fnfm.jpg"
 img_description = ""
-img_photographer = "Elisha Terada"
-img_src = "elisha-terada-_b4ppn1Ssgw-unsplash_ix0dkq"
+img_photographer = "Robert Bye"
+img_src = "https://unsplash.com/@robertbye"
 kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "Feuerwerk – unnötiges Übel oder schöne Tradition?-(copy)"
+title = "Unsere Gletscher schmelzen weiter"
 
 +++
-_Bald ist es so weit! Der Nationalfeiertag der Schweiz steht vor der Tür. Viele Menschen schmücken ihr Zuhause mit Schweizer- und Kantonsfahnen, hängen Lampions auf und kleiden sich rot-weiss. Gemeinden und Städte hissen ebenfalls die Flaggen und treffen die letzten Vorbereitungen für die Feierlichkeiten. Während jede Ortschaft die eigenen Traditionen pflegt, ist eine schweizweit verbreitet: Das Feuerwerk. Im Artikel erfährst du, welche Vor- und Nachteile mit dem Entfachen des Feuerwerks verbunden sind._
+_Die Gletscher in Europa haben seit dem Jahr 2000 etwa 17% ihrer Masse durch die Gletscherschmelze verloren. Dieses Jahr schmelzen die Gletscher durch die heissen Temperaturen und andere Faktoren noch schneller._
 
-### Die Diskussion ums Feuerwerk…
+### Die Fakten
 
-… ist nicht neu. Jedes Jahr kurz vor dem 01. August wird in den Medien oder im Privaten darüber beraten, ob Feuerwerk nun Fluch oder Segen ist. Menschen, die sich für das Zünden von Feuerwerk aussprechen, begründen dies etwa mit folgenden Argumenten:
+Durch die Klimaerwärmung wird die durchschnittliche Jahrestemperatur immer ein kleines bisschen erhöht, dadurch schmelzen die Gletscher. Der Grosse Aletschgletscher, welcher den Kanton Bern mit dem Wallis verbindet, verliert pro Jahr etwa 5 Meter im unteren Bereich des Gletschers.
 
-Feuerwerk ist Kunst. Besonders an grossen Feiern ist das Feuerwerk professionell und perfekt durchgeplant und erscheint als Kunstwerk am Nachthimmel. Auch der Anblick von Zuckerstöcken, die privat gezündet werden, ist schön.
+Dieses Jahr wird die Schmelze der Gletscher durch drei Faktoren weiter begünstigt:
 
-Feuerwerk ist Tradition. Zu einer richtigen 01. August-Feier gehört Feuerwerk einfach dazu und ist ein absolutes Muss.
+* Die Erste Hitzewelle kam bereits im Mai, in den Bergen wurden an vielen Orten Rekordtemperaturen gemessen.
+* Im Winter gab es wenig Niederschlag, in der Aletschregion z.B. fiel während des ganzen Winters knapp 4 Meter Schnee, normalerweise liegt dieser Wert zwischen 6 und 9 Metern, der Grosse Aletschgletscher hat jetzt im Moment einen Schneestand wie dieser im September normal wäre.
+* Gleich mehrere Male wurde Saharastaub in Richtung Europa geweht, der Saharastaub setzt sich auf den Gletschern ab, wird durch die Sonne erhitzt und erhöht damit die Schmelzung des Gletschers.
 
-Feuerwerk schafft Arbeitsplätze und Löhne. Jedes Jahr werden Hunderttausende Schweizer Franken für Feuerwerk ausgegeben. Eine ganze Branche ist von den Ausgaben abhängig und darauf angewiesen, dass weiterhin Feuerwerk gekauft wird.
+Forscher sagen bereits jetzt voraus, dass die Schmelze der Gletscher nicht mehr aufgehalten werden kann, jedoch im besten Fall verlangsamt. Selbst wenn der Klimawandel gestoppt wird, werden die Gletscher voraussichtlich weiter schmelzen, dies weil Gletscher zeitverzögert auf Veränderungen des Klimas reagieren.
 
-Feuerwerk soll umweltfreundlicher werden. Entwickler*innen und Vertreiber*innen bemühen sich darum, dass das Feuerwerk weniger Müll verursacht, und die schädlichen Substanzen, die in die Luft gelangen, reduziert werden. Es soll bereits Feuerwerkskörper geben, die aus rein pflanzlichen Materialien bestehen.
+### Massnahmen zur Rettung der Gletscher
 
-Menschen, die sich gegen Feuerwerk aussprechen, argumentieren beispielsweise so:
+Mit den aktuellen Klimaschutzmassnahmen können die Gletscher teilweise noch gerettet werden, je grösser ein Gletscher ist, desto wahrscheinlicher ist es, dass er nicht ganz abschmelzen wird. Dies jedoch nur, wenn der Klimawandel verlangsamt wird.
 
-Feuerwerk ist laut. Die Knallgeräusche machen vielen Tieren Angst. Anders als wir Menschen können die Tiere nicht einordnen, woher die Geräusche kommen. Sie können in Panik geraten und weglaufen oder aus dem eingezäunten Weidebereich ausbrechen.
+Die ETH Zürich und Universität Freiburg haben für 5 Gletscher in der Schweiz Simulationen erstellt, wie sich die Gletscher mit und ohne Klimawandel bis ins Jahr 2100 verändern werden. Diese eindrücklichen Simulationen kannst du [hier](https://interaktiv.tagesanzeiger.ch/2022/gletscher-prognosen/) anschauen.
 
-Feuerwerk verursacht Unmengen an Feinstaub, Partikel, die bei der Verbrennung in die Luft gelangen. Innert kürzester Zeit wird an den 01. August-Feiern mehr Feinstaub produziert, als sonst in mehreren Wochen durch den Strassenverkehr verursacht wird.
+Neben den politischen Bemühungen dem Klimawandel zu trotzen, gibt es konkrete Massnahmen für die Gletscher. Keine dieser Massnahmen ist jedoch eine wirkliche Lösung für das Problem. Man redet auch davon, Gletscher mit Kunstschnee zu beschneien, um die darunter liegenden Eisschichten zu schützen, die technische Umsetzung könnte da aber zum Problem werden. Bereits jetzt werden Gletscherabschnitte mit Flies oder Plastikfolie abgedeckt, die Fläche eines Gletschers ist jedoch viel zu gross, um den ganzen Gletscher zu schützen.
 
-Feuerwerk ist gefährlich. Immer wieder müssen Ambulanz, Polizei und Feuerwehr ausrücken. Durch das Feuerwerk können Verletzungen und Brände entstehen. Teilweise verletzen sich Menschen schwer oder schädigen ihr Gehör durch den lauten Knall. Die Verletzungen können manchmal nicht rückgängig gemacht werden. Dazu kommt, dass es im August in weiten Teilen der Schweiz sehr trocken sein kann und die Waldbrandgefahr hoch ist.
+### Folgen
 
-Durch die immer moderner werdenden Technologien ist es heutzutage möglich, dass anstelle von Feuerwerkskörpern Drohnen für die Kunst am Nachthimmel sorgen. Solche Drohnenshows sind zwar teuer, jedoch sind sie auch leise und umweltfreundlich und dadurch vielversprechend für die Zukunft der 01. August-Feiern.
+Der Verlust der Gletscher in der ganzen Welt hat schwerwiegende Folgen:
+
+* Der Anstieg des Meeresspiegels, führt zu Verlust von Lebensraum in Ländern mit Meeranschluss
+* Es kommt zu Überschwemmungen in den Talregionen
+* Der Permafrost (Temperatur im Boden unter Null Grad Celsius; hält die Gesteinsmassen zusammen) taut auf, wobei sich die Bodenstruktur verändert und es kommt zu Felsstürzen
+* Es kommt zur Trinkwasserknappheit im Falle eines Gletschersterbens
+
+### Nun bist du dran
+
+Was kannst du tun, um die Gletscher zur retten? Wieso brauchen wir die Gletscher?
+
+Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
