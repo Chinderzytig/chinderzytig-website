@@ -1,17 +1,16 @@
 +++
 arbeitsmaterial = ""
 artikel = true
-author = "Anja Borer"
+author = "Botond Kalotay"
 cc_licence = ""
 cc_src = ""
-date = 2022-07-27T04:00:00Z
-description = "Bericht über den Klimawandel"
-draft = true
+date = 2022-08-03T04:00:00Z
+description = "Bericht über den Konflikt in Taiwain"
 fdw = true
-hero_img = "/v1658746681/robert-bye-O8dDy7BRgBA-unsplash_s2fnfm.jpg"
+hero_img = "/v1659420879/duncan-kidd-Cju-BkSkM1k-unsplash_1_zmpqmd.jpg"
 img_description = ""
-img_photographer = "Robert Bye"
-img_src = "https://unsplash.com/@robertbye"
+img_photographer = "Duncan Kidd"
+img_src = "https://unsplash.com/@we_the_royal"
 kategorien = []
 markierungen = []
 paid = false
@@ -19,39 +18,24 @@ slug = ""
 title = "Sorgen um Taiwan "
 
 +++
-_Die Gletscher in Europa haben seit dem Jahr 2000 etwa 17% ihrer Masse durch die Gletscherschmelze verloren. Dieses Jahr schmelzen die Gletscher durch die heissen Temperaturen und andere Faktoren noch schneller._
+_Ein Land wird von seinem grösseren Nachbar bedrängt. Der stärkere Nachbar will immer mehr Einfluss ausüben und erkennt dem kleineren Staat seine Unabhängigkeit ab. Die Situation wird immer angespannter und schliesslich droht der Konflikt in einem Krieg zu enden. Diese grobe Beschreibung kennen mittlerweile sehr viele, in Bezug auf den Ukraine-Krieg. Leider gibt es zurzeit noch ein zweites Beispiel für eine solche Entwicklung._
 
-### Die Fakten
+Taiwan ist eine Insel in der Nähe vom chinesischen Festland. Taiwan wird seit dem zweiten Weltkrieg unabhängig von China oder Japan geführt und möchte als unabhängiges Land anerkannt werden. Doch China sieht die Sache ganz anders.
 
-Durch die Klimaerwärmung wird die durchschnittliche Jahrestemperatur immer ein kleines bisschen erhöht, dadurch schmelzen die Gletscher. Der Grosse Aletschgletscher, welcher den Kanton Bern mit dem Wallis verbindet, verliert pro Jahr etwa 5 Meter im unteren Bereich des Gletschers.
+### Die Wiedervereinigung
 
-Dieses Jahr wird die Schmelze der Gletscher durch drei Faktoren weiter begünstigt:
+Die chinesische Regierung fordert einen Anschluss Taiwans an das Festland. China beansprucht die Insel nämlich seit dem 17. Jahrhundert für sich und hat die Unabhängigkeit von Taiwan in den letzten 70 Jahren nie anerkannt. Dies ist Teil der Ein-China-Politik und wird aus Peking offiziell als die "Wiedervereinigung" bezeichnet. Nur eigentlich kann man kaum von einer Wiedervereinigung reden, weil Taiwan nie Teil der 1949 gegründeten Volksrepublik war. Also hatte das Land China, so wie es heute existiert, nie Macht über die Insel. Die Mehrheit der taiwanesischen Bevölkerung will mit Ihrem Nachbaren jedoch auf keinen Fall wiedervereint werden. Trotzdem wird Taiwan immer wieder von China bedroht und auch militärisch provoziert.
 
-* Die Erste Hitzewelle kam bereits im Mai, in den Bergen wurden an vielen Orten Rekordtemperaturen gemessen.
-* Im Winter gab es wenig Niederschlag, in der Aletschregion z.B. fiel während des ganzen Winters knapp 4 Meter Schnee, normalerweise liegt dieser Wert zwischen 6 und 9 Metern, der Grosse Aletschgletscher hat jetzt im Moment einen Schneestand wie dieser im September normal wäre.
-* Gleich mehrere Male wurde Saharastaub in Richtung Europa geweht, der Saharastaub setzt sich auf den Gletschern ab, wird durch die Sonne erhitzt und erhöht damit die Schmelzung des Gletschers.
+### Provokation und Propaganda
 
-Forscher sagen bereits jetzt voraus, dass die Schmelze der Gletscher nicht mehr aufgehalten werden kann, jedoch im besten Fall verlangsamt. Selbst wenn der Klimawandel gestoppt wird, werden die Gletscher voraussichtlich weiter schmelzen, dies weil Gletscher zeitverzögert auf Veränderungen des Klimas reagieren.
+Ähnlich wie Russland es vor dem Angriff auf die Ukraine gemacht hat, führen die Chinesen regelmässig Militärübungen in der Nähe von Taiwan durch. Immer wieder hört man von chinesischen Kampfflugzeugen, welche in den taiwanesischen Luftraum eindringen. Die militärische Überlegenheit von China wird gerne genutzt, um den Nachbarn einzuschüchtern. Gleichzeitig werden solche Provokationen in den chinesischen Medien sehr positiv dargestellt. Wieder gibt es Ähnlichkeiten zu den russischen Medien. In China wird berichtet, dass die Regierung in Taiwan das eigene Volk unterdrückt, und das sich Taiwanesen eine Befreiung und Wiedervereinigung mit China wünschen. So soll ein möglicher bewaffneter Angriff unter der eigenen Bevölkerung gerechtfertigt werden. Es macht also vieles den Anschein, als würde sich China ähnlich wie Russland auf einen Angriff vorbereiten. Ein paar wichtige Unterschiede gibt es aber.
 
-### Massnahmen zur Rettung der Gletscher
+### Unter dem Schutz der USA
 
-Mit den aktuellen Klimaschutzmassnahmen können die Gletscher teilweise noch gerettet werden, je grösser ein Gletscher ist, desto wahrscheinlicher ist es, dass er nicht ganz abschmelzen wird. Dies jedoch nur, wenn der Klimawandel verlangsamt wird.
-
-Die ETH Zürich und Universität Freiburg haben für 5 Gletscher in der Schweiz Simulationen erstellt, wie sich die Gletscher mit und ohne Klimawandel bis ins Jahr 2100 verändern werden. Diese eindrücklichen Simulationen kannst du [hier](https://interaktiv.tagesanzeiger.ch/2022/gletscher-prognosen/) anschauen.
-
-Neben den politischen Bemühungen dem Klimawandel zu trotzen, gibt es konkrete Massnahmen für die Gletscher. Keine dieser Massnahmen ist jedoch eine wirkliche Lösung für das Problem. Man redet auch davon, Gletscher mit Kunstschnee zu beschneien, um die darunter liegenden Eisschichten zu schützen, die technische Umsetzung könnte da aber zum Problem werden. Bereits jetzt werden Gletscherabschnitte mit Flies oder Plastikfolie abgedeckt, die Fläche eines Gletschers ist jedoch viel zu gross, um den ganzen Gletscher zu schützen.
-
-### Folgen
-
-Der Verlust der Gletscher in der ganzen Welt hat schwerwiegende Folgen:
-
-* Der Anstieg des Meeresspiegels, führt zu Verlust von Lebensraum in Ländern mit Meeranschluss
-* Es kommt zu Überschwemmungen in den Talregionen
-* Der Permafrost (Temperatur im Boden unter Null Grad Celsius; hält die Gesteinsmassen zusammen) taut auf, wobei sich die Bodenstruktur verändert und es kommt zu Felsstürzen
-* Es kommt zur Trinkwasserknappheit im Falle eines Gletschersterbens
+Auch wenn es viele Ähnlichkeiten zum Krieg in der Ukraine gibt, gibt es ein paar wichtige Unterschiede. Zum einen Ist Taiwan eine Insel. Das würde einen möglichen Angriff und Krieg etwas komplizierter machen. Noch wichtiger ist aber die Position von den USA in diesem Konflikt. Denn anders als bei der Ukraine, hat der US-Präsident Joe Biden in den letzten Monaten auch mehrmals bekräftigt, dass die Amerikaner Taiwan im Ernstfall auch militärisch verteidigen würden. Diese Woche will auch eine sehr hohe amerikanische Politikerin Taiwan besuchen, um nochmals zu bekräftigen, dass die USA keinen Angriff auf Taiwan akzeptieren werden. Die Lage ist also angespannt und es bleibt nur zu hoffen, dass nicht ein erneuter Konflikt in Gewalt endet.
 
 ### Nun bist du dran
 
-Was kannst du tun, um die Gletscher zur retten? Wieso brauchen wir die Gletscher?
+Was weisst du über Taiwan und die Geschichte Chinas? Kennst du andere internationale Konflikte, welche diesem Streit ähnlich sind?
 
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
