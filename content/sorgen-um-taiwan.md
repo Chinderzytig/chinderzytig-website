@@ -32,7 +32,7 @@ Die chinesische Regierung fordert einen Anschluss Taiwans an das Festland. China
 
 ### Unter dem Schutz der USA
 
-Auch wenn es viele Ähnlichkeiten zum Krieg in der Ukraine gibt, gibt es ein paar wichtige Unterschiede. Zum einen Ist Taiwan eine Insel. Das würde einen möglichen Angriff und Krieg etwas komplizierter machen. Noch wichtiger ist aber die Position von den USA in diesem Konflikt. Denn anders als bei der Ukraine, hat der US-Präsident Joe Biden in den letzten Monaten auch mehrmals bekräftigt, dass die Amerikaner Taiwan im Ernstfall auch militärisch verteidigen würden. Diese Woche will auch eine sehr hohe amerikanische Politikerin Taiwan besuchen, um nochmals zu bekräftigen, dass die USA keinen Angriff auf Taiwan akzeptieren werden. Die Lage ist also angespannt und es bleibt nur zu hoffen, dass nicht ein erneuter Konflikt in Gewalt endet.
+Auch wenn es viele Ähnlichkeiten zum Krieg in der Ukraine gibt, gibt es ein paar wichtige Unterschiede. Zum einen Ist Taiwan eine Insel. Das würde einen möglichen Angriff und Krieg etwas komplizierter machen. Noch wichtiger ist aber die Position von den USA in diesem Konflikt. Denn anders als bei der Ukraine, hat der US-Präsident Joe Biden in den letzten Monaten auch mehrmals bekräftigt, dass die Amerikaner Taiwan im Ernstfall auch militärisch verteidigen würden. Diese Woche ist geplant, dass eine sehr hohe amerikanische Politikerin Taiwan besuchen wird. Sie will nochmals bekräftigen, dass die USA keinen Angriff auf Taiwan akzeptieren werden. Jedoch ist offen, ob sie wirklich nach Taiwan reisen wird. Dies, weil China Warnungen ausgesprochen hat. Die Lage ist also angespannt und es bleibt nur zu hoffen, dass nicht ein erneuter Konflikt in Gewalt endet.
 
 ### Nun bist du dran
 
