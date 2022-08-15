@@ -1,18 +1,17 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220816_Schule_AM_zmbx6h"
 artikel = true
 author = "Anna Deppeler"
 cc_licence = ""
 cc_src = ""
 date = 2022-08-16T04:00:00Z
 description = "Bericht über die Schule früher und heute"
-draft = true
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
-kategorien = ["Welt"]
+hero_img = "/v1660564754/museums-victoria-n1LIveUPls4-unsplash_ppslyz.jpg"
+img_description = "Schule"
+img_photographer = "Museums Victoria"
+img_src = "museums-victoria-n1LIveUPls4-unsplash_ppslyz"
+kategorien = ["Welt", "Europa"]
 markierungen = ["Organisationen", "Kultur", "Gesellschaft"]
 paid = false
 slug = ""
