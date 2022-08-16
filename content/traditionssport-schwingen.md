@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220818_Schwingen_AM_csnoka"
 artikel = true
 author = "Anja Borer"
 cc_licence = ""
 cc_src = ""
 date = 2022-08-18T04:00:00Z
 description = "Bericht über den Schweizer Traditionssport Schwingen"
-draft = true
 fdw = false
 hero_img = "/v1660565602/schwingen_l4waww.jpg"
 img_description = "Schwingen"
