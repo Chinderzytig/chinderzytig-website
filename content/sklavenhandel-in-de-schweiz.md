@@ -1,22 +1,21 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220823_Sklavenhandel_AM_gkhkwv"
 artikel = true
 author = "Anna Deppeler"
 cc_licence = ""
 cc_src = ""
 date = 2022-08-23T04:00:00Z
 description = "Bericht über den internationalen Gedenktag an den Sklavenhandel und dessen Abschaffung"
-draft = true
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
+hero_img = "/v1661194341/Bild_Sklavenhandel_q4exeu.jpg"
+img_description = "Slavinnen und Sklaven"
+img_photographer = "unbekannt"
+img_src = "Bild_Sklavenhandel_q4exeu"
 kategorien = ["Welt"]
 markierungen = ["Politik", "Gesellschaft"]
 paid = false
 slug = ""
-title = "Sklavenhandel in de Schweiz"
+title = "Sklavenhandel in der Schweiz"
 
 +++
 _Heute findet weltweit der internationale Tag der Erinnerung an den Sklavenhandel und dessen Abschaffung statt. Die Sklaverei scheint heute unvorstellbar. Menschen wurden wie Ware behandelt: Sie wurden angekettet, verschifft und verkauft. Wie entstand die Sklaverei? Wann wurde der Sklavenhandel abgeschafft und gab es in der Schweiz auch Sklaven und Sklavinnen?_
