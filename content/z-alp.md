@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220825_Alpsommer_AM_lzxfqe"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
@@ -47,3 +47,7 @@ Die Schweiz hat denn auch diesen Frühling bei der Unesco einen Antrag gestellt,
 ### Alpkäse oder Bergkäse?
 
 Zum Schluss noch ein kleiner Tipp. Wenn du echten Käse von der Alp geniessen willst, musst du im Laden auf die Bezeichnung „Alpkäse“ achten. Nur der „Alpkäse“ wird in den Sommermonaten von A bis Z auf der Alp hergestellt. Die sogenannten „Bergkäse“ werden während des ganzen Jahres in Käsereien von Bergdörfern hergestellt. Wenn möglich kaufst du den „Alpkäse“ natürlich direkt auf einer Alp und lässt dir auch gleich zeigen, wie er hergestellt wurde.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
