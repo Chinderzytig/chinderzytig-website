@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220830_European_Championships_AM_sxycel"
 artikel = true
 author = "Nicole Emch"
 cc_licence = ""
@@ -45,3 +45,7 @@ Die Olympischen Spiele 1972 setzten in verschiedenen Bereichen neue Massstäbe. 
 ### Wie geht es weiter mit den European Championships?
 
 In der ersten Zwischenbilanz Mitte der Woche waren die Veranstalter sehr zufrieden. Die Wettkämpfe waren gut besucht, die Resultate zum Teil hervorragend, die Stimmung im Publikum grossartig. Auch die Tatsache, dass die Wettkampfanlagen zum grossen Teil bereits vorhanden waren und die Wege zwischen den einzelnen Stadien kurz waren, wurde sehr geschätzt. Besonders im Leichtathletikstadion war der Applaus zum Teil ohrenbetäubend, insbesondere wenn die einheimischen Deutschen aufs Podest liefen, sprangen oder warfen. Wie schön die Stimmung für die Athletinnen und Athleten war, sagten diese auch immer wieder in den Siegerinterviews. Besonders für Randsportarten wie zum Beispiel Klettern oder Tischtennis ist es sicher toll, Teil einer so grossen Veranstaltung wie den European Championships zu sein. Die Aufmerksamkeit der Medien ist grösser. Zudem haben die Fans die Chance auch mal in «fremde» Sportarten reinzuschauen, für die sie vielleicht nicht extra an eine Europameisterschaft reisen würden. Jetzt, wo alles an einem Platz stattfand, nutzten sie die Chance, auch diese Sportlerinnen und Sportler zu unterstützen. Verschiedene Sportverbände der beteiligten Sportarten beklagten allerdings, dass sie nicht genügend in die Organisation eingebunden seien. Die Schwimm-EM, die bei der ersten Austragung 2018 Teil der European Championships war, fand dieses Jahr denn auch schon wieder separat in Rom statt, auch vom Leichtathletikverband waren ähnliche Pläne zu hören. Wie es mit den European Championships genau weitergeht, welche Sportarten dabei sein werden und wo diese stattfinden werden, ist deshalb noch nicht klar. Als begeisterte Zuschauerin hoffe ich persönlich sehr, dass es bald eine nächste Ausgabe geben wird. Ich wäre sofort wieder dabei.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
