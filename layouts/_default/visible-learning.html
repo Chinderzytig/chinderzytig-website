@@ -98,59 +98,5 @@
 		</section>
 
 		<a href="https://www.mirroco.ch/register" target="_blank" class="btn btn--visible">Registrieren/zum Testabo</a>
-
-		<h2 class="heading heading__content--secondary">Gibt es noch Fragen? Nimm Kontakt auf</h2>
-		<p class="visible__text">
-			Wir erzählen gerne mehr über Testabos und Visible Learning! Ausfüllen und
-			wir nehmen rasch Kontakt auf.
-		</p>
-		<form name="visible-learning" method="post" netlify-honeypot="bot-field" data-netlify="true" class="form">
-			<div class="form__fields-container">
-				<div class="form__left">
-					<div class="form__item">
-						<label for="anrede" class="form__label">Anrede</label>
-						<input type="text" name="anrede" id="anrede" placeholder="Anrede" class="form__input">
-					</div>
-					<div class="form__item">
-						<label for="name" class="form__label">Name*</label>
-						<input type="text" name="name" id="name" placeholder="Name*" class="form__input" required>
-					</div>
-					<div class="form__item">
-						<label for="email" class="form__label">E-Mail*</label>
-						<input type="email" name="e-mail" id="email" placeholder="E-Mail*" class="form__input" required>
-					</div>
-				</div>
-				<div class="form__right">
-					<div class="form__item">
-						<label for="produkte" id="produkte" class="form__label">An welchem Produkt bist du interessiert?*</label>
-						<select id="dropdown" name="produkte" class="form__input" required>
-							<option value="">Bitte wähle eine Option</option>
-							<option value="mirroco-Chinderzytig home">mirroco-Chinderzytig home</option>
-							<option value="mirroco-Chinderzytig basic Schulen">mirroco-Chinderzytig basic Schulen</option>
-							<option value="mirroco-Chinderzytig professional Schulen">mirroco-Chinderzytig professional Schulen</option>
-						</select>
-					</div>
-					<div class="form__item">
-						<label for="kommentare" class="form__label">Zusätzliche Kommentare</label>
-						<textarea name="kommentare" rows="6" placeholder="Zusätzliche Kommentare" class="form__input"></textarea>
-					</div>
-				</div>
-			</div>
-			<div class="form__checkbox">
-				<input type="checkbox" name="datenschutz" required>
-				<label for="datenschutz" class="form__label--checkbox">
-					Ich bin einverstanden, dass meine Personendaten im Kontext dieses
-					Formulars verarbeitet werden. Mehr Informationen findest du unter
-					<a href="https://www.chinderzytig.ch/datenschutz/" target="_blank" class="form__datenschutz">
-						chinderzytig.ch/datenschutz
-					</a>.
-				</label>
-			</div>
-			<div class="form__hidden">
-				<label>Bot trap</label>
-				<input name="bot-field" aria-hidden="true" class="form__input">
-			</div>
-			<button type="submit" value="Senden" class="btn btn--form form__submit">Senden</button>
-		</form>
 	</div>
 {{end}}
