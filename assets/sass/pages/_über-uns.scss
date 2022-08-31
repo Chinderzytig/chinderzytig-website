@@ -4,25 +4,9 @@
 	&__others { @include container-main; }
 
 	&__others {
-		margin-top: -3rem;
-		display: flex;
-		justify-content: space-around;
-		flex-wrap: wrap;
+		margin-bottom: 3rem;
+		font-weight: 400;
 
-		&-heading {
-			font-family: $font-patrick, $font-fallback;
-			font-size: $font-bigger;
-			color: $chinder-orange;
-		}
-
-		&-group {
-			width: 40rem;
-			margin-top: 3rem;
-		}
-
-		&-list {
-			list-style: none;
-			padding: 0;
-		}
+		@include respond(tab-port-sm) { text-align: center; }
 	}
 }

@@ -20,17 +20,9 @@
 			<div class="card card__buffer"></div>
 		</div>
 	</section>
-	<section class="about__others">
-		{{ range .Site.Data.pages.uber.others }}
-			<div class="about__others-group">
-				<h3 class="about__others-heading">{{ .heading }}</h3>
-				<ul class="about__others-list">
-					{{ range .members }}
-						<li>{{ .member }}</li>
-					{{ end }}
-				</ul>
-			</div>
-		{{ end }}
-		<div class="about__others-group"></div>
-	</section>
+	<div class="about__others">
+		Unsere Redaktion und unser Bildungsressort bestehen aus ca. 30
+		ehrenamtlichen Mitarbeitenden aus dem Schulwesen, der Medienlandschaft und
+		der Privatwirtschaft.
+	</div>
 {{end}}
