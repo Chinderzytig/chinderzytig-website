@@ -1,17 +1,16 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220906_Gesundheitsberufe_AM_a0ctnv"
 artikel = true
 author = "Anna Deppeler"
 cc_licence = ""
 cc_src = ""
 date = 2022-09-06T04:00:00Z
 description = "Bericht über die Gesundheitsbranche in der Schweiz"
-draft = true
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
+hero_img = "/v1662397245/camilo-jimenez-vGu08RYjO-s-unsplash_yuylln.jpg"
+img_description = "Krankenwagen"
+img_photographer = "Camilo Jimenez"
+img_src = "camilo-jimenez-vGu08RYjO-s-unsplash_yuylln"
 kategorien = []
 markierungen = ["Personen", "Gesellschaft", "Gesundheit"]
 paid = false
@@ -39,7 +38,7 @@ _Die Gesundheitsberufe sind vielfältig und äusserst wichtig für unsere Gesell
 
 Wie wäre es, wenn es keine Gesundheitsberufe gäbe? Wer würde die kranken oder betagten Menschen umsorgen und pflegen? Wo könnte eine verletzte Person hin? Wer würde Medikamente erfinden und verabreichen? Es ist klar: ohne die zahlreichen Berufe im Gesundheitswesen würde Vieles auf unserer Welt nicht funktionieren.
 
-Welche Berufe in der Gesundheit gibt es?
+### Welche Berufe in der Gesundheit gibt es?
 
 In der Schweiz gibt es ca. 300‘000 Personen, die im Gesundheitswesen tätig sind. Klassische Arbeitsorte sind Krankenhäuser, Kliniken, Praxen und Pflegeheime. Die Tätigkeiten in der Gesundheit sind sehr unterschiedlich. Es gibt Berufe, die mittels einer Lehre erlernt werden können und solche, für die es die (Berufs)-Matura und ein mehrjähriges Studium braucht.
 
@@ -61,7 +60,7 @@ Berufe nach einer Berufsausbildung:
 
 \- Fachmann/-frau Gesundheit (FaGe)
 
-\- Medizinische*r Praxisassistent*in
+\- Medizinische_r Praxisassistent_in
 
 \- Zahntechniker*in
 
@@ -89,11 +88,11 @@ Berufe nach einem Studium:
 
 …
 
-Personalmangel in der Gesundheitsbranche
+### Personalmangel in der Gesundheitsbranche
 
-Der Mangel betrifft nicht die ganze Gesundeitsbranche. In Berufen wie z.B. bei den Zahnärzt*innen oder Chirurg*innen hat es genügend Leute. Vor allem in den Pflegeberufen gibt es aber viel zu wenig Personal. Spätestens durch die Corona-Pandemie, als die Spitäler voll und überlastet waren, konnte dies sehr gut beobachtet werden.
+Der Mangel betrifft nicht die ganze Gesundeitsbranche. In Berufen wie z.B. bei den Zahnärzt_innen oder Chirurg_innen hat es genügend Leute. Vor allem in den Pflegeberufen gibt es aber viel zu wenig Personal. Spätestens durch die Corona-Pandemie, als die Spitäler voll und überlastet waren, konnte dies sehr gut beobachtet werden.
 
-Die Hauptgründe für den Mangel sind die schlechten Arbeitsbedingungen, negatives Arbeitsklima, der tiefe Lohn und die wenigen Lehrstellen. So sind zum Beispiel die Arbeitszeiten unregelmässig, es muss in der Nacht oder häufig auch am Wochenende gearbeitet werden. Das hat zur Folge, dass wenig Zeit für Freizeit, Freund*innen und Familie übrigbleibt. Ausserdem haben die Leute bei der Arbeit oft nur wenige und zu kurze Pausen. Auch die körperliche Anstrengung darf nicht vergessen werden. Viele Pflegende haben starke Gelenkschmerzen, weil sie täglich schwere Patient*innen stützen oder heben müssen. Dazu kommt, dass das Klima auf der Arbeit nicht immer gut ist. So herrscht in den Spitälern teilweise ein harscher und respektloser Umgangston. Dass der Lohn dann auch noch niedrig ist, macht den Beruf wenig attraktiv. Viele Menschen sind nicht mehr bereit für einen solchen „Knochenjob“ so wenig zu verdienen und dann noch schlecht behandelt zu werden. Schliesslich hat es zu wenig Lehrstellen, worauf sich junge Erwachsene bewerben können.
+Die Hauptgründe für den Mangel sind die schlechten Arbeitsbedingungen, negatives Arbeitsklima, der tiefe Lohn und die wenigen Lehrstellen. So sind zum Beispiel die Arbeitszeiten unregelmässig, es muss in der Nacht oder häufig auch am Wochenende gearbeitet werden. Das hat zur Folge, dass wenig Zeit für Freizeit, Freund_innen und Familie übrigbleibt. Ausserdem haben die Leute bei der Arbeit oft nur wenige und zu kurze Pausen. Auch die körperliche Anstrengung darf nicht vergessen werden. Viele Pflegende haben starke Gelenkschmerzen, weil sie täglich schwere Patient_innen stützen oder heben müssen. Dazu kommt, dass das Klima auf der Arbeit nicht immer gut ist. So herrscht in den Spitälern teilweise ein harscher und respektloser Umgangston. Dass der Lohn dann auch noch niedrig ist, macht den Beruf wenig attraktiv. Viele Menschen sind nicht mehr bereit für einen solchen „Knochenjob“ so wenig zu verdienen und dann noch schlecht behandelt zu werden. Schliesslich hat es zu wenig Lehrstellen, worauf sich junge Erwachsene bewerben können.
 
 Damit man dem Mangel entgegenwirken könnte, müssten sich also die Arbeitsbedingungen und das Arbeitsklima deutlich verbessern. Der Lohn müsste steigen, die Anzahl Lehrstellen verdoppelt und die Lehren attraktiver gemacht werden. Im Kanton Aargau z.B. wird neu eine kürzere Lehre von 2 Jahren für die Pflegeberufe angeboten. Ob dies etwas helfen wird und ob sich die Bedingungen bei der Arbeit verbessern werden, wird sich in den nächsten Jahren zeigen. Eins ist aber sicher: Applaudieren allein hilft nicht.
 
