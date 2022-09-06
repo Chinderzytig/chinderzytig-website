@@ -1,19 +1,18 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220908_Fachkr%C3%A4ftemangel_in_der_Schweiz_AM_wo36ks"
 artikel = true
 author = "Anja Borer"
 cc_licence = ""
 cc_src = ""
 date = 2022-09-08T04:00:00Z
 description = ""
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1662489702/csm_fachkraeftemangel_hotellerie_hotel_htr_d233c67a18_iwtew0.jpg"
 img_description = ""
 img_photographer = "fotolia/kamasigns"
 img_src = "https://www.htr.ch/story/dossier-studien/fachkraeftemangel-1640.html"
-kategorien = []
-markierungen = []
+kategorien = ["Europa"]
+markierungen = ["Organisationen", "Wirtschaft", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Zu wenig Fachpersonal in der Schweiz "
