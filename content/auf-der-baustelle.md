@@ -1,17 +1,16 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220915_Bauberufe_AM_rta4ms"
 artikel = true
 author = "Rahel Butt"
 cc_licence = ""
 cc_src = ""
 date = 2022-09-15T04:00:00Z
-description = ""
-draft = true
+description = "Artikel über die Baubranche"
 fdw = false
-hero_img = ""
+hero_img = "/v1662898233/ivan-bandura-0-no6ywKMPY-unsplash_hwa1lm.jpg"
 img_description = ""
-img_photographer = ""
-img_src = ""
+img_photographer = "Ivan Bandura"
+img_src = "ivan-bandura-0-no6ywKMPY-unsplash_hwa1lm"
 kategorien = []
 markierungen = ["Wirtschaft", "Gesellschaft", "Personen"]
 paid = false
