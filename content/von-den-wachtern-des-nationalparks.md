@@ -1,17 +1,16 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220913_Wa%CC%88chter_des_Nationalparks_AM_pw0uol"
 artikel = true
 author = "Carla Wohler"
 cc_licence = ""
 cc_src = ""
 date = 2022-09-13T04:00:00Z
 description = "Artikel über den Beruf als Nationalparkwächter*in"
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1662897375/wandern-essvm-nationalpark-copyright-transhelvetica-3_ybvkjb.webp"
 img_description = ""
-img_photographer = ""
-img_src = ""
+img_photographer = "graubünden.ch"
+img_src = "wandern-essvm-nationalpark-copyright-transhelvetica-3_ybvkjb"
 kategorien = []
 markierungen = ["Personen", "Natur"]
 paid = false
