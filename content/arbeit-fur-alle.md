@@ -1,17 +1,16 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20220920_Arbeit_f%C3%BCr_alle_AM_s3szbd"
 artikel = true
 author = "Anna Deppeler"
 cc_licence = ""
 cc_src = ""
 date = 2022-09-20T04:00:00Z
 description = ""
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1663618466/toblerone_mj3vok.webp"
 img_description = ""
-img_photographer = ""
-img_src = ""
+img_photographer = "Unbekannt"
+img_src = "toblerone_mj3vok"
 kategorien = ["Europa"]
 markierungen = ["Politik", "Personen", "Gesellschaft", "Wirtschaft", "Personen"]
 paid = false
