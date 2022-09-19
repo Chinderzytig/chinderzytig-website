@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Ich_gehe_in_die_Politik_AM_fe6dir"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2022-09-22T04:00:00Z
 description = "Bericht über den Beruf in der Politik"
-draft = true
 fdw = false
 hero_img = "/v1663425868/hansjorg-keller-p7av1ZhKGBQ-unsplash_rzp2ig.jpg"
 img_description = "Saal"
