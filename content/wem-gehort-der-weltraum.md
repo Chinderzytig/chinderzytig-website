@@ -30,7 +30,7 @@ Im Kalten Krieg standen sich in der zweiten Hälfte des 20. Jahrhunderts die bei
 
 ### Der Weltraumvertrag von 1967
 
-Der Wettlauf ins All brachte die Generalversammlung der Vereinten Nationen 1959 dazu,  eine Weltraumkommission\~\~,\~\~ einzuberufen. Dieser Ausschuss erarbeitete den Weltraumvertrag von 1967, welcher bis heute die Grundsätze des Weltraumrechts klärt. Wesentlich für die in der Einleitung aufgeworfene Frage ist sicherlich, dass die Erforschung und Nutzung des Weltraums grundsätzlich allen Staaten freistehen. Dennoch gilt zu beachten, dass der gesamte Weltraum keinen staatlichen oder privaten Machtansprüchen unterliegt und somit Staaten nicht befugt sind, Gesetze zu erlassen.
+Der Wettlauf ins All brachte die Generalversammlung der Vereinten Nationen 1959 dazu,  eine Weltraumkommission einzuberufen. Dieser Ausschuss erarbeitete den Weltraumvertrag von 1967, welcher bis heute die Grundsätze des Weltraumrechts klärt. Wesentlich für die in der Einleitung aufgeworfene Frage ist sicherlich, dass die Erforschung und Nutzung des Weltraums grundsätzlich allen Staaten freistehen. Dennoch gilt zu beachten, dass der gesamte Weltraum keinen staatlichen oder privaten Machtansprüchen unterliegt und somit Staaten nicht befugt sind, Gesetze zu erlassen.
 
 ### Darf Musk also den Weltraum kolonialisieren?
 
