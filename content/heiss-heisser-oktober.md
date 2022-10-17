@@ -6,12 +6,11 @@ cc_licence = ""
 cc_src = ""
 date = 2022-10-19T04:00:00Z
 description = ""
-draft = true
 fdw = true
-hero_img = ""
+hero_img = "/v1666020807/federica-galli-pF1ug8ysTtY-unsplash_adavjl.jpg"
 img_description = ""
-img_photographer = ""
-img_src = ""
+img_photographer = "Federica Galli"
+img_src = "Photo by <a href=\"https://unsplash.com/@fedechanw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Federica Galli</a> on <a href=\"https://unsplash.com/s/photos/weather-fall-hot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>"
 kategorien = []
 markierungen = []
 paid = false
@@ -25,7 +24,7 @@ Wetter und Klimawandel sind nicht dasselbe. Das muss uns immer wieder bewusst ge
 
 Vorneweg: Geniessen wir die Sonnenstrahlen, die auch gut für unsere Laune sind, und das schöne Wetter.
 
-Warum ist der Oktober so warm?
+### Warum ist der Oktober so warm?
 
 Der Oktober ist bisher rund 2 Grad wärmer als gewöhnlich. Dies hängt, so die Wetter-Erklärung, mit der höheren Luftfeuchtigkeit ab. Diese wäre normalerweise im September höher, jetzt trifft es den Oktober. Die Folge: die Nächte kühlen nicht so stark ab, die Lufttemperatur bleibt wärmer. Der Regen im September/Oktober befindet sich im normalen Rahmen wie früher. Folglich können wir festhalten, dass wir ohne Panik und ohne schlechtes Gewissen die Sonnenstrahlen annehmen dürfen. Gehen wir nochmals raus zum Spielen, Fahrradfahren, Wandern. Der goldene Herbst zeigt sich spätsommerlich von der Sonnenseite!
 
@@ -37,5 +36,4 @@ Leider doch. Die klimatischen Veränderungen auf der Erde sind eine Tatsache, we
 
 Das war meine Meinung zum Schluss. Wie siehst du das? Was erzählen deine Eltern? Wie lebt ihr zu Hause? Wie erleben deine Kolleg*innen die Diskussionen rund um das Klima?
 
-  
 Sprich darüber mit deinen Eltern, Lehrpersonen, Freunden – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
