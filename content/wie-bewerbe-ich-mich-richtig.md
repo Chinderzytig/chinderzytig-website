@@ -62,7 +62,7 @@ Es ist wichtig, dass deine Bewerbungsunterlagen gut formuliert sind, das heisst,
 
 ### Was gehört in den Lebenslauf?
 
-Nebst dem Bewerbungsbrief ist auch dein aktueller Lebenslauf wichtig. Darin sollten die wichtigsten Informationen zu deiner Person stehen. Für den Lebenslauf gibt es tolle Vorlagen im Internet. Auf dem [Lehrstellenportal Yousty](https://www.yousty.ch/de-CH/bewerbung/prozess/lebenslauf) findest du beispielsweise Vorlagen und viele weitere gute Tipps für deine Bewerbung.
+Nebst dem Bewerbungsbrief ist auch dein aktueller Lebenslauf wichtig. Darin sollten die wichtigsten Informationen zu deiner Person stehen. Für den Lebenslauf gibt es tolle Vorlagen im Internet. Auf dem Lehrstellenportal Yousty findest du beispielsweise Vorlagen und viele weitere gute Tipps für deine Bewerbung.
 
 Wenn du alle Unterlagen vorbereitet hast, zeige sie deinen Eltern oder deinen Lehrpersonen. Vielleicht sehen sie noch Tippfehler oder haben sonst einen Ratschlag für dich. Dann fehlt nur noch deine Unterschrift und du kannst die Unterlagen versenden. Jetzt gilt es, Geduld zu bewahren. Einige Lehrbetriebe melden sich erst nach zwei Wochen, weil sie viele Bewerbungen erhalten. In dieser Zeit kannst du dich aber schon an die nächste Bewerbung machen, du weisst ja jetzt genau, wie das geht.
 
