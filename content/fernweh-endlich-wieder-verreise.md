@@ -15,7 +15,7 @@ kategorien = []
 markierungen = []
 paid = false
 slug = ""
-title = "Fernweh – endlich wieder verreise"
+title = "Fernweh – endlich wieder verreisen"
 
 +++
 _Ferien sind super, Reisen ist noch besser. Unsere Welt ist so vielfältig. Die Landschaften, die Kulturen und die Menschen – es gibt so vieles zu entdecken. Nach der langen Corona-Pause ist die Reiselust wieder geweckt._
