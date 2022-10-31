@@ -1,19 +1,18 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20221103_AM_Kampf_der_Kinos_w3sumf"
 artikel = true
 author = "Rahel Butt"
 cc_licence = ""
 cc_src = ""
 date = 2022-11-03T04:00:00Z
 description = "Bericht über Kinos"
-draft = true
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
-img_src = ""
+hero_img = "/v1667208776/kino_iyfvag.jpg"
+img_description = "Kinosaal"
+img_photographer = "Colourbox"
+img_src = "https://www.srf.ch/kultur/film-serien/so-kaempfen-kinos-gegen-sinkende-besucherzahlen"
 kategorien = []
-markierungen = []
+markierungen = ["Gesellschaft", "Medien", "Kultur"]
 paid = false
 slug = ""
 title = "Kampf der Kinos"
