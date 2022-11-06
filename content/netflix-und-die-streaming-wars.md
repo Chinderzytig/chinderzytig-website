@@ -6,9 +6,8 @@ cc_licence = ""
 cc_src = ""
 date = 2022-11-10T05:00:00Z
 description = "Bericht über den Streamingdienst Netflix"
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1667764106/venti-views-lI7dlA5VBp8-unsplash_iryvcw.jpg"
 img_description = ""
 img_photographer = "Venti Views"
 img_src = "https://unsplash.com/photos/lI7dlA5VBp8"
@@ -21,7 +20,6 @@ title = "Netflix und die Streaming Wars"
 +++
 _Lange hatte Netflix eine alleinige Vorherrschaft im Raum des Streamings. In den letzten 10 Jahren hat sich Netflix in den meisten Haushalten eingenistet. Wenn man im eigenen Umfeld herumfragt, wird man kaum einen Haushalt ohne einen Netflix Zugang finden. Der Streaming-Riese war seiner Konkurrenz lang voraus. Doch in den letzten Jahren hat sich das Feld der Anbieter um einiges verdichtet._
 
-  
 {{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
