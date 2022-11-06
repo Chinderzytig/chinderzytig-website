@@ -21,6 +21,8 @@ body {
 	text-transform: uppercase;
 	margin-bottom: $margin-s;
 
+	&--margin-top { margin-top: 3rem; }
+
 	&__content {
 
 		&--primary {
