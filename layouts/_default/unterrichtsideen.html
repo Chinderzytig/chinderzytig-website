@@ -26,6 +26,17 @@
 		</div>
 
 		<h2 class="heading heading__content--secondary heading--margin-top">Beispiele aus dem Alltag</h2>
+		<div class="card__container">
+			{{ range .Site.Data.pages.unterrichtsideen.zeitungen }}
+				<div class="document__card card__hidden">
+					<h3 class="document__card-title">{{ .title }}</h3>
+					<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="document__card--unterrichtsideen">
+						<img src="{{ $.Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .document }}.png" alt="Schuleprojekte cover" class="document-sc__file">
+					</a>
+				</div>
+			{{ end }}
+			<div class="card card__buffer"></div>
+		</div>
 
 		<p class="visible__text">
 			Uns kann man für Unterrichtsideen aufbieten. Wir kommen gerne vorbei und
