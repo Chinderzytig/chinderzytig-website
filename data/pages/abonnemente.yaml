@@ -40,7 +40,7 @@ pricing:
     number: "ab CHF 250.-"
     target: "für Homeschooler und Schuler"
     hyper:
-      - link: "/visible-learning"
+      - link: "#visible-learning"
         label: "Mehr erfahren"
 
 
