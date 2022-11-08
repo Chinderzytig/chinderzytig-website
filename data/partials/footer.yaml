@@ -7,10 +7,8 @@ column_one:
     link: "/arbeitsmaterial"
   - label: Unterrichtsideen
     link: "/unterrichtsideen"
-  - label: Abonnemente
-    link: "/abonnemente"
-  - label: Visible Learning
-    link: "/visible-learning"
+  - label: Angebote
+    link: "/angebote"
   - label: Der Verein
     link: "/verein"
   - label: Kontakt
