@@ -51,6 +51,10 @@ fields:
   name: img_src
   label: Image source
   description: Enter the URL of the website where you sourced the image from.
+- name: kfk
+  type: boolean
+  label: Kinder schreiben für Kinder
+  description: Is this a "Kinder schreiben für Kinder" article?
 - name: cc_licence
   type: text
   config:
