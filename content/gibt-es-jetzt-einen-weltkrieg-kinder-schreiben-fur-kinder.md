@@ -12,6 +12,7 @@ img_description = ""
 img_photographer = " Artur Shamsutdinov"
 img_src = "https://unsplash.com/photos/gxZ-v3_gKtI"
 kategorien = ["Europa"]
+kfk = true
 markierungen = ["Politik"]
 paid = false
 slug = ""
