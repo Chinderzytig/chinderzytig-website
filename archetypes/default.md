@@ -15,6 +15,7 @@ markierungen: []
 arbeitsmaterial:
 fdw: false
 paid: false
+kfk: false
 artikel: true
 draft: true
 ---
