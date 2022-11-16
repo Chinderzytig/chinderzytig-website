@@ -92,5 +92,10 @@
 		font-weight: bold;
 		background-color: $map-minion;
 		padding: 1rem;
+
+		@include respond(tab-port-xl) {
+			width: 100%;
+			text-align: center;
+		}
 	}
 }
