@@ -16,7 +16,7 @@ kfk = true
 markierungen = ["Politik"]
 paid = false
 slug = ""
-title = "Gibt es jetzt einen Weltkrieg? (Kinder schreiben für Kinder)"
+title = "Gibt es jetzt einen Weltkrieg?"
 
 +++
 _Der Krieg in der Ukraine weitet sich auf Polen aus. Ein Versehen oder Absicht? Ein Ausrutscher oder der Beginn des 3. Weltkrieges? Der Raketeneinschlag in Polen erinnert an Mani Matters “Zündhölzli”. Hoffentlich entzündet es sich nicht._
