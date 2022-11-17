@@ -16,7 +16,7 @@
 			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 			{{ range $artikel.ByDate.Reverse }}
 				{{ if .Params.kfk }}
-					<a href="{{.RelPermalink}}" class="card card--white">
+					<a href="{{.RelPermalink}}" class="card card--grey card__hidden">
 						<div class="card__img-container">
 							<div class="card__kfk">Kinder schreiben für Kinder</div>
 							<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
@@ -33,7 +33,7 @@
 						</div>
 					</a>
 				{{ else }}
-					<a href="{{.RelPermalink}}" class="card card--white">
+					<a href="{{.RelPermalink}}" class="card card--grey">
 						<div class="card__img-container">
 							<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
 							{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
