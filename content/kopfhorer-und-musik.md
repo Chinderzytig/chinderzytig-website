@@ -53,7 +53,7 @@ Heute finden wir auf dem Markt die verschiedensten Arten von Kopfhörern.
 
 Von In-Ears und Over-Ears über Bluetooth- bis hin zum Noise-Cancelling-Kopfhörer. Mittlerweile bietet Teufel in fast jedem Segment und für jede Sound-Anforderung Kopfhörer an. Hierbei gibt es kein besser oder schlechter. Jede*r muss für sich entscheiden können, welche Art von Kopfhörern ihm*ihr am besten zusagt.
 
-In-Ears punkten vor allem bei den tieferen Tönen. On-Ears sitzen nicht immer ganz fest am Ohr, sodass der Klang zuweilen nach aussen entweichen und womöglich Sitznachbar*innen im Zug oder Kollegen im Büro stören kann. Over-Ears dagegen schirmen den Klang gut ab.
+In-Ears punkten vor allem bei den tieferen Tönen. On-Ears sitzen nicht immer ganz fest am Ohr, sodass der Klang zuweilen nach aussen entweichen und womöglich Sitznachbar*innen im Zug oder Kolleg*innen im Büro stören kann. Over-Ears dagegen schirmen den Klang gut ab.
 
 ### Welche Musik war früher aktuell?
 
