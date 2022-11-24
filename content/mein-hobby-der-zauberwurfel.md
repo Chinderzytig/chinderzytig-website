@@ -51,7 +51,7 @@ Die vier Schritte der Methode sind:
 
 Davon gibt es auch eine Anfänger Version:
 
-{{< image img="set-2_tyubh1.png" desc="Rubiks Cube Methode Anfänger Version" >}}
+{{< image img="set-2_srdehl.png" desc="Rubiks Cube Methode Anfänger Version" >}}
 
 **1.** Cross
 
