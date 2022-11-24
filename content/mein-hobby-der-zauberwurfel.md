@@ -39,7 +39,7 @@ _Jeder kennt den Zauberwürfel. Ein Würfel mit sechs verschiedenen Farben und s
 
 Welche Methoden gibt es denn?
 
-{{< image img="set-1_oi2yfr.png" desc="Rubik's Cube Methode" photographer="Enter name here" src="Enter photo src here" cc_licence="Enter CC licence type here" cc_src="Enter CC licence link here" >}}
+{{< image img="set-1_oi2yfr.png" desc="Rubik's Cube Methode" >}}
 
 Die vier Schritte der Methode sind:
 
@@ -53,19 +53,7 @@ Die vier Schritte der Methode sind:
 
 Davon gibt es auch eine Anfänger Version:
 
-![](https://lh6.googleusercontent.com/ZUb-Sm2NWtT0MkIqK76_zQy9q6OjdHvwq_iurzvz99XslKjrVpoT790bJbcW6YL253ke-4yc7DPCtxQtofmIGzsmHVnpPx7XRMJqbnHi_Dz3BfKMymgxrRMC2sqiNUCQUn1a6xKUk6Tpx_-vQwmQN1F9sYvUvloGMxRfiq_Niq9aWZOnhkmCiaN4BeL7yJToPpWDaIqKOA =182x182)!\[Ein Bild, das Baumaterial enthält.
-
-Automatisch generierte Beschreibung\](https://lh4.googleusercontent.com/eLbV9LypFU59xwbLKt64qW7_wnXCO5Cdzy9wXfWOBez6OMzCBYkAsJswCAkFMGJyLbWJeRr8ZB6FuUJLt688hN5tui0v_5-Z6Qb0NHJFWG9xKKkcL2TADTHURYH34xFdXxTlG6uisgCcfF6D1EqlFmISbDTdig-ZNO-vmVjNW_UwyYKJfVL-oq21kqXj_PCBo73oywYWCA =182x182)!\[Ein Bild, das ClipArt enthält.
-
-Automatisch generierte Beschreibung\](https://lh5.googleusercontent.com/yRCo7ehGhgCPojr0kn4s_-mhJQ3YHjg0ETJ90sK9olddKkSz2gP2Xw20sq_iJZiZaLS2eJHE3wNKYjrI_bj4Od80BdT4eSQi6vOjiuu-G0szuo-C5LDTqlIMvhvo1UkbgsHOgOPKSobeGrRmx9h_bCeNKEyUiiF2bbK8ibAN9g4_dNEFdGZYh-kSmVWWoFByTY9Yjoec2Q =182x182)
-
-!\[Ein Bild, das ClipArt enthält.
-
-Automatisch generierte Beschreibung\](https://lh5.googleusercontent.com/iVBde5QXKm8wUUoN9DZDYdBrCIlxxDAlgq3WBC50dxkzyz9QoYhzb_IRcylhDuWun-OkFdrYUH1lBTvnLcOeG4S45_9R_1kRhnYER57i8TzyJDlogldhOPlN_07eD01VreHI6VHB-qforLHvFJeYCP_mjeXXvpcTsOTn1phpLPcEj_F-4uMMyViVEZ6OZmoctAOZQKWvqQ =182x182)![](https://lh3.googleusercontent.com/olz0XNjXdHydUakdNQuBtpGOBuvo-UDz6eeF1xIIXfnG2-KW93Cs2AAz7U6-hXyPC4FPVUper9i_bjhqc8uANx_OVISq59Me2a9hA9JAwT_XAeeSd4B1QMdZ80BUQPDB-GI1oPO9_n6QACOWxPvIQx75HYn5BVe6Ht4TwIteUsV9JSs31_Nbn9SF1cuQTADvN38RBpTKmQ =182x182)!\[Ein Bild, das Toilettenartikel enthält.
-
-Automatisch generierte Beschreibung\](https://lh4.googleusercontent.com/So8ORHZfIFkii-9LRWcHmMeACptYLsC5qgOihkR4Pvo4v8gKqMNIs12HXIgTAvcMji6DD9b0qpidKFYY-ZMSNTLfxBuEPIW3JYuxmge2NetcLd-qXY3ve06aKmNSfswowxbFmm12L-wqaMwRiY23X4Lk_T5Cz2e4N2AQpnI1EVJyvT6nlb7eI7pnn7lKChMZpStshfry8w =182x182)
-
-![](https://lh3.googleusercontent.com/CT7KhJ1HohfxtezetgbQkPgyagEWWO_g6oIPkX1yF41xFUMdqZB1zbSwmklaM4zuGscDoX89kwigG3eitiBDkEQhkAVDQGM4nrp7rB847UKfm3JPilHuxkmIKaZ2JmS4w7HQK0Xzi1yQUvRjy23vCAJslPdMACBIPijIrjLLdJVnIDTGyP8shdtGSerERK3JFfmki6EhFg =182x182)
+{{< image img="set-2_tyubh1.png" desc="Rubiks Cube Methode Anfänger Version" >}}
 
 1\. Cross 2. First layer
 
