@@ -35,15 +35,13 @@ _Jeder kennt den Zauberwürfel. Ein Würfel mit sechs verschiedenen Farben und s
 
 </ul> {{< /info-box >}}
 
-### 
-
-Welche Methoden gibt es denn?
+### Welche Methoden gibt es denn?
 
 {{< image img="set-1_oi2yfr.png" desc="Rubik's Cube Methode" >}}
 
 Die vier Schritte der Methode sind:
 
-1. Cross: In diesem Schritt macht man ein Kreuz.
+1\. Cross: In diesem Schritt macht man ein Kreuz.
 
 2\. F2l (first 2 layers): Hier macht man die ersten beiden Schichten.
 
@@ -55,11 +53,11 @@ Davon gibt es auch eine Anfänger Version:
 
 {{< image img="set-2_tyubh1.png" desc="Rubiks Cube Methode Anfänger Version" >}}
 
-1\. Cross 2. First layer
+1\. Cross           2. First layer
 
-3\. Second layer 4. 3look yellow cross
+3\. Second layer       4. 3look yellow cross
 
-5\. 2look oll corners 6. 3look pll edges (Kanten)
+5\. 2look oll corners      6. 3look pll edges (Kanten)
 
 7\. 3look pll corners (Ecken)
 
