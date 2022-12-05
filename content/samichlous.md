@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20221206_Samichlous_AM_it6rze"
 artikel = true
 author = "Tina Maria Wagner"
 cc_licence = ""
 cc_src = ""
 date = 2022-12-06T05:00:00Z
 description = "Bericht über den Samichlous"
-draft = true
 fdw = false
 hero_img = "/v1670158535/krakenimages-liT5AlTmC8I-unsplash_lp42gl.jpg"
 img_description = ""
@@ -40,7 +39,7 @@ Sami ist die schweizerdeutsche Version des lateinischen sanctus - der Heilige. C
 
 ### Die Legenden
 
-Es gibt unzählige Legenden über Sankt Nikolaus. Neben vielen Wundern, welche er vollbracht haben soll, ist er hauptsächlich bekannt als grossherziger Gabenbringer. Es wird erzählt, dass er seinen Wohlstand nutzte, um Menschen in Armut Nahrung zu schenken. Es gab jedoch noch einen anderen Nikolaus, welcher in den Brauch des Samichlous eingeflochten wurde. Es wird erzählt, dass jener Nikolaus, der ebenfalls Bischof von Myra war, seine Schüler auf ihre guten und schlechten Taten prüfte. Je nach Tradition hatte der Nikolaus ein Buch mit dabei, in welchem alle guten und auch alle schlechten Taten der Kinder aufgelistet waren. Die guten Kinder erhielten Süsses, und für die schlechten hatte er die Rute dabei und einen Sack um sie einzupacken.
+Es gibt unzählige Legenden über Sankt Nikolaus. Neben vielen Wundern, welche er vollbracht haben soll, ist er hauptsächlich bekannt als grossherziger Gabenbringer. Es wird erzählt, dass er seinen Wohlstand nutzte, um Menschen in Armut Nahrung zu schenken. Es gab jedoch noch einen anderen Nikolaus, welcher in den Brauch des Samichlous eingeflochten wurde. Es wird erzählt, dass jener Nikolaus, der ebenfalls Bischof von Myra war, seine Schüler* innen auf ihre guten und schlechten Taten prüfte. Je nach Tradition hatte der Nikolaus ein Buch mit dabei, in welchem alle guten und auch alle schlechten Taten der Kinder aufgelistet waren. Die guten Kinder erhielten Süsses, und für die schlechten hatte er die Rute dabei und einen Sack um sie einzupacken.
 
 Manchmal begleitet der Schmutzli den Samichlous . Früher sollte er die unartigen Kinder in den Sack packen. Die Nikolaus-Tradition wurde damals genutzt um die Kinder zu erziehen. Diese Tradition durfte sich im Laufe der letzten Jahrzehnte zum Glück verändern. Heute ist auch der Schmutzli ein freundlicher Begleiter des Samichlous und der Chlousetag stets ein erfreuliches Ereignis.
 
