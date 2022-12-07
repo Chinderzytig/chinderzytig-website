@@ -1,20 +1,19 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20221208_Weltwirtschaftskrise_AM_hagjpn"
 artikel = true
 author = "Natasa Petruljevic"
 cc_licence = ""
 cc_src = ""
 date = 2022-12-08T05:00:00Z
 description = "Bericht über den Börsencrash 1929"
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1670416707/maxim-hopman-fiXLQXAhCfk-unsplash_h8ofjq.jpg"
 img_description = ""
-img_photographer = ""
+img_photographer = "Maxim Hopman"
 img_src = "https://unsplash.com/s/photos/stock-exchange"
-kategorien = []
+kategorien = ["Nordamerika", "Welt"]
 kfk = false
-markierungen = []
+markierungen = ["Wirtschaft"]
 paid = false
 slug = ""
 title = "Weltwirtschaftskrise – Börsenkrach 1929"
@@ -22,7 +21,6 @@ title = "Weltwirtschaftskrise – Börsenkrach 1929"
 +++
 _Viele haben vom Black Friday gehört. Viele wissen auch, dass dieser Tag für die Weltwirtschaft einer der schlimmsten überhaupt war. Aber was ist damals genau passiert und wie hat sich die Wirtschaft davon erholen können?_
 
-  
 {{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
@@ -47,7 +45,7 @@ Bei Aktien (Wertpapieren) handelt es sich um Anteile an Firmen, die Aktiengesell
 
 Am sogenannten "Schwarzen Freitag", dem 25. Oktober 1929, sanken die Werte der Aktien weltweit fast wie im Sturzflug und es kam zu einem weltweiten „Börsenkrach“.
 
-In den USA sprechen wir immer noch vom _Black Thursday,_ übersetzt Schwarzen Donnerstag_._ Wegen der Zeitverschiebung zwischen den USA und Europa wurde der Börsenkrach in Europa erst am Freitag wahrgenommen.
+In den USA sprechen wir immer noch vom _Black Thursday,_ übersetzt Schwarzen Donnerstag. Wegen der Zeitverschiebung zwischen den USA und Europa wurde der Börsenkrach in Europa erst am Freitag wahrgenommen.
 
 Das Geld, das viele Menschen in Aktien und Wertpapieren angelegt hatten, hatte plötzlich seinen Wert verloren.
 
