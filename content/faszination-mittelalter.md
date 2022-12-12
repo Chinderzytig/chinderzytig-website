@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20221212_Mittelalterm%C3%A4rkte_AM_morrwy"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2022-12-13T05:00:00Z
 description = "Bericht über Mittelaltermärkte"
-draft = true
 fdw = false
 hero_img = "/v1670873605/Mittelaltermarkt_ky0hjv.jpg"
 img_description = "Mittelaltermarkt"
