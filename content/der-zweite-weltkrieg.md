@@ -1,20 +1,19 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20221215_Zweiter_Weltkrieg_AM_mcma44"
 artikel = true
 author = "Rahel Butt"
 cc_licence = ""
 cc_src = ""
 date = 2022-12-15T04:00:00Z
 description = "Kurzbericht über den Zweiten Weltkrieg"
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1670960596/WW2_fqmslu.jpg"
 img_description = "Polnische Kriegsgefangene"
 img_photographer = "Franz Peter Weixler, Deutsches Historisches Museum, Berlin"
 img_src = "https://www.dhm.de/lemo/bestand/objekt/ba111196 "
-kategorien = []
+kategorien = ["Welt"]
 kfk = false
-markierungen = []
+markierungen = ["Politik"]
 paid = false
 slug = ""
 title = "Der Zweite Weltkrieg"
