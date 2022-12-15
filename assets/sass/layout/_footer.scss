@@ -55,7 +55,6 @@
 
 		&-left {
 			display: flex;
-			flex-direction: column;
 
 			@include respond(tab-land) { margin-left: 5rem; }
 
@@ -109,6 +108,7 @@
 		text-decoration: none;
 		display: flex;
 		align-items: center;
+		&:not(:last-child) { margin-right: 3rem; }
 
 		@include respond(tab-port-lg) { margin-top: 3rem; }
 
