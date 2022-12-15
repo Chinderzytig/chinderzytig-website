@@ -92,6 +92,7 @@ fields:
     - Welt
     - Ozeanien
     - Weltraum Universium
+    - Schweiz
   label: kategorien
 - type: list
   name: markierungen
