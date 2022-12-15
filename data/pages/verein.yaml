@@ -61,6 +61,10 @@ companies:
   logo:
     - img: "schwarzweiss_d_bmyctr.eps"
       desc: Migros logo
+- website: "https://www.keystone-sda.ch/home"
+  logo:
+    - img: "keystone-black_ltgj7k.png"
+      desc: Keystone SDA logo
 - website: "https://stiftungschweiz.ch/"
   logo:
     - img: "stiftun_schweiz_x8sv4n.png"
@@ -77,6 +81,14 @@ companies:
   logo:
     - img: "sm_colour_l7ueym.png"
       desc: Schweizer Medien logo
+- website: "https://www.be.ch/de/start.html"
+  logo:
+    - img: "kanton-bern_s72rzr.png"
+      desc: Kanto Bern logo
+- website: "https://www.mobiliar.ch/"
+  logo:
+    - img: "Mobiliar_Logo_z4lidg.png"
+      desc: "die Mobiliar logo "
 - website: "https://www.mirroco.ch"
   logo:
     - img: "mirroco-logo_k926vj.png"
@@ -137,3 +149,7 @@ companies:
   logo:
     - img: "volksschule_munsingen_lhqrwu.gif"
       desc: Volksschule Münsingen logo
+- website: "https://www.aragag.ch/de/reinigungsfirma-bern/?oid=10095&lang=de"
+  logo:
+    - img: "Arag_dgug2o.png"
+      desc: ARAG AG Gebäudereinigung logo
