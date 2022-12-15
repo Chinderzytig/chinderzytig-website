@@ -28,7 +28,7 @@
 
 		@include respond(tab-land) { padding: 2rem 3rem; }
 
-		@include respond(tab-port-lg) {
+		@include respond(tab-port-xl) {
 			flex-direction: column-reverse;
 			padding: 3rem 0;
 		}
@@ -50,7 +50,7 @@
 		&-right {
 			align-self: flex-end;
 
-			@include respond(tab-port-lg) { align-self: center; }
+			@include respond(tab-port-xl) { align-self: center; }
 		}
 
 		&-left {
@@ -58,11 +58,12 @@
 
 			@include respond(tab-land) { margin-left: 5rem; }
 
-			@include respond(tab-port-lg) {
-				flex-direction: column-reverse;
+			@include respond(tab-port-xl) {
 				align-items: center;
 				margin-left: 0;
 			}
+
+			@include respond(phone-land-lg) { flex-direction: column-reverse; }
 		}
 	}
 
@@ -110,7 +111,11 @@
 		align-items: center;
 		&:not(:last-child) { margin-right: 3rem; }
 
-		@include respond(tab-port-lg) { margin-top: 3rem; }
+		@include respond(tab-port-xl) { margin-top: 3rem; }
+
+		@include respond(phone-land-lg) {
+			&:not(:last-child) { margin-right: 0; }
+		}
 
 		@include respond(phone-sm) { margin-left: 0; }
 
