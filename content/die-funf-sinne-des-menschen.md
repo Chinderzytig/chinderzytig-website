@@ -47,3 +47,7 @@ Etwas komplizierter wird es beim Sinnesorgan Ohr. Töne, die wir hören, bewegen
 ### Das grösste Sinnesorgan des Menschen
 
 An das fünfte und grösste Sinnesorgan des Menschen würde man wohl zuerst gar nicht denken. Es ist die Haut. Sie erkennt ganz viele unterschiedliche Dinge wie Wärme und Kälte oder Schmerz. Wie auch beim Schmecken, kann die Haut also auch verhindern, dass du dich ernsthaft verbrennst oder dir sonst weh tust. Der letzterwähnte Sinn ist also das Fühlen. Da die Haut ausserdem auch viel ertasten kann, wird dieser Sinn auch „Tastsinn“ genannt.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
