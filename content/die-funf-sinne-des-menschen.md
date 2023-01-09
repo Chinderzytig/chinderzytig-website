@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2023-01-10T04:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1673294779/yaya-favela-GDHHpVGgg9c-unsplash_j6pqjy.jpg"
 img_description = ""
