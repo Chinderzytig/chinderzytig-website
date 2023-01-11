@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230112_Kuhnagel_AM_wiacxz"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
