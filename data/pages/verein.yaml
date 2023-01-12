@@ -1,4 +1,11 @@
 media:
+- url: "https://www.baerntoday.ch/bern/finanzkrise-zweiter-weltkrieg-und-wm-in-katar-fuer-kinder-erklaert-149398835?utm_source=shared-copyToClipboard&utm_medium=shared&utm_campaign=Social%20Media"
+  logo:
+    - img: "baern_today_rw4tjp.png"
+      description: "Bärn Today logo"
+  content:
+    - title: "Finanzkrise, Zweiter Weltkrieg und WM in Katar – für Kinder erklärt"
+      date: "24.12.2022"
 - url: "https://www.lch.ch/fileadmin/user_upload_lch/BILDUNG_SCHWEIZ/2021/2105.pdf"
   logo:
     - img: "lch_cgs75m.png"
