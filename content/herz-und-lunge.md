@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230117_Herz_und_Lunge_AM_zbmhxn"
 artikel = true
 author = "Natasa Petruljevic"
 cc_licence = ""
 cc_src = ""
 date = 2023-01-17T05:00:00Z
 description = "Bericht zum Herz- und Lungenkreislauf"
-draft = true
 fdw = false
 hero_img = "/v1673800953/herz_lunge_opi7kx.jpg"
 img_description = "Herz/Lunge"
