@@ -6,12 +6,11 @@ cc_licence = ""
 cc_src = ""
 date = 2023-01-19T05:00:00Z
 description = "Was ist eigentlich Gesundheit?"
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1673802273/gesundheit_kvs8bk.png"
 img_description = ""
 img_photographer = ""
-img_src = ""
+img_src = "https://stock.adobe.com/ch_de/search/images?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=healthy+kid&order=relevance&price%5B%24%5D=1&safe_search=1&limit=100&search_page=1&search_type=usertyped&acp=&aco=healthy+kid&get_facets=0"
 kategorien = []
 kfk = false
 markierungen = ["Gesundheit"]
