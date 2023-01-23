@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230119_Gesundheit_AM_kkiv9o"
 artikel = true
 author = "Kiruthihan Srikaran"
 cc_licence = ""
 cc_src = ""
 date = 2023-01-24T05:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1674495589/32590465_highres_vudtuo.jpg"
 img_description = ""
