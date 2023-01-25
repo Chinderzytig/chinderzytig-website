@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230126_Schmerzen_AM_huouge"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2023-01-26T05:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1674680192/370791163_highres_k21q4z.jpg"
 img_description = ""
