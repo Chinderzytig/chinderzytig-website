@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20221110_Netflix_und_die_Streaming_Wars_AM_tcaxyb"
 artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
@@ -12,6 +12,7 @@ img_description = ""
 img_photographer = "Venti Views"
 img_src = "https://unsplash.com/photos/lI7dlA5VBp8"
 kategorien = ["Welt"]
+kfk = false
 markierungen = ["Medien"]
 paid = false
 slug = ""
