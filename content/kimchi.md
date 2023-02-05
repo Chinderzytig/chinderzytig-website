@@ -1,20 +1,19 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230202_KIMCHI_AM_1_t4cpxn"
 artikel = true
 author = "Tina Maria Wagner"
 cc_licence = ""
 cc_src = ""
 date = 2023-02-01T23:00:00Z
 description = ""
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1675606566/portuguese-gravity-Gj0imgIk-qo-unsplash_rgwv5g.jpg"
 img_description = ""
 img_photographer = "Portuguese Gravity"
 img_src = "https://unsplash.com/de/fotos/Gj0imgIk-qo"
-kategorien = []
+kategorien = ["Asien"]
 kfk = false
-markierungen = []
+markierungen = ["Gesellschaft", "Natur"]
 paid = false
 slug = ""
 title = "Kimchi"
