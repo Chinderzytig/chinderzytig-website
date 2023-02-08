@@ -5,10 +5,9 @@ author = "Lars Ziörjen"
 cc_licence = ""
 cc_src = ""
 date = 2023-02-08T19:00:00Z
-description = ""
-draft = true
-fdw = false
-hero_img = ""
+description = "Bericht über das Erdbeben im Grenzgebiet zwischen der Türkei und Syrien"
+fdw = true
+hero_img = "/v1675885352/554284434_highres_tckvoh.jpg"
 img_description = ""
 img_photographer = "KEYSTONE"
 img_src = "KEYSTONE"
@@ -17,7 +16,7 @@ kfk = false
 markierungen = []
 paid = false
 slug = ""
-title = "Jahrhundert-Erdbeben"
+title = "Sonder-Fokus: Jahrhundert-Erdbeben"
 
 +++
 _Im Grenzgebiet zwischen Syrien und der Türkei ereignete sich anfangs Woche ein Erdbeben. Eine Katastrophe mit mehr als 10’000 Toten (Stand: heute). Auf das erste Erdbeben mit der Stärke 7,7, ereignete sich nur Stunden später ein zweites (6,6) und danach sogar noch ein drittes (7,5). Wie ist die Lage dort? Gibt es Hoffnung?_
