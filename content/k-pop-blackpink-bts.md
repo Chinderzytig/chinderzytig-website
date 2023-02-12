@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "POP_BTS_Blackpink_AM_sbjt6l"
 artikel = true
 author = "Natasa Petruljevic"
 cc_licence = ""
 cc_src = ""
 date = 2023-02-16T05:00:00Z
 description = "Bericht über K-Pop"
-draft = true
 fdw = false
 hero_img = "/v1676217936/551891670_highres_ojynrd.jpg"
 img_description = "BTS"
