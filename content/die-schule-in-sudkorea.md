@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230214_Schule_in_Korea_AM_zw2qga"
 artikel = true
 author = "Katja Bellwald"
 cc_licence = ""
