@@ -1,20 +1,19 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230221_Wirtschaftswunder_S%C3%BCdkorea_AM_wlurcp"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2023-02-21T05:00:00Z
 description = ""
-draft = true
 fdw = false
-hero_img = ""
-img_description = ""
-img_photographer = ""
+hero_img = "/v1676915553/322746597_highres_svgkcq.jpg"
+img_description = "KEYSTONE"
+img_photographer = "KEYSTONE"
 img_src = ""
-kategorien = []
+kategorien = ["Asien"]
 kfk = false
-markierungen = []
+markierungen = ["Wirtschaft"]
 paid = false
 slug = ""
 title = "„Wirtschaftswunder“ Südkorea"
