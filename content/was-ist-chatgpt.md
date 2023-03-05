@@ -1,20 +1,19 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230302_ChatGPT_AM_nammvn"
 artikel = true
 author = "Kiruthihan Srikaran"
 cc_licence = ""
 cc_src = ""
 date = 2023-03-02T05:00:00Z
-description = ""
-draft = true
+description = "Bericht über den Chatbot \"ChatGPT\""
 fdw = false
 hero_img = "/v1678009288/552533133_socialmedia_r0bpxg.jpg"
-img_description = ""
-img_photographer = ""
-img_src = ""
+img_description = "ChatGPT"
+img_photographer = "KEYSTONE"
+img_src = "KEYSTONE"
 kategorien = ["Welt"]
 kfk = false
-markierungen = ["Medien"]
+markierungen = ["Wissenschaft", "Medien"]
 paid = false
 slug = ""
 title = "Was ist ChatGPT?"
