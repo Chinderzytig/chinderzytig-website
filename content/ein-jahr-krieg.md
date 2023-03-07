@@ -1,12 +1,11 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230307_Ein_Jahr_Krieg_AM_ejckyh"
 artikel = true
 author = "Botond Kalotay"
 cc_licence = ""
 cc_src = ""
 date = 2023-03-07T04:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1678176089/526998325_socialmedia_yetf6r.jpg"
 img_description = ""
