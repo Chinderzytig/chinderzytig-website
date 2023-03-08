@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230316_Erdbeben_T%C3%BCrkei_und_Syrien_AM_urhyjm"
 artikel = true
 author = "Natasa Petruljevic"
 cc_licence = ""
@@ -10,9 +10,9 @@ draft = true
 fdw = false
 hero_img = "/v1678283357/432102213_socialmedia_v2sr5l.jpg"
 img_description = ""
-img_photographer = ""
-img_src = ""
-kategorien = []
+img_photographer = "KEYSTONE"
+img_src = "KEYSTONE"
+kategorien = ["Europa"]
 kfk = false
 markierungen = []
 paid = false
@@ -28,13 +28,11 @@ _In diesem Artikel erfährst du, wieso es in der Türkei zu Erdbeben kam und was
 
 <ul>
 
-<li>Text.</li>
+<li>Wenn sich zwei Erdplatten ineinander verhaken und mit einem plötzlichen Ruck voneinander lösen, entstehen Erdbeben.</li>
 
-<li>Text.</li>
+<li>Die Türkei und ein Teil von Syrien liegt in einer tektonischen Hochrisikozone – quasi einem Schleudersitz der Erdplatten. In dieser Region stoßen gleich mehrere tektonische Platten aufeinander.</li>
 
-<li>Text.</li>
-
-<li>Text.</li>
+<li>Die bei den kürzlich erfolgten Erdstößen freigesetzte Energie war mehr als doppelt so hoch wie bei dem stärksten historischen Erdbeben an dieser Verwerfungszone.</li>
 
 </ul> {{< /info-box >}}
 
