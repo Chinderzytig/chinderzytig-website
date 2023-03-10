@@ -117,6 +117,9 @@ fields:
     - Sport
     - Wirtschaft
     - Wissenschaft
+    - Geschichte
+    - 3-6 Klasse
+    - Oberstufe
 - name: arbeitsmaterial
   type: text
   config:
