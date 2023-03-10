@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Oscarquiz_Lösungen_da9mua"
 artikel = true
 author = "Kinder schreiben für Kinder"
 cc_licence = ""
@@ -36,3 +36,9 @@ title = "Oscars Quiz"
 {{< image img="7-frage_tz0fht.png" desc="Siebte Frage des Quiz" >}}
 
 {{< image img="8-frage_zymz6q.png" desc="Achte Frage des Quiz" >}}
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
