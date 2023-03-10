@@ -19,7 +19,6 @@ slug = ""
 title = "Oscars Quiz"
 
 +++
-
 {{< image img="1-frage_pshd28.png" desc="Erste Frage des Quiz" >}}
 
 {{< image img="2-frage_pq3cgr.png" desc="Zweite Frage des Quiz" >}}
@@ -38,6 +37,6 @@ title = "Oscars Quiz"
 
 {{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+{{< generic-group title="Lösungen zum Quiz" >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+{{< /generic-group >}}
