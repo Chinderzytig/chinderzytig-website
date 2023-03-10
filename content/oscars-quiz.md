@@ -20,3 +20,19 @@ slug = ""
 title = "Oscars Quiz"
 
 +++
+
+{{< image img="1-frage_pshd28.png" desc="Erste Frage des Quiz" >}}
+
+{{< image img="2-frage_pq3cgr.png" desc="Zweite Frage des Quiz" >}}
+
+{{< image img="3-frage_vafcwt.png" desc="Dritte Frage des Quiz" >}}
+
+{{< image img="4-frage_dbucuf.png" desc="Vierte Frage des Quiz" >}}
+
+{{< image img="5-frage_penblj.png" desc="Fünfte Frage des Quiz" >}}
+
+{{< image img="6-frage_ol5y4g.png" desc="Sechste Frage des Quiz" >}}
+
+{{< image img="7-frage_tz0fht.png" desc="Siebte Frage des Quiz" >}}
+
+{{< image img="8-frage_zymz6q.png" desc="Achte Frage des Quiz" >}}
