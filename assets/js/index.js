@@ -5,7 +5,7 @@ $(document).ready(function() {
 				function open(event){
 						document.querySelector(".popup").style.display = "block";
 				},
-				2000
+				3000
 		)
 	});
 
