@@ -1,13 +1,26 @@
 $(document).ready(function() {
 
 	window.addEventListener("load", function(){
-		setTimeout(
+		setInterval(
 				function open(event){
 						document.querySelector(".popup").style.display = "block";
-				},
-				1000
-		);
+				}.bind(this),3000);
 	});
+
+	Function.prototype.bind = function(parent) {
+    var f = this;
+    var args = [];
+
+    for (var a = 1; a < arguments.length; a++) {
+        args[args.length] = arguments[a];
+    }
+
+    var temp = function() {
+        return f.apply(parent, args);
+    }
+
+    return(temp);
+	}
 
 	document.querySelector("#close").addEventListener("click", function(){
 		document.querySelector(".popup").style.display = "none";
