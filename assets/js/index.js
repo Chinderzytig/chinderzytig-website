@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 	window.addEventListener("load", function(){
-		setInterval(
+		setTimeout(
 				function open(event){
 						document.querySelector(".popup").style.display = "block";
 				}.bind(this),3000);
