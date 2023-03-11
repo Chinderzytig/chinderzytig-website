@@ -1,4 +1,18 @@
 $(document).ready(function() {
+
+	window.addEventListener("load", function(){
+		setTimeout(
+				function open(event){
+						document.querySelector(".popup").style.display = "block";
+				},
+				2000
+		)
+	});
+
+	document.querySelector("#close").addEventListener("click", function(){
+		document.querySelector(".popup").style.display = "none";
+	});
+
   $('#bread a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('breadcrumb__active');
 
 	$("#js-scroll-to-comments").click(function() {
