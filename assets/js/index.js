@@ -5,8 +5,8 @@ $(document).ready(function() {
 				function open(event){
 						document.querySelector(".popup").style.display = "block";
 				},
-				3000
-		)
+				1000
+		);
 	});
 
 	document.querySelector("#close").addEventListener("click", function(){
