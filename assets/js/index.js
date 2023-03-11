@@ -1,31 +1,5 @@
 $(document).ready(function() {
 
-	window.addEventListener("load", function(){
-		setTimeout(
-				function open(event){
-						document.querySelector(".popup").style.display = "block";
-				}.bind(this),3000);
-	});
-
-	Function.prototype.bind = function(parent) {
-    var f = this;
-    var args = [];
-
-    for (var a = 1; a < arguments.length; a++) {
-        args[args.length] = arguments[a];
-    }
-
-    var temp = function() {
-        return f.apply(parent, args);
-    }
-
-    return(temp);
-	}
-
-	document.querySelector("#close").addEventListener("click", function(){
-		document.querySelector(".popup").style.display = "none";
-	});
-
   $('#bread a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('breadcrumb__active');
 
 	$("#js-scroll-to-comments").click(function() {
@@ -45,5 +19,31 @@ $(document).ready(function() {
 		}
 
 		$('html, body').animate({scrollTop: $(this).offset().bottom}, 1000);
+	});
+
+	window.addEventListener("load", function(){
+		setTimeout(
+				function open(event){
+						document.querySelector(".popup").style.display = "block";
+				}.bind(this),3000);
+	});
+
+	Function.prototype.bind = function(parent) {
+		var f = this;
+		var args = [];
+
+		for (var a = 1; a < arguments.length; a++) {
+				args[args.length] = arguments[a];
+		}
+
+		var temp = function() {
+				return f.apply(parent, args);
+		}
+
+		return(temp);
+	}
+
+	document.querySelector("#close").addEventListener("click", function(){
+		document.querySelector(".popup").style.display = "none";
 	});
 });
