@@ -1,4 +1,11 @@
 {{define "main"}}
+	<div class="popup">
+		<button class="popup__close" id=”close”>&times;</button>
+		<h2 class="heading heading__tertiary">Hilf mit, melde dich...</h2>
+		<p class="popup__text">Wir suchen dich! Denn ohne dich, gibt es bis auf Weiteres weniger Arbeitsmaterial.</p>
+		<a href="{{ .Site.Params.baseurl }}/hilf-mit-melde-dich/" class="btn btn--secondary popup__button">Weiter Infos hier</a>
+	</div>
+
 	<section class="map">
 			{{- partial "world_map.html" . -}}
 	</section>
