@@ -10,6 +10,7 @@
 	top: 50%;
 	border-radius: 8px;
 	text-align: center;
+	display: none;
 
 	&__close {
 		display: block;
@@ -50,5 +51,10 @@
 	  text-align: justify;
 		margin-bottom: 40px;
 	  line-height: 25px;
+	}
+
+	&__button {
+		display: block;
+		position: relative;
 	}
 }
