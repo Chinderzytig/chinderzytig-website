@@ -160,3 +160,7 @@ companies:
   logo:
     - img: "Arag_dgug2o.png"
       desc: ARAG AG Gebäudereinigung logo
+- website: "https://www.bgbern.ch/"
+  logo:
+    - img: "BGB_Logo_x6abss.png"
+      desc: Burgergemeinde Bern logo
