@@ -6,7 +6,6 @@ cc_licence = ""
 cc_src = ""
 date = 2023-03-16T05:00:00Z
 description = ""
-draft = true
 fdw = false
 hero_img = "/v1678283357/432102213_socialmedia_v2sr5l.jpg"
 img_description = ""
