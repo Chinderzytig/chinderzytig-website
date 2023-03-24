@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230323_K%C3%A4mpfen_ohne_Gewalt-Gandhi_AM_gbjpsz"
 artikel = true
 author = "Kiruthihan Srikaran"
 cc_licence = ""
