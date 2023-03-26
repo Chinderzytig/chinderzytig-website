@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "20230330_Wirbelst%C3%BCrme_AM_hcjpng"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
