@@ -164,3 +164,7 @@ companies:
   logo:
     - img: "BGB_Logo_x6abss.png"
       desc: Burgergemeinde Bern logo
+- website: "https://gvb.ch/de.html"
+  logo:
+    - img: "Logo_GVB_ku49it.png"
+      desc: GVB logo
