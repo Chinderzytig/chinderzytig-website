@@ -1,14 +1,13 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "1_Arbeitsmaterial_Ostereier_verbessert.docx_guuwxw"
 artikel = true
 author = "Sarah Hutter"
 cc_licence = ""
 cc_src = ""
 date = 2023-04-04T04:00:00Z
 description = ""
-draft = true
 fdw = false
-hero_img = ""
+hero_img = "/v1680610490/517493295_socialmedia_zukxky.jpg"
 img_description = ""
 img_photographer = ""
 img_src = ""
