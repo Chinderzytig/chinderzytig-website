@@ -6,15 +6,14 @@ cc_licence = ""
 cc_src = ""
 date = 2023-04-11T22:00:00Z
 description = ""
-draft = true
-fdw = false
-hero_img = ""
+fdw = true
+hero_img = "/v1681412111/558568510_socialmedia_eelnyg.jpg"
 img_description = ""
-img_photographer = ""
-img_src = ""
-kategorien = []
+img_photographer = "KEYSTONE"
+img_src = "KEYSTONE"
+kategorien = ["Welt"]
 kfk = false
-markierungen = []
+markierungen = ["Gesellschaft", "Oberstufe", "Wissenschaft"]
 paid = false
 slug = ""
 title = "Übernimmt KI die Kontrolle?"
@@ -28,7 +27,7 @@ Zunächst einmal ist es wichtig zu verstehen, dass KI derzeit noch nicht so fort
 
 Es ist auch wichtig zu beachten, dass KI-Systeme von Menschen entwickelt werden und daher von Menschen kontrolliert werden können. Die Entwicklung von KI-Systemen erfordert viel Arbeit und Forschung, und es gibt viele Regeln und Vorschriften, die sicherstellen sollen, dass sie sicher und verantwortungsbewusst eingesetzt werden. Es gibt jedoch einige Bedenken hinsichtlich der Zukunft von KI. Einige Expert*innen glauben, dass KI eines Tages so fortgeschritten sein könnte, dass sie in der Lage ist, eigenständig zu handeln und möglicherweise sogar menschliche Entscheidungen zu treffen. In diesem Szenario müssten wir sicherstellen, dass KI-Systeme verantwortungsbewusst eingesetzt werden, um sicherzustellen, dass sie nicht außer Kontrolle geraten und Schaden verursachen.
 
-Was ist ChatGPT?
+### Was ist ChatGPT?
 
 ChatGPT ist ein Computerprogramm, das wie ein sehr kluger Assistent funktioniert. Es kann mit Menschen auf der ganzen Welt sprechen und ihnen bei verschiedenen Dingen helfen, wie zum Beispiel Antworten auf Fragen geben oder lustige Witze erzählen. Aber wie funktioniert ChatGPT? Nun, es basiert auf etwas, das Künstliche Intelligenz (KI) genannt wird. KI ist wie ein Gehirn für Computer. Genau wie wir lernen, indem wir Erfahrungen sammeln und unser Gehirn verwendet, um Dinge zu verstehen und zu lernen, kann auch ein Computer mit Hilfe von KI lernen.
 
@@ -36,7 +35,7 @@ ChatGPT hat Millionen von Texten und Gesprächen gelesen, um zu verstehen, wie M
 
 Insgesamt ist es unwahrscheinlich, dass KI die Kontrolle über den Menschen übernimmt, insbesondere nicht in der nahen Zukunft. Wir müssen jedoch sicherstellen, dass wir die Entwicklung von KI-Systemen verantwortungsbewusst steuern, um sicherzustellen, dass sie sicher und zu unserem Nutzen eingesetzt werden
 
-Nun bist du dran
+### Nun bist du dran
 
 Denkst du, KI kann uns Menschen in Zukunft kontrollieren? Was machen die Erwachsenen in deinem Leben für Erfahrungen mit KI?
 
