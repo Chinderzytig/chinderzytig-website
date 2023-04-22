@@ -15,8 +15,7 @@ column_one:
     link: "/kontakt"
   - label: Datenschutz
     link: "/datenschutz"
-  - label: Admin
-    link: "/admin"
+
 column_two:
   - label: Afrika
     link: "/kategorien/afrika"
