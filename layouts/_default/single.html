@@ -12,9 +12,13 @@
 					class="single__image-img"/>
 				<figcaption class="single__image-caption">
 					{{ partial "svgs/triangle_up_svg.html" (dict "fill" "#6C685D" "width" 15 "height" 15) }}
-					<a href="{{ .Params.img_src }}" title="{{ .Params.img_description }}" target="_blank" class="single__image-src">
+					{{ if .Params.img_src }}
+						<a href="{{ .Params.img_src }}" title="{{ .Params.img_description }}" target="_blank" class="single__image-src">
+							<div class="single__image-photographer">{{ .Params.img_photographer }}</div>
+						</a>
+					{{ else}}
 						<div class="single__image-photographer">{{ .Params.img_photographer }}</div>
-					</a>
+					{{ end }}
 					{{ if .Params.cc_licence }}
 						<div class="single__caption-buffer">/</div>
 						<a href="{{ .Params.cc_src }}" target="_blank" class="single__cc-src">
