@@ -30,6 +30,11 @@
 		text-decoration: none;
 	}
 
+	&__image-photographer {
+		color: $social-base;
+		font-size: 1.3rem;
+	}
+
 	&__caption-buffer { margin: 0 .5rem; }
 
 	&__taxonomies { display: flex; }
