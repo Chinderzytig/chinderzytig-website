@@ -1,7 +1,7 @@
 +++
 arbeitsmaterial = "Organspende_AM_jcjz7i"
 artikel = true
-author = " Kathrin Hausammann"
+author = "Kathrin Hausammann"
 cc_licence = ""
 cc_src = ""
 date = 2023-04-27T20:00:00Z
