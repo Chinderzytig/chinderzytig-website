@@ -19,7 +19,7 @@ slug = ""
 title = "Mindeststeuer für Unternehmen"
 +++
 
-Fast alle erwachsenen Menschen und alle Unternehmen müssen in der Schweiz Steuern zahlen. Mit diesem Geld kaufen Bund und Kantone Dinge für die Allgemeinheit. Zum Beispiel Schulen oder Straßen. Natürliche Personen, also Privatpersonen, zahlen ihre Steuern dort, wo sie wohnen. Aber was ist mit Unternehmen, die auf der ganzen Welt tätig sind?
+_Fast alle erwachsenen Menschen und alle Unternehmen müssen in der Schweiz Steuern zahlen. Mit diesem Geld kaufen Bund und Kantone Dinge für die Allgemeinheit. Zum Beispiel Schulen oder Straßen. Natürliche Personen, also Privatpersonen, zahlen ihre Steuern dort, wo sie wohnen. Aber was ist mit Unternehmen, die auf der ganzen Welt tätig sind?_
 
 ### Wer viel Geld verdient, kann viel sparen
 
