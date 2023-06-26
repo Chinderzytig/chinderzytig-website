@@ -1,7 +1,7 @@
 .nav {
 	display: flex;
-	// justify-content: center;
-	// align-items: center;
+	justify-content: flex-end;
+	align-items: center;
 	width: 100%;
 	max-width: 100%;
 	background-color: #fff;
@@ -14,9 +14,7 @@
 	@include respond(tab-port-sm) { margin-bottom: 3rem;}
 
 	&__logo {
-		display: flex;
-		justify-content: flex-end;
-		flex-grow: 2;
+		margin-right: 25rem;
 
 		&-image {
 			width: 33rem;
@@ -37,15 +35,9 @@
 
 	&__slogan {
 		display: flex;
-		justify-content: flex-end;
 		align-items: center;
-		flex-grow: 1;
-		padding-right: 10rem;
 
-
-		&-text {
-			width: 30%;
-		}
+		&-text { width: 45%; }
 	}
 
 	&__verdigris {
@@ -180,8 +172,6 @@ body {
 	box-sizing: border-box;
 	display: none;
 
-	&:checked ~ .sidebar { transform: translateX(0); }
-
 	&__toggle {
 		transition: all 0.3s;
     box-sizing: border-box;
@@ -230,6 +220,8 @@ body {
 	    margin-top: 3px;
 		}
 	}
+
+	&:checked ~ .sidebar { transform: translateX(0); }
 
 	&:checked ~ &__toggle > &__horizontal {
 		transition: all 0.3s;
