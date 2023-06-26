@@ -1,4 +1,4 @@
-<nav class="nav">
+<!-- <nav class="nav">
 	<div class="nav__verdigris"></div>
 	<div class="nav__main">
 		{{- partial "menu.html" . -}}
@@ -26,4 +26,43 @@
 			<input id="search" type="search" placeholder="Suchen" class="search__field" />
 		</div>
 	</div>
-</nav>
+</nav> -->
+
+<div class="nav">
+	<div class="nav__logo">
+		<a href="/" class="nav__logo-standard">
+			<img src="{{ .Site.Params.cloudinary_url }}/logos/Chiderzytig-logo-wording_wqiwgb.png" alt="Chinderzytig logo" class="nav__logo-image">
+		</a>
+		<a href="/" class="nav__logo-mobile">
+			<img src="{{ .Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png" alt="Chinderzytig logo" class="nav__logo-image">
+		</a>
+	</div>
+	<div class="nav__slogan">
+		<div class="nav__slogan-svg">
+			{{- partial "svgs/nav_tab_phone_svg.html" -}}
+		</div>
+		<div class="nav__slogan-text">
+			Die online Zeitung für Kinder und Jugendliche
+		</div>
+	</div>
+</div>
+  <input type="checkbox" class="icon" id="openSidebarMenu">
+  <label for="openSidebarMenu" class="icon__toggle">
+    <div class="icon__spinner icon__diagonal--1"></div>
+    <div class="icon__spinner icon__horizontal"></div>
+    <div class="icon__spinner icon__diagonal--2"></div>
+  </label>
+
+  <div class="sidebar">
+    <ul class="sidebar__menu">
+			<li class="sidebar__item"><a href="/alle-artikel" class="sidebar__link">Artikel</a></li>
+			<li class="sidebar__item"><a href="/fokus-der-woche" class="sidebar__link">Fokus der Woche</a></li>
+			<li class="sidebar__item"><a href="/arbeitsmaterial" class="sidebar__link">Arbeitsmaterial</a></li>
+			<li class="sidebar__item"><a href="/unterrichtsideen" class="sidebar__link">Unterrichtsideen</a></li>
+			<li class="sidebar__item"><a href="/angebote"class="sidebar__link">Angebote</a></li>
+			<li class="sidebar__item"><a href="/verein" class="sidebar__link">Der Verein</a></li>
+			<li class="sidebar__item"><a href="/kontakt" class="sidebar__link">Kontaktiere Uns</a></li>
+    </ul>
+  </div>
+  <div id='center' class="main center">
+  </div>

@@ -1,8 +1,52 @@
 .nav {
-	font-family: $font-patrick, $font-fallback;
-	margin-bottom: 6rem;
+	display: flex;
+	// justify-content: center;
+	// align-items: center;
+	width: 100%;
+	max-width: 100%;
+	background-color: #fff;
+	border-bottom: 1px solid #000;
+	position: fixed;
+	height: 100px;
+	overflow: hidden;
+	z-index: 10;
 
 	@include respond(tab-port-sm) { margin-bottom: 3rem;}
+
+	&__logo {
+		display: flex;
+		justify-content: flex-end;
+		flex-grow: 2;
+
+		&-image {
+			width: 33rem;
+
+			@include respond(phone-xxl) { width: 20rem; }
+		}
+
+		&-standard {
+			@include respond(phone-xxl) { display: none; }
+		}
+
+		&-mobile {
+			display: none;
+
+			@include respond(phone-xxl) { display: block; }
+		}
+	}
+
+	&__slogan {
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+		flex-grow: 1;
+		padding-right: 10rem;
+
+
+		&-text {
+			width: 30%;
+		}
+	}
 
 	&__verdigris {
 		background-color: $chinder-verdigris;
@@ -24,8 +68,7 @@
 	&__logo {
 
 		&-image {
-			width: 40rem;
-			margin-left: 10rem;
+			width: 33rem;
 
 			@include respond(phone-xxl) { width: 20rem; }
 		}
@@ -41,23 +84,170 @@
 		}
 	}
 
-	&__ecommerce {
-		display: flex;
-		justify-content: space-between;
-		margin-right: 3rem;
+// 	&__ecommerce {
+// 		display: flex;
+// 		justify-content: space-between;
+// 		margin-right: 3rem;
+//
+// 		@include respond(tab-port-xl) { margin-right: 0; }
+//
+// 		@include respond(tab-port-sm) { margin-right: 2rem; }
+// 	}
+//
+// 	&__orange {
+// 		background-color: $chinder-orange;
+// 		height: 3rem;
+// 	}
+//
+// 	&__cultured {
+// 		background-color: $chinder-cultured;
+// 		padding: 1rem 0;
+// 	}
+}
 
-		@include respond(tab-port-xl) { margin-right: 0; }
+// ------------------------------------------------------
 
-		@include respond(tab-port-sm) { margin-right: 2rem; }
+html, body {
+    overflow-x: hidden;
+    height: 100%;
+}
+body {
+    // background: #fff;
+    // padding: 0;
+    // margin: 0;
+    font-family: 'Varela Round', sans-serif;
+}
+.header {
+
+}
+.main {
+    // margin: 0 auto;
+    // display: block;
+    // height: 100%;
+    margin-top: 100px;
+
+}
+// .mainInner{
+//     display: table;
+//     height: 100%;
+//     width: 100%;
+//     text-align: center;
+// }
+// .mainInner div{
+//     display:table-cell;
+//     vertical-align: middle;
+//     font-size: 3em;
+//     font-weight: bold;
+//     letter-spacing: 1.25px;
+// }
+.sidebar {
+	height: 100%;
+	position: fixed;
+	left: 0;
+	width: 250px;
+	margin-top: 100px;
+	transform: translateX(-250px);
+	transition: transform 250ms ease-in-out;
+	background: #fff;
+	border-right: 1px solid #000;
+
+	&__menu {
+		margin:0;
+		padding:0;
+		// border-top: 1px solid rgba(255, 255, 255, 0.10);
 	}
 
-	&__orange {
-		background-color: $chinder-orange;
-		height: 3rem;
+	&__item {
+		list-style: none;
+		text-transform: uppercase;
+		font-weight: bold;
+		padding: 20px;
+		cursor: pointer;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.10);
 	}
 
-	&__cultured {
-		background-color: $chinder-cultured;
-		padding: 1rem 0;
+	&__link {
+		color: #000;
+		text-transform: uppercase;
+		font-weight: bold;
+		cursor: pointer;
+		text-decoration: none;
+	}
+}
+
+.icon {
+	transition: all 0.3s;
+	box-sizing: border-box;
+	display: none;
+
+	&:checked ~ .sidebar { transform: translateX(0); }
+
+	&__toggle {
+		transition: all 0.3s;
+    box-sizing: border-box;
+    cursor: pointer;
+    position: absolute;
+    z-index: 99;
+    height: 100%;
+    width: 100%;
+    top: 40px;
+    left: 30px;
+    height: 30px;
+    width: 30px;
+	}
+
+	&__spinner {
+		transition: all 0.3s;
+    box-sizing: border-box;
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background-color: #000;
+	}
+
+	&__horizontal {
+		transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+	}
+
+	&__diagonal {
+
+		&--1 {
+			position: relative;
+	    transition: all 0.3s;
+	    box-sizing: border-box;
+	    float: left;
+		}
+
+		&--2 {
+			transition: all 0.3s;
+	    box-sizing: border-box;
+	    position: relative;
+	    float: left;
+	    margin-top: 3px;
+		}
+	}
+
+	&:checked ~ &__toggle > &__horizontal {
+		transition: all 0.3s;
+		box-sizing: border-box;
+		opacity: 0;
+	}
+
+	&:checked ~ &__toggle > &__diagonal--1 {
+		transition: all 0.3s;
+    box-sizing: border-box;
+    transform: rotate(135deg);
+    margin-top: 8px;
+	}
+
+	&:checked ~ &__toggle > &__diagonal--2 {
+		transition: all 0.3s;
+		box-sizing: border-box;
+		transform: rotate(-135deg);
+		margin-top: -9px;
 	}
 }
