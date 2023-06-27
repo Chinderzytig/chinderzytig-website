@@ -123,6 +123,48 @@
 			border-bottom: 3px solid #FFF;
 		}
 	}
+
+	&__dropdown {
+
+		&-box {
+			display: none;
+
+			&:checked ~ .sidebar__dropdown-content {
+			  display: inline;
+			  transform: translateY(0);
+			}
+
+			&:checked + .sidebar__dropdown-label > .sidebar__dropdown-arrow {
+		  	transform: rotate(180deg);
+			}
+		}
+
+		&-label {
+			color: #fff;
+			display: flex;
+			align-items: center;
+			cursor: pointer;
+		}
+
+		&-text {
+			&:hover { border-bottom: 3px solid #FFF; }
+		}
+
+		&-arrow {
+			border-left: 5px solid transparent;
+		  border-right: 5px solid transparent;
+		  border-top: 6px solid #fff;
+			margin-left: 1rem;
+			transition: transform ease-in-out 0.3s;
+		}
+
+		&-content {
+			list-style: none;
+			display: none;
+			transform: translateY(0);
+			transition: transform ease-in-out 0.3s;
+		}
+	}
 }
 
 .icon {
