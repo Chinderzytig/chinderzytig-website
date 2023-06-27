@@ -1,17 +1,21 @@
 .nav {
-	display: flex;
-	justify-content: flex-end;
-	align-items: center;
 	width: 100%;
 	max-width: 100%;
 	background-color: #fff;
-	border-bottom: 1px solid #000;
 	position: fixed;
-	height: 100px;
+	display: flex;
+	flex-direction: column;
+	height: 135px;
 	overflow: hidden;
 	z-index: 10;
 
 	@include respond(tab-port-sm) { margin-bottom: 3rem;}
+
+	&__header {
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+	}
 
 	&__logo {
 		margin-right: 25rem;
@@ -40,78 +44,27 @@
 		&-text { width: 45%; }
 	}
 
-	&__verdigris {
-		background-color: $chinder-verdigris;
-		height: 3rem;
-	}
-
-	&__main {
+	&__banner {
 		display: flex;
-		justify-content: space-between;
+		justify-content: center;
 		align-items: center;
+		background-color: #FFCF04;
+		height: 3.5rem;
 
-		@include respond(tab-port-xl) { justify-content: space-around;}
+		&-text { margin-left: 1rem; }
 
-		@include respond(tab-port-sm) { justify-content: space-between;}
-
-		@include respond(phone-lg) { justify-content: space-around; }
-	}
-
-	&__logo {
-
-		&-image {
-			width: 33rem;
-
-			@include respond(phone-xxl) { width: 20rem; }
-		}
-
-		&-standard {
-			@include respond(phone-xxl) { display: none; }
-		}
-
-		&-mobile {
-			display: none;
-
-			@include respond(phone-xxl) { display: block; }
+		&-link {
+			&:link,
+			&:visited {
+				color: #000;
+				font-weight: bold;
+			}
 		}
 	}
-
-// 	&__ecommerce {
-// 		display: flex;
-// 		justify-content: space-between;
-// 		margin-right: 3rem;
-//
-// 		@include respond(tab-port-xl) { margin-right: 0; }
-//
-// 		@include respond(tab-port-sm) { margin-right: 2rem; }
-// 	}
-//
-// 	&__orange {
-// 		background-color: $chinder-orange;
-// 		height: 3rem;
-// 	}
-//
-// 	&__cultured {
-// 		background-color: $chinder-cultured;
-// 		padding: 1rem 0;
-// 	}
 }
 
 // ------------------------------------------------------
 
-html, body {
-    overflow-x: hidden;
-    height: 100%;
-}
-body {
-    // background: #fff;
-    // padding: 0;
-    // margin: 0;
-    font-family: 'Varela Round', sans-serif;
-}
-.header {
-
-}
 .main {
     // margin: 0 auto;
     // display: block;
@@ -146,7 +99,6 @@ body {
 	&__menu {
 		margin:0;
 		padding:0;
-		// border-top: 1px solid rgba(255, 255, 255, 0.10);
 	}
 
 	&__item {
@@ -155,7 +107,6 @@ body {
 		font-weight: bold;
 		padding: 20px;
 		cursor: pointer;
-		border-bottom: 1px solid rgba(255, 255, 255, 0.10);
 	}
 
 	&__link {
