@@ -17,6 +17,8 @@ column_one:
     link: "/datenschutz"
 
 column_two:
+  - label: Schweiz
+    link: "/kategorien/schweiz"
   - label: Afrika
     link: "/kategorien/afrika"
   - label: Antarktis

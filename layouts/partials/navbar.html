@@ -67,16 +67,29 @@
 		<li class="sidebar__item"><a href="/alle-artikel" class="sidebar__link">Artikel</a></li>
 		<li class="sidebar__item">
 			<div class="sidebar__dropdown">
-				<input type="checkbox" class="sidebar__dropdown-box" id="dropdown" />
-				<label for="dropdown" class="sidebar__dropdown-label">
+				<input type="checkbox" class="sidebar__dropdown-box" id="lage-dropdown" />
+				<label for="lage-dropdown" class="sidebar__dropdown-label">
 					<span class="sidebar__dropdown-text">Artikel nach Lage</span>
 					<span class="sidebar__dropdown-arrow"></span>
 				</label>
 				<ul class="sidebar__dropdown-content">
-					<li class="sidebar__item"><a href="#" class="sidebar__link">React</a></li>
-					<li class="sidebar__item"><a href="#" class="sidebar__link">Angular</a></li>
-					<li class="sidebar__item"><a href="#" class="sidebar__link">Vue</a></li>
-					<li class="sidebar__item"><a href="#" class="sidebar__link">Svelte</a></li>
+					{{ range .Site.Data.partials.footer.column_two }}
+						<li class="sidebar__dropdown-item"><a href="{{ .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
+					{{ end }}
+				</ul>
+			</div>
+		</li>
+		<li class="sidebar__item">
+			<div class="sidebar__dropdown">
+				<input type="checkbox" class="sidebar__dropdown-box" id="thema-dropdown" />
+				<label for="thema-dropdown" class="sidebar__dropdown-label">
+					<span class="sidebar__dropdown-text">Artikel nach Thema</span>
+					<span class="sidebar__dropdown-arrow"></span>
+				</label>
+				<ul class="sidebar__dropdown-content">
+					{{ range .Site.Data.partials.footer.column_three }}
+						<li class="sidebar__dropdown-item"><a href="{{ .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
+					{{ end }}
 				</ul>
 			</div>
 		</li>
