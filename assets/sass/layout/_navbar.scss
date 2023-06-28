@@ -117,12 +117,11 @@
 			color: #fff;
 			display: flex;
 			align-items: center;
+			ox-sizing: border-box;
 			cursor: pointer;
 		}
 
-		&-text {
-			&:hover { border-bottom: 3px solid #FFF; }
-		}
+		&-text { &:hover { box-shadow: 0 3px 0 0 #FFF; } }
 
 		&-arrow {
 			border-left: 5px solid transparent;
@@ -135,6 +134,7 @@
 		&-content {
 			list-style: none;
 			display: none;
+			transform: translateY(-1em);
 			transition: transform ease-in-out 0.3s;
 		}
 
@@ -153,6 +153,7 @@
 
 			&:hover { border-bottom: 3px solid #FFF; }
 		}
+
 	}
 }
 
