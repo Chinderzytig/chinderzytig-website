@@ -1,11 +1,12 @@
 .nav {
+	font-family: 'Andika', sans-serif;
+	background-color: #fff;
 	width: 100%;
 	max-width: 100%;
-	background-color: #fff;
+	height: 13.5rem;
 	position: fixed;
 	display: flex;
 	flex-direction: column;
-	height: 13.5rem;
 	overflow: hidden;
 	z-index: 10;
 
@@ -38,18 +39,24 @@
 	}
 
 	&__slogan {
+		font-weight: bold;
 		display: flex;
 		align-items: center;
 
-		&-text { width: 45%; }
+		&-text {
+			width: 45%;
+
+			&--orange { color: $chinder-orange; }
+			&--verdigris {color: $chinder-verdigris; }
+		}
 	}
 
 	&__banner {
+		background-color: #FFCF04;
+		height: 3.5rem;
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		background-color: #FFCF04;
-		height: 3.5rem;
 
 		&-text { margin-left: 1rem; }
 
@@ -66,12 +73,13 @@
 // ------------------------------------------------------
 
 .sidebar {
+	font-family: 'League Spartan', sans-serif;
 	height: 100%;
+	width: 25rem;
+	left: 0;
+	margin-top: 10rem;
 	position: fixed;
 	overflow-y: scroll;
-	left: 0;
-	width: 25rem;
-	margin-top: 10rem;
 	transform: translateX(-250px);
 	transition: transform 250ms ease-in-out;
 	background: linear-gradient(#30AFAA, #358280);
@@ -91,8 +99,6 @@
 
 	&__link {
 		color: #FFF;
-		text-transform: uppercase;
-		cursor: pointer;
 
 		&:link,
 		&:visited {
@@ -117,7 +123,6 @@
 			color: #fff;
 			display: flex;
 			align-items: center;
-			ox-sizing: border-box;
 			cursor: pointer;
 		}
 
@@ -143,7 +148,6 @@
 		&-link {
 			color: #FFF;
 			text-transform: capitalize;
-			cursor: pointer;
 
 			&:link,
 			&:visited {
