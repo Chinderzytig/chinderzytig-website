@@ -73,7 +73,7 @@
 					<span class="sidebar__dropdown-arrow"></span>
 				</label>
 				<ul class="sidebar__dropdown-content">
-					{{ range .Site.Data.partials.footer.column_two }}
+					{{ range .Site.Data.partials.categories.lage }}
 						<li class="sidebar__dropdown-item"><a href="{{ .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
 					{{ end }}
 				</ul>
@@ -87,7 +87,7 @@
 					<span class="sidebar__dropdown-arrow"></span>
 				</label>
 				<ul class="sidebar__dropdown-content">
-					{{ range .Site.Data.partials.footer.column_three }}
+					{{ range .Site.Data.partials.categories.thema }}
 						<li class="sidebar__dropdown-item"><a href="{{ .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
 					{{ end }}
 				</ul>

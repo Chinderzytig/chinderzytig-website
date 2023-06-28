@@ -1,0 +1,45 @@
+lage:
+  - label: Schweiz
+    link: "/kategorien/schweiz"
+  - label: Afrika
+    link: "/kategorien/afrika"
+  - label: Antarktis
+    link: "kategorien/antarktis"
+  - label: Asien
+    link: "/kategorien/asien"
+  - label: Europa
+    link: "/kategorien/europa"
+  - label: Nordamerika
+    link: "/kategorien/nordamerika"
+  - label: Ozeanien
+    link: "/kategorien/ozeanien"
+  - label: Südamerika
+    link: "/kategorien/südamerika"
+  - label: Welt
+    link: "/kategorien/welt"
+  - label: Weltraum/Universum
+    link: "/kategorien/weltraum/universum"
+
+thema:
+  - label: Gesellschaft
+    link: "/markierungen/gesellschaft"
+  - label: Gesundheit
+    link: "/markierungen/gesundheit"
+  - label: Kultur
+    link: "/markierungen/kultur"
+  - label: Medien
+    link: "/markierungen/medien"
+  - label: Natur
+    link: "/markierungen/natur"
+  - label: Organisationen
+    link: "/markierungen/organisationen"
+  - label: Personen
+    link: "/markierungen/personen"
+  - label: Politik
+    link: "/markierungen/politik"
+  - label: Sport
+    link: "/markierungen/sport"
+  - label: Wirtschaft
+    link: "/markierungen/wirtschaft"
+  - label: Wissenschaft
+    link: "/markierungen/wissenschaft"
