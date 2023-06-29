@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "die_regierung_teil_3_AM_oppo2u"
 artikel = true
 author = "Carla Wohler"
 cc_licence = ""
@@ -50,3 +50,9 @@ Mit der Informations- und Kommunikationsfunktion kommt dem Bundesrat die Aufgabe
 Nicht zuletzt repräsentiert der Bundesrat die Schweiz gegen innen, aber auch gegen aussen. Gegen innen bedeutet, dass der Schweizer Bundesrat von der Bundesversammlung gewählt wird, die durch das Schweizer Stimmvolk gewählt wird. Und gegen aussen bedeutet, dass der Bundesrat die Schweiz in anderen Ländern vertritt. Das heisst, wenn die Schweiz und Deutschland beispielsweise verhandeln, dann tut dies der Bundesrat.
 
 Mit diesem Artikel endet der Überblick über die Schweizer Bundesversammlung und Regierung.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
