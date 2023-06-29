@@ -10,16 +10,20 @@
 	overflow: hidden;
 	z-index: 10;
 
+	@include respond(tab-port-xl) { height: 15.5rem; }
 	@include respond(tab-port-sm) { margin-bottom: 3rem;}
 
 	&__header {
 		display: flex;
-		justify-content: flex-end;
 		align-items: center;
+
+		@include respond(tab-port-xl) { justify-content: center; }
 	}
 
 	&__logo {
-		margin-right: 25rem;
+		display: flex;
+		justify-content: flex-end;
+		width: 55%;
 
 		&-image {
 			width: 33rem;
@@ -36,19 +40,30 @@
 
 			@include respond(phone-xxl) { display: block; }
 		}
+
 	}
 
 	&__slogan {
 		font-weight: bold;
+		width: 40%;
 		display: flex;
+		justify-content: flex-end;
 		align-items: center;
+
+		&-svg {
+			width: 9.5rem;
+			height: 7.5rem;
+		}
 
 		&-text {
 			width: 45%;
 
+			@include respond(tab-land) { width: 55%; }
+
 			&--orange { color: $chinder-orange; }
 			&--verdigris {color: $chinder-verdigris; }
 		}
+
 	}
 
 	&__banner {
