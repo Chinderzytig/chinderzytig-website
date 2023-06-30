@@ -60,6 +60,8 @@
 			font-weight: bold;
 			width: 45%;
 
+			@include respond(lap-xl) { width: 35%; }
+			@include respond(lap-xl) { width: 45%; }
 			@include respond(tab-land) { width: 55%; }
 			@include respond(tab-port-sm) {
 				font-size: 1.5rem;
@@ -98,20 +100,26 @@
 
 .sidebar {
 	font-family: 'League Spartan', sans-serif;
-	background: linear-gradient(#30AFAA, #358280);
+	background: rgba($chinder-celadon, .9);
 	height: 100%;
-	width: 25rem;
+	width: 100%;
 	left: 0;
-	margin-top: 10rem;
+	margin-top: 13.5rem;
 	position: fixed;
 	overflow-y: scroll;
-	transform: translateX(-250px);
+	transform: translateX(-100%);
 	transition: transform 250ms ease-in-out;
 	z-index: 10;
 
+	@include respond(tab-port-xl) { margin-top: 14rem; }
+	@include respond(phone-xxl) { margin-top: 13.9rem; }
+
 	&__menu {
-		margin:0;
+		width: 100%;
 		padding: 4rem 0 0 0;
+		display: flex;
+		align-items: center;
+		flex-direction: column;
 	}
 
 	&__item {
@@ -139,7 +147,11 @@
 		&-box {
 			display: none;
 
-			&:checked ~ .sidebar__dropdown-content { display: contents; }
+			&:checked ~ .sidebar__dropdown-content {
+				display: flex;
+				flex-direction: column;
+				align-items: baseline;
+			}
 
 			&:checked + .sidebar__dropdown-label > .sidebar__dropdown-arrow { transform: rotate(180deg); }
 		}
@@ -164,8 +176,7 @@
 		&-content {
 			list-style: none;
 			display: none;
-			transform: translateY(-1em);
-			transition: transform ease-in-out 0.3s;
+			transition: Display 0s, flex-direction 0s, align-items 0s;
 		}
 
 		&-item { padding: .5rem; }
@@ -182,7 +193,6 @@
 
 			&:hover { border-bottom: .3rem solid #FFF; }
 		}
-
 	}
 }
 
