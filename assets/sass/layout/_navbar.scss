@@ -28,7 +28,7 @@
 		&-image {
 			width: 33rem;
 
-			@include respond(phone-xxl) { width: 20rem; }
+			@include respond(phone-xxl) { width: 16rem; }
 		}
 
 		&-standard {
@@ -38,13 +38,12 @@
 		&-mobile {
 			display: none;
 
-			@include respond(phone-xxl) { display: block; }
+			@include respond(phone-xxl) { display: contents; }
 		}
 
 	}
 
 	&__slogan {
-		font-weight: bold;
 		width: 40%;
 		display: flex;
 		justify-content: flex-end;
@@ -53,12 +52,20 @@
 		&-svg {
 			width: 9.5rem;
 			height: 7.5rem;
+
+			@include respond(phone-xxl) { display: none; }
 		}
 
 		&-text {
+			font-weight: bold;
 			width: 45%;
 
 			@include respond(tab-land) { width: 55%; }
+			@include respond(tab-port-sm) {
+				font-size: 1.5rem;
+				width: 60%;
+			}
+			@include respond(phone-xxl) { width: 80%; }
 
 			&--orange { color: $chinder-orange; }
 			&--verdigris {color: $chinder-verdigris; }
@@ -82,6 +89,8 @@
 				font-weight: bold;
 			}
 		}
+
+		@include respond(tab-port-xl) { height: 4rem; }
 	}
 }
 

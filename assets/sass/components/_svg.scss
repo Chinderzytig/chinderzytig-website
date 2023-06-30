@@ -6,4 +6,9 @@
 		border-right: 0;
 		padding: .5rem;
 	}
+
+	&__coffee {
+		width: 5rem;
+		@include respond(phone-xl) { display: none; }
+	}
 }
