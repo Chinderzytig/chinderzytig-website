@@ -1,6 +1,6 @@
 .sidebar {
 	font-family: 'League Spartan', sans-serif;
-	background: rgba($chinder-celadon, .9);
+	background: rgba($celadon, .9);
 	height: 100%;
 	width: 100%;
 	left: 0;
@@ -32,7 +32,7 @@
 	}
 
 	&__link {
-		color: #FFF;
+		color: $white;
 
 		&:link,
 		&:visited {
@@ -40,7 +40,7 @@
 			font-weight: bold;
 		}
 
-		&:hover { border-bottom: 3px solid #FFF; }
+		&:hover { border-bottom: 3px solid $white; }
 	}
 
 	&__dropdown {
@@ -58,18 +58,18 @@
 		}
 
 		&-label {
-			color: #fff;
+			color: $white;
 			display: flex;
 			align-items: center;
 			cursor: pointer;
 		}
 
-		&-text { &:hover { box-shadow: 0 .3rem 0 0 #FFF; } }
+		&-text { &:hover { box-shadow: 0 .3rem 0 0 $white; } }
 
 		&-arrow {
 			border-left: .5rem solid transparent;
 		  border-right: .5rem solid transparent;
-		  border-top: .6rem solid #fff;
+		  border-top: .6rem solid $white;
 			margin-left: 1rem;
 			transition: transform ease-in-out 0.3s;
 		}
@@ -83,7 +83,7 @@
 		&-item { padding: .5rem; }
 
 		&-link {
-			color: #FFF;
+			color: $white;
 			text-transform: capitalize;
 
 			&:link,
@@ -92,7 +92,7 @@
 				font-weight: normal;
 			}
 
-			&:hover { border-bottom: .3rem solid #FFF; }
+			&:hover { border-bottom: .3rem solid $white; }
 		}
 	}
 }
