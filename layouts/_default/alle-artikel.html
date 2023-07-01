@@ -1,4 +1,8 @@
 {{define "main"}}
+	<div class="search__container">
+		{{ partial "svgs/magnify.html" (dict "fill" "#6C685D" "width" 35 "height" 36) }}
+		<input id="search" type="search" placeholder="Artikel Suchen" class="search__field" />
+	</div>
 	<section class="list">
 		<h3 class="heading heading--list">Artikel Kategorien</h3>
 		<div class="list__markers">

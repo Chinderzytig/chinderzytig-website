@@ -4,6 +4,7 @@
 		@include container-main;
 		display: flex;
 		justify-content: center;
+		margin-bottom: 5rem;
 	}
 
 	&__field.aa-input {
@@ -12,7 +13,7 @@
 		appearance: none;
 		font-family: 'Lato', sans-serif;
 		font-size: inherit;
-		width: 45rem;
+		width: 100%;
 		padding: .5rem 1rem;
 		border: 2px solid $social-base;
 		border-left: 0;
