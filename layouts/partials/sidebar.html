@@ -1,0 +1,39 @@
+<div class="sidebar">
+  <ul class="sidebar__menu">
+		<li class="sidebar__item"><a href="/alle-artikel" class="sidebar__link">Artikel</a></li>
+		<li class="sidebar__item">
+			<div class="sidebar__dropdown">
+				<input type="checkbox" class="sidebar__dropdown-box" id="lage-dropdown" />
+				<label for="lage-dropdown" class="sidebar__dropdown-label">
+					<span class="sidebar__dropdown-text">Artikel nach Lage</span>
+					<span class="sidebar__dropdown-arrow"></span>
+				</label>
+				<ul class="sidebar__dropdown-content">
+					{{ range .Site.Data.partials.categories.lage }}
+						<li class="sidebar__dropdown-item"><a href="{{ .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
+					{{ end }}
+				</ul>
+			</div>
+		</li>
+		<li class="sidebar__item">
+			<div class="sidebar__dropdown">
+				<input type="checkbox" class="sidebar__dropdown-box" id="thema-dropdown" />
+				<label for="thema-dropdown" class="sidebar__dropdown-label">
+					<span class="sidebar__dropdown-text">Artikel nach Thema</span>
+					<span class="sidebar__dropdown-arrow"></span>
+				</label>
+				<ul class="sidebar__dropdown-content">
+					{{ range .Site.Data.partials.categories.thema }}
+						<li class="sidebar__dropdown-item"><a href="{{ .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
+					{{ end }}
+				</ul>
+			</div>
+		</li>
+		<li class="sidebar__item"><a href="/fokus-der-woche" class="sidebar__link">Fokus der Woche</a></li>
+		<li class="sidebar__item"><a href="/arbeitsmaterial" class="sidebar__link">Arbeitsmaterial</a></li>
+		<li class="sidebar__item"><a href="/unterrichtsideen" class="sidebar__link">Unterrichtsideen</a></li>
+		<li class="sidebar__item"><a href="/angebote"class="sidebar__link">Angebote</a></li>
+		<li class="sidebar__item"><a href="/verein" class="sidebar__link">Der Verein</a></li>
+		<li class="sidebar__item"><a href="/kontakt" class="sidebar__link">Kontakt</a></li>
+  </ul>
+</div>
