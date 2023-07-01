@@ -13,6 +13,7 @@
 
 	@include respond(tab-port-xl) { margin-top: 14rem; }
 	@include respond(phone-xxl) { margin-top: 13.9rem; }
+	@include respond(phone-lg) { margin-top: 16.9rem; }
 
 	&__menu {
 		width: 100%;
