@@ -1,4 +1,13 @@
 {{define "main"}}
+	<div class="snipcart">
+		<button class="snipcart-overwrite snipcart-checkout">
+			{{ partial "svgs/cart_svg.html" (dict "fill" "#4C4C4C" "width" 35 "height" 35) }}
+			<span class="snipcart-overwrite snipcart-items-count">0</span>
+		</button>
+		<button class="snipcart-overwrite snipcart-customer-signin">
+			{{ partial "svgs/account_svg.html" (dict "fill" "#4C4C4C" "width" 35 "height" 35) }}
+		</button>
+	</div>
 	<section class="abonnemente">
 		<h1 class="heading heading__content--primary">Abonnemente</h1>
 		<h4 class="heading heading__content--quaternary">Wir bieten Wissen - einfach verpackt</h4>

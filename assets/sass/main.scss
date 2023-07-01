@@ -18,7 +18,6 @@
 @import "components/image";
 @import "components/impfstoffe";
 @import "components/marker";
-@import "components/menu";
 @import "components/newsletter";
 @import "components/osano";
 @import "components/popup";
@@ -34,8 +33,10 @@
 @import "components/world_map";
 
 @import "layout/footer";
+@import "layout/menu-icon";
 @import "layout/navbar";
 @import "layout/print_format";
+@import "layout/sidebar";
 
 @import "pages/404";
 @import "pages/abonnemente";

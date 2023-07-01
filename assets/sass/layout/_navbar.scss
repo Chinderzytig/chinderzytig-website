@@ -1,33 +1,34 @@
 .nav {
-	font-family: $font-patrick, $font-fallback;
-	margin-bottom: 6rem;
+	font-family: 'Andika', sans-serif;
+	background-color: $white;
+	width: 100%;
+	max-width: 100%;
+	height: 13.5rem;
+	position: fixed;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+	z-index: 10;
 
+	@include respond(tab-port-xl) { height: 15.5rem; }
 	@include respond(tab-port-sm) { margin-bottom: 3rem;}
 
-	&__verdigris {
-		background-color: $chinder-verdigris;
-		height: 3rem;
-	}
-
-	&__main {
+	&__header {
 		display: flex;
-		justify-content: space-between;
 		align-items: center;
 
-		@include respond(tab-port-xl) { justify-content: space-around;}
-
-		@include respond(tab-port-sm) { justify-content: space-between;}
-
-		@include respond(phone-lg) { justify-content: space-around; }
+		@include respond(tab-port-xl) { justify-content: center; }
 	}
 
 	&__logo {
+		display: flex;
+		justify-content: flex-end;
+		width: 55%;
 
 		&-image {
-			width: 40rem;
-			margin-left: 10rem;
+			width: 33rem;
 
-			@include respond(phone-xxl) { width: 20rem; }
+			@include respond(phone-xxl) { width: 16rem; }
 		}
 
 		&-standard {
@@ -37,27 +38,58 @@
 		&-mobile {
 			display: none;
 
-			@include respond(phone-xxl) { display: block; }
+			@include respond(phone-xxl) { display: contents; }
 		}
 	}
 
-	&__ecommerce {
+	&__slogan {
+		width: 40%;
 		display: flex;
-		justify-content: space-between;
-		margin-right: 3rem;
+		justify-content: flex-end;
+		align-items: center;
 
-		@include respond(tab-port-xl) { margin-right: 0; }
+		&-svg {
+			width: 9.5rem;
+			height: 7.5rem;
 
-		@include respond(tab-port-sm) { margin-right: 2rem; }
+			@include respond(phone-xxl) { display: none; }
+		}
+
+		&-text {
+			font-weight: bold;
+			width: 45%;
+
+			@include respond(lap-xl) { width: 35%; }
+			@include respond(lap-xl) { width: 45%; }
+			@include respond(tab-land) { width: 55%; }
+			@include respond(tab-port-sm) {
+				font-size: 1.5rem;
+				width: 60%;
+			}
+			@include respond(phone-xxl) { width: 80%; }
+
+			&--orange { color: $orange; }
+			&--verdigris {color: $verdigris; }
+		}
 	}
 
-	&__orange {
-		background-color: $chinder-orange;
-		height: 3rem;
-	}
+	&__banner {
+		background-color: $jonquil;
+		height: 3.5rem;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 
-	&__cultured {
-		background-color: $chinder-cultured;
-		padding: 1rem 0;
+		&-text { margin-left: 1rem; }
+
+		&-link {
+			&:link,
+			&:visited {
+				color: $black;
+				font-weight: bold;
+			}
+		}
+
+		@include respond(tab-port-xl) { height: 4rem; }
 	}
 }

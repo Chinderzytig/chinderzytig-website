@@ -1,29 +1,28 @@
-<nav class="nav">
-	<div class="nav__verdigris"></div>
-	<div class="nav__main">
-		{{- partial "menu.html" . -}}
+<div class="nav">
+	<div class="nav__header">
+		<div class="nav__logo">
+			<a href="/" class="nav__logo-standard">
+				<img src="{{ .Site.Params.cloudinary_url }}/logos/Chiderzytig-logo-wording_wqiwgb.png" alt="Chinderzytig logo" class="nav__logo-image">
+			</a>
+			<a href="/" class="nav__logo-mobile">
+				<img src="{{ .Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png" alt="Chinderzytig logo" class="nav__logo-image">
+			</a>
+		</div>
+		<div class="nav__slogan">
+			{{- partial "svgs/nav_tab_phone_svg.html" -}}
+			<div class="nav__slogan-text">
+				Die online Zeitung für <span class="nav__slogan-text--orange">Kinder</span> und <span class="nav__slogan-text--verdigris">Jugendliche</span>
+			</div>
+		</div>
+	</div>
+	<div class="nav__banner">
+		{{- partial "svgs/coffee.html" -}}
+		<div class="nav__banner-text">
+			Helfen Sie uns, Chinderzytig frei zu halten! <a href="/angebote" class="nav__banner-link">Unterstütze uns ></a>
+		</div>
+	</div>
+</div>
 
-		<a href="/" class="nav__logo-standard">
-			<img src="{{ .Site.Params.cloudinary_url }}/logos/Chiderzytig-logo-wording_wqiwgb.png" alt="Chinderzytig logo" class="nav__logo-image">
-		</a>
-		<a href="/" class="nav__logo-mobile">
-			<img src="{{ .Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png" alt="Chinderzytig logo" class="nav__logo-image">
-		</a>
-		<div class="nav__ecommerce">
-			<button class="snipcart-overwrite snipcart-checkout">
-				{{ partial "svgs/cart_svg.html" (dict "fill" "#4C4C4C" "width" 35 "height" 35) }}
-				<span class="snipcart-overwrite snipcart-items-count">0</span>
-			</button>
-			<button class="snipcart-overwrite snipcart-customer-signin">
-				{{ partial "svgs/account_svg.html" (dict "fill" "#4C4C4C" "width" 35 "height" 35) }}
-			</button>
-		</div>
-	</div>
-	<div class="nav__orange"></div>
-	<div class="nav__cultured">
-		<div class="search__container">
-			{{ partial "svgs/magnify.html" (dict "fill" "#6C685D" "width" 35 "height" 36) }}
-			<input id="search" type="search" placeholder="Suchen" class="search__field" />
-		</div>
-	</div>
-</nav>
+{{- partial "menu-icon.html" -}}
+
+{{- partial "sidebar.html" . -}}

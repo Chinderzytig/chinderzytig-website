@@ -1,22 +1,4 @@
-column_one:
-  - label: Artikel
-    link: "/alle-artikel"
-  - label: Fokus der Woche
-    link: "/fokus-der-woche"
-  - label: Arbeitsmaterial
-    link: "/arbeitsmaterial"
-  - label: Unterrichtsideen
-    link: "/unterrichtsideen"
-  - label: Angebote
-    link: "/angebote"
-  - label: Der Verein
-    link: "/verein"
-  - label: Kontakt
-    link: "/kontakt"
-  - label: Datenschutz
-    link: "/datenschutz"
-
-column_two:
+lage:
   - label: Schweiz
     link: "/kategorien/schweiz"
   - label: Afrika
@@ -37,10 +19,8 @@ column_two:
     link: "/kategorien/welt"
   - label: Weltraum/Universum
     link: "/kategorien/weltraum/universum"
-  - label: Wissenschaft
-    link: "/markierungen/wissenschaft"
 
-column_three:
+thema:
   - label: Gesellschaft
     link: "/markierungen/gesellschaft"
   - label: Gesundheit
@@ -61,3 +41,5 @@ column_three:
     link: "/markierungen/sport"
   - label: Wirtschaft
     link: "/markierungen/wirtschaft"
+  - label: Wissenschaft
+    link: "/markierungen/wissenschaft"
