@@ -68,8 +68,6 @@
 		.card__kfk { background-color: $color-black; }
 	}
 
-	&__list { @include container-main; }
-
 	&__container {
 		position: relative;
 		display: flex;

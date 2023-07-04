@@ -1,9 +1,5 @@
 .single {
 
-	&__container {
-		@include container-main;
-	}
-
 	&__image {
 		display: flex;
 		flex-direction: column;
@@ -98,7 +94,6 @@
 	}
 
 	&__comments {
-		@include container-main;
 		border-top: 4px solid $chinder-cultured;
 
 		&-title {

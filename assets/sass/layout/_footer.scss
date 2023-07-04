@@ -3,7 +3,6 @@
 
 	&__top,
 	&__middle-container,
-	&__bottom { @include container-main; }
 
 	&__middle {
 		background-color: $footer-light;

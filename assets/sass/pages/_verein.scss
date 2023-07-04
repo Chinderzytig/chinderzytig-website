@@ -1,7 +1,6 @@
 .verein {
 
 	&__history {
-		@include container-main;
 		display: flex;
 		flex-direction: column;
 		align-items: center;
@@ -31,7 +30,6 @@
 	&__media { @include cta-color($cta-azure); }
 
 	&__btns {
-		@include container-main;
 
 		&-group {
 			display: flex;
@@ -62,8 +60,6 @@
 	&__thanks {
 		@include cta-color($chinder-cultured);
 		margin-bottom: 0;
-
-		&-container { @include container-main; }
 
 		&-logos {
 			display: flex;
