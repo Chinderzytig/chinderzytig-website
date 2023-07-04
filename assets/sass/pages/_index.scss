@@ -7,11 +7,12 @@
 .new__cta {
 	@include cta-color($cta-azure);
 	margin-bottom: 3rem;
+	padding: 3rem;
 }
 
 .fdw__cta {
 	margin-bottom: 3rem;
-	padding: 4rem 0;
+	padding: 3rem;
 
 	&-container {
 		display: flex;
@@ -32,7 +33,7 @@
 .ukraine {
 	background: linear-gradient(#0057b7, #ffd700);
 	margin-bottom: 3rem;
-	padding: 3rem 0;
+	padding: 3rem;
 
 	&__info {
 		background-color: rgba(255, 255, 255, 0.4);
