@@ -37,9 +37,3 @@ main {
 
 	@include respond(tab-land) { padding: 0 3rem; }
 }
-
-section {
-	margin-bottom: $margin-m;
-
-	@include respond(tab-port-sm) { margin-bottom: $margin-s; }
-}
