@@ -3,9 +3,13 @@
 		{{ partial "newsletter.html" (dict "type" "footer") }}
 	</div>
 	<div class="footer__content">
-		<div class="footer__column">
-			<div class="footer__heading">Folgen Sie Uns</div>
-			{{- partial "svgs/social_svgs.html" . -}}
+		<div class="footer__column footer__column--left">
+			<div class="footer__social">
+				<div class="footer__heading">Folgen Sie Uns</div>
+				<div class="footer__svgs">
+					{{- partial "svgs/social_svgs.html" . -}}
+				</div>
+			</div>
 		</div>
 		<div class="footer__column">
 			<ul class="footer__list">

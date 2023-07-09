@@ -17,7 +17,15 @@
 		display: flex;
 		flex-direction: column;
 
+		&--left { align-items: flex-start; }
+
 		&--right { align-items: flex-end; }
+	}
+
+	&__social {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 	}
 
 	&__partner {
