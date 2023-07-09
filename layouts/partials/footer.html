@@ -3,28 +3,28 @@
 		{{ partial "newsletter.html" (dict "type" "footer") }}
 	</div>
 	<div class="footer__content">
-		<div class="footer__content-column">
-			<div class="footer__content-heading">Folgen Sie Uns</div>
+		<div class="footer__column">
+			<div class="footer__heading">Folgen Sie Uns</div>
 			{{- partial "svgs/social_svgs.html" . -}}
 		</div>
-		<div class="footer__content-column">
-			<ul class="footer__content-list">
+		<div class="footer__column">
+			<ul class="footer__list">
 				{{ range .Site.Data.partials.footer.column_one }}
-				<li class="footer__content-item"><a href="{{ .link }}" class="footer__content-link">{{ .label }}</a></li>
+				<li class="footer__item"><a href="{{ .link }}" class="footer__link">{{ .label }}</a></li>
 				{{ end }}
 			</ul>
 		</div>
-		<div class="footer__column">
+		<div class="footer__column footer__column--right">
 			<div class="footer__partner">
-				<div class="footer__content-heading">Offizielle Informationspartnerschaft</div>
-				<a href="https://www.keystone-sda.ch/home" class="footer__partner">
-					<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_250/v1595591559/logos/keystone_bjobdv.png" alt="Keystone SDA logo" class="footer__partner-logo" >
+				<div class="footer__heading">Offizielle Informationspartnerschaft</div>
+				<a href="https://www.keystone-sda.ch/home">
+					<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_225/v1595591559/logos/keystone_bjobdv.png" alt="Keystone SDA logo" class="footer__partner-logo" >
 				</a>
 			</div>
 			<div class="footer__partner">
-				<div class="footer__content-heading">Offizieller Netzwerkpartner Verband</div>
-				<a href="https://www.schweizermedien.ch/medienkompetenz/angebote-netzwerkpartner" class="footer__partner">
-					<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_250/v1595591559/logos/sm_grey_sx76sk.png" alt="Schweizer Medien logo" class="footer__partner-logo" >
+				<div class="footer__heading">Offizieller Netzwerkpartner Verband</div>
+				<a href="https://www.schweizermedien.ch/medienkompetenz/angebote-netzwerkpartner">
+					<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_225/v1595591559/logos/sm_grey_sx76sk.png" alt="Schweizer Medien logo" class="footer__partner-logo" >
 				</a>
 			</div>
 		</div>
