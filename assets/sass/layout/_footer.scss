@@ -1,5 +1,5 @@
 .footer {
-	background-color: $footer-dark;
+	background-color: $davy-grey;
 	padding: 1.5rem 3rem;
 
 	&__content {
@@ -115,10 +115,10 @@
 
 	&__link {
 		text-decoration: none;
-		color: $chinder-platinum;
+		color: $platinum;
 
 		&:active,
-		&:hover { border-bottom: 2px solid $chinder-platinum;}
+		&:hover { border-bottom: 2px solid $platinum;}
 	}
 
 	// &__top,
