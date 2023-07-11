@@ -10,6 +10,8 @@
 		display: flex;
 		justify-content: space-between;
 		margin-top: 3rem;
+
+		@include respond(tab-port-sm) { flex-flow: column wrap; }
 	}
 
 	&__column {
@@ -17,9 +19,35 @@
 		display: flex;
 		flex-direction: column;
 
-		&--left { align-items: flex-start; }
+		@include respond(tab-port-sm) {
+			width: 100%;
+			margin-bottom: 3rem;
+		}
 
-		&--right { align-items: flex-end; }
+		&--left {
+			align-items: flex-start;
+
+			@include respond(tab-port-sm) {
+				align-items: center;
+				order: 2;
+			}
+		}
+
+		&--right {
+			align-items: flex-end;
+
+			@include respond(tab-port-sm) {
+				order: 3;
+				flex-direction: row;
+				align-items: baseline;
+				justify-content: center;
+			}
+
+			@include respond(phone-xl) {
+				flex-direction: column;
+				align-items: center;
+			}
+		}
 	}
 
 	&__social {
@@ -32,13 +60,24 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+
 		&:not(:last-child) { margin-bottom: 2rem; }
+
+		@include respond(tab-land) { align-items: baseline;; }
+
+		@include respond(tab-port-sm) {
+			align-items: center;
+
+			&:not(:last-child) { margin-right: 3rem; }
+		}
 	}
 
 	&__heading {
-		font-size: 14px;
+		font-size: 1.4rem;
 		text-transform: uppercase;
 		margin-bottom: 1rem;
+
+		@include respond(tab-port-sm) { font-size: 1.1rem; }
 	}
 
 	&__list {
@@ -47,12 +86,31 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+
+		@include respond(tab-port-sm) {
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
 	}
 
 	&__item {
 		font-weight: 700;
 		text-transform: uppercase;
 		padding-bottom: 1rem;
+
+		@include respond(tab-port-sm) {
+			&:not(:last-child) {
+
+				&:after {
+					content: "|";
+					color: $chinder-platinum;
+					margin: 0 2rem;
+
+					@include respond(phone-lg) { margin: 0 0.5rem; }
+				}
+			}
+		}
 	}
 
 	&__link {
