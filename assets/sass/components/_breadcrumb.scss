@@ -12,8 +12,6 @@
 	&__link:hover,
 	&__link:active { border-bottom: 2px solid $chinder-platinum; }
 
-	&__container { @include container-main; }
-
 	&__group-container {
 		background-color: $footer-dark;
 		padding: 1rem 0;

@@ -1,9 +1,5 @@
 .document {
 
-	&__container {
-		@include container-main;
-	}
-
 	&__card {
 		background-color: $chinder-cultured;
 		width: 30rem;

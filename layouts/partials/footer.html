@@ -1,8 +1,42 @@
 <footer class="footer">
-	<div class="footer__top">
+	<div class="footer__newsletter">
 		{{ partial "newsletter.html" (dict "type" "footer") }}
 	</div>
-	<div class="footer__middle">
+	<div class="footer__content">
+		<div class="footer__row">
+			<ul class="footer__list">
+				{{ range .Site.Data.partials.footer.column_one }}
+				<li class="footer__item"><a href="{{ .link }}" class="footer__link">{{ .label }}</a></li>
+				{{ end }}
+			</ul>
+		</div>
+		<div class="footer__row footer__row--middle">
+			<div class="footer__social">
+				<div class="footer__heading">Folgen Sie Uns</div>
+				<div class="footer__svgs">
+					{{- partial "svgs/social_svgs.html" . -}}
+				</div>
+			</div>
+		</div>
+		<div class="footer__row footer__row--bottom">
+			<div class="footer__partner">
+				<div class="footer__heading">Offizielle Informationspartnerschaft</div>
+				<a href="https://www.keystone-sda.ch/home">
+					<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_200/v1595591559/logos/keystone_footer_onlu1x.png" alt="Keystone SDA logo" class="footer__partner-logo" >
+				</a>
+			</div>
+			<div class="footer__partner">
+				<div class="footer__heading">Offizieller Netzwerkpartner Verband</div>
+				<a href="https://www.schweizermedien.ch/medienkompetenz/angebote-netzwerkpartner">
+					<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_200/v1595591559/logos/sm_grey_sx76sk.png" alt="Schweizer Medien logo" class="footer__partner-logo" >
+				</a>
+			</div>
+		</div>
+	</div>
+
+
+
+	<!-- <div class="footer__middle">
 		<div class="footer__middle-container">
 			<ul class="footer__column footer__column--heavy">
 				{{ range .Site.Data.partials.footer.column_one }}
@@ -46,5 +80,5 @@
 				{{- partial "svgs/social_svgs.html" . -}}
 			</div>
 		</div>
-	</div>
+	</div> -->
 </footer>

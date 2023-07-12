@@ -1,24 +1,25 @@
 .single {
 
 	&__container {
-		@include container-main;
+		padding: 3rem;
+
+		@include respond(tab-land) { padding: 0; }
 	}
 
 	&__image {
 		display: flex;
-		flex-direction: column;
-		align-items: center;
+		justify-content: center;
 		margin-bottom: 4rem;
 
+		&-group {
+			display: flex;
+			flex-direction: column;
+			align-items: baseline;
+		}
+
 		&-caption {
-			align-self: flex-start;
 			display: flex;
 			align-items: center;
-			margin-left: 11rem;
-
-			@include respond(tab-port-xl) { margin-left: 3rem; }
-
-			@include respond(tab-port-lg) { margin-left: 0; }
 		}
 	}
 
@@ -95,16 +96,5 @@
 		margin-bottom: 3rem;
 
 		li { margin-bottom: 0; }
-	}
-
-	&__comments {
-		@include container-main;
-		border-top: 4px solid $chinder-cultured;
-
-		&-title {
-			font-family: $font-patrick, $font-fallback;
-			color: $chinder-orange;
-			margin-top: $margin-s;
-		}
 	}
 }

@@ -1,10 +1,9 @@
 .search {
 
 	&__container {
-		@include container-main;
 		display: flex;
 		justify-content: center;
-		margin-bottom: 5rem;
+		padding: 3rem;
 	}
 
 	&__field.aa-input {

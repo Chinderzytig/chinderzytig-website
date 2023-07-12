@@ -1,5 +1,4 @@
 .abonnemente {
-	@include container-main;
 
 	&__intro {
 		text-align: justify;
@@ -19,7 +18,6 @@
 	}
 
 	&__print {
-		@include container-main;
 
 		&-divider { border-top: 1px solid $color-black; }
 

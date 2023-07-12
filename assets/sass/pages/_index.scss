@@ -1,5 +1,4 @@
 .map {
-	@include container-main;
 	margin-top: -5rem;
 
 	@include respond(tab-port-sm) { margin-top: 0; }
@@ -11,8 +10,6 @@
 }
 
 .fdw__cta {
-	margin-bottom: 3rem;
-	padding: 4rem 0;
 
 	&-container {
 		display: flex;
@@ -33,7 +30,6 @@
 .ukraine {
 	background: linear-gradient(#0057b7, #ffd700);
 	margin-bottom: 3rem;
-	padding: 3rem 0;
 
 	&__info {
 		background-color: rgba(255, 255, 255, 0.4);

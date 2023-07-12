@@ -1,8 +1,7 @@
 .snipcart {
-	@include container-main;
 	display: flex;
 	justify-content: flex-end;
-	margin-bottom: 5rem;
+	padding-right: 3rem;
 
 	&-modal__container { z-index: 3000; }
 
