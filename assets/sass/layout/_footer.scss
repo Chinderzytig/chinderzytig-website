@@ -1,6 +1,6 @@
 .footer {
 	background-color: $davy-grey;
-	padding: 1.5rem 3rem;
+	padding: 3rem 3rem;
 
 	&__content {
 		color: $platinum;
@@ -8,46 +8,18 @@
 		margin-left: auto;
 		margin-right: auto;
 		display: flex;
-		justify-content: space-between;
+		flex-direction: column;
+		align-items: center;
 		margin-top: 3rem;
-
-		@include respond(tab-port-sm) { flex-flow: column wrap; }
 	}
 
-	&__column {
-		width: 33%;
+	&__row {
 		display: flex;
-		flex-direction: column;
+		flex-direction: row;
 
-		@include respond(tab-port-sm) {
-			width: 100%;
-			margin-bottom: 3rem;
-		}
+		&:not(:last-child) { margin-bottom: 3rem; }
 
-		&--left {
-			align-items: flex-start;
-
-			@include respond(tab-port-sm) {
-				align-items: center;
-				order: 2;
-			}
-		}
-
-		&--right {
-			align-items: flex-end;
-
-			@include respond(tab-port-sm) {
-				order: 3;
-				flex-direction: row;
-				align-items: baseline;
-				justify-content: center;
-			}
-
-			@include respond(phone-xl) {
-				flex-direction: column;
-				align-items: center;
-			}
-		}
+		&--bottom { @include respond(phone-xxl) { flex-direction: column; } }
 	}
 
 	&__social {
@@ -61,31 +33,24 @@
 		flex-direction: column;
 		align-items: center;
 
-		&:not(:last-child) { margin-bottom: 2rem; }
+		&:not(:last-child) { margin-right: 3rem; }
 
-		@include respond(tab-land) { align-items: baseline;; }
-
-		@include respond(tab-port-sm) {
-			align-items: center;
-
-			&:not(:last-child) { margin-right: 3rem; }
-		}
+		@include respond(phone-xxl) { &:not(:last-child) { margin: 0 0 3rem 0; } }
 	}
 
 	&__heading {
 		font-size: 1.4rem;
 		text-transform: uppercase;
 		margin-bottom: 1rem;
-
-		@include respond(tab-port-sm) { font-size: 1.1rem; }
 	}
 
 	&__list {
 		list-style: none;
 		padding: 0;
 		display: flex;
-		flex-direction: column;
-		align-items: center;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
 
 		@include respond(tab-port-sm) {
 			flex-direction: row;
@@ -99,16 +64,14 @@
 		text-transform: uppercase;
 		padding-bottom: 1rem;
 
-		@include respond(tab-port-sm) {
-			&:not(:last-child) {
+		&:not(:last-child) {
 
-				&:after {
-					content: "|";
-					color: $chinder-platinum;
-					margin: 0 2rem;
+			&:after {
+				content: "|";
+				color: $platinum;
+				margin: 0 2rem;
 
-					@include respond(phone-lg) { margin: 0 0.5rem; }
-				}
+				@include respond(phone-lg) { margin: 0 0.5rem; }
 			}
 		}
 	}

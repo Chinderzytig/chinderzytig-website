@@ -1,9 +1,16 @@
 <footer class="footer">
-	<div class="footer__top">
+	<div class="footer__newsletter">
 		{{ partial "newsletter.html" (dict "type" "footer") }}
 	</div>
 	<div class="footer__content">
-		<div class="footer__column footer__column--left">
+		<div class="footer__row">
+			<ul class="footer__list">
+				{{ range .Site.Data.partials.footer.column_one }}
+				<li class="footer__item"><a href="{{ .link }}" class="footer__link">{{ .label }}</a></li>
+				{{ end }}
+			</ul>
+		</div>
+		<div class="footer__row footer__row--middle">
 			<div class="footer__social">
 				<div class="footer__heading">Folgen Sie Uns</div>
 				<div class="footer__svgs">
@@ -11,14 +18,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="footer__column">
-			<ul class="footer__list">
-				{{ range .Site.Data.partials.footer.column_one }}
-				<li class="footer__item"><a href="{{ .link }}" class="footer__link">{{ .label }}</a></li>
-				{{ end }}
-			</ul>
-		</div>
-		<div class="footer__column footer__column--right">
+		<div class="footer__row footer__row--bottom">
 			<div class="footer__partner">
 				<div class="footer__heading">Offizielle Informationspartnerschaft</div>
 				<a href="https://www.keystone-sda.ch/home">
