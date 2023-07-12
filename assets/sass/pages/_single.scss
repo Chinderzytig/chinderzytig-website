@@ -1,20 +1,25 @@
 .single {
 
+	&__container {
+		padding: 3rem;
+
+		@include respond(tab-land) { padding: 0; }
+	}
+
 	&__image {
 		display: flex;
-		flex-direction: column;
-		align-items: center;
+		justify-content: center;
 		margin-bottom: 4rem;
 
+		&-group {
+			display: flex;
+			flex-direction: column;
+			align-items: baseline;
+		}
+
 		&-caption {
-			align-self: flex-start;
 			display: flex;
 			align-items: center;
-			margin-left: 11rem;
-
-			@include respond(tab-port-xl) { margin-left: 3rem; }
-
-			@include respond(tab-port-lg) { margin-left: 0; }
 		}
 	}
 

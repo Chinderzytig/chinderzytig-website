@@ -1,8 +1,9 @@
 {{define "main"}}
 	<div class="single__container">
 		<div class="single__frontmatter">
-			<figure class="single__image">
-				<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_320/{{ .Params.hero_img }} 320w,
+			<div class="single__image">
+				<figure class="single__image-group">
+					<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_320/{{ .Params.hero_img }} 320w,
 					{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_414/{{ .Params.hero_img }} 414w,
 					{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_512/{{ .Params.hero_img }} 512w,
 					{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_600/{{ .Params.hero_img }} 600w"
@@ -10,23 +11,24 @@
 					src="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_800/{{ .Params.hero_img }}"
 					alt="{{ .Params.img_description }}"
 					class="single__image-img"/>
-				<figcaption class="single__image-caption">
-					{{ partial "svgs/triangle_up_svg.html" (dict "fill" "#6C685D" "width" 15 "height" 15) }}
-					{{ if .Params.img_src }}
+					<figcaption class="single__image-caption">
+						{{ partial "svgs/triangle_up_svg.html" (dict "fill" "#6C685D" "width" 15 "height" 15) }}
+						{{ if .Params.img_src }}
 						<a href="{{ .Params.img_src }}" title="{{ .Params.img_description }}" target="_blank" class="single__image-src">
 							<div class="single__image-photographer">{{ .Params.img_photographer }}</div>
 						</a>
-					{{ else}}
+						{{ else}}
 						<div class="single__image-photographer">{{ .Params.img_photographer }}</div>
-					{{ end }}
-					{{ if .Params.cc_licence }}
+						{{ end }}
+						{{ if .Params.cc_licence }}
 						<div class="single__caption-buffer">/</div>
 						<a href="{{ .Params.cc_src }}" target="_blank" class="single__cc-src">
 							<div class="single__cc-licence">{{ .Params.cc_licence }}</div>
 						</a>
-					{{ end }}
-				</figcaption>
-			</figure>
+						{{ end }}
+					</figcaption>
+				</figure>
+			</div>
 			<div class="single__taxonomies">
 				{{ if .Params.kategorien }}
 					{{ range (.GetTerms "kategorien") }}
