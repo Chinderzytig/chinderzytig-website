@@ -97,14 +97,4 @@
 
 		li { margin-bottom: 0; }
 	}
-
-	&__comments {
-		border-top: 4px solid $chinder-cultured;
-
-		&-title {
-			font-family: $font-patrick, $font-fallback;
-			color: $chinder-orange;
-			margin-top: $margin-s;
-		}
-	}
 }
