@@ -1,9 +1,3 @@
-.map {
-	margin-top: -5rem;
-
-	@include respond(tab-port-sm) { margin-top: 0; }
-}
-
 .new__cta {
 	@include cta-color($cta-azure);
 	margin-bottom: 3rem;
