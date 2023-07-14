@@ -35,6 +35,8 @@ main {
 	margin-top: 13rem;
 
 	@include respond(tab-land) { padding: 0 3rem; }
+
+	@include respond(phone-lg) { margin-top: 16rem; }
 }
 
 section { padding: 3rem; }
