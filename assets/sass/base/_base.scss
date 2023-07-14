@@ -36,7 +36,13 @@ main {
 
 	@include respond(tab-land) { padding: 0 3rem; }
 
+	@include respond(tab-port-sm) { padding: 0; }
+
 	@include respond(phone-lg) { margin-top: 16rem; }
 }
 
-section { padding: 3rem; }
+section {
+	padding: 3rem;
+
+	&.ukraine { @include respond(tab-port-sm) { padding: 0; } }
+}
