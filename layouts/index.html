@@ -1,5 +1,29 @@
 {{define "main"}}
 
+	<div class="cta cta--verL">
+		<h2 class="heading heading__tertiary">Neuste Artikel</h2>
+		<div class="card__container">
+			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
+			{{ range first 1 $artikel.ByDate.Reverse }}
+				<a href="{{.RelPermalink}}" class="card card--white">
+					<div class="card__img-container">
+						<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
+						{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
+						{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
+						src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
+						alt="{{ .Params.img_description }}"
+						class="card__img"
+						/>
+					</div>
+					<div class="card__content">
+						<h3 class="card__content-title">{{ .Title }}</h3>
+						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+					</div>
+				</a>
+			{{ end }}
+		</div>
+	</div>
+
 	<section class="new__cta">
 		<div class="card__list new__cta-container">
 			<h2 class="heading heading__tertiary">Neuste Artikel</h2>
