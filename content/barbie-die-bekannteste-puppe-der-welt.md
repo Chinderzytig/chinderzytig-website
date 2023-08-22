@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Barbie_AM_koafkn"
 artikel = true
 author = "Natasa Petruljevic"
 cc_licence = ""
@@ -52,3 +52,9 @@ Ende der 1960er Jahr ging Mattel dazu über, die Puppen in pinkfarbene Kartons z
 Der neue Barbie-Film wurde am 21. Juli 2023 erstmals in den Schweizer Kinos ausgestrahlt.
 Worum geht es im “Barbie”-Film?
 Im Mittelpunkt des Films steht eine Puppe, die im Barbieland lebt und aufgrund ihrer sogenannten Unvollkommenheiten gezwungen ist, das Land zu verlassen.  Sie begibt sich auf ein Abenteuer in der realen Welt und entdeckt dabei, dass Perfektion nur im Inneren zu finden ist.
+
+{{< teiler >}}
+
+{{< arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}
+{{< /arbeitsmaterial-group >}}
