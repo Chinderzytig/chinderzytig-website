@@ -9,6 +9,7 @@ description = ""
 fdw = false
 hero_img = "/mona_lisa_fzajzp.jpg"
 img_description = "Besucher des Louvre-Museums in Paris stehen und betrachten die Mona Lisa."
+img_photographer = "Eric Terrade"
 img_src = "https://unsplash.com/de/fotos/0WQOCx1g8hw"
 kategorien = []
 kfk = false
