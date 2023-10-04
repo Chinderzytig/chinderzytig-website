@@ -1,4 +1,29 @@
 {{define "main"}}
+	<section class="fdw__cta">
+		<div class="card__list fdw__cta-container">
+			<a href="/fokus-der-woche" class="fdw__cta-link">
+				{{- partial "svgs/fdw_svg.html" . -}}
+			</a>
+			{{ $fdwArtikel := where .Site.Pages ".Params.fdw" true }}
+			{{ range first 1 $fdwArtikel.ByDate.Reverse }}
+				<a href="{{.RelPermalink}}" class="card card--grey fdw__cta-card">
+					<div class="card__img-container">
+						<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
+							{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
+							{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
+							src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
+							alt="{{ .Params.img_description }}"
+							class="card__img"
+						/>
+					</div>
+					<div class="card__content">
+						<h3 class="card__content-title">{{ .Title }}</h3>
+						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+					</div>
+				</a>
+			{{ end }}
+		</div>
+	</section>
 
 	<div class="cta cta--verL">
 		<h2 class="heading heading__tertiary">Neuste Artikel</h2>
@@ -69,32 +94,6 @@
 			<div class="btn__container">
 				<a href="/alle-artikel" class="btn btn--secondary">Alle Artikel</a>
 			</div>
-		</div>
-	</section>
-
-	<section class="fdw__cta">
-		<div class="card__list fdw__cta-container">
-			<a href="/fokus-der-woche" class="fdw__cta-link">
-				{{- partial "svgs/fdw_svg.html" . -}}
-			</a>
-			{{ $fdwArtikel := where .Site.Pages ".Params.fdw" true }}
-			{{ range first 1 $fdwArtikel.ByDate.Reverse }}
-				<a href="{{.RelPermalink}}" class="card card--grey fdw__cta-card">
-					<div class="card__img-container">
-						<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
-							{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
-							{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
-							src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
-							alt="{{ .Params.img_description }}"
-							class="card__img"
-						/>
-					</div>
-					<div class="card__content">
-						<h3 class="card__content-title">{{ .Title }}</h3>
-						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
-					</div>
-				</a>
-			{{ end }}
 		</div>
 	</section>
 
