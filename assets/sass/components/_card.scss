@@ -99,3 +99,43 @@
 		}
 	}
 }
+
+.lard {
+	height: 30rem;
+	width: 100%;
+	margin-top: 3rem;
+	display: flex;
+
+	&:link,
+	&:visited {
+		text-decoration: none;
+		color: $color-black;
+	}
+
+	&--grey { background-color: $chinder-cultured; }
+
+	&--white { background-color: $color-white; }
+
+	&__img {
+		height: 30rem;
+	}
+
+	&__content {
+		width: 100%;
+		padding: 1.5rem;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+
+		&-title {
+			font-family: $font-patrick, $font-fallback;
+			font-size: $font-big;
+			font-weight: 700;
+
+			&--highlight {
+				font-family: $font-patrick, $font-fallback;
+				font-size: $font-heading;
+			}
+		}
+	}
+}
