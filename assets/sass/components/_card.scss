@@ -38,12 +38,12 @@
 		@include respond(tab-port-xl) { height: 21.3rem; }
 
 		&-title {
-			font-family: $font-patrick, $font-fallback;
+			font-family: $font-patrick;
 			font-size: $font-big;
 			font-weight: 700;
 
 			&--highlight {
-				font-family: $font-patrick, $font-fallback;
+				font-family: $font-patrick;
 				font-size: $font-heading;
 			}
 		}
@@ -128,12 +128,12 @@
 		justify-content: space-between;
 
 		&-title {
-			font-family: $font-patrick, $font-fallback;
+			font-family: $font-patrick;
 			font-size: $font-big;
 			font-weight: 700;
 
 			&--highlight {
-				font-family: $font-patrick, $font-fallback;
+				font-family: $font-patrick;
 				font-size: $font-heading;
 			}
 		}

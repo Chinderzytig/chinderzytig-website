@@ -1,5 +1,5 @@
 body {
-	font-family: 'Andika', sans-serif;
+	font-family: $font-andika;
 	font-size: $font-default;
 	font-weight: 100;
 	line-height: 1.6;
@@ -16,7 +16,7 @@ body {
 
 /* ----- HEADINGS ------ */
 .heading {
-	font-family: $font-patrick, $font-fallback;
+	font-family: $font-patrick;
 	font-size: $font-heading;
 	text-transform: uppercase;
 	margin-bottom: $margin-s;
