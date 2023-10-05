@@ -122,15 +122,18 @@
 
 	&__content {
 		width: 100%;
-		padding: 1.5rem;
+		padding: 2rem;
 		display: flex;
 		flex-direction: column;
-		justify-content: space-between;
+
+		&-pretitle {
+			font-family: $font-spartan;
+			color: $engineering-orange;
+		}
 
 		&-title {
-			font-family: $font-patrick;
-			font-size: $font-big;
-			font-weight: 700;
+			font-family: $font-amatic;
+			font-size: 3.5rem;
 
 			&--highlight {
 				font-family: $font-patrick;
