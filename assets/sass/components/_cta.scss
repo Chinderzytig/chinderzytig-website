@@ -1,5 +1,5 @@
 .cta {
-	padding: 4rem 3rem;
+	padding: 3rem;
 
 	&--verL { @include cta-type($verdigris, left, $celadon); }
 	&--verR { @include cta-type($verdigris, right, $celadon); }

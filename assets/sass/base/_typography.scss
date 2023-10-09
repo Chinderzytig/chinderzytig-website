@@ -15,6 +15,16 @@ body {
 }
 
 /* ----- HEADINGS ------ */
+.deading {
+	font-family: $font-amatic;
+	font-size: 6rem;
+	margin-bottom: 3rem;
+
+	&--white { color: $white; }
+
+	&--black { color: $black; }
+}
+
 .heading {
 	font-family: $font-patrick;
 	font-size: $font-heading;

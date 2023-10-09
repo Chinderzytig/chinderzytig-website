@@ -21,9 +21,9 @@
 		{{ end }}
 	</div>
 
-	<section class="new__cta">
+	<section class="cta cta--verL">
 		<div class="card__list new__cta-container">
-			<h2 class="heading heading__tertiary">Neuste Artikel</h2>
+			<h2 class="deading deading--white">Neuste Artikel</h2>
 			<div class="card__container">
 				{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 				{{ range first 9 $artikel.ByDate.Reverse }}
