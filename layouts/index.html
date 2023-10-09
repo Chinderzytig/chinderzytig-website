@@ -6,14 +6,14 @@
 				<div class="lard__img-container">
 					<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/graphics/fdw-hero_nkmrti.png"
 					alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
-					class="lard__img"
+					class="lard__land-img"
 					/>
 				</div>
-				<div class="lard__content">
-					<div class="lard__content-grouping">
-						<h4 class="lard__content-topic">Fokus der Woche</h4>
-						<h3 class="lard__content-title">{{ .Title }}</h3>
-						<p class="lard__content-summary">{{ .Summary | truncate 200 }}</p>
+				<div class="lard__land-content">
+					<div class="lard__land-content-container">
+						<h4 class="lard__land-topic">Fokus der Woche</h4>
+						<h3 class="lard__land-title">{{ .Title }}</h3>
+						<p class="lard__land-summary">{{ .Summary | truncate 200 }}</p>
 					</div>
 					<div class="lard__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
 				</div>
@@ -28,7 +28,7 @@
 				{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 				{{ range first 9 $artikel.ByDate.Reverse }}
 					{{ if .Params.kfk }}
-						<a href="{{.RelPermalink}}" class="card card--white">
+						<a href="{{.RelPermalink}}" class="lard lard__port lard--celadon">
 							<div class="card__img-container">
 								<div class="card__kfk">Kinder schreiben für Kinder</div>
 								<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
