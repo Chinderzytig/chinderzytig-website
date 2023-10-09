@@ -34,11 +34,13 @@ $color-white: #fff;
 $seasalt: #FAFAFA;
 $cultured: #F4F4F4;
 $platinum: #E6E5E2;
+$silver: #A6A5A3;
 $davy-grey: #4C4C4C;
 $verdigris: #30AFAA;
 $celadon: #358280;
 $orange: #EC633F;
 $jonquil: #FFCF04;
+$engineering-orange: #CD0000;
 
 $black: #000;
 $white: #fff;
@@ -48,8 +50,10 @@ $margin-s: 3rem;
 $margin-m: 6rem;
 
 /* ----- TYPOGRAPHY ------ */
-$font-patrick: 'Patrick Hand';
-$font-fallback: cursive;
+$font-patrick: 'Patrick Hand', cursive;
+$font-andika: 'Andika', sans-serif;
+$font-amatic: 'Amatic SC', cursive;
+$font-spartan: 'League Spartan', sans-serif;
 
 $font-small: 1.6rem;
 $font-default: 1.8rem;

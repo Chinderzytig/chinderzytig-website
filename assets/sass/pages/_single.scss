@@ -1,10 +1,6 @@
 .single {
 
-	&__container {
-		padding: 3rem;
-
-		@include respond(tab-land) { padding: 0; }
-	}
+	&__container { padding: 3rem; }
 
 	&__image {
 		display: flex;
@@ -56,7 +52,7 @@
 
 		h3 {
 			font-size: $font-bigger;
-			font-family: $font-patrick, $font-fallback;
+			font-family: $font-patrick;
 			color: $chinder-orange;
 			margin-bottom: 1.5rem;
 		}
