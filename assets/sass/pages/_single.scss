@@ -1,10 +1,6 @@
 .single {
 
-	&__container {
-		padding: 3rem;
-
-		@include respond(tab-land) { padding: 0; }
-	}
+	&__container { padding: 3rem; }
 
 	&__image {
 		display: flex;
