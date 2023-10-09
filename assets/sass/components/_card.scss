@@ -67,35 +67,35 @@
 	//
 	// 	.card__kfk { background-color: $color-black; }
 	// }
-
+	//
 	&__container {
-		position: relative;
+		// position: relative;
 		display: flex;
 		justify-content: space-between;
 		flex-wrap: wrap;
-		margin-top: -3rem;
+		// margin-top: -3rem;
 
-		@include respond(tab-port-sm) {
-			flex-direction: column;
-			align-items: center;
-		}
+		// @include respond(tab-port-sm) {
+		// 	flex-direction: column;
+		// 	align-items: center;
+		// }
 	}
+	//
+	// &__hidden { display: none; }
+	//
+	// &__buffer { height: 0; }
 
-	&__hidden { display: none; }
-
-	&__buffer { height: 0; }
-
-	&__kfk {
-		position: absolute;
-		font-weight: bold;
-		background-color: $map-minion;
-		padding: 1rem;
-
-		@include respond(tab-port-xl) {
-			width: 100%;
-			text-align: center;
-		}
-	}
+	// &__kfk {
+	// 	position: absolute;
+	// 	font-weight: bold;
+	// 	background-color: $map-minion;
+	// 	padding: 1rem;
+	//
+	// 	@include respond(tab-port-xl) {
+	// 		width: 100%;
+	// 		text-align: center;
+	// 	}
+	// }
 }
 
 .lard {
@@ -108,11 +108,45 @@
 
 	&:hover { transform: translateY(-1rem); }
 
-	&:active { transform: translateY(1rem); }
+	&:active { transform: translateY(.5rem); }
+
+	&--grey {
+		background-color: $cultured;
+		box-shadow: 0.8rem 0.8rem $silver;
+
+		&:hover { box-shadow: 1.1rem 1.1rem $silver; }
+
+		&:active { box-shadow: 0.5rem 0.5rem rgba(166, 165, 163, 0.65); }
+	}
+
+	&--celadon {
+		background-color: $white;
+		box-shadow: 0.8rem 0.8rem $celadon;
+
+		&:hover { box-shadow: 1.1rem 1.1rem $celadon; }
+
+		&:active { box-shadow: 0.5rem 0.5rem rgba(53, 130, 128, 0.65); }
+	}
 
 	&__port {
 		height: 40rem;
-		width: 30rem;
+		width: 30%;
+		margin-top: 3rem;
+
+		&-img {
+			width: 100%;
+
+			&:hover,
+			&:active { transform: translateY(0rem); }
+		}
+
+		&-content {
+			height: 20rem;
+			padding: 1.5rem;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+		}
 	}
 
 	&__land {
@@ -132,7 +166,7 @@
 		@include respond(phone-lg) { height: 70rem; }
 
 		&-img {
-			height: 30rem;
+			height: 100%;
 
 			@include respond(tab-port-sm) {
 				height: auto;
@@ -159,23 +193,5 @@
 			font-size: 3.5rem;
 			margin: -1.2rem 0 1.5rem 0;
 		}
-	}
-
-	&--grey {
-		background-color: $cultured;
-		box-shadow: 0.8rem 0.8rem $silver;
-
-		&:hover { box-shadow: 1.1rem 1.1rem $silver; }
-
-		&:active { box-shadow: 0.5rem 0.5rem rgba(166, 165, 163, 0.65); }
-	}
-
-	&--celadon {
-		background-color: $color-white;
-		box-shadow: 0.8rem 0.8rem $celadon;
-
-		&:hover { box-shadow: 1.1rem 1.1rem $celadon; }
-
-		&:active { box-shadow: 0.5rem 0.5rem rgba(53, 130, 128, 0.65); }
 	}
 }
