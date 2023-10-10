@@ -68,16 +68,16 @@
 	// 	.card__kfk { background-color: $color-black; }
 	// }
 	//
-	&__container {
-		display: flex;
-		justify-content: space-between;
-		flex-wrap: wrap;
-
-		@include respond(tab-port-sm) {
-			flex-direction: column;
-			align-items: center;
-		}
-	}
+	// &__container {
+	// 	display: flex;
+	// 	justify-content: space-between;
+	// 	flex-wrap: wrap;
+	//
+	// 	@include respond(tab-port-sm) {
+	// 		flex-direction: column;
+	// 		align-items: center;
+	// 	}
+	// }
 	//
 	// &__hidden { display: none; }
 	//
@@ -145,11 +145,16 @@
 			flex-direction: column;
 			justify-content: space-between;
 		}
+
+		&-title {
+			font-family: $font-amatic;
+			font-size: 2.5rem;
+		}
 	}
 
 	&__land {
 		height: 30rem;
-		width: 100%;
+		width: 95%;
 		display: flex;
 
 		@include respond(tab-port-sm) {
@@ -199,12 +204,17 @@
 
 	&__container {
 		display: flex;
-		justify-content: space-between;
-		flex-wrap: wrap;
 
-		@include respond(tab-port-sm) {
-			flex-direction: column;
-			align-items: center;
+		&-list {
+			justify-content: space-between;
+			flex-wrap: wrap;
+
+			@include respond(tab-port-sm) {
+				flex-direction: column;
+				align-items: center;
+			}
 		}
+
+		&-single { justify-content: center; }
 	}
 }

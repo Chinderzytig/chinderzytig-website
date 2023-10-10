@@ -1,7 +1,8 @@
 {{define "main"}}
 	<div class="cta">
-		{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" true }}
-		{{ range first 1 $artikel.ByDate.Reverse }}
+		<div class="lard__container lard__container-single">
+			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" true }}
+			{{ range first 1 $artikel.ByDate.Reverse }}
 			<a href="{{.RelPermalink}}" class="lard lard__land lard--grey">
 				<div class="lard__img-container">
 					<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/graphics/fdw-hero_nkmrti.png"
@@ -18,35 +19,34 @@
 					<div class="lard__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
 				</div>
 			</a>
-		{{ end }}
+			{{ end }}
+		</div>
 	</div>
 
 	<section class="cta cta--verL">
-		<div class="card__list">
-			<h2 class="deading deading--white">Neuste Artikel</h2>
-			<div class="lard__container">
-				{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
-				{{ range first 9 $artikel.ByDate.Reverse }}
-					<a href="{{.RelPermalink}}" class="lard lard__port lard--celadon">
-						<div class="card__img-container">
-							<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
-							{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
-							{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
-							src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
-							alt="{{ .Params.img_description }}"
-							class="lard lard__port-img"
-							/>
-						</div>
-						<div class="lard__port-content">
-							<h3 class="card__content-title">{{ .Title }}</h3>
-							<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
-						</div>
-					</a>
-				{{ end }}
-			</div>
-			<div class="btn__container">
-				<a href="/alle-artikel" class="btn btn--secondary">Alle Artikel</a>
-			</div>
+		<h2 class="deading deading--white">Neuste Artikel</h2>
+		<div class="lard__container lard__container-list">
+			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
+			{{ range first 9 $artikel.ByDate.Reverse }}
+				<a href="{{.RelPermalink}}" class="lard lard__port lard--celadon">
+					<div class="card__img-container">
+						<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
+						{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
+						{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
+						src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
+						alt="{{ .Params.img_description }}"
+						class="lard lard__port-img"
+						/>
+					</div>
+					<div class="lard__port-content">
+						<h3 class="lard__port-title">{{ .Title }}</h3>
+						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+					</div>
+				</a>
+			{{ end }}
+		</div>
+		<div class="btn__container">
+			<a href="/alle-artikel" class="btn btn--secondary">Alle Artikel</a>
 		</div>
 	</section>
 
