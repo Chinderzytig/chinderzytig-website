@@ -167,7 +167,7 @@
 
 	&__land {
 		height: 30rem;
-		width: 95%;
+		width: 100%;
 		display: flex;
 
 		@include respond(tab-port-sm) {
