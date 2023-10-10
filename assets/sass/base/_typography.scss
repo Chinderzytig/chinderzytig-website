@@ -20,6 +20,8 @@ body {
 	font-size: 6rem;
 	margin-bottom: 3rem;
 
+	&__card-list { margin-bottom: 0; }
+
 	&--white { color: $white; }
 
 	&--black { color: $black; }
