@@ -131,11 +131,24 @@
 		width: 30%;
 		margin-top: 3rem;
 
+		@include respond(tab-port-sm) {
+			width: 95%;
+			height: 20rem;
+			display: flex;
+		}
+
 		&-img {
 			width: 100%;
 
 			&:hover,
 			&:active { transform: translateY(0rem); }
+
+			@include respond(tab-port-sm) {
+				height: 20rem;
+				width: auto;
+			}
+
+			@include respond(phone-xl) { display: none; }
 		}
 
 		&-content {
