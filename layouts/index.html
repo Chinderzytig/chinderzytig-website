@@ -12,7 +12,11 @@
 				</div>
 				<div class="lard__land-content">
 					<div class="lard__land-content-container">
-						<h4 class="lard__land-topic lard__land-topic--fdw">Fokus der Woche</h4>
+						{{ if .Params.fdw }}
+							<h4 class="lard__land-topic lard__land-topic--fdw">Fokus der Woche</h4>
+						{{ else if .Params.kfk}}
+							<h4 class="lard__land-topic lard__land-topic--fdw">Kinder schreiben für Kinder</h4>
+						{{ end }}
 						<h3 class="lard__land-title">{{ .Title }}</h3>
 						<p class="lard__land-summary">{{ .Summary | truncate 200 }}</p>
 					</div>
@@ -24,9 +28,31 @@
 	</div>
 
 	<section class="cta cta--verL">
-		<h2 class="deading deading__card-list deading--white">Neuste Artikel</h2>
+		<h2 class="deading deading--white">Neuste Artikel</h2>
 		<div class="lard__container lard__container-list">
 			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
+			{{ range first 1 $artikel.ByDate.Reverse }}
+				<a href="{{.RelPermalink}}" class="lard lard__land lard--celadon">
+					<div class="lard__img-container">
+						<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/graphics/fdw-hero_nkmrti.png"
+						alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
+						class="lard__land-img"
+						/>
+					</div>
+					<div class="lard__land-content">
+						<div class="lard__land-content-container">
+							{{ if .Params.fdw }}
+								<h4 class="lard__land-topic lard__land-topic--fdw">Fokus der Woche</h4>
+							{{ else if .Params.kfk}}
+								<h4 class="lard__land-topic lard__land-topic--fdw">Kinder schreiben für Kinder</h4>
+							{{ end }}
+							<h3 class="lard__land-title">{{ .Title }}</h3>
+							<p class="lard__land-summary">{{ .Summary | truncate 200 }}</p>
+						</div>
+						<div class="lard__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+					</div>
+				</a>
+			{{ end }}
 			{{ range first 9 $artikel.ByDate.Reverse }}
 				<a href="{{.RelPermalink}}" class="lard lard__port lard--celadon">
 					<div class="card__img-container">
