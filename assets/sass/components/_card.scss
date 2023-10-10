@@ -183,13 +183,17 @@
 
 		&-topic {
 			font-family: $font-spartan;
-			color: $engineering-orange;
+			margin-bottom: -2.5rem;
+
+			&--fdw { color: $engineering-orange; }
+
+			&--kfk { color: $jonquil; }
 		}
 
 		&-title {
 			font-family: $font-amatic;
 			font-size: 3.5rem;
-			margin: -1.2rem 0 1.5rem 0;
+			margin: 1.5rem 0;
 		}
 	}
 
