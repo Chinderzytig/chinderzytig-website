@@ -34,7 +34,7 @@
 			{{ range first 1 $artikel.ByDate.Reverse }}
 				<a href="{{.RelPermalink}}" class="lard lard__land lard--celadon">
 					<div class="lard__img-container">
-						<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/graphics/fdw-hero_nkmrti.png"
+						<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
 						alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
 						class="lard__land-img"
 						/>
