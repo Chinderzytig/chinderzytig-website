@@ -48,9 +48,10 @@
 					</a>
 				{{ end }}
 			{{ end }}
-		</div>
-		<div class="btn__container">
-			<a href="#" class="btn btn--primary" id="loadMore">Mehr Artikel</a>
+			<a href="#" class="card card__port card--grey card__btn" id="loadMore">
+				{{ partial "svgs/arrow-right.html" . }}
+				<div class="card__btn-text">Mehr Artikel</div>
+			</a>
 		</div>
 	</section>
 {{ end }}

@@ -8,12 +8,12 @@ $(document).ready(function() {
 
 	if($(".card__hidden:hidden").length <= 12) {$("#loadMore").hide();}
 
-	$(".card__hidden").slice(0, 12).show();
+	$(".card__hidden").slice(0, 11).show();
 
 	$("#loadMore").on('click', function (e) {
 		e.preventDefault();
 
-		$(".card__hidden:hidden").slice(0, 3).slideDown();
+		$(".card__hidden:hidden").slice(0, 6).slideDown();
 		if($(".card__hidden:hidden").length == 0) {
 			$("#loadMore").fadeOut();
 		}
