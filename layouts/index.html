@@ -1,26 +1,26 @@
 {{define "main"}}
 	<div class="cta cta--clearL">
-		<div class="lard__container lard__container-single">
+		<div class="card__container card__container-single">
 			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" true }}
 			{{ range first 1 $artikel.ByDate.Reverse }}
-			<a href="{{.RelPermalink}}" class="lard lard__land lard--grey">
-				<div class="lard__img-container">
+			<a href="{{.RelPermalink}}" class="card card__land card--grey">
+				<div class="card__img-container">
 					<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/graphics/fdw-hero_nkmrti.png"
 					alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
-					class="lard__land-img"
+					class="card__land-img"
 					/>
 				</div>
-				<div class="lard__land-content">
-					<div class="lard__land-content-container">
+				<div class="card__land-content">
+					<div class="card__land-content-container">
 						{{ if .Params.fdw }}
-							<h4 class="lard__land-topic lard__land-topic--fdw">Fokus der Woche</h4>
+							<h4 class="card__land-topic card__land-topic--fdw">Fokus der Woche</h4>
 						{{ else if .Params.kfk}}
-							<h4 class="lard__land-topic lard__land-topic--fdw">Kinder schreiben für Kinder</h4>
+							<h4 class="card__land-topic card__land-topic--fdw">Kinder schreiben für Kinder</h4>
 						{{ end }}
-						<h3 class="lard__land-title">{{ .Title }}</h3>
-						<p class="lard__land-summary">{{ .Summary | truncate 200 }}</p>
+						<h3 class="card__land-title">{{ .Title }}</h3>
+						<p class="card__land-summary">{{ .Summary | truncate 200 }}</p>
 					</div>
-					<div class="lard__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+					<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
 				</div>
 			</a>
 			{{ end }}
@@ -29,47 +29,47 @@
 
 	<div class="cta cta--verL">
 		<h2 class="deading deading--white">Neuste Artikel</h2>
-		<div class="lard__container lard__container-list">
+		<div class="card__container card__container-list">
 			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 			{{ range first 1 $artikel.ByDate.Reverse }}
-				<a href="{{.RelPermalink}}" class="lard lard__land lard--celadon">
-					<div class="lard__img-container">
-						<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
-						alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
-						class="lard__land-img"
-						/>
-					</div>
-					<div class="lard__land-content">
-						<div class="lard__land-content-container">
-							{{ if .Params.fdw }}
-								<h4 class="lard__land-topic lard__land-topic--fdw">Fokus der Woche</h4>
-							{{ else if .Params.kfk}}
-								<h4 class="lard__land-topic lard__land-topic--fdw">Kinder schreiben für Kinder</h4>
-							{{ end }}
-							<h3 class="lard__land-title">{{ .Title }}</h3>
-							<p class="lard__land-summary">{{ .Summary | truncate 200 }}</p>
-						</div>
-						<div class="lard__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
-					</div>
-				</a>
-			{{ end }}
-			{{ range first 5 (after 1 $artikel.ByDate.Reverse) }}
-				<a href="{{.RelPermalink}}" class="lard lard__port lard--celadon">
+				<a href="{{.RelPermalink}}" class="card card__land card--celadon">
 					<div class="card__img-container">
 						<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
-						alt="{{ .Params.img_description }}"
-						class="lard lard__port-img"
+						alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
+						class="card__land-img"
 						/>
 					</div>
-					<div class="lard__port-content">
-						<h3 class="lard__port-title">{{ .Title }}</h3>
+					<div class="card__land-content">
+						<div class="card__land-content-container">
+							{{ if .Params.fdw }}
+								<h4 class="card__land-topic card__land-topic--fdw">Fokus der Woche</h4>
+							{{ else if .Params.kfk}}
+								<h4 class="card__land-topic card__land-topic--fdw">Kinder schreiben für Kinder</h4>
+							{{ end }}
+							<h3 class="card__land-title">{{ .Title }}</h3>
+							<p class="card__land-summary">{{ .Summary | truncate 200 }}</p>
+						</div>
 						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
 					</div>
 				</a>
 			{{ end }}
-			<a href="/alle-artikel" class="lard lard__port lard--celadon lard__btn">
+			{{ range first 5 (after 1 $artikel.ByDate.Reverse) }}
+				<a href="{{.RelPermalink}}" class="card card__port card--celadon">
+					<div class="card__img-container">
+						<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
+						alt="{{ .Params.img_description }}"
+						class="card card__port-img"
+						/>
+					</div>
+					<div class="card__port-content">
+						<h3 class="card__port-title">{{ .Title }}</h3>
+						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+					</div>
+				</a>
+			{{ end }}
+			<a href="/alle-artikel" class="card card__port card--celadon card__btn">
 				{{ partial "svgs/arrow-right.html" . }}
-				<div class="lard__btn-text">Alle Artikel</div>
+				<div class="card__btn-text">Alle Artikel</div>
 			</a>
 		</div>
 	</div>
