@@ -233,4 +233,24 @@
 
 		&-single { justify-content: center; }
 	}
+
+	&__btn {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+
+		&-svg {
+			fill: none;
+			stroke: $celadon;
+			height: 20rem;
+		}
+
+		&-text {
+			font-family: $font-spartan;
+			text-transform: uppercase;
+			color: $celadon;
+			margin-top: 2rem;
+		}
+	}
 }
