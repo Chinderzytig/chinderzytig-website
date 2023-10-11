@@ -139,13 +139,13 @@
 
 		&-img {
 			width: 100%;
+			height: 20rem;
 
 			&:hover,
 			&:active { transform: translateY(0rem); }
 
 			@include respond(tab-port-sm) {
 				height: 20rem;
-				width: auto;
 			}
 
 			@include respond(phone-xl) { display: none; }
