@@ -27,7 +27,7 @@
 		</div>
 	</div>
 
-	<section class="cta cta--verL">
+	<div class="cta cta--verL">
 		<h2 class="deading deading--white">Neuste Artikel</h2>
 		<div class="lard__container lard__container-list">
 			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
@@ -71,11 +71,11 @@
 		<div class="btn__container">
 			<a href="/alle-artikel" class="btn btn--secondary">Alle Artikel</a>
 		</div>
-	</section>
+	</div>
 
-	<section class="map">
+	<div class="map">
 			{{- partial "world_map.html" . -}}
-	</section>
+	</div>
 
 	{{- partial "support_us.html" . -}}
 {{end}}
