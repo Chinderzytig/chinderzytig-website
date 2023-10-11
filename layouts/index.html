@@ -1,5 +1,5 @@
 {{define "main"}}
-	<div class="cta">
+	<div class="cta cta--clearL">
 		<div class="lard__container lard__container-single">
 			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" true }}
 			{{ range first 1 $artikel.ByDate.Reverse }}
