@@ -1,5 +1,5 @@
 {{define "main"}}
-	<div class="cta cta--clearL">
+	<div class="cta">
 		<div class="card__container card__container-single">
 			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" true }}
 			{{ range first 1 $artikel.ByDate.Reverse }}
@@ -11,7 +11,7 @@
 					/>
 				</div>
 				<div class="card__land-content">
-					<div class="card__land-content-container">
+					<div class="card__land-bulk-content">
 						{{ if .Params.fdw }}
 							<h4 class="card__land-topic card__land-topic--fdw">Fokus der Woche</h4>
 						{{ else if .Params.kfk}}
@@ -20,7 +20,7 @@
 						<h3 class="card__land-title">{{ .Title }}</h3>
 						<p class="card__land-summary">{{ .Summary | truncate 200 }}</p>
 					</div>
-					<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+					<div class="card__date">{{ .Date.Format .Site.Params.DateForm }}</div>
 				</div>
 			</a>
 			{{ end }}
@@ -40,7 +40,7 @@
 						/>
 					</div>
 					<div class="card__land-content">
-						<div class="card__land-content-container">
+						<div class="card__land-bulk-content">
 							{{ if .Params.fdw }}
 								<h4 class="card__land-topic card__land-topic--fdw">Fokus der Woche</h4>
 							{{ else if .Params.kfk}}
@@ -49,7 +49,7 @@
 							<h3 class="card__land-title">{{ .Title }}</h3>
 							<p class="card__land-summary">{{ .Summary | truncate 200 }}</p>
 						</div>
-						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+						<div class="card__date">{{ .Date.Format .Site.Params.DateForm }}</div>
 					</div>
 				</a>
 			{{ end }}
@@ -63,7 +63,7 @@
 					</div>
 					<div class="card__port-content">
 						<h3 class="card__port-title">{{ .Title }}</h3>
-						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
+						<div class="card__date">{{ .Date.Format .Site.Params.DateForm }}</div>
 					</div>
 				</a>
 			{{ end }}
