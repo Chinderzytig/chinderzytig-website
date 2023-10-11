@@ -132,7 +132,7 @@
 		margin-top: 3rem;
 
 		@include respond(tab-port-sm) {
-			width: 95%;
+			width: 100%;
 			height: 20rem;
 			display: flex;
 		}
@@ -162,6 +162,7 @@
 		&-title {
 			font-family: $font-amatic;
 			font-size: 2.5rem;
+			line-height: 3rem;
 		}
 	}
 
@@ -183,6 +184,7 @@
 
 		&-img {
 			height: 100%;
+			width: 40rem;
 
 			@include respond(tab-port-sm) {
 				height: auto;
@@ -201,7 +203,7 @@
 
 		&-topic {
 			font-family: $font-spartan;
-			margin-bottom: -2.5rem;
+			margin-bottom: -2.0rem;
 
 			&--fdw { color: $engineering-orange; }
 
@@ -211,6 +213,7 @@
 		&-title {
 			font-family: $font-amatic;
 			font-size: 3.5rem;
+			line-height: 3.5rem;
 			margin: 1.5rem 0;
 		}
 	}
