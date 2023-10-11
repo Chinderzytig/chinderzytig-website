@@ -53,13 +53,10 @@
 					</div>
 				</a>
 			{{ end }}
-			{{ range first 9 $artikel.ByDate.Reverse }}
+			{{ range first 5 (after 1 $artikel.ByDate.Reverse) }}
 				<a href="{{.RelPermalink}}" class="lard lard__port lard--celadon">
 					<div class="card__img-container">
-						<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
-						{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
-						{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
-						src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
+						<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
 						alt="{{ .Params.img_description }}"
 						class="lard lard__port-img"
 						/>
@@ -78,37 +75,6 @@
 
 	<section class="map">
 			{{- partial "world_map.html" . -}}
-	</section>
-
-	<section class="ukraine">
-		<div class="card__list ukraine__container">
-			<h2 class="heading heading__tertiary">Ukraine Konflikt</h2>
-			<p class="ukraine__info">
-				Hier finden sich Artikel, Materialien und Links rund ums Thema des
-				Ukraine-Konflikts. Es erscheinen unregelmässig neue Inhalte, also schaut
-				immer wieder vorbei.
-			</p>
-			<div class="card__container">
-				{{ range .Site.Data.partials.ukraine.pdfs }}
-					<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="card card--grey">
-						<div class="card__img-container">
-							<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .document }}.png,
-							{{ $.Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .document }}.png 1100w,
-							{{ $.Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .document }}.png 900w"
-							src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .document }}.png"
-							alt="PDF document cover page"
-							class="card__img"
-							/>
-						</div>
-						<div class="card__content">
-							<h3 class="card__content-title">{{ .title }}</h3>
-							<div class="card__content-pdf">PDF</div>
-						</div>
-					</a>
-				{{end}}
-				<div class="card card__buffer"></div>
-			</div>
-		</div>
 	</section>
 
 	{{- partial "support_us.html" . -}}
