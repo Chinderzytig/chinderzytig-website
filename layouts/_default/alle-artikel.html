@@ -17,38 +17,15 @@
 	<section class="cta">
 		<h2 class="deading deading--black">{{ .Title }}</h2>
 		<div class="card__container card__container-list">
-			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
-			{{ range $artikel.ByDate.Reverse }}
-				{{ if .Params.kfk }}
-					<a href="{{.RelPermalink}}" class="card card__port card--grey">
-						<div class="card__img-container">
-							<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
-							alt="{{ .Params.img_description }}"
-							class="card card__port-img"
-							/>
-						</div>
-						<div class="card__port-content">
-							<div class="card__content-bulk">
-								<h4 class="card__topic card__topic--kfk">Kinder schreiben für Kinder</h4>
-								<h3 class="card__port-title">{{ .Title }}</h3>
-							</div>
-							<div class="card__date">{{ .Date.Format .Site.Params.DateForm }}</div>
-						</div>
-					</a>
-				{{ else }}
-					<a href="{{.RelPermalink}}" class="card card__port card--grey">
-						<div class="card__img-container">
-							<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
-							alt="{{ .Params.img_description }}"
-							class="card card__port-img"
-							/>
-						</div>
-						<div class="card__port-content">
-							<h3 class="card__port-title">{{ .Title }}</h3>
-							<div class="card__date">{{ .Date.Format .Site.Params.DateForm }}</div>
-						</div>
-					</a>
-				{{ end }}
+			{{ $set1 := where .Site.Pages ".Params.artikel" true }}
+			{{ $set2 := where .Site.Pages ".Params.fdw" false }}
+			{{ $filtered := $set1 | intersect $set2 }}
+
+			{{ range $filtered.ByDate.Reverse }}
+				{{ partial
+					"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__port"
+					"cardColor" "card--grey" "showCase" "false")
+				}}
 			{{ end }}
 		</div>
 	</section>
