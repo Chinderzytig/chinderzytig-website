@@ -22,14 +22,16 @@
 				{{ if .Params.kfk }}
 					<a href="{{.RelPermalink}}" class="card card__port card--grey">
 						<div class="card__img-container">
-							<div class="card__kfk">Kinder schreiben für Kinder</div>
 							<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
 							alt="{{ .Params.img_description }}"
 							class="card card__port-img"
 							/>
 						</div>
 						<div class="card__port-content">
-							<h3 class="card__port-title">{{ .Title }}</h3>
+							<div class="card__content-bulk">
+								<h4 class="card__topic card__topic--kfk">Kinder schreiben für Kinder</h4>
+								<h3 class="card__port-title">{{ .Title }}</h3>
+							</div>
 							<div class="card__date">{{ .Date.Format .Site.Params.DateForm }}</div>
 						</div>
 					</a>

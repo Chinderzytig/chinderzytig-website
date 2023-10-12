@@ -11,11 +11,11 @@
 					/>
 				</div>
 				<div class="card__land-content">
-					<div class="card__land-bulk-content">
+					<div class="card__content-bulk">
 						{{ if .Params.fdw }}
-							<h4 class="card__land-topic card__land-topic--fdw">Fokus der Woche</h4>
+							<h4 class="card__topic card__topic--fdw">Fokus der Woche</h4>
 						{{ else if .Params.kfk}}
-							<h4 class="card__land-topic card__land-topic--fdw">Kinder schreiben für Kinder</h4>
+							<h4 class="card__land-topic card__land--kfk">Kinder schreiben für Kinder</h4>
 						{{ end }}
 						<h3 class="card__land-title">{{ .Title }}</h3>
 						<p class="card__land-summary">{{ .Summary | truncate 200 }}</p>
@@ -40,12 +40,7 @@
 						/>
 					</div>
 					<div class="card__land-content">
-						<div class="card__land-bulk-content">
-							{{ if .Params.fdw }}
-								<h4 class="card__land-topic card__land-topic--fdw">Fokus der Woche</h4>
-							{{ else if .Params.kfk}}
-								<h4 class="card__land-topic card__land-topic--fdw">Kinder schreiben für Kinder</h4>
-							{{ end }}
+						<div class="card__content-bulk">
 							<h3 class="card__land-title">{{ .Title }}</h3>
 							<p class="card__land-summary">{{ .Summary | truncate 200 }}</p>
 						</div>

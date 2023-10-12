@@ -199,20 +199,25 @@
 			justify-content: space-between;
 		}
 
-		&-topic {
-			font-family: $font-spartan;
-			margin-bottom: -2.0rem;
-
-			&--fdw { color: $engineering-orange; }
-
-			&--kfk { color: $jonquil; }
-		}
-
 		&-title {
 			font-family: $font-amatic;
 			font-size: 3.5rem;
 			line-height: 3.5rem;
 			margin: 1.5rem 0;
+		}
+	}
+
+	&__topic {
+		font-family: $font-spartan;
+
+		&--fdw {
+			color: $engineering-orange;
+			margin-bottom: -2rem;
+		}
+
+		&--kfk {
+			color: $orange;
+			margin-bottom: -.5rem;
 		}
 	}
 
