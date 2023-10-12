@@ -243,16 +243,24 @@
 
 		&-svg {
 			fill: none;
-			stroke: $celadon;
 			height: 20rem;
 		}
 
 		&-text {
 			font-family: $font-spartan;
-			font-size: 2.5rem;
 			text-transform: uppercase;
-			color: $celadon;
+			font-size: 2.5rem;
 			margin-top: 2rem;
+		}
+
+		&--celadon {
+			stroke: $celadon;
+			color: $celadon;
+		}
+
+		&--grey {
+			stroke: $silver;
+			color: $silver
 		}
 	}
 
