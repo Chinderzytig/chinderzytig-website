@@ -3,26 +3,7 @@
 		<div class="card__container card__container-single">
 			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" true }}
 			{{ range first 1 $artikel.ByDate.Reverse }}
-			<a href="{{.RelPermalink}}" class="card card__land card--grey">
-				<div class="card__img-container">
-					<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/graphics/fdw-hero_nkmrti.png"
-					alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
-					class="card__land-img"
-					/>
-				</div>
-				<div class="card__land-content">
-					<div class="card__content-bulk">
-						{{ if .Params.fdw }}
-							<h4 class="card__topic card__topic--fdw">Fokus der Woche</h4>
-						{{ else if .Params.kfk}}
-							<h4 class="card__land-topic card__land--kfk">Kinder schreiben für Kinder</h4>
-						{{ end }}
-						<h3 class="card__land-title">{{ .Title }}</h3>
-						<p class="card__land-summary">{{ .Summary | truncate 200 }}</p>
-					</div>
-					<div class="card__date">{{ .Date.Format .Site.Params.DateForm }}</div>
-				</div>
-			</a>
+				{{ partial "article-card.html" (dict "attr" . "ctx" $ "cardType" "card__land" "cardColor" "card--grey" "showCase" "true") }}
 			{{ end }}
 		</div>
 	</div>
@@ -30,37 +11,16 @@
 	<div class="cta cta--verL">
 		<h2 class="deading deading--white">Neuste Artikel</h2>
 		<div class="card__container card__container-list">
-			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
-			{{ range first 1 $artikel.ByDate.Reverse }}
-				<a href="{{.RelPermalink}}" class="card card__land card--celadon">
-					<div class="card__img-container">
-						<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
-						alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
-						class="card__land-img"
-						/>
-					</div>
-					<div class="card__land-content">
-						<div class="card__content-bulk">
-							<h3 class="card__land-title">{{ .Title }}</h3>
-							<p class="card__land-summary">{{ .Summary | truncate 200 }}</p>
-						</div>
-						<div class="card__date">{{ .Date.Format .Site.Params.DateForm }}</div>
-					</div>
-				</a>
+			{{ $set1 := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
+			{{ $set2 := where .Site.Pages ".Params.kfk" false }}
+			{{ $filtered := $set1 | intersect $set2 }}
+
+			{{ range first 1 $filtered.ByDate.Reverse }}
+				{{ partial "article-card.html" (dict "attr" . "ctx" $ "cardType" "card__land" "cardColor" "card--celadon" "showCase" "false") }}
 			{{ end }}
-			{{ range first 5 (after 1 $artikel.ByDate.Reverse) }}
-				<a href="{{.RelPermalink}}" class="card card__port card--celadon">
-					<div class="card__img-container">
-						<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
-						alt="{{ .Params.img_description }}"
-						class="card card__port-img"
-						/>
-					</div>
-					<div class="card__port-content">
-						<h3 class="card__port-title">{{ .Title }}</h3>
-						<div class="card__date">{{ .Date.Format .Site.Params.DateForm }}</div>
-					</div>
-				</a>
+
+			{{ range first 5 (after 1 $filtered.ByDate.Reverse) }}
+				{{ partial "article-card.html" (dict "attr" . "ctx" $ "cardType" "card__port" "cardColor" "card--celadon" "showCase" "false") }}
 			{{ end }}
 			<a href="/alle-artikel" class="card card__port card--celadon card__btn">
 				{{ partial "svgs/arrow-right.html" . }}
