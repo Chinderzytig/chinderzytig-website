@@ -144,9 +144,7 @@
 			&:hover,
 			&:active { transform: translateY(0rem); }
 
-			@include respond(tab-port-sm) {
-				height: 20rem;
-			}
+			@include respond(tab-port-sm) { width: 30rem; }
 
 			@include respond(phone-xl) { display: none; }
 		}
@@ -263,6 +261,4 @@
 			color: $silver
 		}
 	}
-
-	&__hidden { display: none; }
 }

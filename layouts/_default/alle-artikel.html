@@ -20,7 +20,7 @@
 			{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 			{{ range $artikel.ByDate.Reverse }}
 				{{ if .Params.kfk }}
-					<a href="{{.RelPermalink}}" class="card card__port card--grey card__hidden">
+					<a href="{{.RelPermalink}}" class="card card__port card--grey">
 						<div class="card__img-container">
 							<div class="card__kfk">Kinder schreiben für Kinder</div>
 							<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
@@ -34,9 +34,9 @@
 						</div>
 					</a>
 				{{ else }}
-					<a href="{{.RelPermalink}}" class="card card__port card--grey card__hidden">
+					<a href="{{.RelPermalink}}" class="card card__port card--grey">
 						<div class="card__img-container">
-							<img src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
+							<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/{{ .Params.hero_img }}"
 							alt="{{ .Params.img_description }}"
 							class="card card__port-img"
 							/>
@@ -48,10 +48,6 @@
 					</a>
 				{{ end }}
 			{{ end }}
-			<a href="#" class="card card__port card--grey card__btn" id="loadMore">
-				{{ partial "svgs/arrow-down.html" . }}
-				<div class="card__btn-text card__btn--grey">Mehr Artikel</div>
-			</a>
 		</div>
 	</section>
 {{ end }}
