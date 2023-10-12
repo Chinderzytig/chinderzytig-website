@@ -3,7 +3,7 @@
 		{{ partial "svgs/magnify.html" (dict "fill" "#6C685D" "width" 35 "height" 36) }}
 		<input id="search" type="search" placeholder="Artikel Suchen" class="search__field" />
 	</div>
-	<section class="list">
+	<div class="list">
 		<h3 class="heading heading--list">Artikel Kategorien</h3>
 		<div class="list__markers">
 			{{range $name, $taxonomy := .Site.Taxonomies.kategorien}}
@@ -12,9 +12,9 @@
 				{{end}}
 			{{end}}
 		</div>
-	</section>
+	</div>
 
-	<section class="cta">
+	<div class="cta">
 		<h2 class="deading deading--black">{{ .Title }}</h2>
 		<div class="card__container card__container-list">
 			{{ $set1 := where .Site.Pages ".Params.artikel" true }}
@@ -28,5 +28,5 @@
 				}}
 			{{ end }}
 		</div>
-	</section>
+	</div>
 {{ end }}
