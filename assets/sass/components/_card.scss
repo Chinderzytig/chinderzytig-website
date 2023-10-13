@@ -97,6 +97,7 @@
 // }
 
 .card {
+	margin-top: 3rem;
 
 	&:link,
 	&:visited {
@@ -138,7 +139,6 @@
 	&__port {
 		height: 40rem;
 		width: 30%;
-		margin-top: 3rem;
 
 		@include respond(tab-port-sm) {
 			width: 100%;
