@@ -14,11 +14,11 @@
 		</div>
 	</section>
 
-	<div class="cta">
-		<h2 class="deading deading--black">Chinderzytig in den Medien</h2>
+	<div class="cta cta--orR">
+		<h2 class="deading deading--white">Chinderzytig in den Medien</h2>
 		<div class="card__container card__container-list">
 			{{ range .Site.Data.pages.verein.media }}
-				<a href="{{ .url }}" target="_blank" class="card card__port card--grey">
+				<a href="{{ .url }}" target="_blank" class="card card__port card--chestnut">
 					{{ range .logo }}
 						<div class="card__img-container">
 							<img src="{{ $.Site.Params.cloudinary_url }}/q_auto:good/logos/{{ .img }}"

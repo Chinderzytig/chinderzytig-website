@@ -126,6 +126,15 @@
 		&:active { box-shadow: 0.5rem 0.5rem rgba(53, 130, 128, 0.65); }
 	}
 
+	&--chestnut {
+		background-color: $white;
+		box-shadow: 0.8rem 0.8rem $chestnut;
+
+		&:hover { box-shadow: 1.1rem 1.1rem $chestnut; }
+
+		&:active { box-shadow: 0.5rem 0.5rem rgba(162, 80, 50, 0.65); }
+	}
+
 	&__port {
 		height: 40rem;
 		width: 30%;
