@@ -28,7 +28,7 @@
 				}}
 			{{ end }}
 
-			{{ range first 5 (after 1 $new.ByDate.Reverse) }}
+			{{ range first 8 (after 1 $new.ByDate.Reverse) }}
 				{{ partial
 					"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__port"
 					"cardColor" "card--celadon" "showCase" "false")
