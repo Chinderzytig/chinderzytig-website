@@ -1,5 +1,5 @@
 {{define "main"}}
-	<section class="fdw__intro">
+	<div class="fdw__intro">
 		<div class="fdw__intro-container">
 			<div class="fdw__intro-icon">
 				{{- partial "svgs/fdw_svg.html" . -}}
@@ -14,38 +14,25 @@
 				mit Good News...
 			</p>
 		</div>
-	</section>
+	</div>
 
 	<div class="search__container">
 		{{ partial "svgs/magnify.html" (dict "fill" "#6C685D" "width" 35 "height" 36) }}
 		<input id="search" type="search" placeholder="Artikel Suchen" class="search__field" />
 	</div>
 
-	<section class="fdw__articles card__list">
-		<h2 class="heading heading__secondary">Alle Artikel der Woche</h2>
-		<div class="card__container">
-			{{ $fdwArtikel := where .Site.Pages ".Params.fdw" true }}
-			{{ range $fdwArtikel.ByDate.Reverse }}
-				<a href="{{.RelPermalink}}" class="card card--grey card__hidden">
-					<div class="card__img-container">
-						<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
-							{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
-							{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
-							src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
-							alt="{{ .Params.img_description }}"
-							class="card__img"
-						/>
-					</div>
-					<div class="card__content">
-						<h3 class="card__content-title">{{ .Title }}</h3>
-						<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
-					</div>
-				</a>
+	<div class="cta">
+		<h2 class="deading deading--black">Alle Artikel der Woche</h2>
+		<div class="card__container card__container-list">
+			{{ $fdw := where .Site.Pages ".Params.fdw" true }}
+
+			{{ range $fdw.ByDate.Reverse }}
+				{{ partial
+					"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__port"
+					"cardColor" "card--grey" "showCase" "false")
+				}}
 			{{ end }}
-			<div class="card card__buffer"></div>
+			<div class="card__port card__buffer"></div>
 		</div>
-		<div class="btn__container">
-			<a href="#" class="btn btn--primary" id="loadMore">Mehr Artikel</a>
-		</div>
-	</section>
+	</div>
 {{end}}

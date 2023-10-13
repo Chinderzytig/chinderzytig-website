@@ -15,6 +15,17 @@ body {
 }
 
 /* ----- HEADINGS ------ */
+.deading {
+	font-family: $font-amatic;
+	font-size: 6rem;
+
+	&__card-list { margin-bottom: 0; }
+
+	&--white { color: $white; }
+
+	&--black { color: $black; }
+}
+
 .heading {
 	font-family: $font-patrick;
 	font-size: $font-heading;

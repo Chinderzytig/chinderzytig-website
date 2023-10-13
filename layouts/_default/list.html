@@ -16,7 +16,7 @@
 		</div>
 
 		{{ if in $link "kategorien"}}
-			<section class="list">
+			<div class="list">
 				<h3 class="heading heading--list">{{ .Title }} Markierungen</h3>
 				<div class="list__markers">
 					{{ with $tags}}
@@ -25,52 +25,21 @@
 						{{ end }}
 					{{ end }}
 				</div>
-			</section>
+			</div>
 		{{ end }}
 
-	<section class="card__list">
-		<h2 class="heading heading__secondary">Alle Artikel: {{ .Title }}</h2>
-		<div class="card__container">
-			{{ range .Pages.ByDate.Reverse }}
-				{{ if .Params.kfk }}
-					<a href="{{.RelPermalink}}" class="card card--grey card__hidden">
-						<div class="card__img-container">
-							<div class="card__kfk">Kinder schreiben für Kinder</div>
-							<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
-							{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
-							{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
-							src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
-							alt="{{ .Params.img_description }}"
-							class="card__img"
-							/>
-						</div>
-						<div class="card__content">
-							<h3 class="card__content-title">{{ .Title }}</h3>
-							<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
-						</div>
-					</a>
-				{{ else }}
-					<a href="{{.RelPermalink}}" class="card card--grey card__hidden">
-						<div class="card__img-container">
-							<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
-							{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
-							{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
-							src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
-							alt="{{ .Params.img_description }}"
-							class="card__img"
-							/>
-						</div>
-						<div class="card__content">
-							<h3 class="card__content-title">{{ .Title }}</h3>
-							<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
-						</div>
-					</a>
-				{{ end }}
+	<div class="cta">
+		<h2 class="deading deading--black">Alle Artikel: {{ .Title }}</h2>
+		<div class="card__container card__container-list">
+			{{ $group := where .Pages ".Params.fdw" false }}
+
+			{{ range $group.ByDate.Reverse }}
+				{{ partial
+					"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__port"
+					"cardColor" "card--grey" "showCase" "false")
+				}}
 			{{ end }}
-			<div class="card card__buffer"></div>
+			<div class="card__port card__buffer"></div>
 		</div>
-		<div class="btn__container">
-			<a href="#" class="btn btn--primary" id="loadMore">Mehr Artikel</a>
-		</div>
-	</section>
+	</div>
 {{end}}

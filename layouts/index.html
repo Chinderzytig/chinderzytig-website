@@ -1,108 +1,49 @@
 {{define "main"}}
 	<div class="cta">
-		{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" true }}
-		{{ range first 1 $artikel.ByDate.Reverse }}
-			<a href="{{.RelPermalink}}" class="lard lard--grey">
-				<div class="lard__img-container">
-					<img src="{{ .Site.Params.cloudinary_url }}/q_auto:good/graphics/fdw-hero_nkmrti.png"
-					alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
-					class="lard__img"
-					/>
-				</div>
-				<div class="lard__content">
-					<div class="lard__content-grouping">
-						<h4 class="lard__content-topic">Fokus der Woche</h4>
-						<h3 class="lard__content-title">{{ .Title }}</h3>
-						<p class="lard__content-summary">{{ .Summary | truncate 200 }}</p>
-					</div>
-					<div class="lard__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
-				</div>
-			</a>
-		{{ end }}
+		<div class="card__container card__container-single">
+			{{ $set1 := where .Site.Pages ".Params.artikel" true }}
+			{{ $set2 := where .Site.Pages ".Params.fdw" true }}
+			{{ $fdw := $set1 | intersect $set2 }}
+
+			{{ range first 1 $fdw.ByDate.Reverse }}
+				{{ partial
+					"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__land"
+					"cardColor" "card--grey" "showCase" "true")
+				}}
+			{{ end }}
+		</div>
 	</div>
 
-	<section class="new__cta">
-		<div class="card__list new__cta-container">
-			<h2 class="heading heading__tertiary">Neuste Artikel</h2>
-			<div class="card__container">
-				{{ $artikel := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
-				{{ range first 9 $artikel.ByDate.Reverse }}
-					{{ if .Params.kfk }}
-						<a href="{{.RelPermalink}}" class="card card--white">
-							<div class="card__img-container">
-								<div class="card__kfk">Kinder schreiben für Kinder</div>
-								<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
-								{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
-								{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
-								src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
-								alt="{{ .Params.img_description }}"
-								class="card__img"
-								/>
-							</div>
-							<div class="card__content">
-								<h3 class="card__content-title">{{ .Title }}</h3>
-								<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
-							</div>
-						</a>
-					{{ else }}
-						<a href="{{.RelPermalink}}" class="card card--white">
-							<div class="card__img-container">
-								<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }},
-								{{ .Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .Params.hero_img }} 1100w,
-								{{ .Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .Params.hero_img }} 900w"
-								src="{{ .Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .Params.hero_img }}"
-								alt="{{ .Params.img_description }}"
-								class="card__img"
-								/>
-							</div>
-							<div class="card__content">
-								<h3 class="card__content-title">{{ .Title }}</h3>
-								<div class="card__content-date">{{ .Date.Format .Site.Params.DateForm }}</div>
-							</div>
-						</a>
-					{{ end }}
-				{{ end }}
-			</div>
-			<div class="btn__container">
-				<a href="/alle-artikel" class="btn btn--secondary">Alle Artikel</a>
-			</div>
-		</div>
-	</section>
+	<div class="cta cta--verL">
+		<h2 class="deading deading--white">Neuste Artikel</h2>
+		<div class="card__container card__container-list">
+			{{ $set3 := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
+			{{ $set4 := where .Site.Pages ".Params.kfk" false }}
+			{{ $new := $set3 | intersect $set4 }}
 
-	<section class="map">
+			{{ range first 1 $new.ByDate.Reverse }}
+				{{ partial
+					"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__land"
+					"cardColor" "card--celadon" "showCase" "false")
+				}}
+			{{ end }}
+
+			{{ range first 8 (after 1 $new.ByDate.Reverse) }}
+				{{ partial
+					"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__port"
+					"cardColor" "card--celadon" "showCase" "false")
+				}}
+			{{ end }}
+			<a href="/alle-artikel" class="card card__port card--celadon card__btn">
+				{{ partial "svgs/arrow-right.html" . }}
+				<div class="card__btn-text card__btn--celadon">Alle Artikel</div>
+			</a>
+		</div>
+	</div>
+
+	<div class="map">
 			{{- partial "world_map.html" . -}}
-	</section>
-
-	<section class="ukraine">
-		<div class="card__list ukraine__container">
-			<h2 class="heading heading__tertiary">Ukraine Konflikt</h2>
-			<p class="ukraine__info">
-				Hier finden sich Artikel, Materialien und Links rund ums Thema des
-				Ukraine-Konflikts. Es erscheinen unregelmässig neue Inhalte, also schaut
-				immer wieder vorbei.
-			</p>
-			<div class="card__container">
-				{{ range .Site.Data.partials.ukraine.pdfs }}
-					<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="card card--grey">
-						<div class="card__img-container">
-							<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .document }}.png,
-							{{ $.Site.Params.cloudinary_url }}/f_auto,h_180,w_270,q_auto:good/{{ .document }}.png 1100w,
-							{{ $.Site.Params.cloudinary_url }}/f_auto,h_167,w_250,q_auto:good/{{ .document }}.png 900w"
-							src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_200,w_300,q_auto:good/{{ .document }}.png"
-							alt="PDF document cover page"
-							class="card__img"
-							/>
-						</div>
-						<div class="card__content">
-							<h3 class="card__content-title">{{ .title }}</h3>
-							<div class="card__content-pdf">PDF</div>
-						</div>
-					</a>
-				{{end}}
-				<div class="card card__buffer"></div>
-			</div>
-		</div>
-	</section>
+	</div>
 
 	{{- partial "support_us.html" . -}}
 {{end}}

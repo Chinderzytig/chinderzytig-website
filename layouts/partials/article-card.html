@@ -1,0 +1,29 @@
+<a href="{{.attr.RelPermalink}}" class="card {{ .cardType }} {{ .cardColor }}">
+	<div class="card__img-container">
+		{{ if eq .showCase "true" }}
+			<img src="{{ .ctx.Site.Params.cloudinary_url }}/q_auto:good/graphics/fdw-hero_nkmrti.png"
+			alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
+			class="{{ .cardType }}-img"
+			/>
+		{{ else }}
+			<img src="{{ .ctx.Site.Params.cloudinary_url }}/q_auto:good/{{ .attr.Params.hero_img }}"
+			alt="{{ .attr.Params.img_description }}"
+			class="{{ .cardType }}-img"
+			/>
+		{{ end }}
+	</div>
+	<div class="{{ .cardType }}-content">
+		<div class="card__content-bulk">
+			{{ if .attr.Params.fdw }}
+				<h4 class="{{ .cardType }}-topic card__topic card__topic--fdw">Fokus der Woche</h4>
+			{{ else if .attr.Params.kfk}}
+				<h4 class="{{ .cardType }}-topic card__topic card__topic--kfk">Kinder schreiben für Kinder</h4>
+			{{ end }}
+			<h3 class="{{ .cardType }}-title">{{ .attr.Title }}</h3>
+			{{ if eq .cardType "card__land" }}
+				<p class="card__land-summary">{{ .attr.Summary | truncate 200 }}</p>
+			{{ end }}
+		</div>
+		<div class="card__date">{{ .attr.Date.Format .ctx.Site.Params.DateForm }}</div>
+	</div>
+</a>

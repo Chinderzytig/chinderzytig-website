@@ -1,11 +1,11 @@
 {{ define "main" }}
 	<section class="document__container">
 		<h2 class="heading heading__secondary">arbeitsmaterial</h2>
-		<div class="card__container">
+		<div class="card__container card__container-list">
 			{{ $arbeitsmaterial := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 			{{ range $arbeitsmaterial.ByTitle }}
 				{{ if .Params.arbeitsmaterial }}
-					<div class="document__card card__hidden">
+					<div class="document__card">
 						<h3 class="document__card-title">{{ .Params.title }}</h3>
 						<div class="document__card--arbeitsmaterial">
 							<img src="{{ .Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .Params.arbeitsmaterial }}.png" alt="Arbeitsmaterial cover" class="document-sc__file">
@@ -21,10 +21,7 @@
 					</div>
 				{{ end }}
 			{{ end }}
-			<div class="card card__buffer"></div>
-		</div>
-		<div class="btn__container">
-			<a href="#" class="btn btn--primary" id="loadMore">Mehr Arbeitsmaterial</a>
+			<div class="card__port card__buffer"></div>
 		</div>
 	</section>
 {{ end }}

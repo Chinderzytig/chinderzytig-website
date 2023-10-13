@@ -41,13 +41,6 @@ media:
   content:
     - title: "Erwachsenenthemen sind für Kinder kein Tabu"
       date: "19.12.2019"
-- url: "https://www.bielertagblatt.ch/nachrichten/fokus/auch-kinder-wollen-ueber-aktuelle-themen-lesen"
-  logo:
-    - img: "bieler_tagblatt_rs42yz.jpg"
-      description: "Bieler Tagblatt logo"
-  content:
-    - title: "«Auch Kinder wollen über aktuelle Themen lesen»"
-      date: "28.11.2019"
 
 btns:
 - url: "/uber-uns"

@@ -13,29 +13,27 @@
 
 		<h2 class="heading heading__content--secondary">Mögliche Umsetzungsideen</h2>
 
-		<div class="card__container">
+		<div class="card__container card__container-list">
 			{{ range .Site.Data.pages.unterrichtsideen.projekte }}
-				<div class="document__card card__hidden">
+				<div class="document__card">
 					<h3 class="document__card-title">{{ .title }}</h3>
 					<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="document__card--unterrichtsideen">
 						<img src="{{ $.Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .document }}.png" alt="Schuleprojekte cover" class="document-sc__file">
 					</a>
 				</div>
 			{{ end }}
-			<div class="card card__buffer"></div>
 		</div>
 
 		<h2 class="heading heading__content--secondary">Beispiele aus dem Alltag</h2>
-		<div class="card__container">
+		<div class="card__container card__container-list">
 			{{ range .Site.Data.pages.unterrichtsideen.zeitungen }}
-				<div class="document__card card__hidden">
+				<div class="document__card">
 					<h3 class="document__card-title">{{ .title }}</h3>
 					<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="document__card--unterrichtsideen">
 						<img src="{{ $.Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .document }}.png" alt="Schuleprojekte cover" class="document-sc__file">
 					</a>
 				</div>
 			{{ end }}
-			<div class="card card__buffer"></div>
 		</div>
 
 		<p class="visible__text heading--margin-top">
