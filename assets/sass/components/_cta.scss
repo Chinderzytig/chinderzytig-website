@@ -3,4 +3,7 @@
 
 	&--verL { @include cta-type($verdigris, left, $celadon); }
 	&--verR { @include cta-type($verdigris, right, $celadon); }
+
+	&--orL { @include cta-type($orange, left, $chestnut); }
+	&--orR { @include cta-type($orange, right, $chestnut); }
 }
