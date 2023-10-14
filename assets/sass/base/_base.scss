@@ -43,6 +43,4 @@ main {
 
 section {
 	padding: 3rem;
-
-	&.ukraine { @include respond(tab-port-sm) { padding: 0; } }
 }
