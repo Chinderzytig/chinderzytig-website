@@ -1,14 +1,21 @@
 <a href="{{.attr.RelPermalink}}" class="card {{ .cardType }} {{ .cardColor }}">
 	<div class="card__img-container">
-		{{ if eq .showCase "true" }}
-			<img src="{{ .ctx.Site.Params.cloudinary_url }}/q_auto:good/graphics/fdw-hero_nkmrti.png"
-			alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
-			class="{{ .cardType }}-img"
-			/>
+		{{ if eq .cardType "card__land" }}
+			{{ if eq .showCase "true" }}
+				<img src="{{ .ctx.Site.Params.cloudinary_url }}/w_400,c_scale,q_auto:good/graphics/fdw-hero_nkmrti.png"
+				alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
+				class="card__land-img"
+				/>
+			{{ else }}
+				<img src="{{ .ctx.Site.Params.cloudinary_url }}/w_400,c_scale,q_auto:good/{{ .attr.Params.hero_img }}"
+				alt="{{ .attr.Params.img_description }}"
+				class="card__land-img"
+				/>
+			{{ end }}
 		{{ else }}
-			<img src="{{ .ctx.Site.Params.cloudinary_url }}/q_auto:good/{{ .attr.Params.hero_img }}"
+			<img src="{{ .ctx.Site.Params.cloudinary_url }}/h_200,c_scale,q_auto:good/{{ .attr.Params.hero_img }}"
 			alt="{{ .attr.Params.img_description }}"
-			class="{{ .cardType }}-img"
+			class="card__port-img"
 			/>
 		{{ end }}
 	</div>
