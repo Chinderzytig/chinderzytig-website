@@ -6,4 +6,17 @@
 
 	&--orL { @include cta-type($orange, left, $chestnut); }
 	&--orR { @include cta-type($orange, right, $chestnut); }
+
+	&__svg {
+
+	}
+
+	&__text {
+		width: 50%;
+	}
+
+	&__chunk {
+		text-align: justify;
+		margin-top: 3rem;
+	}
 }
