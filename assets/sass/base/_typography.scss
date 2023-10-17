@@ -17,9 +17,12 @@ body {
 /* ----- HEADINGS ------ */
 .deading {
 	font-family: $font-amatic;
-	font-size: 6rem;
+	font-size: 5rem;
+	line-height: 5rem;
 
 	&__card-list { margin-bottom: 0; }
+
+	&__cta { @include respond(phone-land-lg) { text-align: center; } }
 
 	&--white { color: $white; }
 

@@ -1,9 +1,32 @@
 .cta {
-	padding: 3rem;
+	padding: 5rem 3rem;
 
 	&--verL { @include cta-type($verdigris, left, $celadon); }
 	&--verR { @include cta-type($verdigris, right, $celadon); }
 
 	&--orL { @include cta-type($orange, left, $chestnut); }
 	&--orR { @include cta-type($orange, right, $chestnut); }
+
+	&__info {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&__svg {
+		width: 50%;
+
+		@include respond(phone-land-lg) { display: none; }
+	}
+
+	&__text {
+		width: 45%;
+
+		@include respond(phone-land-lg) { width: 100%; }
+	}
+
+	&__chunk {
+		text-align: justify;
+		margin-top: 3rem;
+	}
 }
