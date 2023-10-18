@@ -1,8 +1,12 @@
 .map {
 	width: 100%;
 
-	&--oceania {
+	&__continent {
+		fill: $cultured;
 		filter: drop-shadow(.3rem .5rem rgba(166, 165, 163, 0.65));
+	}
+
+	&--oceania {
 	}
 	// &--north-america { fill: $map-citron; }
 	//
