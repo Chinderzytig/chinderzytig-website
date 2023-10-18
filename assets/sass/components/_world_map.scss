@@ -1,12 +1,28 @@
 .map {
 	width: 100%;
 
-	&__continent {
-		fill: $cultured;
-		filter: drop-shadow(.3rem .5rem rgba(166, 165, 163, 0.65));
-	}
+	&__continent { fill: $silver; }
+
+	&--north-america,
+	&--south-america,
+	&--europe,
+	&--asia,
+	&--oceania,
+	&--africa,
+	&--antarctica {
+
+		&:hover,
+		&:active { text { display: block; } }
 
 	&--oceania {
+		&:hover { fill: $celadon; }
+	}
+
+	text {
+		display: none;
+		fill: $color-black;
+		font-size: 4rem;
+		font-family: $font-spartan;
 	}
 	// &--north-america { fill: $map-citron; }
 	//
