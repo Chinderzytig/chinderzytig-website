@@ -3,6 +3,29 @@
 
 	&__continent { fill: $silver; }
 
+	&__label {
+		display: none;
+		font-size: 3rem;
+		font-family: $font-spartan;
+		padding: 2rem;
+
+		&--white { fill: $white; }
+		&--black { fill: $black; }
+
+		&--oceania {
+
+			&-rect {
+				fill: $verdigris;
+				height: 5rem;
+				width: 15rem;
+				x: -8.4rem;
+				y: 6.5rem;
+			}
+
+			&-text { transform: translate(-7rem, 10rem); }
+		}
+	}
+
 	&--north-america,
 	&--south-america,
 	&--europe,
@@ -12,18 +35,19 @@
 	&--antarctica {
 
 		&:hover,
-		&:active { text { display: block; } }
+		&:active { .map__label { display: block; } }
+	}
 
 	&--oceania {
 		&:hover { fill: $celadon; }
 	}
 
-	text {
-		display: none;
-		fill: $color-black;
-		font-size: 4rem;
-		font-family: $font-spartan;
-	}
+	// text {
+	// 	display: none;
+	// 	fill: $color-black;
+	// 	font-size: 4rem;
+	// 	font-family: $font-spartan;
+	// }
 	// &--north-america { fill: $map-citron; }
 	//
 	// &--south-america { fill: $map-maroon; }
