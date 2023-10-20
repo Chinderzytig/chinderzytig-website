@@ -1,13 +1,14 @@
 .map {
 	width: 100%;
+	margin-top: 3rem;
 
 	&__continent { fill: $silver; }
 
 	&__label {
-		display: none;
-		font-size: 3rem;
+		display: block;
+		font-size: 4rem;
 		font-family: $font-spartan;
-		height: 5rem;
+		height: 5.5rem;
 		padding: 2rem;
 
 		&--white { fill: $white; }
@@ -19,12 +20,12 @@
 
 		&-rect {
 			fill: $verdigris;
-			width: 15rem;
+			width: 19rem;
 			x: -8.4rem;
-			y: 6.5rem;
+			y: 9rem;
 		}
 
-		&-text { transform: translate(-7rem, 10rem); }
+		&-text { transform: translate(-7rem, 13rem); }
 	}
 
 	&--africa {
@@ -32,12 +33,12 @@
 
 		&-rect {
 			fill: $space-cadet;
-			width: 11rem;
-			x: 5rem;
-			y: 5rem;
+			width: 14rem;
+			x: 6rem;
+			y: 7rem;
 		}
 
-		&-text { transform: translate(6.5rem, 8.5rem); }
+		&-text { transform: translate(7.5rem, 11rem); }
 	}
 
 	&--europe {
@@ -45,12 +46,12 @@
 
 		&-rect {
 			fill: $pink;
-			width: 11.5rem;
+			width: 14.5rem;
 			x: 5rem;
-			y: 5rem;
+			y: 10rem;
 		}
 
-		&-text { transform: translate(6.0rem, 8.5rem); }
+		&-text { transform: translate(6.0rem, 14rem); }
 	}
 
 	&--namerica {
@@ -58,12 +59,12 @@
 
 		&-rect {
 			fill: $chestnut;
-			width: 19.5rem;
-			x: 5rem;
-			y: 7rem;
+			width: 26rem;
+			x: 10rem;
+			y: 13rem;
 		}
 
-		&-text { transform: translate(6.0rem, 10.5rem); }
+		&-text { transform: translate(11.5rem, 17rem); }
 	}
 
 	&--antarctica {
@@ -71,12 +72,12 @@
 
 		&-rect {
 			fill: $orange;
-			width: 15rem;
-			x: 25rem;
-			y: -2rem;
+			width: 20rem;
+			x: 35rem;
+			y: 0;
 		}
 
-		&-text { transform: translate(26.3rem, 1.5rem); }
+		&-text { transform: translate(36.5rem, 4rem); }
 	}
 
 	&--asia {
@@ -84,12 +85,12 @@
 
 		&-rect {
 			fill: $jonquil;
-			width: 9.7rem;
-			x: 13rem;
-			y: 8rem;
+			width: 12.5rem;
+			x: 18rem;
+			y: 13rem;
 		}
 
-		&-text { transform: translate(14.3rem, 11.5rem); }
+		&-text { transform: translate(19.5rem, 17rem); }
 	}
 
 	&--samerica {
@@ -97,12 +98,12 @@
 
 		&-rect {
 			fill: $celadon;
-			width: 18.5rem;
-			x: 19rem;
-			y: 45rem;
+			width: 24rem;
+			x: 22rem;
+			y: 42rem;
 		}
 
-		&-text { transform: translate(20.3rem, 48.5rem); }
+		&-text { transform: translate(23.5rem, 46rem); }
 	}
 
 	&--namerica,
