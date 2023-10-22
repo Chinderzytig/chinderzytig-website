@@ -118,46 +118,11 @@
 		&:active { .map__label { display: block; } }
 	}
 
-	// text {
-	// 	display: none;
-	// 	fill: $color-black;
-	// 	font-size: 4rem;
-	// 	font-family: $font-spartan;
-	// }
-	// &--north-america { fill: $map-citron; }
-	//
-	// &--south-america { fill: $map-maroon; }
-	//
-	// &--europe { fill: $map-blue; }
-	//
-	// &--asia { fill: $map-minion; }
-	//
-	// &--oceania { fill: $chinder-verdigris; }
-	//
-	// &--africa { fill: $chinder-orange; }
-	//
-	// &--antarctica { fill: $chinder-platinum; }
-	//
-	// &--north-america,
-	// &--south-america,
-	// &--europe,
-	// &--asia,
-	// &--oceania,
-	// &--africa,
-	// &--antarctica {
-	//
-	// 	&:hover,
-	// 	&:active {
-	// 		opacity: .6;
-	//
-	// 		text { display: block; }
-	// 	}
-	// }
-	//
-	// text {
-	// 	display: none;
-	// 	fill: $color-black;
-	// 	font-size: 4rem;
-	// 	font-family: $font-patrick;
-	// }
+	&__globe {
+
+		&:hover {
+			.map__globe--land { fill: #7AB442 }
+			.map__globe--water { fill: #2A6098 }
+		}
+	}
 }
