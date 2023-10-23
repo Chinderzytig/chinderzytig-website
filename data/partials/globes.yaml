@@ -1,0 +1,3 @@
+globes:
+  - globe: "svgs/globe-europe.html"
+  - globe: "svgs/globe-oceania.html"

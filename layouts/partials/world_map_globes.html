@@ -1,5 +1,5 @@
-<div class="map__btns-container">
-	<div class="map__btn">
-		{{ partial "svgs/globe-oceania.html" }}
-	</div>
+<div class="map__globe-container">
+	{{ range .Site.Data.partials.globes.globes }}
+		{{ partial .globe }}
+	{{ end }}
 </div>
