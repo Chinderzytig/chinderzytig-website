@@ -1,3 +1,8 @@
 globes:
+  - globe: "svgs/globe-namerica.html"
   - globe: "svgs/globe-europe.html"
+  - globe: "svgs/globe-asia.html"
+  - globe: "svgs/globe-samerica.html"
+  - globe: "svgs/globe-africa.html"
   - globe: "svgs/globe-oceania.html"
+  - globe: "svgs/globe-antarctica.html"
