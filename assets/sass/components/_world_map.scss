@@ -56,11 +56,13 @@
 
 	&--switzerland {
 		fill: $silver;
-		stroke: $black;
+		stroke: $cultured;
+		stroke-width: .2rem;
 
 		&:hover {
 			fill: #D52B1E;
-			stroke: #D52B1E;
+			stroke: none;
+
 		}
 
 		&-rect {
