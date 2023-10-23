@@ -54,6 +54,29 @@
 		&-text { transform: translate(11rem, 8rem); }
 	}
 
+	&--switzerland {
+		fill: $silver;
+		stroke: $black;
+
+		&:hover {
+			fill: #D52B1E;
+			stroke: #D52B1E;
+		}
+
+		&-rect {
+			fill: #D52B1E;
+			stroke: none;
+			width: 22.5rem;
+			x: -13rem;
+			y: 8rem;
+		}
+
+		&-text {
+			stroke: none;
+			transform: translate(-11.7rem, 12rem);
+		}
+	}
+
 	&--namerica {
 		&:hover { fill: $orange; }
 
@@ -109,6 +132,7 @@
 	&--namerica,
 	&--samerica,
 	&--europe,
+	&--switzerland,
 	&--asia,
 	&--oceania,
 	&--africa,
