@@ -10,6 +10,12 @@
 	&--pinkL { @include cta-type($pink, left, $space-cadet); }
 	&--pinkR { @include cta-type($pink, right, $space-cadet); }
 
+	&__flex-arnd {
+		display: flex;
+		justify-content: space-around;
+		flex-wrap: wrap;
+	}
+
 	&__info {
 		display: flex;
 		justify-content: space-between;
