@@ -9,7 +9,7 @@
 					<span class="sidebar__dropdown-arrow"></span>
 				</label>
 				<ul class="sidebar__dropdown-content">
-					{{ range .Site.Data.partials.categories.lage }}
+					{{ range .Site.Data.partials.topics.lage }}
 						<li class="sidebar__dropdown-item"><a href="{{ .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
 					{{ end }}
 				</ul>
@@ -23,7 +23,7 @@
 					<span class="sidebar__dropdown-arrow"></span>
 				</label>
 				<ul class="sidebar__dropdown-content">
-					{{ range .Site.Data.partials.categories.thema }}
+					{{ range .Site.Data.partials.topics.thema }}
 						<li class="sidebar__dropdown-item"><a href="{{ .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
 					{{ end }}
 				</ul>
