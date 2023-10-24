@@ -19,7 +19,7 @@ slug = ""
 title = "Streik in Hollywood"
 +++
 
-_n Hollywood wurde in den letzten Monaten gestreikt. Doch worum ging es? Was sind die Folgen und wie geht es nun nach den Streiks weiter?_
+_In Hollywood wurde in den letzten Monaten gestreikt. Doch worum ging es? Was sind die Folgen und wie geht es nun nach den Streiks weiter?_
 
 {{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
 
