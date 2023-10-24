@@ -1,39 +1,183 @@
-.map__svg {
+.map {
+	width: 100%;
+	margin-top: 3rem;
 
-	&--north-america { fill: $map-citron; }
+	&__continent { fill: $silver; }
 
-	&--south-america { fill: $map-maroon; }
+	&__label {
+		display: none;
+		font-size: 4rem;
+		font-family: $font-spartan;
+		height: 5.5rem;
+		padding: 2rem;
 
-	&--europe { fill: $map-blue; }
+		&--white { fill: $white; }
+		&--black { fill: $black; }
+	}
 
-	&--asia { fill: $map-minion; }
+	&--oceania {
+		&:hover { fill: $celadon; }
 
-	&--oceania { fill: $chinder-verdigris; }
+		&-rect {
+			fill: $verdigris;
+			width: 19rem;
+			x: -8.4rem;
+			y: 9rem;
+		}
 
-	&--africa { fill: $chinder-orange; }
+		&-text { transform: translate(-7rem, 13rem); }
+	}
 
-	&--antarctica { fill: $chinder-platinum; }
+	&--africa {
+		&:hover { fill: $pink; }
 
-	&--north-america,
-	&--south-america,
+		&-rect {
+			fill: $space-cadet;
+			width: 14rem;
+			x: 6rem;
+			y: 7rem;
+		}
+
+		&-text { transform: translate(7.5rem, 11rem); }
+	}
+
+	&--europe {
+		&:hover { fill: $jonquil; }
+
+		&-rect {
+			fill: $pink;
+			width: 14.5rem;
+			x: 10rem;
+			y: 4rem;
+		}
+
+		&-text { transform: translate(11rem, 8rem); }
+	}
+
+	&--switzerland {
+		fill: $silver;
+		stroke: $cultured;
+		stroke-width: .2rem;
+
+		&:hover {
+			fill: #D52B1E;
+			stroke: none;
+
+		}
+
+		&-rect {
+			fill: #D52B1E;
+			stroke: none;
+			width: 22.5rem;
+			x: -13rem;
+			y: 8rem;
+		}
+
+		&-text {
+			stroke: none;
+			transform: translate(-11.7rem, 12rem);
+		}
+	}
+
+	&--namerica {
+		&:hover { fill: $orange; }
+
+		&-rect {
+			fill: $chestnut;
+			width: 26rem;
+			x: 10rem;
+			y: 13rem;
+		}
+
+		&-text { transform: translate(11.5rem, 17rem); }
+	}
+
+	&--antarctica {
+		&:hover { fill: $chestnut; }
+
+		&-rect {
+			fill: $orange;
+			width: 20rem;
+			x: 35rem;
+			y: 0;
+		}
+
+		&-text { transform: translate(36.5rem, 4rem); }
+	}
+
+	&--asia {
+		&:hover { fill: $space-cadet; }
+
+		&-rect {
+			fill: $jonquil;
+			width: 12.5rem;
+			x: 18rem;
+			y: 13rem;
+		}
+
+		&-text { transform: translate(19.5rem, 17rem); }
+	}
+
+	&--samerica {
+		&:hover { fill: $verdigris; }
+
+		&-rect {
+			fill: $celadon;
+			width: 24rem;
+			x: 22rem;
+			y: 42rem;
+		}
+
+		&-text { transform: translate(23.5rem, 46rem); }
+	}
+
+	&--namerica,
+	&--samerica,
 	&--europe,
+	&--switzerland,
 	&--asia,
 	&--oceania,
 	&--africa,
 	&--antarctica {
 
 		&:hover,
-		&:active {
-			opacity: .6;
-
-			text { display: block; }
-		}
+		&:active { .map__label { display: block; } }
 	}
 
-	text {
+	@include respond(tab-port-sm) { display: none; }
+
+	&__globe {
+		width: 15rem;
+		height: 15rem;
+		margin-top: 3rem;
 		display: none;
-		fill: $color-black;
-		font-size: 4rem;
-		font-family: $font-patrick;
+
+		&:not(:last-child) { margin-right: 3rem; }
+
+		&:hover { transform: translateY(-1rem); }
+
+		&:active { transform: translateY(.5rem); }
+
+		&--water {
+			filter: drop-shadow(.8rem .8rem rgba(42, 96, 152, 0.65));
+
+			&:hover { filter: drop-shadow(1.1rem 1.1rem rgba(42, 96, 152, 0.65)); }
+			&:active { filter: drop-shadow(.5rem .5rem rgba(42, 96, 152, 0.65)); }
+		}
+
+		&--land {
+			filter: drop-shadow(.8rem .8rem rgba(122, 180, 66, 0.65));
+
+			&:hover { filter: drop-shadow(1.1rem 1.1rem rgba(122, 180, 66, 0.65)); }
+			&:active { filter: drop-shadow(.5rem .5rem rgba(122, 180, 66, 0.65)); }
+		}
+
+		@include respond(tab-port-sm) { display: block; }
+
+		&-container {
+			display: flex;
+			justify-content: space-around;
+			flex-wrap: wrap;
+		}
 	}
 }
