@@ -7,6 +7,9 @@
 	&--orL { @include cta-type($orange, left, $chestnut); }
 	&--orR { @include cta-type($orange, right, $chestnut); }
 
+	&--pinkL { @include cta-type($pink, left, $space-cadet); }
+	&--pinkR { @include cta-type($pink, right, $space-cadet); }
+
 	&__info {
 		display: flex;
 		justify-content: space-between;
