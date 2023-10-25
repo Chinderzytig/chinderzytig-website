@@ -122,12 +122,16 @@
 	cursor: pointer;
 	padding: 1.5rem;
 	margin-top: 3rem;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
+
+	&__long {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
 
 	&__group { &:not(:last-child) { margin-right: 3rem; } }
 
+	&__text { margin-right: 1rem; }
 
 	&--jonquil {
 		border: 2px solid $jonquil;

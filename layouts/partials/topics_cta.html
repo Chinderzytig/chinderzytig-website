@@ -1,3 +1,8 @@
-{{ range .Site.Data.partials.topics.thema }}
-	<a href="{{ .link }}" class="mtn mtn__group mtn--space-cadet">{{ .label }}</a>
-{{ end }}
+{{range $name, $taxonomy := .Site.Taxonomies.markierungen}} {{ $cnt := .Count }}
+	{{ with $.Site.GetPage (printf "/markierungen/%s" $name) }}
+	<a href="{{ .RelPermalink }}" class="mtn mtn__group mtn--space-cadet">
+		<span class="mtn__text">{{ $name }}</span>
+		<span>({{ $cnt }})</span>
+	</a>
+	{{end}}
+{{end}}
