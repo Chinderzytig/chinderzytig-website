@@ -12,7 +12,7 @@ img_description = "Key art for Netflix's series Tiger King: Murder, Mayhem and M
 img_photographer = "Netflix"
 img_src = "https://vandam.netflix.com/shares/0406902b388f462f806b91e03364f698?assets=22282574"
 kategorien = ["Nordamerika"]
-markierungen = ["Natur", "Kultur", "Gesellschaft", "USA"]
+markierungen = ["Natur", "Kultur", "Gesellschaft"]
 paid = false
 slug = "tigerking"
 title = "Tiger King - zwischen Mördern, Spinnern und Wahnsinn"

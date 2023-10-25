@@ -12,7 +12,7 @@ img_description = "Am 3. November 2020 wird der neue Präsident der USA gewählt
 img_photographer = "Element5 Digital"
 img_src = "https://unsplash.com/photos/ls8Kc0P9hAA"
 kategorien = ["Nordamerika"]
-markierungen = ["Politik", "USA"]
+markierungen = ["Politik"]
 paid = false
 slug = ""
 title = "US-Wahlen im Herbst "
@@ -20,13 +20,13 @@ title = "US-Wahlen im Herbst "
 +++
 _Alle vier Jahre wird in den USA ein neuer Präsident, der das Staatsoberhaupt und der Regierungschef des Landes ist, gewählt. Die Aufgabe des Präsidenten ist es zudem, das oberste Gericht zu ernennen und Gesetze zu unterschreiben. Ihm steht außerdem ein Vetorecht zu, das heißt, dass er Einspruch einlegen darf, wenn er mit einem Gesetzt nicht einverstanden ist. Die Verfassung sieht für den Präsidenten Amerikas eine starke Position vor._
 
-Dieses Jahr im Herbst – am 03. November 2020 – ist es wieder soweit. Donald Trump, der amtierende Präsident der Vereinigten Staaten ist Republikaner und tritt gegen Joe Biden von den Demokraten an. Beide möchten das Land in den nächsten vier Jahren regieren und ihre Pläne umsetzen. 
+Dieses Jahr im Herbst – am 03. November 2020 – ist es wieder soweit. Donald Trump, der amtierende Präsident der Vereinigten Staaten ist Republikaner und tritt gegen Joe Biden von den Demokraten an. Beide möchten das Land in den nächsten vier Jahren regieren und ihre Pläne umsetzen.
 
 ### Wie laufen die Präsidentschaftswahlen in Amerika ab?
 
 In Amerika wird der Präsident nicht direkt vom Volk gewählt, sondern die Bürger wählen Wahlmänner aus dem Bundesstaat, in dem sie leben. Diese vom Volk gewählten Personen aus den jeweiligen Bundesstaaten geben schlussendlich ihre Stimme für einen der beiden Präsidentschaftskandidaten ab.
 
-### Wer tritt gegen wen an? 
+### Wer tritt gegen wen an?
 
 In Amerika gibt es zwei große Parteien: die Republikaner und die Demokraten. Der amtierende Präsident der USA, Donald Trump gehört den Republikanern an. Seine Partei steht für den Wunsch nach einer freien Marktwirtschaft. Der Staat soll möglichst wenig in wirtschaftliche Vorgänge eingreifen und jeder Mensch ist für sich selbst verantwortlich. Der Gedanke des wirtschaftlichen Erfolgs steht im Vordergrund. Auf sozialstaatliche Verbesserungen, Gleichberechtigung und Klimaschutz legen die Republikaner keinen Fokus.
 

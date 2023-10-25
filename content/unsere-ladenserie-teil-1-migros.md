@@ -11,8 +11,8 @@ hero_img = "/v1602408305/logo_migros-1_dcpgzb.jpg"
 img_description = "Logo der Migros"
 img_photographer = "Migros"
 img_src = "https://www.migros.ch/de/unternehmen/medien/fotos-und-logos.html"
-kategorien = ["Europa"]
-markierungen = ["Wirtschaft", "Gesellschaft", "Schweiz"]
+kategorien = ["Schweiz"]
+markierungen = ["Wirtschaft", "Gesellschaft"]
 paid = false
 slug = "migros"
 title = "Unsere Ladenserie: Teil 1 – Migros"
@@ -30,7 +30,7 @@ Schon bei der Gründung der Migros war die Strategie, schnell zu wachsen. Im Jah
 
 ### **Das Migros-Imperium**
 
-Bis heute hat die Migros viele weitere Firmen gegründet oder gekauft. Bekannte Geschäfte wie Denner oder Digitec gehören heute zum Migros-Konzern. Die Migros betreibt auch Fitness-Studios, Golfanlagen, Online-Shops, Sportgeschäfte, Möbelgeschäfte und eine Bank (Migros Bank). Unter dem Namen «MedBase» gibt es sogar Arztpraxen, die der Migros gehören. 
+Bis heute hat die Migros viele weitere Firmen gegründet oder gekauft. Bekannte Geschäfte wie Denner oder Digitec gehören heute zum Migros-Konzern. Die Migros betreibt auch Fitness-Studios, Golfanlagen, Online-Shops, Sportgeschäfte, Möbelgeschäfte und eine Bank (Migros Bank). Unter dem Namen «MedBase» gibt es sogar Arztpraxen, die der Migros gehören.
 
 Diese Geschäfte gehören alle zu Migros:
 
