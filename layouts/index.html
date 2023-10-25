@@ -83,7 +83,7 @@
 	<div class="cta cta--pinkL">
 		<h2 class="deading deading--black">Artikel nach Thema</h2>
 		<div class="cta__flex-arnd">
-			{{ partial "topics_cta.html" . }}
+			{{ partial "topics_cta.html" (dict "attr" . "categories" "false") }}
 		</div>
 	</div>
 
