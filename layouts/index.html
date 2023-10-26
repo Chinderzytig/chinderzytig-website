@@ -80,12 +80,7 @@
 			{{ partial "world_map_globes.html" . }}
 	</div>
 
-	<div class="cta cta--pinkL">
-		<h2 class="deading deading--black">Artikel nach Thema</h2>
-		<div class="cta__flex-arnd">
-			{{ partial "topics_cta.html" (dict "attr" . "categories" "false") }}
-		</div>
-	</div>
+	{{ partial "topics_cta.html" (dict "attr" . "categories" "false") }}
 
 	{{- partial "support_us.html" . -}}
 {{end}}
