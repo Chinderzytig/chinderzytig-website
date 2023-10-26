@@ -3,16 +3,8 @@
 		{{ partial "svgs/magnify.html" (dict "fill" "#6C685D" "width" 35 "height" 36) }}
 		<input id="search" type="search" placeholder="Artikel Suchen" class="search__field" />
 	</div>
-	<div class="list">
-		<h3 class="heading heading--list">Artikel Kategorien</h3>
-		<div class="list__markers">
-			{{range $name, $taxonomy := .Site.Taxonomies.kategorien}}
-				{{ with $.Site.GetPage (printf "/kategorien/%s" $name) }}
-					<a href="{{ .Permalink }}" class="marker marker--list">{{ humanize $name }}</a>
-				{{end}}
-			{{end}}
-		</div>
-	</div>
+
+	{{ partial "topics_cta.html" (dict "attr" . "categories" "true") }}
 
 	<div class="cta">
 		<h2 class="deading deading--black">{{ .Title }}</h2>

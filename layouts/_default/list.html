@@ -1,32 +1,11 @@
 {{define "main"}}
-		{{ $tags := slice }}
-		{{ $link := string .Permalink }}
 
-		{{ range .Pages }}
-			{{ range (.GetTerms "markierungen") }}
-				{{ $tags = $tags | append . }}
-			{{ end }}
-		{{ end }}
+	<div class="search__container">
+		{{ partial "svgs/magnify.html" (dict "fill" "#6C685D" "width" 35 "height" 36) }}
+		<input id="search" type="search" placeholder="Artikel Suchen" class="search__field" />
+	</div>
 
-		{{ $tags = $tags | uniq }}
-
-		<div class="search__container">
-			{{ partial "svgs/magnify.html" (dict "fill" "#6C685D" "width" 35 "height" 36) }}
-			<input id="search" type="search" placeholder="Artikel Suchen" class="search__field" />
-		</div>
-
-		{{ if in $link "kategorien"}}
-			<div class="list">
-				<h3 class="heading heading--list">{{ .Title }} Markierungen</h3>
-				<div class="list__markers">
-					{{ with $tags}}
-						{{ range $tags.ByTitle }}
-							<a href="{{ .Permalink }}" class="marker marker--list">{{ .LinkTitle }}</a>
-						{{ end }}
-					{{ end }}
-				</div>
-			</div>
-		{{ end }}
+	{{ partial "topics_cta.html" (dict "attr" . "categories" "true") }}
 
 	<div class="cta">
 		<h2 class="deading deading--black">Alle Artikel: {{ .Title }}</h2>
