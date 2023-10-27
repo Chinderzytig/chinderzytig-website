@@ -11,8 +11,8 @@ hero_img = "/v1600152902/corona-und-langeweile_pqj7hu.jpg"
 img_description = "Ein Kind späht zwischen den Storen durch."
 img_photographer = "Sharon McCutcheon"
 img_src = "https://unsplash.com/@sharonmccutcheon"
-kategorien = ["Welt"]
-markierungen = ["Gesundheit"]
+kategorien = []
+markierungen = ["Gesundheit", "Welt"]
 paid = false
 slug = "corona-und-langeweile"
 title = "Für Kinder: Coronazeit = freie Zeit? Bleibt zu Hause. Aber was tun gegen Langeweile?"

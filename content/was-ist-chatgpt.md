@@ -11,9 +11,9 @@ hero_img = "/v1678009288/552533133_socialmedia_r0bpxg.jpg"
 img_description = "ChatGPT"
 img_photographer = "KEYSTONE"
 img_src = "KEYSTONE"
-kategorien = ["Welt"]
+kategorien = []
 kfk = false
-markierungen = ["Wissenschaft", "Medien"]
+markierungen = ["Wissenschaft", "Medien", "Welt"]
 paid = false
 slug = ""
 title = "Was ist ChatGPT?"
@@ -21,7 +21,7 @@ title = "Was ist ChatGPT?"
 +++
 _Künstliche Intelligenzen wie der Chatbot «ChatGPT» der Firma OpenAI sind an Schulen gerade ein aktuelles Thema. Was ist Künstliche Intelligenz? Und kann ein Textroboter Aufsätze schreiben und Matheaufgaben der Schüler*innen lösen?_
 
-  
+
 {{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>

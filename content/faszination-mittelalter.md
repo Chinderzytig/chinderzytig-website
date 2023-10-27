@@ -11,9 +11,9 @@ hero_img = "/v1670873605/Mittelaltermarkt_ky0hjv.jpg"
 img_description = "Mittelaltermarkt"
 img_photographer = ""
 img_src = "https://niederrhein-tourismus.de/nt_events/mittelaltermarkt-auf-kloster-grafenthal"
-kategorien = ["Welt"]
+kategorien = []
 kfk = false
-markierungen = ["Gesellschaft"]
+markierungen = ["Gesellschaft", "Welt"]
 paid = false
 slug = ""
 title = "Faszination Mittelalter"
@@ -21,7 +21,7 @@ title = "Faszination Mittelalter"
 +++
 _Das Mittelalter wird häufig dunkel, düster und wild dargestellt. Krankheiten, Ritterkämpfe und Hunger prägten diese Zeit. Doch gegen Ende des Mittelalters wurden auch die ersten Universitäten gegründet und in den Städten begann der Handel mit Handwerk. Bis heute fasziniert das Mittelalter. So gibt es zahlreiche Mittelalter-Märkte und Gruppen, die dieses Zeitalter nachspielen._
 
-  
+
 {{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>

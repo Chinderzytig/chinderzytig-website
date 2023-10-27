@@ -11,9 +11,9 @@ hero_img = "/v1679849634/64978292_401_wot9nc.jpg"
 img_description = ""
 img_photographer = ""
 img_src = "https://www.dw.com/de/opferzahlen-nach-zyklon-freddy-steigen-weiter-an/a-65020806"
-kategorien = ["Afrika", "Welt"]
+kategorien = ["Afrika"]
 kfk = false
-markierungen = ["Natur"]
+markierungen = ["Natur", "Welt"]
 paid = false
 slug = ""
 title = "Wirbelstürme – faszinierend, aber gefährlich"
@@ -51,7 +51,7 @@ Als Orkane werden Sturmwinde bezeichnet, die mit einer Windgeschwindigkeit von m
 
 Sturmwinde entstehen durch Unterschiede im Luftdruck. Die warmen und kalten Luftmassen wollen diesen Unterschied ausgleichen, wodurch Luftwirbel entstehen. Je grösser der Temperaturunterschied zwischen den Luftmassen ist, desto stärker wird der Sturm. Deshalb gibt es im Herbst und Winter besonders viele Stürme – wie eben auch Lothar, der am 26. Dezember 1999 zu einem Stromausfall führte und für Weihnachtsessen bei Kerzenschein sorgte.
 
-  
+
 {{< teiler >}}
 
 {{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}

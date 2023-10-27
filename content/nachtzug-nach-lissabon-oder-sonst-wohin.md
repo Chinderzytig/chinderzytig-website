@@ -11,8 +11,8 @@ hero_img = "/v1645536850/laura-cleffmann-zJRLgDaax_I-unsplash_kleiner_kazef9.jpg
 img_description = "Nachtzug"
 img_photographer = "Laura Cleffmann"
 img_src = "https://images.unsplash.com/photo-1547219469-75c19c0bd220?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
-kategorien = ["Welt"]
-markierungen = ["Kultur", "Gesellschaft"]
+kategorien = []
+markierungen = ["Kultur", "Gesellschaft", "Welt"]
 paid = false
 slug = ""
 title = "Nachtzug – nach Lissabon oder sonst wohin "

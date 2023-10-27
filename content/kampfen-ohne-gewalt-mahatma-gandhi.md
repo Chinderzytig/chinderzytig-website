@@ -11,9 +11,9 @@ hero_img = "/v1679340893/472552043_socialmedia_jvunx6.jpg"
 img_description = ""
 img_photographer = "KEYSTONE"
 img_src = "https://visual.keystone-sda.ch/preview/-/preview/open/472552043/detail?_ch_keystone_liferay_preview_portlet_PreviewPortlet_searchCriteria=newToOld%3AsfALLFIELDS_allfields%3A%28Mahatma+Gandhi%29_sfALLFIELDS&_ch_keystone_liferay_preview_portlet_PreviewPortlet_closeUrl=https%3A%2F%2Fvisual.keystone-sda.ch%2Fweb%2Fguest%2Fresult%2F-%2Fresult%2Fpaging%2F2%3F_ch_keystone_liferay_result_portlet_ResultPortlet_searchCriteria%3DnewToOld%253AsfALLFIELDS_allfields%253A%2528Mahatma%2BGandhi%2529_sfALLFIELDS%26ts%3D1680444113373"
-kategorien = ["Welt"]
+kategorien = ["Asien"]
 kfk = false
-markierungen = ["Personen", "Politik", "Gesellschaft"]
+markierungen = ["Personen", "Politik", "Gesellschaft", "Welt"]
 paid = false
 slug = ""
 title = "Kämpfen ohne Gewalt – Mahatma Gandhi"

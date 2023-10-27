@@ -9,9 +9,9 @@ img_description:
 img_photographer: Waldemar Brandt
 img_src: https://unsplash.com/@waldemarbrandt67w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 kategorien:
-- Welt
 markierungen:
 - Gesundheit
+- Welt
 fdw: false
 paid: false
 artikel: true

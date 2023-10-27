@@ -11,8 +11,8 @@ hero_img = "/v1645473338/david-marcu-VfUN94cUy4o-unsplash_tzia30.jpg"
 img_description = "Fahrradreise"
 img_photographer = "David Marcu"
 img_src = "https://unsplash.com/photos/tLg5rJZ3LhU"
-kategorien = ["Welt"]
-markierungen = ["Natur", "Sport", "Gesellschaft"]
+kategorien = []
+markierungen = ["Natur", "Sport", "Gesellschaft", "Welt"]
 paid = false
 slug = ""
 title = "Auf zwei Rädern die Welt erobern"
@@ -36,7 +36,7 @@ Kleider, ein Zelt und Utensilien zum Kochen und für die Körperhygiene fehlen a
 
 ### Ein Lebensstil
 
-Als im Frühling 2020 die Coronapandemie ausbrach, war Michel mit seiner Freundin in China unterwegs. Plötzlich wurden Grenzen geschlossen und Flugverbindungen gestrichen. Es wurde immer schwieriger mit dem Reisen – auch per Velo. Und dann kam da eben noch eine Gehirnentzündung dazu bei Marc Michel. Er musste ins Spital und dann mit dem RegaHelikopter in die Schweiz zurückgeflogen werden. Mittlerweile geht es ihm wieder ziemlich gut und er plant bereits seine nächsten Abenteuer. Auch das eine Gemeinsamkeit der VeloReisenden. Kaum sind sie zu Hause, planen sie schon das nächste Abenteuer. Manche leben mittlerweile von ihren Reisen und Erlebnissen, zum Beispiel der sogenannte „Cyclonaute“ Claude Marthaler. Er hat schon zahlreiche Bücher geschrieben, hält Vorträge und macht FotoAusstellungen. Seine Bücher tragen Namen wie „Der Gesang der Räder“ oder „Soweit das Rad uns trägt“ – wer möchte da nicht auch gleich in den nächsten Sattel steigen? 
+Als im Frühling 2020 die Coronapandemie ausbrach, war Michel mit seiner Freundin in China unterwegs. Plötzlich wurden Grenzen geschlossen und Flugverbindungen gestrichen. Es wurde immer schwieriger mit dem Reisen – auch per Velo. Und dann kam da eben noch eine Gehirnentzündung dazu bei Marc Michel. Er musste ins Spital und dann mit dem RegaHelikopter in die Schweiz zurückgeflogen werden. Mittlerweile geht es ihm wieder ziemlich gut und er plant bereits seine nächsten Abenteuer. Auch das eine Gemeinsamkeit der VeloReisenden. Kaum sind sie zu Hause, planen sie schon das nächste Abenteuer. Manche leben mittlerweile von ihren Reisen und Erlebnissen, zum Beispiel der sogenannte „Cyclonaute“ Claude Marthaler. Er hat schon zahlreiche Bücher geschrieben, hält Vorträge und macht FotoAusstellungen. Seine Bücher tragen Namen wie „Der Gesang der Räder“ oder „Soweit das Rad uns trägt“ – wer möchte da nicht auch gleich in den nächsten Sattel steigen?
 
 {{< teiler >}}
 

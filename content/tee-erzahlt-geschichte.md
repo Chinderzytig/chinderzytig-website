@@ -11,9 +11,9 @@ hero_img = "/v1671474234/drew-jemmett-qEcWgrTG578-unsplash_wqzbtu.jpg"
 img_description = "Tee"
 img_photographer = "Drew Jemmett"
 img_src = "https://unsplash.com/photos/qEcWgrTG578"
-kategorien = ["Welt"]
+kategorien = []
 kfk = false
-markierungen = ["Wirtschaft"]
+markierungen = ["Wirtschaft", "Welt"]
 paid = false
 slug = ""
 title = "Tee erzählt Geschichte"
@@ -21,7 +21,7 @@ title = "Tee erzählt Geschichte"
 +++
 _Viele von uns geniessen hin und wieder gerne eine Tasse Tee. Wenn ich von Tee schreibe, dann meine ich alles, was aus der Teepflanze hergestellt wird, wie grüner oder schwarzer Tee. Diese Blätter, welche uns hier und heute schöne und genussvolle Momente schenken, haben eine lange Geschichte und sie erzählen von unserer Vergangenheit._
 
-  
+
 {{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>

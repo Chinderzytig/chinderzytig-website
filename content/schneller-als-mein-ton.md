@@ -11,8 +11,8 @@ hero_img = "/v1644337065/philippe-collard-s1Sm7R5eCYY-unsplash_eyckgj.jpg"
 img_description = "Ein Bild der Concorde - Air France"
 img_photographer = "Philippe Collard"
 img_src = "https://unsplash.com/photos/s1Sm7R5eCYY"
-kategorien = ["Welt"]
-markierungen = ["Gesellschaft", "Wissenschaft"]
+kategorien = []
+markierungen = ["Gesellschaft", "Wissenschaft", "Welt"]
 paid = false
 slug = ""
 title = "Schneller als mein Ton "
@@ -20,13 +20,19 @@ title = "Schneller als mein Ton "
 +++
 _"Concorde", ein Begriff, den du vielleicht schon mal gehört hast. Heute schauen wir uns die Überschall- Fliegerei etwas genauer an. Wird sie ein Comeback erleben?_
 
-### Das Wichtigste in Kürze
+{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
 
-Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:
+<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
-* Der Überschallflug kommt vor, wenn ein Objekt sich schneller als sein Schall bewegt
-* Dies gab es bereits - auch in der Zivilluftfahrt
-* Werden wir bald die Rückkehr der Überschallflüge erleben?
+<ul>
+
+<li>Der Überschallflug kommt vor, wenn ein Objekt sich schneller als sein Schall bewegt</li>
+
+<li>Dies gab es bereits - auch in der Zivilluftfahrt</li>
+
+<li>Werden wir bald die Rückkehr der Überschallflüge erleben?</li>
+
+</ul> {{< /info-box >}}
 
 Als Erstes frischen wir uns kurz im Bereich Physik auf; der Begriff "Überschall" bedeutet, dass sich etwas schneller als die Schallgeschwindigkeit bewegt - sprich: es bewegt sich schneller als sein Ton (“Schall”). Wenn man jetzt noch das "Flug"-Element hinzufügt, hat man den Überschallflug. Das gibt es tatsächlich - Flugzeuge, die schneller fliegen, als ihr Ton sich durch die Luft bewegt. Und nicht nur Kampfjets!
 

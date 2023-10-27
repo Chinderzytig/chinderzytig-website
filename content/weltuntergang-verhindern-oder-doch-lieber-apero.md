@@ -11,11 +11,11 @@ hero_img = "/v1635887164/Klimagipfel_z1tccg.jpg"
 img_description = "Die Erdkugel im Klimawandel"
 img_photographer = "Markus Spiske"
 img_src = "https://unsplash.com/photos/r1BS0pzlr1M"
-kategorien = []
-markierungen = []
+kategorien = ["Europa"]
+markierungen = ["Politik", "Welt"]
 paid = false
 slug = ""
-title = "Weltuntergang verhindern oder doch lieber Apéro? "
+title = "Weltuntergang verhindern oder doch lieber Apéro?"
 
 +++
 _Am Montag hat der Klimagipfel in Glasgow begonnen. Die Hauptstadt von Schottland steht im Zentrum, wenn sich mächtige Menschen der Welt treffen, um über die Klimakrise zu sprechen. Doch: Finden sich nun Lösungen bevor es zur Katastrophe kommt, oder geht es doch eher um leere Worte und leckeres Apéro?_
