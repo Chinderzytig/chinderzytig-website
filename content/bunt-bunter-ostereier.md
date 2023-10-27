@@ -13,7 +13,7 @@ img_photographer = "KEYSTONE"
 img_src = "KEYSTONE"
 kategorien = ["Schweiz"]
 kfk = false
-markierungen = ["3-6 Klasse", "Kultur", "Gesellschaft"]
+markierungen = ["Zyklus 2", "Kultur", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Bunt, bunter, Ostereier"
@@ -35,11 +35,11 @@ _Bald ist wieder Ostern und viele Kinder bemalen fleissig Eier. Für viele ist O
 
 </ul> {{< /info-box >}}
 
-Ostern hat etwas mit der Kirche und dem Christentum zu tun. Doch wie war das nochmals ganz genau? Am Karfreitag, dem Freitag vor Ostern, sei Jesus Christus gekreuzigt worden. Dieser Tag gilt deshalb als trauriger Tag. Die Kirchenglocken hören auf zu läuten und ertönen erst am Ostersonntag wieder. Dann sei Jesus nämlich wieder auferstanden und die Christen und Christinnen feiern die Auferstehung von Jesus. 
+Ostern hat etwas mit der Kirche und dem Christentum zu tun. Doch wie war das nochmals ganz genau? Am Karfreitag, dem Freitag vor Ostern, sei Jesus Christus gekreuzigt worden. Dieser Tag gilt deshalb als trauriger Tag. Die Kirchenglocken hören auf zu läuten und ertönen erst am Ostersonntag wieder. Dann sei Jesus nämlich wieder auferstanden und die Christen und Christinnen feiern die Auferstehung von Jesus.
 
 ### Ostereier färben
 
-So ganz sicher weiss man nicht, warum man Eier zu Ostern bunt anmalt. Es gibt aber verschiedene Vermutungen, woher diese Tradition kommt. Das Ei galt schon seit langen Zeiten als Symbol für den Ursprung der Welt. Ebenfalls galt es als Zeichen eines Neubeginns. Zudem legte man früher Eier zu den Gräbern von verstorbenen Leuten, denn man glaubte, dass die Toten so wieder auferstehen konnten. Später verband die Kirche das Ei mit der Auferstehung von Jesus. So wie ein Küken aus dem Ei schlüpft, „schlüpfte“ Jesus wieder aus dem Grab. Im Mittelalter führte man dann die Fastenzeit ein. Vom Aschermittwoch, das ist der Tag, nach dem unsere Fasnacht endet, bis zum Karfreitag mussten die Leute fasten. In dieser Zeit durften sie keine Eier essen. Die Hühner aber legten natürlich weiter Eier und so hatten die Leute nach Karfreitag sehr viele Eier. Diese wollten sie aber nicht wegwerfen. Weil sie aber noch keinen Kühlschrank hatten, mussten sie die Eier kochen, damit sie länger haltbar waren. Damit die Menschen die alten Eier nicht mit den frischen verwechselten, bemalte man sie rot. Am Ostersonntag durften die Menschen die Eier dann endlich essen. 
+So ganz sicher weiss man nicht, warum man Eier zu Ostern bunt anmalt. Es gibt aber verschiedene Vermutungen, woher diese Tradition kommt. Das Ei galt schon seit langen Zeiten als Symbol für den Ursprung der Welt. Ebenfalls galt es als Zeichen eines Neubeginns. Zudem legte man früher Eier zu den Gräbern von verstorbenen Leuten, denn man glaubte, dass die Toten so wieder auferstehen konnten. Später verband die Kirche das Ei mit der Auferstehung von Jesus. So wie ein Küken aus dem Ei schlüpft, „schlüpfte“ Jesus wieder aus dem Grab. Im Mittelalter führte man dann die Fastenzeit ein. Vom Aschermittwoch, das ist der Tag, nach dem unsere Fasnacht endet, bis zum Karfreitag mussten die Leute fasten. In dieser Zeit durften sie keine Eier essen. Die Hühner aber legten natürlich weiter Eier und so hatten die Leute nach Karfreitag sehr viele Eier. Diese wollten sie aber nicht wegwerfen. Weil sie aber noch keinen Kühlschrank hatten, mussten sie die Eier kochen, damit sie länger haltbar waren. Damit die Menschen die alten Eier nicht mit den frischen verwechselten, bemalte man sie rot. Am Ostersonntag durften die Menschen die Eier dann endlich essen.
 
 ### Bunte Muster
 

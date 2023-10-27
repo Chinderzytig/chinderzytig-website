@@ -11,9 +11,9 @@ hero_img = "/v1679401554/545615565_socialmedia_ndwucf.jpg"
 img_description = ""
 img_photographer = "KEYSTONE"
 img_src = "KEYSTONE"
-kategorien = ["Schweiz"]
+kategorien = []
 kfk = false
-markierungen = ["Oberstufe", "Wirtschaft", "Politik"]
+markierungen = []
 paid = false
 slug = ""
 title = "Das Ende einer Grossbank"
@@ -31,5 +31,5 @@ Banken geraten dann in Schräglage, wenn das Vertrauen in sie verloren geht. Die
 
 Hast du diese Bankenkrise mitgekriegt? War sie zu Hause ein Thema? Frag deine Eltern und deine Lehrpersonen, wie sie darüber denken. Es ist keine kleine Geschichte, die uns nicht interessieren muss. Es ist ein Abbild der Situation in unserer Gesellschaft.
 
-  
+
 Sprich darüber – und melde dich doch auch bei uns. Entweder mit einem Kommentar in der Kommentarspalte, auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
