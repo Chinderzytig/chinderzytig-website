@@ -11,8 +11,8 @@ hero_img = "/v1604835814/clay-banks-BY-R0UNRE7w-unsplash_avcrbx.jpg"
 img_description = "Nach langem Warten gewann Joe Biden die meisten Wahlmänner."
 img_photographer = "Clay Banks"
 img_src = "https://unsplash.com/photos/BY-R0UNRE7w"
-kategorien = []
-markierungen = []
+kategorien = ["Nordamerika"]
+markierungen = ["Politik"]
 paid = false
 slug = ""
 title = "Amerika hat gewählt: Joe Biden wird neuer Präsident"
@@ -30,7 +30,7 @@ Letzte Woche haben wir einen [Fokus der Woche](https://www.chinderzytig.ch/spann
 
 ### Was kommt jetzt?
 
-Joe Biden und seine Vizepräsidentin Kamala Harris finden ein gespaltenes Amerika vor. Nicht nur aufgrund der Coronapandemie und der Rassismusdebatte. Auch die Proteste gegen die Polizeigewalt spielen eine Rolle. Joe und seine Vizepräsidentin müssen das Land wieder vereinen. Joe Biden will die ganze Bevölkerung unterstützen, egal für wen sie gestimmt haben. Die Gesellschaft ist in zwei Gruppen eingeteilt, er will diese wieder vereinen. Auch international wird es zu Veränderungen kommen. Denn Joe Biden möchte noch enger mit den anderen Ländern zusammenarbeiten. 
+Joe Biden und seine Vizepräsidentin Kamala Harris finden ein gespaltenes Amerika vor. Nicht nur aufgrund der Coronapandemie und der Rassismusdebatte. Auch die Proteste gegen die Polizeigewalt spielen eine Rolle. Joe und seine Vizepräsidentin müssen das Land wieder vereinen. Joe Biden will die ganze Bevölkerung unterstützen, egal für wen sie gestimmt haben. Die Gesellschaft ist in zwei Gruppen eingeteilt, er will diese wieder vereinen. Auch international wird es zu Veränderungen kommen. Denn Joe Biden möchte noch enger mit den anderen Ländern zusammenarbeiten.
 
 ### Was bedeutet die Wahl für die Schweiz?
 

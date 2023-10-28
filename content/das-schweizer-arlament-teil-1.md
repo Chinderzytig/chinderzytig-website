@@ -11,9 +11,9 @@ hero_img = "/Das-Schweizer-Parlament-Teil-1_few4om.jpg"
 img_description = "Eine Swiss transplant Kühlbox, die dazu dient, Organe zur Transplantation zu transportieren, wird am Dienstag, den 5. April 2022, in Genf beim Verlassen eines Operationssaals des Universitätskrankenhauses Genf (HUG) fotografiert. "
 img_photographer = "Parlament.ch"
 img_src = "https://www.parlament.ch/media/pictures/parlamentsgebaeude-nationalratssaal/2017-01-DSC_1535.JPG?RenditionID=118"
-kategorien = []
+kategorien = ["Schweiz"]
 kfk = false
-markierungen = []
+markierungen = ["Politik"]
 paid = false
 slug = ""
 title = "Das Schweizer Parlament – Teil 1"

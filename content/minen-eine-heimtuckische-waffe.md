@@ -11,8 +11,8 @@ hero_img = "/v1602362417/Warnsignal-Do-not-enter_lhyhul.jpg"
 img_description = "Ein Warnsignal mit der Aufschrift - Danger. Do not enter. "
 img_photographer = "Raúl Nájera"
 img_src = "https://unsplash.com/@reinf"
-kategorien = ["Welt"]
-markierungen = ["Wissenschaft", "Gesellschaft"]
+kategorien = []
+markierungen = ["Wissenschaft", "Gesellschaft", "Welt"]
 paid = false
 slug = "minen"
 title = "Minen - eine heimtückische Waffe"
@@ -20,7 +20,7 @@ title = "Minen - eine heimtückische Waffe"
 +++
 _Weltweit liegen noch explosive Kriegsreste wie Landminen versteckt. Wo diese Minen liegen, ist nicht klar. Deshalb treten immer wieder Personen ohne Wissen darauf. Dadurch werden tödliche Explosionen ausgelöst. Damit dies verhindert werden kann, findet am 4. April jährlich der internationale Tag der Minenaufklärung statt._
 
-  
+
 Es gibt verschiedene Arten von Minen. Häufig wurden in Kriegssituationen Landminen verwendet. Sie wehrten unerwünschte Personen ab. Landminen wurden unter der Erde versteckt. Tritt jemand darauf, wird eine Explosion ausgelöst und der Eindringling getötet. Heute ist unklar wie viele Landminen es noch gibt. Es bleibt daher die Gefahr, dass jemand ohne Wissen eine Explosion auslöst. Deshalb sterben jährlich tausende von Menschen. Die meisten in Ländern wie Afghanistan, Syrien, der Ukraine, Irak, Pakistan, Nigeria, Myanmar, Libyen und Jemen.
 
 ### **Nicht nur Landminen**

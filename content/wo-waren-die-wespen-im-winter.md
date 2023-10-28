@@ -13,7 +13,7 @@ img_photographer = "KEYSTONE"
 img_src = "https://visual.keystone-sda.ch/preview/-/preview/open/352566925/detail?_ch_keystone_liferay_preview_portlet_PreviewPortlet_searchCriteria=newToOld%3AsfALLFIELDS_allfields%3A%28wespen%29_sfALLFIELDS&_ch_keystone_liferay_preview_portlet_PreviewPortlet_closeUrl=https%3A%2F%2Fvisual.keystone-sda.ch%2Fweb%2Fguest%2Fresult%2F-%2Fresult%2Fpaging%2F3%3F_ch_keystone_liferay_result_portlet_ResultPortlet_searchCriteria%3DnewToOld%253AsfALLFIELDS_allfields%253A%2528wespen%2529_sfALLFIELDS%26ts%3D1680442726110"
 kategorien = ["Europa"]
 kfk = false
-markierungen = ["Oberstufe", "3-6 Klasse", "Natur"]
+markierungen = ["Zyklus 2", "Zyklus 3", "Natur"]
 paid = false
 slug = ""
 title = "Wo waren die Wespen im Winter?"

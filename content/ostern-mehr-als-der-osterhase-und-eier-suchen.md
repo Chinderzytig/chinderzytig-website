@@ -11,8 +11,8 @@ hero_img = "/v1602363405/Osternest_axyosv.jpg"
 img_description = "Osternest mit Eiern"
 img_photographer = "Christine Sandu"
 img_src = "https://unsplash.com/@lenscapewithme"
-kategorien = ["Welt"]
-markierungen = ["Kultur", "Gesellschaft"]
+kategorien = []
+markierungen = ["Kultur", "Gesellschaft", "Welt"]
 paid = false
 slug = "ostern"
 title = "Ostern – Mehr als der Osterhase und Eier suchen?"
@@ -24,7 +24,7 @@ Der Ursprung von Ostern liegt in der Religion der Christen. Die Leute glauben an
 
 ### **Eier als Zeichen des Lebens**
 
-Nach seinem Tod wurde Jesus in eine Höhle gelegt. Diese wurde verschlossen. Doch am Ostersonntag war die Höhle offen und Jesus weg. Die Menschen waren verwirrt. Wo ist er hin? Er war doch tot. Sie erfuhren dann von seiner Auferstehung. Jesus wurde gemäss der Religion der Christen wiedergeboren. Er starb zuerst und lebte dann wieder. Genau da kommen die Ostereier ins Spiel. Die Eier sind ein Symbol von Leben. Ein Huhn legt ein Ei. Daraus entsteht ein neues Huhn und dieses legt wieder ein Ei. Die Hühnereier erinnern an die Wiedergeburt von Jesus. Lange Zeit vor uns – im Mittelalter – wurden die Eier bereits gefärbt. Nämlich rot. Die Farbe erinnert an das Blut von Jesus. Wo liegt nun die Rolle des Osterhasen? 
+Nach seinem Tod wurde Jesus in eine Höhle gelegt. Diese wurde verschlossen. Doch am Ostersonntag war die Höhle offen und Jesus weg. Die Menschen waren verwirrt. Wo ist er hin? Er war doch tot. Sie erfuhren dann von seiner Auferstehung. Jesus wurde gemäss der Religion der Christen wiedergeboren. Er starb zuerst und lebte dann wieder. Genau da kommen die Ostereier ins Spiel. Die Eier sind ein Symbol von Leben. Ein Huhn legt ein Ei. Daraus entsteht ein neues Huhn und dieses legt wieder ein Ei. Die Hühnereier erinnern an die Wiedergeburt von Jesus. Lange Zeit vor uns – im Mittelalter – wurden die Eier bereits gefärbt. Nämlich rot. Die Farbe erinnert an das Blut von Jesus. Wo liegt nun die Rolle des Osterhasen?
 
 ### **Wenn der Frühling kommt**
 

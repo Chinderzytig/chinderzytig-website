@@ -11,9 +11,9 @@ hero_img = "/v1670960596/WW2_fqmslu.jpg"
 img_description = "Polnische Kriegsgefangene"
 img_photographer = "Franz Peter Weixler, Deutsches Historisches Museum, Berlin"
 img_src = "https://www.dhm.de/lemo/bestand/objekt/ba111196 "
-kategorien = ["Welt"]
+kategorien = []
 kfk = false
-markierungen = ["Politik"]
+markierungen = ["Politik", "Welt"]
 paid = false
 slug = ""
 title = "Der Zweite Weltkrieg"
@@ -47,7 +47,7 @@ Nach dem Kriegsbeginn in Polen wurde der Krieg immer grösser und breitete sich 
 
 Nachdem 1941 die USA in das Kriegsgeschehen eingegriffen hatten, befreiten sie zusammen mit ihren Verbündeten (zum Beispiel Grossbritannien und Frankreich) die Gebiete, welche Deutschland zuvor erobert hatte. Deutschland verlor also den Krieg und gab am 8. Mai 1945 seinen Kampf gegen die Welt auf.
 
-  
+
 Dieser Artikel ist nur ein sehr kleiner Einblick ins Thema. Über den Zweiten Weltkrieg gibt es noch vieles mehr zu erfahren. Um mehr über dieses Ereignis zu lernen, könnt ihr dem Link folgen und das Video anschauen. Weiter könnt ihr auch das Internet durchstöbern.
 
 Link zum Video: [https://www.kindernetz.de/sendungen/der-krieg-und-ich/der-zweite-weltkrieg-100.html](https://www.kindernetz.de/sendungen/der-krieg-und-ich/der-zweite-weltkrieg-100.html "https://www.kindernetz.de/sendungen/der-krieg-und-ich/der-zweite-weltkrieg-100.html")

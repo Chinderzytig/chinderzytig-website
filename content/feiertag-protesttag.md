@@ -12,7 +12,7 @@ img_description = "Protestierende Menschenmenge in den Strassen von Hongkong"
 img_photographer = "Joseph Chan"
 img_src = "https://unsplash.com/@yulokchan"
 kategorien = ["Asien"]
-markierungen = ["Politik", "Gesellschaft", "Hongkong", "China"]
+markierungen = ["Politik", "Gesellschaft"]
 paid = false
 slug = ""
 title = "Feiertag = Protesttag"

@@ -11,9 +11,9 @@ hero_img = "/v1680967488/382637364_socialmedia_mnm1m2.jpg"
 img_description = ""
 img_photographer = "KEYSTONE"
 img_src = "KEYSTONE"
-kategorien = ["Welt"]
+kategorien = ["Europa"]
 kfk = false
-markierungen = ["Oberstufe", "3-6 Klasse", "Politik"]
+markierungen = ["Zyklus 2", "Zyklus 3", "Politik", "Welt"]
 paid = false
 slug = ""
 title = "Jetzt wird gestreikt"
@@ -39,6 +39,6 @@ Streiken bedeutet, dass viele Menschen gleichzeitig ihre Arbeit niederlegen. Ges
 
 ### Was geschieht nach einem Streik?
 
-Gewerkschaften vertreten die Bedürfnisse der Arbeitnehmer*innen und organisieren den Streik, wenn die Arbeitsbedingungen untragbar werden. Üblicherweise wird ein Streik vorab angekündigt in der Hoffnung, dass die Regierung oder die Unternehmensführung bereit ist zu verhandeln. Ist dies nicht der Fall wird der Streik durchgeführt und dauert je nach Situation einen oder mehrere Tage. Nach einer gewissen Zeit setzen sich die Gewerkschaftsvertreter*innen wiederum mit der Gegenpartei an einen runden Tisch und verhandeln weiter.
+Gewerkschaften vertreten die Bedürfnisse der Arbeitnehmer\*innen und organisieren den Streik, wenn die Arbeitsbedingungen untragbar werden. Üblicherweise wird ein Streik vorab angekündigt in der Hoffnung, dass die Regierung oder die Unternehmensführung bereit ist zu verhandeln. Ist dies nicht der Fall wird der Streik durchgeführt und dauert je nach Situation einen oder mehrere Tage. Nach einer gewissen Zeit setzen sich die Gewerkschaftsvertreter\*innen wiederum mit der Gegenpartei an einen runden Tisch und verhandeln weiter.
 
 Ob die aktuellen Streiks in Frankreich und Deutschland erfolgreich sind, wird sich noch zeigen. Wenn du dir eine eigene Meinung bilden möchtest oder erfahren willst, was in Frankreich und Deutschland gerade geschieht, dann verfolge das Thema Streik in den Medien. Für die Bevölkerung von Frankreich und Deutschland steht viel auf dem Spiel. Eine friedliche Lösung ist für alle Beteiligten sehr zu wünschen.

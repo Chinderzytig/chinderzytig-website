@@ -15,10 +15,6 @@ lage:
     link: "/kategorien/ozeanien"
   - label: Südamerika
     link: "/kategorien/südamerika"
-  - label: Welt
-    link: "/kategorien/welt"
-  - label: Weltraum/Universum
-    link: "/kategorien/weltraum/universum"
 
 thema:
   - label: Gesellschaft
@@ -39,7 +35,15 @@ thema:
     link: "/markierungen/politik"
   - label: Sport
     link: "/markierungen/sport"
+  - label: Welt
+    link: "/markierungen/welt"
+  - label: Weltraum/Universum
+    link: "/markierungen/weltraum-universium"
   - label: Wirtschaft
     link: "/markierungen/wirtschaft"
   - label: Wissenschaft
     link: "/markierungen/wissenschaft"
+  - label: "Zyklus 2"
+    link: "/markierungen/zyklus-2"
+  - label: "Zyklus 3"
+    link: "/markierungen/zyklus-3"

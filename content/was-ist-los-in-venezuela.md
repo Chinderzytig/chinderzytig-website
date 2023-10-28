@@ -12,7 +12,7 @@ img_description = "Young man chains himself to the Francia Square, in the Altami
 img_photographer = "Carlos Díaz"
 img_src = "https://commons.wikimedia.org/w/index.php?curid=40544189"
 kategorien = ["Südamerika"]
-markierungen = ["Politik", "Gesellschaft", "Venezuela"]
+markierungen = ["Politik", "Gesellschaft"]
 paid = false
 slug = "venezuela"
 title = "Was ist los in Venezuela?"

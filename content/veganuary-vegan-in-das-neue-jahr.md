@@ -25,7 +25,7 @@ _Im Januar haben viele Menschen am sogenannten „Veganuary“ mitgemacht. Das W
 
 ### Was heisst vegan?
 
-Sicher kennst du jemanden, der kein Fleisch isst und sich somit vegetarisch ernährt. Doch wenn man sich vegan ernährt, heisst das, dass man gar keine tierischen Produkte zu sich nimmt. Dazu gehören beispielsweise auch Milch von Kühen, Honig von Bienen oder Eier von Hühnern. Veganer*innen essen also keine tierischen Produkte. Einer der Gründe ist oft, dass vegane Menschen nicht möchten, dass Tiere für sie sterben müssen (für Fleisch) oder, dass sie für die Ernährung der Menschen genutzt werden (für Eier, Milch und Honig). Weiter liegt den Veganer*innen oft auch die Umwelt oder die eigene Gesundheit am Herzen.
+Sicher kennst du jemanden, der kein Fleisch isst und sich somit vegetarisch ernährt. Doch wenn man sich vegan ernährt, heisst das, dass man gar keine tierischen Produkte zu sich nimmt. Dazu gehören beispielsweise auch Milch von Kühen, Honig von Bienen oder Eier von Hühnern. Veganer/*innen essen also keine tierischen Produkte. Einer der Gründe ist oft, dass vegane Menschen nicht möchten, dass Tiere für sie sterben müssen (für Fleisch) oder, dass sie für die Ernährung der Menschen genutzt werden (für Eier, Milch und Honig). Weiter liegt den Veganer*innen oft auch die Umwelt oder die eigene Gesundheit am Herzen.
 
 ### Was bringt der „Veganuary“?
 

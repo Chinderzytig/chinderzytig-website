@@ -1,0 +1,29 @@
+{{ $page := .attr }}
+
+<div class="cta cta--pinkL">
+	{{ if eq .categories "true" }}
+		<h2 class="deading deading--black">Themen des Artikels</h2>
+	{{ else }}
+		<h2 class="deading deading--black">Artikel nach Thema</h2>
+	{{ end }}
+	<div class="cta__flex-arnd">
+		{{range $name, $tags := $page.Site.Taxonomies.markierungen}} {{ $cnt := .Count }}
+			{{ with $page.Site.GetPage (printf "/markierungen/%s" $name) }}
+				<a href="{{ .RelPermalink }}" class="mtn mtn__group mtn--space-cadet">
+					<span class="mtn__text">{{ $name }}</span>
+					<span>({{ $cnt }})</span>
+				</a>
+			{{end}}
+		{{end}}
+		{{ if eq .categories "true" }}
+			{{range $c, $categories := $page.Site.Taxonomies.kategorien}} {{ $cnt := .Count }}
+				{{ with $page.Site.GetPage (printf "/kategorien/%s" $c) }}
+					<a href="{{ .RelPermalink }}" class="mtn mtn__group mtn--space-cadet">
+						<span class="mtn__text">{{ $c }}</span>
+						<span>({{ $cnt }})</span>
+					</a>
+				{{ end }}
+			{{ end }}
+		{{ end }}
+	</div>
+</div>
