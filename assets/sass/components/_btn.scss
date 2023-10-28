@@ -123,6 +123,10 @@
 	padding: 1.5rem;
 	margin-top: 3rem;
 
+	&:hover { transform: translateY(-1rem); }
+
+	&:active { transform: translateY(.5rem); }
+
 	&__long {
 		display: flex;
 		justify-content: space-between;
