@@ -23,9 +23,13 @@
 	}
 
 	&__svg {
-		width: 50%;
+
+		&-wide { width: 50%; }
+
+		&-long { width: 35%;}
 
 		@include respond(phone-land-lg) { display: none; }
+
 	}
 
 	&__text {
