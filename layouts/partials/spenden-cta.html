@@ -7,9 +7,9 @@
 		<p class="cta__chunk cta__chunk--white">
 			Auch kleine Spenden können eine grosse Wirkung erzielen.
 		</p>
-		<div class="support__options-btns">
+		<div class="mtn__spenden-group">
 			{{ range .Site.Data.partials.support.donation }}
-				<button class="mtn mtn--celadon support__options-btn snipcart-add-item"
+				<button class="mtn mtn__spenden mtn--celadon snipcart-add-item"
 					data-item-id="{{ .id }}"
 					data-item-price="{{ .price }}"
 					data-item-url="{{ $.RelPermalink }}"

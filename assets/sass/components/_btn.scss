@@ -133,9 +133,24 @@
 		align-items: center;
 	}
 
+	&__spenden {
+		font-size: $font-default;
+		width: 40%;
+
+		&-group {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: space-around;
+			width: 100%;
+		}
+	}
+
 	&__group { &:not(:last-child) { margin-right: 3rem; } }
 
 	&__text { margin-right: 1rem; }
+
+	&__svg { height: 2.4rem; }
 
 	&--jonquil {
 		border: 2px solid $jonquil;
@@ -181,6 +196,4 @@
 
 		&:active { box-shadow: 0.5rem 0.5rem rgba(53, 130, 128, 0.65); }
 	}
-
-	&__svg { height: 2.4rem; }
 }
