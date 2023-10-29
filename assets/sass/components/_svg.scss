@@ -11,4 +11,10 @@
 		width: 5rem;
 		@include respond(phone-xl) { display: none; }
 	}
+
+	&__klassenzimmer { width: 200%; }
+
+	&__support { width: 60%; }
+
+	&__spenden { width: 75%; }
 }

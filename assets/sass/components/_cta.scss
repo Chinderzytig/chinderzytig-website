@@ -23,13 +23,28 @@
 	}
 
 	&__svg {
+		width: 45%;
+		display: flex;
+		justify-content: center;
 
-		&-wide { width: 50%; }
-
-		&-long { width: 35%;}
+		@include respond(tab-port-xl){
+			width: 55%;
+			justify-content: flex-end;
+		}
 
 		@include respond(phone-land-lg) { display: none; }
 
+		&-flex-end {
+			@include respond(tab-port-xl){
+				justify-content: flex-end;
+			}
+		}
+
+		&-flex-start {
+			@include respond(tab-port-xl){
+				justify-content: flex-start;
+			}
+		}
 	}
 
 	&__text {
@@ -41,5 +56,7 @@
 	&__chunk {
 		text-align: justify;
 		margin-top: 3rem;
+
+		&--white { color: $white; }
 	}
 }

@@ -1,0 +1,24 @@
+<div class="cta cta__info cta--verL">
+	<div class="cta__svg cta__svg-flex-start">
+		{{ partial "svgs/piggy-bank.html" }}
+	</div>
+	<div class="div cta__text">
+		<h2 class="deading deading__cta deading--white">Spenden</h2>
+		<p class="cta__chunk cta__chunk--white">
+			Auch kleine Spenden können eine grosse Wirkung erzielen.
+		</p>
+		<div class="support__options-btns">
+			{{ range .Site.Data.partials.support.donation }}
+				<button class="mtn mtn--celadon support__options-btn snipcart-add-item"
+					data-item-id="{{ .id }}"
+					data-item-price="{{ .price }}"
+					data-item-url="{{ $.RelPermalink }}"
+					data-item-description="Als Unterstützung der zukünftigen, besser informierten Kinder und Jugendlichen"
+					data-item-image="{{ $.Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png"
+					data-item-name="{{ .label }} Spende an Chinderzytig">
+					{{ .label }}
+				</button>
+			{{ end }}
+		</div>
+	</div>
+</div>

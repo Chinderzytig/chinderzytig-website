@@ -167,5 +167,20 @@
 		&:active { box-shadow: 0.5rem 0.5rem rgba(46, 49, 66, 0.65); }
 	}
 
+	&--celadon {
+		border: 2px solid $celadon;
+		box-shadow: 0.8rem 0.8rem $celadon;
+
+		&:link,
+		&:visited {
+			border: 2px solid $celadon;
+			text-decoration: none;
+		}
+
+		&:hover { box-shadow: 1.1rem 1.1rem $celadon; }
+
+		&:active { box-shadow: 0.5rem 0.5rem rgba(53, 130, 128, 0.65); }
+	}
+
 	&__svg { height: 2.4rem; }
 }
