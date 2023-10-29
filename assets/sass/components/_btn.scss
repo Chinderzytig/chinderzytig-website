@@ -135,13 +135,13 @@
 
 	&__spenden {
 		font-size: $font-default;
-		width: 40%;
+		width: 45%;
 
 		&-group {
 			display: flex;
 			flex-direction: row;
 			flex-wrap: wrap;
-			justify-content: space-around;
+			justify-content: space-between;
 			width: 100%;
 		}
 	}
