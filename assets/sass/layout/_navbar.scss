@@ -58,10 +58,9 @@
 
 		&-text {
 			font-weight: bold;
-			width: 45%;
+			width: 30%;
 
-			@include respond(lap-xl) { width: 35%; }
-			@include respond(lap-xl) { width: 45%; }
+			@include respond(lap-xl) { width: 40%; }
 			@include respond(tab-land) { width: 55%; }
 			@include respond(tab-port-sm) {
 				font-size: 1.5rem;
