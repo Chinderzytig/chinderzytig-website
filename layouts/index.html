@@ -42,7 +42,9 @@
 	</div>
 
 	<div class="cta cta__info">
-		{{ partial "svgs/klassenzimmer.html" }}
+		<div class="cta__svg cta__svg-flex-end">
+			{{ partial "svgs/klassenzimmer.html" }}
+		</div>
 		<div class="cta__text">
 			<h2 class="deading deading__cta deading--black">Chinderzytig in ihrem Klassenzimmer</h2>
 			<p class="cta__chunk">
@@ -82,5 +84,6 @@
 
 	{{ partial "thema_cta.html" (dict "attr" . "categories" "false") }}
 
-	{{- partial "support_us.html" . -}}
+	{{ partial "support_us_cta.html" }}
+
 {{end}}
