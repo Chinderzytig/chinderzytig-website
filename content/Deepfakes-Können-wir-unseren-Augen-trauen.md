@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "Spezialeffekte_AM_amcqnh"
+arbeitsmaterial = ""
 artikel = true
 author = "Kiruthihan Srikaran"
 cc_licence = ""
