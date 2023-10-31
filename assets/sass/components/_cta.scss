@@ -10,6 +10,8 @@
 	&--pinkL { @include cta-type($pink, left, $space-cadet); }
 	&--pinkR { @include cta-type($pink, right, $space-cadet); }
 
+	&--lernpfad { background-color: $russian-violet; }
+
 	&__flex-arnd {
 		display: flex;
 		justify-content: space-around;
