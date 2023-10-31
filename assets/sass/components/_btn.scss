@@ -196,4 +196,24 @@
 
 		&:active { box-shadow: 0.5rem 0.5rem rgba(53, 130, 128, 0.65); }
 	}
+
+	&__footer {
+		color: $platinum;
+		border: 2px solid $platinum;
+		box-shadow: 0.8rem 0.8rem $platinum;
+		background-color: $davy-grey;
+		font-size: $font-default;
+		margin-top: 0;
+
+
+		&:link,
+		&:visited {
+			border: 2px solid $platinum;
+			text-decoration: none;
+		}
+
+		&:hover { box-shadow: 1.1rem 1.1rem $platinum; }
+
+		&:active { box-shadow: 0.5rem 0.5rem rgba(230, 229, 226, 0.65); }
+	}
 }
