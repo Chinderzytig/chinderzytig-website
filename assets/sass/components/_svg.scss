@@ -23,4 +23,12 @@
 	&__lernpfad { width: 90%; }
 
 	&__verein { width: 80%; }
+
+	&__social {
+		stroke: $platinum;
+		text-decoration: none;
+		width: 4rem;
+
+		&:not(:last-child) { margin-right: 2rem; }
+	}
 }

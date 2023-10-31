@@ -1,9 +1,9 @@
 .social-icon {
-	fill: $chinder-platinum;
+	stroke: $platinum;
 	text-decoration: none;
 
 	&:active,
-		&:hover { fill: $chinder-verdigris; }
+		&:hover { stroke: $chinder-verdigris; }
 
 	&:not(:last-child) { margin-right: 1rem; }
 }
