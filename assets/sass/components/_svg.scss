@@ -12,6 +12,10 @@
 		@include respond(phone-xl) { display: none; }
 	}
 
+	&__money {
+		width: 5rem;
+	}
+
 	&__klassenzimmer { width: 200%; }
 
 	&__support { width: 70%; }
@@ -30,5 +34,9 @@
 		width: 4rem;
 
 		&:not(:last-child) { margin-right: 2rem; }
+	}
+
+	&__snipcart {
+		width: 3rem;
 	}
 }
