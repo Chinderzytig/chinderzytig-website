@@ -1,8 +1,8 @@
 .single {
 
-	&__container { padding: 3rem; }
-
-	&__image {
+	&__photo {
+		background-color: $verdigris;
+		padding: 3rem 0;
 		display: flex;
 		justify-content: center;
 		margin-bottom: 4rem;
@@ -13,9 +13,14 @@
 			align-items: baseline;
 		}
 
+		&-img {
+			box-shadow: 2rem 2rem $celadon;
+		}
+
 		&-caption {
 			display: flex;
 			align-items: center;
+			padding-left: 3rem;
 		}
 	}
 
@@ -28,7 +33,7 @@
 	}
 
 	&__image-photographer {
-		color: $social-base;
+		color: $white;
 		font-size: 1.3rem;
 	}
 
