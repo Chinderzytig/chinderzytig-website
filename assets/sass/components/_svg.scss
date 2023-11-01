@@ -7,8 +7,16 @@
 		padding: .5rem;
 	}
 
-	&__coffee {
+	&__slogan {
+		width: 9.5rem;
+		height: 7.5rem;
+
+		@include respond(phone-xxl) { display: none; }
+	}
+
+	&__banner {
 		width: 5rem;
+
 		@include respond(phone-xl) { display: none; }
 	}
 
@@ -23,4 +31,16 @@
 	&__lernpfad { width: 90%; }
 
 	&__verein { width: 80%; }
+
+	&__social {
+		stroke: $platinum;
+		text-decoration: none;
+		width: 4rem;
+
+		&:not(:last-child) { margin-right: 2rem; }
+	}
+
+	&__snipcart {
+		width: 3rem;
+	}
 }

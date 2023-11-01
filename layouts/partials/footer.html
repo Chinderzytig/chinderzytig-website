@@ -1,6 +1,6 @@
 <footer class="footer">
 	<div class="footer__newsletter">
-		{{ partial "newsletter.html" (dict "type" "footer") }}
+		{{ partial "newsletter.html" }}
 	</div>
 	<div class="footer__content">
 		<div class="footer__row">
@@ -14,7 +14,7 @@
 			<div class="footer__social">
 				<div class="footer__heading">Folgen Sie Uns</div>
 				<div class="footer__svgs">
-					{{- partial "svgs/social_svgs.html" . -}}
+					{{ partial "svgs/social-svgs.html" }}
 				</div>
 			</div>
 		</div>
@@ -33,52 +33,4 @@
 			</div>
 		</div>
 	</div>
-
-
-
-	<!-- <div class="footer__middle">
-		<div class="footer__middle-container">
-			<ul class="footer__column footer__column--heavy">
-				{{ range .Site.Data.partials.footer.column_one }}
-				<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
-				{{ end }}
-			</ul>
-			<ul class="footer__column footer__column--normal">
-				{{ range .Site.Data.partials.footer.column_two}}
-					<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
-				{{ end }}
-			</ul>
-			<ul class="footer__column footer__column--normal">
-				{{ range .Site.Data.partials.footer.column_three}}
-					<li class="footer__column-item"><a href="{{ .link }}" class="footer__column-link">{{ .label }}</a></li>
-				{{ end }}
-			</ul>
-		</div>
-	</div>
-	<div class="footer__bottom">
-		<div class="footer__bottom-left">
-			<a href="https://www.schweizermedien.ch/medienkompetenz/angebote-netzwerkpartner" class="footer__partner">
-				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_200/v1595591559/logos/sm_grey_sx76sk.png" alt="Schweizer Medien logo" class="footer__partner-logo" >
-				<div class="footer__partner-line"></div>
-				<ul class="footer__partner-list">
-					<li class="footer__partner-text">Offizieller</li>
-					<li class="footer__partner-text">Netzwerkpartner</li>
-					<li class="footer__partner-text">Verband</li>
-				</ul>
-			</a>
-			<a href="https://www.keystone-sda.ch/home" class="footer__partner">
-				<img src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:good,w_200/v1595591559/logos/keystone_bjobdv.png" alt="Keystone SDA logo" class="footer__partner-logo" >
-				<div class="footer__partner-line"></div>
-				<ul class="footer__partner-list">
-					<li class="footer__partner-text">Offizielle</li>
-					<li class="footer__partner-text">Informationspartnerschaft</li>
-				</ul>
-			</a>
-		</div>
-		<div class="footer__bottom-right">
-			<div class="footer__social-group">
-				{{- partial "svgs/social_svgs.html" . -}}
-			</div>
-		</div>
-	</div> -->
 </footer>

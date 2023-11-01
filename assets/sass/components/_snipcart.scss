@@ -1,33 +1,16 @@
 .snipcart {
 	display: flex;
-	justify-content: flex-end;
-
 	&-modal__container { z-index: 3000; }
-
-	&__cart:active,
-	&__cart:hover,
-	&__account:active,
-	&__account:hover { fill: #6C685D; }
 }
 
 .snipcart-overwrite {
-	display: flex;
-	border: none;
-	background-color: #fff;
 	cursor: pointer;
-
-	&.snipcart-checkout,
-	&.snipcart-customer-signin {
-		border: none;
-		background-color: #fff;
-		cursor: pointer;
-	}
 
 	&.snipcart-checkout {
 		display: flex;
 		flex-direction: column-reverse;
 		align-items: center;
-		margin-right: 1rem;
+		margin-right: 2rem;
 	}
 
 	&.snipcart-items-count {
@@ -37,6 +20,7 @@
 		background-color: #a21017;
 		padding: .5rem 1rem;
 		border-radius: 10rem;
+		margin-bottom: .4rem;
 	}
 
 	&.snipcart--signin { align-self: flex-end; }

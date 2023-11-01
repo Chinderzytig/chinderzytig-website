@@ -1,4 +1,5 @@
 .newsletter {
+	color: $platinum;
 	display: flex;
 	justify-content: center;
 
@@ -7,32 +8,10 @@
 		align-items: center;
 	}
 
-	&--nav,
-	&--footer {
-		input[type=email],
-		input[type=email]::placeholder {
-			color: inherit;
-			font-family: inherit;
-			font-size: inherit;
-		}
-	}
-
-	&--nav {
-		color: $social-base;
-		background-color: $chinder-cultured;
-		height: 5rem;
-
-		input[type=email] { @include newsletter-field($color-white, $social-base); }
-	}
-
-	&--footer {
-		color: $chinder-platinum;
-		input[type=email] { @include newsletter-field($footer-light, $chinder-platinum);}
-	}
-
-	&__form {
+	&__container {
 		display: flex;
 		padding: 2rem 0 .5rem 0;
+		align-items: baseline;
 
 		@include respond(phone-xxl) {
 			flex-direction: column;
@@ -41,26 +20,39 @@
 		}
 	}
 
-	&__container { display: flex; }
-
 	&__heading {
 		margin-right: 1.5rem;
 		margin-top: .5rem;
 		text-transform: uppercase;
 
-		&--footer { font-weight: 500; }
-
 		@include respond(phone-xxl) { margin: 0 0 1rem 0; }
 	}
 
-	&__group {
+	&__form {
+		display: flex;
+
+		input[type=email] {
+			font-family: inherit;
+			font-size: inherit;
+			color: inherit;
+			background-color: $davy-grey;
+			border: 2px solid $platinum;
+			border-radius: 0;
+			box-shadow: 0.7rem 0.7rem $platinum;
+			padding: 1rem;
+
+			&:focus { outline: none; }
+		}
+
+		input[type=email]::placeholder { color: inherit; }
+	}
+
+	&__field {
 		width: 30rem;
 
 		@include respond(phone-xxl) { width: 25rem; }
 
-		&-field { padding: .5rem 1rem; }
-
-		&-field:placeholder-shown + &-label {
+		&-input:placeholder-shown + &-label {
 			opacity: 0;
 			visibility: hidden;
 			transform: translateY(-2rem);
@@ -68,7 +60,7 @@
 	}
 
 	&__submit {
-		margin-left: 2rem;
+		margin-left: 4rem;
 		align-self: flex-start;
 	}
 }
@@ -78,20 +70,20 @@ form#mc-embedded-subscribe-form.validate.newsletter__form {
 	padding-bottom: 0;
 }
 
-div#mc_embed_signup_scroll.newsletter__group {
+div#mc_embed_signup_scroll.newsletter__field {
 
-	input#mce-EMAIL.newsletter__group-field {
+	input#mce-EMAIL.newsletter__field-input {
 			width: 30rem;
 
 			@include respond(phone-xxl) { width: 25rem; }
 	}
 
-	label.newsletter__group-label {
+	label.newsletter__field-label {
 		font-size: 1.2rem;
 		padding-bottom: 0;
 		text-align: left;
 		display: block;
-		margin-left: 1.2rem;
+		margin: .8rem 0 0 1.2rem;
 		transition: all .3s;
 	}
 }

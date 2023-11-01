@@ -8,17 +8,6 @@
 	border-#{$bs}: 2.5rem solid $bc;
 }
 
-@mixin newsletter-field($bg-color, $border-color) {
-	background-color: $bg-color;
-	border: 2px solid $border-color;
-	border-radius: 0;
-
-	&:focus {
-		outline: none;
-		border: 2px solid $chinder-verdigris;
-	}
-}
-
 // 1em = 16px
 
 @mixin respond($breakpoint) {
