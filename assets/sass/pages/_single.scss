@@ -7,15 +7,13 @@
 		justify-content: center;
 		margin-bottom: 4rem;
 
-		&-group {
+		&-container {
 			display: flex;
 			flex-direction: column;
 			align-items: baseline;
 		}
 
-		&-img {
-			box-shadow: 2rem 2rem $celadon;
-		}
+		&-img { box-shadow: 2rem 2rem $celadon; }
 
 		&-caption {
 			display: flex;
