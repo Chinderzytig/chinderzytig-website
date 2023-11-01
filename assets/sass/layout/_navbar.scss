@@ -65,6 +65,11 @@
 		}
 	}
 
+	&__shopping {
+		@extend .nav__slogan;
+		padding-right: $margin-s;
+	}
+
 	&__banner {
 		background-color: $jonquil;
 		height: 3.5rem;
