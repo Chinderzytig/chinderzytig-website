@@ -6,3 +6,9 @@ $(document).ready(function() {
 		$('html, body').animate({scrollTop: $('.js-section-comments').offset().top}, 1000);
 	});
 });
+
+window.addEventListener("load",function() {
+  setTimeout(function(){
+		window.scrollTo(0, 1);
+  }, 0);
+});
