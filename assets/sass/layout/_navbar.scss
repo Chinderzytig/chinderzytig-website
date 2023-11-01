@@ -46,22 +46,19 @@
 	}
 
 	&__slogan {
-		width: 40%;
+		width: 45%;
 		display: flex;
 		justify-content: flex-end;
 		align-items: center;
 
 		&-text {
 			font-weight: bold;
-			width: 30%;
+			width: 25rem;
 
-			@include respond(lap-xl) { width: 40%; }
-			@include respond(tab-land) { width: 55%; }
-			@include respond(tab-port-sm) {
+			@include respond(tab-port-xs) {
 				font-size: 1.5rem;
-				width: 60%;
+				width: 20rem;
 			}
-			@include respond(phone-xxl) { width: 80%; }
 
 			&--orange { color: $orange; }
 			&--verdigris {color: $verdigris; }
