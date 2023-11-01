@@ -8,7 +8,7 @@
 				<img src="{{ .Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png" alt="Chinderzytig logo" class="nav__logo-image">
 			</a>
 		</div>
-		{{ if eq .URL "/angebote/" }}
+		{{ if eq .RelPermalink "/angebote/" }}
 			<div class="nav__slogan">
 				{{partial "svgs/snipcart.html" }}
 			</div>
@@ -22,7 +22,7 @@
 		{{ end }}
 	</div>
 	<div class="nav__banner">
-		{{ if eq .URL "/angebote/" }}
+		{{ if eq .RelPermalink "/angebote/" }}
 			{{ partial "svgs/coins.html" }}
 			<div class="nav__banner-text">
 				Du machst uns ganz schön aufgeregt! <b>Weiter so!</b>
