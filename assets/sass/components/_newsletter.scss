@@ -35,10 +35,12 @@
 			font-family: inherit;
 			font-size: inherit;
 			color: inherit;
+			-webkit-appearance: none;
 			background-color: $davy-grey;
 			border: 2px solid $platinum;
 			border-radius: 0;
 			box-shadow: 0.7rem 0.7rem $platinum;
+			-webkit-box-shadow: 0.7rem 0.7rem $platinum;
 			padding: 1rem;
 
 			&:focus { outline: none; }

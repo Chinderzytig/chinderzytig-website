@@ -200,6 +200,7 @@
 	&__footer {
 		color: $platinum;
 		border: 2px solid $platinum;
+		-webkit-appearance: none;
 		box-shadow: 0.8rem 0.8rem $platinum;
 		background-color: $davy-grey;
 		font-size: $font-default;
