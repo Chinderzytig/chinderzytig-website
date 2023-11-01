@@ -46,23 +46,24 @@
 	}
 
 	&__slogan {
-		width: 45%;
+		width: 40%;
 		display: flex;
 		justify-content: flex-end;
 		align-items: center;
 
-		@include respond(tab-port-xxl) { width: 40%; }
+		@include respond(tab-port-xxl) { width: 80%; }
 
 		&-text {
 			font-weight: bold;
-			width: 25rem;
+			width: 30rem;
 
-			@include respond(tab-port-xs) {
+			@include respond(lap-xl) { width: 40%; }
+			@include respond(tab-land) { width: 55%; }
+			@include respond(tab-port-sm) {
 				font-size: 1.5rem;
-				width: 20rem;
+				width: 60%;
 			}
-
-			@include respond(tab-port-xxl) { width: 10rem; }
+			@include respond(phone-xxl) { width: 80%; }
 
 			&--orange { color: $orange; }
 			&--verdigris {color: $verdigris; }
