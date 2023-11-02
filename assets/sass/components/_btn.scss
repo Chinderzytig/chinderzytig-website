@@ -113,6 +113,7 @@
 		margin-top: $margin-m;
 	}
 }
+// --------------------------New styles-----------------------------------------
 
 .mtn {
 	font-family: $font-spartan;
@@ -121,7 +122,6 @@
 	background-color: $white;
 	cursor: pointer;
 	padding: 1.5rem;
-	margin-top: 3rem;
 
 	&:hover { transform: translateY(-1rem); }
 
@@ -133,7 +133,11 @@
 		align-items: center;
 	}
 
-	&__group { &:not(:last-child) { margin-right: 3rem; } }
+	&__group {
+		margin-top: $margin-s;
+
+		&:not(:last-child) { margin-right: $margin-s; }
+	}
 
 	&__text { margin-right: 1rem; }
 
@@ -187,6 +191,8 @@
 	&__spenden {
 		font-size: $font-default;
 		width: 45%;
+
+		&:nth-child(n+3) { margin-top: $margin-s; }
 
 		&-group {
 			display: flex;

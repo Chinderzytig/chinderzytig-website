@@ -19,8 +19,9 @@ body {
 	font-family: $font-amatic;
 	font-size: 5rem;
 	line-height: 5rem;
+	margin-bottom: $margin-s;
 
-	&__card-list { margin-bottom: 0; }
+	&__list { margin-bottom: 0; }
 
 	&__cta { @include respond(phone-land-lg) { text-align: center; } }
 

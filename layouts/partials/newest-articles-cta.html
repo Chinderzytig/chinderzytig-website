@@ -1,0 +1,26 @@
+<div class="cta cta--verL">
+	<h2 class="deading deading--white">Neuste Artikel</h2>
+	<div class="card__container card__container-list">
+		{{ $set3 := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
+		{{ $set4 := where .Site.Pages ".Params.kfk" false }}
+		{{ $new := $set3 | intersect $set4 }}
+
+		{{ range first 1 $new.ByDate.Reverse }}
+			{{ partial
+				"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__land"
+				"cardColor" "card--celadon" "showCase" "false")
+			}}
+		{{ end }}
+
+		{{ range first 8 (after 1 $new.ByDate.Reverse) }}
+			{{ partial
+				"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__port"
+				"cardColor" "card--celadon" "showCase" "false")
+			}}
+		{{ end }}
+		<a href="/alle-artikel" class="card card__port card--celadon card__btn">
+			{{ partial "svgs/arrow-right-circle.html" . }}
+			<div class="card__btn-text card__btn--celadon">Alle Artikel</div>
+		</a>
+	</div>
+</div>
