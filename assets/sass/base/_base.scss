@@ -34,7 +34,7 @@ main {
 	margin: 0 auto;
 	margin-top: 13rem;
 
-	@include respond(tab-land) { padding: 0 3rem; }
+	// @include respond(tab-land) { padding: 0 3rem; }
 
 	@include respond(tab-port-sm) { padding: 0; }
 

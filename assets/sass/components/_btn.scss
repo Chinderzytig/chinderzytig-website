@@ -133,19 +133,6 @@
 		align-items: center;
 	}
 
-	&__spenden {
-		font-size: $font-default;
-		width: 45%;
-
-		&-group {
-			display: flex;
-			flex-direction: row;
-			flex-wrap: wrap;
-			justify-content: space-between;
-			width: 100%;
-		}
-	}
-
 	&__group { &:not(:last-child) { margin-right: 3rem; } }
 
 	&__text { margin-right: 1rem; }
@@ -195,6 +182,26 @@
 		&:hover { box-shadow: 1.1rem 1.1rem $celadon; }
 
 		&:active { box-shadow: 0.5rem 0.5rem rgba(53, 130, 128, 0.65); }
+	}
+
+	&__spenden {
+		font-size: $font-default;
+		width: 45%;
+
+		&-group {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			width: 100%;
+		}
+	}
+
+	&__thema {
+		font-size: 1.3rem;
+		padding: .8rem;
+
+		&:not(:first-child) { margin-left: 2rem; }
 	}
 
 	&__footer {

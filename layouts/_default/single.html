@@ -21,18 +21,19 @@
 			</figcaption>
 		</figure>
 	</div>
+
 	<div class="single__content">
 		<div class="singe__content-frontmatter">
 			<div class="single__taxonomies">
 				{{ if .Params.kategorien }}
-				{{ range (.GetTerms "kategorien") }}
-				<a href="{{ .Permalink }}" class="marker marker--article">{{ .LinkTitle }}</a>
-				{{ end }}
+					{{ range (.GetTerms "kategorien") }}
+						<a href="{{ .Permalink }}" class="mtn mtn--jonquil">{{ .LinkTitle }}</a>
+					{{ end }}
 				{{ end }}
 				{{ if .Params.markierungen }}
-				{{ range (.GetTerms "markierungen") }}
-				<a href="{{ .Permalink }}" class="marker marker--article">{{ .LinkTitle }}</a>
-				{{ end }}
+					{{ range (.GetTerms "markierungen") }}
+						<a href="{{ .Permalink }}" class="mtn mtn__thema mtn--jonquil">{{ .LinkTitle }}</a>
+					{{ end }}
 				{{ end }}
 			</div>
 			<h2 class="heading heading--article">{{ .Params.title }}</h2>
@@ -49,8 +50,8 @@
 			</div>
 			{{ partial "svgs/article_svgs.html" . }}
 		</div>
-		<div class="single__content-article">{{ .Content }}</div>
 
+		<div class="single__content-article">{{ .Content }}</div>
 	</div>
 
 {{ partial "support_us_cta.html" }}
