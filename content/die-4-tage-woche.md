@@ -21,7 +21,7 @@ title = "Die 4-Tage-Woche"
 
 _In Island arbeiten viele Menschen nur noch vier Tage in der Woche anstatt fünf. Sie erhalten gleich viel Lohn, haben aber einen Tag mehr frei. Auch in der Schweiz haben jetzt Diskussionen über diese neuen Arbeitszeiten begonnen. Doch was bringt diese neue Aufteilung?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _In Island arbeiten viele Menschen nur noch vier Tage in der Woche anstatt fünf
 
 <li>Mit einem Tag mehr Freizeit können alle zum Beispiel einem neuen Hobby nachgehen oder mehr Zeit mit der Familie verbringen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Forscher\*innen in Island haben herausgefunden, dass sich der menschliche Körper mit mehr Freizeit besser fühlt. Das bedeutet, dass man gesünder ist und auch bei der Arbeit mehr leisten kann. Aus diesem Grund haben sie eingeführt, dass die Menschen nur noch vier anstatt fünf Tage in der Woche arbeiten müssen. In der Schweiz gibt es viele Politiker*innen die sich jetzt auch für eine kürzere Arbeitswoche einsetzen. Momentan ist es natürlich an den meisten Arbeitsorten möglich Teilzeit zu arbeiten. Das bedeutet, dass man beispielsweise nur zwei Tage arbeitet. Der Unterschied zu Island ist aber, dass man so auch nur den Lohn für diese beiden Tage erhält. Mit der 4-Tage-Woche würde der Lohn gleichbleiben.
 

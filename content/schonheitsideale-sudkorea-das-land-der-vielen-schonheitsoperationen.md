@@ -21,7 +21,7 @@ title = "Schönheitsideale - Südkorea, das Land der vielen Schönheitsoperation
 +++
 _Was sind typische Schönheitsideale in Korea und wie unterscheiden sie sich von unseren? Diese und weitere spannende Fakten über koreanische Schönheitsideale erfährst du in folgendem Artikel._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Was sind typische Schönheitsideale in Korea und wie unterscheiden sie sich von
 
 <li>Damit Koreaner*innen das Schönheitsideal erreichen können, entscheiden sich viele dazu Schönheitsoperationen am Gesicht durchzuführen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Runde Augen, gerade Nase, schmales Gesicht, blasse Haut - das sind die Merkmale des südkoreanischen Schönheitsideals. Die jungen Frauen des Landes sehen es in den Medien bei der K-Pop-Prominenz. Ihre sorgenden Eltern halten es ihnen vor. Und die K-Beauty-Industrie (Koreanische-Beauty-Industrie) selbst beeinflusst sie natürlich auch.
 

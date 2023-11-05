@@ -22,7 +22,7 @@ Die Fernsehmoderatorin Marina Owsjannikowa aus Russland hat sich im russischen S
 
 Wieso es zu dieser speziellen Szene kam und wieso sich die Moderatorin damit in Gefahr brachte, erfährst du im nachstehenden Bericht.
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -34,7 +34,7 @@ Wieso es zu dieser speziellen Szene kam und wieso sich die Moderatorin damit in 
 
 <li>Ein Blick in die Geschichte Russlands zeigt, dass seit dem Jahr 1825 die Meinungsäusserungs- und Pressefreiheit stets eingeschränkt war. Einzige Ausnahme war eine kurze Phase von 1991- 1999.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Es ist nicht neu, dass in Russland {{< fremdwort id="Meinung" wort="Meinungsäusserungs-">}}und{{< fremdwort id="Pressefreiheit" wort="Pressefreiheit">}}nicht gewährleistet sind. Ein Blick in die Vergangenheit zeigt, dass die Einschränkung der Meinungsäusserungs- und Pressefreiheit seit langer Zeit ein wichtiges Merkmal der russischen Geschichte ist.
 

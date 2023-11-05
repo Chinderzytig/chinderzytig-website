@@ -22,7 +22,7 @@ title = "Honigbienen – Was ist besonders an ihnen?"
 _In diesem Artikel erfährst du etwas über Bienen, vor allem über die Honigbiene.
 Du wirst sehen, wie wichtig sie für unser Ökosystem ist und was sie so besonders macht._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -34,7 +34,7 @@ Du wirst sehen, wie wichtig sie für unser Ökosystem ist und was sie so besonde
 
 <li>Honigbienen bestäuben fast 80 % aller Natur- und Wildpflanzen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Bienen erzeugen leckeren Honig. Doch das ist noch lang nicht alles: Vielen ist die Bedeutung der Bienen für unsere Gesellschaft nicht bewusst. Zusätzlich tragen sie als Bestäuberinsekten einen besonders grossen Beitrag zu unserem Ökosystem bei. Aber was genau macht sie so wichtig?
 

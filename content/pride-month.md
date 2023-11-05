@@ -20,7 +20,7 @@ title = "Pride Month  "
 +++
 _Der Monat Juni wird jedes Jahr besonders bunt: Regenbogenflaggen werden geschwungen und Regenbogenmotive werden aufs Gesicht geschminkt oder auf der Kleidung getragen. Paraden ziehen durch die Strassen und Protestaktionen werden organisiert. Im Juni findet der alljährliche_ _{{< fremdwort id="Pride-Month" wort="Pride-Month" >}}_ _statt. Weshalb dieser im Juni ist und welchen Zweck der Pride-Month hat, erfährst du im Artikel._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -30,7 +30,7 @@ _Der Monat Juni wird jedes Jahr besonders bunt: Regenbogenflaggen werden geschwu
 
 <li>Seit 27 Jahren findet das Pridefestival in Zürich statt. Es ist Teil des Pride-Month. Es soll auf die Rechte der {{< fremdwort id="LGBTIQ+" wort="LGBTIQ+" >}} aufmerksam gemacht werden. Dazu gehören auch die sogenannten Pride-Weeks, in welchen verschiedene Freizeitangebote rund um LGBTIQ+ gemacht werden.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### So ist der Pride-Month entstanden
 

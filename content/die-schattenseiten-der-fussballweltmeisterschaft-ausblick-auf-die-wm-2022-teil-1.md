@@ -20,7 +20,7 @@ title = "Die Schattenseiten der Fussballweltmeisterschaft: Ausblick auf die WM 2
 +++
 _Der Anpfiff der diesjährigen Fussballweltmeisterschaft ist am 21. November in Katar. Auf dieses sportliche Grossereignis bereitet sich der Wüstenstaat Katar seit Jahren vor. Fussballstadien und Hotels werden errichtet. Immer wieder steht die Weltmeisterschaft in der Kritik. Einige fordern Fussballfans und Teams dazu auf, nicht am Turnier teilzunehmen. Doch weshalb steht die WM noch vor ihrem Beginn in den Schlagzeilen? Wie problematisch sind Durchführung und Teilnahme?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Der Anpfiff der diesjährigen Fussballweltmeisterschaft ist am 21. November in 
 
 <li>Teams und Fussballfans überlegen sich, wie sie ein Zeichen setzen können.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Menschenrechtsverletzungen
 
@@ -46,7 +46,7 @@ Die Menschenrechtsorganisationen machen neben dem Staat Katar auch den Weltfussb
 
 Auf die Situation in Katar wollte auch die deutsche Nationalmannschaft aufmerksam machen. Während eines WM- Qualifikationsspiels gegen Island betraten die Spieler den Rasen mit T- Shirts, auf welchen «human rights» (auf Deutsch «Menschenrechte») stand. Ob Teams wegen den Verletzungen der Menschenrechte nicht an den Spielen teilnehmen und sie **boykottieren** werden, wird sich zeigen.
 
-{{< info-box >}} <h3>Glossar</h3>
+{{< important-points >}} <h3>Glossar</h3>
 
 <ul>
 
@@ -56,7 +56,7 @@ Auf die Situation in Katar wollte auch die deutsche Nationalmannschaft aufmerksa
 
 <li>**Boykott / boykottieren:** Mit einem Boykott möchte man zeigen, dass man mit bestimmten Verhaltensweisen von Personen, Firmen oder auch Regierungen nicht einverstanden ist. Indem man sie nicht beachtet, möchte man sie zum Umdenken bewegen oder auch bestrafen. Es handelt sich also um ein geplantes Druckmittel, das eine Änderung erzwingen soll.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 {{< teiler >}}
 

@@ -20,7 +20,7 @@ title = "Denk-mal! "
 +++
 _Sie stehen auf der ganzen Welt: Denkmäler. Das sind Statuen, Gebäude, Objekte, etc. die einer Person gewidmet sind oder an ein Ereignis oder eine bestimmte Zeit erinnern. Doch wer entscheidet, wer ein solches Denkmal erhält? Und was passiert, wenn sich herausstellt, dass dieses nicht mehr in die heutige Zeit passt?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Sie stehen auf der ganzen Welt: Denkmäler. Das sind Statuen, Gebäude, Objekte
 
 <li>Wer ein Denkmal erhält, das wird von Land zu Land unterschiedlich geregelt. In der Schweiz entscheiden die Behörden auf Bundes-, Kantons- oder Gemeindeebene.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 In der letzten Zeit waren Denkmäler öfters in den Zeitungen, und zwar nicht unbedingt im positiven Sinne. Vielerorts haben Gruppen gefordert, dass Statuen entfernt werden, die aus einer früheren Zeit stammen und an Personen erinnern, die aus heutiger Sicht nicht mehr geehrt werden sollten, weil sie zum Beispiel frauenfeindliche oder rassistische Meinungen vertreten. Das ist zum Beispiel in den USA passiert, wo Denkmäler aus der Zeit des Bürgerkriegs entfernt wurden. Der Norden der USA kämpfte damals gegen die Südstaaten, wo Sklaverei einen wichtigen Teil der Gesellschaft bildete. Auch bei uns in der Schweiz wird protestiert. Zum Beispiel wurde im Berner Schulhaus Wylergut ein Wandbild übersprayt, das eine Schwarze Person als „Neger“ im ABC darrstellte. Auch Strassennamen mussten schon angepasst werden, weil sie aus heutiger Sicht nicht mehr in Ordnung waren.
 

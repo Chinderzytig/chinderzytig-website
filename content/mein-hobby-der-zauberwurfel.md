@@ -21,7 +21,7 @@ title = "Mein Hobby: Der Zauberwürfel"
 +++
 _Jeder kennt den Zauberwürfel. Ein Würfel mit sechs verschiedenen Farben und sechs Seiten, die frei rotieren können. Doch nur wenige können ihn eigentlich lösen. Denn, wenn du die Bewegungen nicht kennst, scheint es unmöglich auf jeder Seite die richtige Farbe zu haben._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Jeder kennt den Zauberwürfel. Ein Würfel mit sechs verschiedenen Farben und s
 
 <li>2018 wurde der Zauberwürfel in unter 4 Sekunden gelöst.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Welche Methoden gibt es denn?
 

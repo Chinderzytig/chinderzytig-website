@@ -21,7 +21,7 @@ title = "Herz und Lunge"
 +++
 _In diesem Artikel erfährst du, wie das Herz und die Lunge funktionieren und wieso ausgerechnet diese beiden Organe so wichtig sind._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _In diesem Artikel erfährst du, wie das Herz und die Lunge funktionieren und wi
 
 <li>Die Lunge ermöglicht die Atmung und sorgt dafür, dass der Sauerstoff aus der Atemluft in das Blut und damit in den gesamten Körper gelangt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Das Herz und die Lunge umsorgen unseren Körper ohne Unterbruch. Das Herz ist dafür zuständig, unseren Blutkreislauf am Laufen zu halten. Die Lunge benötigen wir, damit sie unseren Körper mit genügend Sauerstoff versorgt.
 

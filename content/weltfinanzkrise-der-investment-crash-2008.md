@@ -21,7 +21,7 @@ title = "Weltfinanzkrise – Der Investment Crash 2008"
 +++
 _Vor knapp 15 Jahren kam es zu einer der grössten Wirtschaftskrisen der Welt und der grössten Krise seit der grossen Depression in den 1930er Jahren. Die Krise startete zwar in den USA, breitete sich aber schnell auf die ganze Welt aus. Dabei verloren Tausende ihre Ersparnisse und sogar ihr Zuhause._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Vor knapp 15 Jahren kam es zu einer der grössten Wirtschaftskrisen der Welt un
 
 <li>Als viele Menschen ihre Kredite dann nicht mehr bezahlen konnten, gingen viele Banken in Konkurs.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Die Finanzmärkte wurden gegen Ende des 20. Jahrhunderts und zu Beginn des 21. Jahrhunderts, angetrieben durch die Digitalisierung und die Internationalisierung des Bankenwesens, immer komplizierter und undurchsichtiger. Banken kauftenimmer gefährlichere und riskantere Anlagen und gaben sie an ihre Kunden weiter. Dies führte schliesslich dazu, dass in den USA eine der grössten Banken Konkurs anmelden musste. Doch wie konnte es so weit kommen? Und wer waren schliesslich die Leidtragenden?
 

@@ -20,7 +20,7 @@ title = "Hauptsache „retro“"
 +++
 _Warum etwas neu erfinden, wenn es auch mit alt Bewährtem geht? Man könnte meinen, in der Musik, im Film und in der Mode würde heute nur noch nach diesem Motto gearbeitet. Dieser Eindruck ist vielleicht gar nicht so falsch. „Retro“ liegt im Trend. Und hat ein ganz klares Muster._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Warum etwas neu erfinden, wenn es auch mit alt Bewährtem geht? Man könnte mei
 
 <li>Retro funktioniert, weil es vertraut und doch überraschend ist.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Vorab wollen wir klären, was „retro“ eigentlich heisst. Der Begriff kommt aus der lateinischen Sprache. Er bedeutet „rückwärts (gewandt)“. In der Mode bedeutet das, dass man sich an früheren Stilen orientiert, dass man diese nachmacht oder in ähnlicher Form wieder bringt. Aktuell sind zum Beispiel Schlaghosen wieder angesagt. Die sind oben schmal und unten weit. Die Schlaghosen wurden in der Hippie-Zeit der 70er Jahre weltberühmt. Und sie feierten bereits in den 90er Jahren ein Revival. Damals vor allem in der Techno-Szene, schrill und farbig. Ebenfalls wieder in den Schaufenstern zu sehen: die Rollschuhe der 80er Jahre – also diejenigen mit zwei Rollen vorne und zwei Rollen hinten und einem „Stopper“ vorne am Schuh. Wieso diese Rollschuhe plötzlich wieder in sind? Vielleicht weil sich die Käufer*innen gerne in ihre Jugend zurückversetzen lassen und in Erinnerungen schwelgen möchten?
 

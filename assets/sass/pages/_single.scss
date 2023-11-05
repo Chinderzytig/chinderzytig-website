@@ -63,14 +63,15 @@
 		margin: $margin-s 0;
 
 		h3 {
-			font-size: 3rem;
 			font-family: $font-amatic;
+			color: $orange;
+			font-size: 3.5rem;
 			margin-bottom: 1.5rem;
 		}
 
 		p, li {
 			text-align: justify;
-			margin-bottom: $margin-s;
+			margin-bottom: 1.5rem;
 		}
 
 		a { color: $chinder-verdigris; }
@@ -95,14 +96,5 @@
 				@include respond(phone-md) { height: 20rem; }
 			}
 		}
-	}
-
-
-	&__info-box {
-		background-color: $cta-azure;
-		padding: 2rem;
-		margin-bottom: 3rem;
-
-		li { margin-bottom: 0; }
 	}
 }

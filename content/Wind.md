@@ -20,7 +20,7 @@ title = "Es zieht"
 +++
 _Ende Februar erlebte man in der Schweiz an verschiedenen Orten starke Windböen des Sturms “Roxana”. So wurden Gebäude beschädigt und Flugzeuge konnten teils erst verzögert landen. Der Wind ist ein fester Bestandteil des wilden Wetters. Doch woher kommt er eigentlich?_
 
-{{< info-box >}}
+{{< important-points >}}
 <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
@@ -34,7 +34,7 @@ _Ende Februar erlebte man in der Schweiz an verschiedenen Orten starke Windböen
 <li>Die Stärke des Windes ist für viele Bereiche ein wichtiger Fakto</li>
 
 </ul>
-{{< /info-box >}}
+{{< /important-points >}}
 
 Es “zieht”, “chutet” oder windet - den Wind kennt man (je nach Dialekt) unter vielen Namen. Der Wind beeinflusst unsere Welt und uns auf verschiedene Wege: Er trocknet unsere Kleider, lässt uns an kalten Wintertagen schlottern, stösst Schiffe durchs Wasser, transportiert Hitze und Feuchtigkeit - die Liste ist lang. Wir schauen uns an, wieso es den Wind überhaupt gibt - und warum er wichtig ist.
 

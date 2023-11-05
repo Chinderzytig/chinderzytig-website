@@ -20,7 +20,7 @@ title = "Leichtathletik Weltmeisterschaften"
 +++
 _Im Juli finden die Weltmeisterschaften der Leichtathletik statt, zum ersten Mal in den USA. Welche Wettkämpfe werden zu sehen sein? Wer sind die Favorit*innen und wer hat sich aus der Schweiz qualifiziert? Und warum steht der Event und die Sportart selbst in der Kritik?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -38,7 +38,7 @@ _Im Juli finden die Weltmeisterschaften der Leichtathletik statt, zum ersten Mal
 
 <li>Live im TV auf ARD, ZDF und SRF (Achtung: Zeitverschiebung beachten).</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Die Weltmeisterschaften der Leichtathletik hätten ursprünglich im August 2021 stattfinden sollen. Da die olympischen Sommerspiele in Tokio jedoch wegen der Corona Pandemie ins Jahr 2021 verschoben wurden, musste die Weltmeisterschaft (WM) um ein Jahr verrückt werden. Deshalb wird sie nun vom 15. Juli bis 24. Juli in Eugene, Oregon (USA) ausgetragen.
 

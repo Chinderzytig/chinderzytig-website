@@ -21,7 +21,7 @@ title = "Wo sich Angebot und Nachfrage gegenüberstehen"
 _Wenn sich ein Anbieter an den anderen reiht und alle hoffen, die Besuchenden für ihr Produkt zu überzeugen, dann befindet man sich möglicherweise an einer Messe. Meistens kommt dann noch der Duft nach Magenbrot oder von einem Grillstand hinzu. Was es mit der ganzen Fülle an Messen auf sich hat? – dieser Frage geht der folgende Artikel auf den Grund._
 
   
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Wenn sich ein Anbieter an den anderen reiht und alle hoffen, die Besuchenden f�
 
 <li>Eine der bekanntesten Messen in der Schweiz ist die OLMA. Sie ist die schweizweit grösste Publikumsmesse und findet seit 1943 fast jährlich statt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Eine Messe bietet einen Mehrwert für anbietende und nachfragende Personen. Waren und Dienstleistungen werden an einer Messe von Produzenten oder Verkäufern präsentiert, erklärt oder/und verkauft. Gleichzeitig kann sich der Nachfrager ein Bild der Marktsituation machen und die Vor- und Nachteile der Waren und Dienstleistungen kennenlernen.
 

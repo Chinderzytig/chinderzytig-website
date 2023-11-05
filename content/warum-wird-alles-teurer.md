@@ -21,7 +21,7 @@ title = "Warum wird alles teurer?"
 +++
 _Die Preise für viele Produkte sind in den letzten Jahren stark gestiegen. Lebensmittel zum Beispiel kosten einiges mehr als noch vor zwei Jahren. Doch warum ist das so?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Die Preise für viele Produkte sind in den letzten Jahren stark gestiegen. Lebe
 
 <li>Die Gründe für die Inflation sind sehr unterschiedlich und werden auch von äusseren Einflüssen wie beispielsweise der Corona Pandemie oder dem Krieg beeinflusst.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Plötzlich kostet ein Brot mehr Geld als früher. Wie lässt sich das erklären? Der Grund dafür, dass so viele Produkte teuer geworden sind, nennt sich „Inflation“. Das Wort „Inflation“ kommt ursprünglich aus dem Lateinischen und bedeutet „aufblähen“. Kommt es in der Wirtschaft zu einer Inflation, blähen sich also die Preise auf. Eine Inflation beginnt meist damit, dass zum Beispiel Brot schneller eingekauft wird, als der Bäcker oder die Bäckerin die Brote backen kann. Das kann daran liegen, dass die Menschen mehr Geld in ihrem Portemonnaie haben. Das passiert beispielsweise, wenn sie mehr Lohn für ihre Arbeit erhalten. Die Bäcker*innen erhöhen den Preis des Brotes, weil sie nicht so schnell backen können. Vielleicht müssen sie deswegen auch mehr Mitarbeitende einstellen und auch diesen Personen Lohn bezahlen.
 

@@ -21,7 +21,7 @@ title = "Gibt es jetzt einen Weltkrieg?"
 +++
 _Der Krieg in der Ukraine weitet sich auf Polen aus. Ein Versehen oder Absicht? Ein Ausrutscher oder der Beginn des 3. Weltkrieges? Der Raketeneinschlag in Polen erinnert an Mani Matters “Zündhölzli”. Hoffentlich entzündet es sich nicht._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -35,7 +35,7 @@ _Der Krieg in der Ukraine weitet sich auf Polen aus. Ein Versehen oder Absicht? 
 
 <li>Text.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 In Polen ist eine Rakete eingeschlagen und hat zwei Menschenleben gekostet. Die Raketen wurden offenbar in Russland hergestellt, allerdings werden sie auch von der Ukraine benützt.
 

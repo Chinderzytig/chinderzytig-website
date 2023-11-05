@@ -22,7 +22,7 @@ _Südkorea ist ein Land mit vielen guten Seiten. Das Land hat weltweit die meist
 
 _Südkorea hat etwa 50 Millionen Einwohnerinnen und Einwohner und der Graben zwischen Arm und Reich wird immer grösser._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -34,7 +34,7 @@ _Südkorea hat etwa 50 Millionen Einwohnerinnen und Einwohner und der Graben zwi
 
 <li>Der Unterschied zwischen Arm und Reich wird aber nicht nur Südkorea, sondern auf der ganzen Welt grösser.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Die Arbeiterklasse des Landes hat es nicht leicht. In Südkorea gelten lange Arbeitszeiten, ein harter Wettbewerb und eine hohe Armutsquote. Viele haben ungeregelte Arbeitsverhältnisse und Arbeitslose und Menschen, die Hilfe brauchen, haben nur ein schwaches Sozialsystem zu ihrer Unterstützung. Doch wie ist es in diesem Land so weit gekommen?
 

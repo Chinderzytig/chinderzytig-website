@@ -21,7 +21,7 @@ title = "Bunt, bunter, Ostereier"
 +++
 _Bald ist wieder Ostern und viele Kinder bemalen fleissig Eier. Für viele ist Ostern kein richtiges Fest, wenn sie sich nicht mit der Familie auf Ostereiersuche machen können. Doch woher kommt diese Tradition?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Bald ist wieder Ostern und viele Kinder bemalen fleissig Eier. Für viele ist O
 
 <li>Die Tradition des Eieranmalens ist schon sehr alt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Ostern hat etwas mit der Kirche und dem Christentum zu tun. Doch wie war das nochmals ganz genau? Am Karfreitag, dem Freitag vor Ostern, sei Jesus Christus gekreuzigt worden. Dieser Tag gilt deshalb als trauriger Tag. Die Kirchenglocken hören auf zu läuten und ertönen erst am Ostersonntag wieder. Dann sei Jesus nämlich wieder auferstanden und die Christen und Christinnen feiern die Auferstehung von Jesus.
 

@@ -21,7 +21,7 @@ title = "Streik in Hollywood"
 
 _In Hollywood wurde in den letzten Monaten gestreikt. Doch worum ging es? Was sind die Folgen und wie geht es nun nach den Streiks weiter?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _In Hollywood wurde in den letzten Monaten gestreikt. Doch worum ging es? Was si
 
 <li>Drehbuchautor*innen-Streik führte zu einem weiteren Streik von Schauspielenden.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Im Juli dieses Jahres gingen Autorinnen und Autoren von verschiedensten Film, Serien und Fernsehshows gemeinsam auf die Strasse in Hollywood. Ihre Forderungen: Bessere Arbeitsverhältnisse und eine Regelung der KI-Nutzung in der Branche.
 

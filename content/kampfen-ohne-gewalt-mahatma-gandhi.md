@@ -21,7 +21,7 @@ title = "Kämpfen ohne Gewalt – Mahatma Gandhi"
 +++
 _Mahatma Gandhi gehört zu den grossen Idolen der Menschheitsgeschichte. Mit seinen Methoden des gewaltlosen Widerstands setzte er sich für die Unabhängigkeit seines Landes von Grossbritannien ein und wurde für viele Menschen zum Vorbild._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Mahatma Gandhi gehört zu den grossen Idolen der Menschheitsgeschichte. Mit sei
 
 <li>Durch den friedlichen Widerstand wollte Gandhi das Herz des Gegners wecken. Er glaubte, dass das wirksamer sei, als mit Waffen zu drohen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Bis 1947 herrschte Grossbritannien über Indien, denn es war eine von den Briten unterworfene Kolonie. Die Briten unterdrückten die indische Bevölkerung durch ungerechte Gesetze. (Kolonialismus bedeutet, dass ein fremdes Land ein anderes erobert, es ausbeutet und die Bevölkerung dort unterdrückt. Die einheimische Bevölkerung ist abhängig vom fremden Land.)
 

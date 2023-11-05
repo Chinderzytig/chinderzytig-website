@@ -20,7 +20,7 @@ title = "Philosophieren, was heisst denn das? "
 +++
 _„Was ist der Sinn des Lebens“ – Diese Frage oder eine ähnliche Frage hast du bestimmt bereits einmal gehört. Doch was ist die Antwort auf so eine umfassende Frage und welche Menschen beschäftigen sich mit diesen Fragen?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _„Was ist der Sinn des Lebens“ – Diese Frage oder eine ähnliche Frage has
 
 <li>Philosophische Fragen kennen kein richtig oder falsch.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Philosophieren - Hast du dieses Wort schon einmal gehört? Sicherlich tönt das Wort ziemlich kompliziert. Doch was bedeutet eigentlich „philosophieren“? Menschen, die sich mit philosophischen Fragen auseinandersetzen, nennt man Philosophen oder Philosophinnen. Philosophische Fragen sind Fragen, die kein richtig oder falsch kennen. Das tönt ja zuerst einmal ganz gut, denn wie toll wäre es, wenn all meine Antworten nicht falsch sein könnten? Ganz so einfach ist es aber leider nicht. Philosophische Fragen sind nämlich meistens sehr schwierige Fragen, mit denen man sich lange Zeit beschäftigen kann. Übersetzt heisst Philosophie „Liebe zur Weisheit“. Das passt sehr gut, denn das Wichtigste für einen guten Philosophen oder für eine gute Philosophin ist, dass er oder sie sich gerne mit sich und der Umwelt beschäftigt. Es ist wichtig, neugierig zu sein und Dinge zu hinterfragen.
 

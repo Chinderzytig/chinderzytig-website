@@ -21,7 +21,7 @@ title = "Welterfolg: Koreanische Filme und Serien"
 +++
 _Unter den grossen Filmfans galt Südkorea schon länger als Land für eine spannende und künstlerische starke Filmwelt. Nachdem die koreanische Pop-Musik die Welt erobert hatte, wurden mit dem preisgekrönten Film_ Parasites _und der erfolgreichen Serie_ Squid Games _auch die koreanischen Filmproduktionen weltberühmt._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Unter den grossen Filmfans galt Südkorea schon länger als Land für eine span
 
 <li>Die südkoreanischen Künstler*innen werden staatlich gefördert und unterstützt, weil ihre Erfolge auch dem Ansehen des Landes dienen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Jahrzehntelang war das Land eine japanische Kolonie, darauf folgte der Koreakrieg und die Militärdiktatur. Die südkoreanische Kultur wurde in dieser Zeit zu grossen Teilen vernichtet oder ganz einfach verboten. Die japanischen Filme, japanische Musik und japanische Kunst galten als überlegen und wertvoll, bevor dann unter militärischer Regierung jegliche Art von Kunst verschwanden. So scheint es ein Wunder, dass Südkorea heutzutage zu einer sogenannten kulturellen Weltmacht aufgestiegen ist und koreanische Musik sowie Filme und Serien international grösste Erfolge feiern.
 

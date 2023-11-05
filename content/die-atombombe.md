@@ -21,7 +21,7 @@ title = "Die Atombombe"
 
 _Die Erfindung der Atombombe ist ein entscheidender Moment in der Geschichte der Menschheit. Es war ein Triumph der wissenschaftlichen Innovation mit enormen Auswirkungen. Alles begann mit der dringenden Notwendigkeit, während des Zweiten Weltkriegs die Kernenergie zu erforschen. Das führte zum Manhattan-Projekt, einem beispiellosen wissenschaftlichen Unterfangen, und führte zu einem komplexen und dauerhaften Vermächtnis._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -35,7 +35,7 @@ _Die Erfindung der Atombombe ist ein entscheidender Moment in der Geschichte der
 
 <li>Heute wird versucht das Arsenal an Atombomben abzubauen, da diese zu einer weltweit riesigen Zerstörung führen können.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Die Idee
 

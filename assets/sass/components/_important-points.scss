@@ -1,0 +1,12 @@
+.important-points {
+	margin-bottom: 3rem;
+
+	&__container {
+		background-color: $white;
+		box-shadow: 0.8rem 0.8rem $celadon;
+		padding: 2rem;
+
+		li { margin-bottom: 0; }
+	}
+
+}

@@ -20,7 +20,7 @@ title = "Traditionssport Schwingen "
 +++
 _Der Schweizer Traditionssport Schwingen erlebt seit einigen Jahren einen Aufschwung und gewinnt wieder an Beliebtheit. Die Nachfrage an Tickets zu Schwingfesten ist enorm gestiegen._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Der Schweizer Traditionssport Schwingen erlebt seit einigen Jahren einen Aufsch
 
 <li>Das Eidgenössische Schwingfest findet alle 3 Jahre statt. Dieses Jahr findet eines in Pratteln statt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Die Geschichte des Schwingsports – Vom Hirtensport zum Spitzensport
 

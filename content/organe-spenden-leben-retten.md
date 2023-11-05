@@ -21,7 +21,7 @@ title = "Organe spenden – Leben retten"
 +++
 _Über 1400 Menschen in der Schweiz haben ein krankes Organ, zum Beispiel ein krankes Herz, eine kranke Leber oder Niere. Durch eine Organspende können diese Menschen gerettet werden. Doch es gibt in der Schweiz nicht genug Menschen, die sich für eine Spende zur Verfügung stellen. Warum ist das so und was kann man dagegen tun?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Über 1400 Menschen in der Schweiz haben ein krankes Organ, zum Beispiel ein kr
 
 <li>Die Schweizer Bevölkerung hat letztes Jahr ein Gesetz angenommen. Damit wird künftig jeder Mensch als mögliche:r Spender:in betrachtet, wenn er nicht ausdrücklich NEIN sagt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 In der Schweiz muss ein Mensch mit einem kranken Organ im Durchschnitt fast ein Jahr warten, bis ein passendes gesundes Organ gefunden wird. Für einige Menschen ist das zu lange. Sie sterben, bevor ihnen ein gesundes Organ gespendet und eingesetzt werden konnte. Es gibt verschiedene Arten von Spenden.
 

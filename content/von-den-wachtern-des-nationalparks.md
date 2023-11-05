@@ -20,7 +20,7 @@ title = "Von den Wächtern des Nationalparks"
 +++
 _Holz ist das Arbeitsmaterial des Schreiners und der Schreinerin. Unberührte Natur und Wildnis- das ist die Arbeitsumgebung der Nationalparkwächter*innen. Die Schreiner*innen bauen Holzschränke und Tische. Welche Aufgaben zum Beruf der Nationalparkwächter*innen gehören, erfährt ihr in diesem Artikel._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Holz ist das Arbeitsmaterial des Schreiners und der Schreinerin. Unberührte Na
 
 <li>Mit Fernrohr und Wildkameras halten sie unberührte Natur im Auge.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Der schweizerische Nationalpark ist über hundert Jahre alt und damit der älteste Nationalpark der Alpen. Seit dem Jahr 1914 wird die Natur auf einer Fläche von 170 Quadratkilometern sich selbst überlassen. Im Nationalpark ist nämlich weder Skifahren noch Pilze sammeln noch Biken erlaubt. Das Einzige, was man im Nationalpark machen kann, ist vom Wanderweg die Natur und die Wildtiere zu beobachten. Es geht darum, die Natur, die Wildnis und die Vielfalt unberührt zu belassen. Auch deshalb kann man im Nationalpark so viele Wildtiere wie sonst an fast keinem anderen Ort in der Schweiz beobachten. Die Biodiversität, die man im Nationalpark beobachten kann, ist einmalig. Damit die Natur in Ruhe walten kann gibt es neun Nationalparkwächter. Sie sorgen dafür, dass die Regeln, die im Nationalpark gelten, eingehalten werden. Mit unterschiedlichen Messstationen werden zudem Daten erhoben und Tierbestände werden regelmässig von den Wächtern gezählt.
 

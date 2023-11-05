@@ -21,7 +21,7 @@ title = "Die Schule in Südkorea"
 +++
 _Die Schulen in der Schweiz und die in Südkorea sind auf den ersten Blick ähnlich. Die Abstufung in Primarschule, Sekundarstufe und Gymnasium sind gleich. Jedoch gelten die koreanischen Schulen als die strengsten der Welt._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Die Schulen in der Schweiz und die in Südkorea sind auf den ersten Blick ähnl
 
 <li>Die Abschlussprüfungen beeinflussen das öffentliche Leben.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 In Südkorea sind gute Noten und der spätere Besuch einer Universität sehr wichtig. Darum müssen sich alle Schüler*innen sehr anstrengen und viel lernen. Es ist üblich, dass die Kinder nach der Schule noch ein Zentrum für Nachhilfe (Hagwon) besuchen. Fast alle gehen dahin, sogar die Kinder mit guten Noten.
 

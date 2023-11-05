@@ -20,7 +20,7 @@ title = "Schneller als mein Ton "
 +++
 _"Concorde", ein Begriff, den du vielleicht schon mal gehört hast. Heute schauen wir uns die Überschall- Fliegerei etwas genauer an. Wird sie ein Comeback erleben?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _"Concorde", ein Begriff, den du vielleicht schon mal gehört hast. Heute schaue
 
 <li>Werden wir bald die Rückkehr der Überschallflüge erleben?</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Als Erstes frischen wir uns kurz im Bereich Physik auf; der Begriff "Überschall" bedeutet, dass sich etwas schneller als die Schallgeschwindigkeit bewegt - sprich: es bewegt sich schneller als sein Ton (“Schall”). Wenn man jetzt noch das "Flug"-Element hinzufügt, hat man den Überschallflug. Das gibt es tatsächlich - Flugzeuge, die schneller fliegen, als ihr Ton sich durch die Luft bewegt. Und nicht nur Kampfjets!
 

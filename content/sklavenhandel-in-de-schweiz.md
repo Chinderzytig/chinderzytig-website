@@ -20,7 +20,7 @@ title = "Sklavenhandel in der Schweiz"
 +++
 _Heute findet weltweit der internationale Tag der Erinnerung an den Sklavenhandel und dessen Abschaffung statt. Die Sklaverei scheint heute unvorstellbar. Menschen wurden wie Ware behandelt: Sie wurden angekettet, verschifft und verkauft. Wie entstand die Sklaverei? Wann wurde der Sklavenhandel abgeschafft und gab es in der Schweiz auch Sklaven und Sklavinnen?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -36,7 +36,7 @@ _Heute findet weltweit der internationale Tag der Erinnerung an den Sklavenhande
 
 <li>Die Schweiz hatte zwar keine Sklav*innen, war am Sklavenhandel aber beteiligt. Sie besass Sklavenplantagen im Ausland oder zahlte Geld für den Sklaventransport.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Der internationale Tag zur Erinnerung an den Sklavenhandel und an dessen Abschaffung ist ein Gedenktag, der im Jahr 1998 von der UNESCO erklärt wurde. Die UNESCO ist eine Organisation der Vereinten Nationen. Sie bestimmte dieses Datum für den Gedenktag, weil am 23. August im Jahr 1791 die Sklav*innen vom heutigen Haiti einen Aufstand machten und als erstes Kolonialland unabhängig wurden.
 

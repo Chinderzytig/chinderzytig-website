@@ -21,7 +21,7 @@ title = "Der Erste Weltkrieg"
 +++
 _Der Erste Weltkrieg hat im Jahr 1914 begonnen und dauerte bis 1918. Doch wer kämpfte gegen wen? Und wie wurde dieser Krieg ausgelöst?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Der Erste Weltkrieg hat im Jahr 1914 begonnen und dauerte bis 1918. Doch wer k�
 
 <li>Während des Krieges sind rund neun Millionen Soldaten und mehr als sechs Millionen Bürgerinnen und Bürger gestorben.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Die Zeit vor dem ersten Weltkrieg sah anders aus als heute. In Europa gab es weniger Länder, aber diese waren viel grösser als heute. Wie zum Beispiel Österreich-Ungarn (heute sind das zwei Länder). Während dieser Zeit wollten alle Länder immer grösser und mächtiger sein als alle anderen. Es gab also wirklich einen ständigen Machtkampf zwischen vielen unterschiedlichen Ländern. Die Stimmung war durchgehend angespannt.
 

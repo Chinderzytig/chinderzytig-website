@@ -20,7 +20,7 @@ title = "Regen in Australien "
 +++
 _Australien - ein Land, das man eher mit Hitzewellen und Trockenheit verbindet, erlebte an seiner Ostküste kürzlich Rekordniederschläge. Dies führte zu gewaltigen Überschwemmungen und zahlreichen Todesopfern. Wie kann es zu solchen Katastrophen kommen?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Australien - ein Land, das man eher mit Hitzewellen und Trockenheit verbindet, 
 
 <li>Die jüngsten Ereignisse haben die öffentliche Diskussion über die Klimaerwärmung intensiviert.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Der Osten Australiens wurde im März von rekordbrechenden Regenfällen heimgesucht. Die durch den Regen verursachten Überschwemmungen haben Zehntausende von Menschen aus ihren Häusern gezwungen und zahlreiche Todesopfer gefordert.
 

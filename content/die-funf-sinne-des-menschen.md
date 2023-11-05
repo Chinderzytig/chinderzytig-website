@@ -21,7 +21,7 @@ title = "Die fünf Sinne des Menschen"
 +++
 _Du hast sicher einen Lieblingsgeruch wie zum Beispiel frisch gebackene Kekse oder frische Blumen. Aber wie können wir überhaupt riechen und welche anderen sogenannten „Sinne“ hat unser Körper ausserdem noch?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Du hast sicher einen Lieblingsgeruch wie zum Beispiel frisch gebackene Kekse od
 
 <li>Das grösste Sinnesorgan ist die Haut, damit können wir fühlen und tasten.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Zurück zu den leckeren Keksen und den frischen Blumen: Wie riechen wir eigentlich? Das Sinnesorgan Nase ist für die Wahrnehmung von allerhand Gerüchen verantwortlich. In deiner Nase sitzen unzählbar viele Sinneszellen, die alle Gerüche überprüfen. Danach senden die Zellen die Ergebnisse der Überprüfung an unser Gehirn weiter. Das ist wichtig, weil wir so wissen können, ob zum Beispiel Milch sauer ist oder das Essen verdorben.
 

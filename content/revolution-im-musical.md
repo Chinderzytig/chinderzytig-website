@@ -20,7 +20,7 @@ title = "Revolution im Musical"
 +++
 _Das Musical Hamilton ist ein grosser Erfolg. Seit Oktober 2022 wird das Stück in Hamburg erstmals in deutscher Sprache aufgeführt. Das Musical erzählt von der Revolution, welche zur Entstehung der heutigen USA führte. Gleichzeitig ist an dem Musical selbst alles neu und anders. Es ist eine Revolution in der Welt der Musicals._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Das Musical Hamilton ist ein grosser Erfolg. Seit Oktober 2022 wird das Stück 
 
 <li>Der Musikstil des Stücks orientiert sich an Rap und Hip-Hop, dies ist neu und eine Revolution in der Musical-Welt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Alexander Hamilton ist die Hauptfigur in dieser Geschichte. Er kam als einfacher Einwanderer aus der Karibik nach New York. Dies in der Zeit des Unabhängigkeitskrieges in Nordamerika, der zur Entstehung der heutigen USA führte. Weil er sehr gebildet, wortgewandt und ehrgeizig war, konnte er sich mit wichtigen Menschen aus der Politik in Verbindung setzen. Er heiratete die Tochter einer reichen Familie und sicherte so seine Stellung. Auf der 10-Dollar-Note ist heute sein Gesicht zu sehen.
 

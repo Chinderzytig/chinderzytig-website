@@ -21,7 +21,7 @@ title = "Ertrinken – Wie schütze/rette ich mich und andere?"
 
 _Am und im Wasser – vor allem in Flüssen und Seen, aber auch in der Badi – ist ein Ertrinkungsunfall schnell passiert. Am besten kommt es gar nicht erst dazu. Wenn doch, dann helfen dir folgende Tipps, um dich oder andere aus dem Wasser zu retten._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Am und im Wasser – vor allem in Flüssen und Seen, aber auch in der Badi – 
 
 <li>Beim Retten einer ertrinkenden Person: Als erstes weitere Retter*innen und den Notruf alarmieren und erst als allerletzte Möglichkeit selbst ins Wasser gehen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Am und im Wasser kannst du bereits sehr viel für deine eigene Sicherheit tun, indem du dich an die Regeln der SLRG hältst. Die je sechs Bade- und Flussregeln sind schnell gemerkt und einfach umzusetzen. Zudem ist es wichtig, mögliche Gefahren schon vor dem Baden zu erkennen und nie in trübe oder unbekannte Gewässer springen. Du kannst dich vor einem Ausflug an den Fluss oder an den See zum Beispiel bei der lokalen Tourismusbehörde, anwesenden Rettungsschwimmer\*innen, Bademeister\*innen oder lokalen Badegästen informieren. Falls es trotz aller Vorsicht zu einem Ertrinkungs-Unfall kommt, ist es wichtig zu wissen, dass Ertrinken ein Prozess ist, der jederzeit unterbrochen werden kann. Es werden gemeinhin fünf Phasen unterschieden:
 1. Ertrinken vorbeugen

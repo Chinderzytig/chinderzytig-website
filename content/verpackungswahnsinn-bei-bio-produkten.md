@@ -20,7 +20,7 @@ title = "Verpackungswahnsinn bei Bio-Produkten "
 +++
 _Wenn du im Lebensmittelgeschäft Bio-Produkte kaufst, tust du etwas Gutes für die Umwelt. Die Lebensmittel sind unbehandelt und der Anbau von Früchten und Gemüse ist umweltfreundlicher. Bio-Früchte und Bio-Gemüse sind jedoch fast immer in Plastikfolie eingepackt, wodurch beim Verbrauch mehr Plastikmüll entsteht. Das wiederum ist nicht gut für die Umwelt. Der Kauf von Bio-Früchten und Bio-Gemüse ist also ein Widerspruch in sich. Doch wieso ist das so?_
 
-{{< info-box >}}
+{{< important-points >}}
 
 <h3>Das Wichtigste in Kürze</h3>
 
@@ -36,7 +36,7 @@ _Wenn du im Lebensmittelgeschäft Bio-Produkte kaufst, tust du etwas Gutes für 
 
 </ul>
 
-{{< /info-box >}}
+{{< /important-points >}}
 
 ### Wieso sind Bio-Früchte und Bio-Gemüse in Plastik eingepackt?
 

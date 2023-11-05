@@ -21,7 +21,7 @@ title = "Das Schweizer Parlament – Teil 1"
 
 _Die Schweizer Bundesversammlung ist entscheidend, wenn es darum geht, wie die Politik in der Schweiz ausgestaltet wird. Das Schweizer Parlament, bestehend aus National- und Ständerat wird vom Schweizer Stimmvolk gewählt und hat deshalb eine grosse Verantwortung – nämlich die Interessen der Schweizer Gesellschaft zu vertreten._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Die Schweizer Bundesversammlung ist entscheidend, wenn es darum geht, wie die P
 
 <li>Die Nationalrat\*innen und Ständerat\*innen gehören zu unterschiedlichen Parteien.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Das Schweizer Bundeshaus befindet sich in Bern, in der Hauptstadt der Schweiz. Von dort aus wird die Schweiz regiert. Vom Bundesrat, bestehend aus 7 Mitgliedern, aber auch vom Schweizer Parlament. Es setzt sich aus dem National- und Ständerat zusammen und zählt insgesamt 246 Mitglieder. Der Nationalrat vertritt das Volk mit 200 Mitgliedern, während der Ständerat die Kantone mit 46 Mitgliedern repräsentiert. Die Sprache ist von Repräsentation, weil die Räte von der Schweizer Bevölkerung gewählt werden.
 

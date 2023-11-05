@@ -20,7 +20,7 @@ title = "Wer bin ich und wo komme ich her? "
 +++
 _Zum Erwachsenwerden gehört auch dazu, sich selbst zu finden. Wer bin ich, was kann ich, wohin will ich? Um diese Fragen zu beantworten ist es wichtig zu wissen, woher man kommt. Und genau das wissen Hunderte von Erwachsenen nicht, die als Kind illegal aus Sri Lanka in die Schweiz adoptiert wurden. Der Bund will Ihnen nun bei der Suche nach ihren Wurzeln helfen._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Zum Erwachsenwerden gehört auch dazu, sich selbst zu finden. Wer bin ich, was 
 
 <li>Nachdem die offizielle Schweiz den Betroffenen für das Geschehene ihr Bedauern ausgesprochen hat, will sie sie künftig bei der Suche nach ihrer Herkunft finanziell unterstützen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Es gehört zu den dunklen Kapiteln der jüngeren Schweizer Geschichte: in den 1970-er bis 1990-er Jahren wurden Hunderte Kinder aus Sri Lanka in die Schweiz adoptiert. Was gut gemeint war, entwickelte sich zu einem schmutzigen Geschäft. Babys wurden ihren Familien weggenommen, zum Beispiel wurde den Müttern nach der Geburt gesagt, ihr Baby sei verstorben, das lebende Kind wurden dann zur internationalen Adoption freigeben. Zudem gab es sogenannte Babyfarmen oder die Mütter erhielten wenige Dollar, wenn sie ihr Kind weggaben. Die Schweizer Eltern auf der anderen Seite bezahlten hohe Summen von 5’000-15’000 Franken.
 

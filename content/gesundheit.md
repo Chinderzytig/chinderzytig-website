@@ -24,7 +24,7 @@ Fürs neue Jahr wünschen wir uns gegenseitig viel Glück und gute Gesundheit.
 Doch was ist Gesundheit eigentlich? Woher kommt sie?
 
   
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -36,7 +36,7 @@ Doch was ist Gesundheit eigentlich? Woher kommt sie?
 
 <li>Er braucht dazu Nährstoffe, Luft und Wasser.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Gesundheit ist speziell, denn wenn sie da ist, fällt sie gar nicht auf.
 

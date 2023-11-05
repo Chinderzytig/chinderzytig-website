@@ -21,7 +21,7 @@ title = "Musik mit Geschichte"
 +++
 _Die Adventszeit hat begonnen. Und damit die Zeit der Gospelkonzerte. Was versteht man unter einem Gospelchor und weshalb treten sie gerade in der Weihnachtszeit so häufig auf? Wir nehmen dich mit auf eine Reise durch ein spannendes Stück Musikgeschichte._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Die Adventszeit hat begonnen. Und damit die Zeit der Gospelkonzerte. Was verste
 
 <li>Typische Merkmale von Gospelsongs sind Wiederholungen und Vorsänger*innen. Diese Vorsänger*innen singen eine Textzeile vor und der Chor oder das Publikum wiederholt dann den Text.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 „Oh Happy Day“, „Amazing Grace“ oder „Kumbaya“ – schon mal gehört? Bei all diesen Songs handelt es sich um Gospels. Gospels sind eine bestimmte Art von Songs. Es handelt sich um christliche Musik, die auf eine lange Geschichte zurückgeht. Der Begriff „Gospel“ kommt von den englischen Begriffen „good spell“. Was so viel heisst wie „Gute Nachricht“. Mit der „Guten Nachricht“ ist das Evangelium gemeint, die Botschaft der Religion des Christentums. In Gospelsongs wird diese „Gute Nachricht“ gefeiert. Oft sind Gospels auch Songs der Hoffnung und der Zuversicht. Das kommt daher, dass die meisten Gospelsongs auf die sogenannten „Spirituals“ zurückgehen. Diese wurden ursprünglich von Sklaven in Amerika gesungen.
 

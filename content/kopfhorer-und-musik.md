@@ -21,7 +21,7 @@ title = "Kopfhörer und Musik"
 +++
 _Heute ist es normal, dass wir unsere Lieblingsmusik unterwegs hören können. Nur war das früher nicht immer so. Seit wann gibt es denn eigentlich Kopfhörer? Wir können uns heute eine Welt ohne kaum vorstellen, aber das war die Realität von früher._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Heute ist es normal, dass wir unsere Lieblingsmusik unterwegs hören können. N
 
 <li>Musikstile durch die Jahre: Der Jazz war in den frühen 1910er Jahren sehr aktuell. Später war es Elvis Presley mit der Rockmusik. Ende der 90er Jahre war aber der Rap einer der beliebtesten Musikstile ebenso wie die Pop- oder Technomusik..</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Erste Kopfhörer tauchen auf
 

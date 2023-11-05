@@ -21,7 +21,7 @@ title = "Ein Jahr Krieg"
 +++
 _Vor einem Jahr begann der russische Krieg gegen die Ukraine, bei dem russische Streitkräfte und Separatisten die Kontrolle über ukrainisches Gebiet übernahmen. Der Konflikt hat zu anhaltender Gewalt, Vertreibung von Zivilisten und internationalen Spannungen geführt. Über die Wintermonate haben die Kämpfe etwas abgenommen. Doch mit dem Frühling und steigenden Temperaturen ist zu erwarten, dass beide Länder wieder Angriffe starten._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Vor einem Jahr begann der russische Krieg gegen die Ukraine, bei dem russische 
 
 <li>Heute sieht es nicht so aus, als ob eines der Länder den Krieg gewinnen könnte. Somit wird dieser wahrscheinlich erst enden, wenn sich die beiden Seiten einigen können.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Die erste Offensive
 

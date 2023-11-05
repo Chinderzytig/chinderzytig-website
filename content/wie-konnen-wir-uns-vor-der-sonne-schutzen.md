@@ -22,7 +22,7 @@ _Nun wird es immer wärmer, die Tage werden länger, die Schlangen bei den Eisdi
 
 Heute ist klar, dass die Sonne der Haut schaden kann. Früher war dies noch nicht bekannt und die Menschen schmierten sich gar nicht oder sogar mit Speiseöl ein, um möglichst schnell einen gebräunten Teint zu kriegen. Es gehörte dazu, dass die Haut nach dem Sonnenbaden rot war. In den 30er Jahren wurde erstmals eine Creme erfunden, die die UV-Strahlen filtern konnte – die sogenannte Delial-Salbe.
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -38,7 +38,7 @@ Heute ist klar, dass die Sonne der Haut schaden kann. Früher war dies noch nich
 
 <li>Schutzmassnahmen vor der Sonne: während der Mittagszeit nicht an die direkte Sonne, Sonnencrème mit UVA- und UVB-Schutz + hoher Lichtschutzfaktor, Hut und Sonnenbrille.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Wie entsteht ein Sonnenbrand?
 

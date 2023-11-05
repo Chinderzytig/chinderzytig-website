@@ -21,7 +21,7 @@ title = "Touristen auf dem Everest"
 
 _Die Frühlingssaison zur Besteigung des weltbekannten Mount Everest läuft wieder auf Hochtouren. Von April bis Juni versuchen wieder Hunderte den Gipfel zu erklimmen. Dieser Andrang bringt aber auch viele Gefahren mit sich._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Die Frühlingssaison zur Besteigung des weltbekannten Mount Everest läuft wied
 
 <li>Dieser Andrang führt zu vielen Gefahren für unerfahrene Bergsteiger*innen und für das Ökosystem des Himalayas.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Everest Tourismus
 

@@ -20,7 +20,7 @@ title = "Bewegen macht gesund "
 +++
 _Sich zu bewegen und Sport zu machen ist anstrengend. Neben der Schule, der Familie und Freunden ist es häufig nicht einfach sich für sportliche Aktivitäten zu motivieren. Sich an einen Trainingsplan zu halten ist herausfordernd. Vor allem der Einstieg ist oft etwas schwierig. Aber körperliche Aktivitäten bringen sehr viele Vorteile mit sich._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Sich zu bewegen und Sport zu machen ist anstrengend. Neben der Schule, der Fami
 
 <li>Dem Geist hilft regelmässiger Sport auch. Man kann sich unter anderem besser konzentrieren und schlafen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Es gibt immer mehr Beweise dafür, dass eine regelmässige körperliche Aktivität nicht nur dem Körper aber auch dem Geist zugutekommt. Zudem wird dabei das Risiko für viele Krankheiten verringert. Man kann sich besser konzentrieren, hat mehr Energie und ist auch glücklicher.
 

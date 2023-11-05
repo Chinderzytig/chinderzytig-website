@@ -20,7 +20,7 @@ title = "Leere Versprechungen "
 +++
 _Und es waren doch nur leere Versprechungen. Dass sich die Situation für die Frauen und Mädchen nicht verschlechtern würde, sagten die Taliban. Das war im vergangenen August, als die Taliban in Afghanistan wieder die Macht übernahmen. Leider sieht die Situation heute bereits ganz anders aus._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Und es waren doch nur leere Versprechungen. Dass sich die Situation für die Fr
 
 <li>Frauen müssen sich verschleiern und dürfen nicht mehr ohne Mann reisen. Mädchen dürfen nur noch bis zur 6. Klasse in die Schule gehen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Viele haben es befürchtet. Wenn die Taliban wieder an die Macht kommen, führen sie wieder die Gesetze ein, die vor allem die Rechte von Frauen und Mädchen einschränken. Schrittweise kommen immer mehr Einschränkungen dazu. Seit Anfang Mai müssen die Frauen wieder ihren ganzen Körper verschleiern. Nur die Augen darf man noch sehen. Zudem dürfen die Kleider nicht enganliegend sein. Die Taliban „empfehlen“ den Frauen deshalb, dass sie die Burka tragen. Die Burka ist ein Ganzkörper-Schleier, bei dem sogar die Augen noch mit einem Netz bedeckt sind. In Afghanistan ist die Burka oft hellblau.
 

@@ -21,7 +21,7 @@ title = "Graffiti: Eine historische und kulturelle Entdeckungsreise"
 
 _Graffiti, ist die Kunst des Hinterlassens von Spuren im öffentlichen Raum. Ihre Geschichte ist so vielfältig und reichhaltig wie die Farben, mit denen die Wände der Städte geschmückt sind. Von ihren antiken Ursprüngen bis zu ihrem heutigen Wiederaufleben waren Graffiti eine Ausdrucksform für Rebellion, Selbstdarstellung und städtische Kultur_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Graffiti, ist die Kunst des Hinterlassens von Spuren im öffentlichen Raum. Ihr
 
 <li>In der Schweiz gibt es eine starke Graffitikultur und es gibt legale Graffiti-Zonen, um die Kunst zu fördern.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Historische Graffities
 

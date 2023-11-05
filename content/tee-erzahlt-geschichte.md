@@ -22,7 +22,7 @@ title = "Tee erzählt Geschichte"
 _Viele von uns geniessen hin und wieder gerne eine Tasse Tee. Wenn ich von Tee schreibe, dann meine ich alles, was aus der Teepflanze hergestellt wird, wie grüner oder schwarzer Tee. Diese Blätter, welche uns hier und heute schöne und genussvolle Momente schenken, haben eine lange Geschichte und sie erzählen von unserer Vergangenheit._
 
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -34,7 +34,7 @@ _Viele von uns geniessen hin und wieder gerne eine Tasse Tee. Wenn ich von Tee s
 
 <li>Indien war eine britische Kolonie. Die Kolonialmacht hatte grossen Einfluss auf das Leben der Menschen und konnte über sie bestimmen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Tee wurde schon vor mehreren Jahrtausenden in der Region des heutigen Chinas angepflanzt und verarbeitet. Wie kam es dazu, dass dieses Produkt aus fernen Ländern zu uns nach Europa kam? Dies geschah zur Zeit des Imperialismus und des Kolonialismus im 18. und 19. Jahrhundert. Als die grossen europäischen Mächte wie die Niederlande und später Grossbritannien in die Welt hinauszogen, um sie zu erobern und um die Schätze Afrikas oder im Falle des Tees die Schätze Asiens nach Europa zu bringen.
 

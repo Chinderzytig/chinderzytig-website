@@ -20,7 +20,7 @@ title = "Händewaschen ist nicht Schnee von gestern "
 +++
 _Bakterien und Viren trifft man in der Umwelt überall an. Viele davon sind harmlos oder sogar lebenswichtig. Doch wie gehen wir mit denen um, die uns krank machen können?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -30,7 +30,7 @@ _Bakterien und Viren trifft man in der Umwelt überall an. Viele davon sind harm
 
 <li>Hygiene schützt dich vor Krankheiten.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Bakterien vs. Viren
 

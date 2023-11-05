@@ -20,7 +20,7 @@ title = "Wunderwerk Haut - darum ist Körperpflege wichtig!"
 +++
 _Unsere Haut ist das grösste Organ des menschlichen Körpers. Ihre Funktion ist es, unseren Körper zu schützen. Gleichzeitig ist sie aber sehr empfindlich und muss deswegen gut gepflegt werden._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -34,7 +34,7 @@ _Unsere Haut ist das grösste Organ des menschlichen Körpers. Ihre Funktion ist
 
 <li>Wie funktioniert Sonnenschutz?</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Funktionen der Haut
 

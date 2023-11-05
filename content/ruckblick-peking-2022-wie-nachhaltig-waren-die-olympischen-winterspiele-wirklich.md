@@ -20,7 +20,7 @@ title = "Rückblick Peking 2022 – Wie nachhaltig waren die Olympischen Winters
 +++
 _Seit dem Bekanntwerden der Klimakrise ist der Begriff „Nachhaltigkeit“ in aller Munde. Immer mehr Firmen und Veranstalter geben an, die natürlichen Ressourcen – die natürlichen Schätze unseres Planeten – erhalten zu wollen, damit auch zukünftige Generationen ihre Bedürfnisse befriedigen und ein gutes Leben führen können. Laut den Organisatoren der Olympischen Spiele in Peking sollten diese Winterspiele die „grünsten“ aller Zeiten werden. Wir blicken auf die vergangenen Spiele zurück und untersuchen, wie nachhaltig dieser sportliche Grossanlass wirklich war._
 
-{{< info-box >}}
+{{< important-points >}}
 
 <h3>Das Wichtigste in Kürze</h3>
 
@@ -36,7 +36,7 @@ _Seit dem Bekanntwerden der Klimakrise ist der Begriff „Nachhaltigkeit“ in a
 
 </ul>
 
-{{< /info-box >}}
+{{< /important-points >}}
 
 ### Was ist Nachhaltigkeit?
 

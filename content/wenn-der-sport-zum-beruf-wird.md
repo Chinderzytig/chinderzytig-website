@@ -20,7 +20,7 @@ title = "Wenn der Sport zum Beruf wird"
 +++
 _In der Turnstunde, am Sporttag oder im Turnverein ist Sport ein Ausgleich, willkommene Abwechslung zum Schulalltag und Durchlüften nach einem anstrengenden Tag. Für viele aber nimmt der Sport nicht wenige Stunden in der Woche ein, sondern bildet den Berufsalltag. Im folgenden Artikel erfahrt ihr, wie das Leben als Spitzensportler*in aussehen kann._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _In der Turnstunde, am Sporttag oder im Turnverein ist Sport ein Ausgleich, will
 
 <li>Tägliches Training, Herausforderungen und Verzicht gehören zum Leben im Spitzensport dazu.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Um Bäckerin oder Bäcker zu werden, macht man nach der schulischen Grundausbildung eine Lehre als Bäcker_in. Eine Maurerlehre macht man, um Maurer zu werden. Und so ist es auch bei fast allen anderen Berufen; man macht eine Lehre oder eine weiterführende Schule, um später einmal seinen Traumberuf ausüben zu können. Wie aber ist das beim Beruf Spitzensport? Um Spitzensportler_in zu werden macht man keine Lehre oder weiterführende Schule. Denn der Spitzensport an sich ist eine Lebensschule. Man lernt jeden Tag Neues über seinen Körper und seine mentalen Schwächen und Stärken, Niederlage und Erfolg. Diese Erfahrungen helfen einem dann in ähnlichen Situationen, indem man auf diese Erfahrungen zurückgreifen kann und weiss, wie man damit nun umgehen soll. Als Spitzensportlerin oder Spitzensportler verdient man nicht einen Lohn, der jeden Monat gleich ist. Um den Sport und das Leben finanzieren zu können, sind die Sportler_innen auf den Erfolg angewiesen. Es sind jedoch nur wenige Athleten_innen die sich den Alltag mit dem Sport finanzieren können. Daher machen viele gleichzeitig eine Ausbildung oder üben neben dem Training einen anderen Beruf aus.
 

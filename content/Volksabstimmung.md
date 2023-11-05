@@ -20,7 +20,7 @@ title = "Volksabstimmung "
 +++
 _In der Schweiz findet am 15. Mai 2022 die nächste Volksabstimmung statt. Alle stimmberechtigten Bürger und Bürgerinnen des Landes stimmen über drei Vorlagen ab. Worüber wird abgestimmt und was ist das Ziel der drei Vorlagen? Welches sind die jeweiligen Argumente dafür (pro) oder dagegen (contra)?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _In der Schweiz findet am 15. Mai 2022 die nächste Volksabstimmung statt. Alle 
 
 <li>Ziel der Verordnung über die Europäische Grenzwache: Die Schweiz soll der Agentur „Frontex“ mehr Geld und Arbeitskräfte gegeben werden.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 In der Eidgenössichen Volksabstimmung vom 15.5.22 gibt es diese drei Vorlagen, worüber abgestimmt wird:
 

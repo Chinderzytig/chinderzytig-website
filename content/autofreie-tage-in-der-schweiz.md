@@ -20,7 +20,7 @@ title = "Autofreie Tage in der Schweiz "
 +++
 _Im kleinen Städtli Laufen startete vergangenen Sonntag ein Pilotprojekt für autofreie Sonntage. Nachdem die Idee in den letzten Monaten von verschiedenen Kantonen vorgeschlagen wurde, machte nun Laufen als erste Gemeinde seit Jahren den ersten Versuch._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Im kleinen Städtli Laufen startete vergangenen Sonntag ein Pilotprojekt für a
 
 <li>Landesweite autofreie Tag gab es bereits in den 50er und 70er-Jahren, damals jedoch wegen internationalen Konflikten, welche das Öl in der Schweiz teurer machten.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Autofreie Tage waren in der Schweiz schon seit einiger Zeit kein Thema mehr. Viele junge Menschen haben ein solches Autoverbot noch nie erlebt. Doch bereits in den 1950er und 1970er Jahren wurden autofreie Tage von den Behörden verfügt, weil ein Engpass in der Versorgung mit Erdöl drohte. Dieses Mal scheinen aber andere Gründe im Vordergrund zu liegen.
 

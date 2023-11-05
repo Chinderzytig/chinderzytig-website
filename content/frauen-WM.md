@@ -21,7 +21,7 @@ title = "Frauen-WM"
 
 _Spanien hat am Montag die Fussball-Weltmeisterschaft gewonnen. Über eine Million Menschen haben die Spiele im Fernsehen verfolgt. Der Frauenfussball hat auf der ganzen Welt an Bedeutung gewonnen. Wieso aber erst jetzt?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Spanien hat am Montag die Fussball-Weltmeisterschaft gewonnen. Über eine Milli
 
 <li>Heute ist Frauenfussball sehr beliebt und auch die Weltmeisterschaft hat viele Zuschauer*innen angezogen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Der Frauenfussball hat sich seit dem ersten Spiel vor 20 Jahren weiterentwickelt. Heute spielen über eine Million Mädchen und Frauen Fussball in einem Verein. Die Fussball-Weltmeisterschaft der Frauen ist ein Turnier für Nationalmannschaften, das seit 1991 alle vier Jahre stattfindet. Der Weltfussballverband FIFA organisiert die Spiele.
 

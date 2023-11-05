@@ -20,7 +20,7 @@ title = "Klare Nächte – eisige Kälte "
 +++
 _Der Himmel ist stahlblau. Die Sonnenstrahlen wärmen das Gesicht. Auf der Terrasse des Bergrestaurants kann man ohne Skijacke die Aussicht geniessen. Doch kaum ist die Sonne weg, wird es eisig kalt. In der Nacht sinken die Temperaturen gar unter minus zehn Grad. Trotz oder gerade wegen des wolkenlosen Himmels?_
 
-{{< info-box >}}
+{{< important-points >}}
 
 <h3>Das Wichtigste in Kürze</h3>
 
@@ -36,7 +36,7 @@ _Der Himmel ist stahlblau. Die Sonnenstrahlen wärmen das Gesicht. Auf der Terra
 
 </ul>
 
-{{< /info-box >}}
+{{< /important-points >}}
 
 Der meteorologische Frühlingsanfang (1. März) stand bereits vor der Tür. Trotzdem wurde es noch einmal eisig kalt in der Schweiz. Es ist Ende Februar/Anfang März. Tagsüber strahlt die Sonne vom Himmel. Die Wärme ist bereits gut zu spüren im Gesicht. Doch die Freude ist nicht von langer Dauer. Kaum ist die Sonne weg, fliesst eine eisige Kälte durch unsere Knochen. „Schuld“ daran ist tatsächlich der wolkenlose Himmel. Wie kann das sein?
 

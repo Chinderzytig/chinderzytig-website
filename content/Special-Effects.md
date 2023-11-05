@@ -21,7 +21,7 @@ title = "Special Effects"
 
 _In diesem Beitrag erfährst du mehr über die Benutzung der Special Effekts in Filmen und was man mit ihnen alles machen kann._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _In diesem Beitrag erfährst du mehr über die Benutzung der Special Effekts in 
 
 <li>Grundsätzlich erhöhen alle Effekte die Realitätseindrücke. Sie können das Publikum von einem Ereignis überzeugen, wenn sie richtig eingesetzt werden.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Als Spezialeffekt, auch Special FX, wird eine mechanische oder chemische Technik bezeichnet, um bestimmte aussergewöhnliche Erscheinungen, wie etwa Explosionen, in Theater oder Film zu erzeugen. Im Gegensatz zu den visuellen Effekten werden Spezialeffekte direkt am Drehort erzeugt und gefilmt. Damit ist das gewünschte Ergebnis sofort überprüfbar.
 

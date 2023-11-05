@@ -19,7 +19,7 @@ slug = ""
 title = "K-Pop – Blackpink & BTS"
 
 +++
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 _In diesem Artikel erfährst du, was K-Pop ist und wie BTS und Blackpink damit zusammenhängen._
 
@@ -35,7 +35,7 @@ _In diesem Artikel erfährst du, was K-Pop ist und wie BTS und Blackpink damit z
 
 <li>Der Name Blackpink sagt übersetzt Folgendes aus: Pink repräsentiert in diesem Fall «Schönheit» und Blackpink möchte mit ihrem Namen ausdrücken, dass Schönheit nicht alles ist.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 K-Pop ist die Abkürzung für **Korean Popular Music** oder kurz **Korean Pop** und ein Sammelbegriff für koreanischsprachige Popmusik, mit Elementen aus Hip-Hop, R&B und Elektro.
 

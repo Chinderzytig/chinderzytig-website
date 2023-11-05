@@ -21,7 +21,7 @@ title = "Deepfakes"
 
 _Die künstliche Intelligenz (KI) in Computerprogrammen brachte eine verrückte Entwicklung hervor. Auf den ersten Blick scheint sie sogar recht sinnlos oder gar schädlich zu sein. Darum sind Deepfakes sehr umstritten._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Die künstliche Intelligenz (KI) in Computerprogrammen brachte eine verrückte 
 
 <li>Diese Technologie könnte der Demokratie schaden.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Wenn du ein Foto von dir hast, kannst du mit dem passenden Programm dein Gesicht austauschen. Du kannst ein lächelndes Gesicht einfügen oder gar eines von einem berühmten Sänger. Das geht schon lange.
 

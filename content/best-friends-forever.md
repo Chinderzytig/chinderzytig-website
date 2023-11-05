@@ -18,7 +18,7 @@ slug = ""
 title = "Best Friends Forever?"
 
 +++
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -28,7 +28,7 @@ title = "Best Friends Forever?"
 
 <li>Freundschaften müssen gut gepflegt werden, damit sie ein Leben lang halten können.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Warum brauchen wir Freunde?
 

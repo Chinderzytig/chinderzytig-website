@@ -20,7 +20,7 @@ title = "Schulstart: War die Schule immer so? "
 +++
 _Der Schulstart steht kurz bevor: In den Warenhäusern gibt es etliche Schulmaterialien zu kaufen, alle kommen von den Ferien zurück und der Schulsack kann langsam gepackt werden. Freust du dich auf das neue Schuljahr oder würdest du deine Sommerferien gerne noch verlängern? Müssen eigentlich alle Kinder zur Schule und war dies schon immer so?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -36,7 +36,7 @@ _Der Schulstart steht kurz bevor: In den Warenhäusern gibt es etliche Schulmate
 
 <li>Früher gab es nur die Schulfächer Lesen, Schreiben, Rechnen, Logik und Latein und die Lehrmittel waren vor allem die Bibel und religiöse Texte. Die Klassenzimmer waren klein, die Lehrer sehr streng und in einer Klasse sassen bis zu 100 Kinder.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Entweder hat deine Schule schon begonnen oder der Schulstart nähert sich. Der Schulbeginn nach den Sommerferien ist nicht überall in der Schweiz gleich. Dies hängt damit zusammen, dass die Kantone den Zeitpunkt der Ferien selbst bestimmen dürfen. Die Kantone können ausserdem regeln, wie lange man genau in die Schule gehen muss. Alle Kantone müssen sich aber an die Schulpflicht halten. Diese ist seit dem Jahr 1874 in der Bundesverfassung, dem obersten Gesetz der Schweiz, verankert. Sie besagt, dass alle Kinder ab dem Alter von zirka vier Jahren insgesamt 11 Jahre in die Schule gehen müssen. Es war aber ein langer Weg, bis es zu einem solchen Schulobligatorium kam.
 

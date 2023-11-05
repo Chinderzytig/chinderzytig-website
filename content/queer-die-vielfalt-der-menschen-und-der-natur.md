@@ -20,7 +20,7 @@ title = "Queer: Die Vielfalt der Menschen und der Natur "
 +++
 _Wir Menschen sind so vielfältig wie die Natur um uns herum. So erstaunt es nicht, dass wir im Aussehen und Verhalten, aber auch in unserem Geschlecht ganz unterschiedlich sind. Bestimmt hast du das Wort „queer“ auch schon einmal gehört. Doch was bedeute es? Und was hat es mit der Vielfalt der Natur zu tun?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -34,7 +34,7 @@ _Wir Menschen sind so vielfältig wie die Natur um uns herum. So erstaunt es nic
 
 <li>In Bern gibt es eine Sonderausstellung zum Thema „Queer“.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Das Wort „queer“ wird immer bekannter und ist auf den sozialen Medien wie Instagram oder TikTok weit verbreitet. Ausserdem gibt es in Bern eine Sonderausstellung dazu.
 

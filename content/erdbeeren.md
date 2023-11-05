@@ -21,7 +21,7 @@ title = "Erdbeeren"
 
 _In diesem Artikel erfährst du, welche Erdbeersorten süss sind, wann ihre Saison ist und worauf du beim Erdbeerenpflücken achten solltest._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _In diesem Artikel erfährst du, welche Erdbeersorten süss sind, wann ihre Sais
 
 <li>Erdbeeren stammen ursprünglich aus Amerika.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Die Vorfahren unserer Kulturerdbeere stammen ursprünglich aus Amerika. Mitte des 18. Jahrhunderts wurden sie zu uns nach Europa gebracht.
 

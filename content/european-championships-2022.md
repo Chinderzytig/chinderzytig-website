@@ -20,7 +20,7 @@ title = "European Championships 2022 "
 +++
 _Für rund 10 Tage wurde München zur Sporthauptstadt Europas. Vom 11. bis 21. August fanden in der ehemaligen Olympia-Stadt die Europameisterschaften in 9 Sportarten statt. Tolles Wetter, eine super Stimmung auf den Wettkampfplätzen und grossartige Leistungen der Athletinnen und Athleten machten diese 10 Tage zu einem richtigen Sportfest._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Für rund 10 Tage wurde München zur Sporthauptstadt Europas. Vom 11. bis 21. A
 
 <li>Die Schweizer Sportlerinnen und Sportler holten insgesamt 14 Medaillen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Zum zweiten Mal nach Glasgow/Berlin im Jahr 2018 fanden diesen August die European Championships in München statt. In ein und derselben Stadt wurden also die Besten Europas in 9 Sportarten gesucht. Die Auswahl fürs Publikum war gross: Triathlon, Rudern, Kanu, Tischtennis, Leichtathletik, Klettern, Rad (Strassenrennen, Zeitfahren, BMX und Mountainbike), Beach Volleyball und Turnen. Für jeden Geschmack war etwas dabei. Ein Grossteil der Wettkämpfe fand im Münchner Olympiapark statt, der für die Olympischen Spiele 1972 gebaut worden war. Die weitläufige Anlage mit dem speziellen Dach ist an sich schon ein kleines Kunstwerk. Die zahlreichen Zuschauerinnen und Zuschauer sorgten an der Strecke und in den Stadien für super Stimmung. Gerade aus der Schweiz waren besonders viele Fans vor Ort und feuerten die Athletinnen und Athleten lautstark und mit Schweizer Fahnen ausgerüstet an. Und die Schweizerinnen und Schweizer lieferten starke Resultate. Insgesamt gab es 14 Medaillen zu bejubeln. 3x Gold, 5x Silber und 6x Bronze. Erfolge gab es sowohl für Einzelathletinnen und -athleten (zum Beispiel in der Leichtathletik oder im Mountainbike) als auch für Teams (zum Beispiel im Triathlon oder im Beachvolleyball). Eine super Ausbeute!
 

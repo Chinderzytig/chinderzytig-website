@@ -22,7 +22,7 @@ title = "Faszination Mittelalter"
 _Das Mittelalter wird häufig dunkel, düster und wild dargestellt. Krankheiten, Ritterkämpfe und Hunger prägten diese Zeit. Doch gegen Ende des Mittelalters wurden auch die ersten Universitäten gegründet und in den Städten begann der Handel mit Handwerk. Bis heute fasziniert das Mittelalter. So gibt es zahlreiche Mittelalter-Märkte und Gruppen, die dieses Zeitalter nachspielen._
 
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -34,7 +34,7 @@ _Das Mittelalter wird häufig dunkel, düster und wild dargestellt. Krankheiten,
 
 <li>Es gibt viele Mittelalter-Vereine, die mit Märkten, Shows und Lagern das weit entfernte Zeitalter aufleben lassen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Was kommt dir in den Sinn, wenn du „Mittelalter“ hörst? Vielleicht denkst du an Ritter, Burgen oder düstere Gestalten? Diese Bilder kommen oft von Filmen, die im Mittelalter spielen. Es ist richtig, dass das Mittelalter als Zeitalter der Ritter bezeichnet werden kann. Als die Menschen ungefähr im 9. Jahrhundert entdeckten, dass man von Pferden aus kämpfen kann, entstand der Beruf des Ritters. Die Männer erhielten Speere und Rüstung und zogen so auf ihren Pferden in den Kampf.
 

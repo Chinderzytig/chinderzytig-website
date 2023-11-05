@@ -21,7 +21,7 @@ title = "Das humanitäre Völkerrecht für Frieden auf Erden"
 
 _n der Welt gibt es Regeln, die dafür sorgen sollen, dass Menschen in Kriegen und Konflikten geschützt werden. Das nennt man humanitäres Völkerrecht. Was bringt dieses Recht und was geschieht, wenn es nicht befolgt (sprich: getreten) wird?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _n der Welt gibt es Regeln, die dafür sorgen sollen, dass Menschen in Kriegen u
 
 <li>Setzen wir uns wann immer möglich für den Frieden ein und unterstützen somit das humanitäre Völkerrecht - und den Frieden auf Erden.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Das humanitäre Völkerrecht will den bestmöglichen Schutz bei bewaffneten Konflikten bieten. Es besagt zum Beispiel, dass Krankenhäuser und Schulen nicht angegriffen werden dürfen. Es ist wichtig, dass Menschen, besonders Kinder, in sicheren Gebäuden lernen und gesund werden können.
 Ausserdem besagt das humanitäre Völkerrecht, dass auch Kriegsgefangene gut behandelt werden müssen. Das bedeutet, dass sie Essen, Wasser und ein sicheres Zuhause bekommen sollen. Sie dürfen nicht gefoltert oder schlecht behandelt werden. Auch verboten ist der Einsatz von bestimmten Waffen, wie zum Beispiel Streubomben oder Giftgas. Diese Waffen können großen Schaden anrichten und unschuldige Menschen verletzen oder töten. Das humanitäre Völkerrecht will solche Waffen verbieten und dafür sorgen, dass Kriege so menschlich wie möglich geführt werden. Ein schwieriger, widersprüchlicher Spagat.

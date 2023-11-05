@@ -20,7 +20,7 @@ title = "Wie bewerbe ich mich richtig? "
 +++
 _Du hast eine tolle Idee für deinen Berufseinstieg? Super! Jetzt fehlen nur noch die richtigen Bewerbungsunterlagen. Das ist das erste, was ein Lehrbetrieb von dir sieht. Deshalb findest du hier einige Tipps für deine Bewerbung._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Du hast eine tolle Idee für deinen Berufseinstieg? Super! Jetzt fehlen nur noc
 
 <li>Es ist wichtig, dass es keine Fehler in deinen Unterlagen hat und deine Eltern oder eine Lehrperson einen zweiten Blick darauf werfen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Wenn du bereits auf eine spannende Stelle gestossen bist, hast du sicher schon gesehen, dass du deine Bewerbungsunterlagen jeweils an eine E-Mail-Adresse senden kannst. Doch was sollst du dort mitschicken? Damit deine Bewerbung vollständig ist, sollte sie auf jeden Fall die folgenden Dokumente enthalten:
 

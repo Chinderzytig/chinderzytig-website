@@ -20,7 +20,7 @@ title = "Frauen auf der Flucht"
 +++
 _Auch in dieser Woche beherrscht ein Thema die Informationswelt: der Konflikt in der Ukraine. Du hast sicher schon einiges gehört und gesehen, zu Hause oder in der Schule. Auch unser Dossier hast du womöglich bereits bearbeitet. Nun fokussieren wir heute Leidtragende des Krieges: die Menschen auf der Flucht._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Auch in dieser Woche beherrscht ein Thema die Informationswelt: der Konflikt in
 
 <li>Der Schutz der Flüchtenden ist zentral. Ausserdem die Möglichkeit, Arbeit zu finden, zur Schule gehen zu dürfen, leben zu können.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Da Männer in wehrpflichtigem Alter, also jene, die in der Lage sind zu kämpfen, nicht aus der Ukraine ausreisen dürfen, sind die Flüchtlingsströme vorwiegend weiblich. Frauen, Mütter mit Kindern, prägen das Bild. Stand heute sind etwa 10 Millionen Menschen bereits aus der Ukraine geflüchtet. 10’000’000 Menschen. Wer dort bleibt, kämpft einerseits und muss andererseits Armut, Hunger und um sein Leben fürchten. Die Flucht innerhalb der Ukraine beginnt bereits beschwerlich. Eine Zugreise, die normalerweise neun Stunden dauert, benötigt nun locker mehr als doppelt so lang. Man weiss leider nie: Haben die Gleise Minen und würden in die Luft fliegen? Wird der Zug plötzlich beschossen? Muss sofort evakuiert werden, also angehalten und die Menschen aus den Zügen gebracht werden? Die Reise ist riskant und beschwerlich - und vor allem gefährlich! Menschen, die nichts mit dem militärischen Konflikt zu tun haben (wollen) und nur ihr eigenes Leben retten möchten, befinden sich aus dem Nichts in Lebensgefahr. Gestern noch eine Cola in einem Restaurant auf dem Marktplatz, heute wie Sardinen in einer Büchse eingepfercht im Zug, um möglichst ohne Verletzung über die Grenze zu gelangen. Die Realität vorwiegend für Frauen und Kinder.
 

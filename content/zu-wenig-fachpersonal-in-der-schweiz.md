@@ -20,7 +20,7 @@ title = "Zu wenig Fachpersonal in der Schweiz "
 +++
 _In der Schweiz fehlen immer wie mehr Fachkräfte in bestimmten Berufsgruppen. Besonders betroffen sind die Branchen Gastronomie,, IT Pflege und Bildung. Die Coronakrise hat die Situation noch verschärft und mittlerweile leidet die ganze Wirtschaft unter dem Fachkräftemangel._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -34,7 +34,7 @@ _In der Schweiz fehlen immer wie mehr Fachkräfte in bestimmten Berufsgruppen. B
 
 <li>Politik, Arbeitgeberverbände und Betriebe müssen attraktive Arbeitsbedingen schaffen, um dem Personalmange entgegen zu wirken.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Was ist Fachkräftemangel und woher kommt er?
 

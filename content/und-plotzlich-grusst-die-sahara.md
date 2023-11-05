@@ -20,7 +20,7 @@ title = "Und plötzlich grüsst die Sahara "
 +++
 _Vor zwei Wochen war es wieder einmal soweit: Der Himmel verfärbte sich orangebraun, das Licht wurde ganz diffus, auf Strassen und Autos sammelte sich orangener Staub. Doch das war nicht etwa Blütenstaub. Nein, das war ganz feiner Sand aus der Sahara-Wüste. Wie kommt der denn bis zu uns in die Schweiz, fragst du dich vielleicht. Grund dafür sind Höhenwinde und bestimmte Strömungen._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Vor zwei Wochen war es wieder einmal soweit: Der Himmel verfärbte sich orangeb
 
 <li>Wenn es bei viel Saharastaub in der Luft regnet, spricht man von „Blutregen“, weil der Regen rötlich gefärbt ist.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Saharastaub in der Schweiz ist an sich nichts Besonderes. Das Phänomen tritt mehrmals im Jahr auf, am häufigsten im Frühling zwischen März und Juni und im Herbst in den Monaten Oktober und November. Jedes Jahr werden zwischen 10 und 34 Saharastaub-Ereignisse gemessen. Meteoschweiz, das Bundesamt für Meteorologie und Klimatologie, misst diese Ereignisse seit rund zwanzig Jahren in ihrer Forschungsstation auf dem Jungfraujoch. Meistens ist die Menge an Saharastaub in der Luft aber so klein, dass man ihn gar nicht wahrnimmt. Deshalb sind die Menschen dann doch immer wieder fasziniert von den aussergewöhnlichen Stimmungen am Himmel.
 

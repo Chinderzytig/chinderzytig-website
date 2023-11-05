@@ -21,7 +21,7 @@ title = "Gemüse ist gesund schmeckt aber nicht?"
 
 _In diesem Artikel erfährst du wieso manche Leute nicht so gerne Gemüse essen und wie du durch einfache Tricks ein grosser Fan davon wirst._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _In diesem Artikel erfährst du wieso manche Leute nicht so gerne Gemüse essen 
 
 <li>Wenn du dein Gemüse so, wie du es momentan zubereitest, nicht gerne hast, kann du mit verschiedenen Gewürzen oder Backtechniken die Zubereitung verändern.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Der Geschmack
 

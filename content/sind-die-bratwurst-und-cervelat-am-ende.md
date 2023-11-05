@@ -20,7 +20,7 @@ title = "Sind die Bratwurst und Cervelat am Ende?"
 +++
 _Wir alle essen täglich. Was wir essen, hängt auch davon ab, was es in den Regalen von Supermärkten wie Coop oder Migros gibt. Das Angebot an {{< fremdwort id="veganen" wort="vegan" >}}Fleischalternativen wird immer grösser. Gleichzeitig entscheiden sich immer mehr Menschen für die pflanzlichen Produkte, die unter dem englischen Begriff „Plant Based Food“ bekannt sind. Was bedeutet das {{< fremdwort id="wachsende" wort="wachsende Angebot und die wachsende Nachfrage" >}}für die Fleischprodukte? Verschwinden Bratwurst und Cervelat bald aus dem Sortiment?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -32,7 +32,7 @@ _Wir alle essen täglich. Was wir essen, hängt auch davon ab, was es in den Reg
 
 <li>Das Sortiment an pflanzlichen Alternativen in den Supermärkten wächst stark.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Schweizer Fleischkonsum
 

@@ -20,7 +20,7 @@ title = "Wieso Putzen schädlich für die Umwelt sein kann "
 +++
 _Damit es zu Hause und in der Schule sauber ist und gut riecht, müssen die Räume immer wieder gut geputzt werden. Dazu brauchen wir Geräte wie den Staubsauger oder einen Besen, aber auch Putzmittel. Wieso Putzen aber auch problematisch für die Umwelt sein kann, nehmen wir in diesem Artikel genauer unter die Lupe._
 
-{{< info-box >}}
+{{< important-points >}}
 <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
@@ -36,7 +36,7 @@ _Damit es zu Hause und in der Schule sauber ist und gut riecht, müssen die Räu
 <li>Anstatt Putzmittel mit umweltschädlichen Schadstoffen zu verwenden, sollte der Haushalt mit ökologischen Putzmitteln gereinigt werden.</li>
 
 </ul>
-{{< /info-box >}}
+{{< /important-points >}}
 
 ### Verbrauch und Inhaltsstoffe von Putzmitteln
 

@@ -21,7 +21,7 @@ title = "Sponsored by Saudi Arabia"
 +++
 _In den vergangenen Jahren haben sich Berichte darüber gehäuft, dass das Land Saudi-Arabien Milliarden in Sport rund um die Welt investiert. Erst kürzlich hat zum Beispiel Fussball-Gigant Cristiano Ronaldo in die saudische Profi-Liga gewechselt. Die sich häufenden Investitionen in den internationalen Sport stossen häufig auf Kritik. Doch wieso ist das so? Und welches Ziel verfolgt Saudi-Arabien mit diesen Investitionen?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _In den vergangenen Jahren haben sich Berichte darüber gehäuft, dass das Land 
 
 <li>Saudi-Arabien investierte in den letzten Jahren Milliarden in verschiedene Sportarten. International werden diese Bemühungen kritisiert und dem Land wird vorgeworfen, dass sie so von ihren Menschenrechtsverletzungen und Kriegsverbrechen ablenken wollen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Saudi-Arabien ist historisch nicht für grosse sportliche Leistungen bekannt. Das flächenmässig grösste Land auf der arabischen Halbinsel ist vor allem für seine Öl-Produktion bekannt. Saudi-Arabien ist einer der grössten Öl-Förderer der Welt. Insbesondere seit den 70er Jahren exportiert Saudi-Arabien sehr viel Erdöl. Diese Geschäfte haben dem Land in den letzten 50 Jahren zu einem unglaublichen Reichtum verholfen. Daher besteht der saudische Handel auch fast nur aus Erdölexporten. Doch mit den weltweiten Bemühungen, den Erdölverbrauch zu reduzieren, muss Saudi-Arabien die Wirtschaft auch umkrempeln.
 

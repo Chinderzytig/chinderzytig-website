@@ -21,7 +21,7 @@ title = "Schmerz ist nicht gleich Schmerz"
 +++
 _Wir alle kennen Schmerzen. Doch, wie stark uns etwas weh macht, ist sehr unterschiedlich. Die einen bleiben mit einer gebrochenen Hand am Boden liegen. Die andern fahren damit in einem Skirennen noch auf den zweiten Platz. So geschehen bei der Frauen-Abfahrt in St. Moritz Anfang Monat._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -33,7 +33,7 @@ _Wir alle kennen Schmerzen. Doch, wie stark uns etwas weh macht, ist sehr unters
 
 <li>Frauen sind schmerzempfindlicher als Männer.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Die Skirennfahrerin Sofia Goggia verletzt sich während einer Abfahrt in St. Moritz an der Hand. Sie fährt trotzdem ohne zu Bremsen weiter und gewinnt noch die Silbermedaille. Wie geht das? Die Schmerzen müssen doch schlimm sein? Das waren sie wohl auch. Doch in dem Moment hat sie Sofia wahrscheinlich nicht gespürt.
 
