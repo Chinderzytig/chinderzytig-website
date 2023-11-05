@@ -5,7 +5,7 @@
 		padding: 3rem 0;
 		display: flex;
 		justify-content: center;
-		margin-bottom: 4rem;
+		margin-bottom: 1rem;
 
 		&-container {
 			display: flex;
@@ -39,7 +39,10 @@
 
 	&__content { margin: 0 3rem; }
 
-	&__taxonomies { display: flex; }
+	&__taxonomies {
+		display: flex;
+		margin-bottom: $margin-s;
+	}
 
 	&__date-author {
 		font-size: 1.3rem;
