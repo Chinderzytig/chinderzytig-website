@@ -10,7 +10,7 @@
 		{{range $name, $tags := $page.Site.Taxonomies.markierungen}} {{ $cnt := .Count }}
 			{{ with $page.Site.GetPage (printf "/markierungen/%s" $name) }}
 				<a href="{{ .RelPermalink }}" class="mtn mtn__group mtn--space-cadet">
-					<span class="mtn__text">{{ $name }}</span>
+					<span class="mtn__label">{{ $name }}</span>
 					<span>({{ $cnt }})</span>
 				</a>
 			{{end}}
@@ -19,7 +19,7 @@
 			{{range $c, $categories := $page.Site.Taxonomies.kategorien}} {{ $cnt := .Count }}
 				{{ with $page.Site.GetPage (printf "/kategorien/%s" $c) }}
 					<a href="{{ .RelPermalink }}" class="mtn mtn__group mtn--space-cadet">
-						<span class="mtn__text">{{ $c }}</span>
+						<span class="mtn__label">{{ $c }}</span>
 						<span>({{ $cnt }})</span>
 					</a>
 				{{ end }}

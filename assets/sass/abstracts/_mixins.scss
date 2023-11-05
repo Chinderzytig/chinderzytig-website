@@ -8,6 +8,21 @@
 	border-#{$bs}: 2.5rem solid $bc;
 }
 
+@mixin btn-color($hex, $red, $green, $blue, $alpha) {
+	border: 2px solid $hex;
+	box-shadow: 0.8rem 0.8rem $hex;
+
+	&:link,
+	&:visited {
+		border: 2px solid $hex;
+		text-decoration: none;
+	}
+
+	&:hover { box-shadow: 1.1rem 1.1rem $hex; }
+
+	&:active { box-shadow: 0.5rem 0.5rem rgba($red, $green, $blue, $alpha); }
+}
+
 // 1em = 16px
 
 @mixin respond($breakpoint) {
