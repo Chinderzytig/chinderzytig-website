@@ -37,61 +37,65 @@
 
 	&__caption-buffer { margin: 0 .5rem; }
 
+	&__content { margin: 0 3rem; }
+
 	&__taxonomies { display: flex; }
 
 	&__date-author {
-		color: $social-base;
 		font-size: 1.3rem;
 		display: flex;
-		border-bottom: 4px solid $chinder-cultured;
-		margin-bottom: 1rem;
+		margin-bottom: .5rem;
 	}
 
 	&__dot { margin: 0 .5rem; }
 
-	&__content {
-		margin: 0 3rem;
+	&__svgs {
+		@extend .cta--orL;
+		display: flex;
+		align-items: center;
+		padding: 1.5rem 0;
+	}
 
-		&-article {
-			margin: $margin-s 0;
-			border-bottom: 4px solid $chinder-cultured;
+	&__article {
+		margin: $margin-s 0;
+		border-bottom: 4px solid $chinder-cultured;
 
-			h3 {
-				font-size: $font-bigger;
-				font-family: $font-patrick;
-				color: $chinder-orange;
-				margin-bottom: 1.5rem;
-			}
+		h3 {
+			font-size: $font-bigger;
+			font-family: $font-patrick;
+			color: $chinder-orange;
+			margin-bottom: 1.5rem;
+		}
 
-			p, li {
-				text-align: justify;
-				margin-bottom: $margin-s;
-			}
+		p, li {
+			text-align: justify;
+			margin-bottom: $margin-s;
+		}
 
-			a { color: $chinder-verdigris; }
+		a { color: $chinder-verdigris; }
 
-			.image__src,
-			.single__caption-buffer,
-			.single__cc-src { @extend .single__image-src; }
+		.image__src,
+		.single__caption-buffer,
+		.single__cc-src { @extend .single__image-src; }
 
-			.arbeitsmaterial__link { color: $color-black; }
+		.arbeitsmaterial__link { color: $color-black; }
 
-			&-video {
-				display: flex;
-				justify-content: center;
+		&-video {
+			display: flex;
+			justify-content: center;
 
-				iframe {
-					width: 60rem;
-					height: 40rem;
-					margin-bottom: 3rem;
+			iframe {
+				width: 60rem;
+				height: 40rem;
+				margin-bottom: 3rem;
 
-					@include respond(phone-lg) { height: 30rem; }
+				@include respond(phone-lg) { height: 30rem; }
 
-					@include respond(phone-md) { height: 20rem; }
-				}
+				@include respond(phone-md) { height: 20rem; }
 			}
 		}
 	}
+
 
 	&__info-box {
 		background-color: $cta-azure;

@@ -25,6 +25,12 @@ body {
 
 	&__cta { @include respond(phone-land-lg) { text-align: center; } }
 
+	&__article {
+		@extend .deading;
+		font-size: 4rem;
+		margin: 2rem 0 1.5rem 0;
+	}
+
 	&--white { color: $white; }
 
 	&--black { color: $black; }

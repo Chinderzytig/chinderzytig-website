@@ -43,4 +43,22 @@
 	&__snipcart {
 		width: 3rem;
 	}
+
+	&__article {
+		width: 20rem;
+		margin-left: 1.5rem;
+
+		&--icon {
+			fill: $orange;
+			stroke: $chestnut;
+
+			&:hover,
+			&:active { fill: $chestnut; }
+		}
+
+		&--stroke {
+			&:hover,
+			&:active { stroke: $orange; }
+		}
+	}
 }
