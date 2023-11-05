@@ -7,18 +7,6 @@
 			{{- block "main" . }}{{- end }}
 		</main>
 		{{- partial "footer.html" . -}}
-		{{ if isset .Params "artikel" }}
-			<script src="https://webreader.naturalreaders.com/nr-webreader.js" defer></script>
-			<script>
-				window.addEventListener("DOMContentLoaded", function() {
-						if (typeof NRWebReader != 'undefined') {
-								window['NRWebReader'] = new NRWebReader({
-								widget_id: "8k6ecrnosd"  // DO NOT REMOVE. This is your widget ID for your WebReader
-								});
-						}
-				});
-			</script>
-		{{ end }}
 		<script async src="https://cdn.snipcart.com/themes/v3.0.23/default/snipcart.js"></script>
 		<div hidden id="snipcart" data-api-key="MTRjYjJiNTUtNjUzYS00MzhiLThjOGItNDViOWJlMjdkOTZlNjM3MzYzODgwMjc1ODIwMjI4"></div>
 		<script type="text/javascript">
@@ -34,4 +22,5 @@
 		  });
 		</script>
 	</body>
+	{{ block "scripts" . }}{{ end }}
 </html>

@@ -149,6 +149,8 @@
 
 	&--celadon { @include btn-color($celadon, 53, 130, 128, 0.65) }
 
+	&--chestnut { @include btn-color($chestnut, 162, 80, 50, 0.65) }
+
 	&__spenden {
 		font-size: $font-default;
 		width: 45%;

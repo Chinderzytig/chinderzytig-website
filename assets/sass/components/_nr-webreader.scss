@@ -1,0 +1,12 @@
+.nr-custom-trigger {
+	font-family: $font-spartan;
+	font-size: 1.3rem;
+	cursor: pointer;
+	border: none;
+	background: none;
+	display: flex;
+	align-items: center;
+
+	&:hover,
+	&:active { color: $chestnut; }
+}
