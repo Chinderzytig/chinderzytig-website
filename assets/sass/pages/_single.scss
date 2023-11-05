@@ -5,7 +5,7 @@
 		padding: 3rem 0;
 		display: flex;
 		justify-content: center;
-		margin-bottom: 1rem;
+		margin-bottom: 1.5rem;
 
 		&-container {
 			display: flex;
@@ -61,12 +61,10 @@
 
 	&__article {
 		margin: $margin-s 0;
-		border-bottom: 4px solid $chinder-cultured;
 
 		h3 {
-			font-size: $font-bigger;
-			font-family: $font-patrick;
-			color: $chinder-orange;
+			font-size: 3rem;
+			font-family: $font-amatic;
 			margin-bottom: 1.5rem;
 		}
 
