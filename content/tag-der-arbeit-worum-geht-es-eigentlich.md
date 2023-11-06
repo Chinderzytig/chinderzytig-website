@@ -48,8 +48,8 @@ Vieles um den 1. Mai ist also etwas schwammig. Sicher ist nur, dass am 1. Mai in
 
 {{< definition id="industrialisierten" wort="industrialisierten" def="Kantone in welchen die Herstellung von Produkten Dank dem Einsatz von Maschinen und effizienteren Arbeitsmethoden stark zunahm." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

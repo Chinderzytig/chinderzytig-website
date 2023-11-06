@@ -20,9 +20,9 @@ title = "Die gefährlichsten Berufe der Schweiz"
 +++
 _Heutzutage sind immer mehr Arbeitsplätze hinter dem Schreibtisch. Kaufmann/Kauffrau und Informatiker*in sind die zwei beliebtesten Ausbildungen in der Schweiz. Unfälle in diesen Berufen gibt es zwar, prozentual sind es jedoch zum Glück nur ganz wenige. Ein bisschen gefährlicher sieht es in den folgenden zwei Branchen aus._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Heutzutage sind immer mehr Arbeitsplätze hinter dem Schreibtisch. Kaufmann/Kau
 
 <li>Vor allem in der Baubranche ist es wichtig Sicherheitsmassnahmen laufend anzupassen und diese zu beachten.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Zuhause, in der Freizeit aber auch bei der Arbeit kann man sich verletzen. Je nach Branche ist das Risiko eines Unfalls aber ganz unterschiedlich. Es gibt Arbeitsumfelder, welche etwas mehr Risiko bergen als andere. Doch welche zwei Branchen kann man als die gefährlichsten einstufen?
 
@@ -44,6 +44,6 @@ Forstwarte und Forstwartinnen sind für alle im Wald anfallenden Arbeiten zustä
 
 Die Baubranche ist eine der wichtigsten der Schweiz. Sie bietet vielen Berufsleuten einen Arbeitsplatz und ist für den Ausbau unserer Strassen, unserer Gebäude und unserer Infrastruktur verantwortlich. Leider geschehen in der Baubranche auch die meisten Berufsunfälle, vor allem im Bereich von vorbereitenden Baustellenarbeiten und Bauinstallationen. Dabei sind Dachdecker und Fassadenbauer am meisten von Unfällen betroffen. Es ist also sehr wichtig, dass in diesen Berufen die Sicherheitsmassnahmen laufend angepasst werden und dass die Arbeiter*innen diese aber auch einhalten.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

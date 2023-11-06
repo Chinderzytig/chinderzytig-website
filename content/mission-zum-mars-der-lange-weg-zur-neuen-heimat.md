@@ -36,8 +36,8 @@ Der wirkliche Effekt dieser Mission und der eingesetzten Technologien steht noch
 
 {{< definition id="Sowjetunion" wort="Sowjetunion" def="Die Sowjetunion war ein Land, welches 1922 gegründet worden war und sich aus dem heutigen Russland sowie einigen der heutigen Balkanländer zusammensetzte. Das Land wurde, nach dem es den Kalten Krieg verloren hat, 1982 aufgelöst." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

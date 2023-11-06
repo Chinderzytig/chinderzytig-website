@@ -21,9 +21,9 @@ title = "Samichlous"
 +++
 _Jedes Jahr am 6. Dezember besucht der Samichlous die Schweizer Kinder und bringt ihnen Süsses, Erdnüsse und Mandarinen. Bei manchen kommt er persönlich vorbei, andere besuchen ihn im Wald oder sie stellen ganz einfach einen Stiefel vor die Tür. Je nach Region trägt er unterschiedliche Kleider und manchmal hat er einen Begleiter dabei. Woher kommt eigentlich der Samichlous?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Jedes Jahr am 6. Dezember besucht der Samichlous die Schweizer Kinder und bring
 
 <li>Traditionen können sich mit der Zeit verändern und der früher so strenge und gefürchtete Schmutzli ist heute ein liebevoller Begleiter des Samichlous.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Sami ist die schweizerdeutsche Version des lateinischen sanctus - der Heilige. Chlaus oder berndeutsch Chlous ist die schweizerische Kurzform von Nikolaus. Jener Nikolaus, der jedes Jahr gefeiert wird, lebte im vierten Jahrhundert nach unserer Zeitrechnung und verstarb an einem 6. Dezember. Er war zu seinen Lebzeiten Bischof von Myra in der Region der heutigen Türkei und wurde über die Jahrhunderte zu einem der bekanntesten und beliebtesten Heiligen der christlichen Welt. Wie er tatsächlich gelebt und gewirkt hat, ist nach so vielen Jahrhunderten nicht ganz einfach nachzuforschen, weil es nur wenige Quellen gibt.
 
@@ -43,6 +43,6 @@ Es gibt unzählige Legenden über Sankt Nikolaus. Neben vielen Wundern, welche e
 
 Manchmal begleitet der Schmutzli den Samichlous . Früher sollte er die unartigen Kinder in den Sack packen. Die Nikolaus-Tradition wurde damals genutzt um die Kinder zu erziehen. Diese Tradition durfte sich im Laufe der letzten Jahrzehnte zum Glück verändern. Heute ist auch der Schmutzli ein freundlicher Begleiter des Samichlous und der Chlousetag stets ein erfreuliches Ereignis.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -21,9 +21,9 @@ title = "Wirbelstürme – faszinierend, aber gefährlich"
 +++
 _Sie heissen Katrina, Lothar oder Freddy – die Rede ist von Stürmen. Gerade hat „Freddy“ in Afrika grossen Schaden angerichtet. „Freddy“ ist ein Tropensturm, ein sogenannter Zyklon. Es gibt auch Tornados, Orkane und Hurrikans. Was sind die Unterschiede und wie entstehen die Stürme?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Sie heissen Katrina, Lothar oder Freddy – die Rede ist von Stürmen. Gerade h
 
 <li>Stürme entstehen durch Temperaturunterschiede von Luftmassen. Je grösser der Unterschied der kalten zur warmen Luft, desto stärker wird der Sturm.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Schreckliche Bilder erreichten uns Mitte März aus Südostafrika. Aufgerissene Strassen, eingestürzte Häuser, Erdrutsche. Am schlimmsten traf es das Land Malawi. Der Zyklon „Freddy“ kam gegen Ende der Regenzeit. Die Flüsse und Gewässer hatten bereits hohe Wasserpegel. Der Sturm brachte aber in sechs Tagen nochmals so viel Regen wie sonst in sechs Monaten. Es kam zu zahlreichen Überschwemmungen und Erdrutschen. Ungewöhnlich war auch, dass der Zyklon so lange dauerte, nämlich rund einen Monat.
 
@@ -52,6 +52,6 @@ Als Orkane werden Sturmwinde bezeichnet, die mit einer Windgeschwindigkeit von m
 Sturmwinde entstehen durch Unterschiede im Luftdruck. Die warmen und kalten Luftmassen wollen diesen Unterschied ausgleichen, wodurch Luftwirbel entstehen. Je grösser der Temperaturunterschied zwischen den Luftmassen ist, desto stärker wird der Sturm. Deshalb gibt es im Herbst und Winter besonders viele Stürme – wie eben auch Lothar, der am 26. Dezember 1999 zu einem Stromausfall führte und für Weihnachtsessen bei Kerzenschein sorgte.
 
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

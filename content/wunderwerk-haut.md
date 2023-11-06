@@ -20,9 +20,9 @@ title = "Wunderwerk Haut - darum ist Körperpflege wichtig!"
 +++
 _Unsere Haut ist das grösste Organ des menschlichen Körpers. Ihre Funktion ist es, unseren Körper zu schützen. Gleichzeitig ist sie aber sehr empfindlich und muss deswegen gut gepflegt werden._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -34,7 +34,7 @@ _Unsere Haut ist das grösste Organ des menschlichen Körpers. Ihre Funktion ist
 
 <li>Wie funktioniert Sonnenschutz?</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Funktionen der Haut
 
@@ -80,8 +80,8 @@ Es gibt 6 verschiedene Hauttypen, die unterschiedlich empfindlich auf die UV-Str
 
 Doch wie funktioniert die Sonnencreme? Die Sonnencreme hat den sogenannten Lichtschutzfaktor, welcher in Form von Zahlen (15, 20, 25, 30, 50) angegeben ist. Die Zahl bedeutet, dass der Eigenschutz der Haut um so viel verlängert wird. Wenn du dich 10 Minuten in der Sonne aufhalten kannst, bevor du rot wirst, verlängert sich dieser Schutz z.B. 30 Mal, wenn du eine Sonnencreme mit Lichtschutzfaktor 30 verwendest. Du solltest dann 300 Minuten (also 5 Stunden) in der Sonne bleiben können, ohne dass du dich verbrennst. Wenn du aber ins Wasser gehst oder schwitzt musst du den Schutz regelmässiger erneuern.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

@@ -38,8 +38,4 @@ Das vielleicht bekannteste Fest des Islam, Ramadan wird am Ende der Fastenzeit g
 
 {{< definition id="monotheistischen Religionen " wort="monotheistischen Religionen " def="Monotheistische Religionen sind Glaubensrichtungen, welche nur an einen allmächtigen Gott glauben." >}}
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

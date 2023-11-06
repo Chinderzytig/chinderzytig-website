@@ -45,6 +45,6 @@ So hat sich im Laufe der Jahrhunderte das Bild der Sagengestalt gewandelt. Aus d
 * Nessie im Kinderlexikon Klexikon: [https://klexikon.zum.de/wiki/Ungeheuer_von_Loch_Ness](https://klexikon.zum.de/wiki/Ungeheuer_von_Loch_Ness "https://klexikon.zum.de/wiki/Ungeheuer_von_Loch_Ness")
 * Ist Nessie ein Aal? Artikel und Radio-Beitrag über eine neue Theorie: [https://kinder.wdr.de/radio/kiraka/nachrichten/klicker/loch-ness100.html](https://kinder.wdr.de/radio/kiraka/nachrichten/klicker/loch-ness100.html "https://kinder.wdr.de/radio/kiraka/nachrichten/klicker/loch-ness100.html")
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

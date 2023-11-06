@@ -21,9 +21,9 @@ title = "Pablo Ruiz Picasso"
 
 _Wer von euch kennt das Gemälde namens Guerinca aus dem Jahr 1973? Oder der Stierkopf aus dem Jahr 1942? Es sind oftmals die Gemälde, die einem in Erinnerung bleiben. Wer ist jedoch die Person, welche das Gemälde gemalt hat? Was wollte der Künstler oder die Künstlerin mit dem Gemälde ausdrücken? Pablo Picasso ist einer der bekanntesten Künstler des 20 Jahrhunderts und seine Gemälde und Kunstwerke waren stets ausdrucksstark- das heisst, es war immer eine Botschaft oder Stimmung dahinter._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Wer von euch kennt das Gemälde namens Guerinca aus dem Jahr 1973? Oder der Sti
 
 <li>Picassos Werke lassen sich unterschiedlichen Lebensphasen von Picasso zuordnen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Pablo Picasso. Picasso ist ein Name, der in der Liste der Namen der bekanntesten Künstler des 20. Jahrhunderts immer fällt. Er war einer der Maler, der die Malerei weiterentwickelte. So hat er beispielsweise viel zur Entwicklung des Kubismus beigetragen.
 

@@ -22,9 +22,9 @@ title = "Das menschliche Verdauungssystem"
 _Die Verdauung ist ein sehr komplexer Vorgang. Er beginnt beim Kauen, geht weiter über die Speiseröhre in den Magen. Schlussendlich wird das verarbeitete Produkt über Dünn- und Dickdarm ausgeschieden. Der Prozess der Verdauung klingt sehr einfach – das ist er aber eigentlich gar nicht._
 
   
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -34,7 +34,7 @@ _Die Verdauung ist ein sehr komplexer Vorgang. Er beginnt beim Kauen, geht weite
 
 <li>Die Nahrung macht den ganzen Weg vom Mund in die Speiseröhre, dann in den Magen und wird schliesslich über Dünn- und Dickdarm wieder ausgeschieden.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Doch beginnen wir ganz von vorne. Wenn unser Magen knurrt und sich ein Hungergefühl bemerkbar macht, haben wir Menschen das Bedürfnis, Nahrung zu uns zu führen. Wir essen beispielsweise einen Apfel, weil wir Hunger haben. Den Apfel zerkauen wir in kleine Stücke und speicheln diese ein. Darauf gelangen sie über die Speiseröhre mit Hilfe des Speichels in den Magen. Dort werden die ersten Nährstoffe, wie beispielsweise Kohlenhydrate, aus dem Nahrungsmittel aussortiert. Über das Blut werden die Nährstoffe im ganzen Körper verteilt und machen uns so leistungsfähig. Das heisst, dass die Nährstoffe direkt als Antrieb für Bewegungen, die wir ausführen, genutzt werden.   
 Vom Magen gelangt der in der Zwischenzeit entstandene Brei in den Dünndarm. Dort werden restliche Nährstoffe aussortiert und als Energieträger im Blut aufgenommen. Über den Dickdarm scheiden wir das Endprodukt schliesslich aus.

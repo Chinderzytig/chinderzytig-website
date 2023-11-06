@@ -21,9 +21,9 @@ title = "Kuhnagel – wenn die Finger und Zehen „auftauen“"
 +++
 _Wer im Winter gerne draussen ist, kennt es vielleicht. Die Zehen und Finger sind kalt vom Spielen im Schnee. Dann kommt man in die warme Stube rein und es beginnt zu kribbeln. Manchmal so fest, dass es weh tut. Diesem Zustand sagt man in der Schweiz Kuhnagel._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Wer im Winter gerne draussen ist, kennt es vielleicht. Die Zehen und Finger sin
 
 <li>Um einem Kuhnagel vorzubeugen, ist es wichtig, eisige Finger und Zehen langsam aufzuwärmen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Der Begriff „Kuhnagel“ hat nichts mit einer Kuh zu tun. Er setzt sich aus alten schweizerdeutschen Wörtern zusammen. „Kuh“, respektive „Chue“ kommt von „chuon“, was kühn oder stark bedeutete. Und „Nagel“ kommt von „Agle“ für Stachel. Zusammengesetzt bedeutet Kuhnagel als so etwas wie „starker Stachel“. Und so fühlt sich der Kuhnagel auch an: Es ist, als ob einem jemand mit ganz vielen Stacheln in die Finger oder Zehen stechen würde. Man hört deshalb auch oft die Ausdrücke „es chuenaglet“ oder „es nägelet“ in meinen Füssen. Grund für den Kuhnagel ist die Regulierung des Blutkreislaufes durch den Körper.
 
@@ -45,6 +45,6 @@ Wenn wir draussen in der Kälte sind und der Körper friert, zieht er die Blutge
 
 Vermeiden kann man den Kuhnagel durch warme Kleidung. Es gibt auch Wärmebeutel, die man in die Handschuhe oder Stiefel legen kann, um die Hände und Füsse warmzuhalten. Bekommt man trotzdem eisige Finger oder Zehen, hilft es, die Körperteile langsam aufzuwärmen. Man kann sie zum Beispiel in ein Wasserbad halten, dem man laufend wärmeres Wasser zufügt. Eine warme Suppe oder ein warmer Tee helfen ebenfalls, die Durchblutung langsam anzuregen und so einem Kuhnagel vorzubeugen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

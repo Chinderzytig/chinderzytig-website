@@ -38,8 +38,4 @@ Das Thema Achtsamkeit ist heute also in aller Munde und auch die Forschungsergeb
 
 Somit ist es nicht überraschend, dass das Bedürfnis nach einem Moment der Ruhe in der Bevölkerung steigt. Für viele scheint die Praxis der Achtsamkeit dabei zu helfen.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

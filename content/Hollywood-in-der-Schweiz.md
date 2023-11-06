@@ -21,9 +21,9 @@ title = "Hollywood in der Schweiz"
 
 _„And the Oscar goes to…“, ein roter Teppich und extravagante Kleider. Sagt dir das etwas? Die Rede ist von der Oscar-Preisverleihung, der wohl grössten Preisverleihung in der Film- und Kinowelt. Sie wird jeweils im März in den USA durchgeführt. Gibt es so etwas auch in der Schweiz? Und ob! Richten wir die Scheinwerfer mal auf die Schweizer Filmfestivals._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _„And the Oscar goes to…“, ein roter Teppich und extravagante Kleider. Sag
 
 <li>Die Preise haben häufig spezielle Formen. So gibt es in den USA die Oscars (kleine Männchen), den Goldenen Leoparden (Locarno) oder das Goldene Auge (Zürich).</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Fangen wir grad mit dem grössten Filmfestival in der Schweiz an. Es findet jeweils im Sommer im Tessin statt: das Locarno Film Festival. Es wurde in diesem Jahr bereits zum 76. Mal durchgeführt. Das Spezielle an diesem Festival: Jeweils am Abend wird ein Film auf dem grossen Platz in Locarno unter freiem Himmel gezeigt. Der Platz wird dann zu einem grossen Open Air Kino. Das Locarno Film Festival ist ziemlich bekannt. Es kommen jeweils viele bekannte Schauspielerinnen und Schauspieler aus dem Ausland. Sie kommen wegen der Filme, aber vor allem auch wegen der Preisverleihung.
 

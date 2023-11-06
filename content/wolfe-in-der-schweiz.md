@@ -32,8 +32,7 @@ Wölfe greifen in den Alpen immer wieder Schafe an. Pro Jahr werden in der Schwe
 
 Was ist deine Meinung zu diesem Thema: Findest du es gut, dass in der Schweiz Wölfe leben oder nicht? Findest du, ein Wolf, der zu viele Schafe tötet, darf erschossen werden? Hast du schon einmal einen Wolf gesehen? Kennst du Märchen und Geschichten, in denen Wölfe vorkommen?
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

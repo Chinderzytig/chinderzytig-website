@@ -20,9 +20,9 @@ title = "Hauptsache „retro“"
 +++
 _Warum etwas neu erfinden, wenn es auch mit alt Bewährtem geht? Man könnte meinen, in der Musik, im Film und in der Mode würde heute nur noch nach diesem Motto gearbeitet. Dieser Eindruck ist vielleicht gar nicht so falsch. „Retro“ liegt im Trend. Und hat ein ganz klares Muster._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Warum etwas neu erfinden, wenn es auch mit alt Bewährtem geht? Man könnte mei
 
 <li>Retro funktioniert, weil es vertraut und doch überraschend ist.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Vorab wollen wir klären, was „retro“ eigentlich heisst. Der Begriff kommt aus der lateinischen Sprache. Er bedeutet „rückwärts (gewandt)“. In der Mode bedeutet das, dass man sich an früheren Stilen orientiert, dass man diese nachmacht oder in ähnlicher Form wieder bringt. Aktuell sind zum Beispiel Schlaghosen wieder angesagt. Die sind oben schmal und unten weit. Die Schlaghosen wurden in der Hippie-Zeit der 70er Jahre weltberühmt. Und sie feierten bereits in den 90er Jahren ein Revival. Damals vor allem in der Techno-Szene, schrill und farbig. Ebenfalls wieder in den Schaufenstern zu sehen: die Rollschuhe der 80er Jahre – also diejenigen mit zwei Rollen vorne und zwei Rollen hinten und einem „Stopper“ vorne am Schuh. Wieso diese Rollschuhe plötzlich wieder in sind? Vielleicht weil sich die Käufer*innen gerne in ihre Jugend zurückversetzen lassen und in Erinnerungen schwelgen möchten?
 
@@ -48,6 +48,6 @@ Es gibt sogar Musiker, die ihre eigenen Songs überarbeiten und neu herausbringe
 
 Warum funktioniert das? Was gefällt uns an wieder „aufgewärmten“ Songs oder Melodien? Musikexpert*innen sprechen von Vertrautheit und Erinnerungen. Wir hören und sehen gerne Sachen, die wir irgendwie schon ein bisschen kennen. So fühlen wir uns schneller angesprochen, können schneller eintauchen. Vielleicht kommen Erinnerungen auf, die wir mit einem Song, mit einem Kleidungsstück oder einer Filmszene in Verbindung bringen. Das Vertraute muss dann aber mit einem modernen „Twist“ verbunden werden. Darauf zählen die heutigen Hit-Produzenten. Und deshalb wird es wohl auch in 30 Jahren wieder Hits mit Melodien von heute zu hören geben.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

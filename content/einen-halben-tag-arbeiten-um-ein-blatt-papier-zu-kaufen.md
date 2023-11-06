@@ -38,8 +38,8 @@ Der grosse Unterschied zu den Zeitschriften und Zeitungen, wie ihr sie heute ken
 
 Heute sind die Merkmale von Zeitschriften, dass sie jeden Tag, einmal pro Woche, einmal im Monat oder ein paar Mal im Jahr erscheinen. Ein Flugblatt von heute - ein Flyer - wird fast nur noch als Werbung gebraucht: Für das Pizzamenu vom Takeaway im Quartier, für einen neuen Laden, der bald aufgehen soll oder vor allem für politische Botschaften von verschiedenen Parteien.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

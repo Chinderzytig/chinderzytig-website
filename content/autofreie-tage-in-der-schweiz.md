@@ -20,9 +20,9 @@ title = "Autofreie Tage in der Schweiz "
 +++
 _Im kleinen Städtli Laufen startete vergangenen Sonntag ein Pilotprojekt für autofreie Sonntage. Nachdem die Idee in den letzten Monaten von verschiedenen Kantonen vorgeschlagen wurde, machte nun Laufen als erste Gemeinde seit Jahren den ersten Versuch._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Im kleinen Städtli Laufen startete vergangenen Sonntag ein Pilotprojekt für a
 
 <li>Landesweite autofreie Tag gab es bereits in den 50er und 70er-Jahren, damals jedoch wegen internationalen Konflikten, welche das Öl in der Schweiz teurer machten.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Autofreie Tage waren in der Schweiz schon seit einiger Zeit kein Thema mehr. Viele junge Menschen haben ein solches Autoverbot noch nie erlebt. Doch bereits in den 1950er und 1970er Jahren wurden autofreie Tage von den Behörden verfügt, weil ein Engpass in der Versorgung mit Erdöl drohte. Dieses Mal scheinen aber andere Gründe im Vordergrund zu liegen.
 
@@ -44,8 +44,4 @@ In jüngerer Zeit wird die Automobilität immer kritischer angeschaut. Vor allem
 
 1956 und 1973 gab es in der Schweiz vereinzelte autofreie Sonntage. Diese wurden jedoch nicht aus Klimaschutzgründen eingeführt, sondern wegen zwei verschiedenen internationalen Konflikten. Die Schweiz war zwar nicht direkt an diesen Krisen beteiligt, trotzdem hatten beide Vorfälle auch grosse Auswirkungen auf die Verkehrspolitik des Landes. Denn in beiden Konflikten drehte es sich um die arabische Welt. Da wir damals, wie auch heute stark abhängig vom Öl in der arabischen Welt sind, waren wir schlussendlich trotzdem von den Entwicklungen betroffen: Es herrschte Ölknappheit. Auch wenn die jetzigen Vorschläge für autofreie Tage zwar nicht direkt wegen eines internationalen Konfliktes entstanden sind, zeigt der Krieg in der Ukraine, dass die Abhängigkeit von ausländischen Rohstoffen auch heute noch problematisch sein kann. Welche Einflüsse dieser jüngste Konflikt auf unsere Mobilität haben wird, bleibt unklar. Unabhängig davon scheint es, dass autofreie Tage in der Schweiz bald häufiger in verschiedenen Gemeinden der Schweiz stattfinden werden.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

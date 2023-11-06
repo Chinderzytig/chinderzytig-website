@@ -113,6 +113,7 @@
 		margin-top: $margin-m;
 	}
 }
+// --------------------------New styles-----------------------------------------
 
 .mtn {
 	font-family: $font-spartan;
@@ -121,7 +122,6 @@
 	background-color: $white;
 	cursor: pointer;
 	padding: 1.5rem;
-	margin-top: 3rem;
 
 	&:hover { transform: translateY(-1rem); }
 
@@ -133,9 +133,29 @@
 		align-items: center;
 	}
 
+	&__group {
+		margin-top: $margin-s;
+
+		&:not(:last-child) { margin-right: $margin-s; }
+	}
+
+	&__label { margin-right: 1rem; }
+
+	&__svg { height: 2.4rem; }
+
+	&--jonquil { @include btn-color($jonquil, 255, 207, 4, 0.65) }
+
+	&--space-cadet { @include btn-color($space-cadet, 46, 49, 66, 0.65) }
+
+	&--celadon { @include btn-color($celadon, 53, 130, 128, 0.65) }
+
+	&--chestnut { @include btn-color($chestnut, 162, 80, 50, 0.65) }
+
 	&__spenden {
 		font-size: $font-default;
 		width: 45%;
+
+		&:nth-child(n+3) { margin-top: $margin-s; }
 
 		&-group {
 			display: flex;
@@ -146,55 +166,24 @@
 		}
 	}
 
-	&__group { &:not(:last-child) { margin-right: 3rem; } }
+	&__thema {
+		font-size: 1rem;
+		padding: .8rem;
+		border: 2px solid $silver;
+		box-shadow: .5rem .5rem $silver;
 
-	&__text { margin-right: 1rem; }
-
-	&__svg { height: 2.4rem; }
-
-	&--jonquil {
-		border: 2px solid $jonquil;
-		box-shadow: 0.8rem 0.8rem $jonquil;
+		&:not(:first-child) { margin-left: 2rem; }
 
 		&:link,
 		&:visited {
-			border: 2px solid $jonquil;
+			border: 2px solid $silver;
 			text-decoration: none;
 		}
 
-		&:hover { box-shadow: 1.1rem 1.1rem $jonquil; }
+		&:hover { box-shadow: .8rem .8rem $silver; }
 
-		&:active { box-shadow: 0.5rem 0.5rem rgba(255, 207, 4, 0.65); }
-	}
+		&:active { box-shadow: .2rem .2rem rgba(166, 165, 163, 0.65); }
 
-	&--space-cadet {
-		border: 2px solid $space-cadet;
-		box-shadow: 0.8rem 0.8rem $space-cadet;
-
-		&:link,
-		&:visited {
-			border: 2px solid $space-cadet;
-			text-decoration: none;
-		}
-
-		&:hover { box-shadow: 1.1rem 1.1rem $space-cadet; }
-
-		&:active { box-shadow: 0.5rem 0.5rem rgba(46, 49, 66, 0.65); }
-	}
-
-	&--celadon {
-		border: 2px solid $celadon;
-		box-shadow: 0.8rem 0.8rem $celadon;
-
-		&:link,
-		&:visited {
-			border: 2px solid $celadon;
-			text-decoration: none;
-		}
-
-		&:hover { box-shadow: 1.1rem 1.1rem $celadon; }
-
-		&:active { box-shadow: 0.5rem 0.5rem rgba(53, 130, 128, 0.65); }
 	}
 
 	&__footer {

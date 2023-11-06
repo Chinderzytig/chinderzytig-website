@@ -21,9 +21,9 @@ title = "Kampf der Kinos"
 Kleine Kinos in der Schweiz haben fast keine Besucherinnen und Besucher mehr und müssen oft schliessen. Weiter eröffnet werden grosse Mutliplex-Kinos, das sind Kinos mit vielen Sälen. Woran liegt das?
 
   
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -35,7 +35,7 @@ Kleine Kinos in der Schweiz haben fast keine Besucherinnen und Besucher mehr und
 
 und die Möglichkeit, dass man Filme online anschauen kann.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Viele kleine Schweizer Kinos müssen schliessen. Es sind oft Kinos mit nur einem Saal, die einfach nicht mehr genügend Zuschauerinnen und Zuschauer anlocken. Wenn wir ins Kino gehen, dann meist in die grossen mit vielen Sälen und tollen technischen Möglichkeiten. Dazu gehören beispielsweise Filme in 3D oder 4D, denn dort hat man das Gefühl selbst im Film mit dabei zu sein. Das ist möglich durch eine spezielle Brille, die man trägt, oder weil sich sogar der Sitz bewegt.
 
@@ -49,6 +49,6 @@ Obwohl es die kleinen Kinos schwer haben, gibt es trotzdem ein grosses Kino-Ange
 
 Trotzdem haben auch die kleinen Kinos einen Vorteil: Dort gibt es nämlich oft ausgezeichnete Schweizer Filme zu sehen oder tolle, aussergewöhnliche Filme, die es nicht in die grossen Kinos schaffen. Es lohnt sich also doch, wieder mal ein kleines Kino zu besuchen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

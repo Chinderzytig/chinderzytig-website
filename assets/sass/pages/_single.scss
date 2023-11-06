@@ -1,21 +1,24 @@
 .single {
 
-	&__container { padding: 3rem; }
-
-	&__image {
+	&__photo {
+		background-color: $verdigris;
+		padding: 3rem 0;
 		display: flex;
 		justify-content: center;
-		margin-bottom: 4rem;
+		margin-bottom: 1.5rem;
 
-		&-group {
+		&-container {
 			display: flex;
 			flex-direction: column;
 			align-items: baseline;
 		}
 
+		&-img { box-shadow: 2rem 2rem $celadon; }
+
 		&-caption {
 			display: flex;
 			align-items: center;
+			padding-left: 3rem;
 		}
 	}
 
@@ -28,39 +31,53 @@
 	}
 
 	&__image-photographer {
-		color: $social-base;
+		color: $white;
 		font-size: 1.3rem;
 	}
 
 	&__caption-buffer { margin: 0 .5rem; }
 
-	&__taxonomies { display: flex; }
+	&__content { margin: 0 3rem; }
+
+	&__taxonomies {
+		display: flex;
+		margin-bottom: $margin-s;
+	}
 
 	&__date-author {
-		color: $social-base;
 		font-size: 1.3rem;
 		display: flex;
-		border-bottom: 4px solid $chinder-cultured;
-		margin-bottom: 1rem;
+		margin-bottom: .5rem;
 	}
 
 	&__dot { margin: 0 .5rem; }
 
-	&__content {
+	&__svgs {
+		@extend .cta--orL;
+		width: 100%;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 1rem 1.5rem;
+	}
+
+	&__article {
 		margin: $margin-s 0;
-		border-bottom: 4px solid $chinder-cultured;
 
 		h3 {
-			font-size: $font-bigger;
-			font-family: $font-patrick;
-			color: $chinder-orange;
+			font-family: $font-amatic;
+			color: $orange;
+			font-size: 3.5rem;
 			margin-bottom: 1.5rem;
 		}
 
+		ul { @include respond(phone-xxl) { padding-left: 2rem; } }
+
 		p, li {
 			text-align: justify;
-			margin-bottom: $margin-s;
+			margin-bottom: 1.5rem;
 		}
+
 
 		a { color: $chinder-verdigris; }
 
@@ -84,13 +101,5 @@
 				@include respond(phone-md) { height: 20rem; }
 			}
 		}
-	}
-
-	&__info-box {
-		background-color: $cta-azure;
-		padding: 2rem;
-		margin-bottom: 3rem;
-
-		li { margin-bottom: 0; }
 	}
 }

@@ -21,9 +21,9 @@ title = "Arbeit im Wandel"
 
 _SRF Kultur widmete sich in der vergangenen Woche dem Thema „Zahltag“ und beleuchtet unsere Arbeitswelt aus verschiedenen Blickwinkeln. Die Art unsere Arbeit zu organisieren hat sich in den letzten Jahrzehnten unter anderem durch die Digitalisierung stark verändert. Wie können wir mit diesen Veränderungen, der ständigen Erreichbarkeit und dem höheren Arbeitstempo umgehen und wie können wir dabei gesund bleiben? Dies ist eine Grundfrage der heutigen Zeit._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _SRF Kultur widmete sich in der vergangenen Woche dem Thema „Zahltag“ und be
 
 <li>Mit der Digitalisierung der Arbeitswelt entstehen viele Möglichkeiten und auch viele Herausforderungen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Die Arbeitswelt verändert sich nicht zum ersten Mal. Als mit der Industrialisierung Maschinen geschaffen wurden, welche in viel kürzerer Zeit viel mehr produzieren konnten als einzelne Menschen, gab es bereits einen grossen Wandel. In den 1970er Jahren kamen erste Roboter zum Einsatz, welche wiederum gewisse Arbeitsschritte übernehmen konnten und die Arbeitsaufteilung wieder neu gestaltet werden durfte. Bald darauf folgten die ersten Computer, welche heute aus unserer Welt nicht mehr wegzudenken sind.
 
@@ -43,8 +43,4 @@ Jeder technische Fortschritt hat stets positive und auch negative Auswirkungen, 
 
 Die Arbeitswelt verändert sich einmal mehr und jede Veränderung wirft die Frage auf, was es braucht, damit wir gesund in die nächste Phase gehen können. Heute braucht es einen neuen Halt, neue Verbindungen und vor allem die Suche nach dem Sinn der Arbeit, das gibt Stabilität.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

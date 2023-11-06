@@ -19,11 +19,11 @@ slug = ""
 title = "K-Pop – Blackpink & BTS"
 
 +++
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
 _In diesem Artikel erfährst du, was K-Pop ist und wie BTS und Blackpink damit zusammenhängen._
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -35,7 +35,7 @@ _In diesem Artikel erfährst du, was K-Pop ist und wie BTS und Blackpink damit z
 
 <li>Der Name Blackpink sagt übersetzt Folgendes aus: Pink repräsentiert in diesem Fall «Schönheit» und Blackpink möchte mit ihrem Namen ausdrücken, dass Schönheit nicht alles ist.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 K-Pop ist die Abkürzung für **Korean Popular Music** oder kurz **Korean Pop** und ein Sammelbegriff für koreanischsprachige Popmusik, mit Elementen aus Hip-Hop, R&B und Elektro.
 
@@ -70,6 +70,6 @@ Leider können die Member nichts bestimmen und werden von YG-Entertainment geste
 
 Am 29. Juni 2016 wurde die Gruppe offiziell vorgestellt. Seither ist sie eine der bekanntesten K-Pop-Gruppen weltweit. Blackpink haben bereits Duette mit bekannten Sängerinnen veröffentlicht, wie Dua Lipa, Lady Gaga, Cardi B und Selena Gomez.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

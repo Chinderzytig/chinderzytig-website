@@ -36,8 +36,4 @@ Während die chinesische Fischerei eine wichtige Rolle für den globalen Markt u
 
 {{< definition id="Aquakulturen" wort="Aquakulturen" def="Aquakulturen (auch Aquafarming genannt) bezeichnet den Prozess der künstlichen und kontrollierten Zucht von Fischen und Meeresfrüchten." >}}
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

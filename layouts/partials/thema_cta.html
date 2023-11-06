@@ -2,15 +2,15 @@
 
 <div class="cta cta--pinkL">
 	{{ if eq .categories "true" }}
-		<h2 class="deading deading--black">Themen des Artikels</h2>
+		<h2 class="deading deading--black deading__list">Themen des Artikels</h2>
 	{{ else }}
-		<h2 class="deading deading--black">Artikel nach Thema</h2>
+		<h2 class="deading deading--black deading__list">Artikel nach Thema</h2>
 	{{ end }}
 	<div class="cta__flex-arnd">
 		{{range $name, $tags := $page.Site.Taxonomies.markierungen}} {{ $cnt := .Count }}
 			{{ with $page.Site.GetPage (printf "/markierungen/%s" $name) }}
 				<a href="{{ .RelPermalink }}" class="mtn mtn__group mtn--space-cadet">
-					<span class="mtn__text">{{ $name }}</span>
+					<span class="mtn__label">{{ $name }}</span>
 					<span>({{ $cnt }})</span>
 				</a>
 			{{end}}
@@ -19,7 +19,7 @@
 			{{range $c, $categories := $page.Site.Taxonomies.kategorien}} {{ $cnt := .Count }}
 				{{ with $page.Site.GetPage (printf "/kategorien/%s" $c) }}
 					<a href="{{ .RelPermalink }}" class="mtn mtn__group mtn--space-cadet">
-						<span class="mtn__text">{{ $c }}</span>
+						<span class="mtn__label">{{ $c }}</span>
 						<span>({{ $cnt }})</span>
 					</a>
 				{{ end }}

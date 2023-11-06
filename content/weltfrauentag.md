@@ -34,8 +34,8 @@ Der Frauentag verlor an Bedeutung, bis in den 1970er Jahren eine neue, junge Fra
 
 Choose To Challenge, das war das Motto des Weltfrauentags 2021. Es bedeutet soviel wie"wähle die Herausforderung". Das Komitee des Weltfrauentags hat dazu aufgerufen, ein Bild mit der #ChooseToChallenge Pose, einer erhobenen Hand, auf den sozialen Medien zu veröffentlichen. Damit wollten sie zeigen, dass wir uns zusammen dafür entscheiden, geschlechtsspezifische Vorurteile und Ungleichheiten anzuprangern und zu bekämpfen. Wir entscheiden uns dafür die Leistungen von Frauen zu feiern. Damit tragen wir alle dazu bei eine inklusive Welt zu schaffen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

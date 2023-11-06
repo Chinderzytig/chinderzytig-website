@@ -40,8 +40,8 @@ Was meinst du? Kennst du noch weitere Projekte, welche das Gletschersterben verh
 
 {{< definition id="Glaziologie" wort="Glaziologie" def="Ein Glaziologe erforscht die Formen, das Auftreten und die Eigenschaften von Schnee und Eis." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

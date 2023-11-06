@@ -21,9 +21,9 @@ title = "Barbie – Die bekannteste Puppe der Welt"
 
 _Barbie (eigentlich Barbara Millicent Roberts) gilt als eine der bekanntesten und meistverkauften Puppen der Welt und gehört damit zu den Spielzeugklassikern_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Barbie (eigentlich Barbara Millicent Roberts) gilt als eine der bekanntesten u
 
 <li>Am 21. Juli 2023 wurde der neue Barbie-Film erstmals in den Kinos gezeigt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Barbie ist ein eingetragenes Warenzeichen der US-amerikanischen Firma Mattel und bezeichnet die Produktionsreihe von Modepuppen im Massstab 1:6. Auch die Puppe **Ken** (mit vollem Namen Kenneth Sean Carson), das männliche Pendant, gehört zum Barbie-Franchise.
 
@@ -53,8 +53,4 @@ Der neue Barbie-Film wurde am 21. Juli 2023 erstmals in den Schweizer Kinos ausg
 Worum geht es im “Barbie”-Film?
 Im Mittelpunkt des Films steht eine Puppe, die im Barbieland lebt und aufgrund ihrer sogenannten Unvollkommenheiten gezwungen ist, das Land zu verlassen.  Sie begibt sich auf ein Abenteuer in der realen Welt und entdeckt dabei, dass Perfektion nur im Inneren zu finden ist.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

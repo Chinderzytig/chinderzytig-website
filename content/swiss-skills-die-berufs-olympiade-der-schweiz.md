@@ -22,9 +22,9 @@ _Was möchtest du später gerne einmal werden? Diese Frage kennst du sicher scho
 
 _Wusstest du, dass es in der Schweiz 230 Berufe gibt? Wie kann man Unternehmer oder Unternehmerin werden? Gibt es dazu überhaupt eine Lehrstelle?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -36,7 +36,7 @@ _Wusstest du, dass es in der Schweiz 230 Berufe gibt? Wie kann man Unternehmer o
 
 <li>„Seine SKILLS entdecken“ heisst: seine Fähigkeiten kennenzulernen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Vom 7.-11.September finden die SWISS SKILLS 2022 in Bern statt.
 

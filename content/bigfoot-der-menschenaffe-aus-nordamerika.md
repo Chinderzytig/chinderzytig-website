@@ -47,8 +47,4 @@ Viele der älteren Sichtungen oder Aufnahmen geschahen zufällig. Seit einigen J
 * Bigfoot im Kinderlexikon Klexikon: [https://klexikon.zum.de/wiki/Bigfoot](https://klexikon.zum.de/wiki/Bigfoot "https://klexikon.zum.de/wiki/Bigfoot")
 * Artikel über Bigfoot-Jäger in Amerika: [https://www.aargauerzeitung.ch/leben/forschung-technik/in-den-usa-machen-forscher-jagd-auf-den-mysterioesen-bigfoot-128763416](https://www.aargauerzeitung.ch/leben/forschung-technik/in-den-usa-machen-forscher-jagd-auf-den-mysterioesen-bigfoot-128763416 "https://www.aargauerzeitung.ch/leben/forschung-technik/in-den-usa-machen-forscher-jagd-auf-den-mysterioesen-bigfoot-128763416")
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

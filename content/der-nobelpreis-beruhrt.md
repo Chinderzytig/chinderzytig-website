@@ -20,7 +20,7 @@ title = "Der Nobelpreis berührt"
 +++
 _Welch’ Überraschung! Da forscht gefühlt die ganze Welt nach einem Impfstoff gegen den Corona-Virus, der schliesslich auch gefunden wird - und für den Medizin-Nobelpreis reicht es dennoch nicht. Gewinner sind zwei Männer, die über den Tastsinn geforscht haben._
 
-{{< info-box >}}
+{{< important-points >}}
 	<h3>Für unsere jüngsten Lesenden: Das Wichtigste in Kürze</h3>
 	<ul>
 		<li>Jedes Jahr wird in Stockholm, Schweden, der Nobelpreis vergeben</li>
@@ -37,7 +37,7 @@ _Welch’ Überraschung! Da forscht gefühlt die ganze Welt nach einem Impfstoff
 		</li>
 		<li>Die Entdecker*innen der Corona-Impfung gingen leer aus</li>
 	</ul>
-{{< /info-box >}}
+{{< /important-points >}}
 
 Berührung ist die erste Sprache. Lange, bevor wir sprechen können, kommunizieren wir über Berührungen. Den Reflex eines Babys, wenn es deinen Finger packt, kennst du bestimmt. Bereits im Bauch der Mutter “sprechen” Babys über den Tastsinn. Leichter Druck auf den Bauch führt zu Gegendruck. Auch das hast du vielleicht bereits erlebt. Auch dein Körper erfährt jeden Tag unzählige Berührungen. Dank der Verbindung ins Gehirn, können wir Schmerzen, Berührungen und Temperaturen erst wahrnehmen.
 

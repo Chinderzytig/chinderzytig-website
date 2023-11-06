@@ -34,8 +34,8 @@ Die PKK begann den militärischen Konflikt 1984. Der Konflikt eskalierte immer m
 
 Wir haben in mehreren Artikeln über die Konflikte im nahen Osten berichtet. Die Probleme sind vielfältig und es bleiben Fragen offen. Wir hoffen euch mit den Artikeln zum Denken und zum weiteren Lesen angeregt zu haben.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

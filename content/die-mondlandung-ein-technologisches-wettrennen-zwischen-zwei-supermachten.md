@@ -20,9 +20,9 @@ title = "Die Mondlandung – Ein technologisches Wettrennen zwischen zwei Superm
 +++
 _„Ein kleiner Schritt für einen Menschen, ein grosser Schritt für die Menschheit.“ Dieses Zitat stammt von Neil Armstrong, der am 20. Juli 1969 gemeinsam mit Edwin Aldrin als erster Mensch den Mond betrat. Damit gewannen die Amerikaner den Wettlauf zum Mond gegen die Sowjetunion. Doch weshalb war dieser Wettstreit so wichtig?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _„Ein kleiner Schritt für einen Menschen, ein grosser Schritt für die Mensch
 
 <li>Den USA gelang es 1969, die ersten Personen zum Mond zu befördern und gesund wieder zurückzuholen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Ein Wettlauf gegen die Zeit
 
@@ -46,8 +46,8 @@ Die USA setzten sich als Ziel, noch vor Ende des Jahrzehnts einen Mann auf den M
 
 Das Ereignis wird allerdings von einigen Menschen angezweifelt. Zur Mondlandung gibt es zahlreiche Verschwörungstheorien.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

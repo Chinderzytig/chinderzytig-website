@@ -42,8 +42,8 @@ Johannsen, Margret (2017). Der Nahost-Konflikt. 4.Auflage. Wiesbaden: Springer V
 
 Riegler, Thomas (2018): «Das «Spinnennetz» des internationalen Terrorismus- Der «Schwarze September» und die gescheiterte Geiselnahme von Schönau 1973» In. Viertelsjahrshefte für Zeitgeschichte, 579-601
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

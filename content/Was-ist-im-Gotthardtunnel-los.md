@@ -21,9 +21,9 @@ title = "Was ist im Gotthardtunnel los?"
 
 _Was ist im Gotthard-Tunnel passiert? Kann der Tunnel bald wieder befahren werden? Wie kann ich trotzdem mit dem Zug ins Tessin fahren?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Was ist im Gotthard-Tunnel passiert? Kann der Tunnel bald wieder befahren werde
 
 <li>Statt durch den Tunnel, fahren Personenzüge nun über die Panoramastrecke, mit längeren Fahrzeiten.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Der Gotthard-Tunnel wurde vor über 140 Jahren unter dem Gotthardmassiv gebaut. Er verbindet die Ortschaften Göschenen in Kanton Uri und Airolo im Kanton Tessin. Der Tunnel ist 57 Kilometer lang und besteht aus einer doppelseitig ausgebauten Tunnelröhre. Über dem Mittelteil des Tunnels befindet sich ein über 1‘000 Meter hohes Gebirge.
 
@@ -55,8 +55,8 @@ Personenzüge werden nun über die Panoramastrecke umgeleitet. Diese verläuft �
 
 Fahrten zwischen Italien und der Deutschschweiz sollten vorher online oder z.B. auf der SBB-App nachgeschaut werden, um auf der sicheren Seite zu sein.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

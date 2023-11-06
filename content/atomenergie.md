@@ -21,9 +21,9 @@ title = "Atomenergie"
 
 _In Atomkraftwerken wird mithilfe von Atomkernen Strom gewonnen. Viele Menschen finden Atomkraft aber zu gefährlich._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _In Atomkraftwerken wird mithilfe von Atomkernen Strom gewonnen. Viele Menschen 
 
 <li>Uran ist ein schweres Metall, das man überall auf der Welt findet. In der Schweiz kommt es meistens in den Bergen vor.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 in Teil des Stroms, den wir zum Beispiel für Smartphones, Computer und andere elektrische Geräte brauchen, kommt aus Atomkraftwerken. Diese Kraftwerke heissen so, weil dort mithilfe von Atomkernen Strom gewonnen wird. Atome sind winzig kleine Teilchen, aus denen alles auf der Welt besteht. Jedes Lebewesen und jeder Gegenstand, einfach alles besteht aus winzigen Atomen.
 
@@ -45,8 +45,4 @@ Atomkraftwerke bergen jedoch eine Gefahr: Durch die Spaltung der Atomkerne entst
 
 Wegen dieser Gefahr gibt es strenge Sicherheitsvorschriften für Atomkraftwerke. Regelmässig wird überprüft, ob alle Vorschriften eingehalten werden und ob die Technik funktioniert. Doch bei Unfällen - wie zum Beispiel sehr starken Erdbeben oder einem technischer Fehler- können Atomkraftwerke beschädigt werden. Dann kann es im schlimmsten Fall dazu kommen, dass radioaktive Strahlung nach aussen gelangt und die Strahlung die Menschen und auch die Natur sehr krank machen könnte.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

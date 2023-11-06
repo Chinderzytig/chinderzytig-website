@@ -21,9 +21,9 @@ title = "Erdbeeren"
 
 _In diesem Artikel erfährst du, welche Erdbeersorten süss sind, wann ihre Saison ist und worauf du beim Erdbeerenpflücken achten solltest._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _In diesem Artikel erfährst du, welche Erdbeersorten süss sind, wann ihre Sais
 
 <li>Erdbeeren stammen ursprünglich aus Amerika.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Die Vorfahren unserer Kulturerdbeere stammen ursprünglich aus Amerika. Mitte des 18. Jahrhunderts wurden sie zu uns nach Europa gebracht.
 
@@ -70,8 +70,8 @@ Es gibt zwei drei Tipps, welche dir bei der Wahl deiner Erdbeerpflückung helfen
 
 - Wer seine frisch gepflückten Erdbeeren aus dem Garten oder vom Feld nicht sofort verspeisen kann oder möchte, sollte die Früchte nicht bei Raumtemperatur aufbewahren, sondern in den Kühlschrank legen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

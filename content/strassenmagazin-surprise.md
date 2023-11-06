@@ -20,9 +20,9 @@ title = "Strassenmagazin Surprise "
 +++
 _Mit dem Strassenmagazin Surprise und weiteren sozialen Projekten werden sozial benachteiligte Menschen in der Schweiz unterstützt. Dabei fördert der Verein Surprise auch die soziale Gerechtigkeit und die gesellschaftliche Vielfalt._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -30,7 +30,7 @@ _Mit dem Strassenmagazin Surprise und weiteren sozialen Projekten werden sozial 
 
 <li>Der Verein unterstützt sozial benachteiligte Menschen mit verschiedenen Angeboten.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Die Geschichte des Vereins Surprise
 
@@ -74,8 +74,7 @@ Der Verein unterstützt Menschen bei der Wohnungs- und Arbeitssuche, macht Schul
 
 Etwa 450 Armutsbetroffene verkaufen das Strassenmagazin Suprise. Der Verein finanziert sich zu 65 % aus dem Verkauf des Strassenmagazins, der Rest erfolgt durch Spenden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

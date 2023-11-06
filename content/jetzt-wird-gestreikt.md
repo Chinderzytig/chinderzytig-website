@@ -21,9 +21,9 @@ title = "Jetzt wird gestreikt"
 +++
 _In Frankreich legen die Menschen ihre Arbeit nieder, um gegen eine umstrittene Rentenreform zu protestieren. In Deutschland kam der öffentliche Verkehr zum Stillstand, um auf die heiklen Arbeitsbedingungen aufmerksam zu machen. Ein Streik beeinflusst das öffentliche Leben. Doch was geschieht eigentlich bei einem Streik und kann er wirklich etwas verändern?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _In Frankreich legen die Menschen ihre Arbeit nieder, um gegen eine umstrittene 
 
 <li>Nach einem Streik wird verhandelt. Wird eine gemeinsame Lösung gefunden nimmt der Streik ein Ende, ansonsten wird er zu einem späteren Zeitpunkt wieder aufgenommen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Streiken bedeutet, dass viele Menschen gleichzeitig ihre Arbeit niederlegen. Geschieht dies in einem öffentlichen Bereich wie zum Beispiel dem öffentlichen Verkehr, in Spitälern, bei der Müllabfuhr oder auch in der Schule, hat ein Streik grossen Einfluss. Das Ziel eines Streiks ist es, bessere Arbeitsbedingungen zu erreichen oder - wie dies in Frankreich der Fall ist - gegen Entscheidungen der Regierung zu protestieren.
 

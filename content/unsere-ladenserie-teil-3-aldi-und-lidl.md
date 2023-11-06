@@ -36,8 +36,8 @@ Neuerdings nehmen Aldi und Lidl exklusivere Lagen ins Visier: Innenstädte, Bahn
 
 Dass man mit billigen Produkten viel Geld verdienen kann, zeigt übrigens Karl Hans Albrecht. Er gründete 1962 Aldi, zusammen mit seinem Bruder. Als Albrecht 2014 starb, war er der reichste Mensch in Deutschland.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

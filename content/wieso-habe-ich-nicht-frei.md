@@ -25,9 +25,9 @@ nationaler Feiertag ist, hat man nicht in jedem Kanton frei. Die Entscheidung
 darüber, ob der 1. Mai als Feiertag begangen wird oder nicht, liegt bei den
 einzelnen Kantonen. Doch wer hat am Tag der Arbeit frei und wieso?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -37,7 +37,7 @@ einzelnen Kantonen. Doch wer hat am Tag der Arbeit frei und wieso?_
 
 <li>Der Tag der Arbeit ist vor allem in Kantonen, welche früh industrialisiert wurden und starke Gewerkschaften für Arbeitnehmende haben, als Feiertag anerkannt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Feiertage in der Schweiz
 

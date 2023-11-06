@@ -22,9 +22,9 @@ title = "Was macht eine PUK?"
 _Wie ist die Übernahme der Bank Credit Suisse durch die UBS abgelaufen? Das soll eine sogenannte parlamentarische Untersuchungskommission PUK herausfinden, wie das Schweizer Parlament Anfang Juni entschieden hat.
 Was bedeutet es, wenn eine PUK eingesetzt wird, und was macht sie genau? Das erfährst du in diesem Artikel._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -34,7 +34,7 @@ Was bedeutet es, wenn eine PUK eingesetzt wird, und was macht sie genau? Das erf
 
 <li>Eine PUK wird bei schwerwiegenden Vorfällen eingesetzt. Sie untersucht die Rolle und Tätigkeiten des Bundesrats, der Bundesverwaltung und von Organisationen mit Aufgaben des Bundes.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Mitte März hat die Bank UBS die Bank die Credit Suisse (CS) übernommen. Es ging darum, die CS zu retten (s. [Fokus der Woche vom 22. März](https://www.chinderzytig.ch/das-ende-einer-grossbank/)). Der Bundesrat hat mitgeholfen, dass dieser Deal (dieses Geschäft) zustande gekommen ist. Zudem hat er finanzielle Unterstützung versprochen, falls die Übernahme der UBS schaden sollte. Das Parlament konnte bei diesem Geschäft nicht mitreden. Es lehnte deshalb in einer ausserordentlichen Sitzung die finanzielle Unterstützung ab. Das hatte jedoch nur symbolischen Charakter. Der Entscheid wurde unter Notrecht gefällt. Das heisst, der Bundesrat konnte den Entscheid treffen, auch ohne das Parlament zu fragen. Mit der Ablehnung der finanziellen Unterstützung zeigte das Parlament dem Bundesrat einfach deutlich: „Hey, wir sind mit eurem Entscheid nicht einverstanden.“
 

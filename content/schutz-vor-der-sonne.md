@@ -21,9 +21,9 @@ title = "Schutz vor der Sonne"
 
 _Der Sommer ist hier. Nun stehen uns hoffentlich wieder drei Monate mit viel Sonne bevor. Dabei kann es schnell passieren, dass man sich verbrennt. Man hört immer wieder, dass ein Sonnenbrand nicht so harmlos ist, wie man das denkt. Doch welche Gefahren bringt ein Sonnenbrand wirklich mit sich? Und wie schützt man sich und die eigene Haut am besten?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Der Sommer ist hier. Nun stehen uns hoffentlich wieder drei Monate mit viel Son
 
 <li>Es ist wichtig, sich immer gut zu schützen und in den heissesten Stunden des Tages nie ungeschützt in die Sonne zu gehen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Vor allem im Sommer ist es sehr wichtig, sich vor den schädlichen Auswirkungen der Sonne zu schützen. Dabei spielt der richtige Sonnenschutz eine entscheidende Rolle, um unsere Haut gesund zu halten. Denn ein heftiger Sonnenbrand kann nicht nur sehr unangenehm sein, sondern auch Gefahren, langfristige Gefahren mit sich bringen.
 

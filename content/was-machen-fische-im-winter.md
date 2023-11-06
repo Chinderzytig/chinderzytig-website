@@ -32,8 +32,8 @@ Im Winter kühlt sich die Luft ab und die Wassertemperaturen sinken. Bei 0 Grad 
 
 Fische können nur in gefrorenen Gewässern überleben, die mindestens 80 bis 100 cm tief sind. Anderenfalls kann es passieren, dass das Wasser komplett gefriert, mitsamt den Fischen. Teiche, die also nicht tief genug sind, müssen eine eisfreie Stelle besitzen. Diese kann zum Beispiel mit Styroporeinsätzen erzeugt werden. Dort können die giftigen Gase entweichen, die unter dem Eis entstehen und die die Fische vergiften würden. Die beste Überwinterungsmethode für Gartenteichfische ist aber, sie aus dem Teich zu nehmen und sie in einer Wassertonne im Keller aufzubewahren, bis die Temperaturen wieder steigen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

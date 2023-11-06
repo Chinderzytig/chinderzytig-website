@@ -1,61 +1,74 @@
 {{define "main"}}
-	<div class="single__container">
-		<div class="single__frontmatter">
-			<div class="single__image">
-				<figure class="single__image-group">
-					<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_320/{{ .Params.hero_img }} 320w,
-					{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_414/{{ .Params.hero_img }} 414w,
-					{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_512/{{ .Params.hero_img }} 512w,
-					{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_600/{{ .Params.hero_img }} 600w"
-					sizes="(min-width: 800px) 800px, 100vw"
-					src="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_800/{{ .Params.hero_img }}"
-					alt="{{ .Params.img_description }}"
-					class="single__image-img"/>
-					<figcaption class="single__image-caption">
-						{{ partial "svgs/triangle_up_svg.html" (dict "fill" "#6C685D" "width" 15 "height" 15) }}
-						{{ if .Params.img_src }}
-						<a href="{{ .Params.img_src }}" title="{{ .Params.img_description }}" target="_blank" class="single__image-src">
-							<div class="single__image-photographer">{{ .Params.img_photographer }}</div>
-						</a>
-						{{ else}}
+		<div class="single__photo">
+			<figure class="single__photo-container">
+				<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_320/{{ .Params.hero_img }} 320w,
+				{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_414/{{ .Params.hero_img }} 414w,
+				{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_512/{{ .Params.hero_img }} 512w,
+				{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_600/{{ .Params.hero_img }} 600w"
+				sizes="(min-width: 800px) 800px, 100vw"
+				src="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_800/{{ .Params.hero_img }}"
+				alt="{{ .Params.img_description }}"
+				class="single__photo-img"/>
+				<figcaption class="single__photo-caption">
+					{{ partial "svgs/triangle_up_svg.html" (dict "fill" "#FFF" "width" 15 "height" 15) }}
+					{{ if .Params.img_src }}
+					<a href="{{ .Params.img_src }}" title="{{ .Params.img_description }}" target="_blank" class="single__image-src">
 						<div class="single__image-photographer">{{ .Params.img_photographer }}</div>
-						{{ end }}
-						{{ if .Params.cc_licence }}
-						<div class="single__caption-buffer">/</div>
-						<a href="{{ .Params.cc_src }}" target="_blank" class="single__cc-src">
-							<div class="single__cc-licence">{{ .Params.cc_licence }}</div>
-						</a>
-						{{ end }}
-					</figcaption>
-				</figure>
-			</div>
-			<div class="single__taxonomies">
-				{{ if .Params.kategorien }}
+					</a>
+					{{ else}}
+					<div class="single__image-photographer">{{ .Params.img_photographer }}</div>
+					{{ end }}
+				</figcaption>
+			</figure>
+		</div>
+
+		<div class="single__content">
+			<div class="singe__content-frontmatter">
+				<div class="single__taxonomies">
+					{{ if .Params.kategorien }}
 					{{ range (.GetTerms "kategorien") }}
-						<a href="{{ .Permalink }}" class="marker marker--article">{{ .LinkTitle }}</a>
+					<a href="{{ .Permalink }}" class="mtn mtn__small mtn--jonquil">{{ .LinkTitle }}</a>
 					{{ end }}
-				{{ end }}
-				{{ if .Params.markierungen }}
+					{{ end }}
+					{{ if .Params.markierungen }}
 					{{ range (.GetTerms "markierungen") }}
-						<a href="{{ .Permalink }}" class="marker marker--article">{{ .LinkTitle }}</a>
+					<a href="{{ .Permalink }}" class="mtn mtn__thema">{{ .LinkTitle }}</a>
 					{{ end }}
-				{{ end }}
-			</div>
-			<h2 class="heading heading--article">{{ .Params.title }}</h2>
-			<div class="single__date-author">
-				<div class="single__date">{{ .Date.Format .Site.Params.DateForm }}</div>
-				<div class="single__dot">●</div>
-				<div class="single__author">
-					{{ if .Params.author }}
-						{{ .Params.author }}
-					{{ else }}
-						Chinderzytig
 					{{ end }}
 				</div>
+				<h2 class="deading__article nr-read">{{ .Params.title }}</h2>
+					<div class="single__date-author">
+						<div class="single__date nr-read">{{ .Date.Format .Site.Params.DateForm }}</div>
+						<div class="single__dot">●</div>
+						<div class="single__author nr-read">
+							{{ if .Params.author }}
+							{{ .Params.author }}
+							{{ else }}
+							Chinderzytig
+							{{ end }}
+						</div>
+					</div>
+					<div class="single__svgs">
+						{{ partial "svgs/article-social.html" . }}
+						{{ partial "svgs/volume.html" }}
+					</div>
+				</div>
+
+				<div class="single__article nr-read">{{ .Content }}</div>
 			</div>
-			{{ partial "svgs/article_svgs.html" . }}
-		</div>
-		<div class="single__content">{{ .Content }}</div>
-	</div>
-	{{ partial "support_us_cta.html" }}
+
+{{ partial "support_us_cta.html" }}
+
 {{end}}
+{{ define "scripts" }}
+	<script src="https://webreader.naturalreaders.com/nr-webreader.js" defer></script>
+	<script>
+			window.addEventListener("DOMContentLoaded", function() {
+					if (typeof NRWebReader != 'undefined') {
+							window['NRWebReader'] = new NRWebReader({
+							widget_id: "ir5vo6qrfm"  // DO NOT REMOVE. This is your widget ID for your WebReader
+							});
+					}
+			});
+	</script>
+{{ end }}

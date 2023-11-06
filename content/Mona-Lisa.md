@@ -21,9 +21,9 @@ title = "Mona Lisa"
 
 _Das Gemälde von Leonardo da Vinci ist eines der berühmtesten der Welt. Wenn du mehr über Mona Lisa erfahren möchtest und wieso es so berühmt ist, lohnt es sich weiterzulesen._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Das Gemälde von Leonardo da Vinci ist eines der berühmtesten der Welt. Wenn d
 
 <li>Das Gemälde ist so besonders, dass es unverkäuflich ist. Aus diesem Grund wollen Experten nie einen konkreten Verkaufspreis für die Mona Lisa nennen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Mona Lisa ist ein weltberühmtes Ölgemälde von Leonardo da Vinci aus der Hochphase der italienischen Renaissance Anfang des 16. Jahrhunderts.
 
@@ -58,8 +58,8 @@ Deshalb weigern sich viele seriöse Experten, interessierten Laien einen exakten
 
 Die Mona Lisa gehört offiziell der französischen Regierung und ist Teil der Sammlung des Louvre-Museums in Paris.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

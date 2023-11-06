@@ -20,9 +20,9 @@ title = "Sind die Bratwurst und Cervelat am Ende?"
 +++
 _Wir alle essen täglich. Was wir essen, hängt auch davon ab, was es in den Regalen von Supermärkten wie Coop oder Migros gibt. Das Angebot an {{< fremdwort id="veganen" wort="vegan" >}}Fleischalternativen wird immer grösser. Gleichzeitig entscheiden sich immer mehr Menschen für die pflanzlichen Produkte, die unter dem englischen Begriff „Plant Based Food“ bekannt sind. Was bedeutet das {{< fremdwort id="wachsende" wort="wachsende Angebot und die wachsende Nachfrage" >}}für die Fleischprodukte? Verschwinden Bratwurst und Cervelat bald aus dem Sortiment?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Wir alle essen täglich. Was wir essen, hängt auch davon ab, was es in den Reg
 
 <li>Das Sortiment an pflanzlichen Alternativen in den Supermärkten wächst stark.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Schweizer Fleischkonsum
 
@@ -66,6 +66,6 @@ Abgesehen von Veganerinnen und Veganern konsumieren Menschen, die pflanzliche Er
 
 {{< definition id="co2" wort="CO2" def="Ist die Abkürzung für das Gas Kohlenstoffdioxid. Es besteht aus Kohlenstoff und Sauerstoff. Man kann pures CO2 nicht sehen und nicht riechen, denn es ist farb- und geruchlos. Kohlenstoffdioxid ist von Natur aus in der Luft enthalten. Wenn wir das Licht anknipsen, die Heizung aufdrehen, den Kamin anzünden oder mit dem Auto fahren, gelangt zusätzliches Kohlendioxid in die Atmosphäre. Zu viel CO2 in der Luft ist schlecht für das Klima." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

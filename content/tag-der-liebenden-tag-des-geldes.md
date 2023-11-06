@@ -44,8 +44,8 @@ Paare kaufen sich vermehrt aber auch andere Geschenke: Schokolade oder eine Reis
 
 In vielen Ländern geben die Leute von Jahr zu Jahr mehr Geld für den Tag der Liebenden aus. Nicht so in der Schweiz. Bei uns sanken die Ausgaben in den letzten Jahren um fast 20 Prozent.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

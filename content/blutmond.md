@@ -34,8 +34,4 @@ Auch im Alten Ägypten galt ein Blutmond als böses Omen. Die Menschen glaubten 
 
 Im alten China glaubten die Menschen, dass sich bei einem Blutmond ein Drache der Erde nähert, um sie zu verschlingen. Dieser würde die Erde erst wieder freigeben, wenn die Menschen ihn mit Lärm und Feuerwerk vertreiben. So werden Mondfinsternisse auch Drachenpunkte genannt. Auch wenn wir heute wissen, dass diese Geschichten von Menschen erfunden wurden, um die gespenstische Atmosphäre des Blutmondes zu erklären, sind sie trotzdem immer noch lesenswert. Wer weiss, vielleicht erinnert ihr euch beim nächsten Blutmond an diese Geschichten und erzählt sie euren Freunden weiter.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -37,8 +37,8 @@ Um diese Frage zu beantworten, muss zuerst geklärt werden, was die Milchstrasse
 
 Weisst du noch mehr über die Sterne oder hast du eine Frage, die hier noch nicht beantwortet wurde? Welches ist dein Sternzeichen und hast du es schon einmal am Himmel gesehen? Liest du ab und zu dein Horoskop und glaubst du daran? Wusstest du, dass unsere Sonne eigentlich auch ein Stern ist?
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

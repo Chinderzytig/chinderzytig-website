@@ -20,9 +20,9 @@ title = "Auf der Baustelle"
 +++
 _Viele Menschen in der Schweiz arbeiten auf dem Bau. Doch was gibt es in diesen unterschiedlichen Berufen eigentlich alles zu entdecken?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Viele Menschen in der Schweiz arbeiten auf dem Bau. Doch was gibt es in diesen 
 
 <li>Bauberufe sind vor allem für Menschen geeignet, die gerne an der Natur sind, sich bewegen und gerne mit den Händen arbeiten.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Maurerinnen und Maurer, Strassenbauerinnen und Strassenbauer, Schreinerinnen und Schreiner – das sind nur wenige der Berufe, die es im Bauwesen gibt. In allen diesen Berufen verbringt man viel Zeit draussen und packt selbst mit an. Alle helfen mit, um zum Beispiel Gebäude und Strassen zu bauen oder diese zu reparieren, wenn etwas kaputt geht.
 
@@ -48,6 +48,4 @@ Berufe auf dem Bau sind teilweise richtig anstrengend für den Körper aber mach
 
 In diesem Artikel hast du nur einen ganz kleinen Einblick in die grosse, weite Welt des Bauwesens erhalten. Es gibt noch ganz viele weitere spannende Berufe, die dort auf dich warten.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}

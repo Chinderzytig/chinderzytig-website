@@ -45,8 +45,8 @@ Die bekannteste Yeti-Sichtung stammt von Reinhold Messner. Der berühmte österr
 * Yeti im Kinderlexikon Klexikon: [https://klexikon.zum.de/wiki/Yeti](https://klexikon.zum.de/wiki/Yeti "https://klexikon.zum.de/wiki/Yeti")
 * Artikel über den Yeti im Beobachter: [https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom](https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom "https://www.beobachter.ch/umwelt/flora-fauna/yeti-mythos-das-ewige-phantom")
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

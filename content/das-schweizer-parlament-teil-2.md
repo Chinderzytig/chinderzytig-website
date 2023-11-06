@@ -21,9 +21,9 @@ title = "Das Schweizer Parlament - Teil 2"
 
 _Zu den Aufgaben des Schweizer Parlaments bestehend aus National- und Ständerat gehört die Wahl des Bundesrates und der Erlass neuer Gesetze und Verordnungen, sofern nötig. Daneben hat die Bundesversammlung auch eine Kontrollfunktion über die Geschäfte des Bundesrates._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Zu den Aufgaben des Schweizer Parlaments bestehend aus National- und Ständerat
 
 <li>Die Bundesversammlung wird von der Schweizer Bevölkerung gewählt und wählt ihrerseits den Schweizer Bundesrat.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Im Artikel vom 4. April 2023 findet sich ein Überblick über die nationale Bundesversammlung. Diese besteht nämlich aus National- und Ständerat und hat insgesamt 246 Mitglieder. Diese Mitglieder vertreten die Interessen der unterschiedlichen Parteien. In diesem Artikel wird nun näher darauf eingegangen, was die Aufgaben der nationalen Bundesversammlung sind.
 

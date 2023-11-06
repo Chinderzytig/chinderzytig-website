@@ -38,8 +38,7 @@ In den Jahren 1870 bis 1914 war fast ganz Afrika zwischen den Ländern Europas a
 
 China bringt sowohl Positives als auch Negatives nach Afrika. Ob die chinesischen Investitionen und das Engagement in Afrika schlussendlich als positive oder negative Entwicklung für die Länder Afrikas in die Geschichte eingehen, wird sich wohl erst im Laufe der Zeit zeigen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

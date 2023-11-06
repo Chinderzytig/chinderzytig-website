@@ -20,9 +20,9 @@ title = "Ungleichheit am Arbeitsplatz "
 +++
 _Vergangenen Sonntag haben wir den Tag der Arbeit gefeiert. An diesem Tag stehen Arbeiterrechte im Fokus. Arbeitnehmende sollen möglichst faire Arbeitsbedingungen haben. In der Schweiz ist das zum grössten Teil der Fall. Doch leider werden auch bei uns nicht alle Angestellten gleichbehandelt._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Vergangenen Sonntag haben wir den Tag der Arbeit gefeiert. An diesem Tag stehen
 
 <li>Frauen und Männer verdienen unter den gleichen Bedingungen (Berufserfahrung, Position) fast genau gleich viel Geld.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Junge Menschen scheinen optimistisch zu sein, wenn es um den Fortschritt in der Gleichberechtigung von Frauen am Arbeitsplatz geht. In einer Umfrage aus dem Jahr 2020 haben 75 Prozent der Leute geantwortet, dass sie hoffnungsvoll auf den Fortschritt der Gleichstellung in der Schweiz blicken. Doch die Realität ist etwas ernüchternd.
 
@@ -46,8 +46,8 @@ Eine Studie der Universität St. Gallen hat ein überraschendes Resultat hervorg
 
 Der einfachere Teil für die Gleichberechtigung scheint also auf gutem Weg zu sein. Doch die Lösung für das wahrscheinlich grössere Problem, Vorurteile gegen Frauen am Arbeitsplatz abzubauen, scheint schwieriger zu sein. Hier haben wir noch viel Arbeit vor uns.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

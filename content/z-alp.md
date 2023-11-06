@@ -20,9 +20,9 @@ title = "Z‘Alp "
 +++
 _Grüne Wiesen, frische Luft, Kuhglockengebimmel – was für die einen nach Wanderferien klingt, ist für andere harte Arbeit: die Alpsaison in der Schweiz. In wenigen Monaten im Sommer werden viele traditionelle Produkte hergestellt und langjährige Bräuche gelebt._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Grüne Wiesen, frische Luft, Kuhglockengebimmel – was für die einen nach Wan
 
 <li>Die Alpsaison soll in die Liste des „Immateriellen Kulturerbes der Menschheit“ aufgenommen werden.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Wenn nur noch auf den höchsten Gipfeln Schnee liegt, machen sich die Bauern in den Schweizer Tälern bereit für die Alp. Die Alpsaison ist eine langjährige Tradition in der Schweiz und dauert jeweils von Mai bis Oktober. Man weiss, dass seit dem Mittelalter die Bauern ihre Kühe, Schafe und Ziegen auf die Alp treiben. Auf der Alp kümmern sich die sogenannten Sennerinnen und Senner um die Tiere. Sie pflegen auch die Weiden, Zäune und Alphütten und stellen Käse und andere Produkte her. Manchmal kommen auch Besuchende vorbei, die etwas zu essen und trinken erhalten oder sogar in der Hütte übernachten dürfen. Die Sennerinnen und Senner zeigen dabei auch gerne das Handwerk des „Käsens“.
 
@@ -48,6 +48,6 @@ Die Schweiz hat denn auch diesen Frühling bei der Unesco einen Antrag gestellt,
 
 Zum Schluss noch ein kleiner Tipp. Wenn du echten Käse von der Alp geniessen willst, musst du im Laden auf die Bezeichnung „Alpkäse“ achten. Nur der „Alpkäse“ wird in den Sommermonaten von A bis Z auf der Alp hergestellt. Die sogenannten „Bergkäse“ werden während des ganzen Jahres in Käsereien von Bergdörfern hergestellt. Wenn möglich kaufst du den „Alpkäse“ natürlich direkt auf einer Alp und lässt dir auch gleich zeigen, wie er hergestellt wurde.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

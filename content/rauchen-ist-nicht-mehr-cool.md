@@ -34,8 +34,8 @@ Warum braucht es dann noch ein Werbeverbot? Studien zeigen, dass die Werbung ein
 
 Der Bundesrat und das Parlament lehnen die Volksinitiative ab. Sie haben als indirekten Gegenvorschlag ein neues Tabakproduktegesetz entwickelt. Dieses enthält auch zahlreiche Einschränkungen bei der Werbung. So dürfte zum Beispiel keine Werbung mehr für Tabakprodukte auf Plakaten und im Kino gemacht werden – an Kiosken wäre sie aber noch erlaubt. Weiter ist im Gesetz ein Verkaufsverbot von Zigaretten an unter 18-Jährige enthalten. Das Tabakproduktegesetz kann unabhängig vom Ausgang der Abstimmung über die Volksinitiative in Kraft treten. So oder so werden also neue Massnahmen gegen das Rauchen kommen. Sind wir gespannt, wie weit diese gehen werden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

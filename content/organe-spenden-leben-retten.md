@@ -21,9 +21,9 @@ title = "Organe spenden – Leben retten"
 +++
 _Über 1400 Menschen in der Schweiz haben ein krankes Organ, zum Beispiel ein krankes Herz, eine kranke Leber oder Niere. Durch eine Organspende können diese Menschen gerettet werden. Doch es gibt in der Schweiz nicht genug Menschen, die sich für eine Spende zur Verfügung stellen. Warum ist das so und was kann man dagegen tun?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Über 1400 Menschen in der Schweiz haben ein krankes Organ, zum Beispiel ein kr
 
 <li>Die Schweizer Bevölkerung hat letztes Jahr ein Gesetz angenommen. Damit wird künftig jeder Mensch als mögliche:r Spender:in betrachtet, wenn er nicht ausdrücklich NEIN sagt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 In der Schweiz muss ein Mensch mit einem kranken Organ im Durchschnitt fast ein Jahr warten, bis ein passendes gesundes Organ gefunden wird. Für einige Menschen ist das zu lange. Sie sterben, bevor ihnen ein gesundes Organ gespendet und eingesetzt werden konnte. Es gibt verschiedene Arten von Spenden.
 
@@ -50,8 +50,8 @@ Was kann man nun also machen, damit mehr Menschen spenden? Überreden ist keine 
 
 Dass die Menschen in der Schweiz grundsätzlich bereit sind, ihre Organe zu spenden, zeigte eine Abstimmung im letzten Jahr. Dabei ging es um das neue Gesetz über die Organspende. Es wurde deutlich angenommen. Künftig wird also jeder Mensch als möglicher Spender oder mögliche Spenderin betrachtet. Wenn ich NICHT spenden will, muss ich mich in eine Liste eintragen lassen. Bisher war es genau umgekehrt. Das Gesetz gilt voraussichtlich ab dem Jahr 2025. Mit diesem neuen Gesetz, den vielen angebotenen Informationen und Filmen erhoffen sich die verantwortlichen Personen, dass die Organspenden in der Schweiz zunehmen werden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

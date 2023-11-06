@@ -36,8 +36,8 @@ Deutschland ist das Land mit den meisten Einwohnern und mit der grössten Volksw
 
 Nachdem der Bundestag nun gewählt ist, dürfen wir also weiter gespannt sein, wer schlussendlich als Chef oder Chefin von Deutschland die nächsten Jahre auf der internationalen Politbühne mitgestalten und prägen wird.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

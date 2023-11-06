@@ -20,9 +20,9 @@ title = "Warum haben wir an Auffahrt frei? "
 +++
 _An dem verlängerten Auffahrtswochenende mit der Familie wegfahren oder mit Freunden und Freundinnen abmachen. Dies ist schön und gut. Aber was wird da eigentlich genau gefeiert?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _An dem verlängerten Auffahrtswochenende mit der Familie wegfahren oder mit Fre
 
 <li>Diese Jahr ist Auffahrt am Donnerstag, 26. Mai.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Auffahrt ist in der Schweiz ein gesetzlicher Feiertag. Das heisst, alle Schulen, Geschäfte und Firmen müssen einen Ruhetag machen. Auch in Deutschland, Österreich und vielen anderen Ländern wird an Auffahrt freigemacht. Der Feiertag wird oft auch „Christi Himmelfahrt“ genannt.
 
@@ -60,8 +60,6 @@ An Auffahrt wird von Gläubigen also gefeiert, dass Jesus, der Sohn Gottes, in d
 
 Im Laufe der Zeit sind viele verschiedene Bräuche und Traditionen zu Christi Himmelfahrt entstanden. Früher im Mittelalter zogen die Gläubigen durch die Ortschaften und beteten für eine gute Ernte.
 
-Auch heute gibt es an Auffahrt noch Bräuche. So gibt es Menschen, die an diesem Tag nur „fliegendes Fleisch“ essen. Es wird also nur Geflügel oder sonstige Tiere, die fliegen können, gekocht{{< teiler >}}
+Auch heute gibt es an Auffahrt noch Bräuche. So gibt es Menschen, die an diesem Tag nur „fliegendes Fleisch“ essen. Es wird also nur Geflügel oder sonstige Tiere, die fliegen können, gekocht
 
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

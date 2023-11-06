@@ -34,8 +34,4 @@ Doch der wohl schlimmste Teil des Elektroautos sind die Batterien, die die Elekt
 
 Fazit: Die Idee der Elektroautos sind gut, doch braucht es bessere und umweltfreundlichere Batterien für das perfekte Auto.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -20,11 +20,11 @@ title = "Warm oder kalt, die Temperatur gibt es an "
 +++
 _Gerade zum Frühlingsanfang wie jetzt merken wir es jeden Tag, respektive jede Nacht. Die Temperatur schwankt ganz schön fest. Tagsüber reicht manchmal schon ein dünner Pulli, in der Nacht braucht es noch Handschuhe und Mütze. Doch was genau sagt die Temperatur eigentlich aus? Warum sind die Angaben in der Schweiz und in den USA ganz unterschiedlich und wie wird sie gemessen?_
 
-{{< info-box >}}
+{{< important-points >}}
 
-<h3>Das Wichtigste in Kürze</h3>
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+
 
 <ul>
 
@@ -34,7 +34,7 @@ _Gerade zum Frühlingsanfang wie jetzt merken wir es jeden Tag, respektive jede 
 
 <li>Gemessen wird die Temperatur meistens mit einem Thermometer, angegeben wird sie in Grad. Am bekanntesten sind die Einheiten Grad Celsius, die in der Schweiz und Europa verbreitet ist, und Grad Fahrenheit, die in den USA benutzt wird.</li>
 
-{{< /info-box >}}
+{{< /important-points >}}
 
 Die Temperatur beeinflusst so einiges, das in der Natur abläuft. Ist der Boden gefroren, sprich die Temperatur unter null, wächst kaum mehr etwas. Minusgrade lassen Wasser in kleinen Seen gefrieren oder, wenn es vom Himmel fällt, als Schneeflocken auf die Erde rieseln. Doch auch hohe Temperaturen haben Auswirkungen. Sie trocknen Böden aus, sorgen dafür, dass Tiere und Menschen in den Schongang wechseln und sich nur noch langsam bewegen. Doch da „warm“ und „kalt“ nicht für jeden dasselbe bedeuten, gibt es ein objektives, physikalisches Mass: die Temperatur. Sie gibt an, wie warm oder kalt es an einem bestimmten Ort oder in einem bestimmten System ist. Doch was steckt dahinter? Vereinfacht gesagt, besteht jeder Stoff aus Teilchen, die sich bewegen. Je höher die Temperatur ist, desto mehr bewegen sich die Teilchen je tiefer sie ist, desto weniger. Als Eselsbrücke kann man dabei an Wasser denken. Ist es gefroren (also kalt), wird es zu festem Eis. Wird es wärmer, schmilzt das Wasser und wird flüssig. Wenn man es erhitzt, wird es zu Wasserdampf, minimal kleinen Tröpfchen, die in der Luft schweben und sich hin und her bewegen.
 
@@ -48,8 +48,8 @@ Nicht nur bei den Masseinheiten gibt es Unterschiede. Auch zwischen der effektiv
 
 Dass -41,8 °C ziemlich kalt ist, da sind sich wohl die Meisten einig. La Brévine hält mit dieser Temperatur seit 1987 den Kälterekord in der Schweiz. Die höchste je gemessene Temperatur in der Schweiz wurde am 11. August 2003 in Grono im Graubünden registriert. Geradezu angenehm erscheinen die damals gemessenen 41,5°C wenn man sie mit dem weltweiten Hitzerekord vergleicht. Im Death Valley in den USA wurden 1913 56,7°C gemessen. Am anderen Ende der Extrem-Skala stehen die -89,2°C, gemessen in der russischen Antarktis im Jahr 1983. Bei dieser Temperatur ist menschliches Leben kaum mehr möglich.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

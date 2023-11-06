@@ -38,8 +38,8 @@ Der Schrott ist eine grosse Gefahr für die Astronautinnen und Astronauten. Imme
 
 Für uns auf der Erde ist der Schrott zum Glück nicht gefährlich. Wenn er zu nahe an die Atmosphäre kommt, verglüht er meistens. Nur ganz wenige Stücke schaffen es auf die Erde. Es ist deshalb immer noch wahrscheinlicher, von einem Blitz getroffen zu werden als von einem ausgedienten Satelliten.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

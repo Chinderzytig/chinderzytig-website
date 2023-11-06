@@ -32,8 +32,8 @@ Mit dem Thema geht es darum die Gesundheit auf der ganzen Welt zu stärken. Das 
 
 Ihr habt sicher in letzter Zeit viel vom Coronavirus gehört. Personen müssen wegen Atemproblemen in das Krankenhaus. Das sind in einigen Ländern mehr als 100 Personen am Tag. Doch es gibt noch andere Personen. Zum Beispiel wenn jemand einen Unfall mit dem Auto hat. Auch diese Person braucht die Pflege und muss ins Krankenhaus. Irgendwann sind die Betten in den Krankenhäusern voll. Nicht nur die wenigen Betten sind ein Problem. Auch hat es viel zu wenig Pflegekräfte. So können nicht alle gepflegt werden. Wir brauchen mehr, als wir haben. Dann spricht man von einer Überlastung des Gesundheitssystems. Wir haben zu wenige Betten und zu wenig Personen für die Pflege. Beim Gesundheitssystem handelt es sich um alles, was mit der Gesundheit zu tun hat. Also alle Personen, alle finanziellen Unterstützungen und alle Organisationen. Es braucht also mehr. Deshalb müssen wir das Pflegepersonal unterstützen. Seit dem 7. April 2020 macht nun die ganze Welt auf die Arbeit des Pflegepersonals aufmerksam. Also lasst uns denen danken, die uns beim gesund werden helfen. Dank ihnen können wir bald wieder nach draussen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

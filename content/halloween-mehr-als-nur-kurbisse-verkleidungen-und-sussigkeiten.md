@@ -42,8 +42,8 @@ Heute sind es vor allem Kinder und Jugendliche, die von Tür zu Tür gehen und f
 
 Auch wenn dieses Jahr alles ein bisschen anders ist – einen schönen Kürbis schnitzen, ihn mit einer Kerze beleuchten und vor die Tür stellen, das klingt doch trotzdem nach einer guten Idee, oder?
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

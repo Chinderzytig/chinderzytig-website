@@ -21,9 +21,9 @@ title = "Der Zweite Weltkrieg"
 +++
 _Deutschland begann im Jahr 1939 den Zweiten Weltkrieg. Doch wie kam es dazu, dass ein Land einen Krieg begann? Und wie endete dieser?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Deutschland begann im Jahr 1939 den Zweiten Weltkrieg. Doch wie kam es dazu, da
 
 <li>Deutschland hat den Krieg schlussendlich verloren.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Der Zweite Weltkrieg begann am 1. September 1939. An diesem Tag hat das Deutsche Militär das Land Polen überfallen. Wie im Ersten Weltkrieg war auch hier das Hauptproblem wieder, dass ein Land (hier war es Deutschland) stärker und mächtiger sein wollte als alle anderen Länder.
 
@@ -52,6 +52,4 @@ Dieser Artikel ist nur ein sehr kleiner Einblick ins Thema. Über den Zweiten We
 
 Link zum Video: [https://www.kindernetz.de/sendungen/der-krieg-und-ich/der-zweite-weltkrieg-100.html](https://www.kindernetz.de/sendungen/der-krieg-und-ich/der-zweite-weltkrieg-100.html "https://www.kindernetz.de/sendungen/der-krieg-und-ich/der-zweite-weltkrieg-100.html")
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}

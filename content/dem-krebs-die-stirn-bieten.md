@@ -34,8 +34,4 @@ Der Hauptgrund ist, dass die Menschen immer älter werden. Und Krebs tritt bei �
 
 Wie erwähnt gibt es einige Faktoren, die eine Erkrankung begünstigen. Wenn wir diese Faktoren vermeiden – also wenig oder keinen Alkohol trinken, nicht rauchen, aufs "Sünnelen“ verzichten und auf unsere Ernährung und Bewegung achten, können wir schon wesentlich dazu beitragen, das Risiko einer Erkrankung zu senken. Zudem gilt: Je früher eine Krebserkrankung entdeckt wird, umso besser sind die Heilungschancen. Deshalb ist es wichtig, gewisse Untersuchungen regelmässig und präventiv – also vorbeugend – durchzuführen. Zum Beispiel tastet der Frauenarzt bei den Vorsorgeuntersuchungen jeweils die Brüste der Frauen ab, um allfällige Knoten frühzeitig zu entdecken.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

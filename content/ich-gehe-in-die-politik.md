@@ -20,9 +20,9 @@ title = "„Ich gehe in die Politik“ "
 +++
 _Könnte diese Aussage von dir stammen? Wenn ja, wie sieht dieser Weg in die Politik aus? Und ist Politikerin oder Politiker überhaupt ein Beruf? Schauen wir uns dieses Tätigkeitsfeld mal etwas genauer an._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -34,7 +34,7 @@ _Könnte diese Aussage von dir stammen? Wenn ja, wie sieht dieser Weg in die Pol
 
 <li>Wer in der Politik arbeiten will, sollte sich für das aktuelle Geschehen und die Gesellschaft interessieren, eine eigene Meinung vertreten und Diskussionen führen können.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Um die Antwort auf letztere Frage gleich vorweg zu nehmen: Ja, man kann den Beruf einer Politikerin oder eines Politikers ausüben. Aber kann man ihn auch erlernen? Oder anders gefragt: Mit welcher Ausbildung werde ich Politikerin oder Politiker? Auf diese Frage gibt es keine so einfache Antwort. Politikerin oder Politiker ist kein Beruf, den man mit einer Lehre oder einem Studium erlernen kann. Die Tätigkeit einer Politikerin oder eines Politikers ist in der Schweiz grundsätzlich als Amt vorgesehen, das eine Person zusätzlich zu ihrem Beruf ausübt. Die meisten Politikerinnen und Politiker gehen also noch einer anderen Tätigkeit nach, allerdings ist das Pensum dieser beruflichen Tätigkeit sehr unterschiedlich. Viele arbeiten nur noch wenig oder als selbstständig Erwerbende. Das hängt jedoch stark davon ab, wie viel Zeit sie für die Ausübung ihres Amtes als Politiker oder Politikerin aufwenden müssen.
 
@@ -48,6 +48,6 @@ Wie bereits erwähnt, gibt es keine Ausbildung zum Politiker oder zur Politikeri
 
 Doch wie bereits gesagt, spielen Ausbildung oder Beruf keine so grosse Rolle für die Tätigkeit als Politikerin oder Politiker. Viel wichtiger ist das Interesse am aktuellen Geschehen und der Gesellschaft und die Bereitschaft, sich für die Allgemeinheit zu engagieren.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

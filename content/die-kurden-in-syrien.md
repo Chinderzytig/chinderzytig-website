@@ -38,8 +38,8 @@ Was Erdoğan von einem Angriff auf Rojava abhielt, war einzig die Präsenz der v
 
 Rund 150’000 Frauen, Männer und Kinder sind wegen des türkischen Angriffs bereits aus Rojava geflohen. In dieser verzweifelten Lage wandten sich die syrischen Kurden aus Rojava an Präsident Assad, in der Hoffnung, er würde sie gegen die Türkei verteidigen. Er sollte als Gegenzug die vollständige Kontrolle über Rojava zurückerhalten. Für die syrischen Kurden geht somit die Zeit der Selbstverwaltung zu Ende. Ihre Autonomie aufzugeben und wieder von Assad kontrolliert zu werden, ist für sie allerdings weniger schlimm, als von türkischen Truppen verdrängt, unterdrückt und allenfalls sogar umgebracht zu werden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

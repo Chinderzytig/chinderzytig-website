@@ -40,8 +40,8 @@ _Frohe Weihnacht, Virginia!_
 
 _Dein Francis Church"_
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

@@ -20,9 +20,9 @@ title = "Traditionssport Schwingen "
 +++
 _Der Schweizer Traditionssport Schwingen erlebt seit einigen Jahren einen Aufschwung und gewinnt wieder an Beliebtheit. Die Nachfrage an Tickets zu Schwingfesten ist enorm gestiegen._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Der Schweizer Traditionssport Schwingen erlebt seit einigen Jahren einen Aufsch
 
 <li>Das Eidgenössische Schwingfest findet alle 3 Jahre statt. Dieses Jahr findet eines in Pratteln statt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Die Geschichte des Schwingsports – Vom Hirtensport zum Spitzensport
 
@@ -64,6 +64,6 @@ Das Eidgenössische Schwing- und Älplerfest findet alle 3 Jahr in einer anderen
 
 Das Eidgenössische Schwingfest unterscheidet sich von anderen Festen, weil die maximale Ganganzahl 8 und nicht 6 Gänge beträgt. Zudem bringt der Sieg eines ESAF extrem grossen Ruhm mit sich.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

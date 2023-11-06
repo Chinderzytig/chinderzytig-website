@@ -22,9 +22,9 @@ title = "Was ist ChatGPT?"
 _Künstliche Intelligenzen wie der Chatbot «ChatGPT» der Firma OpenAI sind an Schulen gerade ein aktuelles Thema. Was ist Künstliche Intelligenz? Und kann ein Textroboter Aufsätze schreiben und Matheaufgaben der Schüler*innen lösen?_
 
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -34,7 +34,7 @@ _Künstliche Intelligenzen wie der Chatbot «ChatGPT» der Firma OpenAI sind an 
 
 <li>Da die Daten aus dem Internet stammen, kann es passieren, dass ChatGPT zwar eine grammatikalisch richtige Antwort liefert, der Inhalt aber falsch ist.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Künstliche Intelligenz ist eine Art von Technologie, die es Maschinen ermöglicht zu lernen und Entscheidungen zu treffen, ähnlich wie Menschen lernen und Entscheidungen treffen. KI ist wie ein Gehirn für Maschinen, um damit Informationen zu verstehen und zu verarbeiten.
 
@@ -52,6 +52,6 @@ Aber aufgepasst! Da die Informationen aus dem Internet stammen, kann es passiere
 
 Um nun die Frage vom Anfang zu beantworten: Ja, der Textroboter kann Hausaufgaben lösen. Aber ob dies das Leben vereinfacht, entscheidest du selbst. Denn schlussendlich schreibst du die Prüfung und nicht ChatGPT.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

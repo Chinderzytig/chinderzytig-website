@@ -20,9 +20,9 @@ title = "Die Astronomie"
 +++
 _Die Astronomie gilt als eine der ältesten Wissenschaften der Welt. Sie beschäftigt sich mit der Frage, wie der Weltraum entstanden ist und erforscht alles, was darin herumschwirrt. Bereits in der Steinzeit schauten Menschen in den Himmel und dachten darüber nach, was die Himmelserscheinungen bedeuten könnten. Über Tausende Jahre hat die Astronomie sich und unser Verständnis über die Welt verändert._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Die Astronomie gilt als eine der ältesten Wissenschaften der Welt. Sie beschä
 
 <li>Heute können Astronom*innen sogar ferne Galaxien mit riesigen Teleskopen beobachten.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### In der Frühzeit
 
@@ -46,6 +46,6 @@ Es ist ein weit verbreiteter Mythos, dass die Menschen im Mittelalter glaubten, 
 
 Heute erforschen Astronom*innen immer noch den Weltraum. Was sie machen, hat sich also nicht grossartig verändert. Nur wie es gemacht wird und wie viel man weiss. Heute stehen den Astronom*innen viele technische Hilfsmittel zur Verfügung. Mit riesigen Radioteleskopen, Satelliten, sowie fotografischen Aufnahmen, elektrischen Messungen wird der Weltall heute erforscht. Unser Wissen beschränkt sich nicht mehr nur auf unser Sonnensystem, sondern reicht von ferne Galaxien bis hin zu Schwarzen Löchern. Trotzdem bleibt vieles ungelöst und auch heute noch kann man mit Ehrfurcht in die Sterne schauen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

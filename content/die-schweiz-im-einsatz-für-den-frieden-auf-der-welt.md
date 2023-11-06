@@ -21,9 +21,9 @@ title = "Die Schweiz im Einsatz für den Frieden auf der Welt"
 
 _Ende Mai reiste die Bundesrätin Viola Amherd nach New York. Grund war die 75-Jahre-Feier der UNO-Friedenssicherung. Die Schweiz engagiert sich schon seit langem für den Frieden auf der Welt. Wie und warum macht sie das?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Ende Mai reiste die Bundesrätin Viola Amherd nach New York. Grund war die 75-J
 
 <li>Die Schweiz hilft mit Beraterinnen und Beratern, Konflikte zu lösen und Krisen zu bewältigen, aber auch mögliche neue Krisen und Konflikte zu verhindern.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Nach dem zweiten Weltkrieg wurde die UNO – die Organisation der Vereinten Nationen – gegründet. Das Ziel war, den Weltfrieden und die Sicherheit auf der ganzen Welt zu wahren. Heute gehören 193 Länder zur UNO. Das sind fast alle Länder auf der Welt. Die Schweiz ist seit dem Jahr 2002 dabei.
 

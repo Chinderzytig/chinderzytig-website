@@ -18,9 +18,9 @@ slug = ""
 title = "Best Friends Forever?"
 
 +++
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -28,7 +28,7 @@ title = "Best Friends Forever?"
 
 <li>Freundschaften müssen gut gepflegt werden, damit sie ein Leben lang halten können.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Warum brauchen wir Freunde?
 
@@ -68,8 +68,4 @@ Die Freundschaft pflegen kannst du, indem du …
 
 Am 30. Juli ist der internationale Tag der Freundschaft. Dieser Tag wird von Freunden und Freundinnen auf der ganzen Welt genutzt, um ihre Freundschaft zu feiern. Nutze doch den Anlass und unternimm etwas Tolles mit deinen Freunden.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

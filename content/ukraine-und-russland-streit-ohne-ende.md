@@ -34,8 +34,7 @@ So ist zum Beispiel die Halbinsel Krim ein grosser Streitpunkt der beiden Lände
 
 Es ist höchst unklar, ob der Konflikt gelöst werden kann. Staats- und Regierungschefs versuchen, zwischen den Parteien zu vermitteln und zu verhandeln. Es werden aber auch Strafen und Auflagen (Sanktionen) gegenüber Russland ausgesprochen. Russland wiederum stellt vermehrt militärische Truppen an der Grenze auf und provoziert damit die Ukraine und den Westen. Wird es zu einer Spaltung der Ukraine kommen? Wird das Land die pro-russischen Gebiete im Osten an Russland verlieren? Die Antworten auf diese Fragen kann im Moment niemand geben. Wir können nur für die Menschen dort hoffen, dass sich bald ein Ende des Konflikts abzeichnet und wieder Ruhe in ihrem Leben einkehrt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -42,8 +42,7 @@ Nun, fast 60 Jahre später soll mit einem neuen Gesetz offiziell anerkannt werde
 
 Mit der Auswanderungswelle verlor Algerien damals viele gut Ausgebildete und Menschen, die die Wirtschaft im Land geprägt hatten. Der Neustart als unabhängiges Land wurde dadurch nicht einfacher. Frankreich seinerseits hatte lange gehofft, den Einfluss im Land weiter behalten zu können und Algerien als Zugangstor zum afrikanischen Kontinent zu nutzen. Die Beziehungen zwischen der ehemaligen Kolonie und Frankreich sind auch heute noch kompliziert. Immer noch leben zahlreiche Algerier in Frankreich. Die Geschichte und Gegenwart der beiden Länder sind weiterhin miteinander verwebt. Viele Fragen bleiben noch offen, da lange Zeit kaum über dieses dunkle Kapitel der Geschichte gesprochen wurde, über die Verbrechen, die auf beiden Seiten verübt wurden. Erst langsam wird dies nun nachgeholt, wie das Beispiel der Harkis zeigt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

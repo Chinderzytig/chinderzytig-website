@@ -36,8 +36,4 @@ Viele Menschen lassen sich von den scheinbar perfekten Frauen und Männern in de
 
 Damit das nicht passiert, ist es wichtig, dass man sich immer wieder daran erinnert, dass die Bilder im Internet oft nur die besten Seiten zeigen und bearbeitet sind. Normal ist nicht das Schönheitsideal, das man in den Medien sieht. Normal ist das Aussehen der Menschen, denen man im Alltag begegnet. Denn in Wirklichkeit sind jeder Körper und jedes Gesicht verschieden und dabei auf ihre eigene Art schön, auch wenn sie nicht dem Schönheitsideal entsprechen. Viele Menschen wirken auf andere schön, weil sie zum Beispiel eine besondere Nase haben. Oder weil sie über eine schöne Ausstrahlung verfügen, da sie einfach zufrieden mit sich sind, egal wie sie aussehen. Schlussendlich findet jeder Mensch etwas anderes schön und oft sind das Dinge, die einzigartig sind und nicht das Schönheitsideal.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -38,8 +38,8 @@ Wird Joe Biden von den Demokraten neuer Präsident, so ist außenpolitisch eine 
 
 Nicht nur die Bürgerinnen und Bürger der USA, sondern auch alle anderen Länder schauen gespannt darauf, wer im November zum Präsidenten der Vereinigten Staaten gewählt wird.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

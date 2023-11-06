@@ -21,9 +21,9 @@ title = "Sicherheit beim Besuch in der Badi"
 
 _Im Sommer ist ein Besuch in der Badi eine tolle Idee, um Zeit mit seinen Freund*innen am kühlen Wasser zu verbringen. Aber es gibt auch ein paar Gefahren am und im Wasser. Mit ein paar Tipps kannst du sie erkennen und Unfälle verhindern._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Im Sommer ist ein Besuch in der Badi eine tolle Idee, um Zeit mit seinen Freund
 
 <li>Achtet in der Gruppe aufeinander und passt bei Wasserrutschen auf, dass ihr niemanden verletzt oder selbst verletzt werdet.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Es ist ein perfekter Sommertag: die Sonne scheint und es ist angenehm warm. Ideales Wetter für einen Besuch in der Badi! Schnell mit den Freund*innen abgemacht und die Badesachen gepackt. Doch halt! Hier beginnt schon die Vorbereitung für einen sicheren Aufenthalt am Wasser. Was darf ich nicht vergessen, damit ich unbesorgt baden kann? In die Tasche gehören neben dem Badekleid/der Badehose und dem Badetuch unbedingt Sonnencrème, eine Sonnenbrille, eine Kopfbedeckung und eine Trinkflasche mit Wasser. Denn: bei heissem und sonnigem Wetter ist es wichtig genug zu trinken, damit der Körper nicht austrocknet. Gerade wenn man am Wasser ist, kann das schnell vergessen werden. In der Badi angekommen, sollte das Badetuch wenn möglich im Schatten ausgelegt und spätestens dort die Sonnencrème eingestrichen werden. Denn auch im Schatten ist der Schutz vor den UV-Strahlen wichtig und wenn man dann im Wasser ist, reflektiert die Wasseroberfläche die Sonnenstrahlen zusätzlich und verstärkt ihre Wirkung. Damit der Sonnenschutz während dem ganzen Besuch in der Badi bleibt, sollte man sich jedes Mal, wenn man aus dem Wasser kommt, wieder eincremen.
 

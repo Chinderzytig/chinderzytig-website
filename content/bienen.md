@@ -36,8 +36,4 @@ Leider wird die weltweite Anzahl Bienen immer kleiner, weil sie einerseits Leben
 
 Magst du gerne Honig? Welche der drei Bienenarten wärst du am liebsten, wenn du eine Biene wärst? Wirst du in Zukunft dazu beitragen, die Bienen zu schützen?
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

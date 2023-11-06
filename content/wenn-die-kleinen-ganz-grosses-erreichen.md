@@ -53,8 +53,8 @@ Alma und Tyler sind aber nur zwei von ganz vielen Kindern, die uns zeigen, dass 
 
 {{< definition id="Oper " wort="Oper " def="Eine Oper ist ein Theaterstück, bei dem viel Musik gespielt wird. Die Schauspieler einer Oper müssen deshalb gut singen können, und im Saal spielt auch ein Orchester." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

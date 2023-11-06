@@ -21,9 +21,9 @@ title = "Filmklassiker: Warum sind Filmklassiker heute immer noch bedeutsam?"
 
 _Filmklassiker sind wie Schätze in der Welt der Kinematografie. Sie haben die Zeit überdauert und sind auch heute noch genauso beeindruckend wie bei ihrer Erstveröffentlichung. Aber was macht diese Filme zu zeitlosen Meisterwerken, die Generationen von Zuschauern faszinieren? Lass uns das herausfinden!_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Filmklassiker sind wie Schätze in der Welt der Kinematografie. Sie haben die Z
 
 <li>Sie repräsentieren meisterhaft die Kunst des Kinos.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Filmklassiker zeichnen sich oft durch unvergessliche Geschichten aus. Diese Filme erzählen bewegende, unterhaltsame oder tiefgründige Geschichten, die uns in ihren Bann ziehen. Sie sind wie Schätze in der Welt des Kinos. Sie sind zeitlos, was bedeutet, dass sie nie aus der Mode kommen.
 
@@ -49,8 +49,8 @@ Filmklassiker vermitteln oft wichtige Botschaften über das Leben, Freundschaft 
 
 Filmklassiker sind wie gute Geschichten, die nie alt werden. Sie sind wie Schätze, die uns in fabelhafte Welten entführen. Schau dir einige davon an, und du wirst sehen, wie aufregend und lustig sie immer noch sind!
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

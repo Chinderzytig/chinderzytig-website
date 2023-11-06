@@ -21,9 +21,9 @@ title = "Deepfakes: Können wir unseren Augen trauen?"
 
 _Im Internet - vor allem in den Sozialen Medien - gibt's viele gefälschte Videos. Sie zeigen andere Szenen, als behauptet wird, stammen zum Beispiel von einem anderen Ort oder sind viel älter, als gesagt wird. Aber wie findet man heraus, ob etwas gefälscht ist oder nicht?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Im Internet - vor allem in den Sozialen Medien - gibt's viele gefälschte Video
 
 <li>Es gibt Möglichkeiten Fake-Videos zu entlarven, wenn ihr auf einige Dinge achtet.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Es gibt gefälschte Videos, die Dinge zeigen, die gar nicht wirklich passiert sind. Sie werden Deepfakes genannt und mit künstlicher Intelligenz am Computer hergestellt. Sie wirken oft so täuschend echt, dass man sie fast nicht mehr von den Originalen unterscheiden kann. Es gibt immer mehr davon im Internet, weil es immer einfacher wird, sie herzustellen. Gar nicht so einfach ist es dagegen, sie zu erkennen. Wenn ihr bei Fotos oder Videos im Internet unsicher seid, ob sie echt sind oder vielleicht doch gefälscht, könnt ihr folgende Tipps beachten.
 

@@ -36,8 +36,8 @@ Das Eidgenössische Institut für Schnee- und Lawinenforschung in Davos hat hera
 
 Einen hundertprozentiger Schutz vor Lawinen gibt es heute nicht und wird es wohl auch in Zukunft nicht geben. Es ist aus finanziellen, ökologischen und technischen Gründen nicht möglich, überall geeignete Schutzmassnahmen zu errichten. Als bauliche Massnahmen sind Stützverbauungen in der Schweiz am weitesten verbreitet. Wichtig zu nennen sind auch die Schutzwälder, die einen natürlichen Schutz vor Lawinen bieten. Auf Karten wird zudem eingetragen, wo und wie häufig die Dörfer von Lawinen bedroht sind. In manchen Gebieten ist die Bedrohung so stark, dass dort nicht gebaut werden darf. Zu den Schutzmassnahmen gehören auch Lawinenwarnungen und die Absperrung von Skipisten. Immer wieder werden Lawinen auch künstlich ausgelöst, wenn die aktuelle Schneesituation kritisch wird. Um passende und nützliche Schutzmassnahmen zu treffen, wurde eine Software entwickelt, welche mögliche Lawinen durch Berechnungen voraussagt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

@@ -38,8 +38,8 @@ Von den zahlreichen Lebewesen im Meer waren Fische schon immer besonders wertvol
 
 Es liegt also an uns, den Meeren, den Ökosystemen Sorge zu tragen. Diese Ökosysteme sind vielfach so gross, dass sie Landesgrenzen überschreiten. Es braucht deshalb die Zusammenarbeit aller, um die Meere zu schützen. Länder sollten sich um ihre Küstengebiete kümmern, mit den Nachbarstaaten zusammenarbeiten und sich auf ein schonendes Fischereimanagement einigen. Es braucht aber auch den Einsatz jedes und jeder Einzelnen, zum Beispiel indem wir nicht mehr so viel Einwegplastik einkaufen, sondern auf nachhaltige Varianten setzen. Daran sollten wir uns erinnern und dies nicht nur heute am internationalen Tag des Meeres, sondern jeden Tag.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

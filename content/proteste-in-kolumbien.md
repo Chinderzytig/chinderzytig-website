@@ -34,8 +34,7 @@ Kolumbien hat nebst der geplanten Steuerreform auch andere Neuerungen eingeführ
 
 Doch mittlerweile steigt der Druck auf die Regierung, etwas zu unternehmen. Nationale und internationale Organisationen fordern, dass die Menschen friedlich demonstrieren dürfen, dass keine Gewalt mehr gegen sie angewendet wird. Der Regierungspräsident hat nun Gespräche aufgenommen mit Verantwortlichen der Proteste. Die Regierung sei gewillt, gemeinsam Lösungen zu finden. Wie diese aussehen könnten, ist jedoch unklar. Denn mittlerweile sind die demonstrierenden Gruppen so vielfältig und ihre Forderungen so unterschiedlich, dass es noch länger dauern könnte, bis wieder Ruhe einkehrt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

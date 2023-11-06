@@ -41,6 +41,31 @@
 	}
 
 	&__snipcart {
+		width: 3.5rem;
+	}
+
+	&__article {
+		width: 20rem;
+
+		&--icon {
+			fill: $orange;
+			stroke: $black;
+
+			&:hover,
+			&:active {
+				fill: $chestnut;
+				stroke: $chestnut;
+			}
+		}
+
+		&--stroke {
+			&:hover,
+			&:active { stroke: $orange; }
+		}
+	}
+
+	&__volume {
 		width: 3rem;
+		margin-right: .5rem;
 	}
 }

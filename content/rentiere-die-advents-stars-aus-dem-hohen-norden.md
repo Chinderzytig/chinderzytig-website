@@ -34,8 +34,7 @@ Falsch. Eigentlich kann das gar nicht sein: In der Natur werfen nämlich die mä
 
 Magst du Rentiere? Hast du etwas bei dir zu Hause, wo ein Rentier drauf ist? Hast du schon mal ein echtes Rentier gesehen, zum Beispiel im Zoo? Würdest du gern mal auf einem Rentier-Schlitten fahren? Welchen Namen würdest dem Weihnachtsmann vorschlagen, wenn er merkt, dass _Rudolf_ eigentlich ein Weibchen ist?
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

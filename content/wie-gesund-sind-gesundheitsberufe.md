@@ -20,9 +20,9 @@ title = "Wie gesund sind Gesundheitsberufe? "
 +++
 _Die Gesundheitsberufe sind vielfältig und äusserst wichtig für unsere Gesellschaft. Insbesondere in den letzten Jahren hatten die Spitäler, Praxen, Apotheken und Kliniken wegen der Coronapandemie viel zu tun. Für ihre Arbeit wurde applaudiert. Doch reicht das, um den Berufen mehr Ansehen und Wertschätzung zu geben? Warum gibt es immer weniger Menschen, die einen Beruf im Gesundheitswesen starten? Und wie könnte diesem Personalmangel entgegengewirkt werden?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -34,7 +34,7 @@ _Die Gesundheitsberufe sind vielfältig und äusserst wichtig für unsere Gesell
 
 <li>Wenn es regelmässige und kürzere Arbeitszeiten, mehr Pausen, mehr Personal, mehr Lehrstellen, kürzere Ausbildung, besseres Arbeitsklima etc. geben würde, wäre der Pflegeberuf wieder attraktiver.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Wie wäre es, wenn es keine Gesundheitsberufe gäbe? Wer würde die kranken oder betagten Menschen umsorgen und pflegen? Wo könnte eine verletzte Person hin? Wer würde Medikamente erfinden und verabreichen? Es ist klar: ohne die zahlreichen Berufe im Gesundheitswesen würde Vieles auf unserer Welt nicht funktionieren.
 
@@ -96,6 +96,6 @@ Die Hauptgründe für den Mangel sind die schlechten Arbeitsbedingungen, negativ
 
 Damit man dem Mangel entgegenwirken könnte, müssten sich also die Arbeitsbedingungen und das Arbeitsklima deutlich verbessern. Der Lohn müsste steigen, die Anzahl Lehrstellen verdoppelt und die Lehren attraktiver gemacht werden. Im Kanton Aargau z.B. wird neu eine kürzere Lehre von 2 Jahren für die Pflegeberufe angeboten. Ob dies etwas helfen wird und ob sich die Bedingungen bei der Arbeit verbessern werden, wird sich in den nächsten Jahren zeigen. Eins ist aber sicher: Applaudieren allein hilft nicht.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

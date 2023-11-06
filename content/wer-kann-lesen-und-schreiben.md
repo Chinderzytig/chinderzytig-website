@@ -40,6 +40,6 @@ Am 8. September ist der Welttag der Alphabetisierung. An diesem Tag will die {{<
 
 {{< definition id="UNESCO" wort="UNESCO" def="Die United Nations Educational, Scientific and Cultural Organization oder auf Deutsch, die Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur setzt sich für die Förderung in diversen Bereichen ein. Dazu gehört die Erziehung, Wissenschaft und Kultur sowie Kommunikation und Information. Ihre Aufgabe ist es, weltweit für die Weiterentwicklung in diesen Bereichen zu sorgen." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

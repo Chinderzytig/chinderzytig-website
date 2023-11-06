@@ -30,8 +30,8 @@ Nein, von Freiheit wie wir sie in der Schweiz kennen, kann in Hongkong momentan 
 
 Am Morgen des Nationalfeiertags organisierten sich die Protestierenden noch in Vierergruppen, die laut ihre Meinungen hinausschrien. Zum Teil waren sie von zehnmal mehr Polizisten umringt. Die Message blieb klar, denn es laufe momentan eine Bewegung, in der die kommunistische Regierungspartei die Stimme Hongkongs zum Schweigen bringen wolle. In den vergangenen 20 Jahren galt das Prinzip: 1 Land, 2 Systeme. Mit dem neuen Sicherheitsgesetz könnte dieses Prinzip nun am Ende sein und Hongkong seine Unabhängigkeit verlieren.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

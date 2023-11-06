@@ -21,9 +21,9 @@ title = "Wieder dieser Trump!?"
 +++
 _Kommt Trump wieder? Wie stehen die Rebuplikanerinnen und Republikaner zu Trumps Comeback? Wie ist Sonderermittler Jack Smith in diese Geschichte von Trump verwickelt?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Kommt Trump wieder? Wie stehen die Rebuplikanerinnen und Republikaner zu Trumps
 
 <li>Allerdings droht ihm auch Gefängnis: Jack Smith ist auf einer heißen Spur gegen Trump.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Im November schritt Donald Trump zur Tat: Der 76-Jährige verkündete seine Kandidatur für die Präsidentschaftswahl 2024. Sie kommt nicht überraschend, doch viele Republikanerinnen und Republikaner werden insgeheim gestöhnt haben. Trumps Leugnung von Joe Bidens Wahlsieg und seine Angriffe auf die Demokratie haben eine resultierende Gegenreaktion ausgelöst. Immer mehr Republikaner wollen die Ära Trump abhaken und nach vorn schauen, darunter gewichtige Parteispender und Parteispenderinnen.
 

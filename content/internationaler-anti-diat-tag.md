@@ -40,8 +40,8 @@ Reduktionsdiäten helfen nicht nur schnell Gewicht zu verlieren, sondern können
 
 Wer selbst magersüchtig war und sich davon erholen konnte, ist Mary Evans Young. Unter anderem aufgrund ihrer eigenen Geschichte hat die britische Autorin im Jahr 1992 den 6. Mai zum Anti-Diät-Tag erklärt. Damit wollte sie darauf aufmerksam machen, dass Diäten der Anfang von gefährlichen Essstörungen sein können. Neben der Aufklärungsarbeit bezüglich der Gesundheitsgefahren von Diäten soll der internationale Aktionstag die Vielfalt natürlicher Grössen- und Gewichtsunterschiede hervorheben, Schönheitsideale kritisch hinterfragen oder auch gegen die Diskriminierung von Übergewichtigen vorgehen. Dieses Jahr findet der Anti-Diät-Tag bereits zum 29. Mal statt. Das aktuell vorherrschende Schönheitsideal ist aber noch immer sehr unrealistisch. Daher ist dieser Tag und die damit verbundene Aufklärung heute genauso wichtig wie am Anfang der 90er-Jahre – und wird es wahrscheinlich auch noch lange bleiben.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

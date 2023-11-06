@@ -45,8 +45,4 @@ Vor 70 Jahren wurde in Rom der Weltverband der Gehörlosen gegründet, der sich 
 
 Versuch es doch auch einmal und übersetze deinen Namen mithilfe des [Fingeralphabets](https://www.sgb-fss.ch/wp-content/uploads/2015/06/sgb-fss_gs_fingeralphabet.pdf "Fingeralphabets").
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

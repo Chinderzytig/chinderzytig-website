@@ -22,9 +22,9 @@ title = "„Wirtschaftswunder“ Südkorea"
 _Samsung, Hyundai, Kia – wahrscheinlich ist dir auch schon ein Handy oder Auto mit diesem Namen begegnet. Die Firmen hinter diesen Namen kommen alle aus Südkorea. Sie sind typische Beispiele für die starke Wirtschaft des Landes. Diese wird auch als „Wunder am Hangang“ bezeichnet – benannt nach dem Fluss der durch die Hauptstadt Seoul fliesst._
 
   
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -34,7 +34,7 @@ _Samsung, Hyundai, Kia – wahrscheinlich ist dir auch schon ein Handy oder Auto
 
 <li>Südkorea investiert viel Geld in die Bildung, Forschung und Entwicklung, zum Beispiel in den Bereichen Künstliche Intelligenz und erneuerbare Energien.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Im Koreakrieg von 1950-53 wurde in Südkorea fast alles zerstört. Das Land war sehr arm. Da kam Anfang der 1960er Jahre ein General des Militärs an die Macht. Dieser wollte so schnell wie möglich die Wirtschaft ankurbeln. Dafür machte er einen Plan. Er unterstützte die Firmen mit günstigen Krediten. Das heisst, er gab ihnen Geld vom Staat, damit sie ihr Geschäft vorantreiben konnten. Die Produkte sollten vor allem ins Ausland verkauft, also exportiert werden. Am Anfang wurden mehrheitlich günstige Produkte wie Elektro-Haushaltsgeräte oder Textilien, die in kleinen Firmen hergestellt wurden, exportiert. Dann wurde in die sogenannte Schwerindustrie investiert. Dazu gehören Eisen, Stahl oder auch der Schiffsbau.
 
@@ -50,6 +50,6 @@ Damit Südkorea seinen starken Platz in der Weltwirtschaft halten kann, gibt das
 
 Um mit all dem an der Weltspitze zu bleiben, braucht Südkorea viele sehr gut ausgebildete Fachleute. Das Land hat daher zusammen mit den grossen Firmen und den Universitäten Programme entwickelt, um talentierte Student*innen und junge Fachleute mit attraktiven Angeboten im Land zu halten und an sich zu binden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

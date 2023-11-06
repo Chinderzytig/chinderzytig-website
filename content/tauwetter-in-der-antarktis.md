@@ -34,8 +34,7 @@ Wie stark sich die Luft in der Antarktis bereits erwärmt hat, wird anhand von W
 
 Die Erwärmung des Klimas in den beiden Polarregionen führt insbesondere dazu, dass das Eis schmilzt. In der Antarktis macht dies den Forschern besonders grosse Sorgen. Wenn das Eis auf dem Land schmilzt und ins Meer fliesst, gibt es mehr Wasser und der Meeresspiegel steigt. In der Antarktis liegen fast 90% des gesamten Eises der Erde. Wenn nun all dieses Eis schmelzen würde, würde der Meeresspiegel um knapp 60 Meter ansteigen. Ganze Küstengebiete würden dadurch überschwemmt, und deren Bewohner müssten neue Lebensräume suchen. So schnell geht das zwar nicht. Aktuell steigt der Meeresspiegel um rund 3 Millimeter pro Jahr. Doch die Geschwindigkeit, mit der der Meeresspiegel ansteigt, nimmt zu. Nebst dem Abschmelzen von Eis ist dafür insbesondere auch die Erwärmung des Meeres und damit die Ausdehnung des Wassers verantwortlich.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

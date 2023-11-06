@@ -20,10 +20,10 @@ title = "Es zieht"
 +++
 _Ende Februar erlebte man in der Schweiz an verschiedenen Orten starke Windböen des Sturms “Roxana”. So wurden Gebäude beschädigt und Flugzeuge konnten teils erst verzögert landen. Der Wind ist ein fester Bestandteil des wilden Wetters. Doch woher kommt er eigentlich?_
 
-{{< info-box >}}
-<h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}}
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+
 
 <ul>
 
@@ -34,7 +34,7 @@ _Ende Februar erlebte man in der Schweiz an verschiedenen Orten starke Windböen
 <li>Die Stärke des Windes ist für viele Bereiche ein wichtiger Fakto</li>
 
 </ul>
-{{< /info-box >}}
+{{< /important-points >}}
 
 Es “zieht”, “chutet” oder windet - den Wind kennt man (je nach Dialekt) unter vielen Namen. Der Wind beeinflusst unsere Welt und uns auf verschiedene Wege: Er trocknet unsere Kleider, lässt uns an kalten Wintertagen schlottern, stösst Schiffe durchs Wasser, transportiert Hitze und Feuchtigkeit - die Liste ist lang. Wir schauen uns an, wieso es den Wind überhaupt gibt - und warum er wichtig ist.
 
@@ -52,8 +52,8 @@ Auch kann man den Wind je nach seiner Steigung kategorisieren: Aufwind und Abwin
 
 Die Wissenschaft misst den Wind, wie bei einem Auto, in Kilometer pro Stunde (in der See- und Luftfahrt nutzt man eine andere Einheit, die Knoten pro Stunde). Die visuelle Einschätzung des Windes nennt man die “Beaufort-Skala”-Messung. So wird zum Beispiel anhand der Wellen im Meer oder der Bewegung der Bäume geschätzt, wie fest - oder schwach - ein Wind ist. Ebenfalls hast du vielleicht am Flughafen bei den Landebahnen die rot-weissen “Windsäcke” gesehen, die wie eine Fahne aussehen (siehe Bild oben). Diese geben für den Flughafen visuelle Informationen wie die Richtung und ungefähre Stärke des Windes.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

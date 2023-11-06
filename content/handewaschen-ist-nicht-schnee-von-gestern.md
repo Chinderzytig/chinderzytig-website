@@ -20,9 +20,9 @@ title = "Händewaschen ist nicht Schnee von gestern "
 +++
 _Bakterien und Viren trifft man in der Umwelt überall an. Viele davon sind harmlos oder sogar lebenswichtig. Doch wie gehen wir mit denen um, die uns krank machen können?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -30,7 +30,7 @@ _Bakterien und Viren trifft man in der Umwelt überall an. Viele davon sind harm
 
 <li>Hygiene schützt dich vor Krankheiten.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Bakterien vs. Viren
 
@@ -46,8 +46,8 @@ Durch verschiedene Massnahmen können wir uns vor Bakterien und Viren schützen.
 
 Weitere Massnahmen sind Abstand halten, in den Ellbogen oder in ein Taschentuch niesen und husten und Toiletten sauber halten. Ein sauberer Haushalt hilft ebenfalls dabei, dich vor Krankheitserregern zu schützen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

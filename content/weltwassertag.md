@@ -20,11 +20,11 @@ title = "Weltwassertag"
 +++
 _Zum 19. Mal findet dieses Jahr der Weltwassertag statt. Wie gewohnt haben die Vereinten Nationen auch dieses Mal ein Thema festgelegt, welches im Mittelpunkt stehen soll. Dabei soll erneut hervorgehoben werden, wie wichtig sauberes Trinkwasser für uns Menschen ist._
 
-{{< info-box >}}
+{{< important-points >}}
 
-<h3>Das Wichtigste in Kürze</h3>
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+
 
 <ul>
 
@@ -36,7 +36,7 @@ _Zum 19. Mal findet dieses Jahr der Weltwassertag statt. Wie gewohnt haben die V
 
 </ul>
 
-{{< /info-box >}}
+{{< /important-points >}}
 
 Dieses Jahr läuft der Weltwassertag unter dem Motto „Unser Grundwasser: der unsichtbare Schatz". Mit diesem Motto wollen die Vereinten Nationen die grosse Bedeutung des Grundwassers bei den Menschen ins Bewusstsein rufen. Wieso aber machen sich die Vereinten Nationen seit 1993 die Mühe auf verschiedene Themen rund um Trinkwasser aufmerksam zu machen? Wie genau wird der Weltwassertag gefeiert? Und was steckt hinter dem Thema „Grundwasser“?
 
@@ -52,8 +52,8 @@ Grundwasser ist frisches Trinkwasser, welches sich unter der Erdoberfläche befi
 
 Deshalb laden die Vereinten Nationen dazu ein, an diesem Tag UN-Empfehlungen einzuführen und konkrete Aktionen zu unternehmen, die die Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser ermöglichen. Dieses Jahr stützt sich der Weltwassertag auch auf andere Veranstaltungen und soll zum "Jahr des Grundwassers" werden. Der Grundwasserkatalog wird während des Weltwasserforums in Dakar, Senegal vorgestellt, und die letzte Veranstaltung im Rahmen des Themas Grundwasser ist der Grundwassergipfel 2022 in Paris.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

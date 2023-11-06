@@ -21,9 +21,9 @@ title = "Kopfhörer und Musik"
 +++
 _Heute ist es normal, dass wir unsere Lieblingsmusik unterwegs hören können. Nur war das früher nicht immer so. Seit wann gibt es denn eigentlich Kopfhörer? Wir können uns heute eine Welt ohne kaum vorstellen, aber das war die Realität von früher._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Heute ist es normal, dass wir unsere Lieblingsmusik unterwegs hören können. N
 
 <li>Musikstile durch die Jahre: Der Jazz war in den frühen 1910er Jahren sehr aktuell. Später war es Elvis Presley mit der Rockmusik. Ende der 90er Jahre war aber der Rap einer der beliebtesten Musikstile ebenso wie die Pop- oder Technomusik..</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Erste Kopfhörer tauchen auf
 
@@ -59,6 +59,6 @@ In-Ears punkten vor allem bei den tieferen Tönen. On-Ears sitzen nicht immer ga
 
 Mit den ersten Kopfhörern war auch gleich die moderne Musik in den Vordergrund getreten. Die Leute hörten sich gerne neue Arten von Musik an, wie beispielsweise Jazz oder Blues. Dieser hielt sich auch lange, bis der Swing die Überhand an Zuhörer*innen gewann, welcher im Gegensatz zum Tanz einladenden Jazz eher ruhiger war. 1960 war Elvis Presley einer der beliebtesten, wenn nicht sogar der beliebteste Sänger. Aus diesem Grund nannten ihn die Leute auch «King of Rock 'n' Roll». Zirka ein Jahrzehnt später spielte sich der Pop / Rock langsam ein. Bis zu den 2000er entwickelte sich die Musik von Pop / Rock bis hin zum Rap, Techno und den Pop-Songs welche von verschiedensten Künstlern*innen ausgeübt wurden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

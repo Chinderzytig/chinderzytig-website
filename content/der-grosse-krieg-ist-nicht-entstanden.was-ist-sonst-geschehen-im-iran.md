@@ -38,8 +38,4 @@ Die Reibereien zwischen der USA und dem Iran gehen weiter. Der US-Präsident [Do
 
 Seit Januar dieses Jahres hat der Iran auch mit dem Corona-Virus zu kämpfen. Neben vielen Ansteckungen in der Bevölkerung wurde sogar der Vizegesundheitsminister positiv auf das Virus getestet. Die Sanktionen der USA machen die Situation nicht einfacher. Denn so wie die Schweiz, ist auch der Iran auf Medikamente und Schutzmasken aus dem Ausland angewiesen. Die iranische Bevölkerung bleibt dennoch kreativ und stellt sogar Schutzmasken aus Papier her. Die Pandemie zeigt auch, dass die Staaten momentan andere Probleme haben als kriegerische Auseinandersetzungen.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

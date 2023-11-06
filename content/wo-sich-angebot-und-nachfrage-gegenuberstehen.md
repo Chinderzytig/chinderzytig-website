@@ -21,9 +21,9 @@ title = "Wo sich Angebot und Nachfrage gegenüberstehen"
 _Wenn sich ein Anbieter an den anderen reiht und alle hoffen, die Besuchenden für ihr Produkt zu überzeugen, dann befindet man sich möglicherweise an einer Messe. Meistens kommt dann noch der Duft nach Magenbrot oder von einem Grillstand hinzu. Was es mit der ganzen Fülle an Messen auf sich hat? – dieser Frage geht der folgende Artikel auf den Grund._
 
   
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Wenn sich ein Anbieter an den anderen reiht und alle hoffen, die Besuchenden f�
 
 <li>Eine der bekanntesten Messen in der Schweiz ist die OLMA. Sie ist die schweizweit grösste Publikumsmesse und findet seit 1943 fast jährlich statt.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Eine Messe bietet einen Mehrwert für anbietende und nachfragende Personen. Waren und Dienstleistungen werden an einer Messe von Produzenten oder Verkäufern präsentiert, erklärt oder/und verkauft. Gleichzeitig kann sich der Nachfrager ein Bild der Marktsituation machen und die Vor- und Nachteile der Waren und Dienstleistungen kennenlernen.
 
@@ -49,6 +49,6 @@ Von A wie Art Basel (Kunstmesse in Basel) über H wie Higa Chur (Südostschweize
 
 Die OLMA St.Gallen ist wohl eine der bekanntesten Messen schweizweit, die grösste Publikumsmesse. Die OLMA findet in der Regel jährlich statt und begeistert die Besuchenden mit den Themen Landwirtschaft und Ernährung. Bis zu 320'000 Personen finden jeweils den Weg nach St.Gallen an die OLMA und lassen sich von Säuli-Rennen, OLMA-Bratwurst und Bier-Degustation inspirieren. Dass die OLMA seit 1943 fast jährlich stattfindet, zeugt von der grossen Beliebtheit der Messe in der Ostschweiz. Ein Highlight ist sicherlich auch die Eröffnung der OLMA, die jeweils in Anwesenheit einer Bundesrätin oder eines Bundesrats durchgeführt wird.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

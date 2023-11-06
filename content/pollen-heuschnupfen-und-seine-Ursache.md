@@ -21,9 +21,9 @@ title = "Pollen – Heuschnupfen und seine Ursache"
 +++
 _In diesem Artikel erfährst du mehr über den Heuschnupfen und wieso viele Menschen auf Pollen allergisch reagieren._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _In diesem Artikel erfährst du mehr über den Heuschnupfen und wieso viele Mens
 
 <li>Gegen Heuschnupfen hilft es seine Kleidung von draussen nicht mit ins Schlafzimmer zu nehmen, die Haare und das Gesicht vor dem Schlafen gehen zu waschen und die Pollenprognose zu benutzen, um bestmöglich informiert zu sein, an welchen Orten es momentan viele Pollen hat.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Wieso sind einige Menschen vom Heuschnupfen betroffen?
 
@@ -66,8 +66,8 @@ Feuchtes Gewebe nimmt Pollen besonders gut auf. Wenn die Wäsche dennoch drausse
 * **Pollen aus der Wohnung fernhalten:**
 Trage Kleidung und Schuhe, die du im Freien benutzt hast, nicht im Wohnbereich und lege diese nicht im Schlafzimmer ab. Wische Oberflächen in der Wohnung feucht ab. Dies verhindert, dass sich die Pollen im gesamten Raum verteilen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

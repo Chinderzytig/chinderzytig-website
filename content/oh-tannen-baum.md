@@ -32,8 +32,8 @@ Doch zurück zu unseren Tannenbäumen. Anders als Allee-Bäume, die dort jahrela
 
 Und wer am liebsten gar keine Bäume wachsen lassen will, um sie dann gleich wieder wegzuwerfen, hat seit einigen Jahren die Möglichkeit, einen eigenen Baum im Topf zu kaufen und über Jahre zu behalten. Je nach Angebot bleibt der Baum das ganze Jahr über bei der Familie oder wird jeweils vor Weihnachten angeliefert und danach wieder abgeholt, damit er bis zum nächsten Dezember gehegt und gepflegt wird. So wird der Baum jedes Jahr ein bisschen grösser und kann jedes Jahr 1-2 Kugeln mehr tragen. Über diese Tradition sollten sich sicher alle freuen können, Behörden und Baumfreunde.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

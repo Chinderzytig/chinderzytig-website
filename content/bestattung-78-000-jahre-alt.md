@@ -34,8 +34,4 @@ In England zum Beispiel, können Fussballfans auch nach ihrem Tod ganz nahe bei 
 
 Eine andere – sehr, sehr teure – Bestattung führt zum Mond oder sogar noch weiter. Es gibt die Möglichkeit, die Asche eines verstorbenen Menschen einer Rakete mitzugeben, die unterwegs ist ins Weltall. Die Urne wird dann im All ausgesetzt, wo sie eine Zeit lang kreist, bevor sie verglüht und als Sternschnuppe auf der Erde sichtbar wird.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

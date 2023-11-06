@@ -40,8 +40,7 @@ Auch die Impfkampagne - die Durchimpfung der Bevölkerung wird gemäss Regierung
 
 {{< definition id="Aussies" wort="Aussies" def="“Aussie” ist eine umgangssprachliche Abkürzung für “Australier”." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

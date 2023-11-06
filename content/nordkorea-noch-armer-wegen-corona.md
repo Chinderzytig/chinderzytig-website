@@ -34,8 +34,8 @@ Die noch stärkere Abschottung des Landes schadet aber auch der Wirtschaft. So f
 
 Nun reagiert die Regierung. Kim Jong-un hat wohl erkannt, dass er einen neuen Plan braucht, um die Wirtschaft wieder anzukurbeln. Der im Jahr 2016 vorgestellte Fünfjahresplan für wirtschaftlichen Fortschritt wird nicht mehr zu erfüllen sein. Die „besseren Zeiten“, die er damals der Bevölkerung versprochen hat, sind nicht eingetreten. Deshalb braucht es einen neuen Plan. Wie dieser aussehen soll, wird Kim Jong-un im Januar an einer Zusammenkunft mit der Arbeiterpartei präsentieren. Dabei wird es jedoch nicht darum gehen, auf die Bedürfnisse der Menschen einzugehen. Mit dem Plan und der Präsentation wird Kim Jong-un sicherstellen, dass die Bevölkerung der Regierung weiterhin vertraut und glaubt, das Land brauche keine Hilfe. Da ist es vielleicht ganz praktisch, dass fast keine ausländischen Personen mehr im Land sind, welche die Situation und damit die Regierung kritisch beurteilen könnten.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

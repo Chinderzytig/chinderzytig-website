@@ -30,8 +30,8 @@ Das Holi Fest wird am Vollmondtag des Monats Phalgun, Ende Februar bis März, ge
 
 Das Holi Fest wird mittlerweile nicht nur in Indien gefeiert. Seit 2012 finden in der ganzen Welt riesige Musikfestivals mit dem Motto "Holi Festival der Farben" statt. Den ganzen Tag legen DJs Musik auf und kündigen Farbencountdowns an, woraufhin alle eine Handvoll Farbpulver in die Luft werfen. Auch wenn diese Festivals verlockend klingen, sollte man dabei die kulturelle Bedeutung und die Tradition dahinter nicht vergessen. Denn hier handelt es sich um eine kulturelle Aneignung, oder um die Adaption eines Bestandteils einer anderen Kultur. Dabei übernimmt die dominante, westliche Kultur Eigenschaften einer benachteiligten, unterdrückten Kultur. So kann eine westliche Person, die sich am Holi mit einem Bindi (Punkt auf der Stirn) oder Henna bemalt, Menschen, die der Hinduistischen Kultur angehören, verletzen. Dieses Thema wird aktuell immer wieder diskutiert und trotzdem gibt es keine Universallösung. Wichtig ist jedoch, dass die Übernahme von fremden kulturellen Elementen nicht als selbstverständlich hingenommen wird und die Teilnehmenden sich über die Auswirkungen ihres Handelns auf den betreffenden Kulturkreis bewusst sind.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

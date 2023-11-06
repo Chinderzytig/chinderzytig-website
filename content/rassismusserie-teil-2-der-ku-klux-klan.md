@@ -46,8 +46,8 @@ Artikel zum Ku-Klux-Klan im Kinderlexikon: [https://klexikon.zum.de/wiki/Ku-Klux
 
 Lied von The Ramones «The KKK took my baby away» (Der KKK nahm mir meine Freundin weg): [https://www.youtube.com/watch?v=Qx0zeMbLOCY](https://www.youtube.com/watch?v=Qx0zeMbLOCY "https://www.youtube.com/watch?v=Qx0zeMbLOCY")
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

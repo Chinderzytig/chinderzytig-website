@@ -38,8 +38,4 @@ Das Kaufverhalten von uns Konsumenten hat einen grossen Einfluss darauf, welche 
 
 {{< definition id="Ausbeutung" wort="Ausbeutung" def="Von Ausbeutung spricht man, wenn jemandem eine viel zu tiefe oder gar keine Gegenleistung für eine erbrachte Arbeit gegeben wird." >}}
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -48,8 +48,8 @@ In der Schweiz gibt es 2‘202 Gemeinden. Jede Gemeinde hat im Durchschnitt also
 
 [Zahlen und Fakten Volg](https://www.volg.ch/ueber-volg/wer-wir-sind/)
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

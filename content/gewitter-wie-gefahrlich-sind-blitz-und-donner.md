@@ -42,8 +42,8 @@ Wenn du unterwegs von einem Gewitter überrascht wirst und kein sicheres Gebäud
 
 Und was hältst du von Gewittern? Magst du sie oder machen sie dir Angst? Hast du selbst schon mal eine Gewittergeschichte erlebt? Bist du schon mal jemandem begegnet, der oder die von einem Blitz getroffen wurde? Was magst du lieber: Donner oder Blitz? Kannst du dich noch an ein Gewitter erinnern, welches für dich besonders war.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

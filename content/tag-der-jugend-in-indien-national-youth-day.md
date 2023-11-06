@@ -38,8 +38,7 @@ Indien ist nicht das einzige Land, das einen Tag der Jugend kennt. Früher und z
 
 Viele Hilfsorganisationen nutzen den Tag der Jugend auch, um auf die grossen Ungleichheiten aufmerksam zu machen, die es nach wie vor gibt. Die Lage der Jugendlichen ist von Land zu Land sehr unterschiedlich. Für viele ist Bildung zum Beispiel immer noch nicht selbstverständlich. Ziel ist es, den Kindern und Jugendlichen weltweit die Mittel zu geben, damit sie die Zukunft aktiv mitgestalten können. Gerade Themen wie die Bekämpfung der Armut oder eine nachhaltige Entwicklung sind zentral für die Zukunft der Jugendlichen. Darauf wird aufmerksam gemacht. Und dafür wollen und sollen sie sich engagieren.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

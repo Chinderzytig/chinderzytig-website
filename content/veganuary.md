@@ -38,8 +38,8 @@ An erster Stelle steht die Effizienz. So wurde bei Masthühnern das Sättigungsg
 
 Eine vegane Ernährung ist also eine der effektivsten Massnahmen, um die Umwelt zu schützen, Tierleid zu vermeiden und den Klimawandel anzuhalten. Die Mission von Veganuary ist es, Menschen zu inspirieren und dabei zu unterstützten, eine pflanzliche Ernährung auszuprobieren. Ausserdem möchten man den Wandel bei Unternehmen zu mehr veganen Produkten vorantreiben und eine globale Bewegung schaffen, die sich für nachhaltige Ernährungsweisen einsetzt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

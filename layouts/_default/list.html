@@ -8,7 +8,7 @@
 	{{ partial "thema_cta.html" (dict "attr" . "categories" "true") }}
 
 	<div class="cta">
-		<h2 class="deading deading--black">Alle Artikel: {{ .Title }}</h2>
+		<h2 class="deading deading__list deading--black">Alle Artikel: {{ .Title }}</h2>
 		<div class="card__container card__container-list">
 			{{ $group := where .Pages ".Params.fdw" false }}
 

@@ -21,9 +21,9 @@ title = "Die Schweizer Regierung - Teil 3"
 
 _Die Regierung in der Schweiz, bestehend aus 7 Mitgliedern. Doch weshalb sind es gerade 7 und nicht 8 oder 9? Und welche Aufgaben hat der Bundesrat überhaupt? Dazu erfahrt ihr mehr im folgenden Artikel._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Die Regierung in der Schweiz, bestehend aus 7 Mitgliedern. Doch weshalb sind es
 
 <li>Der Bundesratspräsident oder die Bundesratspräsidentin repräsentiert die Schweiz in anderen Ländern.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Die 7 Mitglieder des Bundesrats hat unterschiedliche Aufgaben, die vor allem in 4 Kategorien einzuteilen sind: es ist dies die Planungs- und Steuerungsfunktion, die Initiativ- und Koordinationsfunktion, die Informations- und Kommunikationsfunktion und die Repräsentationsfunktion. Die Planungs- und Steuerungsfunktion umschreibt die Zielsetzung für eine Legislatur. Eine Legislatur ist die Dauer, in der ein Bundesrat im Amt ist üblicherweise 4 Jahre. Für diese 4 Jahre setzt sich der Bundesrat, das heisst alle 7 Bundesräte zusammen, Ziele. Um die Ziele zu erreichen, braucht es Massnahmen. Beispielsweise braucht es für die Zustimmung von Kantonen für den Ausbau von Strassen oder Zuglinien und dazu braucht es dann vor allem Geld. Wie viel Geld pro Jahr zur Verfügung steht, auch darüber entscheidet der Bundesrat, nämlich in der Budgetplanung, mit dem Finanzplan. Mit dem Finanzplan kann der Bundesrat steuern, in welchen Bereich wie viel Geld fliessen soll usw. Wenn in einen Bereich mehr Geld fliesst, dann ist damit zu rechnen, dass in diesem Bereich auch mehr Arbeit zu erledigen ist.
 
@@ -51,8 +51,8 @@ Nicht zuletzt repräsentiert der Bundesrat die Schweiz gegen innen, aber auch ge
 
 Mit diesem Artikel endet der Überblick über die Schweizer Bundesversammlung und Regierung.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

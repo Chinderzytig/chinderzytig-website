@@ -21,9 +21,9 @@ title = "Sherpas – treue Begleiter"
 
 _Die höchsten Berge der Welt ziehen immer mehr Menschen an. In geführten Touren versuchen sie, die über 8000 Meter hohen Gipfel zu erreichen. Dabei werden sie von Sherpas begleitet. Sherpas tragen das Gepäck für die Bergsteigenden und nehmen dabei grosse Risiken in Kauf._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Die höchsten Berge der Welt ziehen immer mehr Menschen an. In geführten Toure
 
 <li>Es wollen immer mehr Menschen die höchsten Berge der Welt besteigen. Sie haben oft wenig Erfahrung.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Vor einigen Tagen ist es am K2, dem zweithöchsten Berg der Welt, zu einer traurigen Geschichte gekommen: Ein Sherpa verunfallt und verstirbt später trotz Versuchen ihn wiederzubeleben. Kurz darauf taucht ein Video auf. Auf dem Video sieht man, dass ein paar Bergsteigende einfach an dem verunfallten Mann vorbeigehen ohne zu helfen. Nun werden in den Medien verschiedene Fragen diskutiert: Hätte der Sherpa gerettet werden können? Warum laufen Menschen an einem Verunfallten vorbei ohne zu helfen? Gehören Unfälle zum Berufsrisiko von Sherpas?
 
@@ -45,8 +45,8 @@ Klare Antworten auf diese Fragen werden wir wohl nicht bekommen. Sicher aber ist
 
 Nun kann man sich fragen: Warum machen diese Menschen denn diesen gefährlichen Job? In diesen gebirgigen Gegenden gibt es nicht viele Möglichkeiten zu arbeiten. Und als immer mehr ausländische Bergsteigende in diese Gebiete gekommen sind, haben die einheimischen Menschen hier wohl eine Möglichkeit gesehen, Geld zu verdienen. In Nepal ist es mittlerweile immerhin so, dass die Sherpas eine Versicherung haben. Mit dieser Versicherung sind die Familien der Sherpas finanziell abgesichert, wenn dem Sherpa etwas passiert. Beim verunglückten Sherpa am K2 war dies leider nicht der Fall. Er kam aus Pakistan. Bleibt nur zu hoffen, dass auch für die pakistanischen Sherpas bald eine solche Versicherung ins Leben gerufen wird.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

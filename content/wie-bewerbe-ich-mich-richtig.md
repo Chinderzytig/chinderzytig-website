@@ -20,9 +20,9 @@ title = "Wie bewerbe ich mich richtig? "
 +++
 _Du hast eine tolle Idee für deinen Berufseinstieg? Super! Jetzt fehlen nur noch die richtigen Bewerbungsunterlagen. Das ist das erste, was ein Lehrbetrieb von dir sieht. Deshalb findest du hier einige Tipps für deine Bewerbung._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Du hast eine tolle Idee für deinen Berufseinstieg? Super! Jetzt fehlen nur noc
 
 <li>Es ist wichtig, dass es keine Fehler in deinen Unterlagen hat und deine Eltern oder eine Lehrperson einen zweiten Blick darauf werfen.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Wenn du bereits auf eine spannende Stelle gestossen bist, hast du sicher schon gesehen, dass du deine Bewerbungsunterlagen jeweils an eine E-Mail-Adresse senden kannst. Doch was sollst du dort mitschicken? Damit deine Bewerbung vollständig ist, sollte sie auf jeden Fall die folgenden Dokumente enthalten:
 
@@ -66,6 +66,6 @@ Nebst dem Bewerbungsbrief ist auch dein aktueller Lebenslauf wichtig. Darin soll
 
 Wenn du alle Unterlagen vorbereitet hast, zeige sie deinen Eltern oder deinen Lehrpersonen. Vielleicht sehen sie noch Tippfehler oder haben sonst einen Ratschlag für dich. Dann fehlt nur noch deine Unterschrift und du kannst die Unterlagen versenden. Jetzt gilt es, Geduld zu bewahren. Einige Lehrbetriebe melden sich erst nach zwei Wochen, weil sie viele Bewerbungen erhalten. In dieser Zeit kannst du dich aber schon an die nächste Bewerbung machen, du weisst ja jetzt genau, wie das geht.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

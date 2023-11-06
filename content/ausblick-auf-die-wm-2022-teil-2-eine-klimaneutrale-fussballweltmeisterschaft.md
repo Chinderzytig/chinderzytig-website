@@ -20,9 +20,9 @@ title = "Ausblick auf die WM 2022 – Teil 2 Eine klimaneutrale Fussballweltmeis
 +++
 _Stadien und Hotels wurden in den letzten Jahren im Wüstenstaat Katar aus dem Boden gestampft. Trotz der Durchführung in den Monaten November und Dezember klettern die Temperaturen auf bis zu 30 Grad. Die Stadien sollen auf 22 Grad Celsius heruntergekühlt werden. Fussballteams und Fussballbegeisterte aus der ganzen Welt werden mit dem Flugzeug nach Katar reisen. Trotzdem soll die Fussball-WM klimaneutral sein. Dies kündigten der Fussballverband Fifa und das Organisationskomitee aus Katar an. Doch wie soll die WM klimaneutral sein? Verdient das Fussballturnier in Katar das Siegel der Klimaneutralität?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Stadien und Hotels wurden in den letzten Jahren im Wüstenstaat Katar aus dem B
 
 <li>Die Hin- und Rückreise an die WM der Fussballfans verursache am meisten {{< fremdwort id="Emissionen" wort="Emissionen" >}}</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Klimaneutralität
 
@@ -60,8 +60,4 @@ Martin Müller, Professor für Geografie an der Universität in Lausanne, hat di
 
 {{< definition id="CO2" wort="CO2" def="ist die Abkürzung für das Gas Kohlenstoffdioxid. Es besteht aus Kohlenstoff und Sauerstoff. Man kann pures CO2 nicht sehen und nicht riechen, denn es ist farb- und geruchlos. Kohlenstoffdioxid ist von Natur aus in der Luft enthalten. Wenn wir das Licht anknipsen, die Heizung aufdrehen, den Kamin anzünden oder mit dem Auto fahren, gelangt zusätzliches Kohlendioxid in die Atmosphäre. Zu viel CO2 in der Luft ist schlecht für das Klima." >}}
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

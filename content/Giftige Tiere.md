@@ -40,8 +40,8 @@ Spannend ist nun die Frage, welche Tiere denn weltweit am giftigsten sind und wo
 
 Wie sieht es bei dir aus: Bist du schon einmal einem giftigen Tier begegnet? Wenn ja, welchem und wie hast du reagiert? Kennst du noch weitere giftige Tiere, die im Artikel nicht vorgekommen sind? Hast du Angst vor giftigen Tieren oder macht dir der Gedanke nichts aus, dass es sie gibt? Wärst du selber gerne giftig? Wenn ja, warum und wie würdest du dein Gift einsetzen? Wenn nein, warum nicht?
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

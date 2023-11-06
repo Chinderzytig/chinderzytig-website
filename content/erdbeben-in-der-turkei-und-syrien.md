@@ -21,9 +21,9 @@ title = "Erdbeben in der Türkei und Syrien"
 +++
 _In diesem Artikel erfährst du, wieso es in der Türkei zu Erdbeben kam und was die Folgen von Erdbeben sind._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _In diesem Artikel erfährst du, wieso es in der Türkei zu Erdbeben kam und was
 
 <li>Die bei den kürzlich erfolgten Erdstößen freigesetzte Energie war mehr als doppelt so hoch wie bei dem stärksten historischen Erdbeben an dieser Verwerfungszone.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 ### Lange aufgestaute Spannungen
 
@@ -55,6 +55,6 @@ Die bei den Erdstößen freigesetzte Energie war mehr als doppelt so hoch wie be
 
 Der Untergrund in Gaziantep und den umliegenden Gebieten bewegte sich dadurch besonders heftig und führte zum Einsturz der Gebäude.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

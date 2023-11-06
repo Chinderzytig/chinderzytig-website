@@ -36,8 +36,7 @@ Kastanien sind aber nicht nur als kleiner Snack zwischendurch beliebt, sondern a
 
 Basteln mit Kastanien gehört in vielen Familien genauso zum Herbst wie die bunten Blätter und die kühleren Tage. Seit Generationen hat nämlich die ganze Familie Spass, sich auf die Suche nach Kastanien zu machen und allerlei aus den kleinen Früchten zu zaubern. Hierfür sind Rosskastanien wieder bestens geeignet. Ob man kleine Männchen, einfache Kastanientiere oder schöne Kastanienketten basteln möchte, mit ein paar Zahnstochern, einer Schnur und etwas Fantasie sind einem keine Grenzen bei der Nutzung der Kastanien gesetzt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

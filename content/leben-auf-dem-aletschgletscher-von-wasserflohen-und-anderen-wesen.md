@@ -36,8 +36,7 @@ Und noch jemand lebt nebst dem Gletscherfloh auf dem Eis, dies erzählen zuminde
 
 Wem würdest du lieber begegnen, dem _Gletscherfloh_ oder dem _Rollibock_? Hast du schon einmal einen Gletscher gesehen? Findest du, die Gletscher müssen beschützt werden oder brauchen sie diesen besonderen Schutz nicht? Denkst du, das Schmelzen der Gletscher kann verhindert werden oder gehört diese Veränderung zum Klimawandel einfach dazu?
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

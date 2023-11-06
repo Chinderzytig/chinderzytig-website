@@ -36,6 +36,6 @@ Die Siedlung in Venezuela ist nur eines von vielen Beispielen. In diesem Fall sp
 
 Wieviel Geld in welchen Ländern als illegal gilt, wieviele Reiche vom Geld für Arme profitiert haben, wissen wir auch nach den veröffentlichten Fincen Files nicht. Dennoch ist die Veröffentlichung der Dokumente ein Schritt in die Richtung der Bekämpfung von Geldwäscherei.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

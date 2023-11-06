@@ -34,8 +34,4 @@ Jede Demokratie lebt davon, dass möglichst viele Leute wählen und abstimmen ge
 
 Ob man auf solche Unterstützung und solche Plattformen zurückgreifen will, ist jedem selbst überlassen. Wichtig ist, dass man sich unvoreingenommen über politische Themen informiert und wählen geht.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

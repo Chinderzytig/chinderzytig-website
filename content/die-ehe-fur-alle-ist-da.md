@@ -20,9 +20,9 @@ title = "Die Ehe ist für alle da"
 +++
 _Es hat lange gedauert und den Einsatz tausender Menschen gebraucht. Ab morgen 1. Juli 2022 dürfen in der Schweiz auch homosexuelle Menschen heiraten. Das Gesetz, das die Ehe für alle vorsieht, tritt in Kraft. Endlich!_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -32,7 +32,7 @@ _Es hat lange gedauert und den Einsatz tausender Menschen gebraucht. Ab morgen 1
 
 <li>Weltweit ist die Ehe für alle nach wie vor nicht weit verbreitet. In rund 30 Ländern dürfen Frauen zu Frauen und Männer zu Männern «ja sagen».</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Was vielerorts schon lange möglich ist, ist nun endlich auch in der Schweiz Tatsache. Ab dem 1. Juli 2022 können hierzulande auch zwei Frauen oder zwei Männer «ja» zueinander sagen. Gleichgeschlechtliche Paare können heiraten wie alle andern auch oder ihre eingetragene Partnerschaft in eine Ehe umwandeln lassen. Die Schweiz war lange ein schwarzer Fleck auf der Karte Europas. In den meisten unserer Nachbarländer ist die Ehe für alle seit einigen Jahren erlaubt, so zum Beispiel auch im katholischen Spanien (seit 2005) oder in Irland (seit 2015). Eine Pionierrolle hatten die Niederlande, welche es gleichgeschlechtlichen Paaren als erstes Land weltweit 2001 erlaubte, zu heiraten. Ausserhalb Europas haben in den letzten Jahren insbesondere Länder in Südamerika die Ehe für alle eingeführt. Auch in den USA, Kanada, Südafrika oder Australien können gleichgeschlechtliche Paare heiraten. Total sind es weltweit nun 30 Länder, die es erlauben, dass Frauen Frauen heiraten und Männer Männer.
 
@@ -46,6 +46,6 @@ Trotzdem gab es auch vor der Abstimmung im letzten Jahr noch viele Leute, die si
 
 In anderen Bereichen gibt es aber nach wie vor Handlungsbedarf. So sind homosexuelle Personen in der Schweiz weiterhin Diskriminierung, die bis zur tätlichen Gewalt gehen kann, ausgesetzt. Die Ehe für alle sehen viele deshalb auch bloss als einen ersten Schritt auf dem Weg zu vollständiger Gleichstellung.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

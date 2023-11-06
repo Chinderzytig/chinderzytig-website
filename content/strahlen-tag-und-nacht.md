@@ -41,8 +41,8 @@ Hier ist eine kurze Erklärung zu diesen Begriffen.
 * Ionisierende Strahlung: Ist die Energie der Strahlungsteilchen so hoch, dass sie aus Atomen oder Molekülen Elektronen entfernen kann, wird die Strahlung als ionisierende Strahlung bezeichnet. Elektromagnetische Wellen in diesem Energiebereich geben oft beim ersten Stoß einen Großteil ihrer Energie ab. Geladene Teilchen mit hoher Energie geben diese beim Durchgang durch Materie in vielen kleinen Portionen ab.
 * „Harte“ und „weiche“ Strahlung: Bei verschiedenen den Strahlenarten, z. B. Röntgen-, Gamma- und auch Betastrahlung, wird manchmal von „harter“ oder „weicher“ Strahlung gesprochen. Genaue Abgrenzungen dieser Begriffe gibt es aber nicht. Von Harter Röntgenstrahlung wird beispielsweise in der Röngenoptik gesprochen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

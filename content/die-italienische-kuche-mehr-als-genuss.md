@@ -41,8 +41,7 @@ Deshalb hat sich die {{< fremdwort id="UNESCO" wort="UNESCO" >}} auch dazu entsc
 
 Wenn ihr also das nächste Mal eine Pizza bestellt oder es zuhause eine gibt, schaut doch kurz nach, was die originale Pizza aus dem Süden Italiens eigentlich so alles draufhat. Viel ist es nämlich gar nicht. Sie aber so nachzubacken, wie es die Neapolitaner machen, ist ganz schön schwierig. Denn wer von uns hat schon einen grossen Pizzaofen zuhause?
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

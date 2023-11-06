@@ -21,9 +21,9 @@ title = "Weltfinanzkrise – Der Investment Crash 2008"
 +++
 _Vor knapp 15 Jahren kam es zu einer der grössten Wirtschaftskrisen der Welt und der grössten Krise seit der grossen Depression in den 1930er Jahren. Die Krise startete zwar in den USA, breitete sich aber schnell auf die ganze Welt aus. Dabei verloren Tausende ihre Ersparnisse und sogar ihr Zuhause._
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Vor knapp 15 Jahren kam es zu einer der grössten Wirtschaftskrisen der Welt un
 
 <li>Als viele Menschen ihre Kredite dann nicht mehr bezahlen konnten, gingen viele Banken in Konkurs.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Die Finanzmärkte wurden gegen Ende des 20. Jahrhunderts und zu Beginn des 21. Jahrhunderts, angetrieben durch die Digitalisierung und die Internationalisierung des Bankenwesens, immer komplizierter und undurchsichtiger. Banken kauftenimmer gefährlichere und riskantere Anlagen und gaben sie an ihre Kunden weiter. Dies führte schliesslich dazu, dass in den USA eine der grössten Banken Konkurs anmelden musste. Doch wie konnte es so weit kommen? Und wer waren schliesslich die Leidtragenden?
 
@@ -47,6 +47,6 @@ Nun wird es noch etwas komplizierter: Auf dem Finanzplatz konnten Institute und 
 
 Die Folgen waren sehr schlimm. In Amerika verloren damals viele Menschen ihre Arbeit, ihr Haus und ihr Erspartes. Viele Banken hatten weltweit Schwierigkeiten ihre Schulden zu zahlen und deshalb brach auch der weltweite Handel zusammen. Denn jetzt konnten auch Unternehmen nicht mehr sicher sein, dass die Bank eines anderen Unternehmens noch zahlungsfähig sein würde. Da der Finanzmarkt sehr International aufgestellt ist, waren nicht nur amerikanische Banken und Unternehmen betroffen. Schnell war die ganze Weltwirtschaft in Mitleidenschaft gezogen. Die amerikanische Regierung aber auch ganz viele andere Staaten musste einschreiten und die Banken retten, damit der Handel wieder stabilisiert werden konnte. Dieses Einschreiten wiederum führte aber zu einer Vielzahl von neuen Problemen. Schliesslich ging es viele Jahre, bis sich die Wirtschaft von dieser Krise erholt hatte.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -21,9 +21,9 @@ title = "Wo waren die Wespen im Winter?"
 +++
 _Die Tage werden länger und die ersten warmen Sonnenstrahlen locken uns hinaus in den Garten. Der Frühling ist da! Darüber freuen sich auch die Wespen. Einige davon summen uns schon bald wieder aufdringlich um die Ohren. Doch wo waren all die Tiere eigentlich im Winter? Hielten sie Winterschlaf?_
 
-{{< info-box >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 
@@ -33,7 +33,7 @@ _Die Tage werden länger und die ersten warmen Sonnenstrahlen locken uns hinaus 
 
 <li>Die meisten Wespenarten belästigen oder stechen nicht.</li>
 
-</ul> {{< /info-box >}}
+</ul> {{< /important-points >}}
 
 Tatsächlich sterben die meisten Wespen im Herbst. Überleben können nur die zukünftigen Königinnen. Diese suchen sich einen Hohlraum in morschem Holz oder in einem Dachstuhl, wo sie vor Frost geschützt sind. Wenn sie im Frühjahr erwachen, bauen sie für sich und ihr Volk ein Nest. Dort legen sie ihre Eier, die im Herbst befruchtet worden sind.
 
