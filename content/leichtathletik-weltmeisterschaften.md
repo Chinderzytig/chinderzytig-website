@@ -20,9 +20,9 @@ title = "Leichtathletik Weltmeisterschaften"
 +++
 _Im Juli finden die Weltmeisterschaften der Leichtathletik statt, zum ersten Mal in den USA. Welche Wettkämpfe werden zu sehen sein? Wer sind die Favorit*innen und wer hat sich aus der Schweiz qualifiziert? Und warum steht der Event und die Sportart selbst in der Kritik?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

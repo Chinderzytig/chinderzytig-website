@@ -20,9 +20,9 @@ title = "„Ich gehe in die Politik“ "
 +++
 _Könnte diese Aussage von dir stammen? Wenn ja, wie sieht dieser Weg in die Politik aus? Und ist Politikerin oder Politiker überhaupt ein Beruf? Schauen wir uns dieses Tätigkeitsfeld mal etwas genauer an._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -20,9 +20,9 @@ title = "Revolution im Musical"
 +++
 _Das Musical Hamilton ist ein grosser Erfolg. Seit Oktober 2022 wird das Stück in Hamburg erstmals in deutscher Sprache aufgeführt. Das Musical erzählt von der Revolution, welche zur Entstehung der heutigen USA führte. Gleichzeitig ist an dem Musical selbst alles neu und anders. Es ist eine Revolution in der Welt der Musicals._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

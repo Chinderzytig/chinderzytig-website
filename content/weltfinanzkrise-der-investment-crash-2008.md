@@ -21,9 +21,9 @@ title = "Weltfinanzkrise – Der Investment Crash 2008"
 +++
 _Vor knapp 15 Jahren kam es zu einer der grössten Wirtschaftskrisen der Welt und der grössten Krise seit der grossen Depression in den 1930er Jahren. Die Krise startete zwar in den USA, breitete sich aber schnell auf die ganze Welt aus. Dabei verloren Tausende ihre Ersparnisse und sogar ihr Zuhause._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

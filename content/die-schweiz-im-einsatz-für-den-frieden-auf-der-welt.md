@@ -21,9 +21,9 @@ title = "Die Schweiz im Einsatz für den Frieden auf der Welt"
 
 _Ende Mai reiste die Bundesrätin Viola Amherd nach New York. Grund war die 75-Jahre-Feier der UNO-Friedenssicherung. Die Schweiz engagiert sich schon seit langem für den Frieden auf der Welt. Wie und warum macht sie das?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -21,9 +21,9 @@ title = "Ertrinken – Wie schütze/rette ich mich und andere?"
 
 _Am und im Wasser – vor allem in Flüssen und Seen, aber auch in der Badi – ist ein Ertrinkungsunfall schnell passiert. Am besten kommt es gar nicht erst dazu. Wenn doch, dann helfen dir folgende Tipps, um dich oder andere aus dem Wasser zu retten._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

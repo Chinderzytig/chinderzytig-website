@@ -21,9 +21,9 @@ title = "Netflix und die Streaming Wars"
 +++
 _Lange hatte Netflix eine alleinige Vorherrschaft im Raum des Streamings. In den letzten 10 Jahren hat sich Netflix in den meisten Haushalten eingenistet. Wenn man im eigenen Umfeld herumfragt, wird man kaum einen Haushalt ohne einen Netflix Zugang finden. Der Streaming-Riese war seiner Konkurrenz lang voraus. Doch in den letzten Jahren hat sich das Feld der Anbieter um einiges verdichtet._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

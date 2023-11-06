@@ -19,11 +19,11 @@ slug = ""
 title = "K-Pop – Blackpink & BTS"
 
 +++
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
 _In diesem Artikel erfährst du, was K-Pop ist und wie BTS und Blackpink damit zusammenhängen._
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

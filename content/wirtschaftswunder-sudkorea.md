@@ -22,9 +22,9 @@ title = "„Wirtschaftswunder“ Südkorea"
 _Samsung, Hyundai, Kia – wahrscheinlich ist dir auch schon ein Handy oder Auto mit diesem Namen begegnet. Die Firmen hinter diesen Namen kommen alle aus Südkorea. Sie sind typische Beispiele für die starke Wirtschaft des Landes. Diese wird auch als „Wunder am Hangang“ bezeichnet – benannt nach dem Fluss der durch die Hauptstadt Seoul fliesst._
 
   
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

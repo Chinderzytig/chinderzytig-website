@@ -20,9 +20,9 @@ title = "Huhn oder Ei, was war zuerst da?"
 +++
 _„Was war zuerst, das Huhn oder das Ei?“ Diese Frage beschäftigt Menschen bereits seit vielen Jahren. Philosophen und Philosophinnen haben sich schon vor langer Zeit darüber gestritten, ob nun das Ei oder das Huhn zuerst da war und sind sich wohl heute noch nicht einig. Wie es bei so vielen philosophischen Fragen der Fall ist, lässt sich keine klare Antwort darauf finden. Dennoch kann man die Frage aus unterschiedlichen Blickwinkeln betrachten, um so vielleicht auf eine Antwort zu stossen._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

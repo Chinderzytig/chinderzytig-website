@@ -21,9 +21,9 @@ title = "Samichlous"
 +++
 _Jedes Jahr am 6. Dezember besucht der Samichlous die Schweizer Kinder und bringt ihnen Süsses, Erdnüsse und Mandarinen. Bei manchen kommt er persönlich vorbei, andere besuchen ihn im Wald oder sie stellen ganz einfach einen Stiefel vor die Tür. Je nach Region trägt er unterschiedliche Kleider und manchmal hat er einen Begleiter dabei. Woher kommt eigentlich der Samichlous?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

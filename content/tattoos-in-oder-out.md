@@ -20,9 +20,9 @@ title = "Tattoos – in oder out? "
 +++
 _Die Badi-Saison ist eröffnet – und damit die Saison der Tattoos. Wo man hinschaut, Tätowierungen auf Armen, Beinen, Rücken und so weiter. Doch, sind Tattoos heute eigentlich noch angesagt? Und woher kommt der Körperkult eigentlich?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

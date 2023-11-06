@@ -21,9 +21,9 @@ title = "Atomenergie"
 
 _In Atomkraftwerken wird mithilfe von Atomkernen Strom gewonnen. Viele Menschen finden Atomkraft aber zu gefährlich._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

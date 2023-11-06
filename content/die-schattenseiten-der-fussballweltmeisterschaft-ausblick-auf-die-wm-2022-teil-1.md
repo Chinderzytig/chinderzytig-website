@@ -20,9 +20,9 @@ title = "Die Schattenseiten der Fussballweltmeisterschaft: Ausblick auf die WM 2
 +++
 _Der Anpfiff der diesjährigen Fussballweltmeisterschaft ist am 21. November in Katar. Auf dieses sportliche Grossereignis bereitet sich der Wüstenstaat Katar seit Jahren vor. Fussballstadien und Hotels werden errichtet. Immer wieder steht die Weltmeisterschaft in der Kritik. Einige fordern Fussballfans und Teams dazu auf, nicht am Turnier teilzunehmen. Doch weshalb steht die WM noch vor ihrem Beginn in den Schlagzeilen? Wie problematisch sind Durchführung und Teilnahme?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

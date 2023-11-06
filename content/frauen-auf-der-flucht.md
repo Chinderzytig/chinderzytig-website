@@ -20,9 +20,9 @@ title = "Frauen auf der Flucht"
 +++
 _Auch in dieser Woche beherrscht ein Thema die Informationswelt: der Konflikt in der Ukraine. Du hast sicher schon einiges gehört und gesehen, zu Hause oder in der Schule. Auch unser Dossier hast du womöglich bereits bearbeitet. Nun fokussieren wir heute Leidtragende des Krieges: die Menschen auf der Flucht._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

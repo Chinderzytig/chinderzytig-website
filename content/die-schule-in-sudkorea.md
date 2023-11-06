@@ -21,9 +21,9 @@ title = "Die Schule in Südkorea"
 +++
 _Die Schulen in der Schweiz und die in Südkorea sind auf den ersten Blick ähnlich. Die Abstufung in Primarschule, Sekundarstufe und Gymnasium sind gleich. Jedoch gelten die koreanischen Schulen als die strengsten der Welt._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

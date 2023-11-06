@@ -20,9 +20,9 @@ title = "Traditionssport Schwingen "
 +++
 _Der Schweizer Traditionssport Schwingen erlebt seit einigen Jahren einen Aufschwung und gewinnt wieder an Beliebtheit. Die Nachfrage an Tickets zu Schwingfesten ist enorm gestiegen._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

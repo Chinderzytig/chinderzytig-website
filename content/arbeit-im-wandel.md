@@ -21,9 +21,9 @@ title = "Arbeit im Wandel"
 
 _SRF Kultur widmete sich in der vergangenen Woche dem Thema „Zahltag“ und beleuchtet unsere Arbeitswelt aus verschiedenen Blickwinkeln. Die Art unsere Arbeit zu organisieren hat sich in den letzten Jahrzehnten unter anderem durch die Digitalisierung stark verändert. Wie können wir mit diesen Veränderungen, der ständigen Erreichbarkeit und dem höheren Arbeitstempo umgehen und wie können wir dabei gesund bleiben? Dies ist eine Grundfrage der heutigen Zeit._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

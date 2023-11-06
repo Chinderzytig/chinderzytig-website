@@ -20,9 +20,9 @@ title = "Denk-mal! "
 +++
 _Sie stehen auf der ganzen Welt: Denkmäler. Das sind Statuen, Gebäude, Objekte, etc. die einer Person gewidmet sind oder an ein Ereignis oder eine bestimmte Zeit erinnern. Doch wer entscheidet, wer ein solches Denkmal erhält? Und was passiert, wenn sich herausstellt, dass dieses nicht mehr in die heutige Zeit passt?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

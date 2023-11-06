@@ -20,9 +20,9 @@ title = "Ausblick auf die WM 2022 – Teil 2 Eine klimaneutrale Fussballweltmeis
 +++
 _Stadien und Hotels wurden in den letzten Jahren im Wüstenstaat Katar aus dem Boden gestampft. Trotz der Durchführung in den Monaten November und Dezember klettern die Temperaturen auf bis zu 30 Grad. Die Stadien sollen auf 22 Grad Celsius heruntergekühlt werden. Fussballteams und Fussballbegeisterte aus der ganzen Welt werden mit dem Flugzeug nach Katar reisen. Trotzdem soll die Fussball-WM klimaneutral sein. Dies kündigten der Fussballverband Fifa und das Organisationskomitee aus Katar an. Doch wie soll die WM klimaneutral sein? Verdient das Fussballturnier in Katar das Siegel der Klimaneutralität?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

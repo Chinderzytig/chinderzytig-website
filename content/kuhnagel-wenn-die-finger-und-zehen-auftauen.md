@@ -21,9 +21,9 @@ title = "Kuhnagel – wenn die Finger und Zehen „auftauen“"
 +++
 _Wer im Winter gerne draussen ist, kennt es vielleicht. Die Zehen und Finger sind kalt vom Spielen im Schnee. Dann kommt man in die warme Stube rein und es beginnt zu kribbeln. Manchmal so fest, dass es weh tut. Diesem Zustand sagt man in der Schweiz Kuhnagel._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

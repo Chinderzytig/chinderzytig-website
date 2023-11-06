@@ -21,9 +21,9 @@ title = "Zürich im Zeichen des Designs"
 
 _Der Kopf ist rund, damit das Denken die Richtung ändern kann. Als Kind designt (deutsch: entwirft) man dauernd eine neue Welt. Phantasie darf und soll Platz haben. Irgendwann nimmt diese Möglichkeit ab und man ist gefüllt, mit Dingen, die “man” machen und befolgen muss. Die Designwochen in Zürich bieten dafür Gegensteuer._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

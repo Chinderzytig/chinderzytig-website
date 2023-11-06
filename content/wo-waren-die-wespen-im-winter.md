@@ -21,9 +21,9 @@ title = "Wo waren die Wespen im Winter?"
 +++
 _Die Tage werden länger und die ersten warmen Sonnenstrahlen locken uns hinaus in den Garten. Der Frühling ist da! Darüber freuen sich auch die Wespen. Einige davon summen uns schon bald wieder aufdringlich um die Ohren. Doch wo waren all die Tiere eigentlich im Winter? Hielten sie Winterschlaf?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

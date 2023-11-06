@@ -20,9 +20,9 @@ title = "European Championships 2022 "
 +++
 _Für rund 10 Tage wurde München zur Sporthauptstadt Europas. Vom 11. bis 21. August fanden in der ehemaligen Olympia-Stadt die Europameisterschaften in 9 Sportarten statt. Tolles Wetter, eine super Stimmung auf den Wettkampfplätzen und grossartige Leistungen der Athletinnen und Athleten machten diese 10 Tage zu einem richtigen Sportfest._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

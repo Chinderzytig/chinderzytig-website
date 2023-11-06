@@ -20,9 +20,9 @@ title = "Volksabstimmung "
 +++
 _In der Schweiz findet am 15. Mai 2022 die nächste Volksabstimmung statt. Alle stimmberechtigten Bürger und Bürgerinnen des Landes stimmen über drei Vorlagen ab. Worüber wird abgestimmt und was ist das Ziel der drei Vorlagen? Welches sind die jeweiligen Argumente dafür (pro) oder dagegen (contra)?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

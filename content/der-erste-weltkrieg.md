@@ -21,9 +21,9 @@ title = "Der Erste Weltkrieg"
 +++
 _Der Erste Weltkrieg hat im Jahr 1914 begonnen und dauerte bis 1918. Doch wer kämpfte gegen wen? Und wie wurde dieser Krieg ausgelöst?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

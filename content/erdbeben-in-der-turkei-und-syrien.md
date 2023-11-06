@@ -21,9 +21,9 @@ title = "Erdbeben in der Türkei und Syrien"
 +++
 _In diesem Artikel erfährst du, wieso es in der Türkei zu Erdbeben kam und was die Folgen von Erdbeben sind._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

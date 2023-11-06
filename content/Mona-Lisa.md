@@ -21,9 +21,9 @@ title = "Mona Lisa"
 
 _Das Gemälde von Leonardo da Vinci ist eines der berühmtesten der Welt. Wenn du mehr über Mona Lisa erfahren möchtest und wieso es so berühmt ist, lohnt es sich weiterzulesen._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

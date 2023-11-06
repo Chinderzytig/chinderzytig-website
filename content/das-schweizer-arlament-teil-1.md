@@ -21,9 +21,9 @@ title = "Das Schweizer Parlament – Teil 1"
 
 _Die Schweizer Bundesversammlung ist entscheidend, wenn es darum geht, wie die Politik in der Schweiz ausgestaltet wird. Das Schweizer Parlament, bestehend aus National- und Ständerat wird vom Schweizer Stimmvolk gewählt und hat deshalb eine grosse Verantwortung – nämlich die Interessen der Schweizer Gesellschaft zu vertreten._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -21,9 +21,9 @@ title = "Musik mit Geschichte"
 +++
 _Die Adventszeit hat begonnen. Und damit die Zeit der Gospelkonzerte. Was versteht man unter einem Gospelchor und weshalb treten sie gerade in der Weihnachtszeit so häufig auf? Wir nehmen dich mit auf eine Reise durch ein spannendes Stück Musikgeschichte._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

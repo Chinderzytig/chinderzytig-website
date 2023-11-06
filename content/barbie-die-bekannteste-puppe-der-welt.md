@@ -21,9 +21,9 @@ title = "Barbie – Die bekannteste Puppe der Welt"
 
 _Barbie (eigentlich Barbara Millicent Roberts) gilt als eine der bekanntesten und meistverkauften Puppen der Welt und gehört damit zu den Spielzeugklassikern_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

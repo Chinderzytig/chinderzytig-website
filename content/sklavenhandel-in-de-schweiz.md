@@ -20,9 +20,9 @@ title = "Sklavenhandel in der Schweiz"
 +++
 _Heute findet weltweit der internationale Tag der Erinnerung an den Sklavenhandel und dessen Abschaffung statt. Die Sklaverei scheint heute unvorstellbar. Menschen wurden wie Ware behandelt: Sie wurden angekettet, verschifft und verkauft. Wie entstand die Sklaverei? Wann wurde der Sklavenhandel abgeschafft und gab es in der Schweiz auch Sklaven und Sklavinnen?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

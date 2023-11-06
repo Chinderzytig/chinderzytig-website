@@ -20,9 +20,9 @@ title = "Und plötzlich grüsst die Sahara "
 +++
 _Vor zwei Wochen war es wieder einmal soweit: Der Himmel verfärbte sich orangebraun, das Licht wurde ganz diffus, auf Strassen und Autos sammelte sich orangener Staub. Doch das war nicht etwa Blütenstaub. Nein, das war ganz feiner Sand aus der Sahara-Wüste. Wie kommt der denn bis zu uns in die Schweiz, fragst du dich vielleicht. Grund dafür sind Höhenwinde und bestimmte Strömungen._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

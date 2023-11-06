@@ -21,9 +21,9 @@ title = "Was ist im Gotthardtunnel los?"
 
 _Was ist im Gotthard-Tunnel passiert? Kann der Tunnel bald wieder befahren werden? Wie kann ich trotzdem mit dem Zug ins Tessin fahren?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

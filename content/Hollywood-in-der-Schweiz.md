@@ -21,9 +21,9 @@ title = "Hollywood in der Schweiz"
 
 _„And the Oscar goes to…“, ein roter Teppich und extravagante Kleider. Sagt dir das etwas? Die Rede ist von der Oscar-Preisverleihung, der wohl grössten Preisverleihung in der Film- und Kinowelt. Sie wird jeweils im März in den USA durchgeführt. Gibt es so etwas auch in der Schweiz? Und ob! Richten wir die Scheinwerfer mal auf die Schweizer Filmfestivals._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

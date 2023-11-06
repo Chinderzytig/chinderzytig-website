@@ -20,9 +20,9 @@ title = "Wenn der Sport zum Beruf wird"
 +++
 _In der Turnstunde, am Sporttag oder im Turnverein ist Sport ein Ausgleich, willkommene Abwechslung zum Schulalltag und Durchlüften nach einem anstrengenden Tag. Für viele aber nimmt der Sport nicht wenige Stunden in der Woche ein, sondern bildet den Berufsalltag. Im folgenden Artikel erfahrt ihr, wie das Leben als Spitzensportler*in aussehen kann._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -21,9 +21,9 @@ title = "Serie Religionen der Welt, 1. Teil: Die fünf Säulen des Islam"
 
 _Der Islam ist eine sehr weit verbreitete Religion. Seine Anhänger*innen nennt man Muslim*innen. Natürlich gibt es überall auf der Welt Muslim*innen; die meisten leben jedoch im Nahen Osten in Ländern wie Pakistan, Saudi-Arabien und dem Oman, in Nordafrika (Tunesien, Marokko, Ägypten) und in Südostasien (Malaysia, Indonesien, Thailand). Bestimmt bist du schon in Kontakt mit dem Islam gekommen. Wie oft beten Muslime am Tag? Was ist der Ramadan? Auf diese und andere Fragen gibt dieser Artikel Auskunft._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

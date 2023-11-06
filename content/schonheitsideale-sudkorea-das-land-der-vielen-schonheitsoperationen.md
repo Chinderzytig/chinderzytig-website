@@ -21,9 +21,9 @@ title = "Schönheitsideale - Südkorea, das Land der vielen Schönheitsoperation
 +++
 _Was sind typische Schönheitsideale in Korea und wie unterscheiden sie sich von unseren? Diese und weitere spannende Fakten über koreanische Schönheitsideale erfährst du in folgendem Artikel._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

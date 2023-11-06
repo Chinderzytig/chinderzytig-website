@@ -20,9 +20,9 @@ title = "Warum haben wir an Auffahrt frei? "
 +++
 _An dem verlängerten Auffahrtswochenende mit der Familie wegfahren oder mit Freunden und Freundinnen abmachen. Dies ist schön und gut. Aber was wird da eigentlich genau gefeiert?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

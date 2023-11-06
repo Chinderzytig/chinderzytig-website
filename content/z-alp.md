@@ -20,9 +20,9 @@ title = "Z‘Alp "
 +++
 _Grüne Wiesen, frische Luft, Kuhglockengebimmel – was für die einen nach Wanderferien klingt, ist für andere harte Arbeit: die Alpsaison in der Schweiz. In wenigen Monaten im Sommer werden viele traditionelle Produkte hergestellt und langjährige Bräuche gelebt._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

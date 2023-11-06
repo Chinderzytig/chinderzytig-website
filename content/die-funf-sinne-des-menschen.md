@@ -21,9 +21,9 @@ title = "Die fünf Sinne des Menschen"
 +++
 _Du hast sicher einen Lieblingsgeruch wie zum Beispiel frisch gebackene Kekse oder frische Blumen. Aber wie können wir überhaupt riechen und welche anderen sogenannten „Sinne“ hat unser Körper ausserdem noch?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

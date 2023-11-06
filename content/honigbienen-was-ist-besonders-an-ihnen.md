@@ -22,9 +22,9 @@ title = "Honigbienen – Was ist besonders an ihnen?"
 _In diesem Artikel erfährst du etwas über Bienen, vor allem über die Honigbiene.
 Du wirst sehen, wie wichtig sie für unser Ökosystem ist und was sie so besonders macht._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

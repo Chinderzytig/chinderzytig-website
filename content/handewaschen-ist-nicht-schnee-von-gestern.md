@@ -20,9 +20,9 @@ title = "Händewaschen ist nicht Schnee von gestern "
 +++
 _Bakterien und Viren trifft man in der Umwelt überall an. Viele davon sind harmlos oder sogar lebenswichtig. Doch wie gehen wir mit denen um, die uns krank machen können?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

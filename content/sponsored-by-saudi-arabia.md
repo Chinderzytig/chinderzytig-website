@@ -21,9 +21,9 @@ title = "Sponsored by Saudi Arabia"
 +++
 _In den vergangenen Jahren haben sich Berichte darüber gehäuft, dass das Land Saudi-Arabien Milliarden in Sport rund um die Welt investiert. Erst kürzlich hat zum Beispiel Fussball-Gigant Cristiano Ronaldo in die saudische Profi-Liga gewechselt. Die sich häufenden Investitionen in den internationalen Sport stossen häufig auf Kritik. Doch wieso ist das so? Und welches Ziel verfolgt Saudi-Arabien mit diesen Investitionen?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

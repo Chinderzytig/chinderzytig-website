@@ -21,9 +21,9 @@ title = "Sicherheit beim Besuch in der Badi"
 
 _Im Sommer ist ein Besuch in der Badi eine tolle Idee, um Zeit mit seinen Freund*innen am kühlen Wasser zu verbringen. Aber es gibt auch ein paar Gefahren am und im Wasser. Mit ein paar Tipps kannst du sie erkennen und Unfälle verhindern._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -22,9 +22,9 @@ title = "Tee erzählt Geschichte"
 _Viele von uns geniessen hin und wieder gerne eine Tasse Tee. Wenn ich von Tee schreibe, dann meine ich alles, was aus der Teepflanze hergestellt wird, wie grüner oder schwarzer Tee. Diese Blätter, welche uns hier und heute schöne und genussvolle Momente schenken, haben eine lange Geschichte und sie erzählen von unserer Vergangenheit._
 
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -21,9 +21,9 @@ title = "Mein Hobby: Der Zauberwürfel"
 +++
 _Jeder kennt den Zauberwürfel. Ein Würfel mit sechs verschiedenen Farben und sechs Seiten, die frei rotieren können. Doch nur wenige können ihn eigentlich lösen. Denn, wenn du die Bewegungen nicht kennst, scheint es unmöglich auf jeder Seite die richtige Farbe zu haben._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

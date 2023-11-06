@@ -21,9 +21,9 @@ title = "Frauen-WM"
 
 _Spanien hat am Montag die Fussball-Weltmeisterschaft gewonnen. Über eine Million Menschen haben die Spiele im Fernsehen verfolgt. Der Frauenfussball hat auf der ganzen Welt an Bedeutung gewonnen. Wieso aber erst jetzt?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

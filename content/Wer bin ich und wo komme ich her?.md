@@ -20,9 +20,9 @@ title = "Wer bin ich und wo komme ich her? "
 +++
 _Zum Erwachsenwerden gehört auch dazu, sich selbst zu finden. Wer bin ich, was kann ich, wohin will ich? Um diese Fragen zu beantworten ist es wichtig zu wissen, woher man kommt. Und genau das wissen Hunderte von Erwachsenen nicht, die als Kind illegal aus Sri Lanka in die Schweiz adoptiert wurden. Der Bund will Ihnen nun bei der Suche nach ihren Wurzeln helfen._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

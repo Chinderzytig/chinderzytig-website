@@ -22,9 +22,9 @@ title = "Was macht eine PUK?"
 _Wie ist die Übernahme der Bank Credit Suisse durch die UBS abgelaufen? Das soll eine sogenannte parlamentarische Untersuchungskommission PUK herausfinden, wie das Schweizer Parlament Anfang Juni entschieden hat.
 Was bedeutet es, wenn eine PUK eingesetzt wird, und was macht sie genau? Das erfährst du in diesem Artikel._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

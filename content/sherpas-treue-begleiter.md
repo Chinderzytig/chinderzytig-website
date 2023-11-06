@@ -21,9 +21,9 @@ title = "Sherpas – treue Begleiter"
 
 _Die höchsten Berge der Welt ziehen immer mehr Menschen an. In geführten Touren versuchen sie, die über 8000 Meter hohen Gipfel zu erreichen. Dabei werden sie von Sherpas begleitet. Sherpas tragen das Gepäck für die Bergsteigenden und nehmen dabei grosse Risiken in Kauf._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

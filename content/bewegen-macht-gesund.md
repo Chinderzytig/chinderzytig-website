@@ -20,9 +20,9 @@ title = "Bewegen macht gesund "
 +++
 _Sich zu bewegen und Sport zu machen ist anstrengend. Neben der Schule, der Familie und Freunden ist es häufig nicht einfach sich für sportliche Aktivitäten zu motivieren. Sich an einen Trainingsplan zu halten ist herausfordernd. Vor allem der Einstieg ist oft etwas schwierig. Aber körperliche Aktivitäten bringen sehr viele Vorteile mit sich._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

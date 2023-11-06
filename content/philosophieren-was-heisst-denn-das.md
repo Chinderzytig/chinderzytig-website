@@ -20,9 +20,9 @@ title = "Philosophieren, was heisst denn das? "
 +++
 _„Was ist der Sinn des Lebens“ – Diese Frage oder eine ähnliche Frage hast du bestimmt bereits einmal gehört. Doch was ist die Antwort auf so eine umfassende Frage und welche Menschen beschäftigen sich mit diesen Fragen?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

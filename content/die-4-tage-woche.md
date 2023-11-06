@@ -21,9 +21,9 @@ title = "Die 4-Tage-Woche"
 
 _In Island arbeiten viele Menschen nur noch vier Tage in der Woche anstatt fünf. Sie erhalten gleich viel Lohn, haben aber einen Tag mehr frei. Auch in der Schweiz haben jetzt Diskussionen über diese neuen Arbeitszeiten begonnen. Doch was bringt diese neue Aufteilung?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

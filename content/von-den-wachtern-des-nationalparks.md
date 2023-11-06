@@ -20,9 +20,9 @@ title = "Von den Wächtern des Nationalparks"
 +++
 _Holz ist das Arbeitsmaterial des Schreiners und der Schreinerin. Unberührte Natur und Wildnis- das ist die Arbeitsumgebung der Nationalparkwächter*innen. Die Schreiner*innen bauen Holzschränke und Tische. Welche Aufgaben zum Beruf der Nationalparkwächter*innen gehören, erfährt ihr in diesem Artikel._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

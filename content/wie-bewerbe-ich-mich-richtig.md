@@ -20,9 +20,9 @@ title = "Wie bewerbe ich mich richtig? "
 +++
 _Du hast eine tolle Idee für deinen Berufseinstieg? Super! Jetzt fehlen nur noch die richtigen Bewerbungsunterlagen. Das ist das erste, was ein Lehrbetrieb von dir sieht. Deshalb findest du hier einige Tipps für deine Bewerbung._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

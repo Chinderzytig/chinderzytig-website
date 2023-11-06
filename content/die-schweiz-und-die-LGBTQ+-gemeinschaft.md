@@ -21,9 +21,9 @@ title = "Die Schweiz und die LGBTQ+ Gemeinschaft"
 
 _Die Regenbogenfarben sind im Juni überall anzutreffen, denn der Juni ist weltweit verbreitet als „Pride Month“. Somit steht der Juni dafür, stolz auf die eigene sexuelle Ausrichtung zu sein und soll Solidarität für die LGBTQ+ Gemeinschaft ausdrücken. Doch wie steht die Schweiz historisch zu der LGBTQ+ Gemeinschaft?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

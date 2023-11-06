@@ -21,9 +21,9 @@ title = "Das humanitäre Völkerrecht für Frieden auf Erden"
 
 _n der Welt gibt es Regeln, die dafür sorgen sollen, dass Menschen in Kriegen und Konflikten geschützt werden. Das nennt man humanitäres Völkerrecht. Was bringt dieses Recht und was geschieht, wenn es nicht befolgt (sprich: getreten) wird?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

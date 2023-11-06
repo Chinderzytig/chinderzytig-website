@@ -21,9 +21,9 @@ title = "Herz und Lunge"
 +++
 _In diesem Artikel erfährst du, wie das Herz und die Lunge funktionieren und wieso ausgerechnet diese beiden Organe so wichtig sind._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

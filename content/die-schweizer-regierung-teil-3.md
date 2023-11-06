@@ -21,9 +21,9 @@ title = "Die Schweizer Regierung - Teil 3"
 
 _Die Regierung in der Schweiz, bestehend aus 7 Mitgliedern. Doch weshalb sind es gerade 7 und nicht 8 oder 9? Und welche Aufgaben hat der Bundesrat überhaupt? Dazu erfahrt ihr mehr im folgenden Artikel._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

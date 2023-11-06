@@ -20,9 +20,9 @@ title = "Wie gesund sind Gesundheitsberufe? "
 +++
 _Die Gesundheitsberufe sind vielfältig und äusserst wichtig für unsere Gesellschaft. Insbesondere in den letzten Jahren hatten die Spitäler, Praxen, Apotheken und Kliniken wegen der Coronapandemie viel zu tun. Für ihre Arbeit wurde applaudiert. Doch reicht das, um den Berufen mehr Ansehen und Wertschätzung zu geben? Warum gibt es immer weniger Menschen, die einen Beruf im Gesundheitswesen starten? Und wie könnte diesem Personalmangel entgegengewirkt werden?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

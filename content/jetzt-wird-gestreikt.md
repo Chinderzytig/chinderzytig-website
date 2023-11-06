@@ -21,9 +21,9 @@ title = "Jetzt wird gestreikt"
 +++
 _In Frankreich legen die Menschen ihre Arbeit nieder, um gegen eine umstrittene Rentenreform zu protestieren. In Deutschland kam der öffentliche Verkehr zum Stillstand, um auf die heiklen Arbeitsbedingungen aufmerksam zu machen. Ein Streik beeinflusst das öffentliche Leben. Doch was geschieht eigentlich bei einem Streik und kann er wirklich etwas verändern?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

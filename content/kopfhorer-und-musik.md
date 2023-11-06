@@ -21,9 +21,9 @@ title = "Kopfhörer und Musik"
 +++
 _Heute ist es normal, dass wir unsere Lieblingsmusik unterwegs hören können. Nur war das früher nicht immer so. Seit wann gibt es denn eigentlich Kopfhörer? Wir können uns heute eine Welt ohne kaum vorstellen, aber das war die Realität von früher._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

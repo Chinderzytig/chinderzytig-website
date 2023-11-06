@@ -20,9 +20,9 @@ title = "Auf der Baustelle"
 +++
 _Viele Menschen in der Schweiz arbeiten auf dem Bau. Doch was gibt es in diesen unterschiedlichen Berufen eigentlich alles zu entdecken?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

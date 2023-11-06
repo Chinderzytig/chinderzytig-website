@@ -22,9 +22,9 @@ title = "Das menschliche Verdauungssystem"
 _Die Verdauung ist ein sehr komplexer Vorgang. Er beginnt beim Kauen, geht weiter über die Speiseröhre in den Magen. Schlussendlich wird das verarbeitete Produkt über Dünn- und Dickdarm ausgeschieden. Der Prozess der Verdauung klingt sehr einfach – das ist er aber eigentlich gar nicht._
 
   
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

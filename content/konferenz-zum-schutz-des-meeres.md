@@ -21,9 +21,9 @@ title = "Konferenz zum Schutz des Meeres "
 +++
 _Vom 2. – 3. März hat in Panama die Meeresschutzkonferenz „Our Ocean“ stattgefunden. Zum Schluss der Konferenz haben viele Länder versprochen fast 20 Milliarden US-Dollar zum Schutz der Weltmeere zu spenden._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

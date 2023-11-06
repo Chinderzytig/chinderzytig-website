@@ -21,9 +21,9 @@ title = "Pollen – Heuschnupfen und seine Ursache"
 +++
 _In diesem Artikel erfährst du mehr über den Heuschnupfen und wieso viele Menschen auf Pollen allergisch reagieren._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

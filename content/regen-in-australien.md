@@ -20,9 +20,9 @@ title = "Regen in Australien "
 +++
 _Australien - ein Land, das man eher mit Hitzewellen und Trockenheit verbindet, erlebte an seiner Ostküste kürzlich Rekordniederschläge. Dies führte zu gewaltigen Überschwemmungen und zahlreichen Todesopfern. Wie kann es zu solchen Katastrophen kommen?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -21,9 +21,9 @@ title = "Wo sich Angebot und Nachfrage gegenüberstehen"
 _Wenn sich ein Anbieter an den anderen reiht und alle hoffen, die Besuchenden für ihr Produkt zu überzeugen, dann befindet man sich möglicherweise an einer Messe. Meistens kommt dann noch der Duft nach Magenbrot oder von einem Grillstand hinzu. Was es mit der ganzen Fülle an Messen auf sich hat? – dieser Frage geht der folgende Artikel auf den Grund._
 
   
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

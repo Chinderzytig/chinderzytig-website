@@ -21,9 +21,9 @@ title = "Bunt, bunter, Ostereier"
 +++
 _Bald ist wieder Ostern und viele Kinder bemalen fleissig Eier. Für viele ist Ostern kein richtiges Fest, wenn sie sich nicht mit der Familie auf Ostereiersuche machen können. Doch woher kommt diese Tradition?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

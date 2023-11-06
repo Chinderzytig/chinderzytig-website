@@ -21,9 +21,9 @@ title = "Deepfakes"
 
 _Die künstliche Intelligenz (KI) in Computerprogrammen brachte eine verrückte Entwicklung hervor. Auf den ersten Blick scheint sie sogar recht sinnlos oder gar schädlich zu sein. Darum sind Deepfakes sehr umstritten._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

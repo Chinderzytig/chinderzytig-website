@@ -21,9 +21,9 @@ title = "Gemüse ist gesund schmeckt aber nicht?"
 
 _In diesem Artikel erfährst du wieso manche Leute nicht so gerne Gemüse essen und wie du durch einfache Tricks ein grosser Fan davon wirst._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -22,9 +22,9 @@ _Wenn du im Lebensmittelgeschäft Bio-Produkte kaufst, tust du etwas Gutes für 
 
 {{< important-points >}}
 
-<h3>Das Wichtigste in Kürze</h3>
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+
 
 <ul>
 

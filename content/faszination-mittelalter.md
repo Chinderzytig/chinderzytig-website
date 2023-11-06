@@ -22,9 +22,9 @@ title = "Faszination Mittelalter"
 _Das Mittelalter wird häufig dunkel, düster und wild dargestellt. Krankheiten, Ritterkämpfe und Hunger prägten diese Zeit. Doch gegen Ende des Mittelalters wurden auch die ersten Universitäten gegründet und in den Städten begann der Handel mit Handwerk. Bis heute fasziniert das Mittelalter. So gibt es zahlreiche Mittelalter-Märkte und Gruppen, die dieses Zeitalter nachspielen._
 
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

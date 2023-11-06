@@ -20,9 +20,9 @@ title = "Ungleichheit am Arbeitsplatz "
 +++
 _Vergangenen Sonntag haben wir den Tag der Arbeit gefeiert. An diesem Tag stehen Arbeiterrechte im Fokus. Arbeitnehmende sollen möglichst faire Arbeitsbedingungen haben. In der Schweiz ist das zum grössten Teil der Fall. Doch leider werden auch bei uns nicht alle Angestellten gleichbehandelt._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

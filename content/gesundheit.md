@@ -24,9 +24,9 @@ Fürs neue Jahr wünschen wir uns gegenseitig viel Glück und gute Gesundheit.
 Doch was ist Gesundheit eigentlich? Woher kommt sie?
 
   
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

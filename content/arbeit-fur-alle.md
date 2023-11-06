@@ -20,9 +20,9 @@ title = "Arbeit für alle? "
 +++
 _In der Schweiz leben aktuell rund 70‘000 anerkannte Flüchtlinge. Viele beziehen Sozialhilfe, weil sie aufgrund ihres Aufenthaltsstatus‘ nicht arbeiten dürfen. Khadim S. ist am 12. Februar 2014 von Afghanistan in die Schweiz geflüchtet. Er ist 28 Jahre alt und erzählt im Interview, wie es ist, als Flüchtling in der Schweiz zu arbeiten._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

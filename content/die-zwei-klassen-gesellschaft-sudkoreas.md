@@ -22,9 +22,9 @@ _Südkorea ist ein Land mit vielen guten Seiten. Das Land hat weltweit die meist
 
 _Südkorea hat etwa 50 Millionen Einwohnerinnen und Einwohner und der Graben zwischen Arm und Reich wird immer grösser._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

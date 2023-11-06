@@ -22,9 +22,9 @@ title = "Kimchi"
 _Wer ein Land richtig kennen lernen möchte, steckt seine Nase nicht nur in Bücher und Zeitschriften, sondern am besten in das traditionelle Essen. Der Geschmack, die Zutaten und die Art der Zubereitung verraten viel über die Menschen und ihre Lebensweise. Korea ist berühmt für Kimchi: sauer eingelegtes Gemüse, gewürzt mit scharfem Chili und viel Knoblauch. Das kannst du ganz einfach zuhause ausprobieren und dir den Geschmack von Korea in deine Küche holen._
 
   
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

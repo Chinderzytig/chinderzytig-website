@@ -21,9 +21,9 @@ title = "Schutz vor der Sonne"
 
 _Der Sommer ist hier. Nun stehen uns hoffentlich wieder drei Monate mit viel Sonne bevor. Dabei kann es schnell passieren, dass man sich verbrennt. Man hört immer wieder, dass ein Sonnenbrand nicht so harmlos ist, wie man das denkt. Doch welche Gefahren bringt ein Sonnenbrand wirklich mit sich? Und wie schützt man sich und die eigene Haut am besten?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

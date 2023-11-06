@@ -22,9 +22,9 @@ _Der Himmel ist stahlblau. Die Sonnenstrahlen wärmen das Gesicht. Auf der Terra
 
 {{< important-points >}}
 
-<h3>Das Wichtigste in Kürze</h3>
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+
 
 <ul>
 

@@ -22,9 +22,9 @@ Die Fernsehmoderatorin Marina Owsjannikowa aus Russland hat sich im russischen S
 
 Wieso es zu dieser speziellen Szene kam und wieso sich die Moderatorin damit in Gefahr brachte, erfährst du im nachstehenden Bericht.
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

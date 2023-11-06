@@ -22,9 +22,9 @@ _Was möchtest du später gerne einmal werden? Diese Frage kennst du sicher scho
 
 _Wusstest du, dass es in der Schweiz 230 Berufe gibt? Wie kann man Unternehmer oder Unternehmerin werden? Gibt es dazu überhaupt eine Lehrstelle?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

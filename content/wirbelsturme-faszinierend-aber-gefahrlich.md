@@ -21,9 +21,9 @@ title = "Wirbelstürme – faszinierend, aber gefährlich"
 +++
 _Sie heissen Katrina, Lothar oder Freddy – die Rede ist von Stürmen. Gerade hat „Freddy“ in Afrika grossen Schaden angerichtet. „Freddy“ ist ein Tropensturm, ein sogenannter Zyklon. Es gibt auch Tornados, Orkane und Hurrikans. Was sind die Unterschiede und wie entstehen die Stürme?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

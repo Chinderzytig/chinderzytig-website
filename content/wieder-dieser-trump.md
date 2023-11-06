@@ -21,9 +21,9 @@ title = "Wieder dieser Trump!?"
 +++
 _Kommt Trump wieder? Wie stehen die Rebuplikanerinnen und Republikaner zu Trumps Comeback? Wie ist Sonderermittler Jack Smith in diese Geschichte von Trump verwickelt?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

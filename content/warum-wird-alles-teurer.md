@@ -21,9 +21,9 @@ title = "Warum wird alles teurer?"
 +++
 _Die Preise für viele Produkte sind in den letzten Jahren stark gestiegen. Lebensmittel zum Beispiel kosten einiges mehr als noch vor zwei Jahren. Doch warum ist das so?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

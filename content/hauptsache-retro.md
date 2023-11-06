@@ -20,9 +20,9 @@ title = "Hauptsache „retro“"
 +++
 _Warum etwas neu erfinden, wenn es auch mit alt Bewährtem geht? Man könnte meinen, in der Musik, im Film und in der Mode würde heute nur noch nach diesem Motto gearbeitet. Dieser Eindruck ist vielleicht gar nicht so falsch. „Retro“ liegt im Trend. Und hat ein ganz klares Muster._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

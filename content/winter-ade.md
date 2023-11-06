@@ -21,9 +21,9 @@ title = "Winter ade!"
 +++
 _Glockenklänge, Kinderstimmen und Blumen aus Papier statt Guggenmusik und Morgenstreich. Der Chalandamarz wird jährlich in den Bündner Südtälern gefeiert._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

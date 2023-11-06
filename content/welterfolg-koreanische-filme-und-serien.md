@@ -21,9 +21,9 @@ title = "Welterfolg: Koreanische Filme und Serien"
 +++
 _Unter den grossen Filmfans galt Südkorea schon länger als Land für eine spannende und künstlerische starke Filmwelt. Nachdem die koreanische Pop-Musik die Welt erobert hatte, wurden mit dem preisgekrönten Film_ Parasites _und der erfolgreichen Serie_ Squid Games _auch die koreanischen Filmproduktionen weltberühmt._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

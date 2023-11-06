@@ -20,9 +20,9 @@ title = "Schneller als mein Ton "
 +++
 _"Concorde", ein Begriff, den du vielleicht schon mal gehört hast. Heute schauen wir uns die Überschall- Fliegerei etwas genauer an. Wird sie ein Comeback erleben?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

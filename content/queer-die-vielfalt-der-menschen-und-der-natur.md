@@ -20,9 +20,9 @@ title = "Queer: Die Vielfalt der Menschen und der Natur "
 +++
 _Wir Menschen sind so vielfältig wie die Natur um uns herum. So erstaunt es nicht, dass wir im Aussehen und Verhalten, aber auch in unserem Geschlecht ganz unterschiedlich sind. Bestimmt hast du das Wort „queer“ auch schon einmal gehört. Doch was bedeute es? Und was hat es mit der Vielfalt der Natur zu tun?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -20,9 +20,9 @@ title = "Leere Versprechungen "
 +++
 _Und es waren doch nur leere Versprechungen. Dass sich die Situation für die Frauen und Mädchen nicht verschlechtern würde, sagten die Taliban. Das war im vergangenen August, als die Taliban in Afghanistan wieder die Macht übernahmen. Leider sieht die Situation heute bereits ganz anders aus._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -21,9 +21,9 @@ title = "Das Schweizer Parlament - Teil 2"
 
 _Zu den Aufgaben des Schweizer Parlaments bestehend aus National- und Ständerat gehört die Wahl des Bundesrates und der Erlass neuer Gesetze und Verordnungen, sofern nötig. Daneben hat die Bundesversammlung auch eine Kontrollfunktion über die Geschäfte des Bundesrates._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

@@ -20,9 +20,9 @@ title = "Die Ehe ist für alle da"
 +++
 _Es hat lange gedauert und den Einsatz tausender Menschen gebraucht. Ab morgen 1. Juli 2022 dürfen in der Schweiz auch homosexuelle Menschen heiraten. Das Gesetz, das die Ehe für alle vorsieht, tritt in Kraft. Endlich!_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

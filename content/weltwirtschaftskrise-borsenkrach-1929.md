@@ -21,9 +21,9 @@ title = "Weltwirtschaftskrise – Börsenkrach 1929"
 +++
 _Viele haben vom Black Friday gehört. Viele wissen auch, dass dieser Tag für die Weltwirtschaft einer der schlimmsten überhaupt war. Aber was ist damals genau passiert und wie hat sich die Wirtschaft davon erholen können?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

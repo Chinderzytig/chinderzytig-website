@@ -21,9 +21,9 @@ title = "Deepfakes: Können wir unseren Augen trauen?"
 
 _Im Internet - vor allem in den Sozialen Medien - gibt's viele gefälschte Videos. Sie zeigen andere Szenen, als behauptet wird, stammen zum Beispiel von einem anderen Ort oder sind viel älter, als gesagt wird. Aber wie findet man heraus, ob etwas gefälscht ist oder nicht?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

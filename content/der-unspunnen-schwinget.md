@@ -21,9 +21,9 @@ title = "Der Unspunnen Schwinget"
 
 _Am 27. August hat wieder der Unspunnen Schwinget stattgefunden. Das traditionelle Schwingfest findet nur alle 6 Jahre statt – und das immer ein Jahr nach dem Eidgenössischen Schwing- und Älplerfest. Die 120 besten Schweizer Schwinger treffen sich jeweils in Interlaken im Berner Oberland._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

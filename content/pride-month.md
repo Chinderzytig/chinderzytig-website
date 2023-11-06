@@ -20,9 +20,9 @@ title = "Pride Month  "
 +++
 _Der Monat Juni wird jedes Jahr besonders bunt: Regenbogenflaggen werden geschwungen und Regenbogenmotive werden aufs Gesicht geschminkt oder auf der Kleidung getragen. Paraden ziehen durch die Strassen und Protestaktionen werden organisiert. Im Juni findet der alljährliche_ _{{< fremdwort id="Pride-Month" wort="Pride-Month" >}}_ _statt. Weshalb dieser im Juni ist und welchen Zweck der Pride-Month hat, erfährst du im Artikel._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

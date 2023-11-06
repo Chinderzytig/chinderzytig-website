@@ -20,9 +20,9 @@ title = "Strassenmagazin Surprise "
 +++
 _Mit dem Strassenmagazin Surprise und weiteren sozialen Projekten werden sozial benachteiligte Menschen in der Schweiz unterstützt. Dabei fördert der Verein Surprise auch die soziale Gerechtigkeit und die gesellschaftliche Vielfalt._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

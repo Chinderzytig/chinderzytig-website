@@ -20,9 +20,9 @@ title = "Schulstart: War die Schule immer so? "
 +++
 _Der Schulstart steht kurz bevor: In den Warenhäusern gibt es etliche Schulmaterialien zu kaufen, alle kommen von den Ferien zurück und der Schulsack kann langsam gepackt werden. Freust du dich auf das neue Schuljahr oder würdest du deine Sommerferien gerne noch verlängern? Müssen eigentlich alle Kinder zur Schule und war dies schon immer so?_
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}} 
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
 
 <ul>
 

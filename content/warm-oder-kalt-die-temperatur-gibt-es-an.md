@@ -22,9 +22,9 @@ _Gerade zum Frühlingsanfang wie jetzt merken wir es jeden Tag, respektive jede 
 
 {{< important-points >}}
 
-<h3>Das Wichtigste in Kürze</h3>
 
-<p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
+
+
 
 <ul>
 
