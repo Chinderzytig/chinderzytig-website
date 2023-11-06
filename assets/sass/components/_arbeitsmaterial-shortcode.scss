@@ -1,4 +1,4 @@
-.arbeitsmaterial-sc {
+.arbeitsmaterial {
 
 	&-group { margin-bottom: $margin-s; }
 
@@ -8,10 +8,7 @@
 	}
 
 	&__heading {
-		font-size: $font-bigger;
-		font-family: $font-patrick;
-		color: $chinder-orange;
-		margin-bottom: 1.5rem;
+		color: $white;
 	}
 
 	&__link {

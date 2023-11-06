@@ -122,6 +122,12 @@
 		}
 	}
 
+	&__arbeitsmaterial {
+		height: 20rem;
+
+		&-img { height: 20rem; }
+	}
+
 	&__topic {
 		font-family: $font-spartan;
 

@@ -21,7 +21,7 @@ title = "Special Effects"
 
 _In diesem Beitrag erfährst du mehr über die Benutzung der Special Effekts in Filmen und was man mit ihnen alles machen kann._
 
-{{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
+{{< important-points >}}
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
 
@@ -49,8 +49,7 @@ Bei der Körperbemalung (Bodypainting) bezeichnet man Spezialeffekte als die 
 
 Grundsätzlich erhöhen alle Effekte die Realitätseindrücke (vor allem optisch für die Augen und auditiv für die Ohren). Spezialeffekte zielen nicht nur auf die Steigerung der Erlebnisintensität der Zuschauenden ab. In Genres wie z. B. Horror- oder Science-Fiction-Film werden Spezialeffekte zur Erzeugung von Schockbildern verwendet. Sie ziehen die Aufmerksamkeit des Publikums auf sich, indem sie das Besondere des Schreckens zeigen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

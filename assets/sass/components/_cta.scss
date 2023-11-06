@@ -1,6 +1,11 @@
 .cta {
 	padding: 5rem 3rem;
 
+	&__article {
+		padding: 3rem 3rem 3.8rem 3rem;
+		margin: $margin-s 0;
+	}
+
 	&__flex-arnd {
 		display: flex;
 		justify-content: space-around;
@@ -59,6 +64,9 @@
 
 	&--pinkL { @include cta-type($pink, left, $space-cadet); }
 	&--pinkR { @include cta-type($pink, right, $space-cadet); }
+
+	&--platL { @include cta-type($platinum, left, $silver) }
+	&--platR { @include cta-type($platinum, right, $silver) }
 
 	&--lernpfad { background-color: $russian-violet; }
 }

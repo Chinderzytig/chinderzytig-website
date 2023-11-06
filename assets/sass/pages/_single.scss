@@ -71,10 +71,13 @@
 			margin-bottom: 1.5rem;
 		}
 
+		ul { @include respond(phone-xxl) { padding-left: 2rem; } }
+
 		p, li {
 			text-align: justify;
 			margin-bottom: 1.5rem;
 		}
+
 
 		a { color: $chinder-verdigris; }
 
