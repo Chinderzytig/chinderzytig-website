@@ -1,25 +1,10 @@
 {{define "main"}}
-	<div class="fdw__intro">
-		<div class="fdw__intro-container">
-			<div class="fdw__intro-icon">
-				{{- partial "svgs/fdw_svg.html" . -}}
-			</div>
-			<p class="fdw__intro-text">
-				Der Fokus der Woche (FdW) erlaubt uns einen Blick durch die Lupe auf
-				aktuelle Geschehnisse der Woche. Wir beleuchten ein Thema, geben
-				unsere Meinung als Diskussionsgrundlage und stellen Fragen. Es ist
-				nicht die Idee, das Thema im Sinne einer Reportage tiefgründig zu
-				erörtern. Wir legen den Daumen drauf, wecken auf, schauen hin und
-				animieren die Lesenden zu eigenen Gedankengängen. Und ja: wenn möglich
-				mit Good News...
-			</p>
-		</div>
-	</div>
-
 	<div class="search__container">
 		{{ partial "svgs/magnify.html" (dict "fill" "#6C685D" "width" 35 "height" 36) }}
 		<input id="search" type="search" placeholder="Artikel Suchen" class="search__field" />
 	</div>
+
+	{{ partial "fdw-intro.html" }}
 
 	<div class="cta">
 		<h2 class="deading deading__list deading--black">Alle Artikel der Woche</h2>
