@@ -2,6 +2,8 @@ baseURL = "https://www.chinderzytig.ch"
 googleAnalytics = "G-364713773"
 languageCode = "de"
 title = "Die Zeitung für Kinder und Jugendliche"
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
 [params]
 DateForm = "2.01.2006"
 cloudinary_url = "https://res.cloudinary.com/chinderzytig/image/upload"
