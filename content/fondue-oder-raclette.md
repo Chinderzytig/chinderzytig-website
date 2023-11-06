@@ -48,8 +48,8 @@ Die Diskussion, was ist nun besser – Raclette oder Fondue – bleibt wohl noch
 
 Weisst du schon, was du selber lieber magst? Fondue oder Raclette? Oder möchtest du diesen Winter beides probieren und vergleichen? Geht das überhaupt? Wie viele Gruppenaktivitäten kommen auch gemeinsame Fondue- und Raclette-Abende durch Covid-19 in Bedrängnis. In den Schweizer Medien wurde bereits mehrfach die Frage diskutiert, ob Fondue und Raclette ein Gefahrenpotential für die Ansteckung mit dem Virus sind. Gefährlich sei hierbei jedoch nicht der gemeinsame Genuss vom geschmolzenen Käse, sondern die Menschensammlung in geschlossenen Räumen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

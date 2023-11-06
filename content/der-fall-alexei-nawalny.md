@@ -41,8 +41,4 @@ Viele Russland-Kenner sagen, das Video habe tatsächlich aufgerüttelt. Die Prot
 
 Die Anwälte von Nawalny hatten nach dem Urteil Berufung eingelegt. Das bedeutet, dass das Urteil von einem höheren Gericht geprüft wurde. Am 20. Februar hat das Gericht in Moskau die Strafe allerdings bestätigt. Nach Abzug des Hausarrests, den er bereits verbüsst hat, wird Alexei Nawalny wohl noch für rund zweieinhalb Jahre in Haft bleiben müssen. In einem zweiten Prozess wurde Nawalny zudem noch zu einer Geldstrafe verurteilt, weil er angeblich einen Kriegsveteranen beleidigt hatte. Die EU hat nach der Bestätigung des Urteils neue Sanktionen eingeleitet. So sollen Vermögen gesperrt werden und es gibt Einreiseverbote für Verantwortliche im Prozess an Nawalny.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

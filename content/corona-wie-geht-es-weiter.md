@@ -41,8 +41,4 @@ Nicht zuletzt kommt endlich der Frühling. Es wird wärmer, die Tage werden län
 
 {{< definition id="epidemiologische" wort="epidemiologische" def="Man redet von einer Epidemie, wenn sich eine Krankheit in einem Raum schnell und unkontrolliert ausbreitet. Die epidemiologische Lage beschreibt, wie die Epidemie zu einem bestimmten Zeitpunkt aussieht." >}}
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

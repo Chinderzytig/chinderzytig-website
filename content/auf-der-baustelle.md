@@ -48,6 +48,4 @@ Berufe auf dem Bau sind teilweise richtig anstrengend für den Körper aber mach
 
 In diesem Artikel hast du nur einen ganz kleinen Einblick in die grosse, weite Welt des Bauwesens erhalten. Es gibt noch ganz viele weitere spannende Berufe, die dort auf dich warten.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}

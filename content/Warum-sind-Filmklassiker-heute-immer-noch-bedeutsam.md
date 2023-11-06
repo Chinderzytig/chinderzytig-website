@@ -49,8 +49,8 @@ Filmklassiker vermitteln oft wichtige Botschaften über das Leben, Freundschaft 
 
 Filmklassiker sind wie gute Geschichten, die nie alt werden. Sie sind wie Schätze, die uns in fabelhafte Welten entführen. Schau dir einige davon an, und du wirst sehen, wie aufregend und lustig sie immer noch sind!
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

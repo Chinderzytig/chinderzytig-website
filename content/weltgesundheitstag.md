@@ -39,8 +39,8 @@ Diese Ungleichheiten sind ungerecht und sie sind verhinderbar. Die WHO ruft desh
 
 {{< definition id="Allergene" wort="Allergene" def="Das sind Stoffe, die eine allergische Reaktion auslösen können." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

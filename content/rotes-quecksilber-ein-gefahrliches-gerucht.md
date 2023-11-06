@@ -42,6 +42,6 @@ Artikel über rotes Quecksilber auf einer Seite über Verschwörungstheorien: [h
 
 Webseite der «Kampagne gegen rotes Quecksilber» (englisch): [https://redmercurycampaign.wordpress.com/](https://redmercurycampaign.wordpress.com/ "https://redmercurycampaign.wordpress.com/")
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial file="rotesquecksilber_jrs9u3" >}}{{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial file="rotesquecksilber_jrs9u3" >}}

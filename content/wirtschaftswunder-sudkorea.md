@@ -50,6 +50,6 @@ Damit Südkorea seinen starken Platz in der Weltwirtschaft halten kann, gibt das
 
 Um mit all dem an der Weltspitze zu bleiben, braucht Südkorea viele sehr gut ausgebildete Fachleute. Das Land hat daher zusammen mit den grossen Firmen und den Universitäten Programme entwickelt, um talentierte Student*innen und junge Fachleute mit attraktiven Angeboten im Land zu halten und an sich zu binden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

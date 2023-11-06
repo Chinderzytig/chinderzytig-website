@@ -70,8 +70,8 @@ Es gibt zwei drei Tipps, welche dir bei der Wahl deiner Erdbeerpflückung helfen
 
 - Wer seine frisch gepflückten Erdbeeren aus dem Garten oder vom Feld nicht sofort verspeisen kann oder möchte, sollte die Früchte nicht bei Raumtemperatur aufbewahren, sondern in den Kühlschrank legen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

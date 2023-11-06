@@ -52,6 +52,6 @@ Aber aufgepasst! Da die Informationen aus dem Internet stammen, kann es passiere
 
 Um nun die Frage vom Anfang zu beantworten: Ja, der Textroboter kann Hausaufgaben lösen. Aber ob dies das Leben vereinfacht, entscheidest du selbst. Denn schlussendlich schreibst du die Prüfung und nicht ChatGPT.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

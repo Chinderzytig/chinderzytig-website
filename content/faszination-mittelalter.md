@@ -50,6 +50,6 @@ Gegen Ende des Mittelalters, ungefähr ab dem 12. Jahrhundert, zogen immer mehr 
 
 Heute gibt es zahlreiche Mittelalter-Märkte, die in der Weihnachtszeit oder auch im Sommer stattfinden. Man kann Handwerkliches aus dieser Zeit kaufen, Getränke und Essen aus traditionellen Gefässen geniessen. Oft werden auch Kämpfe oder Feuershows gezeigt. Und musikalische Darbietungen nehmen die Besuchenden mit in diese weit entfernte Zeit. Wem das noch nicht genug Mittelalter ist, der oder die kann in einem Mittelalter-Verein mitmachen. Diese Gruppen führen Lager und Veranstaltungen durch, an denen sie so detailgetreu wie möglich das Leben des Mittelalters nachahmen – mit entsprechenden Kleidern, Unterkünften und Rollen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

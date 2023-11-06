@@ -96,6 +96,6 @@ Die Hauptgründe für den Mangel sind die schlechten Arbeitsbedingungen, negativ
 
 Damit man dem Mangel entgegenwirken könnte, müssten sich also die Arbeitsbedingungen und das Arbeitsklima deutlich verbessern. Der Lohn müsste steigen, die Anzahl Lehrstellen verdoppelt und die Lehren attraktiver gemacht werden. Im Kanton Aargau z.B. wird neu eine kürzere Lehre von 2 Jahren für die Pflegeberufe angeboten. Ob dies etwas helfen wird und ob sich die Bedingungen bei der Arbeit verbessern werden, wird sich in den nächsten Jahren zeigen. Eins ist aber sicher: Applaudieren allein hilft nicht.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

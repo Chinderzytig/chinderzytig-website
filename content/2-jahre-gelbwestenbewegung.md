@@ -41,8 +41,4 @@ Die Corona-Pandemie sorgte schliesslich dafür, dass die Gelbwesten gar nicht me
 Wie steht es heute um die Gelbwesten? Seit im Mai 2020 in Frankreich der Corona-Lockdown aufgehoben wurde, protestierten sie ein paar Mal in kleinem Rahmen. Da aber aktuell wieder strenge Massnahmen zur Bekämpfung des Virus eingeführt wurden, ist das jetzt zum wiederholten Mal nicht mehr möglich. Die Bewegung ist daher wie am Anfang vor allem im Internet aktiv.  
 Ganz verschwinden wird sie wahrscheinlich noch eine Weile nicht. So lange sich die Gelbwesten benachteiligt und von der Regierung nicht gehört fühlen, werden sie sich weiterhin in irgendeiner Form bemerkbar machen und Forderungen stellen – wenn auch nicht so laut wie am Anfang.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

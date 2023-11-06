@@ -43,8 +43,4 @@ Jeder technische Fortschritt hat stets positive und auch negative Auswirkungen, 
 
 Die Arbeitswelt verändert sich einmal mehr und jede Veränderung wirft die Frage auf, was es braucht, damit wir gesund in die nächste Phase gehen können. Heute braucht es einen neuen Halt, neue Verbindungen und vor allem die Suche nach dem Sinn der Arbeit, das gibt Stabilität.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

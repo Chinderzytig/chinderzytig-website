@@ -44,6 +44,6 @@ Nationalparkwächter*in zu sein ist ein abwechslungsreicher Beruf - man verbring
 
 Auch dank den Nationalparkwächtern sind wir in der Schweiz stolze Besitzer*innen unberührter Natur und Vielfalt, die man heute nicht mehr an vielen anderen Orten vorfindet.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -31,8 +31,8 @@ Radioaktives Material ist wegen seiner Strahlung sehr gefährlich für Menschen 
 
 Forscherinnen und Forscher machen sich deshalb schon heute Gedanken, wie man die Menschen in der Zukunft warnen kann. Sie glauben, dass einfache Zeichnungen und Symbole auf Schildern am besten funktionieren. Die Schilder werden dann bei den Deponien aufgestellt, in denen das radioaktive Material vergraben wird. Die Schilder müssen sehr stabil sein, damit sie lange halten. Buchstaben und Texte sind keine gute Idee. Denn vielleicht verstehen die Menschen in tausend Jahren unsere Sprache nicht mehr.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

@@ -51,6 +51,4 @@ Am 11. November 1918 endete der Erste Weltkrieg. Deutschland und Österreich-Ung
 
 Die Zahl der Toten und Verletzten bis zum Jahr 1918 war extrem hoch. Auf der ganzen Welt starben rund neun Millionen Soldaten und mehr als sechs Millionen Bürgerinnen und Bürger.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}

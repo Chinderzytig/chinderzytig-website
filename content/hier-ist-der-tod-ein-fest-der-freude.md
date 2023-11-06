@@ -35,8 +35,7 @@ Der Glauben nach kehren die Verstorbenen für diesen einen Tag aus dem Jenseits 
 
 Am 2. November erinnert man sich an die schönen Momente, die man mit dem verstorbenen Menschen geteilt hat und erzählt einander Geschichten darüber. Abends verabschiedet man sich wieder von ihnen – bis man sie im nächsten Jahr wieder in der Familie begrüssen darf.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

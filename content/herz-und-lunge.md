@@ -55,6 +55,6 @@ Die Lunge ermöglicht die Atmung und sorgt dafür, dass der Sauerstoff aus der A
 
 Beim Einatmen weitet sich der Brustkorb, die Lunge dehnt sich aus und es strömt Luft ein. Beim Ausatmen zieht sich die Lunge wieder zusammen und Luft entweicht. Die Atembewegungen werden durch Muskeln erzeugt, vor allem durch das Zwerchfell und die Zwischenrippenmuskeln. Die Atmung wird vom Nervensystem gesteuert, läuft aber die meiste Zeit unbewusst ab. Bei jedem ruhigen Atemzug wird etwa ein halber Liter Luft eingeatmet. Bei Anstrengung wird die Atmung schneller und tiefer, damit mehr Sauerstoff ins Blut gelangt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

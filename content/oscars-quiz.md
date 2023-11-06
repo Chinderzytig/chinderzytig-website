@@ -35,7 +35,7 @@ title = "Oscars Quiz"
 
 {{< image img="8-frage_zymz6q.png" desc="Achte Frage des Quiz" >}}
 
-{{< teiler >}}
+
 
 {{< generic-group title="Lösungen zum Quiz" >}}
 {{< arbeitsmaterial >}}

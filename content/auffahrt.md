@@ -60,8 +60,6 @@ An Auffahrt wird von Gläubigen also gefeiert, dass Jesus, der Sohn Gottes, in d
 
 Im Laufe der Zeit sind viele verschiedene Bräuche und Traditionen zu Christi Himmelfahrt entstanden. Früher im Mittelalter zogen die Gläubigen durch die Ortschaften und beteten für eine gute Ernte.
 
-Auch heute gibt es an Auffahrt noch Bräuche. So gibt es Menschen, die an diesem Tag nur „fliegendes Fleisch“ essen. Es wird also nur Geflügel oder sonstige Tiere, die fliegen können, gekocht{{< teiler >}}
+Auch heute gibt es an Auffahrt noch Bräuche. So gibt es Menschen, die an diesem Tag nur „fliegendes Fleisch“ essen. Es wird also nur Geflügel oder sonstige Tiere, die fliegen können, gekocht
 
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -48,8 +48,7 @@ Lässt der Wind nach, sinkt der Saharastaub. Er sinkt zuerst in tiefere Luftschi
 
 Und was passiert, wenn ich diesen Saharastaub einatme? Grundsätzlich nichts. Die Teilchen sind so klein, dass sie für die Gesundheit nicht gefährlich sind. Trotzdem ist die Belastung durch den Staub für die Atemwege grösser als an anderen Tagen. Das spürt man vor allem in den Bergen. Es kann sich etwa so anfühlen, wie wenn man im Sommer über einen staubigen Feldweg spaziert. Wer heikle Atemwege hat, bleibt bei solchen Saharastaub-Tagen also besser im Flachland, da hat es sicher weniger Staub in der Luft.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

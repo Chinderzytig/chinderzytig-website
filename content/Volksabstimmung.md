@@ -92,8 +92,7 @@ Bei dieser Vorlage wird nun darüber abgestimmt, ob die Schweiz mehr Geld und Pe
 * Frontex bekommt mehr Geld und kann damit zum Beispiel Waffen für Gewalt kaufen
 * Frontex hält oft die Grundrechte der Menschen an den Aussengrenzen nicht ein
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -45,8 +45,8 @@ In den Jahren 1960 und 1970 veränderte sich der Blick der Gesellschaft jedoch. 
 
 Über zwanzig Jahre später gab es dann das erste Weltmeisterschaftsspiel im Frauenfussball. Seit dann hat sich der Sport deutlich weiterentwickelt. An der diesjährigen WM gab es viele Zuschauer*innenrekorde und viele Berichte in allen Zeitungen und im Fernsehen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

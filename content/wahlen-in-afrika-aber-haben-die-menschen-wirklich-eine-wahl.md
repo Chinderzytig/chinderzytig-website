@@ -36,8 +36,8 @@ Bei den Wahlen, die in diesem Jahr noch kommen, gibt es jedoch auch positive Zei
 
 Was also können die Menschen dieser afrikanischen Länder machen, damit diese sogenannten „Sesselkleber“ endlich abtreten und einer neuen Generation Platz machen? Sie müssen sich zusammenschliessen und sich für ihre Rechte einsetzen – so wie in Nigeria, wo sich die Menschen nicht mehr nur gegen die Gewalt der Polizei wehren, sondern auch gegen eine schlechte Führung der Regierung.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

@@ -43,8 +43,8 @@ Jagd in Graubünden:
 * [https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/Seiten/Jagd_home.aspx](https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/Seiten/Jagd_home.aspx "https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/Seiten/Jagd_home.aspx")
 * [https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/JagdDokumente/Jagdtermine_20_21.pdf](https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/JagdDokumente/Jagdtermine_20_21.pdf "https://www.gr.ch/DE/institutionen/verwaltung/bvfd/ajf/jagd/JagdDokumente/Jagdtermine_20_21.pdf")
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

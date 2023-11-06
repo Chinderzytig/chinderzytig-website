@@ -55,6 +55,6 @@ Für Deutschland brachte das riesige Probleme: Die Wirtschaft geriet in grosse S
 
 Aus der Erfahrung des Schwarzen Donnerstags erliessen alle Börsen später Regeln, die bei extremem Kursausfall den Handel zeitweise aussetzen, um so die entstehende Panik zu bändigen. Hinzu kamen weitere Restriktionen/Verbote, zum Beispiel zur Kreditfinanzierung von Aktiengeschäften. Nachfolgende Börsencrashs waren daher weniger dramatisch als der Schwarze Donnerstag.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -52,6 +52,6 @@ Fächer, die in den Suneungs geprüft werden, sind besonders wichtig. Darum steh
 Die Suneungs sind in Südkorea so wichtig, dass sie selbst das öffentliche Leben beeinflussen. Flugzeuge dürfen zum Beispiel an den Prüfungstagen nur zu bestimmten Zeiten starten. So werden die Schüler*innen nicht durch den Lärm gestört. Die Arbeiter fangen auch später an, damit es keinen Stau gibt und die Schüler*innen rechtzeitig in der Schule ankommen.
 
   
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

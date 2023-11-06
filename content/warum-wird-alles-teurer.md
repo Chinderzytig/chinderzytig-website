@@ -41,8 +41,8 @@ Plötzlich kostet ein Brot mehr Geld als früher. Wie lässt sich das erklären?
 
 Es gibt aber auch ganz viele andere Gründe, weshalb Produkte teurer werden. Zum Beispiel aufgrund der Corona Pandemie und wegen des Krieges in der Ukraine. Während der Corona Pandemie hat die Schweiz sehr viel Geld ausgegeben für Impfstoffe, Masken und vieles mehr. Nach der Pandemie wollten die Menschen wieder viele Produkte kaufen und es wurde sehr schwierig alles schnell genug zu produzieren. Als der Krieg zwischen der Ukraine und Russland ausbrach, wurde auch vieles schwieriger. Du hast vielleicht mitbekommen, dass die Benzin-Preise stark gestiegen sind. Der Grund dafür ist, dass das Erdöl (aus dem besteht Benzin hauptsächlich) meistens aus Russland kommt. Während des Krieges konnte man dieses Öl dann nicht mehr in der gewünschten Menge kaufen und es hatte so weniger Benzin zur Verfügung. Genau deshalb wurden die Preise für Benzin erhöht, damit die Menschen weniger tanken. Du siehst, es gibt viele Gründe dafür, dass alles teurer wird und wir haben alle einen Einfluss auf die Preise.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

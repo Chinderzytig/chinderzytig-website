@@ -46,8 +46,8 @@ Die USA setzten sich als Ziel, noch vor Ende des Jahrzehnts einen Mann auf den M
 
 Das Ereignis wird allerdings von einigen Menschen angezweifelt. Zur Mondlandung gibt es zahlreiche Verschwörungstheorien.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

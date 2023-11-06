@@ -51,8 +51,8 @@ Nicht zuletzt repräsentiert der Bundesrat die Schweiz gegen innen, aber auch ge
 
 Mit diesem Artikel endet der Überblick über die Schweizer Bundesversammlung und Regierung.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

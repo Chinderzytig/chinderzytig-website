@@ -49,8 +49,4 @@ Diese Frage zu beantworten ist nicht ganz einfach, denn die Schweizer Bundesvers
 Ein Parlamentarier/eine Parlamentarierin stellt eine Vorlage vor, und dann entscheidet das ganze Parlament darüber, ob nochmals darüber gesprochen wird, ob es ganz abgelehnt, oder ob es angenommen wird.
 Was schlussendlich mit einer Vorlage geschieht und welche Rolle der Bundesrat einnimmt, erfahrt ihr in einem der nächsten Artikel der Chinderzytig.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

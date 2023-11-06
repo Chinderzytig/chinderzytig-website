@@ -36,8 +36,4 @@ Nach dem ersten Weltkrieg wurde das Osmanische Reich aufgelöst und auf verschie
 
 Wenn ihr mehr zu den Kurden erfahren wollt, könnt ihr einen unserer bereits publizierten [Artikel](https://www.chinderzytig.ch/kurden-in-syrien) lesen.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

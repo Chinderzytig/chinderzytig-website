@@ -45,6 +45,6 @@ Es gibt in der Musikwelt immer wieder kleine Revolutionen. Wenn ein neuer Musiks
 Hamilton ist das erste Musical, welches Hip-Hop und Rap in den Vordergrund stellt. Lin-Manuel Miranda ist gleichzeitig Autor und Regisseur des Stücks. Er hat die Musik komponiert und in der originalen Fassung selbst die Hauptrolle gespielt. Er hat ein Stück geschaffen, welches im übertragenen Sinn überall die gleiche Sprache spricht. Seiner Ansicht nach wäre Alexander Hamilton in der heutigen Zeit ein Rapper. Die Texte passen perfekt zu der Musik, denn sie sind ein Teil davon und geben auch den Rhythmus vor. Die Übersetzung in die deutsche Sprache dauerte rund drei Jahre. Jedes Wort muss sitzen, damit das Publikum auch hier begeistert werden kann.
 
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

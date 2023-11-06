@@ -58,8 +58,8 @@ Deshalb weigern sich viele seriöse Experten, interessierten Laien einen exakten
 
 Die Mona Lisa gehört offiziell der französischen Regierung und ist Teil der Sammlung des Louvre-Museums in Paris.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

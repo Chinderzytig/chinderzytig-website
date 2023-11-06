@@ -44,6 +44,6 @@ Das Einlegen und das Fermentieren von Gemüse haben eine lange Tradition. Vermut
 
 Du schneidest einen Weisskohl in vier Teile und gibst reichlich Salz dazu. Meist zieht das Salz so viel Wasser aus dem Gemüse, dass es damit ganz zugedeckt werden kann. Der Kohl darf einige Stunden oder sogar einige Tage im Salzwasser fermentieren und wird dabei im Geschmack säuerlich. Anschliessend fügst du Gewürze wie Knoblauch, Chili oder Ingwer bei. Nun füllst du das Gemüse in ein Einmachglas, schliesst es, und schon ist das Eingelegte über mehrere Wochen haltbar. Im Internet oder in Kochbüchern findest du viele schöne Rezepte und die richtige Anleitung, damit dein Kimchi auch sicher gelingt. Viel Spass beim Ausprobieren.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -70,8 +70,8 @@ Die Sonderausstellung im Naturhistorischen Museum in Bern mit dem Namen „Queer
 
 Auf einer Entdeckungsreise mit einem kleinen Expeditionsheft können Besucher*innen die eigene Identität erforschen. An spannenden Stationen können Fragebögen ausgefüllt, Videos angeschaut, Musik gehört und „queere“ Tiere kennengelernt werden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

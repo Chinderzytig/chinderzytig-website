@@ -55,8 +55,8 @@ Personenzüge werden nun über die Panoramastrecke umgeleitet. Diese verläuft �
 
 Fahrten zwischen Italien und der Deutschschweiz sollten vorher online oder z.B. auf der SBB-App nachgeschaut werden, um auf der sicheren Seite zu sein.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

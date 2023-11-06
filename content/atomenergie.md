@@ -45,8 +45,4 @@ Atomkraftwerke bergen jedoch eine Gefahr: Durch die Spaltung der Atomkerne entst
 
 Wegen dieser Gefahr gibt es strenge Sicherheitsvorschriften für Atomkraftwerke. Regelmässig wird überprüft, ob alle Vorschriften eingehalten werden und ob die Technik funktioniert. Doch bei Unfällen - wie zum Beispiel sehr starken Erdbeben oder einem technischer Fehler- können Atomkraftwerke beschädigt werden. Dann kann es im schlimmsten Fall dazu kommen, dass radioaktive Strahlung nach aussen gelangt und die Strahlung die Menschen und auch die Natur sehr krank machen könnte.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

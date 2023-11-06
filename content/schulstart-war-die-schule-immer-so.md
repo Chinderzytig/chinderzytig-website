@@ -56,6 +56,6 @@ Für die Kinder war es früher in der Schule ganz anders als heute. In einer Sch
 
 Auch der Lehrer schrieb alles auf eine Schieferwandtafel und es gab noch keinen Computer, Visualizer, Whiteboard oder Beamer. Die Lehrer waren sehr streng. Wenn ein Kind schlecht in der Schule war, nicht schön schrieb oder nicht still sitzen konnte, wurde es vom Lehrer mit einer Rute oder einem Stock auf die Finger oder sogar auf den nackten Hintern geschlagen. Ein Schultag dauerte jeweils von acht bis fünf und die Kinder hatten jeden Tag Hausaufgaben. Die wohlhabenden Kinder machten diese in ein Schreibheft mit Schreibfeder und Tinte. Die ärmeren Kinder konnten sich fürs Schreiben nur eine Holztafel oder Schiefertafel leisten.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -37,8 +37,4 @@ Jemanden reinlegen, das ist am 1. April erlaubt – die Tradition „jemanden in
 
 Und was denkt ihr, könnt ihr selber auch noch eine Erklärung dazu erfinden, woher der Aprilscherz kommt?
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -39,8 +39,8 @@ Im Jahr 2021, das immer noch geprägt ist von der Corona-Pandemie und deren Nach
 
 Die Botschaft der UNO ist klar: Um sich von den Folgen des Virus zu erholen, braucht es Frieden. Und im Kampf gegen dieses Virus, gegen diesen gemeinsamen Feind der Menschheit, sollten alle realisieren, dass wir nicht Feinde sind. Aufstehen gegen Hass on- und offline, Mitgefühl und Hoffnung verteilen, darum gehe es. Nicht nur, aber auch an einem Tag wie heute.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

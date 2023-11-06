@@ -54,6 +54,6 @@ Die Schweiz hatte keine Kolonien, sie war also nie eine Kolonialmacht und hatte 
 
 Es gab Schweizer Sklavenhalter, die Sklavenplantagen im Ausland besassen und so viel Geld machten. Ausserdem wurde im 18. Jahrhundert von einigen Schweizer*innnen Geld für die Sklaventransporte aus Afrika bezahlt. Schweizer Unternehmen und Familien verdienten ihr Geld auch, indem sie im Dreieckshandel tätig waren. So wurden Schweizer Produkte wie z.B. Textilien nach Afrika verschifft und gegen Sklav*innen getauscht.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

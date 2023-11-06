@@ -53,6 +53,4 @@ Warum man die Eier zu Ostern versteckt, weiss man auch nicht ganz genau. Es kön
 
 So oder so, es ist eine lustige Tradition, die allen Spass macht.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}

@@ -61,6 +61,6 @@ Gesundes Essen und frische Luft sind keine Garantie für Gesundheit. Hat jedoch 
 
 Damit wir gesund bleiben, brauchen wir auch noch ein bisschen Glück. Darum ist es am besten, wenn wir uns gleich beides wünschen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

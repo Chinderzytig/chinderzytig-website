@@ -45,6 +45,6 @@ Wenn wir draussen in der Kälte sind und der Körper friert, zieht er die Blutge
 
 Vermeiden kann man den Kuhnagel durch warme Kleidung. Es gibt auch Wärmebeutel, die man in die Handschuhe oder Stiefel legen kann, um die Hände und Füsse warmzuhalten. Bekommt man trotzdem eisige Finger oder Zehen, hilft es, die Körperteile langsam aufzuwärmen. Man kann sie zum Beispiel in ein Wasserbad halten, dem man laufend wärmeres Wasser zufügt. Eine warme Suppe oder ein warmer Tee helfen ebenfalls, die Durchblutung langsam anzuregen und so einem Kuhnagel vorzubeugen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

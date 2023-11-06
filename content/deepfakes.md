@@ -51,8 +51,6 @@ Es ist auch wichtig, dass wir kritisch sind und nicht alles glauben, was wir im 
 
 Deepfakes, das ist ein grosser Schritt in die Zukunft der Technologie. Obwohl dieser unnötig scheint, führt er zu weiteren Fortschritten, die vielleicht nützlicher sein werden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

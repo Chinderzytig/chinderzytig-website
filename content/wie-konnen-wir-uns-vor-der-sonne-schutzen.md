@@ -76,8 +76,8 @@ Folgende Tipps helfen auch zusätzlich beim Schutz vor der Sonne:
 * Kleidung: Je dunkler und dicker die Kleidung, desto mehr schützt sie.
 * UV-Index auf einer Wetter-App beachten: Je höher der UV-Index an einem Ort ist, desto stärker sind die UV-Strahlen und desto mehr musst du dich schützen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

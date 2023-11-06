@@ -47,6 +47,6 @@ Dennoch dauerte es noch bis 1947, bis Indien unabhängig wurde. Doch die Unabhä
 
 Die Welt feiert Gandhi noch heute als Vorbild und Nationalhelden. Gandhi zeigte der Welt, dass mutiges Handeln ohne jede Gewalt machtvoller sein kann als der Einsatz von Waffen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

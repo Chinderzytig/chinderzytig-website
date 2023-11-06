@@ -64,6 +64,6 @@ Das Eidgenössische Schwing- und Älplerfest findet alle 3 Jahr in einer anderen
 
 Das Eidgenössische Schwingfest unterscheidet sich von anderen Festen, weil die maximale Ganganzahl 8 und nicht 6 Gänge beträgt. Zudem bringt der Sieg eines ESAF extrem grossen Ruhm mit sich.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

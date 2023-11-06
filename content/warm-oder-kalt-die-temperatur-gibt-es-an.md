@@ -48,8 +48,8 @@ Nicht nur bei den Masseinheiten gibt es Unterschiede. Auch zwischen der effektiv
 
 Dass -41,8 °C ziemlich kalt ist, da sind sich wohl die Meisten einig. La Brévine hält mit dieser Temperatur seit 1987 den Kälterekord in der Schweiz. Die höchste je gemessene Temperatur in der Schweiz wurde am 11. August 2003 in Grono im Graubünden registriert. Geradezu angenehm erscheinen die damals gemessenen 41,5°C wenn man sie mit dem weltweiten Hitzerekord vergleicht. Im Death Valley in den USA wurden 1913 56,7°C gemessen. Am anderen Ende der Extrem-Skala stehen die -89,2°C, gemessen in der russischen Antarktis im Jahr 1983. Bei dieser Temperatur ist menschliches Leben kaum mehr möglich.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

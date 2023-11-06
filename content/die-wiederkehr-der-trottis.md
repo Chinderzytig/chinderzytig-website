@@ -38,8 +38,7 @@ Die E-Trottinett-Fahrten bezahlt man nach Länge der Fahrt. So machen sie für k
 
 Die Trottis fahren bis zu 25 km/h (jedenfalls diejenigen, die man mieten kann), und so ist es für den Mieter auch eine gute Idee, sich mit einem Helm zu schützen. Eine Studie zeigte, dass Unfälle mit Kopf- und Genickverletzungen seit Einführung der E-Scooters stetig zunehmen. So ist es wichtig, dass man sich so gut wie möglich schützt und stets sein Umfeld wahrnimmt. Gerade in Grossstädten, wo die Scooter am meisten benutzt werden, muss man gutauf die Verkehrsregeln - und die anderen Verkehrsteilnehmer - achten, um sicher von A nach B zu “scootern”.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

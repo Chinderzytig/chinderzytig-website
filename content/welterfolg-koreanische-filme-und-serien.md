@@ -43,6 +43,6 @@ Nachdem sich Südkorea Ende der 1980er Jahren zu einer Demokratie entwickelt hat
 
 Der Erfolg der koreanischen Popkultur in Film oder Musik dient auch der koreanischen Regierung. Der internationale Ruf des Landes wird gestärkt und damit der politische und wirtschaftliche Erfolg. Deshalb wird die Kulturindustrie in Südkorea mit staatlichen Mitteln gefördert und unterstützt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

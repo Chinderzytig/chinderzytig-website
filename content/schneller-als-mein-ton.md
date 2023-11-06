@@ -46,6 +46,6 @@ Was sich sehr futuristisch anhört, gab es eigentlich schon längere Zeit: die s
 
 Obwohl zur Zeit keine zivilen Flugzeuge mit Überschallgeschwindigkeit reisen, gibt es grosses Interesse, die Technologie zu verbessern, so dass man vielleicht bald doppelt so schnell in die Ferien fliegen kann. Diverse Unternehmen haben es sich zum Ziel gesetzt, in den nächsten Jahren zivile Überschallflugzeuge zu entwickeln. Auch die amerikanische Weltraumbehörde NASA hat bereits ein solches Flugzeug in Auftrag gegeben.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

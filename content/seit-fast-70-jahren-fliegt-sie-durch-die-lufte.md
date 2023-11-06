@@ -44,6 +44,6 @@ Heute besteht die Flotte der Rega aus 18 Rettungshelikoptern und 3 Ambulanzjets.
 
 Rega Homepage: [https://www.rega.ch/](https://www.rega.ch/ "https://www.rega.ch/")
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

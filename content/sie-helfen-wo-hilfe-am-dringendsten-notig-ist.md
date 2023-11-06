@@ -37,8 +37,8 @@ Die grosse Anzahl an Organisationen ist auch nötig. Das Rote Kreuz schätzt, da
 
 Viele Länder zahlen deshalb auch Beiträge an solche Organisationen, um sie finanziell zu unterstützen. Im Ganzen kommen weltweit mehr als 25 Milliarden US-Dollar zusammen – und doch reicht diese enorme Zahl nicht aus. Die Vereinten Nationen sprachen schon vor fünf Jahren davon, dass weitere 15 Milliarden für humanitäre Hilfeleistungen fehlen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

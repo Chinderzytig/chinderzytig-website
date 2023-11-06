@@ -45,8 +45,8 @@ Klare Antworten auf diese Fragen werden wir wohl nicht bekommen. Sicher aber ist
 
 Nun kann man sich fragen: Warum machen diese Menschen denn diesen gefährlichen Job? In diesen gebirgigen Gegenden gibt es nicht viele Möglichkeiten zu arbeiten. Und als immer mehr ausländische Bergsteigende in diese Gebiete gekommen sind, haben die einheimischen Menschen hier wohl eine Möglichkeit gesehen, Geld zu verdienen. In Nepal ist es mittlerweile immerhin so, dass die Sherpas eine Versicherung haben. Mit dieser Versicherung sind die Familien der Sherpas finanziell abgesichert, wenn dem Sherpa etwas passiert. Beim verunglückten Sherpa am K2 war dies leider nicht der Fall. Er kam aus Pakistan. Bleibt nur zu hoffen, dass auch für die pakistanischen Sherpas bald eine solche Versicherung ins Leben gerufen wird.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

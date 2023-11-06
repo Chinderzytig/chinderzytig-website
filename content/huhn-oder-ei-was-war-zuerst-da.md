@@ -50,6 +50,6 @@ Daraus kann man lesen, dass Gott die Vögel und somit auch das Huhn geschaffen h
 
 Man sieht also, es kommt darauf an, was man glaubt. Genaue Beweise, wie es wirklich war, gibt es nicht. Viele Philosophen und Philosophinnen beschäftigen sich deshalb auch heute noch gerne mit dieser Frage und tauschen ihre unterschiedlichen Meinungen miteinander aus.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

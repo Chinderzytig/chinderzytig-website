@@ -36,8 +36,4 @@ Was unterscheidet BTS nun aber von anderen bekannten Boybands wie zum Beispiel �
 
 Doch es gibt auch eine andere Seite der Medaille. Wie bereits erwähnt werden die K-Pop-Bands durch Castings zusammengestellt. Viele werden schon als Kind gezielt dafür trainiert, mal Mitglied in einer solchen Band zu werden. Es gibt dafür Camps und Schulen, welche die Kinder bereits im Teenie Alter im Singen, Tanzen, Performen und im Umgang mit den Medien trainieren. Nur die wenigsten schaffen es aber wirklich in eine Band. Die Erfolgreichen müssen strenge Verträge mit den Plattenfirmen unterschreiben. Und diese verdienen dann das grosse Geld mit den Bands. So ist zum Beispiel die Plattenfirma von BTS letztes Jahr an die Börse gegangen. Dadurch hat sie Milliarden eingenommen – Franken, nicht Klicks.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

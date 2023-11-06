@@ -34,8 +34,7 @@ Dieser Entscheid löste eine grosse Diskussion auf den Social Media Kanälen unt
 
 {{< definition id="indigene Völker" wort="indigene Völker" def="Als indigene Völker gelten die Eingebornen eines Landes, die Menschen, welche als erstes ein Land besiedelten. Während es z.B. in Amerika die Indianer, Eskimos und weitere sind, sind es in Neuseeland die Maoris." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

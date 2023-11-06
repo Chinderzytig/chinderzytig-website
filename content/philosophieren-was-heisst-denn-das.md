@@ -48,8 +48,8 @@ Sokrates nennt man auch den „Vater der Philosophie“. Sein Schüler -Platon -
 
 Ein weiterer berühmter Philosoph war René Descartes. René Descartes gilt als erster moderner Philosoph. Er hat sich viele Gedanken dazu gemacht, ob das, was wir sehen und hören, auch wirklich wahr ist. Er hat sich gefragt, ob wir wirklich leben oder ob wir alles nur träumen. Descartes hat aber herausgefunden, dass wir nicht nur träumen, weil wir selbst denken können. Sein berühmter Satz „Ich denke, also bin ich“ soll genau das sagen. Du siehst also, Philosophie kann ganz schön kompliziert sein und ist manchmal gar nicht so einfach zu verstehen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

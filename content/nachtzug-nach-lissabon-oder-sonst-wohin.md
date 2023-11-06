@@ -36,8 +36,8 @@ Wenn man Pech hat, kann die Reise im Zug aber auch in einem wahren Krimi enden, 
 
 Sei es in Europa oder weiter weg, dem nächsten Abenteuer im Zug steht also nichts im Weg.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

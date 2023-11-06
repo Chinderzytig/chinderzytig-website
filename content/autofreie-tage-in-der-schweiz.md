@@ -44,8 +44,4 @@ In jüngerer Zeit wird die Automobilität immer kritischer angeschaut. Vor allem
 
 1956 und 1973 gab es in der Schweiz vereinzelte autofreie Sonntage. Diese wurden jedoch nicht aus Klimaschutzgründen eingeführt, sondern wegen zwei verschiedenen internationalen Konflikten. Die Schweiz war zwar nicht direkt an diesen Krisen beteiligt, trotzdem hatten beide Vorfälle auch grosse Auswirkungen auf die Verkehrspolitik des Landes. Denn in beiden Konflikten drehte es sich um die arabische Welt. Da wir damals, wie auch heute stark abhängig vom Öl in der arabischen Welt sind, waren wir schlussendlich trotzdem von den Entwicklungen betroffen: Es herrschte Ölknappheit. Auch wenn die jetzigen Vorschläge für autofreie Tage zwar nicht direkt wegen eines internationalen Konfliktes entstanden sind, zeigt der Krieg in der Ukraine, dass die Abhängigkeit von ausländischen Rohstoffen auch heute noch problematisch sein kann. Welche Einflüsse dieser jüngste Konflikt auf unsere Mobilität haben wird, bleibt unklar. Unabhängig davon scheint es, dass autofreie Tage in der Schweiz bald häufiger in verschiedenen Gemeinden der Schweiz stattfinden werden.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

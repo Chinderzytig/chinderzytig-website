@@ -52,8 +52,8 @@ Auch kann man den Wind je nach seiner Steigung kategorisieren: Aufwind und Abwin
 
 Die Wissenschaft misst den Wind, wie bei einem Auto, in Kilometer pro Stunde (in der See- und Luftfahrt nutzt man eine andere Einheit, die Knoten pro Stunde). Die visuelle Einschätzung des Windes nennt man die “Beaufort-Skala”-Messung. So wird zum Beispiel anhand der Wellen im Meer oder der Bewegung der Bäume geschätzt, wie fest - oder schwach - ein Wind ist. Ebenfalls hast du vielleicht am Flughafen bei den Landebahnen die rot-weissen “Windsäcke” gesehen, die wie eine Fahne aussehen (siehe Bild oben). Diese geben für den Flughafen visuelle Informationen wie die Richtung und ungefähre Stärke des Windes.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

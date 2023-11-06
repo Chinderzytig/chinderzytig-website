@@ -51,6 +51,6 @@ Unternehmen wie Amazon, Apple und Sky starteten ihre eigenen Plattformen. Auf ei
 
 Mit Disney+ erhielt Netflix nun grosse Konkurrenz. Denn die neue Plattform konnte von Anfang an mit einer riesigen Bibliothek an Filmen in das Rennen steigen. Nach nur vier Jahren ist Disney+ bereits der drittgrösste Streamingdienst der Welt. Aber auch Amazon Prime und AppleTV+ konnten viele Abonnenten gewinnen. Das hat sich insbesondere dieses Jahr bemerklich gemacht, denn Netflix hat nicht annähernd so viele neue Abonnenten, wie sich das Unternehmen gedacht hatte. Vor allem in Amerika musste Netflix viele Verluste einstecken. Denn dort gibt es noch viel mehr Streaming Anbieter als bei uns. Der Kampf um die Abonnenten wird also immer heisser. In den USA redet man sogar von einem „Streaming War“ zwischen den vielen Unternehmen. Ob sich Netflix weiterhin durchsetzen kann, wird sich zeigen. Doch sicher ist, Drama bietet Netflix nicht mehr nur in ihrer Bibliothek.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -52,6 +52,6 @@ Als Orkane werden Sturmwinde bezeichnet, die mit einer Windgeschwindigkeit von m
 Sturmwinde entstehen durch Unterschiede im Luftdruck. Die warmen und kalten Luftmassen wollen diesen Unterschied ausgleichen, wodurch Luftwirbel entstehen. Je grösser der Temperaturunterschied zwischen den Luftmassen ist, desto stärker wird der Sturm. Deshalb gibt es im Herbst und Winter besonders viele Stürme – wie eben auch Lothar, der am 26. Dezember 1999 zu einem Stromausfall führte und für Weihnachtsessen bei Kerzenschein sorgte.
 
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

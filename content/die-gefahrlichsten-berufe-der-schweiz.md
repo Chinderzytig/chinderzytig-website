@@ -44,6 +44,6 @@ Forstwarte und Forstwartinnen sind für alle im Wald anfallenden Arbeiten zustä
 
 Die Baubranche ist eine der wichtigsten der Schweiz. Sie bietet vielen Berufsleuten einen Arbeitsplatz und ist für den Ausbau unserer Strassen, unserer Gebäude und unserer Infrastruktur verantwortlich. Leider geschehen in der Baubranche auch die meisten Berufsunfälle, vor allem im Bereich von vorbereitenden Baustellenarbeiten und Bauinstallationen. Dabei sind Dachdecker und Fassadenbauer am meisten von Unfällen betroffen. Es ist also sehr wichtig, dass in diesen Berufen die Sicherheitsmassnahmen laufend angepasst werden und dass die Arbeiter*innen diese aber auch einhalten.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

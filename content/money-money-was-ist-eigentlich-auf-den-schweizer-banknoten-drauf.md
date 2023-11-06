@@ -34,8 +34,8 @@ Damit die Schweizer Banknoten nicht gefälscht werden können, wurden verschiede
 
 Welche Schweizer Banknote gefällt dir am besten und wieso? Hast du dir schon einmal alte Banknotenserien angesehen? Findest du es besser, wenn auf den Noten Schweizer Persönlichkeiten abgebildet werden oder Schweizer Merkmale? Wie würdest du die Banknoten gestalten, wenn du entscheiden dürftest? Kennst du auch Banknoten aus anderen Ländern? Denkst du, in der Zukunft braucht es überhaupt noch Bargeld oder wird es ganz von den Kreditkarten abgelöst?
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

@@ -36,6 +36,4 @@ Die Welt war in Schockstarre. Erstmals wurde eine terroristische Attacke in dies
 
 Warum sagt man 9/11 (nine-eleven)? Im US-Englisch nimmt man den Monat vor dem Tag, das heisst, dass man zuerst vom September (9) spricht und danach vom Tag (11). Wenn ihr also am 8. März Geburtstag hättet, dann würde man diesen in den USA 3/8 schreiben.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}

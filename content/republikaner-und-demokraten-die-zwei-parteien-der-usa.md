@@ -36,8 +36,8 @@ Wie kommt es, dass es in den USA nur die zwei Parteien gibt, die bestimmen? Der 
 
 Du willst mehr über das Zweiparteien-System erfahren? Dann schau dir das Video hier an: [SRF Erklärt](https://www.srf.ch/play/tv/srf-news/video/erklaert-das-zweiparteiensystem-der-usa?urn=urn:srf:video:d4b2701b-297e-44bc-9b78-73b7b8a3b247).
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

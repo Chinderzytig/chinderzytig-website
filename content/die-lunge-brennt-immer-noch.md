@@ -36,8 +36,8 @@ Die indigenen Völker aber auch Umweltschutzorganisationen beschuldigen wiederum
 
 Leidtragend bleibt die Natur. Die Pflanzenwelt. Die Tierwelt. Aktuell gibt es alleine im Amazonasgebiet 89'604 Feuer, die noch nicht gelöscht sind und nun durch die Feuerwehr auch nicht gelöscht werden sollen. Im Pantanalgebiet gab es Ende September 18'259 lodernde Feuer. Eine riesige Fläche des Regenwalds, der Lunge der Erde, verbrennt. Die Folgen für Brasilien sind kurzfristig halb so wild: denn weniger Wald, mehr Bodenfläche, mehr Bauland, mehr Geldeinnahmen. Langfristig sind die Brände aber für die ganze Welt verheerend: Klimawandel, weniger Wald, schlechtere Luft usw.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

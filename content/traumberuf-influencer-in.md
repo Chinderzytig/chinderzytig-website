@@ -40,8 +40,8 @@ Als Influencerin verdient man jeden Monat unterschiedlich viel Geld. Es kommt da
 
 Für welche Produkte und Marken machen deine Lieblingsinfluencerinnen Werbung? Kennst du noch weitere Arten, wie Influencerinnen Geld verdienen?
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

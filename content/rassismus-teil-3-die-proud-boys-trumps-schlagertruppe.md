@@ -38,8 +38,8 @@ Die Chinderzytig befasste sich in einer Artikel-Serie mit extremen Gruppierungen
 
 Artikel über die Proud Boys auf Watson: [https://www.watson.ch/international/wissen/460866301-proud-boys-das-ist-trumps-schlaegertrupp](https://www.watson.ch/international/wissen/460866301-proud-boys-das-ist-trumps-schlaegertrupp "https://www.watson.ch/international/wissen/460866301-proud-boys-das-ist-trumps-schlaegertrupp")
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

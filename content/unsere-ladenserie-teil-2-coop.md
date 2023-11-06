@@ -52,8 +52,8 @@ Migros und Coop verfolgen eine ähnliche Strategie. Beide versuchen stark zu wac
 
 [Coop Kennzahlen 2019](https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind/wichtige-kennzahlen.html)
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

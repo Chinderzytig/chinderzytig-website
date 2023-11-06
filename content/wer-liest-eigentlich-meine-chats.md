@@ -44,8 +44,8 @@ Eines ist jedoch klar: Nachrichtendienste wie WhatsApp haben gegenüber dem klas
 
 {{< definition id="online" wort="online" def="Der Begriff “online” bezeichnet den Zustand, wenn jemand mit dem Internet verbunden ist." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

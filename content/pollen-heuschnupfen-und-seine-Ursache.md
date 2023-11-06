@@ -66,8 +66,8 @@ Feuchtes Gewebe nimmt Pollen besonders gut auf. Wenn die Wäsche dennoch drausse
 * **Pollen aus der Wohnung fernhalten:**
 Trage Kleidung und Schuhe, die du im Freien benutzt hast, nicht im Wohnbereich und lege diese nicht im Schlafzimmer ab. Wische Oberflächen in der Wohnung feucht ab. Dies verhindert, dass sich die Pollen im gesamten Raum verteilen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

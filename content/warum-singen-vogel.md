@@ -41,10 +41,10 @@ Der Gesang hat also mehrere Funktionen: Als Markierung des Reviers, als Lockruf 
 * Weitere spannende Fakten zum Vogelgesang: [https://www.duda.news/serie/singen-fuer-die-vogel-weibchen/](https://www.duda.news/serie/singen-fuer-die-vogel-weibchen/ "https://www.duda.news/serie/singen-fuer-die-vogel-weibchen/")
 * Die häufigsten Vogelarten in der Schweiz: [https://www.tierwelt.ch/news/wildtiere/die-zehn-haeufigsten-brutvoegel-der-schweiz](https://www.tierwelt.ch/news/wildtiere/die-zehn-haeufigsten-brutvoegel-der-schweiz "https://www.tierwelt.ch/news/wildtiere/die-zehn-haeufigsten-brutvoegel-der-schweiz")
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+
 
 ###

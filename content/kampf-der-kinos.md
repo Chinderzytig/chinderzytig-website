@@ -49,6 +49,6 @@ Obwohl es die kleinen Kinos schwer haben, gibt es trotzdem ein grosses Kino-Ange
 
 Trotzdem haben auch die kleinen Kinos einen Vorteil: Dort gibt es nämlich oft ausgezeichnete Schweizer Filme zu sehen oder tolle, aussergewöhnliche Filme, die es nicht in die grossen Kinos schaffen. Es lohnt sich also doch, wieder mal ein kleines Kino zu besuchen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

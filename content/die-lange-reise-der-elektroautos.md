@@ -42,8 +42,8 @@ Heute sind Elektroautos zwar immer noch in einer grossen Unterzahl, verglichen m
 
 {{< definition id="Erdöl" wort="Erdöl" def="Die Förderung von Erdöl ist sehr belastend für die Umwelt. Ausserdem haben im letzten Jahrhundert viele internationale Konflikte und sogar Kriege wegen Erdölvorkommen stattgefunden." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

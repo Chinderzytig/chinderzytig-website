@@ -41,6 +41,6 @@ Es ist die Geschichte des Schellenursli, welche erzählt, wie sich ein Junge auf
 
 Der Chalandamarz wird auch heute noch jedes Jahr am 1. März in den Bündner Südtälern gefeiert. Die Schulkinder singen in den Dörfern und verscheuchen mit Glockenklängen und Peitschengeräuschen den strengen Winter. Die blauen und roten Kutten der Kinder, geschmückt mit sorgfältig gebastelten Papierblumen bringen Farbe in den düsteren und eintönigen Winter.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

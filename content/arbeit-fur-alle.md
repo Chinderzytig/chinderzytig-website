@@ -90,6 +90,4 @@ Was ich sehr gerne habe, ist das Organisieren. Ich bin sehr gerne mit Leuten zus
 
 Seit acht Jahren bin ich nun in der Schweiz. Diese Zeit ist schnell vorbeigegangen, war aber auch schwierig und hart. Das hatte auch damit zu tun, dass ich zuerst nicht hätte in der Schweiz bleiben und das Land hätte verlassen müssen. Glücklicherweise durfte ich aber dann doch hier bleiben. Manchmal vermisse ich meine Familie und mein Land. Aber ich bin froh, dass ich jetzt hier in der Schweiz lebe und eine sichere Arbeitsstelle habe. Ich fühle mich wirklich wohl hier. Die Lebensqualität ist sehr gut und es ist ein sicheres Land. Ich bin froh, dass ich ein Teil der Schweizer Gesellschaft bin.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}

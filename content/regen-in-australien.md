@@ -50,8 +50,7 @@ Ein Grossteil der heftigen Regenfälle und schweren Überschwemmungen betraf sp�
 
 In den letzten Jahren hat Australien unter einer Reihe von extremen Wetterereignissen gelitten: schreckliche Dürren und große, tödliche Buschbrände. Es ist noch zu früh, um zu sagen, inwieweit die derzeitigen Überschwemmungen auf die Klimakrise zurückzuführen sind. Aber es ist klar, dass der Klimawandel eine Rolle spielt. Wetterexperten weisen darauf hin, dass mit der Erwärmung der Ozeane auch mehr Wasser in die Luft gelangt. Und je wärmer unsere Atmosphäre wird, desto mehr Wasser kann sie aufnehmen, was Starkregenereignisse wie dieses wahrscheinlicher macht.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -43,6 +43,6 @@ Es gibt unzählige Legenden über Sankt Nikolaus. Neben vielen Wundern, welche e
 
 Manchmal begleitet der Schmutzli den Samichlous . Früher sollte er die unartigen Kinder in den Sack packen. Die Nikolaus-Tradition wurde damals genutzt um die Kinder zu erziehen. Diese Tradition durfte sich im Laufe der letzten Jahrzehnte zum Glück verändern. Heute ist auch der Schmutzli ein freundlicher Begleiter des Samichlous und der Chlousetag stets ein erfreuliches Ereignis.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -50,8 +50,8 @@ Was kann man nun also machen, damit mehr Menschen spenden? Überreden ist keine 
 
 Dass die Menschen in der Schweiz grundsätzlich bereit sind, ihre Organe zu spenden, zeigte eine Abstimmung im letzten Jahr. Dabei ging es um das neue Gesetz über die Organspende. Es wurde deutlich angenommen. Künftig wird also jeder Mensch als möglicher Spender oder mögliche Spenderin betrachtet. Wenn ich NICHT spenden will, muss ich mich in eine Liste eintragen lassen. Bisher war es genau umgekehrt. Das Gesetz gilt voraussichtlich ab dem Jahr 2025. Mit diesem neuen Gesetz, den vielen angebotenen Informationen und Filmen erhoffen sich die verantwortlichen Personen, dass die Organspenden in der Schweiz zunehmen werden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

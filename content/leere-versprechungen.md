@@ -52,8 +52,7 @@ Warum nur haben in den Augen der Taliban die Frauen viel weniger Rechte als Män
 
 Für alle Mädchen und Frauen in Afghanistan können wir also nur hoffen, dass sich die offeneren Gruppierungen der Taliban durchsetzen und dass nicht noch mehr Einschränkungen dazukommen werden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

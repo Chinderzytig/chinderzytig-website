@@ -82,6 +82,6 @@ Eine grosse Hoffnungsträgerin der Schweiz ist Mujinga Kambundji. Die 30-jährig
 
 Die Wettkämpfe der WM werden live unter anderem auf ARD, ZDF und SRF übertragen. Zu beachten ist aber, dass Eugene neun Stunden hinter der Mitteleuropäischen Sommerzeit liegt. Das heisst, dass viele Übertragungen in der Nacht sein werden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

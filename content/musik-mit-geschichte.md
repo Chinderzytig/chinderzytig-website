@@ -49,6 +49,6 @@ Die Spirituals wurden a-cappella gesungen. Das heisst, ohne Begleitung durch ein
 
 Das gemeinsame Singen gibt ein Gefühl von Gemeinschaft. Und gerade in der Weihnachtszeit haben viele Menschen das Bedürfnis nach Gemeinschaft, nach Familie und nach Freunden. Viele Menschen setzen sich auch mehr mit Themen wie Glaube und Religion auseinander. So wurde die Weihnachtszeit schliesslich auch zur Zeit der Gospelchöre.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

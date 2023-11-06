@@ -52,8 +52,8 @@ Grundwasser ist frisches Trinkwasser, welches sich unter der Erdoberfläche befi
 
 Deshalb laden die Vereinten Nationen dazu ein, an diesem Tag UN-Empfehlungen einzuführen und konkrete Aktionen zu unternehmen, die die Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser ermöglichen. Dieses Jahr stützt sich der Weltwassertag auch auf andere Veranstaltungen und soll zum "Jahr des Grundwassers" werden. Der Grundwasserkatalog wird während des Weltwasserforums in Dakar, Senegal vorgestellt, und die letzte Veranstaltung im Rahmen des Themas Grundwasser ist der Grundwassergipfel 2022 in Paris.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

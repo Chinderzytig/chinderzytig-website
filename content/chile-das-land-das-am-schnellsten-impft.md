@@ -36,8 +36,4 @@ Diese Erfolgsmeldung ist auch auf eine ganz bestimmte Frau zurückzuführen. Die
 
 Leider müssen die Ärzte in Chile auch Rückschläge einstecken. Seit einigen Tagen steigen die Zahlen von Corona-Infizierten wieder schneller, es sterben auch wieder mehr Leute. Aus diesem Grund hat der chilenische Präsident, Sebastiàn Piñera, erneut den Katastrophenzustand für sein Land bis Ende Juni ausgerufen. Nun gilt wieder eine Ausgangssperre in den Abendstunden. Im letzten Lockdown ging die Militärpolizei mit Gewalt gegen Menschen vor, die sich noch auf den Strassen oder draussen aufhielten. Sogar in einer Suppenküche, wo Menschen, die in Armut leben, etwas zu essen bekommen, griff die Militärpolizei viel zu hart durch, kritisierten viele Chilenen. Ausserdem wurden sogar Personen festgenommen, die noch gar nicht 18 Jahre alt sind. Diese wurden später wieder freigelassen. Verschiedene Parteien aus der Politik fordern nun eine Untersuchung gegen die Militärpolizei.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -66,6 +66,6 @@ Abgesehen von Veganerinnen und Veganern konsumieren Menschen, die pflanzliche Er
 
 {{< definition id="co2" wort="CO2" def="Ist die Abkürzung für das Gas Kohlenstoffdioxid. Es besteht aus Kohlenstoff und Sauerstoff. Man kann pures CO2 nicht sehen und nicht riechen, denn es ist farb- und geruchlos. Kohlenstoffdioxid ist von Natur aus in der Luft enthalten. Wenn wir das Licht anknipsen, die Heizung aufdrehen, den Kamin anzünden oder mit dem Auto fahren, gelangt zusätzliches Kohlendioxid in die Atmosphäre. Zu viel CO2 in der Luft ist schlecht für das Klima." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

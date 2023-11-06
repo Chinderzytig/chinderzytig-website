@@ -42,8 +42,8 @@ Der Weltraum geht alle Menschen etwas an. Durch die geplante wirtschaftliche Nut
 
 Wollen wir zulassen, dass private Wirtschaftsführer*innen im Weltraum einen dermassen grossen Einfluss ausüben? Was denkst du? Schreibe dein Statement in die Kommentare.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

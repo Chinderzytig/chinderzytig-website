@@ -46,8 +46,8 @@ Durch verschiedene Massnahmen können wir uns vor Bakterien und Viren schützen.
 
 Weitere Massnahmen sind Abstand halten, in den Ellbogen oder in ein Taschentuch niesen und husten und Toiletten sauber halten. Ein sauberer Haushalt hilft ebenfalls dabei, dich vor Krankheitserregern zu schützen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

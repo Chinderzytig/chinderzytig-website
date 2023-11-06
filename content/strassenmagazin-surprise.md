@@ -74,8 +74,7 @@ Der Verein unterstützt Menschen bei der Wohnungs- und Arbeitssuche, macht Schul
 
 Etwa 450 Armutsbetroffene verkaufen das Strassenmagazin Suprise. Der Verein finanziert sich zu 65 % aus dem Verkauf des Strassenmagazins, der Rest erfolgt durch Spenden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

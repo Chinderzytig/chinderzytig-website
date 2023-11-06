@@ -36,8 +36,7 @@ Bewegung, frische Luft und zusammen lachen sind genauso wichtige Zutaten für da
 
 Wer diese Tipps und Tricks gegen den Winterblues ab und zu beherzigt, der darf sich dann auch gut und gerne mal einen Seriennachmittag auf dem Sofa gönnen – vielleicht mit einer feinen Tasse heisser Schokolade in der Hand. Auch das ist ganz bestimmt sehr wohltuend für unser Gemüt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

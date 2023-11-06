@@ -59,6 +59,6 @@ In-Ears punkten vor allem bei den tieferen Tönen. On-Ears sitzen nicht immer ga
 
 Mit den ersten Kopfhörern war auch gleich die moderne Musik in den Vordergrund getreten. Die Leute hörten sich gerne neue Arten von Musik an, wie beispielsweise Jazz oder Blues. Dieser hielt sich auch lange, bis der Swing die Überhand an Zuhörer*innen gewann, welcher im Gegensatz zum Tanz einladenden Jazz eher ruhiger war. 1960 war Elvis Presley einer der beliebtesten, wenn nicht sogar der beliebteste Sänger. Aus diesem Grund nannten ihn die Leute auch «King of Rock 'n' Roll». Zirka ein Jahrzehnt später spielte sich der Pop / Rock langsam ein. Bis zu den 2000er entwickelte sich die Musik von Pop / Rock bis hin zum Rap, Techno und den Pop-Songs welche von verschiedensten Künstlern*innen ausgeübt wurden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

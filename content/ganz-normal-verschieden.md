@@ -36,8 +36,8 @@ Menschen mit dem Down-Syndrom kommen mit geistigen und körperlichen Besonderhei
 
 Menschen mit Trisomie 21 sind genauso verschieden, wie du und deine Freunde es sind. Jeder von ihnen hat eigene Talente und Begabungen. Zwar sind sie sich äusserlich ähnlicher durch das eine Chromosom, das sie mehr besitzen. Das hat aber nichts mit ihrer Persönlichkeit zu tun. Häufig sind sie sogar viel aufgeschlossener und fröhlicher als viele andere. Es sind nicht Menschen, die eine Krankheit haben und von ihr geheilt werden müssen. Das Down-Syndrom entsteht durch Zufall ganz früh, bei der Verschmelzung von Samen und Eizelle, wenn ein neuer Mensch entsteht – und bisher kann niemand ganz genau sagen, warum das so passiert.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

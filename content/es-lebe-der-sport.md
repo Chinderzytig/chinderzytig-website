@@ -30,8 +30,8 @@ Seit acht Jahren ist der Internationale Tag des Sports auf der Agenda der UNO al
 
 In der Tat verbindet der Sport die Menschen. Sei dies im grossen Rahmen an internationalen Wettkämpfen. Wer lässt sich nicht packen, wenn Lara Gut-Behrami auf spannende Art und Weise eine Goldmedaille gewinnt? Wenn Liverpool (oder auch YB) nach Jahrzehnten endlich Meister wird? Wenn Naomi Osaka als erste Japanerin einen Tennis-Grandslam gewinnt? Oder Stucki Christian Schwingerkönig wird? Das sind Momente, in denen vieles in den Hintergrund rückt: egal, ob Corona oder Schoggi-Osterhasen. Sport verbindet auch im Privaten. Man lernt bereits als Kind soziale Zusammenhänge sowie Sieg und Niederlage kennen. Auch verbessert der Sport die körperliche Gesundheit, die Konzentration und auch den Schlaf. Und: Kennt ihr das Glücksgefühl, wenn ihr an einem Wettkampf ein gutes Resultat erzielt habt? Eure beste Leistung zeigen konntet? Beim Jogging noch nie so lange gerannt seid oder beim Yoga endlich eine neue Übung geschafft habt? Oder sogar, vielleicht mit eurem Team, einen Pokal gewonnen habt? Das löst grosse Glücksgefühle aus! Das tut der Seele gut. Und wenn etwas wie Sport der Seele gut tut und gleichzeitig den Körper gesund hält, dann kann es ja nichts Schlechtes sein. Auch wenn nicht alle gleich sportlich sind oder gleich viel Talent haben, es ist nur gut, wenn wir uns ab und zu sportlich betätigen und zu unserem Körper und Geist schauen - dann lässt sich das Schöggeli noch viel mehr geniessen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

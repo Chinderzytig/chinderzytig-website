@@ -70,6 +70,6 @@ Leider können die Member nichts bestimmen und werden von YG-Entertainment geste
 
 Am 29. Juni 2016 wurde die Gruppe offiziell vorgestellt. Seither ist sie eine der bekanntesten K-Pop-Gruppen weltweit. Blackpink haben bereits Duette mit bekannten Sängerinnen veröffentlicht, wie Dua Lipa, Lady Gaga, Cardi B und Selena Gomez.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -41,8 +41,8 @@ Ganz so weit wie Israel ist die Schweiz noch nicht. Dieses Land gilt momentan al
 
 Die Impfung in der Schweiz ist gratis, egal welchen Impfstoff man erhält. Zugelassen sind im Moment die Impfstoffe von Pfizer/BioNTech und Moderna. Auch bei AstraZeneca wurden Impfstoffe bestellt. Geimpft wird vor allem in kantonalen Impfzentren. In Zukunft sollen aber auch Hausärzte impfen können. Wer sich impfen lassen möchte, muss sich in seinem Kanton anmelden (Kantonswebseite) und erhält dann alle weiteren Informationen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

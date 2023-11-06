@@ -46,8 +46,8 @@ Eine Studie der Universität St. Gallen hat ein überraschendes Resultat hervorg
 
 Der einfachere Teil für die Gleichberechtigung scheint also auf gutem Weg zu sein. Doch die Lösung für das wahrscheinlich grössere Problem, Vorurteile gegen Frauen am Arbeitsplatz abzubauen, scheint schwieriger zu sein. Hier haben wir noch viel Arbeit vor uns.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

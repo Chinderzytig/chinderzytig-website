@@ -34,8 +34,8 @@ Die Schweiz hat aber auch eigene Mittel um den Terror zu bekämpfen, respektive 
 
 Seit dem Jahr 2004 gedenkt Europa jeweils am 11. März der Opfer von Terrorismus. Dabei geht es um alle Menschen, die durch Terrorismus ihr Leben oder Angehörige verloren haben. Der Gedenktag wurde in Erinnerung an die Anschläge in der spanischen Stadt Madrid ins Leben gerufen. Damals, am 11. März 2004, wurden am Morgen im Berufsverkehr in mehreren Pendlerzügen Bomben gezündet. Es kamen 191 Menschen ums Leben, rund 1800 wurden verletzt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

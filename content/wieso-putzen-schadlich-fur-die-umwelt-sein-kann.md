@@ -60,8 +60,8 @@ Die Werbung versucht die Verbraucher zu überzeugen, dass alles strahlend glänz
 
 Der Monat Februar hat seinen Namen im Zusammenhang mit dem römischen Reinigungsfest erhalten, dieses hatte den Namen «Februa». Der Februar war im antiken Rom der letzte Monat des Jahres und zum Jahresende wurde alles gereinigt und parat gemacht für das neue Jahr. Dazu wurde auch ein grosses Fest gefeiert.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

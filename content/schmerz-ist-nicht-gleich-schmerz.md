@@ -49,6 +49,6 @@ Bei Sofia war das natürlich nicht nötig. Aber bei Extremsportler*innen wird w�
 
 Häufig hört man „Männer sind viel wehleidiger als Frauen“. Das hat allerdings weniger mit den Schmerzen zu tun als vielleicht mit dem Verhalten des Mannes. Studien zeigen nämlich, dass Frauen schmerzempfindlicher sind als Männer. Bei einem Test mussten Frauen und Männer zum Beispiel die Hand auf eine Platte halten, die immer heisser wurde. Die Frauen haben die Hand früher weggezogen als die Männer. Nebst dem Geschlecht spielen aber auch die Kultur und das Umfeld eine Rolle, wie wir Schmerz empfinden oder zeigen. So bleibt der Schmerz ein Thema, bei dem noch Vieles erforscht werden kann.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

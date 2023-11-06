@@ -55,6 +55,6 @@ Auch in Bezug auf die Gesichtszüge vermittelt die koreanische Medienwelt bestim
 
 Die Nase einer Koreanerin sollte schmal und tendenziell kleiner sein, wobei ein gerader und vor allem hoher Nasenrücken auch eine sehr grosse Rolle spielt. Dementsprechend gehört auch eine Nasenoperation bei vielen koreanischen Sängerinnen oder Schauspielerinnen ganz normal dazu. Im Gegensatz zu den westlichen Standards voller und plumper Lippen sind in Korea eher schmale und feine Lippen gewünscht. Dazu passend ist auch der Trend der "Gradient Lips" zu nennen, bei dem die Lippen so geschminkt werden, dass sie noch dünner aussehen, als sie eigentlich sind.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

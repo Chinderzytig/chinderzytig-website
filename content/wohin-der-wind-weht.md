@@ -56,8 +56,8 @@ In der Schweiz wird der Global Wind Day leider noch nicht offiziell begangen. Da
 
 {{< definition id="Atomkraftwerken" wort="Atomkraftwerken" def="Atomkraftwerke werden genutzt im Kerne von bestimmten Atomen zu spalten und somit sehr viel Energie zu erzeugen." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

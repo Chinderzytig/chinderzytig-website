@@ -45,8 +45,8 @@ Elektroautos können durch den fehlenden Motorsound für mehr Gesundheit sorgen 
 
 Durch den Ukraine-Krieg, aber auch durch andere Faktoren sind die Benzinpreise in der Schweiz stark gestiegen. Mittlerweile hat sich die Lage wieder etwas beruhigt, doch hat der Preisanstieg einen weiteren Vorteil von E-Autos befeuert: geringere Treibstoffkosten (Strom gegenüber Benzin, Diesel etc.). Zwar wurde auch Strom teurer, doch der dramatische Anstieg hat sich auch durch die vom Staat eingeführte Strompreisbremse wieder abgeschwächt.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

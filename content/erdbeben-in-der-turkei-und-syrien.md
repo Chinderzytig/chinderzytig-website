@@ -55,6 +55,6 @@ Die bei den Erdstößen freigesetzte Energie war mehr als doppelt so hoch wie be
 
 Der Untergrund in Gaziantep und den umliegenden Gebieten bewegte sich dadurch besonders heftig und führte zum Einsturz der Gebäude.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

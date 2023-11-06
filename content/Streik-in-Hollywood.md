@@ -51,8 +51,8 @@ Dieser Streik hat jedoch einen anderen ausgelöst. Kurz nachdem Drehbuchautorinn
 
 Bei diesem Streik kam es jedoch noch zu keinen Einigungen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

@@ -30,8 +30,4 @@ Nach der Spaltung der Insel erlebte Südkorea jahrzehntelang Militärdiktaturen,
 
 Heute kennt man Südkorea als technologisch fortgeschrittenes Land mit einer der höchsten Lebensqualitäten in Asien. Ebenfalls schlägt das Land im Bereich Kultur weltweit Wellen: Die sogenannte “Koreanische Welle” (in Korea “Hallyu” genannt) bezeichnet die seit 1980 weltweit steigende Bekanntheit der koreanischen Kultur, insbesondere des Koreanischen Pops (“K-Pop”). Die wohl bekannteste K-Pop Gruppe, BTS, erreichte seit 2018 dreimal die Spitze der Charts in den USA. Ausserdem gelten die Breakdancer aus Korea als die Besten der Welt. Seitdem amerikanische Soldaten, welche in Südkorea stationiert waren, diese Tanzart den Südkoreanern vorgestellt hatten, wurde sie zu einem wichtigen Bestandteil der koreanischen Musikkultur.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

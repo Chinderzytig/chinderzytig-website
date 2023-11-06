@@ -54,8 +54,8 @@ Gemüse und Früchte können auch vor der Kontamination mit Pestiziden geschütz
 
 Und wenn wir doch nicht auf Plastik verzichten können, ist es wichtig, dass der Plastikmüll korrekt entsorgt oder wenn möglich recycelt wird, damit das Plastik sehr lange und immer wieder verwendet werden kann.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

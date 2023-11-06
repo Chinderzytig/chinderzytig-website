@@ -47,6 +47,6 @@ Nun wird es noch etwas komplizierter: Auf dem Finanzplatz konnten Institute und 
 
 Die Folgen waren sehr schlimm. In Amerika verloren damals viele Menschen ihre Arbeit, ihr Haus und ihr Erspartes. Viele Banken hatten weltweit Schwierigkeiten ihre Schulden zu zahlen und deshalb brach auch der weltweite Handel zusammen. Denn jetzt konnten auch Unternehmen nicht mehr sicher sein, dass die Bank eines anderen Unternehmens noch zahlungsfähig sein würde. Da der Finanzmarkt sehr International aufgestellt ist, waren nicht nur amerikanische Banken und Unternehmen betroffen. Schnell war die ganze Weltwirtschaft in Mitleidenschaft gezogen. Die amerikanische Regierung aber auch ganz viele andere Staaten musste einschreiten und die Banken retten, damit der Handel wieder stabilisiert werden konnte. Dieses Einschreiten wiederum führte aber zu einer Vielzahl von neuen Problemen. Schliesslich ging es viele Jahre, bis sich die Wirtschaft von dieser Krise erholt hatte.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

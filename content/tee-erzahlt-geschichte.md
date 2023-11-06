@@ -44,6 +44,6 @@ Die britischen Handelsschiffe landeten an den Häfen im Süden Chinas. Sie hande
 
 Bis heute hat sich jedoch in den ehemaligen Kolonien einiges verändert. Das Leben wurde vielerorts freier. Dennoch lohnt es sich auch heute noch zu fragen, wo das Produkt, das wir konsumieren, herkommt, wie es angebaut wird und wer es hergestellt hat.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

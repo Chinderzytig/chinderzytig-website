@@ -38,8 +38,8 @@ Den grössten zusammenhängenden Regenwald findest du rund um den Fluss Amazonas
 Zum sechsten Mal findet heute der Internationale Tag der Tropen statt. Die UNO hat diesen Tag ins Leben gerufen, um auf diese Klimazone aufmerksam zu machen.  
 Denn schon seit längerer Zeit schrumpft der Anteil des Regenwaldes weltweit von Tag zu Tag. Der Wald wird abgeholzt, um Geld mit dem Holz der dortigen Bäume zu verdienen. Ausserdem werden Flächen gerodet, um riesige Plantagen anzubauen. Durch diese Abholzung gehen Tier- und Pflanzenarten verloren und auch unser Klima verändert sich, wenn der Regenwald immer kleiner wird.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

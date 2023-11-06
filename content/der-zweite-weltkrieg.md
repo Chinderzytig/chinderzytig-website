@@ -52,6 +52,4 @@ Dieser Artikel ist nur ein sehr kleiner Einblick ins Thema. Über den Zweiten We
 
 Link zum Video: [https://www.kindernetz.de/sendungen/der-krieg-und-ich/der-zweite-weltkrieg-100.html](https://www.kindernetz.de/sendungen/der-krieg-und-ich/der-zweite-weltkrieg-100.html "https://www.kindernetz.de/sendungen/der-krieg-und-ich/der-zweite-weltkrieg-100.html")
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}

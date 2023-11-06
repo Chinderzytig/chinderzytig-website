@@ -49,7 +49,4 @@ Bei der Körperbemalung (Bodypainting) bezeichnet man Spezialeffekte als die 
 
 Grundsätzlich erhöhen alle Effekte die Realitätseindrücke (vor allem optisch für die Augen und auditiv für die Ohren). Spezialeffekte zielen nicht nur auf die Steigerung der Erlebnisintensität der Zuschauenden ab. In Genres wie z. B. Horror- oder Science-Fiction-Film werden Spezialeffekte zur Erzeugung von Schockbildern verwendet. Sie ziehen die Aufmerksamkeit des Publikums auf sich, indem sie das Besondere des Schreckens zeigen.
 
-
-
-
 {{< arbeitsmaterial >}}

@@ -22,8 +22,4 @@ _Viele Teenager lieben die Musik und den Stil von Billie Eilish. Das 17jährige 
 
 Ihr erstes Album landete in der Hitparade der USA sofort auf Platz 1. 12 ihrer 14 Songs landeten ebenfalls in der Hitparade – ein neuer Rekord. Auf Instagram hat sie über 25 Millionen Follower. Billie Eilish Pirate Beird o’Connell heisst die junge Frau aus Irland richtig. Ein auffälliger Name, der zu ihr passt. Sie singt über Liebe, Eifersucht und Tablettensucht. Die Stimmung ist oft eher düster, traurig, depressiv. Dennoch, oder gerade deswegen, kommt ihre Art gut an. Viele Jugendliche sind sich selbst am Finden: Wer will ich sein? Wer bin ich überhaupt? Solche Fragen sind oft mit Unsicherheit und Traurigkeit verbunden. Billie Eilish singt den jungen Menschen somit aus dem Herzen. Ihre Songs schreibt sie selbst, gemeinsam mit ihrem Bruder. Andererseits wirkt Billie Eilish auch unglaublich cool und selbstbewusst. Sie weiss genau, was gerade geschieht und dass sich dies Millionen von Menschen wünschen. Einmal sagte sie, dass sie mit 16 gestorben sei und als Künstlerin Billie Eilish wiedergeboren sei. Es ist ihr somit bewusst, dass ihr altes Leben vorbei ist. Andererseits ist sie ein Typ Frau, die macht, was sie will. Auch ihre Musik macht, was sie will. Einzigartig. Eigenartig. Enorm erfolgreich.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

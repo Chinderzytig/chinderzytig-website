@@ -58,8 +58,8 @@ Auf die Situation in Katar wollte auch die deutsche Nationalmannschaft aufmerksa
 
 </ul> {{< /important-points >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

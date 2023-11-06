@@ -49,6 +49,6 @@ Von A wie Art Basel (Kunstmesse in Basel) über H wie Higa Chur (Südostschweize
 
 Die OLMA St.Gallen ist wohl eine der bekanntesten Messen schweizweit, die grösste Publikumsmesse. Die OLMA findet in der Regel jährlich statt und begeistert die Besuchenden mit den Themen Landwirtschaft und Ernährung. Bis zu 320'000 Personen finden jeweils den Weg nach St.Gallen an die OLMA und lassen sich von Säuli-Rennen, OLMA-Bratwurst und Bier-Degustation inspirieren. Dass die OLMA seit 1943 fast jährlich stattfindet, zeugt von der grossen Beliebtheit der Messe in der Ostschweiz. Ein Highlight ist sicherlich auch die Eröffnung der OLMA, die jeweils in Anwesenheit einer Bundesrätin oder eines Bundesrats durchgeführt wird.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

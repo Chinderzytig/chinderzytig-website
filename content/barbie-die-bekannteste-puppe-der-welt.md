@@ -53,8 +53,4 @@ Der neue Barbie-Film wurde am 21. Juli 2023 erstmals in den Schweizer Kinos ausg
 Worum geht es im “Barbie”-Film?
 Im Mittelpunkt des Films steht eine Puppe, die im Barbieland lebt und aufgrund ihrer sogenannten Unvollkommenheiten gezwungen ist, das Land zu verlassen.  Sie begibt sich auf ein Abenteuer in der realen Welt und entdeckt dabei, dass Perfektion nur im Inneren zu finden ist.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

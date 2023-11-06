@@ -50,8 +50,7 @@ Um zu den Pisten, Rodelbahnen und Loipen zu gelangen, hat China Autobahnen und H
 
 Der grosse Verbrauch von Wasser und Boden für die Winterspiele in Peking sowie der Bau von neuen Anlagen und Hotels wird von vielen Expertinnen und Experten kritisiert. Damit komme das Gegenteil zum Ausdruck, was die Organisatorinnen und Organisatoren der Olympischen Spiele in Peking angekündigt hätten.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -40,8 +40,4 @@ Obwohl der Hund das häufigste Tier ist, wenn es um Therapietiere geht, gibt es 
 
 Es ist kein Zufall, dass der Hund, weltweit in zirka jedem dritten Haushalt vertreten, das beliebteste Haustier ist. Untersuchungen haben ergeben, dass Hunde und andere Tiere sehr empathisch sein und mit “ihrem” Menschen mitfühlen können. Der Begriff “man’s best friend” kommt also nicht umsonst! Aber auch bei Tieren, die sich vielleicht weniger gut als Haustier eignen, wie Elefanten, Delfine und Schimpansen hat man beobachtet, dass sie empathische Emotionen zeigen, wie z.B. sich selbst im Spiegel erkennen oder beim Tod eines Freundes oder Artgenossen trauern.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

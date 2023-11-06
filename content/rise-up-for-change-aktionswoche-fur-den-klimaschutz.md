@@ -44,8 +44,8 @@ Am Freitag nach der Räumung des Camps trafen sich in Bern über 2'000 Personen 
 
 Während ihrer Aktionswoche in Bern und noch einige Tage danach war die Aufmerksamkeit für die Schweizer Klimabewegung sehr gross. Jetzt ist ein Monat vergangen und es spricht fast niemand mehr darüber. Damit der Klimawandel nicht vergessen wird und damit die Wirtschaft und die Politik mehr dagegen tun, muss die Klimabewegung weiter handeln. Das wird sie mit Sicherheit auch machen. Denn der Klimawandel kann nicht einfach wie das Camp auf dem Bundesplatz beseitigt werden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

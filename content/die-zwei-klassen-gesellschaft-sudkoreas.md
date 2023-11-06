@@ -50,8 +50,7 @@ Aus der Politik Südkoreas kamen einige sehr grosse und heute bekannte Unternehm
 
 Ob sich an diesem Unterscheid zwischen der reichen Minderheit und der armen Mehrheit etwas ändern wird, bleibt abzuwarten. Denn nicht nur Südkorea kämpft mit solchen sozialen Problemen. In vielen reichen Ländern vergrössert sich der Unterschied zwischen Arm und Reich. Somit kann man hier nicht von einem südkoreanischen Problem reden. Sondern von einer weltweiten Entwicklung. Südkorea scheint anderen Ländern nur etwas voraus zu sein.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

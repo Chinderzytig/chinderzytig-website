@@ -34,8 +34,8 @@ Wir hören die Geschichte von Christoph Kolumbus und der Entdeckung von Amerika 
 
 Auch wenn Kolumbus heute noch als Entdecker von Amerika gefeiert wird, sollten wir dem kritisch gegenüber treten. Belege dafür gibt es keine, die Geschichte basiert auf Erzählungen, welche sich über die Jahre gehalten haben. Doch an jeder Geschichte ist etwas Wahres dran. Daher feiert die USA diesen Tag der Entdeckung jedes Jahr in grossen Zügen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

@@ -36,8 +36,7 @@ Obwohl man also hin und wieder vielleicht wegen eines verpassten Anschlusses ode
 
 {{< definition id="Konkurs anmelden" wort="Konkurs anmelden" def="In Konkurs geraten Unternehmen, die ihre Schulden nicht mehr zurückzahlen können. Konkurs anzumelden bedeutet, dass das Unternehmen beim Staat angibt, dass es diese Schulden nicht mehr zahlen kann. Meistens führt das zu der Auflösung eines solchen Unternehmens." >}}
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -48,6 +48,6 @@ Wie bereits erwähnt, gibt es keine Ausbildung zum Politiker oder zur Politikeri
 
 Doch wie bereits gesagt, spielen Ausbildung oder Beruf keine so grosse Rolle für die Tätigkeit als Politikerin oder Politiker. Viel wichtiger ist das Interesse am aktuellen Geschehen und der Gesellschaft und die Bereitschaft, sich für die Allgemeinheit zu engagieren.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

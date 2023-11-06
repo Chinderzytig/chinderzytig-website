@@ -46,6 +46,6 @@ Trotzdem gab es auch vor der Abstimmung im letzten Jahr noch viele Leute, die si
 
 In anderen Bereichen gibt es aber nach wie vor Handlungsbedarf. So sind homosexuelle Personen in der Schweiz weiterhin Diskriminierung, die bis zur tätlichen Gewalt gehen kann, ausgesetzt. Die Ehe für alle sehen viele deshalb auch bloss als einen ersten Schritt auf dem Weg zu vollständiger Gleichstellung.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -40,8 +40,7 @@ Dies wird im Song “Mir sy drü” besungen, bei dem das Sensibeli die besten F
 
 Das Sensibeli kann man kaufen unter [www.jaelmusic.ch](http://www.jaelmusic.ch) oder in ausgewählten Läden, wie z.B. Changemaker, Chat Noir, o.ä. und ab 2022 bei musikalischen Lesungen live hören.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

@@ -44,6 +44,6 @@ Das Training ist nur ein Bestandteil des Alltags eines/einer Spitzensportlers/in
 
 Während der Wettkampfsaison, die je nach Sportart im Winter oder im Sommer ist, ist es das Ziel jeder Spitzensportlerin und jedes Spitzensportlers das abrufen zu können, wofür man die ganze Trainingssaison vorbereitet hat. Nämlich die maximal mögliche Leistung abzurufen. Das Ziel jeder Sportlerin und jedes Sportlers ist es dann natürlich, zu gewinnen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -43,8 +43,8 @@ Die Speisen für das Festessen werden nach persönlichen Vorlieben ausgewählt u
 
 Nach äthiopischer Überzeugung gilt es als unsittlich, an Weihnachten allein zu speisen oder zu trinken. Stattdessen wird die Fastenzeit gemeinsam mit der Familie, Verwandten und Nachbarn beendet, indem man sich auch an den folgenden Tagen gegenseitig besucht und gemeinsam feiert. Es ist ausserdem üblich, Essen an ärmere Menschen zu verschenken.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

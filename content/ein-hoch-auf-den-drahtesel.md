@@ -42,8 +42,8 @@ Solche Einrichtungen fehlen in der Schweiz noch. Und auch der Anteil des Velover
 
 Zum Schluss noch eine witzige Anekdote aus der Geschichte des Velos: Als das Velofahren erfunden wurde, warnten Wissenschaftler vor dem sogenannten „Velogesicht“. Sie glaubten, dass sich das Gesicht durch den Fahrtwind verformen könnte. Wie gut, dass sich auch Wissenschaftler hie und da mal irren können…
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

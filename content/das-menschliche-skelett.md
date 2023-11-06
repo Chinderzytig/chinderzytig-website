@@ -21,7 +21,7 @@ title = "Das menschliche Skelett"
 +++
 _Im Körper jedes Menschen befinden sich ungefähr 206 Knochen. Diese bilden ein inneres Gerüst und verleihen uns so Struktur. Alle Knochen zusammen nennt man Skelett oder auch das „Knochengerüst“. Das ist nötig, damit wir nicht wie ein Sack in uns zusammenfallen._
 
-  
+
 {{< important-points >}} <h3>Das Wichtigste in Kürze</h3>
 
 <p>Wenn es einfach schnell gehen soll, dann findest du in diesem Kasten die Hauptaussagen des Artikels:</p>
@@ -46,6 +46,4 @@ Obwohl Knochen viermal härter als Beton sind, können sie trotzdem brechen. Ein
 
 Damit die Zähne und Knochen kräftig bleiben und nicht schnell brechen, ist es wichtig, sich genügend zu bewegen und genug Kalzium zu sich zu nehmen. Dabei helfen dir zum Beispiel Milchprodukte wie Käse und Joghurt.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+{{< arbeitsmaterial >}}

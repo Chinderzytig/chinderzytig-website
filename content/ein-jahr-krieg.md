@@ -49,6 +49,6 @@ Der Krieg heute
 
 In den letzten Monaten war es an den Fronten etwas ruhiger. Wegen des kalten Wetters und den daraus folgenden schwierigen Bedingungen, gab es keine grösseren Veränderungen. Beide Seiten haben sich aber sicherlich darauf vorbereitet im Frühling neue Angriffe zu starten. Somit ist ein Ende dieses Krieges nicht in Sicht. Die Ukraine erhält weiterhin enorme Unterstützung von den USA und von europäischen Ländern. Solange das so bleibt, ist es unwahrscheinlich, dass Russland grosse Erfolge in seinem Angriffskrieg haben wird. Gleichzeitig bereitet sich Russland auch darauf vor noch mehr Soldaten in die Ukraine zu schicken. Somit werden die Kämpfe andauern und auf dem Schlachtfeld hat keines der Länder wirklich die Möglichkeit den Krieg zu beenden. Am wahrscheinlichsten ist es, dass dieser Krieg so lange dauert, bis Russland und die Ukraine miteinander verhandeln und einen Friedensvertrag abschliessen. Ein Jahr nach Kriegsbeginn sieht es aber nicht so aus, als würde dieser bald enden.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

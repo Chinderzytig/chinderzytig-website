@@ -38,8 +38,7 @@ Für autistische Menschen sind Strukturen und Rituale sehr wichtig. Ein klar ger
 
 Autist*innen mit ihren besonderen Fähigkeiten können sehr gesuchte Mitarbeitende sein – gerade in der IT oder in den Finanzen, wo Genauigkeit, Ordnung und Logik sehr gefragt sind. Autistische Menschen können auch sehr kreativ sein – und dabei eine unglaubliche Ausdauer an den Tag legen. Es liegt jedoch am Arbeitgeber, oder generell an uns, die Rahmenbedingungen so zu gestalten, dass sich der autistische Mensch in seiner Umgebung wohl fühlt und seine Stärken voll und ganz leben kann.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}

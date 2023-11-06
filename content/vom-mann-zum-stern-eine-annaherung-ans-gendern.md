@@ -40,8 +40,8 @@ Kurz gesagt: Das Thema Gender hilft, einen gerechten Umgang mit dieser Vielfalt 
 
 Am Ende gilt doch einfach: “Mini Farb u dini, das git zäme zwe. Wäres drü, vier, füf, sächs, sibe, wo gärn wette zämeblybe, gits e Rägeboge, wo sich laht la gseh.” Schön, dass es so viele unterschiedliche Menschen gibt, die alle anders und doch irgendwie gleich sind.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

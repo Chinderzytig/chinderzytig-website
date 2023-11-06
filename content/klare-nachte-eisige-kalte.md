@@ -50,8 +50,8 @@ Nebst den Wolken spielt häufig auch der Wind eine zentrale Rolle bei eisigen N�
 
 Siehst du im Winter also ein schönes Sternenzelt am Himmel, teilst du deinen Eltern besser mit, dass sie am Morgen lieber ein paar Minuten mehr einrechnen sollen, falls sie mit dem Auto zur Arbeit fahren wollen.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}}
+
+
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
+

@@ -48,6 +48,6 @@ Es gibt sogar Musiker, die ihre eigenen Songs überarbeiten und neu herausbringe
 
 Warum funktioniert das? Was gefällt uns an wieder „aufgewärmten“ Songs oder Melodien? Musikexpert*innen sprechen von Vertrautheit und Erinnerungen. Wir hören und sehen gerne Sachen, die wir irgendwie schon ein bisschen kennen. So fühlen wir uns schneller angesprochen, können schneller eintauchen. Vielleicht kommen Erinnerungen auf, die wir mit einem Song, mit einem Kleidungsstück oder einer Filmszene in Verbindung bringen. Das Vertraute muss dann aber mit einem modernen „Twist“ verbunden werden. Darauf zählen die heutigen Hit-Produzenten. Und deshalb wird es wohl auch in 30 Jahren wieder Hits mit Melodien von heute zu hören geben.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -58,6 +58,6 @@ Es gibt verschiedene Massnahmen, welchen dem Fachkräftemangel entgegenwirken k�
 
 Dabei liegt es an der Politik, den Arbeitgeberverbänden aber auch den Betrieben, die Arbeitsbedingungen so zu gestalten, dass diese für das Personal interessant sind.
 
-{{< teiler >}}
 
-{{< arbeitsmaterial-group >}} {{< arbeitsmaterial >}} {{< /arbeitsmaterial-group >}}
+
+ {{< arbeitsmaterial >}} 

@@ -61,8 +61,4 @@ Generell sind es die Behörden, die entscheiden, ob ein Gebäude unter Schutz ge
 
 Dass (neue) Denkmäler aber nicht immer den Geschmack von allen treffen, zeigt sich am Beispiel des Mocmoc-Denkmals in Romanshorn. Knapp 20 Jahren steht es schon auf dem Bahnhofsplatz Romanshorn und genau so lange wird darüber gestritten. Das Künstler-Duo COM&COM hat die Plastik mit dem Fabelwesen Mocmoc entworfen. Dazu kommt ein Wandbild, allerlei Publikationen und Werbematerial sowie eine erfundene Gründungslegende des Orts. Proteste löste nicht nur diese Geschichte aus. Auch dass die Kosten viel höher ausfielen als geplant und eine Baubewilligung fehlte, stiess viele Leute vor den Kopf. Was dem Denkmal aber sicher war, ist viel Aufmerksamkeit in den Medien und bei der Bevölkerung. Und Aufmerksamkeit ist gut, für jedes Denkmal.
 
-{{< teiler >}}
-
-{{< arbeitsmaterial-group >}}
 {{< arbeitsmaterial >}}
-{{< /arbeitsmaterial-group >}}
