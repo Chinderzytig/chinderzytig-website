@@ -21,9 +21,7 @@ title = "In 79 Tagen um die Welt"
 
 _Im Jahr 2017 vollbrachte der schottische Abenteurer Mark Beaumont eine bemerkenswerte Leistung, die ihm einen angesehenen Platz im Guinness-Buch der Rekorde einbrachte. Er fuhr mit dem Fahrrad in der bisher schnellsten aufgezeichneten Zeit um die Welt und stellte dabei sowohl seine Entschlossenheit als auch sein fahrerisches Können unter Beweis._
 
-{{< important-points >}} 
-
-
+{{< important-points >}}
 
 <ul>
 
@@ -33,7 +31,9 @@ _Im Jahr 2017 vollbrachte der schottische Abenteurer Mark Beaumont eine bemerken
 
 <li>Mit dieser Zeit schlug Mark Beaumont den vorherigen Rekord um 44 Tage.</li>
 
-</ul> {{< /important-points >}}
+</ul>
+
+{{< /important-points >}}
 
 ### Die Reise
 

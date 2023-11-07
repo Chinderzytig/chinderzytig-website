@@ -2,24 +2,29 @@
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	margin-bottom: $margin-s;
+	margin: $margin-s 0;
+
+	&__img { box-shadow: 2rem 2rem $verdigris; }
 
 	&__caption {
-		align-self: flex-start;
+		// align-self: flex-start;
 		display: flex;
 		align-items: center;
-		margin-left: 21rem;
+		margin-left: -40rem;
 
-		@include respond(tab-port-xl) { margin-left: 15.5rem; }
+		@include respond(tab-land) { margin-left: -45rem; }
 
-		@include respond(tab-port-lg) { margin-left: 9rem; }
+		@include respond(tab-port-xl) { margin-left: -50rem; }
 
-		@include respond(tab-port-sm) { margin-left: 7rem; }
+		@include respond(phone-xxl) { margin-left: -45rem; }
 
-		@include respond(phone-land-lg) { margin-left: 1rem; }
+		@include respond(phone-xl) { margin-left: -35rem; }
 
-		@include respond(tab-port-xs) { margin-left: 0; }
+		@include respond(phone-lg) { margin-left: -25rem; }
 	}
+
+	&__photographer { color: $white; }
+
 
 	&__src { margin-left: .5rem; }
 }
