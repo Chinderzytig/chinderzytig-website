@@ -1,12 +1,5 @@
 .svg {
 
-	&__magnify {
-		background-color: $color-white;
-		border: 2px solid $social-base;
-		border-right: 0;
-		padding: .5rem;
-	}
-
 	&__slogan {
 		width: 9.5rem;
 		height: 7.5rem;
@@ -70,4 +63,12 @@
 	}
 
 	&__fdw-intro { width: 80%; }
+
+	&__search {
+		width: 3rem;
+		background-color: $color-white;
+		border: 2px solid $jonquil;
+		border-right: 0;
+		padding: .3rem;
+	}
 }
