@@ -1,32 +1,27 @@
 {{define "main"}}
-	<div class="fdw__intro">
-		<div class="fdw__intro-container">
-			<div class="fdw__intro-icon">
-				{{- partial "svgs/fdw_svg.html" . -}}
-			</div>
-			<p class="fdw__intro-text">
-				Der Fokus der Woche (FdW) erlaubt uns einen Blick durch die Lupe auf
-				aktuelle Geschehnisse der Woche. Wir beleuchten ein Thema, geben
-				unsere Meinung als Diskussionsgrundlage und stellen Fragen. Es ist
-				nicht die Idee, das Thema im Sinne einer Reportage tiefgründig zu
-				erörtern. Wir legen den Daumen drauf, wecken auf, schauen hin und
-				animieren die Lesenden zu eigenen Gedankengängen. Und ja: wenn möglich
-				mit Good News...
-			</p>
-		</div>
-	</div>
 
-	<div class="search__container">
-		{{ partial "svgs/magnify.html" (dict "fill" "#6C685D" "width" 35 "height" 36) }}
-		<input id="search" type="search" placeholder="Artikel Suchen" class="search__field" />
-	</div>
+	{{ partial "fdw-intro.html" }}
+
+	{{ partial "search.html" (dict "shadow" "jonquil" "border" "jonquil") }}
 
 	<div class="cta">
-		<h2 class="deading deading__list deading--black">Alle Artikel der Woche</h2>
+		<h2 class="deading deading--black">Alle Artikel der Woche</h2>
+		<div class="card__container card__container-single">
+			{{ $set1 := where .Site.Pages ".Params.artikel" true }}
+			{{ $set2 := where .Site.Pages ".Params.fdw" true }}
+			{{ $fdw := $set1 | intersect $set2 }}
+
+			{{ range first 1 $fdw.ByDate.Reverse }}
+				{{ partial
+					"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__land"
+					"cardColor" "card--grey" "showCase" "false")
+				}}
+			{{ end }}
+		</div>
 		<div class="card__container card__container-list">
 			{{ $fdw := where .Site.Pages ".Params.fdw" true }}
 
-			{{ range $fdw.ByDate.Reverse }}
+			{{ range after 1 $fdw.ByDate.Reverse }}
 				{{ partial
 					"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__port"
 					"cardColor" "card--grey" "showCase" "false")

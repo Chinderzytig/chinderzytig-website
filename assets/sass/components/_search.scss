@@ -1,23 +1,41 @@
 .search {
+	display: flex;
+	justify-content: center;
 
 	&__container {
+		width: 75%;
 		display: flex;
-		justify-content: center;
-		padding: 3rem;
+		margin: $margin-s 0;
+
+		&--jonquil { box-shadow: 0.8rem 0.8rem $jonquil; }
+
+		&--celadon { box-shadow: 0.8rem 0.8rem $celadon; }
 	}
 
 	&__field.aa-input {
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		appearance: none;
-		font-family: 'Lato', sans-serif;
+		font-family: inherit;
 		font-size: inherit;
 		width: 100%;
 		padding: .5rem 1rem;
-		border: 2px solid $social-base;
-		border-left: 0;
-		border-radius: 0;
 
 		&::placeholder { font-weight: 300; }
+
 	}
+	.aa-input {
+		&--jonquil {
+			border: .2rem solid $jonquil;
+			border-left: 0;
+			border-radius: 0;
+		}
+
+		&--celadon {
+			border: 2px solid $celadon;
+			border-left: 0;
+			border-radius: 0;
+		}
+	}
+
 }
