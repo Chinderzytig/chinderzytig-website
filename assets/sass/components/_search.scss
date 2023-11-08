@@ -5,8 +5,11 @@
 	&__container {
 		width: 75%;
 		display: flex;
-		box-shadow: 0.8rem 0.8rem $jonquil;
-		margin-top: $margin-s;
+		margin: $margin-s 0;
+
+		&--jonquil { box-shadow: 0.8rem 0.8rem $jonquil; }
+
+		&--celadon { box-shadow: 0.8rem 0.8rem $celadon; }
 	}
 
 	&__field.aa-input {
@@ -17,10 +20,22 @@
 		font-size: inherit;
 		width: 100%;
 		padding: .5rem 1rem;
-		border: 2px solid $jonquil;
-		border-left: 0;
-		border-radius: 0;
 
 		&::placeholder { font-weight: 300; }
+
 	}
+	.aa-input {
+		&--jonquil {
+			border: .2rem solid $jonquil;
+			border-left: 0;
+			border-radius: 0;
+		}
+
+		&--verdigris {
+			border: 2px solid $verdigris;
+			border-left: 0;
+			border-radius: 0;
+		}
+	}
+
 }

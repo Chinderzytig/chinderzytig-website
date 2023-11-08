@@ -70,5 +70,15 @@
 		border: 2px solid $jonquil;
 		border-right: 0;
 		padding: .3rem;
+
+		&--jonquil {
+			border: .2rem solid $jonquil;
+			border-right: 0;
+		}
+
+		&--verdigris {
+			border: 2px solid $verdigris;
+			border-right: 0;
+		}
 	}
 }
