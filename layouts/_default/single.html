@@ -1,4 +1,5 @@
 {{define "main"}}
+	<div class="single">
 		<div class="single__photo">
 			<figure class="single__photo-container">
 				<img srcset="{{ .Site.Params.cloudinary_url }}/f_auto,q_auto:good,w_320/{{ .Params.hero_img }} 320w,
@@ -37,27 +38,27 @@
 					{{ end }}
 				</div>
 				<h2 class="deading__article nr-read">{{ .Params.title }}</h2>
-					<div class="single__date-author">
-						<div class="single__date nr-read">{{ .Date.Format .Site.Params.DateForm }}</div>
-						<div class="single__dot">●</div>
-						<div class="single__author nr-read">
-							{{ if .Params.author }}
-							{{ .Params.author }}
-							{{ else }}
-							Chinderzytig
-							{{ end }}
-						</div>
-					</div>
-					<div class="single__svgs">
-						{{ partial "svgs/article-social.html" . }}
-						{{ partial "svgs/volume.html" }}
+				<div class="single__date-author">
+					<div class="single__date nr-read">{{ .Date.Format .Site.Params.DateForm }}</div>
+					<div class="single__dot">●</div>
+					<div class="single__author nr-read">
+						{{ if .Params.author }}
+						{{ .Params.author }}
+						{{ else }}
+						Chinderzytig
+						{{ end }}
 					</div>
 				</div>
-
-				<div class="single__article nr-read">{{ .Content }}</div>
+				<div class="single__svgs no-print">
+					{{ partial "svgs/article-social.html" . }}
+					{{ partial "svgs/volume.html" }}
+				</div>
 			</div>
 
-{{ partial "support_us_cta.html" }}
+			<div class="single__article nr-read">{{ .Content }}</div>
+		</div>
+	</div>
+	{{ partial "support_us_cta.html" }}
 
 {{end}}
 {{ define "scripts" }}
