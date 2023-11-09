@@ -62,16 +62,13 @@
 		}
 	}
 
-	.single__article {
-
-		p a.fremdwort {
-			color: $black;
-			text-decoration: none;
-		}
-
-		.single__content-video,
-		.tweet__container { display: none; }
+	p a.fremdwort {
+		color: $black !important;
+		text-decoration: none;
 	}
+
+	.single__article-video > iframe,
+	.tweet__container { display: none; }
 
 	.single__content:after {
 		content: "Passendes Arbeitsmaterial zu diesem Artikel auf www.chinderzytig.ch";
