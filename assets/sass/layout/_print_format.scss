@@ -8,12 +8,9 @@
 
 	main { margin-top: 0; }
 
-	.single {
-
-		&__photo {
-			height: 320pt;
-			margin-bottom: 100pt;
-		}
+	.single__photo {
+		height: 320pt;
+		margin-bottom: 100pt;
 	}
 
 	img.single__photo-img,
@@ -21,6 +18,8 @@
 		box-shadow: none;
 		height: 300pt;
 	}
+
+	.svg__triangle { fill: $black !important;}
 
 	.single__image-photographer,
 	.image__photographer { color: $black !important; }
