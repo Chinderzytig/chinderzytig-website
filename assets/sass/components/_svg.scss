@@ -33,8 +33,11 @@
 		&:not(:last-child) { margin-right: 2rem; }
 	}
 
-	&__snipcart {
-		width: 3.5rem;
+	&__snipcart { width: 3.5rem; }
+
+	&__triangle {
+		fill: $white;
+		width: 1.5rem
 	}
 
 	&__article {

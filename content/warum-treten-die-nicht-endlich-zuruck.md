@@ -27,7 +27,7 @@ Vor Jahren wurde Ammoniumnitrat am Hafen von Libanon, in Beirut, gelagert. Das S
 
 Genau so war es in Beirut. Die Regierung hat sich geweigert das Salz richtig zu entsorgen. Nun kam es zur Katastrophe. Über 100 Menschen sind gestorben und viele Gebäude wurden zerstört. Aber es ergeben sich noch mehr Schwierigkeiten für den Libanon: Beirut gilt als wichtige Hafenstadt. Das heisst, viele Nahrungsmittel von anderen Ländern werden mit dem Schiff nach Beirut geliefert. Die Stadt ist zerstört. Die Schiffe können nicht mehr in den Hafen. Diese Explosion ist schlimm für die Bevölkerung, es ist eine Katastrophe. Und was macht die Bevölkerung jetzt?
 
-{{< youtube SkIYjNGiaoA >}}
+{{< youtube SkIYjNGiaoA single__article-video >}}
 
 ### Die Demonstrationen werden lauter​
 
