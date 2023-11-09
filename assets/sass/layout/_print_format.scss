@@ -15,7 +15,7 @@
 			margin-bottom: 100pt;
 		}
 
-		&__image-photographer { color: #000 !important; }
+		&__image-photographer { color: $black !important; }
 	}
 
 	img.single__photo-img {
@@ -29,7 +29,8 @@
 		font: 20pt Georgia, "Times New Roman", Times, serif;
 	}
 
-	.cta--orL { border: 0; }
+	.cta--orL,
+	.cta--platR { border: 0; }
 
 	body {
 		font: 13pt Georgia, "Times New Roman", Times, serif;
@@ -45,9 +46,20 @@
 
 	p a,
 	ul li a {
-		color: $color-black;
+		color: $black;
 		text-decoration: none;
 		word-wrap: break-word;
+	}
+
+	.important-points{
+		border: 1px solid $black;
+
+		h3 { margin: 0 !important;}
+
+		&__container {
+			box-shadow: none;
+			padding: 10pt;
+		}
 	}
 
 	.single__article {
@@ -56,7 +68,7 @@
 
 
 		p a.fremdwort {
-			color: $color-black;
+			color: $black;
 			text-decoration: none;
 		}
 
