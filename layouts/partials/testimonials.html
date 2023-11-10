@@ -1,6 +1,11 @@
 <div class="cta">
 	<div class="testimonial">
-		<img src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_130,q_auto:good/logos/keystone_testimonial_wsmkr8.png"
+		<!-- <img src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_130,q_auto:good/logos/keystone_testimonial_wsmkr8.png"
+		class="testimonial__logo"> -->
+		<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_130,q_auto:good/logos/keystone_testimonial_wsmkr8.png 511w"
+		sizes="(min-width: 767px) 35vw, 65vw"
+		src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/keystone_testimonial_wsmkr8.png"
+		alt="logo"
 		class="testimonial__logo">
 		<div class="testimonial__chunk">
 			<span class="testimonial__double-quote">
