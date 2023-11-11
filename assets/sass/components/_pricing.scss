@@ -8,11 +8,13 @@
 	}
 
 	&__product {
+		background-color: $white;
+		box-shadow: 0.8rem 0.8rem $chestnut;
 		flex: 0 0 30%;
 		display: flex;
 		flex-direction: column;
-		border: 2px solid $chinder-platinum;
-		padding: 1rem;
+		align-items: center;
+		padding: 1rem 1rem 2.5rem 1rem;
 
 		@include respond(tab-port-lg) {
 
@@ -21,11 +23,11 @@
 	}
 
 	&__name {
+		color: $white;
+		background-color: $chestnut;
 		align-self: flex-start;
 		font-size: 1.3rem;
-		color: $chinder-celadon;
 		font-weight: 500;
-		background-color: $cta-azure;
 		padding: 1rem;
 		margin: -1rem 0 0 -1rem;
 	}
@@ -65,15 +67,17 @@
 
 	&__fineprint {
 		font-size: 1.3rem;
-		color: $social-base;
+		background-color: $white;
+		box-shadow: 0.8rem 0.8rem $chestnut;
 		text-align: justify;
-		margin: 1rem 0 3rem 0;
+		padding: 1rem;
+		margin: 3rem 0;
 
 		&--bold {
 			color: $color-white;
 			font-weight: 500;
-			background-color: $social-base;
-			padding: .2rem;
+			background-color: $black;
+			padding: .1rem;
 		}
 	}
 }

@@ -6,10 +6,9 @@
 
 	{{ partial "testimonials.html" (dict "attr" . "alias" "keystone") }}
 
-	<section class="abonnemente">
-		<h1 class="heading heading__content--primary">Abonnemente</h1>
-		<h4 class="heading heading__content--quaternary">Wir bieten Wissen - einfach verpackt</h4>
-		<div class="abonnemente__pricing">
+	<section class="cta cta--orR">
+		<h2 class="deading deading--white">Abonnemente</h2>
+		<div class="pricing">
 			<div class="pricing__info">
 				{{ range .Site.Data.pages.abonnemente.pricing }}
 					<div class="pricing__product">
@@ -25,7 +24,7 @@
 							<div class="pricing__target">{{ .target }}</div>
 						</div>
 						{{ range .btn }}
-							<button class="btn btn--pricing pricing__button snipcart-add-item"
+							<button class="mtn mtn--jonquil mtn__pricing snipcart-add-item"
 								data-item-id="{{ .id }}"
 								data-item-price="{{ .price }}"
 								data-item-url="{{ $.RelPermalink }}"
@@ -38,7 +37,7 @@
 							</button>
 						{{ end }}
 						{{ range .hyper }}
-							<a href="{{ .link }}" class="btn btn--pricing btn--pricing-narrow pricing__button">{{ .label }}</a>
+							<a href="{{ .link }}" class="mtn mtn--jonquil mtn__pricing mtn__pricing-narrow">{{ .label }}</a>
 						{{ end }}
 					</div>
 				{{ end }}
