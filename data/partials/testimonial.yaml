@@ -1,6 +1,7 @@
 companies:
-- logo:
-    - h: h_130
+- alias: "keystone"
+  logo:
+    - h: "h_130"
       img: "keystone_testimonial_wsmkr8.png"
       desc: "Keystone SDA logo"
   quote: |
@@ -9,8 +10,9 @@ companies:
     Projekt mit unseren Inhalten unterstützen."
   quotee: "Sandro Mühlebach, Head of Content Development"
   company: "Keystone SDA"
-- logo:
-    - h: h_130
+- alias: "mirroco"
+  logo:
+    - h: "h_130"
       img: "mirroco-testimonial_xf1zz3.png"
       desc: "Mirroco AG logo"
   quote: |

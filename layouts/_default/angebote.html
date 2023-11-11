@@ -4,7 +4,7 @@
 
 	{{ partial "spenden-cta.html" . }}
 
-	{{ partial "testimonials.html" . }}
+	{{ partial "testimonials.html" (dict "attr" . "alias" "keystone") }}
 
 	<section class="abonnemente">
 		<h1 class="heading heading__content--primary">Abonnemente</h1>
@@ -61,6 +61,8 @@
 			allenfalls zusätzliche Ausgaben getätigt werden. Herzlichen Dank!
 		</p>
 	</section>
+
+	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
 	<section class="visible">
 		<h1 class="heading heading__content--primary">Visible Learning</h1>
