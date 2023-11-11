@@ -1,23 +1,23 @@
-<div class="cta">
-	<div class="testimonial">
-		<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_130,q_auto:good/logos/keystone_testimonial_wsmkr8.png 511w"
-		sizes="(min-width: 767px) 35vw, 65vw"
-		src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/keystone_testimonial_wsmkr8.png"
-		alt="logo"
-		class="testimonial__logo">
-		<div class="testimonial__chunk">
-			<span class="testimonial__double-quote">
-				{{ partial "svgs/quote.html" }}
-			</span>
-			<div class="testimonial__quote">
-				Das Konzept der Chinderzytig überzeugt uns. Medienkompetenz für Kinder und
-				Jugendliche ist elementar. Wir freuen uns deshalb sehr, dürfen wir das
-				Projekt mit unseren Inhalten unterstützen.
+{{ $t := sort .Site.Data.partials.testimonial.companies }}
+
+{{ range where $t "company" "Keystone SDA" }}
+	<div class="cta">
+		<div class="testimonial">
+			{{ range .logo }}
+				<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,{{ .h }},q_auto:good/logos/{{ .img }} 511w"
+				sizes="(min-width: 767px) 35vw, 65vw"
+				src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }}"
+				alt="{{ .desc }}"
+				class="testimonial__logo">
+			{{ end }}
+			<div class="testimonial__chunk">
+				<span class="testimonial__double-quote">
+					{{ partial "svgs/quote.html" }}
+				</span>
+				<div class="testimonial__quote">{{ .quote }}</div>
+				<div class="testimonial__quotee">{{ .quotee }}</div>
+				<div class="testimonial__company">{{ .company }}</div>
 			</div>
-			<div class="testimonial__quotee">
-				Sandro Mühlebach, Head of Content Development
-			</div>
-			<div class="testimonial__company">Keystone SDA</div>
 		</div>
 	</div>
-</div>
+{{ end }}
