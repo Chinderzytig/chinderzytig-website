@@ -29,6 +29,18 @@
 
 	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
+	<div class="cta cta--platL">
+		<h2 class="deading deading--black">Angebote und Preise</h2>
+		{{ partial "pricing.html" (dict "attr" . "kind" "visible") }}
+		<p class="pricing__fineprint">
+			Sämtliche Chinderzytig-Inhalte sind verfügbar (primär Fachbereich NMG
+			und Deutsch) und fürs Visible Learning nach LP21 aufbereitet. Preise
+			für Schulen beinhalten CHF 300.- Hazu Lizenz sowie CHF 500.- mirroco-Tools.
+			Preise verstehen sich exkl. MwSt. Bei mirroco-chinderzytig professional
+			ab 15 Klassen Preis auf Anfrage.
+		</p>
+	</div>
+
 	<section class="visible">
 		<h1 class="heading heading__content--primary">Visible Learning</h1>
 		<h4 class="heading heading__content--quaternary">
@@ -94,38 +106,6 @@
 			individuelle Kompetenzentwicklung sichtbar zu machen. Alles aus einer Hand
 			und praxisnah.
 		</p>
-
-		<section class="visible__pricing">
-			<h2 class="heading heading__content--secondary">Angebote und Preise</h2>
-			<p class="visible__text">
-				"Visible Learning" mit der Chinderzytig und mirroco - mit
-				Datenhaltung in der Schweiz
-			</p>
-			<div class="pricing__info">
-				{{ range .Site.Data.pages.visible.pricing }}
-					<div class="pricing__product">
-						<div class="pricing__name">{{ .name }}</div>
-						<div class="pricing__type">{{ .type }}</div>
-						<ul class="pricing__offersheet">
-							{{ range .offersheet }}
-							<li class="pricing__inclusion">{{ .inclusion }}</li>
-							{{ end }}
-						</ul>
-						<div class="pricing__amount">
-							<div class="pricing__number">{{ .number }}</div>
-							<div class="pricing__target">{{ .target }}</div>
-						</div>
-					</div>
-				{{ end }}
-			</div>
-			<p class="pricing__fineprint">
-				Sämtliche Chinderzytig-Inhalte sind verfügbar (primär Fachbereich NMG
-				und Deutsch) und fürs Visible Learning nach LP21 aufbereitet. Preise
-				für Schulen beinhalten CHF 300.- Hazu Lizenz sowie CHF 500.- mirroco-Tools.
-				Preise verstehen sich exkl. MwSt. Bei mirroco-chinderzytig professional
-				ab 15 Klassen Preis auf Anfrage.
-			</p>
-		</section>
 
 		<a href="https://www.mirroco.ch/register" target="_blank" class="btn btn--visible">Registrieren/zum Testabo</a>
 	</section>

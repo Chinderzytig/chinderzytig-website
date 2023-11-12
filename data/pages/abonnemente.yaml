@@ -45,6 +45,44 @@ list:
   hyper:
     - link: "#visible-learning"
       label: "Mehr erfahren"
+- kind: "visible"
+  name: "mirroco-Chinderzytig home"
+  type: "Für Homeschooler"
+  offersheet:
+    - inclusion: "Familienlösung individualisiert für jedes Kind"
+    - inclusion: "Kompetenzeinschätzung und Lernbericht für Schulinspektorat"
+    - inclusion: "Integration Lehrplan 21 für Homeschooling"
+    - inclusion: "Zugang 6 Phasenmodell der Kompetenzentwicklung"
+    - inclusion: "Online-Schulung (Video) individualisierte Auswertung"
+  number: "CHF 250.-"
+  target: "ab zwei Kindern Preisreduktion"
+- kind: "visible"
+  name: "mirroco-Chinderzytig basic Schulen"
+  type: "Für die Auswertung von aktuellen Unterrichtseinheiten"
+  offersheet:
+    - inclusion: "Digitale Themenvorbereitung und Arbeitsorganisation"
+    - inclusion: "Zugang Lehrplan 21 Hazu-Map"
+    - inclusion: "Visible Learning Prozess als Basis für die Auswertung von Kompetenzen im Unterricht"
+    - inclusion: "Vorlagen Lernbericht"
+    - inclusion: "Online Einführung (Video)"
+  number: "CHF 570.-"
+  target: "pro Klasse und Jahr"
+- kind: "visible"
+  name: "mirroco-Chinderzytig professional Schulen"
+  type: "Für die Gestaltung und Auswertung eines individualisierten Unterrichts"
+  offersheet:
+    - inclusion: "Alles aus mirroco-Chinderzytig basic Schulen"
+    - inclusion: |
+        Individuelle Auswertung der "Blumengrafik"
+    - inclusion: "Kompetenzentwicklung LP 21"
+    - inclusion: "Zugang 6 Phasenmodell der Kompetenzentwicklung"
+    - inclusion: "Zugang individuelle Lerndokumentation je Schüler"
+    - inclusion: "Vorlagen"
+    - inclusion: "Beispiele Lernberichte"
+    - inclusion: "Online-Schulung (Video) individualisierte Auswertung"
+    - inclusion: "Umfassende Möglichkeiten zum Ausbau der Software im Hinblick auf die Schulorganisation"
+  number: "CHF 970.-"
+  target: "pro Klasse und Jahr"
 
 
 breakdown:
