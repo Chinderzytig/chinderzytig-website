@@ -1,0 +1,39 @@
+{{ $page := .attr }}
+{{ $k := .kind }}
+{{ $s := sort $page.Site.Data.pages.abonnemente.list }}
+
+<div class="pricing">
+	<div class="pricing__info">
+		{{ range where $s "kind" $k }}
+			<div class="pricing__product">
+				<div class="pricing__name">{{ .name }}</div>
+				<div class="pricing__type">{{ .type }}</div>
+				<ul class="pricing__offersheet">
+					{{ range .offersheet }}
+						<li class="pricing__inclusion">{{ .inclusion }}</li>
+					{{ end }}
+				</ul>
+				<div class="pricing__amount">
+					<div class="pricing__number">{{ .number }}</div>
+					<div class="pricing__target">{{ .target }}</div>
+				</div>
+				{{ range .btn }}
+					<button class="mtn mtn--jonquil mtn__pricing snipcart-add-item"
+						data-item-id="{{ .id }}"
+						data-item-price="{{ .price }}"
+						data-item-url="{{ $page.RelPermalink }}"
+						data-item-description="Einzelteilnehmer: Perfekt für Privatpersonen oder Lehrpersonen. Andere Teilnehmer: Perfekt für Schulen, Institutionen, und Firmen."
+						data-item-image="{{ $page.Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png"
+						data-item-name="{{ .item_name }}"
+						data-item-custom1-name="Abonnementtyp"
+						data-item-custom1-options="{{ .custom_options }}">
+							{{ .label }}
+					</button>
+				{{ end }}
+				{{ range .hyper }}
+					<a href="{{ .link }}" class="mtn mtn--jonquil mtn__pricing mtn__pricing-narrow">{{ .label }}</a>
+				{{ end }}
+			</div>
+		{{ end }}
+	</div>
+</div>

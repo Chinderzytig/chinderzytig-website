@@ -6,43 +6,9 @@
 
 	{{ partial "testimonials.html" (dict "attr" . "alias" "keystone") }}
 
-	<section class="cta cta--orR">
+	<div class="cta cta--orR">
 		<h2 class="deading deading--white">Abonnemente</h2>
-		<div class="pricing">
-			<div class="pricing__info">
-				{{ range .Site.Data.pages.abonnemente.pricing }}
-					<div class="pricing__product">
-						<div class="pricing__name">{{ .name }}</div>
-						<div class="pricing__type">{{ .type }}</div>
-						<ul class="pricing__offersheet">
-							{{ range .offersheet }}
-								<li class="pricing__inclusion">{{ .inclusion }}</li>
-							{{ end }}
-						</ul>
-						<div class="pricing__amount">
-							<div class="pricing__number">{{ .number }}</div>
-							<div class="pricing__target">{{ .target }}</div>
-						</div>
-						{{ range .btn }}
-							<button class="mtn mtn--jonquil mtn__pricing snipcart-add-item"
-								data-item-id="{{ .id }}"
-								data-item-price="{{ .price }}"
-								data-item-url="{{ $.RelPermalink }}"
-								data-item-description="Einzelteilnehmer: Perfekt für Privatpersonen oder Lehrpersonen. Andere Teilnehmer: Perfekt für Schulen, Institutionen, und Firmen."
-								data-item-image="{{ $.Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png"
-								data-item-name="{{ .item_name }}"
-								data-item-custom1-name="Abonnementtyp"
-								data-item-custom1-options="{{ .custom_options }}">
-									{{ .label }}
-							</button>
-						{{ end }}
-						{{ range .hyper }}
-							<a href="{{ .link }}" class="mtn mtn--jonquil mtn__pricing mtn__pricing-narrow">{{ .label }}</a>
-						{{ end }}
-					</div>
-				{{ end }}
-			</div>
-		</div>
+		{{ partial "pricing.html" (dict "attr" . "kind" "standard") }}
 		<p class="pricing__fineprint">
 			<span class="pricing__fineprint--bold">Produktinfo:</span> Hochwertige
 			Artikel nach 4-Augen-Prinzip durch Journalisten, Kommunikationsspezialisten
@@ -59,7 +25,7 @@
 			dass, im Fall der Weiterleitung, an unsere Finanzen gedacht wird und
 			allenfalls zusätzliche Ausgaben getätigt werden. Herzlichen Dank!
 		</p>
-	</section>
+	</div>
 
 	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
