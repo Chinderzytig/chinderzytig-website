@@ -74,16 +74,19 @@
 	&__fineprint {
 		font-size: 1.3rem;
 		background-color: $white;
-		box-shadow: 0.8rem 0.8rem $chestnut;
 		text-align: justify;
 		padding: 1rem;
 		margin: 3rem 0;
 
-		&--bold {
+		&--chestnut { @extend .pricing__product--chestnut; }
+
+		&--silver { @extend .pricing__product--silver; }
+
+		&--heading {
 			color: $color-white;
 			font-weight: 500;
-			background-color: $chestnut;
 			padding: .1rem;
+			@extend .pricing__name--chestnut;
 		}
 	}
 }

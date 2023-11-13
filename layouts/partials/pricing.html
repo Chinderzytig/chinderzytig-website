@@ -2,6 +2,7 @@
 {{ $color := .color }}
 {{ $k := .kind }}
 {{ $s := sort $page.Site.Data.pages.abonnemente.list }}
+{{ $p := sort $page.Site.Data.pages.abonnemente.print }}
 
 <div class="pricing">
 	<div class="pricing__info">
@@ -42,3 +43,12 @@
 		{{ end }}
 	</div>
 </div>
+
+<p class="pricing__fineprint pricing__fineprint--{{ $color }}">
+	{{ range where $p "kind" $k }}
+		{{ if .heading }}
+			<span class="pricing__fineprint--heading">{{ .heading }}</span>
+		{{ end }}
+		{{ .text }}
+	{{ end }}
+</p>
