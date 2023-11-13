@@ -9,7 +9,6 @@
 
 	&__product {
 		background-color: $white;
-		box-shadow: 0.8rem 0.8rem $chestnut;
 		flex: 0 0 30%;
 		display: flex;
 		flex-direction: column;
@@ -20,16 +19,23 @@
 
 			&:not(:last-child) { margin-bottom: 3rem; }
 		}
+
+		&--chestnut { box-shadow: 0.8rem 0.8rem $chestnut; }
+
+		&--silver { box-shadow: 0.8rem 0.8rem $silver; }
 	}
 
 	&__name {
 		color: $white;
-		background-color: $chestnut;
 		align-self: flex-start;
 		font-size: 1.3rem;
 		font-weight: 500;
 		padding: 1rem;
 		margin: -1rem 0 0 -1rem;
+
+		&--chestnut { background-color: $chestnut; }
+
+		&--silver { background-color: $silver; }
 	}
 
 	&__type,

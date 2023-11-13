@@ -1,12 +1,13 @@
 {{ $page := .attr }}
+{{ $color := .color }}
 {{ $k := .kind }}
 {{ $s := sort $page.Site.Data.pages.abonnemente.list }}
 
 <div class="pricing">
 	<div class="pricing__info">
 		{{ range where $s "kind" $k }}
-			<div class="pricing__product">
-				<div class="pricing__name">{{ .name }}</div>
+			<div class="pricing__product pricing__product--{{ $color }}">
+				<div class="pricing__name pricing__name--{{ $color }}">{{ .name }}</div>
 				<div class="pricing__type">{{ .type }}</div>
 				<ul class="pricing__offersheet">
 					{{ range .offersheet }}
