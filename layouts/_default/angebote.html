@@ -6,17 +6,11 @@
 
 	{{ partial "testimonials.html" (dict "attr" . "alias" "keystone") }}
 
-	<div class="cta cta--orR">
-		<h2 class="deading deading--white">Standard-Abonnements</h2>
-		{{ partial "pricing.html" (dict "attr" . "kind" "standard" "color" "chestnut") }}
-	</div>
+	{{ partial "pricing.html" (dict "attr" . "cta" "orR" "color" "white" "title" "Standard-Abonnements" "kind" "standard" "accent" "chestnut") }}
 
 	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
-	<div class="cta cta--platL">
-		<h2 class="deading deading--black">Visible Learning-Abonnements</h2>
-		{{ partial "pricing.html" (dict "attr" . "kind" "visible" "color" "silver") }}
-	</div>
+	{{ partial "pricing.html" (dict "attr" . "cta" "platL" "color" "black" "title" "Visible Learning-Abonnements" "kind" "visible" "accent" "silver") }}
 
 	<section class="visible">
 		<h1 class="heading heading__content--primary">Visible Learning</h1>
