@@ -51,10 +51,17 @@
 
 	<p class="pricing__fineprint pricing__fineprint--{{ $accent }}">
 		{{ range where $p "kind" $k }}
-		{{ if .heading }}
-		<span class="pricing__fineprint--heading">{{ .heading }}</span>
-		{{ end }}
-		{{ .text }}
+			{{ if .heading }}
+				<span class="pricing__fineprint--heading">{{ .heading }}</span>
+			{{ end }}
+			{{ .text }}
 		{{ end }}
 	</p>
+
+	{{ if eq $k "visible"}}
+		<a href="https://www.mirroco.ch/register" target="_blank" class="mtn mtn__long mtn--jonquil">
+			<span>Registrieren/zum Testabo</span>
+			{{ partial "svgs/arrow-right.html" }}
+		</a>
+	{{ end }}
 </div>
