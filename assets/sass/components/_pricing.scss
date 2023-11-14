@@ -2,27 +2,36 @@
 
 	&__info {
 		display: flex;
-		justify-content: space-between;
 
 		@include respond(tab-port-lg) { flex-direction: column; }
+
+		&-standard { justify-content: center; }
+
+		&-visible { justify-content: space-between; }
 	}
 
 	&__product {
 		background-color: $white;
-		flex: 0 0 30%;
 		display: flex;
 		flex-direction: column;
 		align-items: center;
 		padding: 1rem 1rem 2.5rem 1rem;
 
-		@include respond(tab-port-lg) {
+		@include respond(tab-port-lg) { &:not(:last-child) { margin-bottom: 3rem; } }
 
-			&:not(:last-child) { margin-bottom: 3rem; }
+		&--chestnut {
+			flex: 0 0 45%;
+			box-shadow: 0.8rem 0.8rem $chestnut;
+
+			&:not(:last-child) { margin-right: $margin-m; }
+
+			@include respond(tab-port-lg) { &:not(:last-child) { margin-right: 0; } }
 		}
 
-		&--chestnut { box-shadow: 0.8rem 0.8rem $chestnut; }
-
-		&--silver { box-shadow: 0.8rem 0.8rem $silver; }
+		&--silver {
+			flex: 0 0 30%;
+			box-shadow: 0.8rem 0.8rem $silver;
+		}
 	}
 
 	&__name {

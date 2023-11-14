@@ -10,7 +10,7 @@
 <div class="cta cta--{{ $cta }}">
 	<h2 class="deading deading--{{ $color }}">{{ $title }}</h2>
 	<div class="pricing">
-		<div class="pricing__info">
+		<div class="pricing__info pricing__info-{{ $k }}">
 			{{ range where $s "kind" $k }}
 					<div class="pricing__product pricing__product--{{ $accent }}">
 						<div class="pricing__name pricing__name--{{ $accent }}">{{ .name }}</div>
