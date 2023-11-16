@@ -158,6 +158,7 @@
 	&__spenden {
 		font-size: $font-default;
 		width: 45%;
+		justify-content: center;
 
 		&:nth-child(n+3) { margin-top: $margin-s; }
 
@@ -193,9 +194,9 @@
 		font-size: 1.8rem;
 		width: 90%;
 		margin-top: $margin-s;
+		justify-content: center;
 
 		&-narrow {
-			text-align: center;
 			padding: .8rem
 		}
 	}
