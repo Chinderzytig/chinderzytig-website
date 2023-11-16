@@ -122,16 +122,15 @@
 	background-color: $white;
 	cursor: pointer;
 	padding: 1.5rem;
+	display: flex;
 
 	&:hover { transform: translateY(-1rem); }
 
 	&:active { transform: translateY(.5rem); }
 
-	&__long {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-	}
+	&__space { justify-content: space-between; }
+
+	&__center { justify-content: center; }
 
 	&__group {
 		margin-top: $margin-s;
@@ -139,7 +138,12 @@
 		&:not(:last-child) { margin-right: $margin-s; }
 	}
 
-	&__label { margin-right: 1rem; }
+	&__label {
+
+		&--thema { margin-right: 1rem; }
+
+		&--visible-pricing { margin-right: $margin-s; }
+	}
 
 	&__svg { height: 2.4rem; }
 
