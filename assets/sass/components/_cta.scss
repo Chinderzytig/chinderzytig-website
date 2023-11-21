@@ -1,21 +1,18 @@
 .cta {
 	padding: 5rem 3rem;
 
-	&__article {
-		padding: 3rem 3rem 3.8rem 3rem;
-		margin: $margin-s 0;
+	&__text {
+		width: 45%;
+
+		@include respond(phone-land-lg) { width: 100%; }
 	}
 
-	&__flex-arnd {
-		display: flex;
-		justify-content: space-around;
-		flex-wrap: wrap;
-	}
+	&__chunk {
+		text-align: justify;
 
-	&__info {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
+		&-spenden { margin-bottom: $margin-s; }
+
+		&--white { color: $white; }
 	}
 
 	&__svg {
@@ -43,18 +40,24 @@
 		}
 	}
 
-	&__text {
-		width: 45%;
-
-		@include respond(phone-land-lg) { width: 100%; }
+	&__article {
+		padding: 3rem 3rem 3.8rem 3rem;
+		margin: $margin-s 0;
 	}
 
-	&__chunk {
-		text-align: justify;
-		margin-bottom: $margin-s;
-
-		&--white { color: $white; }
+	&__flex-arnd {
+		display: flex;
+		justify-content: space-around;
+		flex-wrap: wrap;
 	}
+
+	&__info {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&__sub { padding-top: 0; }
 
 	&--verL { @include cta-type($verdigris, left, $celadon); }
 	&--verR { @include cta-type($verdigris, right, $celadon); }

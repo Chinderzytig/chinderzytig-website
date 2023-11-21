@@ -1,0 +1,28 @@
+.testimonial {
+	position: relative;
+	text-align: center;
+	height: 20rem;
+
+	@include respond(phone-xxl) { height: 25rem; }
+
+	&__logo {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -40%)
+	}
+
+	&__chunk {
+		width: 100%;
+		position: absolute;
+		top: 50%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	}
+
+	&__quote {
+		font-style: italic;
+	}
+
+	&__company { font-weight: bold; }
+}

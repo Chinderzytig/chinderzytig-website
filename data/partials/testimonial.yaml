@@ -1,0 +1,23 @@
+companies:
+- alias: "keystone"
+  logo:
+    - h: "h_130"
+      img: "keystone_testimonial_wsmkr8.png"
+      desc: "Keystone SDA logo"
+  quote: |
+    "Das Konzept der Chinderzytig überzeugt uns. Medienkompetenz für Kinder und
+    Jugendliche ist elementar. Wir freuen uns deshalb sehr, dürfen wir das
+    Projekt mit unseren Inhalten unterstützen."
+  quotee: "Sandro Mühlebach, Head of Content Development"
+  company: "Keystone SDA"
+- alias: "mirroco"
+  logo:
+    - h: "h_130"
+      img: "mirroco_testimonial_lv0o5f.png"
+      desc: "Mirroco AG logo"
+  quote: |
+    "Ich bin ein grosser Fan der Chinderzytig! Sie bringt die Welt auf fesselnde
+    Weise zu den Kindern und weckt mit fundiertem Wissen die Neugier der Kinder
+    für komplexere Zusammenhänge. Danke für euer wunderbares Engagement. Ich empfehle euch mit Freude weiter!"
+  quotee: "Paula Duwan, Founderin"
+  company: "Mirroco AG"

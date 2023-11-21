@@ -1,47 +1,75 @@
-pricing:
-  - name: "Ohne Arbeitsmaterial"
-    type: "Chinderzytig Wissen"
-    offersheet:
-      - inclusion: "Wöchentlich direkt in Ihre Mailbox"
-      - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
-      - inclusion: "1 Fokus der Woche zu einem aktuellen und brandheissen Thema"
-    number: "ab CHF 40.-"
-    target: "pro Schuljahr"
-    btn:
-      - id: "ohne-arbeitsmaterial"
-        price: "40.00"
-        item_name: "Jahresabonnement Artikel ohne Arbeitsmaterial"
-        custom_options: "Einzelteilnehmer|Andere Teilnehmer[+100.00]"
-        label: "Auswählen"
-  - name: "Mit Arbeitsmaterial"
-    type: "Chinderzytig Wissen +"
-    offersheet:
-      - inclusion: "Wöchentlich direkt in Ihre Mailbox"
-      - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
-      - inclusion: "1 Fokus der Woche zu einem aktuellen und brandheissen Thema"
-      - inclusion: |
-          1-2 Arbeitsmaterialien mit unterschiedlichen Niveaus, passend zu den
-          Artikeln als PDF-Dokumente
-    number: "ab CHF 60.-"
-    target: "pro Schuljahr"
-    btn:
-      - id: "mit-arbeitsmaterial"
-        price: "60.00"
-        item_name: "Jahresabonnement Artikel mit Arbeitsmaterial"
-        custom_options: "Einzelteilnehmer|Andere Teilnehmer[+220.00]"
-        label: "Auswählen"
-  - name: "mirroco-Chinderzytig"
-    type: "Visible Learning"
-    offersheet:
-      - inclusion: "Das Lernen mit der Chinderzytig sichtbar machen"
-      - inclusion: "Alle Inhalte gekoppelt an Kompetenzen des Lehrplan 21"
-      - inclusion: "Lernberichte und Kompetenzprofile erstellbar"
-      - inclusion: "aufbereitet mit der Softwarelösung von mirroco & Hazu"
-    number: "ab CHF 250.-"
-    target: "für Homeschooler und Schuler"
-    hyper:
-      - link: "#visible-learning"
-        label: "Mehr erfahren"
+list:
+- kind: "standard"
+  name: "Ohne Arbeitsmaterial"
+  type: "Chinderzytig Wissen"
+  offersheet:
+    - inclusion: "Wöchentlich direkt in Ihre Mailbox"
+    - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
+    - inclusion: "1 Fokus der Woche zu einem aktuellen und brandheissen Thema"
+  number: "ab CHF 40.-"
+  target: "pro Schuljahr"
+  btn:
+    - id: "ohne-arbeitsmaterial"
+      price: "40.00"
+      item_name: "Jahresabonnement Artikel ohne Arbeitsmaterial"
+      custom_options: "Einzelteilnehmer|Andere Teilnehmer[+100.00]"
+      label: "Auswählen"
+- kind: "standard"
+  name: "Mit Arbeitsmaterial"
+  type: "Chinderzytig Wissen +"
+  offersheet:
+    - inclusion: "Wöchentlich direkt in Ihre Mailbox"
+    - inclusion: "2 Artikel zum allgemeinen Weltgeschehen"
+    - inclusion: "1 Fokus der Woche zu einem aktuellen und brandheissen Thema"
+    - inclusion: |
+        1-2 Arbeitsmaterialien mit unterschiedlichen Niveaus, passend zu den
+        Artikeln als PDF-Dokumente
+  number: "ab CHF 60.-"
+  target: "pro Schuljahr"
+  btn:
+    - id: "mit-arbeitsmaterial"
+      price: "60.00"
+      item_name: "Jahresabonnement Artikel mit Arbeitsmaterial"
+      custom_options: "Einzelteilnehmer|Andere Teilnehmer[+220.00]"
+      label: "Auswählen"
+- kind: "visible"
+  name: "mirroco-Chinderzytig home"
+  type: "Für Homeschooler"
+  offersheet:
+    - inclusion: "Familienlösung individualisiert für jedes Kind"
+    - inclusion: "Kompetenzeinschätzung und Lernbericht für Schulinspektorat"
+    - inclusion: "Integration Lehrplan 21 für Homeschooling"
+    - inclusion: "Zugang 6 Phasenmodell der Kompetenzentwicklung"
+    - inclusion: "Online-Schulung (Video) individualisierte Auswertung"
+  number: "CHF 250.-"
+  target: "ab zwei Kindern Preisreduktion"
+- kind: "visible"
+  name: "mirroco-Chinderzytig basic Schulen"
+  type: "Für die Auswertung von aktuellen Unterrichtseinheiten"
+  offersheet:
+    - inclusion: "Digitale Themenvorbereitung und Arbeitsorganisation"
+    - inclusion: "Zugang Lehrplan 21 Hazu-Map"
+    - inclusion: "Visible Learning Prozess als Basis für die Auswertung von Kompetenzen im Unterricht"
+    - inclusion: "Vorlagen Lernbericht"
+    - inclusion: "Online Einführung (Video)"
+  number: "CHF 570.-"
+  target: "pro Klasse und Jahr"
+- kind: "visible"
+  name: "mirroco-Chinderzytig professional Schulen"
+  type: "Für die Gestaltung und Auswertung eines individualisierten Unterrichts"
+  offersheet:
+    - inclusion: "Alles aus mirroco-Chinderzytig basic Schulen"
+    - inclusion: |
+        Individuelle Auswertung der "Blumengrafik"
+    - inclusion: "Kompetenzentwicklung LP 21"
+    - inclusion: "Zugang 6 Phasenmodell der Kompetenzentwicklung"
+    - inclusion: "Zugang individuelle Lerndokumentation je Schüler"
+    - inclusion: "Vorlagen"
+    - inclusion: "Beispiele Lernberichte"
+    - inclusion: "Online-Schulung (Video) individualisierte Auswertung"
+    - inclusion: "Umfassende Möglichkeiten zum Ausbau der Software im Hinblick auf die Schulorganisation"
+  number: "CHF 970.-"
+  target: "pro Klasse und Jahr"
 
 
 breakdown:
@@ -77,22 +105,32 @@ breakdown:
         custom_options: "Einzelteilnehmer|Andere Teilnehmer[+220.00]"
 
 print:
-  - heading: Produktinfo
-    text: |
-      Hochwertige Artikel nach 4-Augen-Prinzip durch Journalisten,
-      Kommunikationsspezialisten und Pädagogen geprüft. Die Arbeitsmaterialien
-      entstehen durch erfahrene Lehrpersonen und Unterstützung durch die PHBern.
-      So wird der Qualitätsstandard gewährleistet.
-  - heading: Rückgabebedinungen
-    text: |
-      Keine Rückgabe notwendig. Allerdings sind wir froh, wenn wir Feedback
-      erhalten - Lob oder Verbesserungsvorschläge sind erwünscht! Wir
-      versuchen, für das Wohl der Kinder und Jugendlichen zu arbeiten, so
-      teilen Sie uns bitte mit, was fehlt oder anders gemacht werden sollte.
-  - heading: Versandinfo
-    text: |
-      Wir senden die Artikel an Ihre Email-Adressen. Die Dokumente sind
-      unverschlüsselt. Da wir als kleiner Verein auf Ehrlichkeit angewiesen
-      sind, vertrauen wir Ihnen, dass, im Fall der Weiterleitung, an unsere
-      Finanzen gedacht wird und allenfalls zusätzliche Ausgaben getätigt
-      werden. Herzlichen Dank!
+- kind: "standard"
+  heading: "Produktinfo"
+  text: |
+    Hochwertige Artikel nach 4-Augen-Prinzip durch Journalisten,
+    Kommunikationsspezialisten und Pädagogen geprüft. Die Arbeitsmaterialien
+    entstehen durch erfahrene Lehrpersonen und Unterstützung durch die PHBern.
+    So wird der Qualitätsstandard gewährleistet.
+- kind: "standard"
+  heading: "Rückgabebedinungen"
+  text: |
+    Keine Rückgabe notwendig. Allerdings sind wir froh, wenn wir Feedback
+    erhalten - Lob oder Verbesserungsvorschläge sind erwünscht! Wir
+    versuchen, für das Wohl der Kinder und Jugendlichen zu arbeiten, so
+    teilen Sie uns bitte mit, was fehlt oder anders gemacht werden sollte.
+- kind: "standard"
+  heading: "Versandinfo"
+  text: |
+    Wir senden die Artikel an Ihre Email-Adressen. Die Dokumente sind
+    unverschlüsselt. Da wir als kleiner Verein auf Ehrlichkeit angewiesen
+    sind, vertrauen wir Ihnen, dass, im Fall der Weiterleitung, an unsere
+    Finanzen gedacht wird und allenfalls zusätzliche Ausgaben getätigt
+    werden. Herzlichen Dank!
+- kind: "visible"
+  text: |
+    Sämtliche Chinderzytig-Inhalte sind verfügbar (primär Fachbereich NMG
+    und Deutsch) und fürs Visible Learning nach LP21 aufbereitet. Preise
+    für Schulen beinhalten CHF 300.- Hazu Lizenz sowie CHF 500.- mirroco-Tools.
+    Preise verstehen sich exkl. MwSt. Bei mirroco-chinderzytig professional
+    ab 15 Klassen Preis auf Anfrage.

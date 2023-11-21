@@ -1,0 +1,25 @@
+{{ $page := .attr }}
+{{ $a := .alias }}
+{{ $t := sort $page.Site.Data.partials.testimonial.companies }}
+
+{{ range where $t "alias" $a }}
+	<div class="cta">
+		<div class="testimonial">
+			{{ range .logo }}
+				<img srcset="{{ $page.Site.Params.cloudinary_url }}/f_auto,{{ .h }},q_auto:good/logos/{{ .img }} 511w"
+				sizes="(min-width: 767px) 35vw, 65vw"
+				src="{{ $page.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }}"
+				alt="{{ .desc }}"
+				class="testimonial__logo">
+			{{ end }}
+			<div class="testimonial__chunk">
+				<span class="testimonial__double-quote">
+					{{ partial "svgs/quote.html" }}
+				</span>
+				<div class="testimonial__quote">{{ .quote }}</div>
+				<div class="testimonial__quotee">{{ .quotee }}</div>
+				<div class="testimonial__company">{{ .company }}</div>
+			</div>
+		</div>
+	</div>
+{{ end }}

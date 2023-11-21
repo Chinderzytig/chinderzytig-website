@@ -1,163 +1,17 @@
-{{define "main"}}
+{{ define "main" }}
 
 	{{ partial "einfach-verpackt.html" }}
 
 	{{ partial "spenden-cta.html" . }}
 
-	<section class="abonnemente">
-		<h1 class="heading heading__content--primary">Abonnemente</h1>
-		<h4 class="heading heading__content--quaternary">Wir bieten Wissen - einfach verpackt</h4>
-		<div class="abonnemente__pricing">
-			<div class="pricing__info">
-				{{ range .Site.Data.pages.abonnemente.pricing }}
-					<div class="pricing__product">
-						<div class="pricing__name">{{ .name }}</div>
-						<div class="pricing__type">{{ .type }}</div>
-						<ul class="pricing__offersheet">
-							{{ range .offersheet }}
-								<li class="pricing__inclusion">{{ .inclusion }}</li>
-							{{ end }}
-						</ul>
-						<div class="pricing__amount">
-							<div class="pricing__number">{{ .number }}</div>
-							<div class="pricing__target">{{ .target }}</div>
-						</div>
-						{{ range .btn }}
-							<button class="btn btn--pricing pricing__button snipcart-add-item"
-								data-item-id="{{ .id }}"
-								data-item-price="{{ .price }}"
-								data-item-url="{{ $.RelPermalink }}"
-								data-item-description="Einzelteilnehmer: Perfekt für Privatpersonen oder Lehrpersonen. Andere Teilnehmer: Perfekt für Schulen, Institutionen, und Firmen."
-								data-item-image="{{ $.Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png"
-								data-item-name="{{ .item_name }}"
-								data-item-custom1-name="Abonnementtyp"
-								data-item-custom1-options="{{ .custom_options }}">
-									{{ .label }}
-							</button>
-						{{ end }}
-						{{ range .hyper }}
-							<a href="{{ .link }}" class="btn btn--pricing btn--pricing-narrow pricing__button">{{ .label }}</a>
-						{{ end }}
-					</div>
-				{{ end }}
-			</div>
-		</div>
-		<p class="pricing__fineprint">
-			<span class="pricing__fineprint--bold">Produktinfo:</span> Hochwertige
-			Artikel nach 4-Augen-Prinzip durch Journalisten, Kommunikationsspezialisten
-			und Pädagogen geprüft. Die Arbeitsmaterialien entstehen durch erfahrene
-			Lehrpersonen und Unterstützung durch die PHBern. So wird der Qualitätsstandard
-			gewährleistet. <span class="pricing__fineprint--bold">Rückgabebedinungen:</span>
-			Keine Rückgabe notwendig. Allerdings sind wir froh, wenn wir Feedback
-			erhalten - Lob oder Verbesserungsvorschläge sind erwünscht! Wir versuchen,
-			für das Wohl der Kinder und Jugendlichen zu arbeiten, so teilen Sie uns
-			bitte mit, was fehlt oder anders gemacht werden sollte.
-			<span class="pricing__fineprint--bold">Versandinfo:</span> Wir senden die
-			Artikel an Ihre Email-Adressen. Die Dokumente sind unverschlüsselt. Da wir
-			als kleiner Verein auf Ehrlichkeit angewiesen sind, vertrauen wir Ihnen,
-			dass, im Fall der Weiterleitung, an unsere Finanzen gedacht wird und
-			allenfalls zusätzliche Ausgaben getätigt werden. Herzlichen Dank!
-		</p>
-	</section>
+	{{ partial "testimonials.html" (dict "attr" . "alias" "keystone") }}
 
-	<section class="visible">
-		<h1 class="heading heading__content--primary">Visible Learning</h1>
-		<h4 class="heading heading__content--quaternary">
-			Lernprozesse im Kontext des Lehrplan 21 sichtbar machen
-		</h4>
+	{{ partial "pricing.html" (dict "attr" . "cta" "orR" "color" "white" "title" "Standard-Abonnements" "kind" "standard" "accent" "chestnut") }}
 
-		<p class="visible__text visible__feature">
-			Ein starkes Trio für das Visible Learning: Die Chinderzytig bietet Inhalt
-			und arbeitet mit mirroco zusammen - der Schweizer Softwarelösung für
-			"Visible Learning" - mit Datenhaltung in der Schweiz - powered by Hazu.
-		</p>
+	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
-		<p class="visible__text">
-			Individuelle Lernbegleitung ist der Schlüssel für stärkende Bildung.
-			Visible Learning von mirroco ermöglicht die Kompetenzentwicklung der
-			Lernenden im Hinblick auf den Lehrplan 21 sichtbar zu machen und mit
-			Weitsicht zu begleiten.
-		</p>
+	{{ partial "pricing.html" (dict "attr" . "cta" "platL" "color" "black" "title" "Visible Learning-Abonnements" "kind" "visible" "accent" "silver") }}
 
-		<h2 class="heading heading__content--secondary">
-			Visible Learning Prozess - In 5 Schritten bist Du bereits am Ziel
-		</h2>
+	{{ partial "visible-info.html" . }}
 
-		<div class="visible__img-container">
-			<img srcset="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:best,w_320/graphics/visible-learning-schritte_oa0oh2.png 320w,
-			{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:best,w_414/graphics/visible-learning-schritte_oa0oh2.png 414w,
-			{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:best,w_512/graphics/visible-learning-schritte_oa0oh2.png 512w,
-			{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:best,w_600/graphics/visible-learning-schritte_oa0oh2.png 600w"
-			sizes="(min-width: 800px) 800px, 100vw"
-			src="{{ .Site.Params.cloudinary_url }}/c_scale,q_auto:best,w_800/graphics/visible-learning-schritte_oa0oh2.png"
-			alt="Visible learning schritte graphic"
-			class="visible__img">
-		</div>
-
-		<p class="visible__text">
-			Der gesamte Inhalt der Chinderzytig ist mit den Kompetenzen des Lehrplan 21
-			verknüpft und durch die Software aufbereitet. So wird das Lesen und Lernen
-			mit unseren Themen optimal dargestellt und das Lernen mit uns sichtbar
-			gemacht. Schätze die Entwicklung der Lernenden mit dem 6 Phasenmodell
-			fundiert ein und lass Dir auswerten, welche Kompetenzen die Lernenden mit
-			den Lernaktivitäten erschlossen haben und welche noch fehlen. mirroco
-			erstellt Dir aufgrund dieser Daten auf Knopfdruck einen aussagekräftigen
-			Lernbericht, den Du als Dialoginstrument für alle Beteiligten nutzen kannst.
-		</p>
-
-		<h2 class="heading heading__content--secondary">Hazu - die intuitive Cloud-Plattform</h2>
-
-		<p class="visible__text">
-			mirroco "Visible Learning" nutzt <a href="https://hazu.swiss/hazu" target="_blank" class="link--general">Hazu</a>
-			als Basis um "Visible Learning" in Schulen einführen zu können und
-			gleichzeitig den Schulalltag zu vereinfachen, sowie neue Formen der
-			Interaktionen unter Lernenden, Eltern und Lehrpersonen zu ermöglichen.
-		</p>
-
-		<h2 class="heading heading__content--secondary">Chinderzytig & mirroco</h2>
-
-		<p class="visible__text">
-			mirroco und die Chinderzytig - eine besondere Geschichte! Unsere fundierten
-			Inhalte für Kinder und Jugendliche, welche der Meinungsbildung, der
-			politischen Bildung und der nachhaltigen Entwicklung dienen, sind nun mit
-			dem Lehrplan 21 verknüpft. mirroco ermöglicht es die Inhalte mit den
-			Kompetenzen des Lehrplan 21 zu koppeln und aus dem Lernprozess heraus die
-			individuelle Kompetenzentwicklung sichtbar zu machen. Alles aus einer Hand
-			und praxisnah.
-		</p>
-
-		<section class="visible__pricing">
-			<h2 class="heading heading__content--secondary">Angebote und Preise</h2>
-			<p class="visible__text">
-				"Visible Learning" mit der Chinderzytig und mirroco - mit
-				Datenhaltung in der Schweiz
-			</p>
-			<div class="pricing__info">
-				{{ range .Site.Data.pages.visible.pricing }}
-					<div class="pricing__product">
-						<div class="pricing__name">{{ .name }}</div>
-						<div class="pricing__type">{{ .type }}</div>
-						<ul class="pricing__offersheet">
-							{{ range .offersheet }}
-							<li class="pricing__inclusion">{{ .inclusion }}</li>
-							{{ end }}
-						</ul>
-						<div class="pricing__amount">
-							<div class="pricing__number">{{ .number }}</div>
-							<div class="pricing__target">{{ .target }}</div>
-						</div>
-					</div>
-				{{ end }}
-			</div>
-			<p class="pricing__fineprint">
-				Sämtliche Chinderzytig-Inhalte sind verfügbar (primär Fachbereich NMG
-				und Deutsch) und fürs Visible Learning nach LP21 aufbereitet. Preise
-				für Schulen beinhalten CHF 300.- Hazu Lizenz sowie CHF 500.- mirroco-Tools.
-				Preise verstehen sich exkl. MwSt. Bei mirroco-chinderzytig professional
-				ab 15 Klassen Preis auf Anfrage.
-			</p>
-		</section>
-
-		<a href="https://www.mirroco.ch/register" target="_blank" class="btn btn--visible">Registrieren/zum Testabo</a>
-	</section>
-{{end}}
+{{ end }}

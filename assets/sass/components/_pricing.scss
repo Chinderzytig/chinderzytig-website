@@ -2,32 +2,49 @@
 
 	&__info {
 		display: flex;
-		justify-content: space-between;
 
 		@include respond(tab-port-lg) { flex-direction: column; }
+
+		&-standard { justify-content: center; }
+
+		&-visible { justify-content: space-between; }
 	}
 
 	&__product {
-		flex: 0 0 30%;
+		background-color: $white;
 		display: flex;
 		flex-direction: column;
-		border: 2px solid $chinder-platinum;
-		padding: 1rem;
+		align-items: center;
+		padding: 1rem 1rem 2.5rem 1rem;
 
-		@include respond(tab-port-lg) {
+		@include respond(tab-port-lg) { &:not(:last-child) { margin-bottom: 3rem; } }
 
-			&:not(:last-child) { margin-bottom: 3rem; }
+		&--chestnut {
+			flex: 0 0 45%;
+			box-shadow: 0.8rem 0.8rem $chestnut;
+
+			&:not(:last-child) { margin-right: $margin-m; }
+
+			@include respond(tab-port-lg) { &:not(:last-child) { margin-right: 0; } }
+		}
+
+		&--silver {
+			flex: 0 0 30%;
+			box-shadow: 0.8rem 0.8rem $silver;
 		}
 	}
 
 	&__name {
+		color: $white;
 		align-self: flex-start;
 		font-size: 1.3rem;
-		color: $chinder-celadon;
 		font-weight: 500;
-		background-color: $cta-azure;
 		padding: 1rem;
 		margin: -1rem 0 0 -1rem;
+
+		&--chestnut { background-color: $chestnut; }
+
+		&--silver { background-color: $silver; }
 	}
 
 	&__type,
@@ -65,15 +82,20 @@
 
 	&__fineprint {
 		font-size: 1.3rem;
-		color: $social-base;
+		background-color: $white;
 		text-align: justify;
-		margin: 1rem 0 3rem 0;
+		padding: 1rem;
+		margin: 3rem 0;
 
-		&--bold {
+		&--chestnut { @extend .pricing__product--chestnut; }
+
+		&--silver { @extend .pricing__product--silver; }
+
+		&--heading {
 			color: $color-white;
 			font-weight: 500;
-			background-color: $social-base;
-			padding: .2rem;
+			padding: .1rem;
+			@extend .pricing__name--chestnut;
 		}
 	}
 }
