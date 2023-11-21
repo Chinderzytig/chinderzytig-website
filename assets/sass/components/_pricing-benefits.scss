@@ -1,4 +1,14 @@
 .pricing-benefits {
 	background-color: $white;
-	margin-top: $margin-s;
+	box-shadow: .8rem .8rem $celadon;
+	width: 75%;
+
+	margin: 3rem auto 0 auto;
+	border-collapse: collapse;
+
+	td, th {
+	  border: 1px solid $celadon;
+	  text-align: left;
+	  padding: 1rem;
+	}
 }
