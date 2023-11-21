@@ -9,8 +9,9 @@
 
 	&__chunk {
 		text-align: justify;
+		margin-bottom: $margin-s;
 
-		&-spenden { margin-bottom: $margin-s; }
+		&-btnless { margin-bottom: 0; }
 
 		&--white { color: $white; }
 	}
