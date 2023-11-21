@@ -10,6 +10,8 @@
 	&__chunk {
 		text-align: justify;
 
+		&-spenden { margin-bottom: $margin-s; }
+
 		&--white { color: $white; }
 	}
 
