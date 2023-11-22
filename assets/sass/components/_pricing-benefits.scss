@@ -1,10 +1,12 @@
 .pricing-benefits {
 	background-color: $white;
 	box-shadow: .8rem .8rem $celadon;
-	width: 75%;
+	width: 100%;
 
 	margin: 3rem auto 0 auto;
 	border-collapse: collapse;
+
+	td { width: 50%; }
 
 	td, th {
 	  border: 1px solid $celadon;
