@@ -49,4 +49,4 @@ Heute ist elektrisches Licht bei uns überall mit einem Klick verfügbar. Forsch
 
 Licht vertreibt nicht nur die Dunkelheit. Es hilft auch in der Medizin. Patienten mit Schmerzen lassen sich zum Beispiel von Infrarotlampen bestrahlen. Diese senden ein spezielles, wärmendes Licht aus, das tief in die Haut und die darunter liegenden Muskeln eindringt. Dort sorgt es für Entspannung, fördert die Durchblutung und lindert Schmerzen. Zudem hebt Licht die Laune. Mediziner haben herausgefunden, dass der Körper in der dunklen Jahreszeit mehr Melatonin produziert, einen Botenstoff, der uns müde macht. Deshalb ist es während der dunklen Jahreszeit umso wichtiger, dass wir genug Sonnenlicht tanken, um die Müdigkeit zu umgehen.
 
- {{< arbeitsmaterial >}}
+{{< arbeitsmaterial >}}
