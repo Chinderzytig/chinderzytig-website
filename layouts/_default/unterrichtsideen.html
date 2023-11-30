@@ -1,62 +1,29 @@
 {{ define "main" }}
-<section class="document__container">
-	<div class="kommt-zu">
-		<h1 class="heading heading__content--primary">Unterrichtsideen</h1>
-		<h4 class="heading heading__content--quaternary">Chinderzytig kommt zu euch</h4>
+{{ partial "kommt-zu-euch.html" }}
 
-		<p class="visible__text">
-			Die Chinderzytig eignet sich ideal für die Anwendung im Unterricht. Ob
-			mittels unserer zur Verfügung gestellten Arbeitsmaterialien, anhand von
-			hier ersichtlichen Unterrichtsbeispielen oder in Form einer von uns
-			durchgeführten Schuleinheit: Vieles ist möglich!
-		</p>
+{{ partial "pdf-display.html"
+	(dict
+		"attr" .
+		"cta" "verL"
+		"color" "white"
+		"accent" "celadon"
+		"heading" "Mögliche Umsetzungsideen"
+		"data" .Site.Data.pages.unterrichtsideen.projekte
+	)
+}}
 
-		<h2 class="heading heading__content--secondary">Mögliche Umsetzungsideen</h2>
+{{ partial "possibilities.html" }}
 
-		<div class="card__container card__container-list">
-			{{ range .Site.Data.pages.unterrichtsideen.projekte }}
-				<div class="document__card">
-					<h3 class="document__card-title">{{ .title }}</h3>
-					<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="document__card--unterrichtsideen">
-						<img src="{{ $.Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .document }}.png" alt="Schuleprojekte cover" class="document-sc__file">
-					</a>
-				</div>
-			{{ end }}
-		</div>
-
-		<h2 class="heading heading__content--secondary">Beispiele aus dem Alltag</h2>
-		<div class="card__container card__container-list">
-			{{ range .Site.Data.pages.unterrichtsideen.zeitungen }}
-				<div class="document__card">
-					<h3 class="document__card-title">{{ .title }}</h3>
-					<a href="{{ $.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="document__card--unterrichtsideen">
-						<img src="{{ $.Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .document }}.png" alt="Schuleprojekte cover" class="document-sc__file">
-					</a>
-				</div>
-			{{ end }}
-		</div>
-
-		<p class="visible__text heading--margin-top">
-			Uns kann man für Unterrichtsideen aufbieten. Wir kommen gerne vorbei und
-			realisieren mit der Klasse Inputs zu folgenden möglichen Themen:
-		</p>
-		<ul class="visible__list">
-			<li class="visible__item">Beginn des Schulprojekts «Schülerzeitung»</li>
-			<li class="visible__item">Entwicklung einer Zeitung</li>
-			<li class="visible__item">Medienkunde / From good news to fake news</li>
-			<li class="visible__item">Projektentwicklung: Von der Idee zur Umsetzung</li>
-		</ul>
-		<p class="visible__text">
-			Der Möglichkeiten gibt es viele, gerne setzen wir individuelle Ideen um.
-			Melden Sie sich durch unser <a href="/kontakt" class="link--general">Kontaktformular</a>, um Ihre Ideen zu besprechen
-			und umzusetzen.
-		</p>
-
-		<p class="visible__text">
-			<span class="visible__text--bold">Aufwand:</span> ab 2 Lektionen ist alles denk- und machbar<br>
-			<span class="visible__text--bold">Kosten:</span> der Richtwert ist CHF 350.- für 3 Lektionen
-		</p>
-	</div>
+{{ partial "pdf-display.html"
+	(dict
+		"attr" .
+		"cta" "orR"
+		"color" "white"
+		"accent" "chestnut"
+		"heading" "Beispiele aus dem Alltag"
+		"data" .Site.Data.pages.unterrichtsideen.zeitungen
+	)
+}}
 
 	<div class="implementation">
 		<h2 class="heading heading__content--secondary">
