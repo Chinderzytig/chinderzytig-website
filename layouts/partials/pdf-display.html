@@ -1,0 +1,12 @@
+<div class="cta cta--verL">
+	<h2 class="deading deading__list deading--white">Mögliche Umsetzungsideen</h2>
+	<div class="card__container card__container-list">
+		{{ range .Site.Data.pages.unterrichtsideen.projekte }}
+			<a href="{{ $.Site.Params.cloudinary_url }}/{ .document }}.pdf" target="_blank" class="card card__external card--celadon">
+				<div class="card__img-container">
+					<img src="{{ $.Site.Params.cloudinary_url }}/h_200,c_scale,q_auto:best/{{ .document }}.png" alt="Schuleprojekte cover" class="card__external-img">
+				</div>
+			</a>
+		{{ end }}
+	</div>
+</div>

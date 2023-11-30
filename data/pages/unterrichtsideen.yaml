@@ -1,16 +1,10 @@
 projekte:
-  - title: "Planung Schulprojekt Chinderzytig-Vortrag"
-    document: "Schulprojekt_Chinderzytig-Vortrag_wc86bw"
-  - title: "NMG-Projekt mit Chinderzytig eine Unterrichtseinheit für die Mittelstufe"
-    document: "ngm-mit-chinderzytig_tcztwu"
-  - title: "Ich bin JournalistIn!"
-    document: "Schulprojekt_Ich_bin_JournalistIn_poj8hb"
-  - title: "Ausstellung"
-    document: "Schulprojekt_Ausstellung_wvtjx4"
-  - title: "Arena"
-    document: "Schulprojekt_Arena_qm3myi"
-  - title: "Podiumsdiskussion"
-    document: "Schulprojekt_Podiumsdiskussion_xlcglm"
+  - document: "Schulprojekt_Chinderzytig-Vortrag_wc86bw"
+  - document: "ngm-mit-chinderzytig_tcztwu"
+  - document: "Schulprojekt_Ich_bin_JournalistIn_poj8hb"
+  - document: "Schulprojekt_Ausstellung_wvtjx4"
+  - document: "Schulprojekt_Arena_qm3myi"
+  - document: "Schulprojekt_Podiumsdiskussion_xlcglm"
 
 zeitungen:
   - title: "Schüler:innenzeitung 4-6b Herrenschwanden"

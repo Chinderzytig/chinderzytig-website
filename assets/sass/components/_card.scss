@@ -122,8 +122,9 @@
 		}
 	}
 
-	&__arbeitsmaterial {
+	&__external {
 		height: 20rem;
+		margin-top: $margin-s;
 
 		&-img { height: 20rem; }
 	}
@@ -142,11 +143,6 @@
 		&-list {
 			justify-content: space-between;
 			flex-wrap: wrap;
-
-			@include respond(tab-port-sm) {
-				flex-direction: column;
-				align-items: center;
-			}
 		}
 
 		&-single { justify-content: center; }
