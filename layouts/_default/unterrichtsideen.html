@@ -1,7 +1,16 @@
 {{ define "main" }}
 {{ partial "kommt-zu-euch.html" }}
 
-{{ partial "pdf-display.html" . }}
+{{ partial "pdf-display.html"
+	(dict
+		"attr" .
+		"cta" "verL"
+		"color" "white"
+		"accent" "celadon"
+		"heading" "Mögliche Umsetzungsideen"
+		"data" .Site.Data.pages.unterrichtsideen.projekte
+	)
+}}
 
 {{ partial "possibilities.html" }}
 <section class="document__container">
