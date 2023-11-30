@@ -13,6 +13,17 @@
 }}
 
 {{ partial "possibilities.html" }}
+
+{{ partial "pdf-display.html"
+	(dict
+		"attr" .
+		"cta" "orR"
+		"color" "white"
+		"accent" "chestnut"
+		"heading" "Beispiele aus dem Alltag"
+		"data" .Site.Data.pages.unterrichtsideen.zeitungen
+	)
+}}
 <section class="document__container">
 	<div class="kommt-zu">
 		<h1 class="heading heading__content--primary">Unterrichtsideen</h1>
