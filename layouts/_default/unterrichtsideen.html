@@ -1,31 +1,31 @@
 {{ define "main" }}
-{{ partial "kommt-zu-euch.html" }}
+	{{ partial "kommt-zu-euch.html" }}
 
-{{ partial "pdf-display.html"
-	(dict
-		"attr" .
-		"cta" "verL"
-		"color" "white"
-		"accent" "celadon"
-		"heading" "Mögliche Umsetzungsideen"
-		"data" .Site.Data.pages.unterrichtsideen.projekte
-	)
-}}
+	{{ partial "possibilities.html" }}
 
-{{ partial "possibilities.html" }}
+	{{ partial "pdf-display.html"
+		(dict
+			"attr" .
+			"cta" "verL"
+			"color" "white"
+			"accent" "celadon"
+			"heading" "Mögliche Umsetzungsideen"
+			"data" .Site.Data.pages.unterrichtsideen.projekte
+		)
+	}}
 
-{{ partial "pdf-display.html"
-	(dict
-		"attr" .
-		"cta" "orR"
-		"color" "white"
-		"accent" "chestnut"
-		"heading" "Beispiele aus dem Alltag"
-		"data" .Site.Data.pages.unterrichtsideen.zeitungen
-	)
-}}
+	{{ partial "pdf-display.html"
+		(dict
+			"attr" .
+			"cta" "orR"
+			"color" "white"
+			"accent" "chestnut"
+			"heading" "Beispiele aus dem Alltag"
+			"data" .Site.Data.pages.unterrichtsideen.zeitungen
+		)
+	}}
 
-{{ partial "proposition-cta.html" }}
+	{{ partial "proposition-cta.html" }}
 
 	<div class="implementation">
 		<h2 class="heading heading__content--secondary">
