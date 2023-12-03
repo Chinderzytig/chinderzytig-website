@@ -2,7 +2,6 @@
 	background-color: $white;
 	box-shadow: .8rem .8rem $silver;
 	width: 100%;
-	// margin: 3rem auto 0 auto;
 	border-collapse: collapse;
 
 	td, th {
@@ -11,9 +10,19 @@
 	  padding: 1rem;
 	}
 
-	&__clear {
-		background-color: $platinum;
-		border-left: 1px solid $platinum;
-		border-top: 1px solid $platinum;
+	&__superscript { font-weight: normal; }
+
+	&__fineprint {
+		font-size: 1.3rem;
+		background-color: $white;
+		box-shadow: .8rem .8rem $silver;
+		padding: 1rem;
+
+		&-number {
+			color: $white;
+			padding: 0 .5rem 0 .5rem;
+		}
 	}
+
+	&--silver { background-color: $silver; }
 }
