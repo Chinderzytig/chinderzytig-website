@@ -10,7 +10,15 @@
 	  padding: 1rem;
 	}
 
+	td.implementation__check { text-align: center;}
+
 	&__superscript { font-weight: normal; }
+
+	&__check {
+		color: $orange;
+		font-size: 2.5rem;
+		font-weight: bold;
+	}
 
 	&__fineprint {
 		font-size: 1.3rem;
