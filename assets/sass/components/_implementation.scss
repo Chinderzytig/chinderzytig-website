@@ -1,0 +1,61 @@
+.implementation {
+	background-color: $white;
+	box-shadow: .8rem .8rem $silver;
+	width: 100%;
+	border-collapse: collapse;
+
+	@include respond(phone-lg) {
+		display: block;
+		overflow-x: auto;
+	}
+
+	td, th {
+	  border: 1px solid $silver;
+	  text-align: left;
+	  padding: 1rem;
+	}
+
+	td.implementation__check { text-align: center;}
+
+	&__superscript { font-weight: normal; }
+
+	&__check {
+		color: $orange;
+		font-size: 2.5rem;
+		font-weight: bold;
+	}
+
+	&__scroll {
+		justify-content: center;
+		align-items: center;
+		margin-bottom: $margin-s;
+		display: none;
+
+		@include respond(phone-lg) { display: flex; }
+
+		&-label {
+			background-color: $jonquil;
+			width: 40%;
+			padding: .5rem;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		&-text { margin-right: .5rem; }
+	}
+
+	&__fineprint {
+		font-size: 1.3rem;
+		background-color: $white;
+		box-shadow: .8rem .8rem $silver;
+		padding: 1rem;
+
+		&-number {
+			color: $white;
+			padding: 0 .5rem 0 .5rem;
+		}
+	}
+
+	&--silver { background-color: $silver; }
+}
