@@ -4,6 +4,11 @@
 	width: 100%;
 	border-collapse: collapse;
 
+	@include respond(phone-lg) {
+		display: block;
+		overflow-x: auto;
+	}
+
 	td, th {
 	  border: 1px solid $silver;
 	  text-align: left;
@@ -18,6 +23,26 @@
 		color: $orange;
 		font-size: 2.5rem;
 		font-weight: bold;
+	}
+
+	&__scroll {
+		justify-content: center;
+		align-items: center;
+		margin-bottom: $margin-s;
+		display: none;
+
+		@include respond(phone-lg) { display: flex; }
+
+		&-label {
+			background-color: $jonquil;
+			width: 40%;
+			padding: .5rem;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		&-text { margin-right: .5rem; }
 	}
 
 	&__fineprint {
