@@ -5,6 +5,12 @@
 		width: 45%;
 
 		@include respond(phone-land-lg) { width: 100%; }
+
+		&-questions {
+			display: flex;
+			flex-direction: column;
+			justify-content: space-around;
+		}
 	}
 
 	&__chunk {
@@ -21,10 +27,7 @@
 		display: flex;
 		justify-content: center;
 
-		@include respond(tab-port-xl){
-			width: 55%;
-			justify-content: flex-end;
-		}
+		@include respond(tab-port-xl){ width: 55%; }
 
 		@include respond(phone-land-lg) { display: none; }
 
@@ -45,7 +48,6 @@
 				justify-content: flex-end;
 			}
 		}
-
 	}
 
 	&__article {
@@ -63,6 +65,11 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+	}
+
+	&__questions {
+		display: flex;
+		justify-content: space-between;
 	}
 
 	&__sub { padding-top: 0; }
