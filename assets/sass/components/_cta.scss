@@ -28,17 +28,24 @@
 
 		@include respond(phone-land-lg) { display: none; }
 
+		&-flex-start {
+			@include respond(tab-port-xl){
+				justify-content: flex-start;
+			}
+		}
+
+		&-flex-center {
+			@include respond(tab-port-xl){
+				justify-content: center;
+			}
+		}
+
 		&-flex-end {
 			@include respond(tab-port-xl){
 				justify-content: flex-end;
 			}
 		}
 
-		&-flex-start {
-			@include respond(tab-port-xl){
-				justify-content: flex-start;
-			}
-		}
 	}
 
 	&__article {
