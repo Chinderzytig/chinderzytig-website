@@ -6,7 +6,7 @@
 
 		@include respond(phone-land-lg) { width: 100%; }
 
-		&-questions {
+		&-less {
 			display: flex;
 			flex-direction: column;
 			justify-content: space-around;
@@ -68,8 +68,8 @@
 	}
 
 	&__questions {
-		display: flex;
-		justify-content: space-between;
+		@extend .cta__info;
+		align-items: stretch;
 	}
 
 	&__sub { padding-top: 0; }
