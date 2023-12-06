@@ -16,7 +16,7 @@ kfk = false
 markierungen = ["Natur"]
 paid = false
 slug = ""
-title = "Wölfe in der Schweiz - Freunde der Natur oder Bedrohung für die Bauern?"
+title = "Wölfe in der Schweiz - Freunde der Natur oder Bedrohung für die Bäuerinnen und Bauern?"
 +++
 
 _Immer mehr Wölfe streifen durch die Schweiz, und das sorgt für Diskussionen. Einige finden die Wölfe faszinierend, andere machen sich Sorgen um ihre Nutztiere. Schauen wir uns an, was gerade los ist!_
@@ -47,7 +47,7 @@ Die Wölfe sind natürliche Waldhüter. Indem sie die Population von Wildtieren 
 
 ### Wie schützen die Menschen ihre Tiere vor den Wölfen?
 
-Trotz der positiven Auswirkungen im Wald gibt es auch Herausforderungen. Manche Wölfe greifen Nutztiere an, vor allem Schafe und Ziegen. Das zwingt die Bauern dazu, Massnahmen zu ergreifen, um ihre Tiere zu schützen. Herdenschutzhunde und elektrische Zäune sind dabei besonders effektiv.
+Trotz der positiven Auswirkungen im Wald gibt es auch Herausforderungen. Manche Wölfe greifen Nutztiere an, vor allem Schafe und Ziegen. Das zwingt die Bäuerinnen und Bauern dazu, Massnahmen zu ergreifen, um ihre Tiere zu schützen. Herdenschutzhunde und elektrische Zäune sind dabei besonders effektiv.
 
 ### Warum dürfen Wölfe manchmal abgeschossen werden?
 
