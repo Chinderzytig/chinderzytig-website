@@ -1,37 +1,13 @@
 .kontakt {
-
-	&__heading {
-		margin-bottom: 0;
-		align-self: center;
-
-		@include respond(phone-md-lg) { margin-bottom: 1rem; }
-
-		&-container {
-			@extend .heading__secondary;
-			padding: 1rem 0 1rem 1rem;
-			display: flex;
-			justify-content: space-between;
-			margin-bottom: $margin-s;
-
-			@include respond(phone-md-lg) { flex-direction: column; }
-		}
-	}
-
-	&__intro { margin-bottom: $margin-s; }
+	display: flex;
+	justify-content: center;
 
 	&__form {
 		width: 80rem;
-		padding: 3rem;
-		background-color: $chinder-cultured;
 		display: flex;
 		flex-direction: column;
 
 		@include respond(tab-port-sm) { padding: 1.5rem; }
-
-		&-container {
-			display: flex;
-			justify-content: center;
-		}
 
 		&-group { margin-bottom: 1rem; }
 
@@ -45,43 +21,48 @@
 
 		input,
 		textarea {
-			border: 2px solid $social-base;
 			border-radius: 0;
+			-webkit-appearance: none;
+			border: 2px solid $celadon;
+			box-shadow: 0.7rem 0.7rem $celadon;
+			-webkit-box-shadow: 0.7rem 0.7rem $celadon;
 
-			&:focus {
-				outline: none;
-				border: 2px solid $chinder-verdigris;
-			}
+			&:focus { outline: none; }
 		}
 
 		&-checkbox {
+			background-color: $white;
+			box-shadow: 0.7rem 0.7rem $celadon;
+			padding: 1rem;
+			display: flex;
+			justify-content: space-around;
+			align-items: baseline;
 
-			label { margin-left: .5rem; }
+			label { width: 90%; }
 
 			input[type=checkbox]::-ms-check { display: none; }
 
 			input[type=checkbox] {
 				outline: none;
+				box-shadow: none;
 				-webkit-appearance: none;
 				-moz-appearance: none;
 				appearance: none;
-
 			  height: 16px;
 			  width: 16px;
-			  border: 2px solid $social-base;
+			  border: 2px solid $celadon;
 				border-radius: 0;
 			  background-color: white;
 			  cursor: pointer;
 				transition: all 0.2s;
 
-				&:focus { border: 2px solid $chinder-verdigris; }
+				&:focus { outline: none; }
 			}
 
 			input[type=checkbox]:checked {
 				content: "";
 			    height: 13px;
 			    width: 19px;
-					background-color: $chinder-cultured;
 			    border-left: 4px solid $chinder-orange;
 			    border-bottom: 4px solid $chinder-orange;
 					border-right: 2px solid transparent;
@@ -101,8 +82,9 @@
 	}
 
 	&__label {
+		color: $white;
 		font-size: 1.2rem;
-		margin-left: 1.2rem;
+		margin: .8rem 0 0 1.2rem;
 		display: block;
 		transition: all .3s;
 	}
