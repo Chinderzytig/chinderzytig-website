@@ -21,9 +21,7 @@ title = "Das Schweizer Parlament - Teil 2"
 
 _Zu den Aufgaben des Schweizer Parlaments bestehend aus National- und Ständerat gehört die Wahl des Bundesrates und der Erlass neuer Gesetze und Verordnungen, sofern nötig. Daneben hat die Bundesversammlung auch eine Kontrollfunktion über die Geschäfte des Bundesrates._
 
-{{< important-points >}} 
-
-
+{{< important-points >}}
 
 <ul>
 
@@ -43,7 +41,7 @@ Die Bundesversammlung bringt jährlich ungefähr 1600 sogenannte Vorstösse herv
 
 ### Vorstösse aus der Schweizer Bevölkerung
 
-Die Schweizer Bevölkerung hat die Möglichkeit, sich in die Geschäfte der nationalen Bundesversammlung einzubringen. Das heisst, ab 18 Jahren, haben alle Schweizer*innen die Möglichkeit, eine Volksinitiative zu lancieren. Dazu müssen während 18 Monaten 10‘000 Unterschriften gesammelt werden. Wenn dies gelingt, kann der Bundesversammlung die Initiative überreicht werden. In der Initiative wird eine Änderung in der Bundesverfassung beantragt. Diese wird dann in der Bundesversammlung geprüft und dann stimmt die ganze stimmberechtigte Bevölkerung darüber ab.
+Die Schweizer Bevölkerung hat die Möglichkeit, sich in die Geschäfte der nationalen Bundesversammlung einzubringen. Das heisst, ab 18 Jahren, haben alle Schweizer*innen die Möglichkeit, eine Volksinitiative zu lancieren. Dazu müssen während 18 Monaten 100‘000 Unterschriften gesammelt werden. Wenn dies gelingt, kann der Bundesversammlung die Initiative überreicht werden. In der Initiative wird eine Änderung in der Bundesverfassung beantragt. Diese wird dann in der Bundesversammlung geprüft und dann stimmt die ganze stimmberechtigte Bevölkerung darüber ab.
 
 ### Wahl des Bundesrats
 
