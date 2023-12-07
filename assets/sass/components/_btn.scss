@@ -201,6 +201,12 @@
 		}
 	}
 
+	&__kontakt {
+		font-size: $font-default;
+		align-self: flex-start;
+
+	}
+
 	&__footer {
 		color: $platinum;
 		-webkit-appearance: none;
