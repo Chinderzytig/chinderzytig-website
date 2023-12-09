@@ -17,6 +17,12 @@
 			align-items: center;
 		}
 
+		&--column {
+			flex-direction: column-reverse;
+			align-items: center;
+			justify-content: center;
+		}
+
 		&--card-list {
 			justify-content: space-between;
 			flex-wrap: wrap;
@@ -32,6 +38,11 @@
 		width: 55%;
 
 		@include respond(phone-land-lg) { width: 100%; }
+
+		&--column {
+			width: 75%;
+			margin-top: $margin-s;
+		}
 	}
 
 	&__text {
@@ -47,7 +58,7 @@
 		width: 45%;
 		display: flex;
 
-		@include respond(phone-land-lg) { display: none; }
+		&--display-none { @include respond(phone-land-lg) { display: none; } }
 
 		&--flex-center { justify-content: center; }
 
