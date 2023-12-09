@@ -127,6 +127,8 @@
 		margin-top: $margin-s;
 
 		&-img { height: 20rem; }
+
+		&--buffer { height: 0; }
 	}
 
 	&__topic {

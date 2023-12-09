@@ -1,30 +1,32 @@
-<div class="cta cta__info">
-	<div class="cta__text">
-		<h2 class="deading deading__cta deading--black">
-			Einfacher als Sie denken
-		</h2>
-		<div class="cta__prop">
-			<div class="cta__prop-group">
-				<span class="cta__prop-num">3</span>
-				<span class="cta__prop-label">Lektionen</span>
+<div class="cta">
+	<div class="cta__container cta__container--standard">
+		<div class="cta__info">
+			<h2 class="deading deading__cta deading--black">
+				Einfacher als Sie denken
+			</h2>
+			<div class="cta__price">
+				<div class="cta__price-group">
+					<span class="cta__price-num">3</span>
+					<span class="cta__price-label">Lektionen</span>
+				</div>
+				<span class="cta__price-num">=</span>
+				<div class="cta__price-group">
+					<span class="cta__price-num">350</span>
+					<span class="cta__price-label">CHF</span>
+				</div>
 			</div>
-			<span class="cta__prop-num">=</span>
-			<div class="cta__prop-group">
-				<span class="cta__prop-num">350</span>
-				<span class="cta__prop-label">CHF</span>
-			</div>
+			<p class="cta__text">
+				Ab 3 Lektionen ist alles denk- und machbar und gerne setzen wir
+				individuelle Ideen um. Melden Sie sich durch unser Kontaktformular, um
+				Ihre Ideen zu besprechen und umzusetzen.
+			</p>
+			<a href="/kontakt" class="mtn mtn__space mtn--jonquil">
+				<span>Kontaktieren Sie uns</span>
+				{{ partial "svgs/arrow-right.html" }}
+			</a>
 		</div>
-		<p class="cta__chunk">
-			Ab 3 Lektionen ist alles denk- und machbar und gerne setzen wir
-			individuelle Ideen um. Melden Sie sich durch unser Kontaktformular, um
-			Ihre Ideen zu besprechen und umzusetzen.
-		</p>
-		<a href="/kontakt" class="mtn mtn__space mtn--jonquil">
-			<span>Kontaktieren Sie uns</span>
-			{{ partial "svgs/arrow-right.html" }}
-		</a>
-	</div>
-	<div class="cta__svg cta__svg-flex-end">
-		{{ partial "svgs/teacher.html" }}
+		<div class="cta__svg cta__svg--flex-end">
+			{{ partial "svgs/teacher.html" }}
+		</div>
 	</div>
 </div>

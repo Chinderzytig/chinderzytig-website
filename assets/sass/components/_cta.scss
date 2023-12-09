@@ -47,12 +47,6 @@
 		&--btnless { margin-bottom: 0; }
 
 		&--white { color: $white; }
-
-		&-less {
-			display: flex;
-			flex-direction: column;
-			justify-content: space-around;
-		}
 	}
 
 	&__svg {
@@ -60,6 +54,10 @@
 		display: flex;
 
 		@include respond(phone-land-lg) { display: none; }
+
+		&--flex-center { justify-content: center; }
+
+		&--flex-start { justify-content: flex-start; }
 
 		&--flex-end { justify-content: flex-end; }
 
@@ -89,14 +87,9 @@
 		margin: $margin-s 0;
 	}
 
-	&__questions {
-		// @extend .cta__info;
-		align-items: stretch;
-	}
-
 	&__sub { padding-top: 0; }
 
-	&__prop {
+	&__price {
 		color: $white;
 		background-color: $verdigris;
 		box-shadow: 0.8rem 0.8rem $celadon;
