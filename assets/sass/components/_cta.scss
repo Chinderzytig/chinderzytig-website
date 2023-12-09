@@ -52,11 +52,15 @@
 		&--btnless { margin-bottom: 0; }
 
 		&--white { color: $white; }
+
+		&--column { text-align: center; }
 	}
 
 	&__svg {
 		width: 45%;
 		display: flex;
+
+		&--column { width: 60%; }
 
 		&--display-none { @include respond(phone-land-lg) { display: none; } }
 
