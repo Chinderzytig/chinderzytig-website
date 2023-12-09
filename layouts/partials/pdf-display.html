@@ -3,7 +3,7 @@
 
 <div class="cta cta--{{ .cta }}">
 	<h2 class="deading deading__list deading--{{ .color }}">{{ .heading }}</h2>
-	<div class="card__container card__container-list">
+	<div class="cta__container cta__container--taxonomy">
 		{{ range .data }}
 			<a href="{{ $page.Site.Params.cloudinary_url }}/{{ .document }}.pdf" target="_blank" class="card card__external card--{{ $accent }}">
 				<div class="card__img-container">

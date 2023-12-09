@@ -59,7 +59,11 @@
 		text-align: center;
 	}
 
-	&__offersheet { padding-left: 2rem; }
+	&__offersheet {
+		align-self: flex-start;
+		padding-left: 2rem;
+		margin: 0 2rem 0 2rem;
+	}
 
 	&__amount {
 		margin-top: 2rem;

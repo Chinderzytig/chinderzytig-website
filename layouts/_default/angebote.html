@@ -1,16 +1,16 @@
 {{ define "main" }}
 
-	{{ partial "einfach-verpackt.html" }}
+	{{ partial "simply-packaged.html" }}
 
-	{{ partial "spenden-cta.html" . }}
+	{{ partial "donation-cta.html" . }}
 
 	{{ partial "testimonials.html" (dict "attr" . "alias" "keystone") }}
 
-	{{ partial "pricing.html" (dict "attr" . "cta" "orR" "color" "white" "title" "Standard-Abonnements" "kind" "standard" "accent" "chestnut") }}
+	{{ partial "pricing.html" (dict "attr" . "cta" "orange" "color" "white" "title" "Standard-Abonnements" "kind" "standard" "accent" "chestnut") }}
 
 	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
-	{{ partial "pricing.html" (dict "attr" . "cta" "platL" "color" "black" "title" "Visible Learning-Abonnements" "kind" "visible" "accent" "silver") }}
+	{{ partial "pricing.html" (dict "attr" . "cta" "platinum" "color" "black" "title" "Visible Learning-Abonnements" "kind" "visible" "accent" "silver") }}
 
 	{{ partial "visible-info.html" . }}
 

@@ -1,6 +1,6 @@
-<div class="cta cta--orR">
-	<h2 class="deading deading__-list deading--white">Neuste KfK Artikel</h2>
-	<div class="card__container card__container-list">
+<div class="cta cta--orange">
+	<h2 class="deading deading--white">Neuste KfK Artikel</h2>
+	<div class="cta__container cta__container--card-list">
 		{{ $set5 := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 		{{ $set6 := where .Site.Pages ".Params.kfk" true }}
 		{{ $kfk := $set5 | intersect $set6 }}

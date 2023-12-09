@@ -27,8 +27,6 @@
 
 	&__history-btn { align-self: center; }
 
-	&__media { @include cta-color($cta-azure); }
-
 	&__btns {
 
 		&-group {
@@ -58,7 +56,6 @@
 	}
 
 	&__thanks {
-		@include cta-color($chinder-cultured);
 		margin-bottom: 0;
 
 		&-container { padding: 0 3rem; }

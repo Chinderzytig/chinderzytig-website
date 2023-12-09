@@ -13,13 +13,13 @@
 		@include respond(phone-xl) { display: none; }
 	}
 
-	&__klassenzimmer { width: 200%; }
+	&__klassenzimmer { width: 100%; }
 
 	&__support { width: 60%; }
 
 	&__spenden { width: 75%; }
 
-	&__superhero { width: 50%; }
+	&__superhero { width: 45%; }
 
 	&__lernpfad { width: 90%; }
 
@@ -31,11 +31,13 @@
 
 	&__teacher { width: 80%; }
 
-	&__winner { width: 50%; }
+	&__winner { width: 40%; }
 
 	&__thinking { width: 70%; }
 
-	&__nachricht { width: 80%; }
+	&__nachricht { width: 90%; }
+
+	&__books { width: 100%; }
 
 	&__social {
 		stroke: $platinum;

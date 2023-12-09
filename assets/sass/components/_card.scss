@@ -127,6 +127,8 @@
 		margin-top: $margin-s;
 
 		&-img { height: 20rem; }
+
+		&--buffer { height: 0; }
 	}
 
 	&__topic {
@@ -135,17 +137,6 @@
 		&--fdw { color: $engineering-orange; }
 
 		&--kfk { color: $orange; }
-	}
-
-	&__container {
-		display: flex;
-
-		&-list {
-			justify-content: space-around;
-			flex-wrap: wrap;
-		}
-
-		&-single { justify-content: center; }
 	}
 
 	&__btn {

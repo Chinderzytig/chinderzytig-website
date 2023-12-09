@@ -1,18 +1,21 @@
 {{ define "main" }}
-	<section class="fof">
-		<div class="fof__text fof__text--title">UPS...</div>
-		<img srcset="{{ .Site.Params.cloudinary_url }}/c_scale,w_320/graphics/page-not-found_gfhkg9.png 320w,
-			{{ .Site.Params.cloudinary_url }}/c_scale,w_414/graphics/page-not-found_gfhkg9.png 414w,
-			{{ .Site.Params.cloudinary_url }}/c_scale,w_512/graphics/page-not-found_gfhkg9.png 512w,
-			{{ .Site.Params.cloudinary_url }}/c_scale,w_600/graphics/page-not-found_gfhkg9.png 600w"
-			sizes="(min-width: 800px) 800px, 100vw"
-			src="{{ .Site.Params.cloudinary_url }}/c_scale,w_800/graphics/page-not-found_gfhkg9.png"
-			alt="Page not found graphic"
-			class="fof__img">
-		<div class="fof__text fof__text--caption">
-			Wir haben alle uns zur Verfügung stehenden Tools genutzt und konnten die
-			gesuchte Seite immer noch nicht finden.
+	 <div class="cta">
+		<div class="cta__container cta__container--column">
+			<div class="cta__info cta__info--column">
+				<h2 class="deading deading__center deading--black">
+					UPS...404 Seite nicht gefunden.
+				</h2>
+				<p class="cta__text cta__text--column">
+					Leider konnten wir die Seite, nach der du suchst, nicht finden.
+				</p>
+				<a href="/" class="mtn mtn__space mtn--jonquil">
+					<span>Bringen sie mich zurück nach Hause</span>
+					{{ partial "svgs/arrow-right.html" }}
+				</a>
+			</div>
+			<div class="cta__svg cta__svg--column">
+				{{ partial "svgs/books.html" }}
+			</div>
 		</div>
-		<a href="/" class="btn btn--primary">Bringen Sie mich zurück nach Hause</a>
-	</section>
+	</div>
 {{ end }}
