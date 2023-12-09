@@ -1,27 +1,28 @@
 {{ define "main" }}
-	<section class="document__container">
-		<h2 class="heading heading__secondary">arbeitsmaterial</h2>
-		<div class="card__container card__container-list">
+	<div class="cta cta--platinum">
+		<h2 class="deading deading__list deading--black">Arbeitsmaterial</h2>
+		<div class="cta__container cta__container--card-list">
 			{{ $arbeitsmaterial := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
-			{{ range $arbeitsmaterial.ByTitle }}
+			{{ range $arbeitsmaterial.ByDate.Reverse }}
 				{{ if .Params.arbeitsmaterial }}
-					<div class="document__card">
-						<h3 class="document__card-title">{{ .Params.title }}</h3>
-						<div class="document__card--arbeitsmaterial">
-							<img src="{{ .Site.Params.cloudinary_url }}/bo_2px_solid_rgb:000000,c_scale,h_200,q_auto:best/{{ .Params.arbeitsmaterial }}.png" alt="Arbeitsmaterial cover" class="document-sc__file">
-							<div class="document__card-btns">
-								<a href="{{ .Permalink }}" class="btn btn--primary document__card-btn">Artikel</a>
-								<a href="{{ .Site.Params.cloudinary_url }}/{{ .Page.Params.arbeitsmaterial }}.pdf"
-									target="_blank"
-									class="btn btn--secondary document__card-btn">
-									PDF
-								</a>
-							</div>
+					<a href="{{ .Site.Params.cloudinary_url }}/{{ .Params.arbeitsmaterial }}.pdf" class="card card__port card--grey">
+						<div class="card__img-container">
+							<img src="{{ .Site.Params.cloudinary_url }}/c_scale,h_200,q_auto:best/{{ .Params.arbeitsmaterial }}.png"
+							alt="Arbeitsmaterial cover"
+							class="card__port-img"
+							/>
 						</div>
-					</div>
+						<div class="card__port-content">
+							<div class="card__content-bulk">
+								<h4 class="card__port-topic card__topic card__topic--fdw">PDF</h4>
+								<h3 class="card__port-title">{{ .Params.Title }}</h3>
+							</div>
+							<div class="card__date">{{ .Date.Format .Site.Params.DateForm }}</div>
+						</div>
+					</a>
 				{{ end }}
 			{{ end }}
 			<div class="card__port card__buffer"></div>
 		</div>
-	</section>
+	</div>
 {{ end }}
