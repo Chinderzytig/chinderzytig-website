@@ -1,11 +1,6 @@
-@mixin cta-color($bg) {
-	background-color: $bg;
-	padding: 3rem 0;
-}
-
-@mixin cta-type($bgc, $bs, $bc) {
+@mixin cta-color($bgc, $bc) {
 	background-color: $bgc;
-	border-#{$bs}: 2.5rem solid $bc;
+	border-left: 2.5rem solid $bc;
 }
 
 @mixin btn-color($hex, $red, $green, $blue, $alpha) {

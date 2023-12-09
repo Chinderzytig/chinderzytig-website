@@ -3,11 +3,11 @@
 
 	&--just-text { padding-top: 0; }
 
-	&--verdigris { @include cta-type($verdigris, left, $celadon); }
-	&--orange { @include cta-type($orange, left, $chestnut); }
-	&--pink { @include cta-type($pink, left, $space-cadet); }
-	&--platinum { @include cta-type($platinum, left, $silver) }
-	&--space-cadet { background-color: $russian-violet; }
+	&--verdigris { @include cta-color($verdigris, $celadon); }
+	&--orange { @include cta-color($orange, $chestnut); }
+	&--pink { @include cta-color($pink, $space-cadet); }
+	&--platinum { @include cta-color($platinum, $silver); }
+	&--rus-violet { @include cta-color($russian-violet, $jonquil); }
 
 	&__container {
 		display: flex;
