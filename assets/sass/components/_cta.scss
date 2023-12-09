@@ -4,17 +4,9 @@
 	&--just-text { padding-top: 0; }
 
 	&--verL { @include cta-type($verdigris, left, $celadon); }
-	&--verR { @include cta-type($verdigris, right, $celadon); }
-
 	&--orL { @include cta-type($orange, left, $chestnut); }
-	&--orR { @include cta-type($orange, right, $chestnut); }
-
 	&--pinkL { @include cta-type($pink, left, $space-cadet); }
-	&--pinkR { @include cta-type($pink, right, $space-cadet); }
-
 	&--platL { @include cta-type($platinum, left, $silver) }
-	&--platR { @include cta-type($platinum, right, $silver) }
-
 	&--lernpfad { background-color: $russian-violet; }
 
 	&__container {
