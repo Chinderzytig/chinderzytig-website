@@ -3,11 +3,11 @@
 
 	&--just-text { padding-top: 0; }
 
-	&--verL { @include cta-type($verdigris, left, $celadon); }
-	&--orL { @include cta-type($orange, left, $chestnut); }
-	&--pinkL { @include cta-type($pink, left, $space-cadet); }
-	&--platL { @include cta-type($platinum, left, $silver) }
-	&--lernpfad { background-color: $russian-violet; }
+	&--verdigris { @include cta-type($verdigris, left, $celadon); }
+	&--orange { @include cta-type($orange, left, $chestnut); }
+	&--pink { @include cta-type($pink, left, $space-cadet); }
+	&--platinum { @include cta-type($platinum, left, $silver) }
+	&--space-cadet { background-color: $russian-violet; }
 
 	&__container {
 		display: flex;
@@ -54,26 +54,6 @@
 		&--flex-start { justify-content: flex-start; }
 
 		&--flex-end { justify-content: flex-end; }
-
-
-		&-flex-start {
-
-			@include respond(tab-port-xl){
-				justify-content: flex-start;
-			}
-		}
-
-		&-flex-center {
-			@include respond(tab-port-xl){
-				justify-content: center;
-			}
-		}
-
-		&-flex-end {
-			@include respond(tab-port-xl){
-				justify-content: flex-end;
-			}
-		}
 	}
 
 	&__article {
