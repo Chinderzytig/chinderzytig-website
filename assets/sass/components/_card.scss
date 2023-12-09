@@ -137,17 +137,6 @@
 		&--kfk { color: $orange; }
 	}
 
-	&__container {
-		display: flex;
-
-		&-list {
-			justify-content: space-around;
-			flex-wrap: wrap;
-		}
-
-		&-single { justify-content: center; }
-	}
-
 	&__btn {
 		display: flex;
 		flex-direction: column;

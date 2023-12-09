@@ -1,10 +1,52 @@
 .cta {
 	padding: 5rem 3rem;
 
-	&__text {
-		width: 45%;
+	&--verL { @include cta-type($verdigris, left, $celadon); }
+	&--verR { @include cta-type($verdigris, right, $celadon); }
+
+	&--orL { @include cta-type($orange, left, $chestnut); }
+	&--orR { @include cta-type($orange, right, $chestnut); }
+
+	&--pinkL { @include cta-type($pink, left, $space-cadet); }
+	&--pinkR { @include cta-type($pink, right, $space-cadet); }
+
+	&--platL { @include cta-type($platinum, left, $silver) }
+	&--platR { @include cta-type($platinum, right, $silver) }
+
+	&--lernpfad { background-color: $russian-violet; }
+
+	&__container {
+		display: flex;
+
+		&--standard {
+			justify-content: space-between;
+			align-items: center;
+		}
+
+		&--card-list {
+			justify-content: space-between;
+			flex-wrap: wrap;
+		}
+
+		&--taxonomy {
+			justify-content: space-around;
+			flex-wrap: wrap;
+		}
+	}
+
+	&__info {
+		width: 55%;
 
 		@include respond(phone-land-lg) { width: 100%; }
+	}
+
+	&__text {
+		text-align: justify;
+		margin-bottom: $margin-s;
+
+		&-btnless { margin-bottom: 0; }
+
+		&--white { color: $white; }
 
 		&-less {
 			display: flex;
@@ -13,25 +55,17 @@
 		}
 	}
 
-	&__chunk {
-		text-align: justify;
-		margin-bottom: $margin-s;
-
-		&-btnless { margin-bottom: 0; }
-
-		&--white { color: $white; }
-	}
-
 	&__svg {
 		width: 45%;
 		display: flex;
-		justify-content: center;
-
-		@include respond(tab-port-xl){ width: 55%; }
 
 		@include respond(phone-land-lg) { display: none; }
 
+		&--flex-end { justify-content: flex-end; }
+
+
 		&-flex-start {
+
 			@include respond(tab-port-xl){
 				justify-content: flex-start;
 			}
@@ -55,20 +89,8 @@
 		margin: $margin-s 0;
 	}
 
-	&__flex-arnd {
-		display: flex;
-		justify-content: space-around;
-		flex-wrap: wrap;
-	}
-
-	&__info {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-	}
-
 	&__questions {
-		@extend .cta__info;
+		// @extend .cta__info;
 		align-items: stretch;
 	}
 
@@ -99,18 +121,4 @@
 
 		&-label { margin-top: -1rem; }
 	}
-
-	&--verL { @include cta-type($verdigris, left, $celadon); }
-	&--verR { @include cta-type($verdigris, right, $celadon); }
-
-	&--orL { @include cta-type($orange, left, $chestnut); }
-	&--orR { @include cta-type($orange, right, $chestnut); }
-
-	&--pinkL { @include cta-type($pink, left, $space-cadet); }
-	&--pinkR { @include cta-type($pink, right, $space-cadet); }
-
-	&--platL { @include cta-type($platinum, left, $silver) }
-	&--platR { @include cta-type($platinum, right, $silver) }
-
-	&--lernpfad { background-color: $russian-violet; }
 }
