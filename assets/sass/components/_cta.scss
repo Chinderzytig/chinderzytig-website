@@ -1,6 +1,8 @@
 .cta {
 	padding: 5rem 3rem;
 
+	&--just-text { padding-top: 0; }
+
 	&--verL { @include cta-type($verdigris, left, $celadon); }
 	&--verR { @include cta-type($verdigris, right, $celadon); }
 
