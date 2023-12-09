@@ -6,7 +6,7 @@
 
 	<div class="cta">
 		<h2 class="deading deading--black">Alle Artikel der Woche</h2>
-		<div class="card__container card__container-single">
+		<div class="cta__container cta__container--card-list">
 			{{ $set1 := where .Site.Pages ".Params.artikel" true }}
 			{{ $set2 := where .Site.Pages ".Params.fdw" true }}
 			{{ $fdw := $set1 | intersect $set2 }}
@@ -18,7 +18,7 @@
 				}}
 			{{ end }}
 		</div>
-		<div class="card__container card__container-list">
+		<div class="cta__container cta__container--card-list">
 			{{ $fdw := where .Site.Pages ".Params.fdw" true }}
 
 			{{ range after 1 $fdw.ByDate.Reverse }}

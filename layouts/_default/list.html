@@ -6,7 +6,7 @@
 
 	<div class="cta">
 		<h2 class="deading deading__list deading--black">Alle Artikel: {{ .Title }}</h2>
-		<div class="card__container card__container-list">
+		<div class="cta__container cta__container--card-list">
 			{{ $group := where .Pages ".Params.fdw" false }}
 
 			{{ range $group.ByDate.Reverse }}
