@@ -1,0 +1,11 @@
+.beirat {
+	width: 45%;
+	margin-bottom: $margin-s;
+
+	&__name {
+		font-weight: bold;
+		font-size: $font-big;
+	}
+
+	&__position { font-style: italic; }
+}

@@ -1,0 +1,18 @@
+<div class="cta">
+	<div class="cta__container cta__container--standard">
+		<div class="cta__svg cta__svg--flex-start cta__svg--display-none">
+			{{ partial "svgs/board.html" }}
+		</div>
+		<div class="cta__info">
+			<h2 class="deading deading__cta deading--black">Unser Beirat</h2>
+			<div class="cta__people">
+				{{ range .Site.Data.partials.beirat.board }}
+					<div class="beirat">
+						<div class="beirat__name">{{ .name }}</div>
+						<div class="beirat__position">{{ .position }}</div>
+					</div>
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</div>
