@@ -32,6 +32,12 @@
 			justify-content: space-around;
 			flex-wrap: wrap;
 		}
+
+		&--volunteer {
+			@extend .cta__container--standard;
+
+			@include respond(phone-xl) { flex-direction: column; }
+		}
 	}
 
 	&__info {
@@ -69,6 +75,12 @@
 		&--flex-start { justify-content: flex-start; }
 
 		&--flex-end { justify-content: flex-end; }
+	}
+
+	&__crew {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
 	}
 
 	&__article {

@@ -4,6 +4,12 @@
 
 	{{ partial "mana-cta.html" }}
 
+	{{ partial "executive.html" . }}
+
+	{{ partial "volunteers.html" }}
+
+	{{ partial "advisory.html" . }}
+
 	<div class="cta cta--orange">
 		<h2 class="deading deading--white">Chinderzytig in den Medien</h2>
 		<div class="cta__container cta__container--card-list">
@@ -27,22 +33,6 @@
 			{{ end }}
 		</div>
 	</div>
-
-	<section class="verein__btns">
-		<h2 class="heading heading__secondary">Mehr über Chinderzytig</h2>
-		<div class="verein__btns-group">
-			{{ range .Site.Data.pages.verein.btns }}
-				<a href="{{ .url }}" class="btn btn--verein verein__btns-btn">
-					{{ range .label }}
-						{{ .text }}
-					{{ end }}
-					<span class="btn--verein-arrow">
-						{{ partial "svgs/arrow_svg.html" (dict "fill" "#000" "width" 30 "height" 30) }}
-					</span>
-				</a>
-			{{ end }}
-		</div>
-	</section>
 
 	<section class="verein__thanks">
 		<div class="verein__thanks-container">

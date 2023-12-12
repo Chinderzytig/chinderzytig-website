@@ -1,0 +1,33 @@
+.crew {
+	width: 45%;
+	margin-bottom: $margin-s;
+
+	&__name {
+		font-weight: bold;
+		font-size: $font-big;
+	}
+
+	&__position { font-style: italic; }
+
+	&__volunteer {
+		color: $white;
+		font-weight: bold;
+		text-align: justify;
+
+		&-count {
+			font-family: $font-spartan;
+			font-size: 10rem;
+
+			@include respond(tab-port-sm) { margin-right: 2rem; }
+
+			@include respond(phone-xl) { margin-right: 0; }
+		}
+
+		&-info {
+			width: 80%;
+			font-size: $font-big;
+
+			@include respond(phone-xl) { width: 100%; }
+		}
+	}
+}
