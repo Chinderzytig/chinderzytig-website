@@ -10,8 +10,12 @@
 
 	&:active { transform: translateY(.5rem); }
 
+	&--bg {
+		&-cultured { background-color: $cultured; }
+		&-white { background-color: $white; }
+	}
+
 	&--grey {
-		background-color: $cultured;
 		box-shadow: 0.8rem 0.8rem $silver;
 
 		&:hover { box-shadow: 1.1rem 1.1rem $silver; }
@@ -20,7 +24,6 @@
 	}
 
 	&--celadon {
-		background-color: $white;
 		box-shadow: 0.8rem 0.8rem $celadon;
 
 		&:hover { box-shadow: 1.1rem 1.1rem $celadon; }
@@ -29,7 +32,6 @@
 	}
 
 	&--chestnut {
-		background-color: $white;
 		box-shadow: 0.8rem 0.8rem $chestnut;
 
 		&:hover { box-shadow: 1.1rem 1.1rem $chestnut; }

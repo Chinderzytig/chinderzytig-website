@@ -10,9 +10,15 @@
 			{{ $group := where .Pages ".Params.fdw" false }}
 
 			{{ range $group.ByDate.Reverse }}
-				{{ partial
-					"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__port"
-					"cardColor" "card--grey" "showCase" "false")
+				{{ partial "article-card.html"
+					(dict
+						"attr" .
+						"ctx" $
+						"cardType" "card__port"
+						"cardColor" "card--grey"
+						"cardBg" "card--bg-cultured"
+						"showCase" "false"
+					)
 				}}
 			{{ end }}
 			<div class="card__port card__buffer"></div>
