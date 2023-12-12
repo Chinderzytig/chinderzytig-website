@@ -1,45 +1,57 @@
 media:
 - url: "https://www.baerntoday.ch/bern/finanzkrise-zweiter-weltkrieg-und-wm-in-katar-fuer-kinder-erklaert-149398835?utm_source=shared-copyToClipboard&utm_medium=shared&utm_campaign=Social%20Media"
   logo:
-    - img: "baern_today_rw4tjp.png"
+    - img: "barn_today_h8yb21.png"
       description: "Bärn Today logo"
   content:
-    - title: "Finanzkrise, Zweiter Weltkrieg und WM in Katar – für Kinder erklärt"
+    - css: "website"
+      type: "Website"
+      title: "Finanzkrise, Zweiter Weltkrieg und WM in Katar – für Kinder erklärt"
       date: "24.12.2022"
 - url: "https://www.lch.ch/fileadmin/user_upload_lch/BILDUNG_SCHWEIZ/2021/2105.pdf"
   logo:
     - img: "lch_cgs75m.png"
       description: "Dachverband Lehrerinnen und Lehrer Schweiz logo"
   content:
-    - title: "BILDUNG SCHWEIZ - Chinderzytig: Packend und verständlich geschrieben"
+    - css: "fdw"
+      type: "PDF"
+      title: "BILDUNG SCHWEIZ - Chinderzytig: Packend und verständlich geschrieben"
       date: "18.05.2021"
 - url: "https://res.cloudinary.com/chinderzytig/image/upload/v1604329083/lindacher-okt-2020_euil5y.pdf"
   logo:
     - img: "lindacher-nachrichten_xxv5jv.png"
       description: "Lindacher Nachrichten"
   content:
-    - title: "Die Welt ist kompliziert - versuchen wir sie zu vereinfachen"
+    - css: "fdw"
+      type: "PDF"
+      title: "Die Welt ist kompliziert - versuchen wir sie zu vereinfachen"
       date: "30.10.2020"
 - url: "https://res.cloudinary.com/chinderzytig/image/upload/v1603777233/berner-schule-okt-2020_ccnndz.pdf"
   logo:
     - img: "berner-schule-oct-20_avcuhq.png"
       description: "Berner Schule logo"
   content:
-    - title: "SchülerInnen sollen verstehen, was auf der Welt passiert"
+    - css: "fdw"
+      type: "PDF"
+      title: "SchülerInnen sollen verstehen, was auf der Welt passiert"
       date: "27.10.2020"
 - url: "https://www.telebaern.tv/telebaern-news/projekt-chinderzytig-soll-schueler-die-erwachsenenwelt-simpel-erklaeren-136290126"
   logo:
     - img: "telebarn_opooza.png"
       description: "Telebarn logo"
   content:
-    - title: "Projekt „Chinderzytig“ soll Schüler die Erwachsenenwelt simpel erklären"
+    - css: "website"
+      type: "Website"
+      title: "Projekt „Chinderzytig“ soll Schüler die Erwachsenenwelt simpel erklären"
       date: "27.1.2020"
 - url: "https://res.cloudinary.com/chinderzytig/image/upload/v1604179418/berner-schule-dec-2019_g8bgjb.pdf"
   logo:
     - img: "berner-schule-dec-19_ubvlap.png"
       description: "Berner Schule logo"
   content:
-    - title: "Erwachsenenthemen sind für Kinder kein Tabu"
+    - css: "fdw"
+      type: "PDF"
+      title: "Erwachsenenthemen sind für Kinder kein Tabu"
       date: "19.12.2019"
 
 btns:
