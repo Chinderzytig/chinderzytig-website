@@ -1,0 +1,26 @@
+<div class="cta cta--orange">
+	<h2 class="deading deading--white">Chinderzytig in den Medien</h2>
+	<div class="cta__container cta__container--card-list">
+		{{ range .Site.Data.pages.verein.media }}
+			<a href="{{ .url }}" target="_blank" class="card card__port card--chestnut card--bg-cultured">
+				{{ range .logo }}
+					<div class="card__img-container">
+						<img src="{{ $.Site.Params.cloudinary_url }}/q_auto:good/logos/{{ .img }}"
+							alt="{{ .description }}"
+							class="card__port-img"
+						/>
+					</div>
+				{{ end }}
+				{{range .content }}
+					<div class="card__port-content">
+						<div class="card__content-bulk">
+							<h4 class="card__port-topic card__topic card__topic--{{ .css }}">{{ .type }}</h4>
+							<h3 class="card__port-title">{{ .title }}</h3>
+						</div>
+						<div class="card__-date">{{ .date }}</div>
+					</div>
+				{{ end }}
+			</a>
+		{{ end }}
+	</div>
+</div>
