@@ -34,22 +34,6 @@
 		</div>
 	</div>
 
-	<section class="verein__btns">
-		<h2 class="heading heading__secondary">Mehr über Chinderzytig</h2>
-		<div class="verein__btns-group">
-			{{ range .Site.Data.pages.verein.btns }}
-				<a href="{{ .url }}" class="btn btn--verein verein__btns-btn">
-					{{ range .label }}
-						{{ .text }}
-					{{ end }}
-					<span class="btn--verein-arrow">
-						{{ partial "svgs/arrow_svg.html" (dict "fill" "#000" "width" 30 "height" 30) }}
-					</span>
-				</a>
-			{{ end }}
-		</div>
-	</section>
-
 	<section class="verein__thanks">
 		<div class="verein__thanks-container">
 			<h2 class="heading heading__tertiary">Danke für Ihre Unterstützung</h2>
