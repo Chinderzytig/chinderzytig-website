@@ -5,7 +5,7 @@
 			{{ $arbeitsmaterial := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 			{{ range $arbeitsmaterial.ByDate.Reverse }}
 				{{ if .Params.arbeitsmaterial }}
-					<a href="{{ .Site.Params.cloudinary_url }}/{{ .Params.arbeitsmaterial }}.pdf" class="card card__port card--grey card--bg-cultured">
+					<a href="{{ .Site.Params.cloudinary_url }}/{{ .Params.arbeitsmaterial }}.pdf" class="card card__port card--silver card--bg-cultured">
 						<div class="card__img-container">
 							<img src="{{ .Site.Params.cloudinary_url }}/c_scale,h_200,q_auto:best/{{ .Params.arbeitsmaterial }}.png"
 							alt="Arbeitsmaterial cover"

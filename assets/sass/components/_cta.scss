@@ -17,6 +17,8 @@
 			align-items: center;
 		}
 
+		&--single { justify-content: center; }
+
 		&--column {
 			flex-direction: column-reverse;
 			align-items: center;

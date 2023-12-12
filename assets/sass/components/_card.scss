@@ -15,7 +15,7 @@
 		&-white { background-color: $white; }
 	}
 
-	&--grey { @include shadow($silver, 166, 165, 163, 0.65) }
+	&--silver { @include shadow($silver, 166, 165, 163, 0.65) }
 	&--celadon { @include shadow($celadon, 53, 130, 128, 0.65) }
 	&--chestnut { @include shadow($chestnut, 162, 80, 50, 0.65) }
 
