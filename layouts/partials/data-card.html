@@ -6,7 +6,6 @@
 {{ $shadow := .shadow }}
 {{ $bgColor := .bgColor }}
 {{ $imgClass := .imgClass }}
-{{ $topicClass := .topicClass }}
 {{ $ghost := .ghost }}
 
 <div class="cta cta--{{ $cta }}">
@@ -16,13 +15,13 @@
 			<a href="{{ .url }}" target="_blank" class="card card__port card--{{ $shadow }} card--bg-{{ $bgColor }}">
 				<div class="card__img-container">
 					<img src="{{ $page.Site.Params.cloudinary_url }}/h_200,q_auto:best/{{ .photo_url }}"
-						alt="PDF cover image"
+						alt="{{ .img_alt }}"
 						class="card__port-img card__port-img{{ $imgClass }}"
 					/>
 				</div>
 				<div class="card__port-content">
 					<div class="card__content-bulk">
-						<h4 class="card__port-category card__category card__category--{{ $topicClass }}">{{ .category }}</h4>
+						<h4 class="card__port-category card__category card__category--{{ .cat_class }}">{{ .category }}</h4>
 						<h3 class="card__port-title">{{ .title }}</h3>
 					</div>
 				</div>

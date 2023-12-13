@@ -10,7 +10,19 @@
 
 	{{ partial "advisory.html" . }}
 
-	{{ partial "media.html" . }}
+	{{ partial "data-card.html"
+		(dict
+			"attr" .
+			"cta" "orange"
+			"headingColor" "white"
+			"heading" "Chinderzytig in den Medien"
+			"data" .Site.Data.pages.verein.media
+			"shadow" "chestnut"
+			"bgColor" "cultured"
+			"imgClass" ""
+			"ghost" "false"
+		)
+	}}
 
 	<section class="verein__thanks">
 		<div class="verein__thanks-container">
