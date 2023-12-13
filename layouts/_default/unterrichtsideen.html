@@ -3,18 +3,33 @@
 
 	{{ partial "possibilities.html" }}
 
-	{{ partial "implementation-examples.html" . }}
+	{{ partial "data-card.html"
+		(dict
+			"attr" .
+			"cta" "verdigris"
+			"headingColor" "white"
+			"heading" "Mögliche Umsetzungsideen"
+			"data" .Site.Data.pages.unterrichtsideen.examples
+			"shadow" "celadon"
+			"bgColor" "cultured"
+			"imgClass" "--pdf"
+			"topicClass" "fdw"
+			"ghost" "false"
+		)
+	}}
 
-	{{ partial "class-newspapers.html" . }}
-
-	{{ partial "pdf-display.html"
+	{{ partial "data-card.html"
 		(dict
 			"attr" .
 			"cta" "orange"
-			"color" "white"
-			"accent" "chestnut"
+			"headingColor" "white"
 			"heading" "Beispiele aus dem Alltag"
-			"data" .Site.Data.pages.unterrichtsideen.zeitungen
+			"data" .Site.Data.pages.unterrichtsideen.newspapers
+			"shadow" "chestnut"
+			"bgColor" "cultured"
+			"imgClass" "--pdf"
+			"topicClass" "fdw"
+			"ghost" "true"
 		)
 	}}
 

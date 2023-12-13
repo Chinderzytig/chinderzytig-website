@@ -1,0 +1,35 @@
+{{ $page := .attr }}
+{{ $cta := .cta }}
+{{ $headingColor := .headingColor }}
+{{ $heading := .heading }}
+{{ $data := .data }}
+{{ $shadow := .shadow }}
+{{ $bgColor := .bgColor }}
+{{ $imgClass := .imgClass }}
+{{ $topicClass := .topicClass }}
+{{ $ghost := .ghost }}
+
+<div class="cta cta--{{ $cta }}">
+	<h2 class="deading deading--{{ $headingColor }}">{{ $heading }}</h2>
+	<div class="cta__container cta__container--card-list">
+		{{ range $data }}
+			<a href="{{ .url }}" target="_blank" class="card card__port card--{{ $shadow }} card--bg-{{ $bgColor }}">
+				<div class="card__img-container">
+					<img src="{{ $page.Site.Params.cloudinary_url }}/h_200,q_auto:best/{{ .photo_url }}"
+						alt="PDF cover image"
+						class="card__port-img card__port-img{{ $imgClass }}"
+					/>
+				</div>
+				<div class="card__port-content">
+					<div class="card__content-bulk">
+						<h4 class="card__port-topic card__topic card__topic--{{ $topicClass }}">{{ .category }}</h4>
+						<h3 class="card__port-title">{{ .title }}</h3>
+					</div>
+				</div>
+			</a>
+		{{ end }}
+		{{ if eq $ghost "true" }}
+			<div class="card__ghost"></div>
+		{{ end }}
+	</div>
+</div>
