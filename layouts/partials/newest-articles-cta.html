@@ -6,19 +6,31 @@
 		{{ $new := $set3 | intersect $set4 }}
 
 		{{ range first 1 $new.ByDate.Reverse }}
-			{{ partial
-				"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__land"
-				"cardColor" "card--celadon" "showCase" "false")
+			{{ partial "article-card.html"
+				(dict
+					"attr" .
+					"ctx" $
+					"cardType" "card__land"
+					"cardColor" "card--celadon"
+					"cardBg" "card--bg-white"
+					"showCase" "false"
+				)
 			}}
 		{{ end }}
 
 		{{ range first 8 (after 1 $new.ByDate.Reverse) }}
-			{{ partial
-				"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__port"
-				"cardColor" "card--celadon" "showCase" "false")
+			{{ partial "article-card.html"
+				(dict
+					"attr" .
+					"ctx" $
+					"cardType" "card__port"
+					"cardColor" "card--celadon"
+					"cardBg" "card--bg-white"
+					"showCase" "false"
+				)
 			}}
 		{{ end }}
-		<a href="/alle-artikel" class="card card__port card--celadon card__btn">
+		<a href="/alle-artikel" class="card card__port card--celadon card--bg-white card__btn">
 			{{ partial "svgs/arrow-right-circle.html" . }}
 			<div class="card__btn-text card__btn--celadon">Alle Artikel</div>
 		</a>

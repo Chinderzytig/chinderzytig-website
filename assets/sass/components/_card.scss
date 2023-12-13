@@ -10,31 +10,21 @@
 
 	&:active { transform: translateY(.5rem); }
 
-	&--grey {
-		background-color: $cultured;
-		box-shadow: 0.8rem 0.8rem $silver;
-
-		&:hover { box-shadow: 1.1rem 1.1rem $silver; }
-
-		&:active { box-shadow: 0.5rem 0.5rem rgba(166, 165, 163, 0.65); }
+	&--bg {
+		&-cultured { background-color: $cultured; }
+		&-white { background-color: $white; }
 	}
 
-	&--celadon {
-		background-color: $white;
-		box-shadow: 0.8rem 0.8rem $celadon;
+	&--silver { @include shadow($silver, 166, 165, 163, 0.65) }
+	&--celadon { @include shadow($celadon, 53, 130, 128, 0.65) }
+	&--chestnut { @include shadow($chestnut, 162, 80, 50, 0.65) }
 
-		&:hover { box-shadow: 1.1rem 1.1rem $celadon; }
-
-		&:active { box-shadow: 0.5rem 0.5rem rgba(53, 130, 128, 0.65); }
-	}
-
-	&--chestnut {
-		background-color: $white;
-		box-shadow: 0.8rem 0.8rem $chestnut;
-
-		&:hover { box-shadow: 1.1rem 1.1rem $chestnut; }
-
-		&:active { box-shadow: 0.5rem 0.5rem rgba(162, 80, 50, 0.65); }
+	&__img {
+		&-container {
+			background: $white;
+			display: flex;
+			justify-content: center;
+		}
 	}
 
 	&__port {
@@ -52,6 +42,8 @@
 			width: 100%;
 			height: 20rem;
 
+			&--pdf { width: 60%; }
+
 			&:hover,
 			&:active { transform: translateY(0rem); }
 
@@ -68,7 +60,7 @@
 			justify-content: space-between;
 		}
 
-		&-topic { margin-bottom: -.5rem; }
+		&-category { margin-bottom: -.5rem; }
 
 		&-title {
 			font-family: $font-amatic;
@@ -112,7 +104,7 @@
 			justify-content: space-between;
 		}
 
-		&-topic { margin-bottom: -2rem; }
+		&-category { margin-bottom: -2rem; }
 
 		&-title {
 			font-family: $font-amatic;
@@ -131,12 +123,14 @@
 		&--buffer { height: 0; }
 	}
 
-	&__topic {
+	&__category {
 		font-family: $font-spartan;
 
 		&--fdw { color: $engineering-orange; }
 
 		&--kfk { color: $orange; }
+
+		&--website { color: $celadon; }
 	}
 
 	&__btn {
@@ -169,5 +163,5 @@
 		}
 	}
 
-	&__buffer { height: 0; }
+	&__ghost { @extend .card__port; }
 }

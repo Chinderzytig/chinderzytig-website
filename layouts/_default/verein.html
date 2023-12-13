@@ -10,29 +10,19 @@
 
 	{{ partial "advisory.html" . }}
 
-	<div class="cta cta--orange">
-		<h2 class="deading deading--white">Chinderzytig in den Medien</h2>
-		<div class="cta__container cta__container--card-list">
-			{{ range .Site.Data.pages.verein.media }}
-				<a href="{{ .url }}" target="_blank" class="card card__port card--chestnut">
-					{{ range .logo }}
-						<div class="card__img-container">
-							<img src="{{ $.Site.Params.cloudinary_url }}/q_auto:good/logos/{{ .img }}"
-								alt="{{ .description }}"
-								class="card__port-img"
-							/>
-						</div>
-					{{ end }}
-					{{range .content }}
-						<div class="card__port-content">
-							<h3 class="card__port-title">{{ .title }}</h3>
-							<div class="card__-date">{{ .date }}</div>
-						</div>
-					{{ end }}
-				</a>
-			{{ end }}
-		</div>
-	</div>
+	{{ partial "data-card.html"
+		(dict
+			"attr" .
+			"cta" "orange"
+			"headingColor" "white"
+			"heading" "Chinderzytig in den Medien"
+			"data" .Site.Data.pages.verein.media
+			"shadow" "chestnut"
+			"bgColor" "cultured"
+			"imgClass" ""
+			"ghost" "false"
+		)
+	}}
 
 	<section class="verein__thanks">
 		<div class="verein__thanks-container">

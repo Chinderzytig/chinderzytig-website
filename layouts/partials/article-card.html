@@ -1,4 +1,4 @@
-<a href="{{.attr.RelPermalink}}" class="card {{ .cardType }} {{ .cardColor }}">
+<a href="{{.attr.RelPermalink}}" class="card {{ .cardType }} {{ .cardColor }} {{ .cardBg }}">
 	<div class="card__img-container">
 		{{ if eq .cardType "card__land" }}
 			{{ if eq .showCase "true" }}
@@ -22,9 +22,9 @@
 	<div class="{{ .cardType }}-content">
 		<div class="card__content-bulk">
 			{{ if .attr.Params.fdw }}
-				<h4 class="{{ .cardType }}-topic card__topic card__topic--fdw">Fokus der Woche</h4>
+				<h4 class="{{ .cardType }}-category card__category card__category--fdw">Fokus der Woche</h4>
 			{{ else if .attr.Params.kfk}}
-				<h4 class="{{ .cardType }}-topic card__topic card__topic--kfk">Kinder schreiben für Kinder</h4>
+				<h4 class="{{ .cardType }}-category card__category card__category--kfk">Kinder schreiben für Kinder</h4>
 			{{ end }}
 			<h3 class="{{ .cardType }}-title">{{ .attr.Title }}</h3>
 			{{ if eq .cardType "card__land" }}

@@ -4,9 +4,15 @@
 	{{ $fdw := $set1 | intersect $set2 }}
 
 	{{ range first 1 $fdw.ByDate.Reverse }}
-		{{ partial
-			"article-card.html" (dict "attr" . "ctx" $ "cardType" "card__land"
-			"cardColor" "card--grey" "showCase" "true")
+		{{ partial "article-card.html"
+			(dict
+				"attr" .
+				"ctx" $
+				"cardType" "card__land"
+				"cardColor" "card--silver"
+				"cardBg" "card--bg-cultured"
+				"showCase" "true"
+			)
 		}}
 	{{ end }}
 </div>
