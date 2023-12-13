@@ -19,6 +19,14 @@
 	&--celadon { @include shadow($celadon, 53, 130, 128, 0.65) }
 	&--chestnut { @include shadow($chestnut, 162, 80, 50, 0.65) }
 
+	&__img {
+		&-container {
+			background: $white;
+			display: flex;
+			justify-content: center;
+		}
+	}
+
 	&__port {
 		height: 40rem;
 		width: 30%;
@@ -33,6 +41,8 @@
 		&-img {
 			width: 100%;
 			height: 20rem;
+
+			&--pdf { width: 60%; }
 
 			&:hover,
 			&:active { transform: translateY(0rem); }
