@@ -60,7 +60,7 @@
 			justify-content: space-between;
 		}
 
-		&-topic { margin-bottom: -.5rem; }
+		&-category { margin-bottom: -.5rem; }
 
 		&-title {
 			font-family: $font-amatic;
@@ -104,7 +104,7 @@
 			justify-content: space-between;
 		}
 
-		&-topic { margin-bottom: -2rem; }
+		&-category { margin-bottom: -2rem; }
 
 		&-title {
 			font-family: $font-amatic;
@@ -123,7 +123,7 @@
 		&--buffer { height: 0; }
 	}
 
-	&__topic {
+	&__category {
 		font-family: $font-spartan;
 
 		&--fdw { color: $engineering-orange; }
