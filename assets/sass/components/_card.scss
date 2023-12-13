@@ -163,5 +163,5 @@
 		}
 	}
 
-	&__buffer { height: 0; }
+	&__ghost { @extend .card__port; }
 }

@@ -9,6 +9,8 @@ projekte:
   # - document: "Schulprojekt_Arena_qm3myi"
   # - document: "Schulprojekt_Podiumsdiskussion_xlcglm"
 
-zeitungen:
+newspapers:
   - document: "Klassenzeitung_4-6B_2022_n4to85"
+    title: "Schüler: innenzeitung 4-6b Herrenschwanden"
   - document: "schule_arboro_oiazs9"
+    title: "Schüler: innenzeitung Schule Arboro"

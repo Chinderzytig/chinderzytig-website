@@ -3,18 +3,9 @@
 
 	{{ partial "possibilities.html" }}
 
-	{{ partial "implementation-ideas.html" . }}
+	{{ partial "implementation-examples.html" . }}
 
-	{{ partial "pdf-display.html"
-		(dict
-			"attr" .
-			"cta" "verdigris"
-			"color" "white"
-			"accent" "celadon"
-			"heading" "Mögliche Umsetzungsideen"
-			"data" .Site.Data.pages.unterrichtsideen.projekte
-		)
-	}}
+	{{ partial "class-newspapers.html" . }}
 
 	{{ partial "pdf-display.html"
 		(dict
