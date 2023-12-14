@@ -19,6 +19,8 @@
 
 		&--single { justify-content: center; }
 
+		&--something { flex-direction: column; }
+
 		&--column {
 			flex-direction: column-reverse;
 			align-items: center;
