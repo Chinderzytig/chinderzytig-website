@@ -2,7 +2,7 @@
 	<h2 class="deading deading--black">Danke für ihre Unterstützung</h2>
 	<div class="carousel" data-flickity='{
 												"cellAlign": "left",
-												"groupCells": 3,
+												"groupCells": 2,
 												"wrapAround": true,
 												"autoPlay": true,
 												"prevNextButtons": false,
@@ -12,7 +12,7 @@
 			sizes="(min-width: 767px) 35vw, 75vw"
 			src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }}"
 			alt="{{ .desc }}"
-			class="verein__thanks-logo">
+			class="verein__thanks-logo carousel-cell">
 		{{ end }}
 	</div>
 </div>
