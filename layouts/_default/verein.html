@@ -16,6 +16,7 @@
 			"cta" "orange"
 			"headingColor" "white"
 			"heading" "Chinderzytig in den Medien"
+			"flickity" "true"
 			"data" .Site.Data.pages.verein.media
 			"shadow" "chestnut"
 			"bgColor" "cultured"
@@ -24,22 +25,5 @@
 		)
 	}}
 
-	<section class="verein__thanks">
-		<div class="verein__thanks-container">
-			<h2 class="heading heading__tertiary">Danke für Ihre Unterstützung</h2>
-			<div class="verein__thanks-logos">
-				{{ range .Site.Data.pages.verein.companies }}
-					<a href="{{ .website }}" target="_blank" class="verein__thanks-link">
-					{{ range .logo }}
-						<img srcset="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }} 511w"
-						sizes="(min-width: 767px) 35vw, 75vw"
-						src="{{ $.Site.Params.cloudinary_url }}/f_auto,h_60,q_auto:good/logos/{{ .img }}"
-						alt="{{ .desc }}"
-						class="verein__thanks-logo">
-					{{ end }}
-					</a>
-				{{ end }}
-			</div>
-		</div>
-	</section>
+	{{ partial "thanks.html" . }}
 {{end}}

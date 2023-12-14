@@ -30,7 +30,7 @@
 	&__port {
 		height: 40rem;
 		width: 30%;
-		margin-top: $margin-s;
+		margin: $margin-s 0;
 
 		@include respond(tab-port-sm) {
 			width: 100%;
@@ -79,11 +79,9 @@
 			height: 100rem;
 		}
 
-		@include respond(phone-land-lg) { height: 90rem; }
+		@include respond(phone-land-lg) { height: 85rem; }
 
-		@include respond(phone-xl) { height: 80rem; }
-
-		@include respond(phone-lg) { height: 70rem; }
+		@include respond(phone-xl) { height: 70rem; }
 
 		&-img {
 			height: 100%;

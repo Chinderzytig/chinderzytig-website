@@ -1,5 +1,7 @@
-<div class="map__globe-container">
+<div class="carousel" data-flickity='{"watchCSS": true, "cellAlign": "left", "wrapAround": true }'>
 	{{ range .Site.Data.partials.globes.globes }}
-		{{ partial .globe }}
+		<div class="carousel-cell">
+			{{ partial .globe }}
+		</div>
 	{{ end }}
 </div>
