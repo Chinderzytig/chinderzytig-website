@@ -57,107 +57,55 @@ btns:
     - text: Kontaktiere Uns
 
 companies:
-- website: "https://www.migros-kulturprozent.ch/"
-  logo:
-    - img: "schwarzweiss_d_bmyctr.eps"
-      desc: Migros logo
-- website: "https://www.keystone-sda.ch/home"
-  logo:
-    - img: "keystone-black_ltgj7k.png"
-      desc: Keystone SDA logo
-- website: "https://stiftungschweiz.ch/"
-  logo:
-    - img: "stiftun_schweiz_x8sv4n.png"
-      desc: Stiftung Schweiz logo
-- website: "https://www.phbern.ch/"
-  logo:
-    - img: "phbern_black_e5tq45.png"
-      desc: PHBern logo
-- website: "https://www.bildungbern.ch/"
-  logo:
-    - img: "bildung-bern_yqpjs1.png"
-      desc: Bildung Bern logo
-- website: "https://www.schweizermedien.ch/"
-  logo:
-    - img: "sm_colour_l7ueym.png"
-      desc: Schweizer Medien logo
-- website: "https://www.be.ch/de/start.html"
-  logo:
-    - img: "kanton-bern_s72rzr.png"
-      desc: Kanto Bern logo
-- website: "https://www.mobiliar.ch/"
-  logo:
-    - img: "Mobiliar_Logo_z4lidg.png"
-      desc: "die Mobiliar logo "
-- website: "https://www.mirroco.ch"
-  logo:
-    - img: "mirroco-logo_k926vj.png"
-      desc: "Mirroco logo"
-- website: "https://www.gurtenpark.ch/"
-  logo:
-    - img: "gurten_logo_uaeaxu.jpg"
-      desc: Gurten logo
-- website: "https://www.schuleschmitten.ch/"
-  logo:
-    - img: "schmitten_lgfnbu.png"
-      desc: Schule Schmitten logo
-- website: "https://www.feusi.ch/"
-  logo:
-    - img: "feusi_gl6n7r.png"
-      desc: Feusi logo
-- website: "https://www.moesli.ch/"
-  logo:
-    - img: "schule_mosli_uunsvq.png"
-      desc: Schule Mösli logo
-- website: "http://breitenrain-lorraine.ch/"
-  logo:
-    - img: "breitenrain_jgbpjf.png"
-      desc: Breitenrain-Lorraine logo
-- website: "https://heavyfeather.ch/"
-  logo:
-    - img: "heavyfeather_czmc34.png"
-      desc: Heavyfeather logo
-- website: "http://kit-initiative.de/"
-  logo:
-    - img: "KIT-Logo_xbzlwp.png"
-      desc: KIT-Initiative logo
-- website: "http://www.schule-kihe.ch/"
-  logo:
-    - img: "schule-kh_bzefc6.png"
-      desc: Schule Kirchlindach Herrenschwanden logo
-- website: "https://wikimediafoundation.org/"
-  logo:
-    - img: "wikimedia-foundation_s3dcjo.png"
-      desc: Wikimedia Foundation logo
-- website: "http://schulkreis-bethlehem.ch/tscharnergut/"
-  logo:
-    - img: "schule_tscharnergut_dpbit7.png"
-      desc: Schule Tscharnergut placeholder
-- website: "https://diaspora-tv.ch/index.html"
-  logo:
-    - img: "diaspora_gqcevy.jpg"
-      desc: Diaspora TV logo
-- website: "https://www.berufungsfinder.ch"
-  logo:
-    - img: "berufungsfinder_tzmmet.png"
-      desc: Berufungsfinder logo
-- website: "https://campusdemokratie.ch"
-  logo:
-    - img: "campusdemokratie_logo_lvaecn.png"
-      desc: Campus Demokratie logo
-- website: "https://schulen-muensingen.ch/"
-  logo:
-    - img: "volksschule_munsingen_lhqrwu.gif"
-      desc: Volksschule Münsingen logo
-- website: "https://www.aragag.ch/de/reinigungsfirma-bern/?oid=10095&lang=de"
-  logo:
-    - img: "Arag_dgug2o.png"
-      desc: ARAG AG Gebäudereinigung logo
-- website: "https://www.bgbern.ch/"
-  logo:
-    - img: "BGB_Logo_x6abss.png"
-      desc: Burgergemeinde Bern logo
-- website: "https://gvb.ch/de.html"
-  logo:
-    - img: "Logo_GVB_ku49it.png"
-      desc: GVB logo
+- logo: "schwarzweiss_d_bmyctr.eps"
+  desc: Migros logo
+- logo: "keystone-black_ltgj7k.png"
+  desc: Keystone SDA logo
+- logo: "stiftun_schweiz_x8sv4n.png"
+  desc: Stiftung Schweiz logo
+- logo: "phbern_black_e5tq45.png"
+  desc: PHBern logo
+- logo: "bildung-bern_yqpjs1.png"
+  desc: Bildung Bern logo
+- logo: "sm_colour_l7ueym.png"
+  desc: Schweizer Medien logo
+- logo: "kanton-bern_s72rzr.png"
+  desc: Kanto Bern logo
+- logo: "Mobiliar_Logo_z4lidg.png"
+  desc: "die Mobiliar logo "
+- logo: "mirroco-logo_k926vj.png"
+  desc: "Mirroco logo"
+- logo: "gurten_logo_uaeaxu.jpg"
+  desc: Gurten logo
+- logo: "schmitten_lgfnbu.png"
+  desc: Schule Schmitten logo
+- logo: "feusi_gl6n7r.png"
+  desc: Feusi logo
+- logo: "schule_mosli_uunsvq.png"
+  desc: Schule Mösli logo
+- logo: "breitenrain_jgbpjf.png"
+  desc: Breitenrain-Lorraine logo
+- logo: "heavyfeather_czmc34.png"
+  desc: Heavyfeather logo
+- logo: "KIT-Logo_xbzlwp.png"
+  desc: KIT-Initiative logo
+- logo: "schule-kh_bzefc6.png"
+  desc: Schule Kirchlindach Herrenschwanden logo
+- logo: "wikimedia-foundation_s3dcjo.png"
+  desc: Wikimedia Foundation logo
+- logo: "schule_tscharnergut_dpbit7.png"
+  desc: Schule Tscharnergut placeholder
+- logo: "diaspora_gqcevy.jpg"
+  desc: Diaspora TV logo
+- logo: "berufungsfinder_tzmmet.png"
+  desc: Berufungsfinder logo
+- logo: "campusdemokratie_logo_lvaecn.png"
+  desc: Campus Demokratie logo
+- logo: "volksschule_munsingen_lhqrwu.gif"
+  desc: Volksschule Münsingen logo
+- logo: "Arag_dgug2o.png"
+  desc: ARAG AG Gebäudereinigung logo
+- logo: "BGB_Logo_x6abss.png"
+  desc: Burgergemeinde Bern logo
+- logo: "Logo_GVB_ku49it.png"
+  desc: GVB logo

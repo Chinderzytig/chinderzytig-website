@@ -30,7 +30,7 @@
 	&__port {
 		height: 40rem;
 		width: 30%;
-		margin-top: $margin-s;
+		margin: $margin-s 0;
 
 		@include respond(tab-port-sm) {
 			width: 100%;
