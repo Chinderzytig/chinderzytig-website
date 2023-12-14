@@ -79,11 +79,9 @@
 			height: 100rem;
 		}
 
-		@include respond(phone-land-lg) { height: 90rem; }
+		@include respond(phone-land-lg) { height: 85rem; }
 
-		@include respond(phone-xl) { height: 80rem; }
-
-		@include respond(phone-lg) { height: 70rem; }
+		@include respond(phone-xl) { height: 70rem; }
 
 		&-img {
 			height: 100%;

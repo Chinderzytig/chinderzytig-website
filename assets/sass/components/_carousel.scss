@@ -1,5 +1,14 @@
 .carousel {
 
+	&:after {
+		content: '';
+
+		@include respond(tab-port-sm) {
+			content: 'flickity';
+			display: none;
+		}
+	}
+
 	&-cell {
 		margin-right: $margin-s;
 	}
