@@ -70,7 +70,11 @@
 		width: 45%;
 		display: flex;
 
-		&--column { width: 60%; }
+		&--column {
+			width: 60%;
+
+			@include respond(phone-xl) { width: 90% }
+		}
 
 		&--display-none { @include respond(phone-land-lg) { display: none; } }
 
