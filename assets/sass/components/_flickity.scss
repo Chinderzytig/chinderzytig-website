@@ -1,0 +1,19 @@
+button.flickity-button {
+	background: rgba(255, 207, 4, 0.40);
+
+	&:hover,
+	&:active {
+		background: rgba(255, 207, 4, 1);
+		svg.flickity-button-icon { fill: rgba(46, 49, 66, 1); }
+	}
+}
+
+button.flickity-prev-next-button {
+	border-radius: 0;
+	height: 20rem;
+	width: 4rem;
+	&.previous { left: -3rem; }
+	&.next { right: -3rem; }
+}
+
+svg.flickity-button-icon { fill: rgba(46, 49, 66, 0.40); }

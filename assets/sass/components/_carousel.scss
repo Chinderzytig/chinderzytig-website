@@ -13,25 +13,3 @@
 		margin-right: $margin-s;
 	}
 }
-
-button.flickity-button {
-	background: rgba(255, 207, 4, 0.30);
-
-	&:hover,
-	&:active {
-		background: rgba(255, 207, 4, 1);
-		svg.flickity-button-icon { fill: rgba(46, 49, 66, 1); }
-	}
-}
-
-button.flickity-prev-next-button {
-	border-radius: 0;
-	height: 20rem;
-	// width: 6rem;
-	&.previous { left: -3rem; }
-	&.next { right: -3rem; }
-}
-
-svg.flickity-button-icon { fill: rgba(46, 49, 66, 0.30); }
-
-ol.flickity-page-dots { bottom: -3.5rem; }
