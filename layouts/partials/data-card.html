@@ -3,6 +3,7 @@
 {{ $headingColor := .headingColor }}
 {{ $heading := .heading }}
 {{ $flickity := .flickity }}
+{{ $containerType := .containerType }}
 {{ $data := .data }}
 {{ $shadow := .shadow }}
 {{ $bgColor := .bgColor }}
@@ -12,9 +13,9 @@
 <div class="cta cta--{{ $cta }}">
 	<h2 class="deading deading--{{ $headingColor }}">{{ $heading }}</h2>
 	{{ if eq $flickity "true" }}
-		<div class="carousel" data-flickity='{"cellAlign": "left", "wrapAround": true }'>
+		<div class="carousel" data-flickity='{"cellAlign": "left", "wrapAround": true}'>
 	{{ else }}
-		<div class="cta__container cta__container--card-list">
+		<div class="cta__container cta__container--{{ $containerType }}">
 	{{ end }}
 		{{ range $data }}
 			<a href="{{ .url }}" target="_blank" class="card card__port card--{{ $shadow }} card--bg-{{ $bgColor }} carousel-cell">
@@ -29,6 +30,9 @@
 						<h4 class="card__port-category card__category card__category--{{ .cat_class }}">{{ .category }}</h4>
 						<h3 class="card__port-title">{{ .title }}</h3>
 					</div>
+					{{ if .date }}
+						<div class="card__date">{{ .date }}</div>
+					{{ end }}
 				</div>
 			</a>
 		{{ end }}
