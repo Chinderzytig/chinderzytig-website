@@ -29,6 +29,9 @@
 						<h4 class="card__port-category card__category card__category--{{ .cat_class }}">{{ .category }}</h4>
 						<h3 class="card__port-title">{{ .title }}</h3>
 					</div>
+					{{ if .date }}
+						<div class="card__date">{{ .date }}</div>
+					{{ end }}
 				</div>
 			</a>
 		{{ end }}
