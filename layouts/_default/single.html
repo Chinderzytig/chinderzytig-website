@@ -28,12 +28,12 @@
 				<div class="single__taxonomies">
 					{{ if .Params.kategorien }}
 						{{ range (.GetTerms "kategorien") }}
-							<a href="{{ .Permalink }}" class="mtn mtn__small mtn__thema no-print">{{ .LinkTitle }}</a>
+							<a href="{{ .Permalink }}" class="btn btn__small btn__thema no-print">{{ .LinkTitle }}</a>
 						{{ end }}
 					{{ end }}
 					{{ if .Params.markierungen }}
 						{{ range (.GetTerms "markierungen") }}
-							<a href="{{ .Permalink }}" class="mtn mtn__small mtn__thema no-print">{{ .LinkTitle }}</a>
+							<a href="{{ .Permalink }}" class="btn btn__small btn__thema no-print">{{ .LinkTitle }}</a>
 						{{ end }}
 					{{ end }}
 				</div>

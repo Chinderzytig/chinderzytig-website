@@ -189,13 +189,9 @@ Ein Pro- und Contra Kommentar zum Thema MPT-Gesetz ist hier verfügbar:
 
 ### Gastkommentare
 
-{{< container-center >}}
-
 {{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Pro_pzejzn" caption="Gastkommentar-Pro" >}}
 
 {{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Contra_bijxid" caption="Gastkommentar-Contra" >}}
-
-{{< /container-center >}}
 
 {{< teiler >}}
 

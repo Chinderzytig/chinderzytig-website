@@ -85,8 +85,6 @@
 		.single__caption-buffer,
 		.single__cc-src { @extend .single__image-src; }
 
-		.arbeitsmaterial__link { color: $color-black; }
-
 		&-video {
 			display: flex;
 			justify-content: center;
