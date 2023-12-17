@@ -1,41 +1,71 @@
 .faq {
-	background-color: $white;
-	@include shadow($silver, 166, 165, 163, 0.65);
-	padding: 2rem;
-
-	&:hover { transform: translateY(-1rem); }
-
-	&:active { transform: translateY(.5rem); }
 
 	&__input {
 		display: none;
 
-		&:checked ~ .faq__answer {
-			display: flex;
-			flex-direction: column;
-			align-items: baseline;
+		&:checked {
+			~ .faq__answer {
+				background-color: $white;
+				@include shadow($silver, 166, 165, 163, 0.65);
+				padding: 0 2rem 2rem 2rem;
+				display: flex;
+				flex-direction: column;
+				align-items: baseline;
+
+				&:hover {
+					transform: translateY(0rem);
+					box-shadow: 0.8rem 0.8rem $silver;
+				}
+
+				&:active {
+					transform: translateY(0rem);
+					box-shadow: 0.8rem 0.8rem $silver;
+				}
+			}
 		}
 
 		&:checked + .faq__label > .faq__arrow { transform: rotate(180deg); }
 	}
 
 	&__label {
+		background-color: $white;
+		@include shadow($silver, 166, 165, 163, 0.65);
 		font-weight: bold;
+		padding: 2rem 0 2rem 2rem;
 		display: flex;
+		justify-content: space-between;
 		align-items: center;
 		cursor: pointer;
+
+		&:hover {
+			transform: translateY(-1rem);
+
+			~ .faq__answer {
+				box-shadow: 1.1rem 1.1rem $silver;
+				transform: translateY(-1rem);
+			}
+		}
+
+		&:active {
+			transform: translateY(.5rem);
+
+			~ .faq__answer {
+				box-shadow: 0.5rem 0.5rem rgba(166, 165, 163, 0.65);
+				transform: translateY(.5rem);
+			}
+		}
 	}
 
 	&__arrow {
-		border-left: .5rem solid transparent;
-		border-right: .5rem solid transparent;
-		border-top: .6rem solid $black;
-		margin-left: 1rem;
+		border-left: .9rem solid transparent;
+		border-right: .9rem solid transparent;
+		border-top: 1.2rem solid $black;
+		margin-right: 2rem;
 		transition: transform ease-in-out 0.2s;
 	}
 
 	&__answer {
 		display: none;
-		transition: Display 0s, flex-direction 0s, align-items 0s;
+		transition: Display 0s;
 	}
 }

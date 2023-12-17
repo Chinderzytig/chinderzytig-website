@@ -1,0 +1,17 @@
+faq:
+- id: "quellen"
+  question: |
+    Welche Quellen nutzen Sie, um Ihre Informationen zu erhalten?
+  answer: |
+    Wir beziehen unsere Informationen primär aus dem Internet und aus Printmedien.
+    99% der Informationen stammen von:
+  list:
+    - item: "Der Bund"
+    - item: "NZZ"
+    - item: "NZZ am Sonntag"
+    - item: "SRF"
+    - item: "Watson"
+    - item: "Die Zeit"
+    - item: "20 Minuten"
+    - item: "CNN"
+    - item: "Wikipedia"
