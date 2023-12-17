@@ -6,4 +6,5 @@ aliases:
 - /uber-uns
 - /unser-beirat
 - /unsere-quellen
+- /unsere-geschichte
 ---
