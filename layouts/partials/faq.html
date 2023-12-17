@@ -1,8 +1,8 @@
 <div class="cta cta--platinum">
 	<div class="cta__container cta__container--column">
 		<h2 class="deading deading__cta deading--black">Häufig gestellte Fragen</h2>
+		{{ range .Site.Data.partials.fragen.faq }}
 			<div class="faq">
-				{{ range .Site.Data.partials.fragen.faq }}
 					<input type="checkbox" class="faq__input" id="{{ .id }}" />
 					<label for="{{ .id }}" class="faq__label">
 						<span class="faq__question">
@@ -18,8 +18,8 @@
 									<li>{{ .item }}</li>
 								{{ end }}
 							</ul>
+						{{ end }}
 					</div>
-				{{ end }}
 			</div>
 		{{ end }}
 	</div>
