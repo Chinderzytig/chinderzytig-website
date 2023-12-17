@@ -74,12 +74,13 @@
 		  border-right: .5rem solid transparent;
 		  border-top: .6rem solid $white;
 			margin-left: 1rem;
-			transition: transform ease-in-out 0.3s;
+			transition: transform ease-in-out 0.2s;
 		}
 
 		&-content {
 			list-style: none;
 			display: none;
+			padding-left: 0;
 			transition: Display 0s, flex-direction 0s, align-items 0s;
 		}
 

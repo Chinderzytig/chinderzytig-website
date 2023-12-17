@@ -1,0 +1,26 @@
+<div class="cta cta--platinum">
+	<div class="cta__container cta__container--column">
+		<h2 class="deading deading__cta deading--black">Häufig gestellte Fragen</h2>
+		{{ range .Site.Data.partials.fragen.faq }}
+			<div class="faq">
+					<input type="checkbox" class="faq__input" id="{{ .id }}" />
+					<label for="{{ .id }}" class="faq__label">
+						<span class="faq__question">
+							{{ .question }}
+						</span>
+						<span class="faq__arrow"></span>
+					</label>
+					<div class="faq__answer">
+						{{ .answer }}
+						{{ if .list }}
+							<ul>
+								{{ range .list }}
+									<li>{{ .item }}</li>
+								{{ end }}
+							</ul>
+						{{ end }}
+					</div>
+			</div>
+		{{ end }}
+	</div>
+</div>
