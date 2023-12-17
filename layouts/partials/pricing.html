@@ -26,7 +26,7 @@
 						</div>
 						{{ if .btn }}
 							{{ range .btn }}
-							<button class="mtn mtn--jonquil mtn__pricing snipcart-add-item"
+							<button class="btn btn--jonquil btn__pricing snipcart-add-item"
 							data-item-id="{{ .id }}"
 							data-item-price="{{ .price }}"
 							data-item-url="{{ $page.RelPermalink }}"
@@ -41,7 +41,7 @@
 					{{ end }}
 					{{ if .hyper }}
 						{{ range .hyper }}
-							<a href="{{ .link }}" class="mtn mtn--jonquil mtn__pricing mtn__pricing-narrow">{{ .label }}</a>
+							<a href="{{ .link }}" class="btn btn--jonquil btn__pricing btn__pricing-narrow">{{ .label }}</a>
 						{{ end }}
 					{{ end }}
 				</div>
@@ -59,8 +59,8 @@
 	</p>
 
 	{{ if eq $k "visible"}}
-		<a href="https://www.mirroco.ch/" target="_blank" class="mtn mtn__center mtn--jonquil">
-			<span class="mtn__label--visible-pricing">Registrieren/zum Testabo</span>
+		<a href="https://www.mirroco.ch/" target="_blank" class="btn btn__center btn--jonquil">
+			<span class="btn__label--visible-pricing">Registrieren/zum Testabo</span>
 			{{ partial "svgs/arrow-right.html" }}
 		</a>
 	{{ end }}
