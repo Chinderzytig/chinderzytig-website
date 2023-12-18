@@ -32,15 +32,11 @@ Du willst mehr wissen? Wir haben von zwei Politikerinnen jeweils einen Gastkomme
 
 {{< definition id="Referendum" wort="Referendum" def="Nach einem Beschluss des Bundesrats und Parlaments kann die Bevölkerung ein Referendum einlegen. Das heisst, es kann in diesem Fall den Gegenvorschlag nicht akzeptieren. Zu einer erneuten Aufnahme der Vorlage, also der Überarbeitung des Gegenvorschlags kommt es, wenn innerhalb von 100 Tagen mind. 50‘000 Unterschriften oder 8 Kantone das Referendum einreichen." >}}
 
-{{< teiler >}}
-
 ### Gastkommentare
 
 {{< document doc="Konzernverantwortungsinitiative-Ja_z2zrda" caption="Gastkommentar-Pro" >}}
 
 {{< document doc="Konzernverantwortungsinitiative-Nein_par2l3" caption="Gastkommentar-Contra" >}}
-
-{{< teiler >}}
 
 ### Kriegsgeschäfte-Initiative – Für ein Verbot der Finanzierung von Kriegsmaterialproduzenten
 

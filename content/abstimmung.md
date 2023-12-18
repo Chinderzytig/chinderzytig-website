@@ -185,15 +185,11 @@ Das PMT-Gesetz sieht vor, dass Kantone, Gemeinden oder der Nachrichtendienst des
 
 Ein Pro- und Contra Kommentar zum Thema MPT-Gesetz ist hier verfügbar:
 
-{{< teiler >}}
-
 ### Gastkommentare
 
 {{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Pro_pzejzn" caption="Gastkommentar-Pro" >}}
 
 {{< document doc="20210526_FdW_Abstimmungen_PTM_Gastkommentar_Contra_bijxid" caption="Gastkommentar-Contra" >}}
-
-{{< teiler >}}
 
 ### Nun bist du dran
 

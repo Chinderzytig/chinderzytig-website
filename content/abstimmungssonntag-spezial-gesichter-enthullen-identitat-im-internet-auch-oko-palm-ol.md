@@ -134,15 +134,11 @@ Das Parlament hat dem Abkommen zugestimmt. Ein [Komitee](https://stop-palmoel.ch
 
 **Mehr wissen? – gleiche Links wie beim ersten Thema!**
 
-{{< teiler >}}
-
 ### Gastkommentare
 
 {{< document doc="Abstimmungen_EID-Pro_bng1ki" caption="Gastkommentar-Pro" >}}
 
 {{< document doc="Abstimmungen-EID-Contra_yupori" caption="Gastkommentar-Contra" >}}
-
-{{< teiler >}}
 
 ### Nun bist du dran
 
