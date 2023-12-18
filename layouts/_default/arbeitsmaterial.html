@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<div class="cta cta--platinum">
-		<h2 class="deading deading__list deading--black">Arbeitsmaterial</h2>
+		<h2 class="heading heading__list heading--black">Arbeitsmaterial</h2>
 		<div class="cta__container cta__container--card-list">
 			{{ $arbeitsmaterial := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
 			{{ range $arbeitsmaterial.ByDate.Reverse }}

@@ -5,7 +5,7 @@
 	{{ partial "search.html" (dict "shadow" "jonquil" "border" "jonquil") }}
 
 	<div class="cta">
-		<h2 class="deading deading--black">Alle Artikel der Woche</h2>
+		<h2 class="heading heading--black">Alle Artikel der Woche</h2>
 		<div class="cta__container cta__container--card-list">
 			{{ $set1 := where .Site.Pages ".Params.artikel" true }}
 			{{ $set2 := where .Site.Pages ".Params.fdw" true }}
