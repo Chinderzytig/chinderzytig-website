@@ -63,8 +63,8 @@
 				content: "";
 			    height: 13px;
 			    width: 19px;
-			    border-left: 4px solid $chinder-orange;
-			    border-bottom: 4px solid $chinder-orange;
+			    border-left: 4px solid $orange;
+			    border-bottom: 4px solid $orange;
 					border-right: 2px solid transparent;
 					border-top: 2px solid transparent;
 					margin-bottom: .5rem;
@@ -74,7 +74,7 @@
 		}
 	}
 
-	&__datenschutz { color: $chinder-orange; }
+	&__datenschutz { color: $orange; }
 
 	&__field {
 		padding: 1rem;

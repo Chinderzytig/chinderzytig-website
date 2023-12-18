@@ -96,7 +96,7 @@
 		&--silver { @extend .pricing__product--silver; }
 
 		&--heading {
-			color: $color-white;
+			color: $white;
 			font-weight: 500;
 			padding: .1rem;
 			@extend .pricing__name--chestnut;
