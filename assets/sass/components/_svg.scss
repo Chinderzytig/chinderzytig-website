@@ -13,39 +13,29 @@
 		@include respond(phone-xl) { display: none; }
 	}
 
-	&__klassenzimmer { width: 100%; }
-
-	&__support { width: 60%; }
-
-	&__spenden { width: 75%; }
-
-	&__superhero { width: 45%; }
-
-	&__lernpfad { width: 90%; }
-
-	&__verein { width: 80%; }
-
-	&__student { width: 75%; }
-
-	&__choices { width: 75%; }
-
-	&__teacher { width: 80%; }
-
-	&__winner { width: 40%; }
-
-	&__thinking { width: 70%; }
-
-	&__nachricht { width: 90%; }
-
-	&__books { width: 100%; }
-
-	&__kid-peace { width: 45%; }
-
+	&__klassenzimmer,
+	&__books,
+	&__executive,
 	&__mana { width: 100%; }
 
-	&__board { width: 80%; }
+	&__lernpfad,
+	&__nachricht { width: 90%; }
 
-	&__executive { width: 100%; }
+	&__verein,
+	&__teacher,
+	&__board,
+	&__fdw-intro { width: 80%; }
+
+	&__spenden,
+	&__student,
+	&__choices { width: 75%; }
+
+	&__support,
+	&__thinking { width: 60%; }
+
+	&__superhero,
+	&__winner,
+	&__kid-peace { width: 45%; }
 
 	&__social {
 		stroke: $platinum;
@@ -86,8 +76,6 @@
 		width: 3rem;
 		margin-right: .5rem;
 	}
-
-	&__fdw-intro { width: 80%; }
 
 	&__search {
 		width: 3rem;
