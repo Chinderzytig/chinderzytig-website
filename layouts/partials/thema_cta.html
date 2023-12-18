@@ -2,9 +2,9 @@
 
 <div class="cta cta--pink">
 	{{ if eq .categories "true" }}
-		<h2 class="deading deading--black deading__list">Themen des Artikels</h2>
+		<h2 class="heading heading--black heading__list">Themen des Artikels</h2>
 	{{ else }}
-		<h2 class="deading deading--black deading__list">Artikel nach Thema</h2>
+		<h2 class="heading heading--black heading__list">Artikel nach Thema</h2>
 	{{ end }}
 	<div class="cta__container cta__container--taxonomy">
 		{{range $name, $tags := $page.Site.Taxonomies.markierungen}} {{ $cnt := .Count }}

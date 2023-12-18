@@ -5,7 +5,7 @@
 	{{ partial "thema_cta.html" (dict "attr" . "categories" "true") }}
 
 	<div class="cta">
-		<h2 class="deading deading--black">{{ .Title }}</h2>
+		<h2 class="heading heading--black">{{ .Title }}</h2>
 		<div class="cta__container cta__container--card-list">
 			{{ $set1 := where .Site.Pages ".Params.artikel" true }}
 			{{ $set2 := where .Site.Pages ".Params.fdw" false }}
