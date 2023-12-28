@@ -1,9 +1,11 @@
 board:
   - name: Seraina Branschi
-    position: Verantwortung Redaktion und Website
+    position: Verantwortung Ressort HR
   - name: Melanie Cabaleiro
-    position: Verantwortung Ressort Bildung / Marketing
+    position: Verantwortung Ressort Bildung
   - name: Isabel Niklaus
-    position: Verantwortung Marketing / Kommunikation / Sales
+    position: Verantwortung Ressort Marketing/Kommunikation
+  - name: Ardijan Sali
+    position: Verantwortung Ressort Finanzen
   - name: Lars Ziörjen
-    position: Gesamtverantwortung, Co-Präsident
+    position: Verantwortung Ressorts Redaktion und Controlling, sowie Gesamtverantwortung
