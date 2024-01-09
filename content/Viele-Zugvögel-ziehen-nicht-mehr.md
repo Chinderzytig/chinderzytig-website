@@ -37,3 +37,5 @@ In den letzten Jahren wurden immer wärmere Winter gemessen, unter anderem wegen
 Eine der Vogelarten, die nun häufiger hierbleibt, ist der Weissstorch. Weissstörche zählen zu den Langstreckenziehern und ernähren sich von Insekten und anderen Kleintieren (sowie die meisten anderen Langstreckenzieher). Langstreckenzieher sind Vögel, die im Frühling in Europa Brüten und danach nach Afrika fliegen. Genauer gesagt fliegen sie oft in Länder, die südlich der Sahara liegen. Das sind Reisen von über 4‘000 km, die diese Vögel zweimal jährlich auf sich nehmen. Nun reisen einige Weissstörche nur noch bis Spanien, denn dort finden sie auch genügend Insekten oder fressen aus herumliegenden Abfällen. Auch in Deutschland und in der Schweiz werden immer häufiger Weissstörche im Winter gesichtet.
 
 Eine der Folgen ist: Vögel, die eigentlich hier überwintern, haben Mühe, Nahrung zu finden. Im Winter ist die Nahrung für Vögel sowieso schon knapp, schlimmer wird es, wenn mehr Vogelarten sich davon ernähren müssen. Unter anderem wegen mangelnder Nahrung stehen viele Vogelarten auf der roten Liste der bedrohten Tierarten.
+
+{{< arbeitsmaterial >}}
