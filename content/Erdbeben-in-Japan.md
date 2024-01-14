@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "Die_Geschichte_von_Weihnachten_AM_ruo1fw"
+arbeitsmaterial = ""
 artikel = true
 author = "Kiruthihan Srikaran"
 cc_licence = ""
