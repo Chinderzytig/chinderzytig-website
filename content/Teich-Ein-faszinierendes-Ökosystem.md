@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Teich_Ein_faszinierendes_Ökosystem_AM_ibehqh"
 artikel = true
 author = "Kanita Willner"
 cc_licence = ""
@@ -50,3 +50,5 @@ Teiche sind Naturhelfer, die Regenwasser sammeln und frisches Wasser an die Erde
 ### Die Natur ist ein Team
 
 Ein verantwortungsbewusster Umgang mit diesem Ökosystem ist daher nicht nur im Interesse der Natur, sondern auch für uns Menschen von grosser Bedeutung. Indem wir die Bedeutung jedes Bewohners im Teich schätzen und schützen, tragen wir dazu bei, dass dieses faszinierende Miniatur-Ökosystem sein Gleichgewicht bewahrt und uns mit seiner Schönheit und Vielfalt erfreut.
+
+{{< arbeitsmaterial >}}
