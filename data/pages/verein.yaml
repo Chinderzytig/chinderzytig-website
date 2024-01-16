@@ -61,6 +61,8 @@ companies:
   desc: Migros logo
 - logo: "keystone-black_ltgj7k.png"
   desc: Keystone SDA logo
+- logo: "wiki_ch_tvkpgx.png"
+  desc: Wikimedia CH logo
 - logo: "stiftun_schweiz_x8sv4n.png"
   desc: Stiftung Schweiz logo
 - logo: "phbern_black_e5tq45.png"
@@ -81,7 +83,7 @@ companies:
   desc: Schule Schmitten logo
 - logo: "feusi_gl6n7r.png"
   desc: Feusi logo
-- logo: "schule_mosli_uunsvq.png"
+- logo: "1510061302_yybz6u.gif"
   desc: Schule Mösli logo
 - logo: "breitenrain_jgbpjf.png"
   desc: Breitenrain-Lorraine logo
@@ -91,8 +93,6 @@ companies:
   desc: KIT-Initiative logo
 - logo: "schule-kh_bzefc6.png"
   desc: Schule Kirchlindach Herrenschwanden logo
-- logo: "wikimedia-foundation_s3dcjo.png"
-  desc: Wikimedia Foundation logo
 - logo: "schule_tscharnergut_dpbit7.png"
   desc: Schule Tscharnergut placeholder
 - logo: "diaspora_gqcevy.jpg"
