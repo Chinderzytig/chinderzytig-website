@@ -10,7 +10,7 @@
 	&__banner {
 		width: 5rem;
 
-		@include respond(phone-xl) { display: none; }
+		@include respond(tab-port-sm) { display: none; }
 	}
 
 	&__klassenzimmer,
