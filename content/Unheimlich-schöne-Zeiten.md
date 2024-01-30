@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Unheimlich_schöne_Zeiten_AM_epg8i2"
 artikel = true
 author = "Kathrin Hausammann"
 cc_licence = ""
@@ -53,3 +53,5 @@ Warum es die Tschäggättä gibt, kann niemand so genau sagen. Im Tal hört man 
 ### Goiggler, Gnooggär Füüdini und Empaillés & Peluches
 
 Doch nicht nur im Lötschental sind im Februar unheimliche Gestalten anzutreffen. So sind in den Walliser Dörfern Bratsch, Erschmatt und Niedergampel die Gnooggar Füüdini unterwegs. Sie tragen Kleider aus Stofffetzen und ebenfalls gfürchige Masken. Im Saastal treiben die Göiggler den Winter aus. Im französischsprachigen Evolène beginnt die Fasnachtszeit bereits nach dem Dreikönigstag. Zuerst sorgen die „Peluches“, seltsame Wesen in Katzen-, Fuchs- oder Wolfsgestalt für Angst und Schrecken. In der Fasnachtswoche kommen dann noch die „Empaillés“ dazu. Das sind Menschen, die in Jutesäcken verkleidet sind, die mit Stroh gefüllt werden. So sehen sie dann ganz gross und dick aus. Auch all diese Bräuche gehen auf Legenden zurück, auf Geschichten, bei denen man nie so genau weiss, ob sie stimmen oder nicht. Aber das macht den Reiz von Legenden doch gerade aus, oder findest du nicht?
+
+{{< arbeitsmaterial >}}
