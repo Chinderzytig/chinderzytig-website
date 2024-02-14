@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "Unheimlich_schöne_Zeiten_AM_epg8i2"
+arbeitsmaterial = "Die_Legende_der_Teufelsbrücke_AM_fbhyxm"
 artikel = true
 author = "Kanita Willner"
 cc_licence = ""
@@ -50,3 +50,5 @@ Als der Teufel versuchte, die Brücke mit einem Felsbrocken zu zerstören, traf 
 ### Ein Vermächtnis im Stein
 
 Obwohl die erste Teufelsbrücke im Jahre 1888 zerstört wurde, erinnert eine neue Brücke an diese alte Legende. Heute steht die Teufelsbrücke als Zeugnis dieser alten Legende noch immer in der Schöllenenschlucht und kann von Besucher*innen erkundet werden. Die Teufelsbrücke bleibt ein Symbol für den Sieg der Menschheit über das Böse und für die Listigkeit der menschlichen Natur.
+
+{{< arbeitsmaterial >}}
