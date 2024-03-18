@@ -25,11 +25,11 @@ _Dieser Monat ist geprägt vom Thema Finanzen, Budget, Taschengeld. “Geld mach
 
 <ul>
 
-<li>Das Geld, das wir auf eine Bank einzahlen, leiht die Bank von uns aus.</li>
+<li>Freiheit ist ein grosser, wichtiger und zerbrechlicher Begriff.</li>
 
-<li> Für das Geld, das wir der Bank auslehnen, erhalten wir Zinsen.</li>
+<li>Finanzielle Freiheit ist ein zentrales Gut. Sie entlastet und entspannt die Menschen, weil Ausgaben und finanzielle Möglichkeiten entstehen können.</li>
 
-<li>Wenn wir jedoch Geld von der Bank auslehnen, dann bezahlen wir die Zinsen.</li>
+<li>Es ist zentral, dass wir unser (Taschen-)Geld überblicken, in Form eines Budgets, jedoch auch Geld, das wir zur Verfügung haben, ausgeben. Gänggele erlaubt.</li>
 
 </ul>
 
