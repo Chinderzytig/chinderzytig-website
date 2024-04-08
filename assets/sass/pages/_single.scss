@@ -70,6 +70,14 @@
 			margin-bottom: 1.5rem;
 		}
 
+		&-heading--white {
+			font-family: $font-amatic;
+			font-weight: bold;
+			color: $white;
+			font-size: 3.5rem;
+			margin-bottom: 1.5rem;
+		}
+
 		ul { @include respond(phone-xxl) { padding-left: 2rem; } }
 
 		p, li {
