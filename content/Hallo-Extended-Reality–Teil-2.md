@@ -4,7 +4,7 @@ artikel = true
 author = "Nina Liechti"
 cc_licence = ""
 cc_src = ""
-date = 2024-04-09T01:00:00Z
+date = 2024-04-11T01:00:00Z
 description = ""
 fdw = false
 hero_img = "/Hallo_Extended_Reality_Teil_2_nfkytz.jpg"
@@ -55,8 +55,14 @@ Momentan gibt es noch einige Hürden, die einer Benutzer\*innen-freundlichen Ver
 
 Lies im dritten Teil, wie XR mit KI zusammenhängt und wie nachhaltig die ganze KI-Welt überhaupt ist.
 
-### Die Chinderzytig kollaboriert mit BeLEARN.
+{{< info-box title="Die Chinderzytig kollaboriert mit BeLEARN" >}}
 
-BeLEARN ist das neue, vom Kanton Bern initiierte Kompetenzzentrum für Digitalisierung in der Bildung. Die fünf Gründerhochschulen (Universität Bern, PHBern, Berner Fachhochschule, EPFL, EHB) sowie assoziierte Partner (FFHS, Institut für Bildungswissenschaften der Universität Basel und EdTech Collider) forschen und entwickeln gemeinsam in den Bereichen Digital Skills, Digital Tools und Data Science for Education. Die Forscher\*innen in BeLEARN übersetzen die Ergebnisse in konkrete Lösungen für die Praxis. Im Hub in Bern arbeiten sie gemeinsam mit den Start-ups und der Geschäftsstelle unter einem Dach. BeLEARN ist Ansprechpartner für Lehrpersonen, Ausbildungsleiter\*innen, Schulleiter*innen, Elternteile, Studenten und Studentinnen, sowie Lernende bei Anliegen zur Digitalisierung in der Bildung. Ausserdem ist BeLEARN stets offen für konkrete und relevante Herausforderungen aus der Praxis, die durch Forschungsgruppen, Kooperationen oder Entwicklungsprojekten angegangen werden können.
+	<p>
+		BeLEARN ist das neue, vom Kanton Bern initiierte Kompetenzzentrum für Digitalisierung in der Bildung. Die fünf Gründerhochschulen (Universität Bern, PHBern, Berner Fachhochschule, EPFL, EHB) sowie assoziierte Partner (FFHS, Institut für Bildungswissenschaften der Universität Basel und EdTech Collider) forschen und entwickeln gemeinsam in den Bereichen Digital Skills, Digital Tools und Data Science for Education. Die Forscher*innen in BeLEARN übersetzen die Ergebnisse in konkrete Lösungen für die Praxis. Im Hub in Bern arbeiten sie gemeinsam mit den Start-ups und der Geschäftsstelle unter einem Dach. BeLEARN ist Ansprechpartner für Lehrpersonen, Ausbildungsleiter*innen, Schulleiter*innen, Elternteile, Studenten und Studentinnen, sowie Lernende bei Anliegen zur Digitalisierung in der Bildung. Ausserdem ist BeLEARN stets offen für konkrete und relevante Herausforderungen aus der Praxis, die durch Forschungsgruppen, Kooperationen oder Entwicklungsprojekten angegangen werden können.
+	</p>
 
-BeLEARN est le nouveau centre de compétences initié par le canton de Berne pour la numérisation dans l’éducation. Les cinq hautes écoles fondatrices (Université de Berne, PHBern, Haute école spécialisée bernoise, EPFL, HEFP) ainsi que des partenaires associés (FFHS, l’institut des sciences de l’éducation de l’Université de Bâle et l’EdTech Collider) font de la recherche et du développement en commun dans les domaines des digital skills, de digital tools et de la data science pour l’éducation. Les chercheur·es en BeLEARN traduisons les résultats en solution concrètes pour la pratique. Au Hub à Berne, les chercheur·es, le bureau et les start-ups travailleront ensemble sous un même toit. BeLEARN est l’interlocuteur des enseignant·es, les personnes responsables de la formation, les directeur·rices d’école, les parents, les élèves, et les apprenant·es pour toutes les préoccupations liées à la numérisation dans l’éducation. De plus, BeLEARN est toujours ouvert aux défis concrets et pertinents issus de la pratique qui devraient être relevés par les groupes de recherche, dans le cadre de projets de coopération ou de développement.
+	<p>
+		BeLEARN est le nouveau centre de compétences initié par le canton de Berne pour la numérisation dans l’éducation. Les cinq hautes écoles fondatrices (Université de Berne, PHBern, Haute école spécialisée bernoise, EPFL, HEFP) ainsi que des partenaires associés (FFHS, l’institut des sciences de l’éducation de l’Université de Bâle et l’EdTech Collider) font de la recherche et du développement en commun dans les domaines des digital skills, de digital tools et de la data science pour l’éducation. Les chercheur·es en BeLEARN traduisons les résultats en solution concrètes pour la pratique. Au Hub à Berne, les chercheur·es, le bureau et les start-ups travailleront ensemble sous un même toit. BeLEARN est l’interlocuteur des enseignant·es, les personnes responsables de la formation, les directeur·rices d’école, les parents, les élèves, et les apprenant·es pour toutes les préoccupations liées à la numérisation dans l’éducation. De plus, BeLEARN est toujours ouvert aux défis concrets et pertinents issus de la pratique qui devraient être relevés par les groupes de recherche, dans le cadre de projets de coopération ou de développement.
+	</p>
+
+{{< /info-box >}}
