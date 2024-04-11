@@ -1,7 +1,5 @@
 {{ define "main" }}
 
-	{{ partial "possibilities.html" }}
-
 	{{ partial "data-card.html"
 		(dict
 			"attr" .
@@ -16,23 +14,6 @@
 			"imgClass" "--pdf"
 			"ghost" "false"
 			"advertise" "false"
-		)
-	}}
-
-	{{ partial "data-card.html"
-		(dict
-			"attr" .
-			"cta" "orange"
-			"headingColor" "white"
-			"heading" "Beispiele aus dem Alltag"
-			"flickity" "false"
-			"containerType" "taxonomy"
-			"data" .Site.Data.pages.unterrichtsideen.newspapers
-			"shadow" "chestnut"
-			"bgColor" "cultured"
-			"imgClass" "--pdf"
-			"ghost" "false"
-			"advertise" "true"
 		)
 	}}
 
