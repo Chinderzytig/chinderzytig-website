@@ -19,6 +19,10 @@
 
 	&__superscript { font-weight: normal; }
 
+	&__link {
+		color: $orange;
+	}
+
 	&__check {
 		color: $orange;
 		font-size: 2.5rem;
