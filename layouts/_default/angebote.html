@@ -23,21 +23,6 @@
 
 	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
-	{{ partial "pricing.html"
-		(dict
-			"attr" .
-			"cta" "platinum"
-			"color" "black"
-			"title" "Visible Learning-Abonnements"
-			"kind" "visible"
-			"accent" "silver"
-		)
-	}}
-
-	{{ partial "visible-info.html" . }}
-
-	{{ partial "pricing-benefits.html" }}
-
 {{ end }}
 {{ define "scripts" }}
 	<script type="module">
