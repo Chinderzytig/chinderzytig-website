@@ -21,6 +21,26 @@
 		)
 	}}
 
+	{{ partial "possibilities.html" }}
+
+	{{ partial "data-card.html"
+		(dict
+			"attr" .
+			"cta" "orange"
+			"headingColor" "white"
+			"heading" "Beispiele aus dem Alltag"
+			"flickity" "false"
+			"containerType" "taxonomy"
+			"data" .Site.Data.pages.unterrichtsideen.newspapers
+			"shadow" "chestnut"
+			"bgColor" "cultured"
+			"imgClass" "--pdf"
+			"ghost" "false"
+			"advertise" "true"
+		)
+	}}
+
+
 	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
 {{ end }}
