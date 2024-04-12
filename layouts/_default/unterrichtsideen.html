@@ -23,6 +23,23 @@
 
 	{{ partial "pb-teachers.html" . }}
 
+	{{ partial "data-card.html"
+		(dict
+			"attr" .
+			"cta" "orange"
+			"headingColor" "white"
+			"heading" "Was sagen Medien über die Chinderzytig?"
+			"textColor" "white"
+			"text" "Die Chinderzyitg ist in diversen Beiträgen erwähnt worden. Zu entdecken sind sie unter dem Link."
+			"flickity" "true"
+			"data" .Site.Data.pages.verein.media
+			"shadow" "chestnut"
+			"bgColor" "cultured"
+			"imgClass" ""
+			"ghost" "false"
+		)
+	}}
+
 	{{ partial "proposition-cta.html" }}
 
 	{{ partial "any-questions-cta.html" }}
