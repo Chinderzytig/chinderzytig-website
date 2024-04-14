@@ -6,19 +6,29 @@
 {{ if eq $snipcart "true" }}
 	{{ range where $t "alias" $a }}
 		<button class="pdf pdf--cart">
-			{{ partial "svgs/pdf.html" }}
 			<div class="pdf__info">
-				<h3 class="pdf__title">{{ .name }}</h3>
-				<p class="pdf__target">{{ .target }}</p>
+				{{ partial "svgs/pdf.html" }}
+				<div class="pdf__text">
+					<h3 class="pdf__title">{{ .name }}</h3>
+					<p class="pdf__target">{{ .target }}</p>
+				</div>
+			</div>
+			<div class="pdf__buy">
+				<div class="pdf__buy-container">
+					{{ partial "svgs/cart.html" }}
+					<span class="pdf__buy-now">Jetzt kaufen</span>
+				</div>
 			</div>
 		</button>
 	{{ end }}
 {{ else }}
 	{{ range where $t "alias" $a }}
 		<a href="{{ .link }}" target="_blank" class="pdf pdf--external">
-			{{ partial "svgs/pdf.html" }}
 			<div class="pdf__info">
-				<h3 class="pdf__title">{{ .name }}</h3>
+				{{ partial "svgs/pdf.html" }}
+				<div class="pdf__text">
+					<h3 class="pdf__title">{{ .name }}</h3>
+				</div>
 			</div>
 		</a>
 	{{ end }}

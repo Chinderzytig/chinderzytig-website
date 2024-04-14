@@ -1,13 +1,13 @@
 .pdf {
 	background-color: $white;
 	display: flex;
-	align-items: center;
-	padding: 1rem;
+	justify-content: space-between;
 	cursor: pointer;
 
 	&--external {
 		@include shadow(#CD0000, 205, 0, 0, 0.65)
 		border: 1px solid #CD0000;
+		// padding: 1rem;
 
 		&:link,
 		&:visited {
@@ -24,16 +24,42 @@
 		font-size: $font-default;
 		border: none;
 		box-shadow: 0.8rem 0.8rem #CD0000;
-		margin: 0 10rem 3rem 0;
+		margin: 0 6rem 3rem 0;
 	}
 
-	&__info { padding: 0 2rem; }
+	&__info {
+		display: flex;
+		align-items: center;
+		padding: 1rem 0 1rem 1rem;
+	}
+
+	&__text { padding: 0 1rem; }
 
 	&__title { font-family: $font-andika; }
 
 	&__target {
 		font-size: $font-small;
 		margin-top: .5rem;
+	}
+
+	&__buy {
+		background-color: $jonquil;
+		display: flex;
+		align-self: stretch;
+		padding: 1rem;
+		margin: -.1rem -.6rem -.1rem 0;
+
+		&-container {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+		}
+
+		&-now {
+			font-family: $font-spartan;
+			margin-top: 1rem;
+		}
 	}
 
 	&__group { display: flex; }
