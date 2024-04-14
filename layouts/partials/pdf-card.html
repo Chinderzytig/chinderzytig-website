@@ -1,12 +1,25 @@
 {{ $page := .attr }}
+{{ $snipcart := .snipcart }}
 {{ $a := .alias }}
 {{ $t := sort $page.Site.Data.partials.pdf.files }}
 
-{{ range where $t "alias" $a }}
-	<a href="{{ .link }}" target="_blank" class="pdf">
-		{{ partial "svgs/pdf.html" }}
-		<div class="pdf__info">
-			<h3 class="pdf__title">{{ .name }}</h3>
-		</div>
-	</a>
+{{ if eq $snipcart "true" }}
+	{{ range where $t "alias" $a }}
+		<button class="pdf pdf--cart">
+			{{ partial "svgs/pdf.html" }}
+			<div class="pdf__info">
+				<h3 class="pdf__title">{{ .name }}</h3>
+				<p class="pdf__target">{{ .target }}</p>
+			</div>
+		</button>
+	{{ end }}
+{{ else }}
+	{{ range where $t "alias" $a }}
+		<a href="{{ .link }}" target="_blank" class="pdf pdf--external">
+			{{ partial "svgs/pdf.html" }}
+			<div class="pdf__info">
+				<h3 class="pdf__title">{{ .name }}</h3>
+			</div>
+		</a>
+	{{ end }}
 {{ end }}
