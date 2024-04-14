@@ -95,6 +95,8 @@
 			justify-content: center;
 			flex-direction: column;
 
+			a { &:not(:last-child) { margin-bottom: $margin-s; } }
+
 			@include respond(phone-land-lg) { width: 100%; }
 		}
 	}

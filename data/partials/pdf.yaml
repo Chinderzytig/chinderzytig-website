@@ -1,0 +1,8 @@
+files:
+  - alias: "cart"
+  - alias: "external"
+    name: "Masterarbeit Chinderzytig - Die Aktuelle Stunde"
+    link: "https://res.cloudinary.com/chinderzytig/image/upload/v1713093235/stock/Masterarbeit_Chinderzytig_wulqmj.pdf"
+  - alias: "external"
+    name: "Entwicklungsarbeit Chinderzytig - Mein Projekt"
+    link: "https://res.cloudinary.com/chinderzytig/image/upload/v1713093238/stock/Entwicklungsarbeit_Chinderzytig_vut9wk.pdf"

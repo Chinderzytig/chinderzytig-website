@@ -12,9 +12,7 @@
 			</p>
 		</div>
 		<div class="cta__svg cta__svg--flex-pdf">
-			{{ partial "pdf-card.html" }}
-
-			{{ partial "pdf-card.html" }}
+			{{ partial "pdf-card.html" (dict "attr" . "alias" "external") }}
 		</div>
 	</div>
 </div>

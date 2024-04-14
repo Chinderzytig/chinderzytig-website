@@ -6,6 +6,16 @@
 	padding: 1rem;
 	cursor: pointer;
 
+	&:link,
+	&:visited {
+		text-decoration: none;
+		color: $black;
+	}
+
+	&:hover { transform: translateY(-1rem); }
+
+	&:active { transform: translateY(.5rem); }
+
 	&__info {
 		margin-left: 2rem;
 	}
