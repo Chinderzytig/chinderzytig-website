@@ -15,4 +15,14 @@
 			{{ partial "pdf-card.html" (dict "attr" . "snipcart" "false" "alias" "external") }}
 		</div>
 	</div>
+	<div class="carousel" data-flickity='{"cellAlign": "left", "lazyLoad": true}'>
+		{{ range .Site.Data.pages.unterrichtsideen.thesis }}
+		<div class="carousel__cell">
+			<img data-flickity-lazyload="{{ $.Site.Params.cloudinary_url }}/h_400,c_scale,q_auto:good/{{ .photo }}"
+			alt=""
+			class="carousel__image"
+			/>
+		</div>
+		{{ end }}
+	</div>
 </div>

@@ -97,7 +97,10 @@
 
 			a { &:not(:last-child) { margin-bottom: $margin-s; } }
 
-			@include respond(phone-land-lg) { width: 100%; }
+			@include respond(phone-land-lg) {
+				width: 100%;
+				margin-bottom: $margin-s;
+			}
 		}
 	}
 
