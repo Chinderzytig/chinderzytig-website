@@ -1,6 +1,6 @@
 .implementation {
 	background-color: $white;
-	box-shadow: .8rem .8rem $silver;
+	box-shadow: .8rem .8rem $chestnut;
 	width: 100%;
 	border-collapse: collapse;
 
@@ -10,7 +10,7 @@
 	}
 
 	td, th {
-	  border: 1px solid $silver;
+	  border: 1px solid $chestnut;
 	  text-align: left;
 	  padding: 1rem;
 	}
@@ -52,7 +52,7 @@
 	&__fineprint {
 		font-size: 1.3rem;
 		background-color: $white;
-		box-shadow: .8rem .8rem $silver;
+		box-shadow: .8rem .8rem $chestnut;
 		padding: 1rem;
 
 		&-number {
@@ -61,5 +61,5 @@
 		}
 	}
 
-	&--silver { background-color: $silver; }
+	&--silver { background-color: $chestnut; }
 }

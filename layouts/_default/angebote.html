@@ -29,16 +29,18 @@
 		)
 	}}
 
+	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
+
 	{{ partial "data-card.html"
 		(dict
 			"attr" .
-			"cta" "orange"
+			"cta" "verdigris"
 			"headingColor" "white"
 			"heading" "Beispiele aus dem Alltag"
 			"flickity" "false"
 			"containerType" "taxonomy"
 			"data" .Site.Data.pages.unterrichtsideen.newspapers
-			"shadow" "chestnut"
+			"shadow" "celadon"
 			"bgColor" "cultured"
 			"imgClass" "--pdf"
 			"ghost" "false"
@@ -47,8 +49,6 @@
 	}}
 
 	{{ partial "implementation.html" }}
-
-	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
 {{ end }}
 {{ define "scripts" }}
