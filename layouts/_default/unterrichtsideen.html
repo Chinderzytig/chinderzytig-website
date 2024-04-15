@@ -4,7 +4,13 @@
 
 	{{ partial "pb-and-chinderzytig.html" }}
 
-	{{ partial "pdf-purchase-cta.html" . }}
+	{{ partial "pdf-purchase-cta.html" (dict
+		"attr" .
+		"cta" "verdigris"
+		"headingColor" "white"
+		"textColor" "white"
+		)
+	}}
 
 	{{ partial "pb-teachers.html" . }}
 

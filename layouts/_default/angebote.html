@@ -21,6 +21,14 @@
 
 	{{ partial "possibilities.html" }}
 
+	{{ partial "pdf-purchase-cta.html" (dict
+		"attr" .
+		"cta" "platinum"
+		"headingColor" "black"
+		"textColor" "black"
+		)
+	}}
+
 	{{ partial "data-card.html"
 		(dict
 			"attr" .
