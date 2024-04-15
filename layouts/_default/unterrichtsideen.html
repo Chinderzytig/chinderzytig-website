@@ -6,26 +6,9 @@
 
 	{{ partial "pdf-purchase-cta.html" . }}
 
-	<!-- {{ partial "data-card.html"
-		(dict
-			"attr" .
-			"cta" "verdigris"
-			"headingColor" "white"
-			"heading" "Mögliche Umsetzungsideen"
-			"flickity" "false"
-			"containerType" "card-list"
-			"data" .Site.Data.pages.unterrichtsideen.examples
-			"shadow" "celadon"
-			"bgColor" "cultured"
-			"imgClass" "--pdf"
-			"ghost" "false"
-			"advertise" "false"
-		)
-	}} -->
-
 	{{ partial "pb-teachers.html" . }}
 
-	{{ partial "science-of-chinderzytig.html" . }}
+	{{ partial "pb-thesis" . }}
 
 	{{ partial "data-card.html"
 		(dict
