@@ -5,7 +5,14 @@
 
 {{ if eq $snipcart "true" }}
 	{{ range where $t "alias" $a }}
-		<button class="pdf pdf--cart">
+		<button class="pdf pdf--cart snipcart-add-item"
+			data-item-id="{{ .id }}"
+			data-item-file-guid="{{ .guid }}"
+			data-item-price="{{ .price }}"
+			data-item-url="{{ $page.RelPermalink }}"
+			data-item-description="{{ .description }}"
+			data-item-image="{{ $page.Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png"
+			data-item-name="{{ .name }} PDF">
 			<div class="pdf__info">
 				{{ partial "svgs/pdf.html" }}
 				<div class="pdf__text">
