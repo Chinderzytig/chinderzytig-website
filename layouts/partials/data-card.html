@@ -2,6 +2,8 @@
 {{ $cta := .cta }}
 {{ $headingColor := .headingColor }}
 {{ $heading := .heading }}
+{{ $textColor := .textColor}}
+{{ $text := .text }}
 {{ $flickity := .flickity }}
 {{ $containerType := .containerType }}
 {{ $data := .data }}
@@ -13,6 +15,9 @@
 
 <div class="cta cta--{{ $cta }}">
 	<h2 class="heading heading--{{ $headingColor }}">{{ $heading }}</h2>
+	{{ if $text }}
+	<p class="cta__text cta__text--btnless cta__text--{{ $textColor }}">{{ $text }}</p>
+	{{ end }}
 	{{ if eq $flickity "true" }}
 		<div class="carousel" data-flickity='{"cellAlign": "left", "wrapAround": true}'>
 	{{ else }}
@@ -43,7 +48,7 @@
 		{{ if eq $advertise "true" }}
 			<div class="card__advertise">
 				<div class="card__advertise-text">
-					Hier kann eure Zeitung sein... 
+					Hier kann eure Zeitung sein...
 				</div>
 			</div>
 		{{ end }}

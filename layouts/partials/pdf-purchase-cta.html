@@ -1,0 +1,22 @@
+{{ $page := .attr }}
+{{ $cta := .cta }}
+{{ $headingColor := .headingColor }}
+{{ $textColor := .textColor}}
+
+<div class="cta cta--{{ $cta }}">
+	<h2 class="heading heading--{{ $headingColor }}">
+		Wie kann Politische Bildung mit der Chinderzytig unterrichtet werden?
+	</h2>
+	<p class="cta__text cta__text--{{ $textColor }}">
+		Die Möglichkeiten sind endlos – der Fantasie sind keine Grenzen gesetzt.
+		Wir haben hier einige Unterrichtsprojekte erstellt, die für den
+		Politikunterricht mit der Chinderzytig für die Zyklen 2 (3.-6. Klasse)
+		und 3 (7.-9. Klasse) geeignet sind. Die Chinderzytig richtet sich nach
+		der Vorlage des Schweizerischen Lehrplans21. Für nur 10.- Fr. kannst du
+		unsere Schulprojekte bei uns erwerben und gleichzeitig die Chinderzytig
+		unterstützen!
+	</p>
+	<div class="carousel" data-flickity='{"cellAlign": "left", "wrapAround": true}'>
+		{{ partial "pdf-card.html" (dict "attr" $page "snipcart" "true" "alias" "cart") }}
+	</div>
+</div>

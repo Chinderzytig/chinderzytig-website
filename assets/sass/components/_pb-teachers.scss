@@ -1,0 +1,12 @@
+.pb-teachers {
+	&:not(:last-child) { margin-bottom: $margin-s; }
+
+	&__point {
+		text-align: justify;
+		background-color: $white;
+		box-shadow: 0.8rem 0.8rem $silver;
+		padding: 2rem;
+	}
+
+	&__title { font-weight: bold; }
+}

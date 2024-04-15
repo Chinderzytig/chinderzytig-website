@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-	{{ partial "simply-packaged.html" }}
+	{{ partial "comes-to-you.html" }}
+
+	{{ partial "school-benefits.html" }}
 
 	{{ partial "donation-cta.html" . }}
 
@@ -17,22 +19,36 @@
 		)
 	}}
 
-	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
+	{{ partial "possibilities.html" }}
 
-	{{ partial "pricing.html"
-		(dict
-			"attr" .
-			"cta" "platinum"
-			"color" "black"
-			"title" "Visible Learning-Abonnements"
-			"kind" "visible"
-			"accent" "silver"
+	{{ partial "pdf-purchase-cta.html" (dict
+		"attr" .
+		"cta" "platinum"
+		"headingColor" "black"
+		"textColor" "black"
 		)
 	}}
 
-	{{ partial "visible-info.html" . }}
+	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
-	{{ partial "pricing-benefits.html" }}
+	{{ partial "data-card.html"
+		(dict
+			"attr" .
+			"cta" "verdigris"
+			"headingColor" "white"
+			"heading" "Beispiele aus dem Alltag"
+			"flickity" "false"
+			"containerType" "taxonomy"
+			"data" .Site.Data.pages.unterrichtsideen.newspapers
+			"shadow" "celadon"
+			"bgColor" "cultured"
+			"imgClass" "--pdf"
+			"ghost" "false"
+			"advertise" "true"
+		)
+	}}
+
+	{{ partial "implementation.html" }}
 
 {{ end }}
 {{ define "scripts" }}

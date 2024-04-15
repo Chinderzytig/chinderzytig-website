@@ -1,0 +1,18 @@
+.sources {
+
+	&__title {
+		font-family: $font-amatic;
+		font-size: 3rem;
+		margin-bottom: 1rem;
+	}
+
+	&__list {
+		text-align: justify;
+		padding-left: 2rem;
+	}
+
+	&__source {
+		font-size: $font-small;
+		&:not(:last-child) { margin-bottom: 1.5rem; }
+	}
+}

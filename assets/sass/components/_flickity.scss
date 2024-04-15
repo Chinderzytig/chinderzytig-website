@@ -17,3 +17,20 @@ button.flickity-prev-next-button {
 }
 
 svg.flickity-button-icon { fill: rgba(46, 49, 66, 0.40); }
+
+.carousel {
+
+	&__cell {
+		width: 100%;
+		height: auto;
+		margin-right: 1rem;
+		background: $seasalt;
+	}
+
+	&__image {
+	  display: block;
+	  max-height: 100%;
+	  margin: 0 auto;
+	  max-width: 100%;
+	}
+}

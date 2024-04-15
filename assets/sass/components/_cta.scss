@@ -42,6 +42,12 @@
 
 			@include respond(phone-xl) { flex-direction: column; }
 		}
+
+		&--pdf {
+			@extend .cta__container--standard;
+
+			@include respond(phone-land-lg) { flex-direction: column; }
+		}
 	}
 
 	&__info {
@@ -83,6 +89,19 @@
 		&--flex-start { justify-content: flex-start; }
 
 		&--flex-end { justify-content: flex-end; }
+
+		&--flex-pdf {
+			width: 40%;
+			justify-content: center;
+			flex-direction: column;
+
+			a { &:not(:last-child) { margin-bottom: $margin-s; } }
+
+			@include respond(phone-land-lg) {
+				width: 100%;
+				margin-bottom: $margin-s;
+			}
+		}
 	}
 
 	&__crew {

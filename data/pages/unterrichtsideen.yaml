@@ -34,3 +34,30 @@ newspapers:
     cat_class: "fdw"
     category: "PDF"
     title: "Schüler: innenzeitung Schule Arboro"
+
+teachers:
+  - point: "1. Überwältigungsverbot"
+    content: |
+      Es ist nicht erlaubt, die Schüler*innen mit einer erwünschten Meinung zu
+      überwältigen. Ein selbständiges Urteil fällen zu können, muss für die
+      Lernenden immer möglich sein. Politische Bildung darf nie Indoktrination sein.
+  - point: "2. Kontroversität"
+    content: |
+      Was in Wissenschaft und Politik kontrovers ist, muss auch im Unterricht
+      kontrovers erscheinen. Die verschiedenen Argumente und Positionen rund um
+      einen Diskurs müssen miteinfliessen. Eine kontroverse Diskussion darf nicht
+      einseitig dargelegt werden. Die Meinung oder Haltung der Lehrperson wird
+      dadurch unproblematisch, da auch die entgegengesetzte Meinung zur Sprache
+      kommen muss.
+  - point: "3. Schüler*innenorientierung"
+    content: |
+      Die Schüler*in muss in die Lage versetzt werden, eine politische Situation
+      und ihre eigene Interessenlage zu analysieren. Das ist möglich, wenn eine
+      umfassende Darlegung der Sachlache geschieht und eine eigene Meinungsbildung
+      möglich ist. Die Ermutigung und Befähigung zur politischen Teilhabe ist ein
+      weiteres Element in diesem Punkt.
+
+thesis:
+  - photo: "production/Masterarbeit_1_r9kssn.jpg"
+  - photo: "production/Masterarbeit_2_lgrhdu.jpg"
+  - photo: "production/Masterarbeit_3_ykdg9a.jpg"

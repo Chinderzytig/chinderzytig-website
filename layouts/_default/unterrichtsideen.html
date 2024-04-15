@@ -1,48 +1,38 @@
 {{ define "main" }}
-	{{ partial "comes-to-you.html" }}
 
-	{{ partial "possibilities.html" }}
+	{{ partial "what-is-pb.html" }}
 
-	{{ partial "data-card.html"
-		(dict
-			"attr" .
-			"cta" "verdigris"
-			"headingColor" "white"
-			"heading" "Mögliche Umsetzungsideen"
-			"flickity" "false"
-			"containerType" "card-list"
-			"data" .Site.Data.pages.unterrichtsideen.examples
-			"shadow" "celadon"
-			"bgColor" "cultured"
-			"imgClass" "--pdf"
-			"ghost" "false"
-			"advertise" "false"
+	{{ partial "pb-and-chinderzytig.html" }}
+
+	{{ partial "pdf-purchase-cta.html" (dict
+		"attr" .
+		"cta" "verdigris"
+		"headingColor" "white"
+		"textColor" "white"
 		)
 	}}
+
+	{{ partial "pb-teachers.html" . }}
+
+	{{ partial "pb-thesis" . }}
 
 	{{ partial "data-card.html"
 		(dict
 			"attr" .
 			"cta" "orange"
 			"headingColor" "white"
-			"heading" "Beispiele aus dem Alltag"
-			"flickity" "false"
-			"containerType" "taxonomy"
-			"data" .Site.Data.pages.unterrichtsideen.newspapers
+			"heading" "Was sagen Medien über die Chinderzytig?"
+			"textColor" "white"
+			"text" "Die Chinderzyitg ist in diversen Beiträgen erwähnt worden. Zu entdecken sind sie unter dem Link."
+			"flickity" "true"
+			"data" .Site.Data.pages.verein.media
 			"shadow" "chestnut"
 			"bgColor" "cultured"
-			"imgClass" "--pdf"
+			"imgClass" ""
 			"ghost" "false"
-			"advertise" "true"
 		)
 	}}
 
-	{{ partial "proposition-cta.html" }}
-
-	{{ partial "implementation.html" }}
-
-	{{ partial "school-benefits.html" }}
-
-	{{ partial "any-questions-cta.html" }}
+	{{ partial "sources.html" }}
 
 {{ end }}

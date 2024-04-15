@@ -1,0 +1,28 @@
+<div class="cta">
+	<div class="cta__container cta__container--pdf">
+		<div class="cta__info">
+			<h2 class="heading heading__cta heading--black">
+				Was sagt die Wissenschaft über die Chinderzytig?
+			</h2>
+			<p class="cta__text">
+				Es wurden wissenschaftliche Arbeiten über und mit der Chinderzytig
+				verfasst. Das oben erwähnte Schulprojekt «Aktuelle Stunde» wurde in vier
+				Schulklassen erprobt. Die Ergebnisse aus den Interviews mit den
+				Lehrpersonen sind hier kostenlos einsehbar.
+			</p>
+		</div>
+		<div class="cta__svg cta__svg--flex-pdf">
+			{{ partial "pdf-card.html" (dict "attr" . "snipcart" "false" "alias" "external") }}
+		</div>
+	</div>
+	<div class="carousel" data-flickity='{"cellAlign": "left", "lazyLoad": true}'>
+		{{ range .Site.Data.pages.unterrichtsideen.thesis }}
+		<div class="carousel__cell">
+			<img data-flickity-lazyload="{{ $.Site.Params.cloudinary_url }}/h_400,c_scale,q_auto:good/{{ .photo }}"
+			alt=""
+			class="carousel__image"
+			/>
+		</div>
+		{{ end }}
+	</div>
+</div>

@@ -1,0 +1,20 @@
+<div class="cta cta--platinum">
+	<div class="cta__container cta__container--column">
+		<h2 class="heading heading__cta heading--black">
+			Was müssen Lehrpersonen im Politikunterricht beachten?
+		</h2>
+		<p class="cta__text">
+			Egal, wie und wo die Chinderzytig eingesetzt wird, für uns gilt der
+			Beutelsbacher Konsens. Die drei Grundsätze zeigen auf, wie Politische
+			Bildung urteilsfrei und gerecht unterrichtet werden kann:
+		</p>
+		{{ range .Site.Data.pages.unterrichtsideen.teachers }}
+			<div class="pb-teachers">
+				<div class="pb-teachers__point">
+					<div class="pb-teachers__title">{{ .point }}</div>
+					<p>{{ .content }}</p>
+				</div>
+			</div>
+		{{ end }}
+	</div>
+</div>
