@@ -1,4 +1,4 @@
-<div class="cta cta--verdigris">
+<div class="cta cta--orange">
 	<div class="cta__container cta__container--standard">
 		<div class="cta__svg cta__svg--flex-center cta__svg--display-none">
 			{{ partial "svgs/piggy-bank.html" }}
@@ -12,7 +12,7 @@
 			</p>
 			<div class="btn__spenden-group">
 				{{ range .Site.Data.partials.support.donation }}
-				<button class="btn btn__spenden btn--celadon snipcart-add-item"
+				<button class="btn btn__spenden btn--chestnut snipcart-add-item"
 				data-item-id="{{ .id }}"
 				data-item-price="{{ .price }}"
 				data-item-url="{{ $.RelPermalink }}"
