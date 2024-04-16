@@ -5,14 +5,14 @@
 	justify-content: space-between;
 	cursor: pointer;
 
+	&:link,
+	&:visited {
+		text-decoration: none;
+		color: $black;
+	}
+
 	&--external {
 		border: 1px solid #CD0000;
-
-		&:link,
-		&:visited {
-			text-decoration: none;
-			color: $black;
-		}
 
 		&:hover { transform: translateY(-1rem); }
 
@@ -35,7 +35,7 @@
 
 	&__text { margin: 0 1rem; }
 
-	&__title { font-family: $font-andika; }
+	&__title { font-family: $font-spartan; }
 
 	&__target {
 		font-size: $font-small;
