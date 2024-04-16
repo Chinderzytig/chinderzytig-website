@@ -32,7 +32,7 @@
 	{{ end }}
 {{ else }}
 	{{ range where $t "alias" $a }}
-		<a href="{{ .link }}" target="_blank" class="pdf pdf--external">
+		<a href="{{ $page.Site.Params.cloudinary_url }}/production/{{ .link }}" target="_blank" class="pdf pdf--external">
 			<div class="pdf__info">
 				{{ partial "svgs/pdf.html" }}
 				<div class="pdf__text">
