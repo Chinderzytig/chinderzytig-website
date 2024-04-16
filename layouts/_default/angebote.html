@@ -4,32 +4,24 @@
 
 	{{ partial "school-benefits.html" }}
 
-	{{ partial "donation-cta.html" . }}
+	{{ partial "implementation.html" }}
 
 	{{ partial "testimonials.html" (dict "attr" . "alias" "keystone") }}
+
+	{{ partial "donation-cta.html" . }}
 
 	{{ partial "pricing.html"
 		(dict
 			"attr" .
-			"cta" "orange"
-			"color" "white"
+			"cta" "platinum"
+			"color" "black"
 			"title" "Standard-Abonnements"
 			"kind" "standard"
-			"accent" "chestnut"
+			"accent" "silver"
 		)
 	}}
 
 	{{ partial "possibilities.html" }}
-
-	{{ partial "pdf-purchase-cta.html" (dict
-		"attr" .
-		"cta" "platinum"
-		"headingColor" "black"
-		"textColor" "black"
-		)
-	}}
-
-	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
 	{{ partial "data-card.html"
 		(dict
@@ -48,7 +40,7 @@
 		)
 	}}
 
-	{{ partial "implementation.html" }}
+	{{ partial "testimonials.html" (dict "attr" . "alias" "mirroco") }}
 
 {{ end }}
 {{ define "scripts" }}
