@@ -11,9 +11,8 @@
 	overflow: hidden;
 	z-index: 10;
 
-	@include respond(tab-port-xl) { height: 14.1rem; }
+	@include respond(tab-port-xl) { height: 13.9rem; }
 	@include respond(tab-port-sm) { margin-bottom: 3rem; }
-	@include respond(phone-land-lg) { height: 16.9rem; }
 
 	&__header {
 		display: flex;
@@ -82,12 +81,14 @@
 		align-items: center;
 
 		@include respond(tab-port-xl) { height: 4rem; }
-		@include respond(phone-land-lg) { height: 7rem; }
 
 		&-text {
 			margin: 0 1rem;
 
-			@include respond(phone-land-lg) { text-align: center; }
+			@include respond(phone-land-lg) {
+				font-size: $font-small;
+				text-align: center;
+			}
 		}
 
 		&-link {
