@@ -25,11 +25,11 @@ _Was machen Rettungssanitäterinnen und Rettungssanitäter? Was können Gründe 
 
 <ul>
 
-<li>Die ersten Schweizer Banken entstanden im 18. Jahrhundert. Die Neutralität und Stabilität der Schweiz führte dazu, dass auch viele Europäer ihr Geld in der Schweiz angelegt haben.</li>
+<li>Trotz steigenden Ausbildungszahlen, können nicht alle offenen Stellen besetzt werden.</li>
 
-<li>Das Schweizer Bankgeheimnis führte später dazu, dass Schweizer Banken zu den grössten der Welt wurden.</li>
+<li>Pro Einsatzteam werden immer mehr Einsätze geleistet.</li>
 
-<li>Trotz Lockerungen am Bankgeheimnis bleiben die Schweizer Banken auch heute noch an weltweiter Spitze.</li>
+<li>Der Fachkräftemangel könnte Auswirkungen darauf haben, wie gut wir in Zukunft bei Notfällen betreut werden.</li>
 
 </ul>
 
