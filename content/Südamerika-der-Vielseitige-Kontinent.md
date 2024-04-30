@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Südamerika_der_Vielseitige_Kontinent_AM_qlu6du"
 artikel = true
 author = "AGu"
 cc_licence = ""
@@ -63,3 +63,5 @@ Im 19. Jahrhundert wanderten viele Europäerinnen und Europäer wegen Mangel an 
 Durch die vielen Völker und Menschen, die einwanderten, entstand ein interessantes Leben auf diesem Kontinent mit einer bunten Kultur und einer durchmischten Bevölkerung. Jede Hautfarbe ist vertreten. Sprachen aus allen Weltgegenden werden auf diesem Kontinent gesprochen. Die Hauptsprachen sind Spanisch und Portugiesisch. Portugiesisch wird vor allem in Brasilien gesprochen, da das Land lange zu Portugal gehörte. Die alten Sprachen der Indios, Quechua und Guarani werden heute noch im Inneren von Südamerika gesprochen und gelehrt.
 
 Viele Bräuche und Sitten aus allen Weltgegenden werden gelebt. Wir denken bei Südamerika an Sonne und dann schnell mal an Fussball, an den tänzerischen Fussball, den nur Südamerika kennt. Wir denken an Musik und Tanz unter freiem Himmel, farbenfrohe Kostüme am Karneval, wo tagelang getanzt wird. Wir kennen temperamentvolle Rhythmen, gesungen von weltweit bekannten Stars, bis hin zum sinnlich melancholischen Tanz wie dem Tango. Die Menschen leben das Leben mit allen Sinnen, was dank der Geschichte dieses Landes mit vielen Gesichtern möglich wurde.
+
+{{< arbeitsmaterial >}}
