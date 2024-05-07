@@ -46,10 +46,14 @@
 	&__date-author {
 		font-size: 1.3rem;
 		display: flex;
+		align-items: center;
 		margin-bottom: .5rem;
 	}
 
-	&__dot { margin: 0 .5rem; }
+	&__dot {
+		font-size: $font-default;
+		margin: 0 .5rem;
+	}
 
 	&__svgs {
 		@extend .cta--orange;
