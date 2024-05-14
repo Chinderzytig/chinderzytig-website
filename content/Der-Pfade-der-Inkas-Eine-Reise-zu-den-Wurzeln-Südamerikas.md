@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Der_Pfad_der_Inkas__AM_q3sdpc"
 artikel = true
 author = "Kanita Willner"
 cc_licence = ""
@@ -46,3 +46,5 @@ Die Bautechniken der Inkas waren so fortschrittlich, dass viele ihrer Bauten Erd
 ### Was wir heute von den Inkas lernen können
 
 Auf den Pfaden der Inkas zu wandern bedeutet, in die Fussstapfen einer verschwundenen Welt zu treten und von ihr zu lernen. Ihre Geschichte erinnert uns daran, wie Menschen ihre Umgebung prägen können und wie wichtig es ist, unsere Natur zu schützen und zu schätzen. Jedes Mal, wenn jemand die alten Inka-Pfade entlangwandert, erwacht ein Stück Geschichte zum Leben, eine Geschichte, die uns viel lehren kann.
+
+{{< arbeitsmaterial >}}
