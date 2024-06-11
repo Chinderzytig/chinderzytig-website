@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "Der_Pfad_der_Inkas__AM_q3sdpc"
+arbeitsmaterial = "Barrierefreiheit_in_öffentlichen_Verkehrsmitteln__AM_gd82kn"
 artikel = true
 author = "Camila Gonçalves"
 cc_licence = ""
@@ -45,3 +45,5 @@ Für das Jahr 2024 wurden für nicht umgebaute Bahnhöfen Hilfsmassnahmen getrof
 ### Was braucht es für Barrierefreiheit?
 
 Eines der grössten Hindernisse ist Geld. Für jeden Umbau werden Kredite benötigt, die teilweise von der Schweizer Bevölkerung genehmigt werden müssen. Auch werden sogenannte Niederflur-Fahrzeuge benötigt, oder die Perrons müssen höher gebaut werden. Ein weiteres Hindernis ist, dass verschiedene Organisationen und Ämter für die Umsetzung der Barrierefreiheits-Massnahmen zuständig sind, beispielsweise die SBB oder BLS bei Bahnhöfen und Zügen. Bei Bushaltestellen sind jedoch die Kantone und Gemeinden zuständig, teilweise auch private Firmen. Auch können nicht nur Verkehrsmittel nicht barrierefrei sein, sondern auch Billettautomaten oder Anzeigetafeln. Um einen vollumfänglich barrierefreien Bahnhof zu haben, muss vieles beachtet werden. Vor allem sollten Menschen mit Behinderung eine Stimme bekommen, um das einfordern zu können, was sie brauchen und ihnen zusteht.
+
+{{< arbeitsmaterial >}}
