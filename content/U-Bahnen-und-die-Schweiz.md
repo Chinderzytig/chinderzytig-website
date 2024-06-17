@@ -33,7 +33,7 @@ _In vielen großen Städten der Welt sind U-Bahnen ein unverzichtbares Verkehrsm
 
 </ul>
 
-{{< /important-points >}}\
+{{< /important-points >}}
 
 ### Verbreitung der U-Bahnen in Europa
 
