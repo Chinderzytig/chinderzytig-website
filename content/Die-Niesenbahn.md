@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "Du_da_do_100_Jahre_AM_jhtmz3"
+arbeitsmaterial = "Die_Niesenbahn_AM_nfrmvg"
 artikel = true
 author = "Carla Wohler"
 cc_licence = ""
@@ -49,3 +49,5 @@ Während des Niesen-Treppenlaufs, der jeweils Anfangs Juni stattfindet, fährt d
 Der Niesen ist mehr als ein Aussichtsberg: Auf dem Niesen gibt es ein vielseitiges Angebot mit Kulturabenden. Neben dem vielfältigen kulinarischen Angebot inklusive einem Brunch, den man am Morgen auf dem Niesen geniessen kann, machen sie den Niesen zu einem beliebten Ausflugsziel. Für die jüngeren Gäste werden zudem Geschichten Fahrten angeboten: Während der Fahrt auf der Niesen wird die Geschichte des Niesenfuchs erzählt.
 
 Und nicht zu vergessen – der Niesen ist auch durch seine Form, die einer Pyramide ähnelt, einzigartig.
+
+{{< arbeitsmaterial >}}
