@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Deutscher_Mauerbau_AM_trrztv"
 artikel = true
 author = "Carla Wohler"
 cc_licence = ""
@@ -48,3 +48,5 @@ Als die Menschen dann im Jahr 1989 für mehr Freiheit protestierten, wurde die M
 ### Die Berliner Mauer heute
 
 Heute bestehen noch ein paar wenige Reste der Berliner Mauer, die an die Trennung von Westen und Osten erinnern. Sie sind eine beliebte Attraktion für Tourist*innen. Nicht zuletzt, weil Künstler und Künstlerinnen Kunstwerke auf die Mauer Berlins gemalt haben. Das längste Teilstück dabei ist 1,3 Kilometer lang.
+
+{{< arbeitsmaterial >}}
