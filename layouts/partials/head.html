@@ -35,5 +35,4 @@
 	{{ $built := resources.Get "js/index.js" }}
 	<script type="text/javascript" src="{{ $built.Permalink }}"></script>
 	{{ template "_internal/google_analytics.html" . }}
-	{{ template "_internal/google_analytics_async.html" . }}
 </head>
