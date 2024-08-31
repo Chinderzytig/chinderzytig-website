@@ -3,19 +3,19 @@ command = "hugo"
 publish = "public"
 
 [context.production.environment]
-HUGO_VERSION = "0.82.0"
+HUGO_VERSION = "0.133.1"
 
 [context.deploy-preview]
 command = "hugo --gc --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.82.0"
+HUGO_VERSION = "0.133.1"
 
 [context.branch-deploy]
 command = "hugo --gc -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.82.0"
+HUGO_VERSION = "0.133.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
