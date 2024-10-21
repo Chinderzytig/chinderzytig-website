@@ -1,7 +1,7 @@
 <a href="{{.attr.RelPermalink}}" class="card {{ .cardType }} {{ .cardColor }} {{ .cardBg }} carousel-cell">
 	<div class="card__img-container">
 		{{ if eq .cardType "card__land" }}
-			{{ if eq .showCase "true" }}
+			{{ if eq .fokusImg "true" }}
 				<img src="{{ .ctx.Site.Params.cloudinary_url }}/w_400,c_scale,q_auto:good/graphics/fdw-hero_nkmrti.png"
 				alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
 				class="card__land-img"
@@ -12,11 +12,19 @@
 				class="card__land-img"
 				/>
 			{{ end }}
-		{{ else }}
-			<img src="{{ .ctx.Site.Params.cloudinary_url }}/h_200,c_scale,q_auto:good/{{ .attr.Params.hero_img }}"
-			alt="{{ .attr.Params.img_description }}"
-			class="card__port-img"
-			/>
+		{{ end }}
+		{{ if eq .cardType "card__port" }}
+			{{ if eq .fokusImg "true" }}
+				<img src="{{ .ctx.Site.Params.cloudinary_url }}/w_200,c_scale,q_auto:good/graphics/fdw-hero_nkmrti.png"
+				alt="Cartoon-Bild eines Mädchens, das eine Lupe hochhält"
+				class="card__port-img"
+				/>
+			{{ else }}
+				<img src="{{ .ctx.Site.Params.cloudinary_url }}/h_200,c_scale,q_auto:good/{{ .attr.Params.hero_img }}"
+				alt="{{ .attr.Params.img_description }}"
+				class="card__port-img"
+				/>
+			{{ end }}
 		{{ end }}
 	</div>
 	<div class="{{ .cardType }}-content">
