@@ -1,0 +1,40 @@
+<div class="cta">
+	<h2 class="heading">Fokus der Woche</h2>
+	<div class="cta__container cta__container--column">
+		{{ $set1 := where .Site.Pages ".Params.artikel" true }}
+		{{ $set2 := where .Site.Pages ".Params.fdw" true }}
+		{{ $fdw := $set1 | intersect $set2 }}
+		<div class="cta__container--single">
+			{{ range first 1 $fdw.ByDate.Reverse }}
+				{{ partial "article-card.html"
+					(dict
+						"attr" .
+						"ctx" $
+						"cardType" "card__land"
+						"cardColor" "card--silver"
+						"cardBg" "card--bg-cultured"
+						"fokusImg" "true"
+					)
+				}}
+			{{ end }}
+		</div>
+		<div class="cta__container cta__container--card-list">
+			{{ range first 2 (after 1 $fdw.ByDate.Reverse) }}
+				{{ partial "article-card.html"
+					(dict
+						"attr" .
+						"ctx" $
+						"cardType" "card__port"
+						"cardColor" "card--silver"
+						"cardBg" "card--bg-cultured"
+						"fokusImg" "true"
+					)
+				}}
+			{{ end }}
+			<a href="/fokus-der-woche" class="card card__port card--silver card--bg-cultured card__btn">
+				{{ partial "svgs/arrow-right-circle.html" . }}
+				<div class="card__btn-text card__btn--celadon">Alle FdW</div>
+			</a>
+		</div>
+	</div>
+</div>
