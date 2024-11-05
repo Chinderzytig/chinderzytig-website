@@ -1,9 +1,7 @@
 <div class="cta">
 	<h2 class="heading">Fokus der Woche</h2>
 	<div class="cta__container cta__container--column">
-		{{ $set1 := where .Site.Pages ".Params.artikel" true }}
-		{{ $set2 := where .Site.Pages ".Params.fdw" true }}
-		{{ $fdw := $set1 | intersect $set2 }}
+		{{ $fdw := where .Site.Pages ".Params.fdw" true }}
 		<div class="cta__container--single">
 			{{ range first 1 $fdw.ByDate.Reverse }}
 				{{ partial "article-card.html"
