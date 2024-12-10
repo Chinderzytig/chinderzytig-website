@@ -32,8 +32,6 @@ mehr Bartgeier, weil die Menschen die Bartgeier weniger ausrotten.</li>
 
 <li>Das Problem ist, dass die Bartgeier manchmal die spielenden Kinder stören.</li>
 
-<li>Das Moor ist die Grundlage zur Bildung von Torf. Früher wurde Torf zum Heizen und zum Häuserbau verwendet.</li>
-
 <li>Für die Bartgeier kannst du etwas tun, und zwar kannst du z.B. einen Sponsorenlauf
 für die Bartgeier organisieren.</li>
 
