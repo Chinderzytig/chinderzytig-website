@@ -24,7 +24,7 @@
 	<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.23/default/snipcart.css" />
 	<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 	{{ $options := (dict "outputStyle" "compressed") }}
-	{{ $style := resources.Get "sass/main.scss" | resources.ToCSS $options }}
+	{{ $style := resources.Get "sass/main.scss" | css.Sass $options }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flickity@2/dist/flickity.min.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@0/dist/algoliasearchNetlify.css" />

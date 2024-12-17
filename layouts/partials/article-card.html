@@ -36,7 +36,7 @@
 			{{ end }}
 			<h3 class="{{ .cardType }}-title">{{ .attr.Title }}</h3>
 			{{ if eq .cardType "card__land" }}
-				<p class="card__land-summary">{{ .attr.Summary | truncate 200 }}</p>
+				<p class="card__land-summary">{{ .attr.Content | strings.Truncate 100 }}</p>
 			{{ end }}
 		</div>
 		<div class="card__date">{{ .attr.Date.Format .ctx.Site.Params.DateForm }}</div>
