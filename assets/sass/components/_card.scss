@@ -121,6 +121,15 @@
 		&--buffer { height: 0; }
 	}
 
+	&__report {
+		@extend .card__external;
+
+		height: 30rem;
+		border: .1rem solid $celadon;
+
+		&-img { height: 30rem;}
+	}
+
 	&__category {
 		font-family: $font-spartan;
 

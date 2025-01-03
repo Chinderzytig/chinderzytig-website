@@ -85,6 +85,15 @@
 		}
 	}
 
+	&__mobile {
+		display: none;
+
+		@include respond(phone-land-lg) {
+			display: flex;
+			justify-content: space-between;
+		}
+	}
+
 	&__kontakt {
 		font-size: $font-default;
 		align-self: flex-start;
