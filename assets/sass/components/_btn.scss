@@ -28,7 +28,12 @@
 		&--visible-pricing { margin-right: $margin-s; }
 	}
 
-	&__svg { height: 2.4rem; }
+	&__svg { 
+		
+		&--small { height: 1.5rem; }
+
+		&--big { height: 2.4rem; }
+	}
 
 	&--jonquil { @include btn-color($jonquil, 255, 207, 4, 0.65) }
 
@@ -60,6 +65,7 @@
 		padding: .8rem;
 		border: 2px solid $silver;
 		box-shadow: .5rem .5rem $silver;
+		align-self: start;
 
 		&:not(:first-child) { margin-left: 2rem; }
 
@@ -79,7 +85,9 @@
 
 		border: 2px solid $jonquil;
 		box-shadow: .5rem .5rem $jonquil;
-		align-items: center;
+		width: 100%;
+
+		&:not(:first-child) { margin-left: 0rem; }
 
 		&:link,
 		&:visited {

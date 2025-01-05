@@ -40,11 +40,18 @@
 					</div>
 					<div class="single__level">
 						{{ if .IsTranslated }}
+							<div class="single__level-text">Aktuelle Leseniveau: <span class="single__level--tag">{{ site.Params.level}}</span></div>
 							{{ range .Translations }}
-								{{ if eq .Language.Lang "de-x-b1" }}
-									<a href="{{ .Permalink }}" class="btn btn__level btn__space no-print">schwere Sprache (B1)</a>
+								{{ if eq .Language.Lang "b1" }}
+									<a href="{{ .Permalink }}" class="btn btn__level btn__space no-print">
+										<span>schwere Sprache</span>
+										{{ partial "svgs/arrow-right.html" (dict "h" "small") }}
+									</a>
 								{{ else }}
-									<a href="{{ .Permalink }}" class="btn btn__level btn__space no-print">Leichte Sprache (A2)</a>
+									<a href="{{ .Permalink }}" class="btn btn__level btn__space no-print">
+										<span>Leichte Sprache</span>
+										{{ partial "svgs/arrow-right.html" (dict "h" "small") }}
+									</a>
 								{{ end }}
 							{{ end}}
 						{{ end }}
