@@ -1,0 +1,20 @@
+{{ if .attr.IsTranslated }}
+    <div class="level level__{{ .el }}">
+        <div class="level__container">
+            <div class="level__text">Leseniveau:</div>
+            {{ range .attr.Translations }}
+                {{ if eq .Language.Lang "b1" }}
+                    <a href="{{ .RelPermalink }}" class="btn btn__small btn__small--{{ $.btn }} btn__space no-print">
+                        <span class="level__label">B1</span>
+                        {{ partial "svgs/arrow-right.html" (dict "h" "small") }}
+                    </a>
+                {{ else }}
+                    <a href="{{ .RelPermalink }}" class="btn btn__small btn__small--{{ $.btn }} btn__space no-print">
+                        <span class="level__label">A2</span>
+                        {{ partial "svgs/arrow-right.html" (dict "h" "small") }}
+                    </a>
+            {{ end }}
+        {{ end}}
+        </div>
+    </div>
+{{ end }}

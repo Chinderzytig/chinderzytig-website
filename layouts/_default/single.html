@@ -29,33 +29,16 @@
 					<div class="single__taxonomies">
 						{{ if .Params.kategorien }}
 							{{ range (.GetTerms "kategorien") }}
-								<a href="{{ .Permalink }}" class="btn btn__thema no-print">{{ .LinkTitle }}</a>
+								<a href="{{ .Permalink }}" class="btn btn__small btn__small--taxonomy no-print">{{ .LinkTitle }}</a>
 							{{ end }}
 						{{ end }}
 						{{ if .Params.markierungen }}
 							{{ range (.GetTerms "markierungen") }}
-								<a href="{{ .Permalink }}" class="btn btn__thema no-print">{{ .LinkTitle }}</a>
+								<a href="{{ .Permalink }}" class="btn btn__small btn__small--taxonomy no-print">{{ .LinkTitle }}</a>
 							{{ end }}
 						{{ end }}
 					</div>
-					<div class="single__level">
-						{{ if .IsTranslated }}
-							<div class="single__level-text">Aktuelle Leseniveau: <span class="single__level--tag">{{ site.Params.level}}</span></div>
-							{{ range .Translations }}
-								{{ if eq .Language.Lang "b1" }}
-									<a href="{{ .Permalink }}" class="btn btn__level btn__space no-print">
-										<span>schwere Sprache</span>
-										{{ partial "svgs/arrow-right.html" (dict "h" "small") }}
-									</a>
-								{{ else }}
-									<a href="{{ .Permalink }}" class="btn btn__level btn__space no-print">
-										<span>Leichte Sprache</span>
-										{{ partial "svgs/arrow-right.html" (dict "h" "small") }}
-									</a>
-								{{ end }}
-							{{ end}}
-						{{ end }}
-					</div>
+					{{ partial "level.html" (dict "attr" . "el" "single" "btn" "article") }}
 				</div>
 				<h2 class="heading__article nr-read">{{ .Params.title }}</h2>
 				<div class="single__date-author">

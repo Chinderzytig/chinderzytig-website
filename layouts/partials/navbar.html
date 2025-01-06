@@ -8,27 +8,12 @@
 				<img src="{{ .Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png" alt="Chinderzytig logo" class="nav__logo-image">
 			</a>
 		</div>
-		<div class="nav__slogan">
-			{{ partial "svgs/tablet-phone-svg.html" }}
-			<div class="nav__slogan-text">
-				Die online Zeitung für <span class="nav__slogan-text--orange">Kinder</span> und <span class="nav__slogan-text--verdigris">Jugendliche</span>
-			</div>
-		</div>
+		{{ partial "level.html" (dict "attr" . "el" "nav" "btn" "nav") }}
 	</div>
 	<div class="nav__banner">
-		{{ if eq .RelPermalink "/angebote/" }}
-			{{ partial "svgs/coins.html" }}
-			<div class="nav__banner-text">
-				<b>Zahlreiche Produkte</b> zur Unterstützung unseres Auftrags
-			</div>
-				{{ partial "svgs/coins.html" }}
-		{{ else }}
-			{{- partial "svgs/coffee.html" -}}
-			<div class="nav__banner-text">
-				<a href="{{ relLangURL "/angebote" }}" class="nav__banner-link">Unterstützen Sie uns</a> bei unserer Mission
-			</div>
-			{{- partial "svgs/coffee.html" -}}
-		{{ end }}
+		<div class="nav__banner-text">
+			Die online Zeitung für <span class="nav__banner-text--bold">Kinder</span> und <span class="nav__banner-text--bold">Jugendliche</span>
+		</div>
 	</div>
 </div>
 

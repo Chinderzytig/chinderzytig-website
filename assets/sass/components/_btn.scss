@@ -60,44 +60,60 @@
 		}
 	}
 
-	&__thema {
-		font-size: 1rem;
+	&__small {
+		font-size: 1.2rem;
 		padding: .8rem;
-		border: 2px solid $silver;
-		box-shadow: .5rem .5rem $silver;
-		align-self: start;
 
-		&:not(:first-child) { margin-left: 2rem; }
-
-		&:link,
-		&:visited {
+		&--taxonomy {
 			border: 2px solid $silver;
-			text-decoration: none;
+			box-shadow: .5rem .5rem $silver;
+
+			&:not(:first-child) { margin-left: 2rem; }
+
+			&:link,
+			&:visited {
+				border: 2px solid $silver;
+				text-decoration: none;
+			}
+
+			&:hover { box-shadow: .8rem .8rem $silver; }
+
+			&:active { box-shadow: .2rem .2rem rgba(166, 165, 163, 0.65); }
 		}
 
-		&:hover { box-shadow: .8rem .8rem $silver; }
-
-		&:active { box-shadow: .2rem .2rem rgba(166, 165, 163, 0.65); }
-	}
-
-	&__level {
-		@extend .btn__thema;
-
-		border: 2px solid $jonquil;
-		box-shadow: .5rem .5rem $jonquil;
-		width: 100%;
-
-		&:not(:first-child) { margin-left: 0rem; }
-
-		&:link,
-		&:visited {
+		&--article {
 			border: 2px solid $jonquil;
-			text-decoration: none;
+			box-shadow: .5rem .5rem $jonquil;
+
+			&:not(:first-child) { margin-left: 0rem; }
+
+			&:link,
+			&:visited {
+				border: 2px solid $jonquil;
+				text-decoration: none;
+			}
+
+			&:hover { box-shadow: .8rem .8rem $jonquil; }
+
+			&:active { box-shadow: .2rem .2rem rgba(255, 207, 4, 0.65); }
 		}
 
-		&:hover { box-shadow: .8rem .8rem $jonquil; }
+		&--nav {
+			border: 2px solid $celadon;
+			box-shadow: .5rem .5rem $celadon;
 
-		&:active { box-shadow: .2rem .2rem rgba(255, 207, 4, 0.65); }
+			&:not(:first-child) { margin-left: 0rem; }
+
+			&:link,
+			&:visited {
+				border: 2px solid $celadon;
+				text-decoration: none;
+			}
+
+			&:hover { box-shadow: .8rem .8rem $celadon; }
+
+			&:active { box-shadow: .2rem .2rem rgba(53, 130, 128, 0.65); }
+		}
 	}
 
 	&__pricing {
