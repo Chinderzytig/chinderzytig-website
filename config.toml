@@ -32,5 +32,6 @@ ignoreErrors = ["error-disable-taxonomy"]
         languageDirection = "ltr"
         languageName = "Deutsch"
         weight = 2
+        disabled = true
         [languages.a2.params]
             level = "A2"
