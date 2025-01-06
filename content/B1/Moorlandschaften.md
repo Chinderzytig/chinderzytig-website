@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Moorlandschaften_AM_q9vbjo"
 artikel = true
 author = "AGu"
 cc_licence = ""
@@ -59,3 +59,5 @@ Alle Moore nehmen eine besondere Stellung ein. Es sind Lebensräume mit einer po
 Einige Moorlandschaften in der Schweiz: Das Moor von Rothenthurm SZ, Naturschutzgebiet Etang de la Gruère JU, Hochmoor Wolzenalp SG, Hochmoor Steinmösli BE.
 
 Es gibt viele Wander- oder Spaziermöglichkeiten durch Moorlandschaften. Keine ist gleich wie die andere, eine ist bunt mit einer beeindruckenden Blumenpracht und grenzt an lichte Wälder. Die andere ist karg und einfarbig, der Boden von Moosen und Heidekraut bedeckt, durch den sich vielleicht ein kleiner Bach schlängelt.
+
+{{< arbeitsmaterial >}}
