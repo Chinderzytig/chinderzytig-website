@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Entdeckung_der_Schwerkraft_AM_w17uzj"
 artikel = true
 author = "Kiruthihan Srikaran"
 cc_licence = ""
@@ -52,3 +52,5 @@ Hier ist eine einfache Möglichkeit, darüber nachzudenken:
 Stell dir vor, du spannst eine Decke und legst einen schweren Ball in die Mitte. Der Ball macht eine grosse Vertiefung in die Decke. Wenn du nun eine kleine Murmel in die Nähe des grossen und schweren Balls rollst, wird die Murmel aufgrund der Vertiefung in Richtung des Balls rollen. So ähnlich funktioniert die Schwerkraft: Grosse Objekte wie die Erde, ziehen kleinere Objekte wie den Mond oder Menschen an sich.
 
 Diese Entdeckung veränderte die Welt. Vor Newton wussten die Menschen nicht wirklich, warum sich Objekte so bewegen, wie sie es tun. Durch seine Arbeit konnte erklärt werden, wie das Universum funktioniert, der Mond die Ozeane beeinflusst oder wie man Flugzeuge baut, die die Schwerkraft überwinden können.
+
+{{< arbeitsmaterial >}}
