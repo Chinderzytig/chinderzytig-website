@@ -1,0 +1,26 @@
+.level {
+    display: flex;
+    justify-content: flex-end;
+
+    &__container {
+        display: flex;
+        align-items: center;
+    }
+
+    &__text {
+        font-weight: bold;
+        margin-right: 1rem;
+
+        @include respond(phone-lg) { display: none; }
+    }
+
+    &__label {
+        margin-right: .5rem;
+    }
+
+    &__nav {
+        width: 35%;
+
+        @include respond(phone-lg) {  width: 25%; }
+    }
+}

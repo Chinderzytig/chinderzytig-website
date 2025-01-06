@@ -1,14 +1,37 @@
 baseURL = "https://www.chinderzytig.ch"
 googleAnalytics = "G-DNQ6GYEDJY"
-languageCode = "de"
+defaultContentLanguage = "b1"
+defaultContentLanguageInSubdir = true
 title = "Die Zeitung für Kinder und Jugendliche"
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+
 [params]
-DateForm = "2.01.2006"
-cloudinary_url = "https://res.cloudinary.com/chinderzytig/image/upload"
+    DateForm = "02.01.2006"
+    cloudinary_url = "https://res.cloudinary.com/chinderzytig/image/upload"
+
 [services.youtube]
-privacyEnhanced = true
+    privacyEnhanced = true
+
 [taxonomies]
-katagorie = "kategorien"
-markierung = "markierungen"
+    katagorie = "kategorien"
+    markierung = "markierungen"
+
+[languages]
+    [languages.b1]
+        contentDir = "content/B1"
+        languageCode = "de-x-b1"
+        languageDirection = "ltr"
+        languageName = "Deutsch"
+        weight = 1
+        [languages.b1.params]
+            level = "B1"
+    [languages.a2]
+        contentDir = "content/A2"
+        languageCode = "de-x-a2"
+        languageDirection = "ltr"
+        languageName = "Deutsch"
+        weight = 2
+        disabled = true
+        [languages.a2.params]
+            level = "A2"

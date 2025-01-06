@@ -38,6 +38,12 @@
 
 	&__content { margin: 0 3rem; }
 
+	&__tags-container {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-start;
+	}
+
 	&__taxonomies {
 		display: flex;
 		margin-bottom: $margin-s;

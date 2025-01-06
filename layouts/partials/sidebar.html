@@ -1,7 +1,7 @@
 <div class="sidebar">
   <ul class="sidebar__menu">
 		<li class="sidebar__item">{{partial "svgs/snipcart.html" }}</li>
-		<li class="sidebar__item"><a href="/alle-artikel" class="sidebar__link">Artikel</a></li>
+		<li class="sidebar__item"><a href="{{ relLangURL "/alle-artikel" }}" class="sidebar__link">Artikel</a></li>
 		<li class="sidebar__item">
 			<div class="sidebar__dropdown">
 				<input type="checkbox" class="sidebar__dropdown-box" id="lage-dropdown" />
@@ -11,7 +11,7 @@
 				</label>
 				<ul class="sidebar__dropdown-content">
 					{{ range .Site.Data.partials.topics.lage }}
-						<li class="sidebar__dropdown-item"><a href="{{ .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
+						<li class="sidebar__dropdown-item"><a href="{{ relLangURL .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
 					{{ end }}
 				</ul>
 			</div>
@@ -25,16 +25,16 @@
 				</label>
 				<ul class="sidebar__dropdown-content">
 					{{ range .Site.Data.partials.topics.thema }}
-						<li class="sidebar__dropdown-item"><a href="{{ .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
+						<li class="sidebar__dropdown-item"><a href="{{ relLangURL .link }}" class="sidebar__dropdown-link">{{ .label }}</a></li>
 					{{ end }}
 				</ul>
 			</div>
 		</li>
-		<li class="sidebar__item"><a href="/fokus-der-woche" class="sidebar__link">Fokus der Woche</a></li>
-		<li class="sidebar__item"><a href="/arbeitsmaterial" class="sidebar__link">Arbeitsmaterial</a></li>
-		<li class="sidebar__item"><a href="/unterrichtsideen" class="sidebar__link">Unterrichtsideen</a></li>
-		<li class="sidebar__item"><a href="/angebote"class="sidebar__link">Angebote</a></li>
-		<li class="sidebar__item"><a href="/verein" class="sidebar__link">Der Verein</a></li>
-		<li class="sidebar__item"><a href="/kontakt" class="sidebar__link">Kontakt</a></li>
+		<li class="sidebar__item"><a href="{{ relLangURL "/fokus-der-woche" }}" class="sidebar__link">Fokus der Woche</a></li>
+		<li class="sidebar__item"><a href="{{ relLangURL "/arbeitsmaterial" }}" class="sidebar__link">Arbeitsmaterial</a></li>
+		<li class="sidebar__item"><a href="{{ relLangURL "/unterrichtsideen" }}" class="sidebar__link">Unterrichtsideen</a></li>
+		<li class="sidebar__item"><a href="{{ relLangURL "/angebote" }}" class="sidebar__link">Angebote</a></li>
+		<li class="sidebar__item"><a href="{{ relLangURL "/verein" }}" class="sidebar__link">Der Verein</a></li>
+		<li class="sidebar__item"><a href="{{ relLangURL "/kontakt" }}" class="sidebar__link">Kontakt</a></li>
   </ul>
 </div>
