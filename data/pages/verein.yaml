@@ -1,4 +1,11 @@
 media:
+- url: "https://res.cloudinary.com/chinderzytig/image/upload/v1737014812/Lindacher_April_2024_rxy6ge.pdf"
+  photo_url: "/logos/lindacher-nachrichten_xxv5jv.png"
+  img_alt: "Lindacher Nachrichten"
+  cat_class: "fdw"
+  category: "PDF"
+  title: "Warum soll ich überhaupt etwas lesen?"
+  date: "30.04.2024"
 - url: "https://www.baerntoday.ch/bern/finanzkrise-zweiter-weltkrieg-und-wm-in-katar-fuer-kinder-erklaert-149398835?utm_source=shared-copyToClipboard&utm_medium=shared&utm_campaign=Social%20Media"
   photo_url: "/logos/barn_today_h8yb21.png"
   img_alt: "Bärn Today logo"
