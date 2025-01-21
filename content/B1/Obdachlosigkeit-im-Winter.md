@@ -48,3 +48,5 @@ Wie viele Menschen in der Schweiz auf der Strasse leben, ist schwer zu sagen. Je
 Die meisten obdachlosen Menschen haben sich an das Leben auf der Strasse gewöhnt und wissen, wo sie das Nötige finden und wie sie überleben können. Trotzdem ist das Leben auf der Strasse schwierig. 
 
 Wichtig: Obdachlose Menschen verdienen genauso Respekt wie alle anderen. Oft sieht man sie betteln, um etwas Geld zu bekommen. Du kannst ihnen Geld geben, wenn du willst und kannst. Wenn nicht, sag es freundlich. Sei nicht unhöflich oder respektlos – egal wie jemand aussieht oder lebt.
+
+{{< arbeitsmaterial >}}
