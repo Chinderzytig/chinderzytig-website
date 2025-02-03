@@ -1,22 +1,26 @@
-/file-share								/											301
-/blickwinkel							/											301
-/kinderbeitraege					/											301
-/faq											/											301
-/admin										/											301
+/file-share / 301
+/blickwinkel / 301
+/kinderbeitraege / 301
+/faq / 301
+/admin / 301
 
-/zeitungsinhalte					/alle-artikel					301
+/zeitungsinhalte /alle-artikel 301
 
-/shop											/abonnemente					301
-/unterstuetzen						/abonnemente					301
+/shop /abonnemente 301
+/unterstuetzen /abonnemente 301
 
-/feedback									/kontakt							301
+/feedback /kontakt 301
 
-/herzlichen-dank					/verein								301
-/presse										/verein								301
-/links										/verein								301
+/herzlichen-dank /verein 301
+/presse /verein 301
+/links /verein 301
 
-/ueber-uns								/uber-uns							301
+/ueber-uns /uber-uns 301
 
-/beirat										/unser-beirat					301
+/beirat /unser-beirat 301
 
-/quellen									/unsere-quellen				301
+/quellen /unsere-quellen 301
+
+/b2/* /b2/404.html 404
+/a2/* /a2/404.html 404
+/a1/* /a1/404.html 404
