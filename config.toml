@@ -1,6 +1,6 @@
 baseURL = "https://www.chinderzytig.ch"
 googleAnalytics = "G-DNQ6GYEDJY"
-defaultContentLanguage = "b2"
+defaultContentLanguage = "B2"
 defaultContentLanguageInSubdir = true
 title = "Die Zeitung für Kinder und Jugendliche"
 disableKinds = ["taxonomy"]
@@ -32,6 +32,15 @@ ignoreErrors = ["error-disable-taxonomy"]
         languageDirection = "ltr"
         languageName = "Deutsch"
         weight = 2
-        disabled = true
+        
         [languages.a2.params]
             level = "A2"
+    [languages.a1]
+        contentDir = "content/A1"
+        languageCode = "de-x-a1"
+        languageDirection = "ltr"
+        languageName = "Deutsch"
+        weight = 3
+        
+        [languages.a1.params]
+            level = "A1"
