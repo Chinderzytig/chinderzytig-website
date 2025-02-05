@@ -23,15 +23,22 @@
         </div>
     </div> -->
 
-    <div class="dropdown__container">
-        <div class="dropdown">
-            <button class="btn btn__space no-print">Leseniveau</button>
-            <div class="dropdown-content">
-                {{ range .ctx.AllTranslations }}
-                    <a href="{{ .RelPermalink }}" class="">
-                        <span class="level__label">{{ .Language.LanguageName }}</span>
-                    </a>
-                {{ end }}
+    <div class="level level__{{ .el }}">
+        <div class="level__container">
+            <div class="level__text">Leseniveau:</div>
+            <div class="level__dropdown">
+                <button class="btn__level btn__level--{{ $.btn }} no-print">
+                    <span class="level__label">{{ .ctx.Language.LanguageName }}</span>
+                    <span class="level__arrow"></span>
+                </button>
+                <div class="level__dropdown-content">
+                    {{ range where .ctx.Translations ".ctx.Language.LanguageName" "ne" ".Language.LanguageName" }}
+                        <a href="{{ .RelPermalink }}" class="level__dropdown-link level__dropdown-link--{{ $.btn }}">
+                            <span class="level__label">{{ .Language.LanguageName }}</span>
+                            {{ partial "svgs/arrow-right.html" (dict "h" "small") }}
+                        </a>
+                    {{ end }}
+                </div>
             </div>
         </div>
     </div>

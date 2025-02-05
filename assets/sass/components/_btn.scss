@@ -80,12 +80,24 @@
 
 			&:active { box-shadow: .2rem .2rem rgba(166, 165, 163, 0.65); }
 		}
+	}
+
+	&__level {
+		font-size: 1.2rem;
+		font-family: $font-spartan;
+		color: $black;
+		background-color: $white;
+		width: 6rem;
+		padding: 1.3rem;
+		cursor: pointer;
+		display: flex;
+		align-items: center;
+
+		&:not(:first-child) { margin-left: 0rem; }
 
 		&--article {
 			border: 2px solid $jonquil;
 			box-shadow: .5rem .5rem $jonquil;
-
-			&:not(:first-child) { margin-left: 0rem; }
 
 			&:link,
 			&:visited {
@@ -93,16 +105,12 @@
 				text-decoration: none;
 			}
 
-			&:hover { box-shadow: .8rem .8rem $jonquil; }
-
-			&:active { box-shadow: .2rem .2rem rgba(255, 207, 4, 0.65); }
+			&:hover { border-width: 2px 2px 0 2px; }
 		}
 
 		&--nav {
 			border: 2px solid $celadon;
 			box-shadow: .5rem .5rem $celadon;
-
-			&:not(:first-child) { margin-left: 0rem; }
 
 			&:link,
 			&:visited {
@@ -110,9 +118,7 @@
 				text-decoration: none;
 			}
 
-			&:hover { box-shadow: .8rem .8rem $celadon; }
-
-			&:active { box-shadow: .2rem .2rem rgba(53, 130, 128, 0.65); }
+			&:hover { border-width: 2px 2px 0 2px; }
 		}
 	}
 
