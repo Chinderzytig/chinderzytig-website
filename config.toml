@@ -24,21 +24,17 @@ ignoreErrors = ["error-disable-taxonomy"]
         languageDirection = "ltr"
         languageName = "B2"
         weight = 1
-        [languages.b2.params]
-            level = "B2"
+
     [languages.a2]
         contentDir = "content/A2"
         languageCode = "de-CH"
         languageDirection = "ltr"
         languageName = "A2"
         weight = 2
-        [languages.a2.params]
-            level = "A2"
+
     [languages.a1]
         contentDir = "content/A1"
         languageCode = "de-CH"
         languageDirection = "ltr"
         languageName = "A1"
         weight = 3
-        [languages.a1.params]
-            level = "A1"
