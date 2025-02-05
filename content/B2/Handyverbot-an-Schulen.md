@@ -22,6 +22,7 @@ title = "Handyverbot an Schulen"
 _Was wurde in Köniz BE entschieden und was könnten die nächsten Schritte sein? Sind Handys an Schulen wirklich so problematisch?_
 
 In Köniz, einer Gemeinde im Kanton Bern, sind ab Ende Februar Handys an Schulen verboten. Alle weiteren elektronischen Geräte sind ebenfalls verboten und müssen abgestellt, abgegeben oder eingeschlossen werden. Auch andere Schulen haben solche Handyverbote ausgesprochen. Köniz ist jedoch die erste Gemeinde, die ein einheitliches Verbot bestimmt hat. Ab Ende Februar müssen Handys laut Reglement entweder der Lehrperson abgegeben oder in ein Schliessfach eingeschlossen werden. Köniz möchte in einem nächsten Beschluss ab Sommer 2025 verbieten, dass Handys überhaupt in die Schule mitgenommen werden dürfen. Gründe für das Handyverbot sind, dass Kinder und Jugendliche durch das Handy abgelenkt werden. Statt die Pause mit ihren Freund*innen zu verbringen, würden sie sich beispielsweise in den WC-Räumen aufhalten und Spiele auf den Handys spielen. 
+
 In der Kreisschule Homburg im Kanton Baselland wurde auch das Tragen von Smartwatches während des Unterrichts verboten. Die Lehrpersonen berichteten, dass die Kinder durch die Uhren abgelenkt seien. Zusätzlich seien die Uhren auch ein Problem, weil die Eltern ständig kontaktiert werden können. Dieser ständige Kontakt kann die Entwicklung und die Selbstständigkeit der Kinder beeinträchtigen. 
 
 ### Sind Handys wirklich so schädlich?
