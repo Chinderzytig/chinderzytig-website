@@ -1,5 +1,5 @@
 {{ if .attr.IsTranslated }}
-    <div class="level level__{{ .el }}">
+    <!-- <div class="level level__{{ .el }}">
         <div class="level__container">
             <div class="level__text">Leseniveau:</div>
             {{ range .attr.Translations }}
@@ -8,13 +8,31 @@
                         <span class="level__label">B1</span>
                         {{ partial "svgs/arrow-right.html" (dict "h" "small") }}
                     </a>
-                {{ else }}
+                {{ else if eq .Language.Lang "a2" }}
                     <a href="{{ .RelPermalink }}" class="btn btn__small btn__small--{{ $.btn }} btn__space no-print">
                         <span class="level__label">A2</span>
                         {{ partial "svgs/arrow-right.html" (dict "h" "small") }}
                     </a>
+                {{ else }}
+                    <a href="{{ .RelPermalink }}" class="btn btn__small btn__small--{{ $.btn }} btn__space no-print">
+                        <span class="level__label">A1</span>
+                        {{ partial "svgs/arrow-right.html" (dict "h" "small") }}
+                    </a>
             {{ end }}
         {{ end}}
+        </div>
+    </div> -->
+
+    <div class="dropdown__container">
+        <div class="dropdown">
+            <button class="btn btn__space no-print">Leseniveau</button>
+            <div class="dropdown-content">
+                {{ range .ctx.AllTranslations }}
+                    <a href="{{ .RelPermalink }}" class="">
+                        <span class="level__label">{{ .Language.LanguageName }}</span>
+                    </a>
+                {{ end }}
+            </div>
         </div>
     </div>
 {{ end }}

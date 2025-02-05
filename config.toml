@@ -22,7 +22,7 @@ ignoreErrors = ["error-disable-taxonomy"]
         contentDir = "content/B2"
         languageCode = "de-CH"
         languageDirection = "ltr"
-        languageName = "Deutsch"
+        languageName = "B2"
         weight = 1
         [languages.b2.params]
             level = "B2"
@@ -30,7 +30,7 @@ ignoreErrors = ["error-disable-taxonomy"]
         contentDir = "content/A2"
         languageCode = "de-CH"
         languageDirection = "ltr"
-        languageName = "Deutsch"
+        languageName = "A2"
         weight = 2
         [languages.a2.params]
             level = "A2"
@@ -38,7 +38,7 @@ ignoreErrors = ["error-disable-taxonomy"]
         contentDir = "content/A1"
         languageCode = "de-CH"
         languageDirection = "ltr"
-        languageName = "Deutsch"
+        languageName = "A1"
         weight = 3
         [languages.a1.params]
             level = "A1"

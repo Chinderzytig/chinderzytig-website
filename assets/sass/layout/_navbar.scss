@@ -8,7 +8,6 @@
 	position: fixed;
 	display: flex;
 	flex-direction: column;
-	overflow: hidden;
 	z-index: 11;
 
 	@include respond(tab-port-xl) { height: 13.9rem; }
