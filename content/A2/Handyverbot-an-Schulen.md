@@ -27,7 +27,7 @@ In der Kreisschule Homburg im Kanton Baselland sind auch Smartwatches im Unterri
 
 ### Sind Handys wirklich so schädlich?
 
-Der Erziehungsfirektorin von Bern sagt, dass Anrufe und SMS nicht das grösste Problem sind. Viel schlimmer sind Spiele, Videos und die Ablenkung im Unterricht. Viele Schulen verbieten Handys im Unterricht. Aber wenn Handys in der Pause erlaubt sind, denken die Kinder schon während des Unterrichts an die nächste Pause. Handys können auch die soziale Entwicklung stören. Wenn Kinder in der Pause nur am Handy sind, lernen sie schlechter, mit anderen zu reden oder zu spielen. Smartwatches können das Problem verstärken. Eltern überwachen ihre Kinder stärker, und so lernen Kinder weniger, selbst Probleme zu lösen.
+Die Erziehungsdirektorin von Bern sagt, dass Anrufe und SMS nicht das grösste Problem sind. Viel schlimmer sind Spiele, Videos und die Ablenkung im Unterricht. Viele Schulen verbieten Handys im Unterricht. Aber wenn Handys in der Pause erlaubt sind, denken die Kinder schon während des Unterrichts an die nächste Pause. Handys können auch die soziale Entwicklung stören. Wenn Kinder in der Pause nur am Handy sind, lernen sie schlechter, mit anderen zu reden oder zu spielen. Smartwatches können das Problem verstärken. Eltern überwachen ihre Kinder stärker, und so lernen Kinder weniger, selbst Probleme zu lösen.
 
 Aber Handys haben auch Vorteile und sind wichtig in der heutigen Zeit. Zu viel Handykonsum kann aber schädlich sein.
 
