@@ -3,14 +3,14 @@
 		<div class="cta__container cta__container--column-reverse">
 			<div class="cta__info cta__info--column">
 				<h2 class="heading heading__center heading--black">
-					UPS...404 Seite nicht gefunden.
+					UPS...404 Seite nicht found.
 				</h2>
 				<p class="cta__text cta__text--column">
 					Leider konnten wir die Seite, nach der du suchst, nicht finden.
 				</p>
-				<a href="/" class="btn btn__space btn--jonquil">
+				<a href="{{ relLangURL "/" }}" class="btn btn__space btn--jonquil">
 					<span>Rückkehr nach Hause</span>
-					{{ partial "svgs/arrow-right.html" }}
+					{{ partial "svgs/arrow-right.html" (dict "h" "big") }}
 				</a>
 			</div>
 			<div class="cta__svg cta__svg--column">

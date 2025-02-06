@@ -8,7 +8,8 @@
 				<img src="{{ .Site.Params.cloudinary_url }}/logos/chinder_main_qwvki2.png" alt="Chinderzytig logo" class="nav__logo-image">
 			</a>
 		</div>
-		{{ partial "level.html" (dict "attr" . "el" "nav" "btn" "nav") }}
+		
+		{{ partial "level.html" (dict "attr" . "ctx" $ "el" "nav" "btn" "nav") }}
 	</div>
 	<div class="nav__banner">
 		<div class="nav__banner-text">

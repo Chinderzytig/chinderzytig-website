@@ -18,9 +18,82 @@
         margin-right: .5rem;
     }
 
+    &__arrow {
+      border-left: .6rem solid transparent;
+      border-right: .6rem solid transparent;
+      border-top: .9rem solid $black;
+    }
+
+    &__dropdown {
+      position: relative;
+      display: inline-block;
+
+      &-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+      }
+
+      &-link {
+        font-size: 1.2rem;
+        font-family: $font-spartan;
+		    color: $black;
+        width: 6rem;
+        padding: 1.3rem;
+        background-color: $white;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+
+        &--article {
+          border: solid $jonquil;
+          border-width: 0 2px 0 2px;
+			    box-shadow: .5rem .5rem $jonquil;
+
+          &:link,
+			    &:visited {
+				    border: solid $jonquil;
+            border-width: 0 2px 0 2px;
+				    text-decoration: none;
+			    }
+          
+        }
+
+        &--nav {
+          border: solid $celadon;
+          border-width: 0 2px 0 2px;
+          box-shadow: .5rem .5rem $celadon;
+
+          &:link,
+          &:visited {
+            border: solid $celadon;
+            border-width: 0 2px 0 2px;
+            text-decoration: none;
+          }
+        }
+
+        &:hover { background-color: $cultured; }
+      }
+
+      &:hover { .level__dropdown-content { display: block; } }
+    }
+
     &__nav {
         width: 35%;
 
         @include respond(phone-lg) {  width: 25%; }
     }
 }
+
+/* Style The Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }

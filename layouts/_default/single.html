@@ -38,7 +38,7 @@
 							{{ end }}
 						{{ end }}
 					</div>
-					{{ partial "level.html" (dict "attr" . "el" "single" "btn" "article") }}
+					{{ partial "level.html" (dict "attr" . "ctx" $ "el" "single" "btn" "article") }}
 				</div>
 				<h2 class="heading__article nr-read">{{ .Params.title }}</h2>
 				<div class="single__date-author">
