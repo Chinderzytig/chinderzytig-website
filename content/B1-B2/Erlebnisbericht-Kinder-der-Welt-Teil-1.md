@@ -44,10 +44,11 @@ Ich besuche die Ali Thani Benamar Schule und ich bin im 3. Kurs Oberstufe. Ich v
 Nach der Schule erledige ich meine Hausaufgaben, helfe der Mutter und schaue fern. Während der Schulferien sind wir oft bei der Grossmutter.”
 
 ### Vom Heute und vom Morgen
+
 “Meine Berufswünsche sind noch unklar. Ich wäre gerne Journalistin, denn ich Reise gerne. Daher vielleicht auch mein zweiter Wunsch, Pilotin zu werden. Als erstes Reiseland würde ich in die Türkei, nach Istanbul reisen. Gerne würde ich auch mit meinen Eltern die Pilgerreise nach Saudi Arabien unternehmen.
 
 Meine Schwestern und ich erhalten kein Taschengeld. Wenn wir etwas brauchen, sagen wir es der Mutter.
 
 Ich liebe das traditionelle algerische Essen wie die Suppen Harira und Shurba. Unsere Süssigkeiten sind mit viel Honig gebacken, was ich zu Tee oder Kaffee liebe. Sonst trinke ich gerne kohlensäurehaltige Getränke.
 
- Sollte ich Besuch aus dem Ausland bekommen, würde ich ihn zuerst bei uns zu Hause willkommen heissen (Markhaba) und zum Essen einladen. Danach zeige ich ihm auf einem Spaziergang die Schönheiten und Monumente Tlemcens. Wir haben viele alte Moscheen, alte Stadtmauern und Festungen und einen Königspalast. Ich liebe es, durch den farbenfrohen Markt zu schlendern. Da gibt es viel zu sehen und zu kaufen. Die imposante Markthalle stammt aus der Zeit der Franzosen. Im unteren Geschoss werden Fisch und Fleisch angeboten. Im ersten Stock frisches Gemüse und Obst. Ich mag es, mit Grossmutter hier einzukaufen.”
+Sollte ich Besuch aus dem Ausland bekommen, würde ich ihn zuerst bei uns zu Hause willkommen heissen (Markhaba) und zum Essen einladen. Danach zeige ich ihm auf einem Spaziergang die Schönheiten und Monumente Tlemcens. Wir haben viele alte Moscheen, alte Stadtmauern und Festungen und einen Königspalast. Ich liebe es, durch den farbenfrohen Markt zu schlendern. Da gibt es viel zu sehen und zu kaufen. Die imposante Markthalle stammt aus der Zeit der Franzosen. Im unteren Geschoss werden Fisch und Fleisch angeboten. Im ersten Stock frisches Gemüse und Obst. Ich mag es, mit Grossmutter hier einzukaufen.”
