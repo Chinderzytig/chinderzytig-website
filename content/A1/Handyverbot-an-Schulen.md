@@ -38,4 +38,4 @@ Was denkst du über das Handyverbot? Hast du ein Handy? Nimmst du es mit in die 
 
 Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
 
-***\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht***
+**_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht_**

@@ -36,3 +36,5 @@ Aber Handys haben auch Vorteile und sind wichtig in der heutigen Zeit. Zu viel H
 Was denkst du über ein Handyverbot an Schulen? Wie ist es an deiner Schule? Hast du ein Handy? Bringst du es mit zur Schule? Was denkst du über die Auswirkungen von Handys auf das Lernen?
 
 Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+
+**_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht_**
