@@ -87,10 +87,11 @@
 		font-family: $font-spartan;
 		color: $black;
 		background-color: $white;
-		width: 6rem;
+		width: 8rem;
 		padding: 1.3rem;
 		cursor: pointer;
 		display: flex;
+		justify-content: space-between;
 		align-items: center;
 
 		&:not(:first-child) { margin-left: 0rem; }
