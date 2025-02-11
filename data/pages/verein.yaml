@@ -64,6 +64,8 @@ btns:
     - text: Kontaktiere Uns
 
 companies:
+- logo: "Use_The_News_wsk3dm.jpeg"
+  desc: Use The News logo
 - logo: "schwarzweiss_d_bmyctr.eps"
   desc: Migros logo
 - logo: "keystone-black_ltgj7k.png"
