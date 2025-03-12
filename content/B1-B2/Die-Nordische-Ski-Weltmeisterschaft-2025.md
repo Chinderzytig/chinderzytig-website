@@ -19,7 +19,7 @@ slug = ""
 title = "Die Nordische Ski Weltmeisterschaft 2025"
 +++
 
-**_Zwischen dem 26. Februar und dem 9. März haben in Trondheim, Norwegen, die Nordische Weltmeisterschaften stattgefunden. Im Rahmen der Nordischen Weltmeisterschaften werden jeweils Wettkämpfe im Langlauf, Skispringen und in der Nordischen Kombination ausgetragen. Die Wettkämpfe haben dabei im Granasen Skisenter stattgefunden._**
+**_Zwischen dem 26. Februar und dem 9. März haben in Trondheim, Norwegen, die Nordischen Weltmeisterschaften stattgefunden. Im Rahmen der Nordischen Weltmeisterschaften werden jeweils Wettkämpfe im Langlauf, Skispringen und in der Nordischen Kombination ausgetragen. Die Wettkämpfe haben im Granasen Skisenter stattgefunden._**
 
 {{< important-points >}}
 
@@ -35,18 +35,19 @@ title = "Die Nordische Ski Weltmeisterschaft 2025"
 
 {{< /important-points >}}
 
-Nordische Weltmeisterschaften finden alle zwei Jahre statt. Die erste offizielle Nordische Ski-Weltmeisterschaft fand im Jahr 1937 im französischen Chamonix statt. Nun wurden sie zum zweiten Mal in Trondheim ausgetragen. Nachdem sie im Jahr 1997 bereits im norwegischen Trondheim stattgefunden haben, kehrten sie nun wieder dorthin zurück. 
+Nordische Weltmeisterschaften finden alle zwei Jahre statt. Die erste offizielle Nordische Ski-Weltmeisterschaft fand im Jahr 1937 im französischen Chamonix statt. Nun wurden sie zum zweiten Mal in Trondheim ausgetragen. Nachdem sie im Jahr 1997 bereits im norwegischen Trondheim stattgefunden hatten, kehrten sie nun wieder dorthin zurück.
  
 ### Langlauf
 
-Langlauf ist die Nationalsportart Norwegens und die wohl bekannteste Sportart an einer nordischen WM. Langlauf ist vergleichbar mit dem Skifahren in der Schweiz – alle wissen was es ist und alle machen es. Norwegerinnen und Norweger gehen sogar mit den Langlaufskiern einkaufen oder Picknicken. Deshalb ist es auch nicht erstaunlich, dass über 25‘000 Zuschauerinnen und Zuschauer an fast jeden einzelnen Wettkampf entlang der Strecke standen und die Athletinnen und Athleten angefeuert haben.
+Langlauf ist die Nationalsportart Norwegens und die wohl bekannteste Sportart an einer nordischen WM. Langlauf ist vergleichbar mit dem Skifahren in der Schweiz – alle wissen, was es ist und alle machen es. Norwegerinnen und Norweger gehen sogar mit den Langlaufskiern einkaufen oder picknicken. Deshalb ist es auch nicht erstaunlich, dass über 25‘000 Zuschauer*innen an fast jedem einzelnen Wettkampf entlang der Strecke standen und die Athletinnen und Athleten anfeuerten.
 
-Im Langlauf sind es 6 Wettkämpfe für je Frauen und Männer die ausgetragen werden: Der Sprint, der Team-Sprint, je eine Staffel (mit 4 Athletinnen und 4 Athleten), 10 Kilometer Einzelstart in der klassischen Technik, ein Skiathlon und 50 Kilometer in der freien Technik. 
-Ihr habt richtig gelesen- es gibt sowohl die klassische als auch die freie Technik. Der Unterschied zwischen der klassischen und der freien Technik ist die Bewegung als auch der Ski, den man unter den Schuhen trägt. 
+Im Langlauf sind es 6 Wettkämpfe für je Frauen und Männer, die ausgetragen werden: Der Sprint, der Team-Sprint, je eine Staffel (mit 4 Athletinnen und 4 Athleten), 10 Kilometer Einzelstart in der klassischen Technik, ein Skiathlon und 50 Kilometer in der freien Technik.
+
+Ihr habt richtig gelesen - es gibt sowohl die klassische als auch die freie Technik. Der Unterschied zwischen den beiden Techniken ist die Bewegung als auch der Ski, den man unter den Schuhen trägt.
 
 ### Skispringen
 
-Beim Skispringen springen die Athletinnen und Athleten von einer riesigen Schanze und hoffen, so weit wie möglich zu springen. Auf den grössten Schanzen können sie so bis über 250 Meter weit springen. 
+Beim Skispringen springen die Athletinnen und Athleten von einer riesigen Schanze und hoffen, so weit wie möglich bis zur Landung zu fliegen. Von den grössten Schanzen können sie so bis über 250 Meter weit springen.
 
 ### Nordische Kombination
 
