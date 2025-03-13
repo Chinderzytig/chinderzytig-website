@@ -51,4 +51,4 @@ Kennst du unsere Bundesrät*innen? Weisst du, wer gewählt wurde? Kennst du unse
 
 Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
 
-**_Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht._**
+**_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht._**
