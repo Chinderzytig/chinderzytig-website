@@ -53,4 +53,4 @@ Beim Skispringen springen die Sportler*innen von einer riesigen Schanze. Wer am 
 
 Die Nordische Kombination besteht aus zwei Sportarten: Skispringen und Langlauf. Wer gewinnen will, muss weit springen und danach schnell langlaufen.
 
-**_Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht._**
+**_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht._**
