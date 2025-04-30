@@ -1,5 +1,5 @@
 .pdf {
-	@include shadow(#CD0000, 205, 0, 0, 0.65)
+	@include shadow(#CD0000, 205, 0, 0, 0.65);
 	color: $black;
 	background-color: $white;
 	display: flex;
@@ -36,7 +36,15 @@
 
 	&__text { margin: 0 1rem; }
 
-	&__title { font-family: $font-spartan; }
+	&__title,
+	&__type { font-family: $font-spartan; }
+
+	&__type {
+		font-size: $font-small;
+		color:#CD0000;
+		text-transform: uppercase;
+		margin-bottom: .5rem;
+	}
 
 	&__target {
 		font-size: $font-small;
