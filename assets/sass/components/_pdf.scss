@@ -39,13 +39,6 @@
 	&__title,
 	&__type { font-family: $font-spartan; }
 
-	&__type {
-		font-size: $font-small;
-		color:#CD0000;
-		text-transform: uppercase;
-		margin-bottom: .5rem;
-	}
-
 	&__target {
 		font-size: $font-small;
 		margin-top: .5rem;
