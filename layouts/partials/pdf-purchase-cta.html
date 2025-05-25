@@ -25,7 +25,26 @@
 		Das erste Themenpaket kannst du für nur 29.- Fr. beziehen und uns somit
 		unterstützen, weitere Themenpakete zu erstellen!
 	</p>
-	<div class="carousel carousel__bottom" data-flickity='{"cellAlign": "left", "wrapAround": true}'>
+	
+	<div class="carousel carousel__bottom" data-flickity='{"cellAlign": "left"}'>
+		<a href="{{ $page.Site.Params.cloudinary_url }}/production/Teaser_Themenpaket_sfpnqc.pdf" target="_blank" class="pdf pdf--cart">
+			<div class="pdf__container">
+				<div class="pdf__info">
+					{{ partial "svgs/pdf.html" }}
+					<div class="pdf__text pdf__text--hybrid">
+						<h3 class="pdf__title">Demokratie erleben und mitgestalten</h3>
+						<p class="pdf__target pdf__target--hybrid">Zyklus 2 und 3</p>
+					</div>
+				</div>
+				<div class="pdf__buy--hybrid">
+					<div class="pdf__buy-container">
+						{{ partial "svgs/magnify.html" }}
+						<span class="pdf__buy-now pdf__buy-now--hybrid">Vorschau</span>
+					</div>
+				</div>
+			</div>
+		</a>
+		
 		{{ partial "pdf-card.html" (dict "attr" $page "snipcart" "true" "alias" "themenpaket") }}
 	</div>
 

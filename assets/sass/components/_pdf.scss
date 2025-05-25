@@ -34,7 +34,15 @@
 		padding: 1rem;
 	}
 
-	&__text { margin: 0 1rem; }
+	&__text { 
+		margin: 0 1rem;
+
+		&--hybrid {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+	}
 
 	&__title,
 	&__type { font-family: $font-spartan; }
@@ -42,12 +50,19 @@
 	&__target {
 		font-size: $font-small;
 		margin-top: .5rem;
+
+		&--hybrid { margin-top: -.7rem; }
 	}
 
 	&__buy {
 		background-color: $jonquil;
 		width: 100%;
 		padding: 1rem;
+
+		&--hybrid {
+			background-color: $celadon;
+			padding: .35rem;
+		}
 
 		&-container {
 			width: 100%;
@@ -59,6 +74,8 @@
 		&-now {
 			font-family: $font-spartan;
 			margin: 1rem 0 0 1.5rem;
+
+			&--hybrid { color: $white; }
 		}
 	}
 
