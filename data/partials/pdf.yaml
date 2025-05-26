@@ -1,9 +1,9 @@
 files:
   - alias: "themenpaket"
-    name: "Demokratie erleben und mitgestalten (Teaser)"
+    name: "Demokratie erleben und mitgestalten Teaser"
     target: "Zyklus 2 und 3"
     label: "Kostenlose Vorschau" 
-    id: "Demokratie-erlebn-und-mitgestalten-teaser-PDF"
+    id: "Demokratie-erlebn-und-mitgestalten-Teaser-PDF"
     guid: "e30081b0-e244-48fe-aea9-3a68a3f04eb7"
     price: "0.00"
     description: "Kostenlose Vorschau für die Zyklen 2 und 3"
