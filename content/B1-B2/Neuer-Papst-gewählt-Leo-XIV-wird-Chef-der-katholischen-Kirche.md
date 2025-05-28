@@ -44,4 +44,4 @@ Sollten Frauen in der Kirche die gleichen Aufgaben übernehmen dürfen wie Männ
 
 Findest du es gut, dass der Papst sich für Umwelt- und Klimaschutz einsetzt? Was denkst du?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

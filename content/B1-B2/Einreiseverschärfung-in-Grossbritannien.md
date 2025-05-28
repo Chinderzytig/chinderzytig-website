@@ -42,4 +42,4 @@ Ab dem 2. April 2025 wird die Einreise nach Grossbritannien für Personen mit Sc
 Warst du schon einmal in Grossbritannien? Wie war die Einreise für dich? 
 Findest du es sinnvoll, dass Länder strengere Regeln einführen, um die Sicherheit zu erhöhen? Oder findest du es eher unfair gegenüber Reisenden?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

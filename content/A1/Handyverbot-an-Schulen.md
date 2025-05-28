@@ -30,12 +30,11 @@ In der Kreisschule Homburg sind auch Smartwatches verboten. Die Lehrer sagen: Ki
 Die Schulchefin von Bern sagt: Telefonieren und SMS sind nicht das grösste Problem. Schlimmer sind Spiele, Videos und die Ablenkung im Unterricht. Viele Schulen verbieten Handys im Unterricht. Aber wenn Handys in der Pause erlaubt sind, denken die Kinder im Unterricht an das Handy. Handys können auch das Spielen und Sprechen mit anderen stören. Kinder müssen lernen, miteinander zu reden. Smartwatches sind auch ein Problem. Eltern sehen immer, wo ihr Kind ist. So lernen Kinder nicht, Probleme selbst zu lösen.
 
 Aber Handys sind auch wichtig. Wir brauchen sie heute oft. Doch zu viel am Handy sein ist nicht gut.
- 
 
 ### Nun bist du dran
 
 Was denkst du über das Handyverbot? Hast du ein Handy? Nimmst du es mit in die Schule? Was denkst du über Handys und Lernen?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht_**

@@ -39,6 +39,6 @@ In Rom beginnt auch das Konklave. Das ist die Wahl des neuen Papstes. Dabei wäh
 
 Hat dich der Tod von Papst Franziskus berührt? Kennst du Menschen, die katholisch sind? Wie geht es ihnen damit? Schaust du dir die Papstwahl an?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht._**

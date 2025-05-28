@@ -36,4 +36,4 @@ Die Rivalen konkurrieren nicht nur, sie schlagen auch Alarm. OpenAI und Google h
 ### Nun bist du dran
 Hast du DeepSeek bereits ausprobiert? Welche anderen KI-Tools kennst du? Wo nutzt du KI?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

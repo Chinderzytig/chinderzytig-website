@@ -37,6 +37,6 @@ Friedrich Merz von der CDU/CSU wird wahrscheinlich neuer Bundeskanzler. Doch er 
 
 Was weisst du über Friedrich Merz? Was weisst du über das Wahlergebnis in Deutschland?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht._**

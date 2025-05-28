@@ -37,4 +37,4 @@ Der Osterhase steht für Fruchtbarkeit (Hasen bekommen viele Babys) und für Auf
 
 Stell dir vor, du wärst ein Osterhase: Wo würdest du dein Nest verstecken, damit es richtig schwierig  zu finden ist? Wie würde dein perfektes Osterei aussehen? Welche Farben oder Muster würdest du malen? Wenn nicht der Hase die Eier bringt – welches Tier würdest du wählen? Vielleicht ein Oster-Pinguin?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

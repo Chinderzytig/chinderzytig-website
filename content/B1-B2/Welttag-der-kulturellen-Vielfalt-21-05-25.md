@@ -43,4 +43,4 @@ Welche verschiedenen Kulturen kennst du in deinem Umfeld?
 
 Wo würdest du dir mehr Toleranz wünschen?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

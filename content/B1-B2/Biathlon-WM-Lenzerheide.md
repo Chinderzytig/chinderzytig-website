@@ -43,4 +43,4 @@ Warst du schon einmal auf der Lenzerheide?
 Hast du schon einmal Biathlon gemacht?
 Welche bekannte Biathlon-Sportlerin oder welchen bekannten Biathlon-Sportler kennst du? 
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

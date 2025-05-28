@@ -39,6 +39,6 @@ Dann beginnt die Wahl. Das nennt man Konklave. Mehr als 100 Männer, die Kardin�
 
 Findest du es traurig, dass Papst Franziskus gestorben ist? Kennst du Leute, die katholisch sind? Schaust du dir die Wahl vom neuen Papst an?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht._**

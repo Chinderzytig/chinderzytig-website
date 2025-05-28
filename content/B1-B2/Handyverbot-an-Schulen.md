@@ -38,4 +38,4 @@ Falls du ein Handy hast, wie gehst du damit um? Nimmst du es mit in die Schule?
 
 Was denkst du zu den Folgen, die Handys auf das Lernen und die Entwicklung haben können?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

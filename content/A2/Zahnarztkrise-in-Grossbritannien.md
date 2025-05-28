@@ -35,6 +35,6 @@ In den nächsten Jahren wird ein grosser Teil der Zahnärzte, die heute beim NHS
 
 Wie sehr beschäftigt dich deine Gesundheit? Denkst du, dass du in der Schweiz schnell einen Behandlungstermin einholen kannst?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht._**

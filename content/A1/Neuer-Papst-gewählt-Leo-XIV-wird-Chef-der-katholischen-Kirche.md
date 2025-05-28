@@ -42,6 +42,6 @@ Dürfen Frauen in der Kirche das Gleiche machen wie Männer? Was denkst du?
 
 Ist es gut, dass der Papst die Umwelt schützen will? Was ist deine Meinung?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht.**

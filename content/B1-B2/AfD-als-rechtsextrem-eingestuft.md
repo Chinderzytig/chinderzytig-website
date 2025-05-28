@@ -45,4 +45,4 @@ Einige Politiker diskutieren nun darüber, ob die AfD verboten werden sollte. Da
 
 Auch in der Schweiz leben wir in einer Demokratie, in der Gleichberechtigung für alle gilt. Aber warum ist es wichtig, dass alle Menschen, egal woher sie kommen, gleich behandelt werden? Was würde passieren, wenn dieses Grundgesetz nicht mehr gelten würde?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
