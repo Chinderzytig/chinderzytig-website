@@ -45,6 +45,6 @@ Einige Politiker sagen: Vielleicht sollte die AfD verboten werden. Aber das ist 
 
 Auch in der Schweiz haben wir eine Demokratie. Alle Menschen sollen gleich behandelt werden. Warum ist das wichtig? Was passiert, wenn Menschen nicht gleich behandelt werden?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht.**

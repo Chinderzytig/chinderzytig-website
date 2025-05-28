@@ -37,4 +37,4 @@ Die Ergebnisse der Bundestagswahlen 2025 haben die politische Landschaft in Deut
 
 Was weisst du über Friedrich Merz? Was weisst du über das Wahlergebnis in Deutschland?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

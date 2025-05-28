@@ -39,6 +39,6 @@ Für Menschen mit Schweizer Pass ist das Reisen nach Grossbritannien ab dem 2. A
 
 Warst du schon einmal in Grossbritannien? Wie war die Reise für dich? Findest du es gut, wenn Länder strengere Regeln machen, um mehr Sicherheit zu haben? Oder findest du das eher ungerecht für die Reisenden?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht._**

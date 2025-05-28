@@ -49,4 +49,4 @@ Viele Menschen schauen sich die Wahl im Fernsehen oder im Internet an. Auch die 
 
 Kennst du unsere Bundesrät*innen? Weisst du bereits, wer gewählt worden ist? Kennst du unsere Parteien, unser Parteiensystem? Wen würdest du wählen, in deinen Traumbundesrat?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

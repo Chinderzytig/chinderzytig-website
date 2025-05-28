@@ -45,6 +45,6 @@ Findest du, dass Frauen in der Kirche die gleichen Aufgaben haben dürfen wie M�
 
 Findest du es gut, dass der Papst sich für die Umwelt und das Klima einsetzt? Was denkst du?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht.**

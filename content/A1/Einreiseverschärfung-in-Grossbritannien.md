@@ -39,6 +39,6 @@ Für Menschen aus der Schweiz ist die Einreise nach Grossbritannien nun etwas sc
 
 Warst du schon in Grossbritannien? Wie war deine Reise? Findest du neue Regeln für mehr Sicherheit gut? Oder findest du sie nicht fair für Reisende?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht._**

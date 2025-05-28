@@ -42,6 +42,6 @@ Oder hast du gar schon einmal ein Spiel gesehen, oder selbst gespielt?
 Nach dem Lesen dieses Artikels könntest du dir vorstellen, diesen Sport auszuüben?
 Wenn du dir im Internet oder im TV ein Cricketspiel anschaust, was fasziniert dich daran?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht._**

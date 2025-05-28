@@ -42,6 +42,6 @@ Selina Gasparin war die erste Schweizerin mit einer Olympia-Medaille im Biathlon
 
 Warst du schon einmal auf der Lenzerheide? Hast du schon Biathlon ausprobiert? Kennst du eine Biathletin oder einen Biathleten?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht_**

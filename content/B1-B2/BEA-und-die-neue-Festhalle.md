@@ -37,4 +37,4 @@ Mit der Eröffnung der neuen Festhalle soll ein klares Signal für die Zukunft d
 
 Warst du schon einmal an der BEA? Was denkst du über die neue Festhalle Worauf freust du dich besonders?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

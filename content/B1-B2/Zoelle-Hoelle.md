@@ -37,4 +37,4 @@ Viele Länder sind aber unzufrieden mit Trumps Entscheidung. Sie finden es unfai
 
 Stell dir vor, deine Lieblingssüssigkeit kommt aus einem anderen Land. Plötzlich ist sie doppelt so teuer geworden, weil die Schweiz Zölle eingeführt hat. Würdest du deine Lieblingsüssigkeit trotzdem noch kaufen? Oder würdest du dir lieber etwas anderes aussuchen, das in der Schweiz hergestellt wird? Wenn ja, weshalb?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

@@ -35,6 +35,6 @@ Die Aktionswoche Rassismus will helfen, diese Angst zu verringern. In vielen St�
 
 Ist dir Rassismus schon begegnet? Was denkst du über die Aktionswoche Rassismus? Macht dir Fremdes eher Angst oder bist du offen für Neues?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht._**

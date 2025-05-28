@@ -37,4 +37,4 @@ Dem will die Aktionswoche Rassismus entgegenwirken. Kantone, Städte und Gemeind
 
 Ist dir Rassismus schon begegnet? Was hältst du von der Aktionswoche Rassismus? Macht dir Fremdes eher Angst oder bist du offen für Neues?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}

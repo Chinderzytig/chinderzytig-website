@@ -31,6 +31,6 @@ Vielleicht hast du auch schon einmal ein Reh, einen Fuchs oder einen Igel gesehe
 
 Welche Tiere hast du schon in der Stadt gesehen? Hast du schon einmal ein Reh gesehen?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht_**

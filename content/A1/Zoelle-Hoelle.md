@@ -37,6 +37,6 @@ Andere Länder sind wütend. Sie finden: Das ist unfair. Darum sagen sie: Dann m
 
 Stell dir vor, deine Lieblingssüssigkeit kommt aus einem anderen Land. Jetzt ist sie doppelt so teuer, weil es Zölle gibt. Kaufst du sie trotzdem? Oder kaufst du lieber eine andere Süssigkeit aus der Schweiz? Warum?
 
-Frage nach, bilde dir deine Meinung, sprich darüber – und melde dich doch auch bei uns. Entweder mit auf Facebook oder durch unser [Kontaktformular](https://www.chinderzytig.ch/kontakt/). Wir freuen uns auf Rückmeldungen.
+{{< fdw-schluss >}}
 
 **_\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht._**
