@@ -42,3 +42,5 @@ Was denkst du über die Situation im Nahen Osten?
 Wie würdest du vorgehen, damit es wieder Frieden gibt?
 
 {{< fdw-schluss >}}
+
+**\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht.**
