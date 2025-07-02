@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Der_Triops_AM_uhsg4q"
 artikel = true
 author = "Louisa Sodige"
 cc_licence = ""
@@ -49,3 +49,5 @@ Triopse sind echte Überlebenskünstler. Ihre Art gibt es schon seit über 200 M
 ### Triopse als Haustiere
 
 Triopse sind spannende Haustiere und relativ einfach zu pflegen. Sie brauchen nur wenig Platz und Futter. Für ein gutes Wachstum ist eine gleichmäßige Wassertemperatur wichtig, weshalb man am besten eine Wärmelampe installiert. Dank ihrer schnellen Entwicklung sind Triopse sehr spannend zu beobachten. Je nach Bedingungen und Art werden Triopse etwa 4-12 Wochen alt. Dadurch eignen sie sich gut für einen ersten Versuch zur Haltung von Tieren.
+
+{{< arbeitsmaterial >}}

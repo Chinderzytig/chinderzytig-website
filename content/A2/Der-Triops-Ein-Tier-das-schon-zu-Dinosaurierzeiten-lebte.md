@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Der_Triops_AM_uhsg4q"
 artikel = true
 author = "Louisa Sodige"
 cc_licence = ""
@@ -51,3 +51,5 @@ Triopse gibt es seit über 200 Millionen Jahren! Wenn es trocken ist, überleben
 Triopse sind einfache Haustiere. Sie brauchen nicht viel Platz oder Futter. Sie brauchen aber warmes Wasser. Eine Wärmelampe hilft. Triopse wachsen schnell und sind spannend zu beobachten. Sie leben 4 bis 12 Wochen. Darum sind sie gut für Leute, die das erste Mal ein Tier halten wollen.
 
 **\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht.**
+
+{{< arbeitsmaterial >}}

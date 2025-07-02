@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Der_Triops_AM_uhsg4q"
 artikel = true
 author = "Louisa Sodige"
 cc_licence = ""
@@ -51,3 +51,5 @@ Triopse leben seit 200 Millionen Jahren. Wenn es trocken ist, schlafen die Eier 
 Triopse sind gute Haustiere. Sie brauchen wenig Platz und Futter. Das Wasser muss warm sein. Eine Lampe hilft. Triopse wachsen schnell. Sie leben 4 bis 12 Wochen. Man kann sie gut beobachten. Sie sind gut für Leute, die zum ersten Mal ein Tier haben.
 
 **\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht.**
+
+{{< arbeitsmaterial >}}
