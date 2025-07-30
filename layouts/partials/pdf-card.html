@@ -5,7 +5,7 @@
 
 {{ if eq $snipcart "true" }}
 	{{ range where $t "alias" $a }}
-		<button class="pdf pdf--cart snipcart-add-item"
+		<button class="pdf pdf__cart snipcart-add-item"
 			data-item-id="{{ .id }}"
 			data-item-file-guid="{{ .guid }}"
 			data-item-price="{{ .price }}"

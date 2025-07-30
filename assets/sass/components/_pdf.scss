@@ -20,17 +20,21 @@
 		&:active { transform: translateY(.5rem); }
 	}
 
-	&--cart {
-		font-size: $font-default;
+	&__cart {
+		font-size: $font-small;
+		width: 35rem;
 		border: none;
 		margin: 0 6rem 3rem 0;
 		padding: 0;
 		-webkit-appearance: none;
 	}
 
+	&__container { width: 100%; }
+
 	&__info {
 		display: flex;
 		align-items: center;
+		justify-content: space-around;
 		padding: 1rem;
 	}
 
@@ -48,7 +52,6 @@
 	&__type { font-family: $font-spartan; }
 
 	&__target {
-		font-size: $font-small;
 		margin-top: .5rem;
 
 		&--hybrid { margin-top: -.7rem; }
