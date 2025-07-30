@@ -1,6 +1,6 @@
 files:
   - alias: "themenpaket"
-    name: "Künstlich Intelligenz Teaser"
+    name: "Vorschau Künstliche Intelligenz entdecken und reflektieren"
     target: "Zyklus 2 und 3"
     label: "Kostenlose Vorschau" 
     id: "KI-Teaser-PDF"
@@ -16,7 +16,7 @@ files:
     price: "29.00"
     description: "Kostenlose Vorschau für die Zyklen 2 und 3"
   - alias: "themenpaket"
-    name: "Demokratie erleben und mitgestalten Teaser"
+    name: "Vorschau Demokratie erleben und mitgestalten"
     target: "Zyklus 2 und 3"
     label: "Kostenlose Vorschau" 
     id: "Demokratie-erleben-und-mitgestalten-Teaser-PDF"
