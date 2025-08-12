@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "StreetParade_AM_krtmb2"
 artikel = true
 author = "AGu"
 cc_licence = ""
@@ -61,3 +61,5 @@ Das Gesetz sagt: Drogen zu besitzen und zu konsumieren ist strafbar! Nur ist die
 ### Abfall und Entsorgung
 
 Littering, also das Wegwerfen zum Beispiel von Bierdosen etc. ist nicht erlaubt, wird aber toleriert, da sobald die Uhr Mitternacht schlägt, die grosse Reinigungsaktion startet. Es wird tonnenweise Abfall weggeräumt. So ist bereits am nächsten Morgen, kaum mehr etwas von der Mega-Party zu sehen.
+
+{{< arbeitsmaterial >}}

@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "StreetParade_AM_krtmb2"
 artikel = true
 author = "AGu"
 cc_licence = ""
@@ -65,3 +65,5 @@ Drogen sind verboten! Aber viele nehmen Drogen. Das ist gefährlich. Es gibt Ste
 Littering ist: Abfall auf den Boden werfen. Es ist verboten. Aber bei der Street Parade ist es erlaubt. Ab Mitternacht wird alles sauber gemacht. Viele Leute räumen alles auf. Am nächsten Morgen ist fast nichts mehr von der Party zu sehen.
 
 **\*Mit Unterstützung von ChatGPT vom Original Niveau B1-B2 auf A1 vereinfacht.**
+
+{{< arbeitsmaterial >}}
