@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "StreetParade_AM_krtmb2"
 artikel = true
 author = "AGu"
 cc_licence = ""
@@ -66,3 +66,5 @@ Drogen zu haben oder zu nehmen ist verboten! Aber viele machen es trotzdem. Das 
 Littering heisst: Dinge wie Dosen einfach auf den Boden werfen. Das ist eigentlich verboten, wird aber an der Street Parade toleriert. Ab Mitternacht beginnt die grosse Reinigung. Sehr viel Abfall wird eingesammelt. Am nächsten Morgen sieht man fast nichts mehr von der grossen Party.
 
 **\*Mit Unterstützung von ChatGPT vom Original Niveau B1-B2 auf A2 vereinfacht.**
+
+{{< arbeitsmaterial >}}
