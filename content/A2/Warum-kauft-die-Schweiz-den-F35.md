@@ -29,7 +29,7 @@ _Was würdest du machen, wenn du 6,035 Milliarden Franken hättest? Die Schweiz 
 
 <li>Nr. 1: Weil es Technologisch veraltetes ,  Leistungsfähigkeit,  Wartung und Zuverlässigkeit , Erfordernisse neuer Missionen.</li>
 
-<li>Nr. 2 : Der F-35 kostet: 438 Mrd. US-Dollar.(6,035 Milliarden  Fr.)</li>
+<li>Nr. 2 : Die Schweiz kauft 36 Flugzeuge. Sie kosten 6,035 Milliarden Franken. In dem Preis sind Schule, Häuser und Reparatur für 30 Jahre.</li>
 
 <li>Nr. 3: Dank dem modernen F-35 erhält die Luftwaffe die benötigten Fähigkeiten zurück, um auch zukünftigen Einsatzszenarien gerecht zu werden.</li>
 </ul>
