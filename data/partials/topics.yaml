@@ -35,6 +35,8 @@ thema:
     link: "/markierungen/politik"
   - label: Sport
     link: "/markierungen/sport"
+  - label: Technologie
+    link: "/markierungen/technologie"
   - label: Welt
     link: "/markierungen/welt"
   - label: Weltraum/Universum
@@ -43,7 +45,3 @@ thema:
     link: "/markierungen/wirtschaft"
   - label: Wissenschaft
     link: "/markierungen/wissenschaft"
-  - label: "Zyklus 2"
-    link: "/markierungen/zyklus-2"
-  - label: "Zyklus 3"
-    link: "/markierungen/zyklus-3"
