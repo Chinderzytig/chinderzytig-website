@@ -4,7 +4,7 @@ artikel = true
 author = "Vivian Balsiger"
 cc_licence = ""
 cc_src = ""
-date = 2025-12-14T01:00:00Z
+date = 2025-12-18T01:00:00Z
 description = ""
 fdw = false
 hero_img = "/Das_geheime_Leben_der_Ameisen_q9zgew.jpg"
@@ -39,6 +39,7 @@ title = "Das geheime Leben der Ameisen"
 {{< /important-points >}}
 
 Der Körper einer Ameise besteht aus Kopf, Brust und Hinterleib. Dazu kommen sechs flinke Beine. Jede Ameisenart sieht etwas anders aus und hat eine eigene Grösse.
+
 Die Rote Waldameise, die man bei uns oft sieht, wird etwa einen Zentimeter lang und wiegt nur rund 10 Milligramm – etwa so viel wie ein Staubkorn.
  
 ### Wo leben Ameisen?
