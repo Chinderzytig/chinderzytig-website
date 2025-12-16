@@ -4,7 +4,7 @@ artikel = true
 author = "Vivian Balsiger"
 cc_licence = ""
 cc_src = ""
-date = 2025-12-14T01:00:00Z
+date = 2025-12-18T01:00:00Z
 description = ""
 fdw = false
 hero_img = "/Das_geheime_Leben_der_Ameisen_q9zgew.jpg"
@@ -46,7 +46,7 @@ Ameisen bewohnen fast den gesamten Planeten. Mehr als 12'600 Arten sind bislan
 
 ### Sinnesprofis mit Fühler-Antennen
 
-Die Fühler auf dem Kopf sind für Ameisen Alleskönner, so etwas wie ein Schweizer Taschenmesser: Ameisen können über die Fühler Gerüche wahrnehmen, Geschmack testen und Berührungen spüren. Sie erkennen damit sogar, ob die Umgebung wärmer wird oder ob etwas mit der Luft oder dem Boden nicht stimmt.
+Die Fühler auf dem Kopf sind für Ameisen Alleskönner, so etwas wie ein Schweizer Taschenmesser: Ameisen können über die Fühler Gerüche wahrnehmen, Geschmack testen und Berührungen spüren. Sie erkennen damit sogar, ob die Umgebung wärmer wird oder ob etwas mit der Luft oder dem Boden nicht stimmt.
 
 ### Baukünstler im Wald
 
