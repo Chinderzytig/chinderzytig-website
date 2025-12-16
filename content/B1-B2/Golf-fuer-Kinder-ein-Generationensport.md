@@ -16,7 +16,7 @@ kfk = false
 markierungen = ["Sport"]
 paid = false
 slug = ""
-title = "Golf für Kinder – ein Generationensport "
+title = "Golf für Kinder – ein Generationensport"
 +++
 
 **Golf ist die einzige Sportart, bei der alle Generationen gemeinsam Spass auf dem Golfplatz haben können. Und was weiter entscheidend ist: Das Grosskind kann im selben Wettkampf gegen seinen Grossvater oder seine Grossmutter antreten - mit fairen Vorgaben beiderseits. Zudem ist dem Golfsport das elitäre Klischee definitiv abhandengekommen. Golf ist salonfähig geworden und beispielsweise nicht teurer als Skifahren.**

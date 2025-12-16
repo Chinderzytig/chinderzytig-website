@@ -16,7 +16,7 @@ kfk = false
 markierungen = ["Sport"]
 paid = false
 slug = ""
-title = "Golf für Kinder – ein Generationensport "
+title = "Golf für Kinder – ein Generationensport"
 +++
 
 **Golf ist ein Sport für alle Generationen. Kinder, Eltern und Grosseltern können zusammen Golf spielen. Besonders ist, dass Kinder sogar im gleichen Spiel gegen ihre Grosseltern antreten können. Dabei gelten faire Regeln für alle. Golf ist heute kein elitärer Sport mehr und kostet nicht mehr als andere Sportarten.**
