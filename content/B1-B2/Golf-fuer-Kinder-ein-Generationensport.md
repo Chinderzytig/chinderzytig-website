@@ -54,7 +54,7 @@ Dies alles ist absolut keine Hexerei und ist nach der ersten Runde für alle lei
 
 Vielfach wird Golf als elitär und teuer beschrieben. Das ist es aber nicht (mehr). Einerseits haben die Golfclubs gemerkt, dass sie nicht nur den älteren Golfspielern etwas bieten müssen, sondern den Fokus vermehrt auch auf die Jugend legen sollten. Denn das sind die zukünftigen Mitglieder, die den Golfclub auch in den kommenden Jahren - und vielfach bis ins hohe Alter unterstützen werden. Eine Kindermitgliedschaft in einem Golfclub kostet heute nicht mehr als in einem anderen Sportverein.
 
-Gleichzeitig haben auch die Golfgeschäfte gemerkt, dass sie mit Innovationen und preislich zurückhaltenden Angeboten Kinder und Familien für den Golfsport animieren können. Eine Golfausrüstung ist teuer und wird vielfach montiert. Besonders bei Kindern, die noch wachsen und theoretisch jedes Jahr eine neue Golfausrüstung benötigen. Es gibt jedoch Golfgeschäfte, bei denen Kinder ein passendes Golfset für weniger als 100 Franken pro Jahr mieten können. Im nächsten Jahr können sie zu den gleichen Bedingungen ein neues Golfset mieten, das ihrer Grösse entspricht.
+Gleichzeitig haben auch die Golfgeschäfte gemerkt, dass sie mit Innovationen und preislich zurückhaltenden Angeboten Kinder und Familien für den Golfsport animieren können. Eine Golfausrüstung ist teuer, wird vielfach moniert. Besonders bei Kindern, die noch wachsen und theoretisch jedes Jahr eine neue Golfausrüstung benötigen. Es gibt jedoch Golfgeschäfte, bei denen Kinder ein passendes Golfset für weniger als 100 Franken pro Jahr mieten können. Im nächsten Jahr können sie zu den gleichen Bedingungen ein neues Golfset mieten, das ihrer Grösse entspricht.
 
 ### Fast hätte ich's vergessen
 
