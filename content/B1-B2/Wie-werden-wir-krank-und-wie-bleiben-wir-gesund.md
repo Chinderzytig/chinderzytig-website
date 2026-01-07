@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Krank_oder_Gesund_AM_slpcsk"
 artikel = true
 author = "Camila Gonçalves"
 cc_licence = ""
@@ -47,3 +47,5 @@ In unserer Umwelt gibt es winzig kleine Lebewesen wie Viren und Bakterien. Sie s
 ### Wie bleiben wir gesund?
 
 Wenn es dem Menschen und dem Körper gut geht, dann wird man seltener krank. Was dabei helfen kann, ist gesunde Ernährung wie Früchte, Gemüse und genug Wasser. Gerade im Winter sind Vitamine besonders wichtig für die Abwehr. Zudem sollte auf genug Schlaf geachtet werden. Im Schlaf erholt sich der Körper und sammelt neue Energie. Auch Bewegung stärkt das Immunsystem. Regelmässiges Händewaschen ist genauso wichtig. Dies hilft, Krankheitserreger fernzuhalten. Frische Luft ist gut für den Körper. Auch im Winter sollten alle täglich kurz raus. Entspannung ist wichtig, um sich wohlzufühlen und hilft, damit sich der Körper von Stress erholen kann. Im Winter sollte zudem geschaut werden, dass man genug warm angezogen ist. Wenn dem Körper kalt ist, ist das Immunsystem geschwächt und kann sich nicht so gut gegen Krankheitserreger verteidigen. Wer gut auf seine eigenen Bedürfnisse und den Körper achtet, wird weniger krank und schneller wieder gesund.
+
+{{< arbeitsmaterial >}}
