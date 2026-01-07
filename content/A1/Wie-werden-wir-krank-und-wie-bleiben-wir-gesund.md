@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Krank_oder_Gesund_AM_slpcsk"
 artikel = true
 author = "Camila Gonçalves"
 cc_licence = ""
@@ -49,3 +49,5 @@ In der Umwelt gibt es sehr kleine Lebewesen wie Viren und Bakterien. Man kann si
 Wenn es dem Körper gut geht, wird man weniger oft krank. Gesundes Essen hilft dabei. Dazu gehören Früchte, Gemüse und genug Wasser. Im Winter sind Vitamine besonders wichtig. Auch genug Schlaf ist wichtig. Im Schlaf erholt sich der Körper. Bewegung hilft dem Körper stark zu bleiben. Händewaschen ist wichtig, damit Krankheitserreger nicht in den Körper kommen. Frische Luft tut gut. Auch im Winter sollte man jeden Tag kurz nach draussen gehen. Entspannung hilft gegen Stress. Im Winter ist es auch wichtig, warm angezogen zu sein. Wenn dem Körper kalt ist, kann er sich schlechter schützen. Wer gut auf sich und seinen Körper achtet, wird seltener krank und schneller wieder gesund.
 
 **\*Mit Unterstützung von ChatGPT vom Original Niveau B1 auf A1 vereinfacht.**
+
+{{< arbeitsmaterial >}}

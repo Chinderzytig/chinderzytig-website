@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "Krank_oder_Gesund_AM_slpcsk"
 artikel = true
 author = "Camila Gonçalves"
 cc_licence = ""
@@ -49,3 +49,5 @@ In unserer Umwelt gibt es winzig kleine Lebewesen wie Viren und Bakterien. Sie s
 Wenn es dem Menschen und dem Körper gut geht, wird man seltener krank. Dabei hilft eine gesunde Ernährung mit Früchten, Gemüse und genügend Wasser. Besonders im Winter sind Vitamine wichtig für die Abwehr. Auch genügend Schlaf ist wichtig. Im Schlaf kann sich der Körper erholen und neue Energie sammeln. Bewegung stärkt ebenfalls das Immunsystem. Regelmässiges Händewaschen hilft, Krankheitserreger fernzuhalten. Frische Luft tut dem Körper gut. Auch im Winter sollte man jeden Tag kurz nach draussen gehen. Entspannung ist wichtig, um sich wohlzufühlen und Stress abzubauen. Zudem sollte man im Winter darauf achten, warm genug angezogen zu sein. Wenn dem Körper kalt ist, wird das Immunsystem schwächer. Wer gut auf sich, den eigenen Körper und die eigenen Bedürfnisse achtet, wird seltener krank und schneller wieder gesund.
 
 **\*Mit Unterstützung von ChatGPT vom Original Niveau B1 auf A2 vereinfacht.**
+
+{{< arbeitsmaterial >}}
