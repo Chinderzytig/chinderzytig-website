@@ -2,8 +2,7 @@
 	<h2 class="heading heading--white">Neuste Artikel</h2>
 	<div class="cta__container cta__container--column">
 		{{ $set3 := where (where .Site.Pages ".Params.artikel" true) ".Params.fdw" false }}
-		{{ $set4 := where .Site.Pages ".Params.kfk" false }}
-		{{ $new := $set3 | intersect $set4 }}
+		{{ $new := $set3 }}
 		<div class="cta__container--single">
 			{{ range first 1 $new.ByDate.Reverse }}
 				{{ partial "article-card.html"
