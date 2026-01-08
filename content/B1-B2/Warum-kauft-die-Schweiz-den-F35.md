@@ -13,13 +13,13 @@ img_photographer = "KEYSTONE"
 img_src = ""
 kategorien = ["Schweiz"]
 kfk = true
-markierungen = ["Politik"]
+markierungen = ["KfK", "Politik"]
 paid = false
 slug = ""
 title = "Warum kauft die Schweiz den F-35?"
 +++
 
-_Was würdest du machen, wenn du 6,035 Milliarden Franken hättest? Die Schweiz entschied sich, mit diesem Geld 36 Kampfflugzeuge zu kaufen. Ist es sinnvoll, für so viel Geld Kampfflugzeuge zu kaufen oder wäre es  sinnvoller, etwas Anderes zu kaufen? Eine Annäherung._
+**Was würdest du machen, wenn du 6,035 Milliarden Franken hättest? Die Schweiz entschied sich, mit diesem Geld 36 Kampfflugzeuge zu kaufen. Ist es sinnvoll, für so viel Geld Kampfflugzeuge zu kaufen oder wäre es  sinnvoller, etwas Anderes zu kaufen? Eine Annäherung.**
 
 {{< important-points >}}
 

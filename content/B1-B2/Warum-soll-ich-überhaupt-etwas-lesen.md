@@ -13,13 +13,13 @@ img_photographer = "KEYSTONE"
 img_src = ""
 kategorien = []
 kfk = true
-markierungen = ["Kultur"]
+markierungen = ["KfK", "Kultur"]
 paid = false
 slug = ""
 title = "Warum soll ich überhaupt etwas lesen?"
 +++
 
-_Viele Schulen verfügen über ein gutes Bibliotheksangebot. So auch die Schulen Kirchlindach und Herrenschwanden. Doch, wieso soll ein Kind überhaupt Bücher lesen? Worin liegt die Motivation? Schülerinnen und Schüler der besagten Schule geben hier ihren persönlichen Einblick zur Motivation zum Lesen, inklusive eines Schulbeispiels, und geben Einblick in ihre ganz persönliche Lesefreude - oder Nicht-Freude…_
+**Viele Schulen verfügen über ein gutes Bibliotheksangebot. So auch die Schulen Kirchlindach und Herrenschwanden. Doch, wieso soll ein Kind überhaupt Bücher lesen? Worin liegt die Motivation? Schülerinnen und Schüler der besagten Schule geben hier ihren persönlichen Einblick zur Motivation zum Lesen, inklusive eines Schulbeispiels, und geben Einblick in ihre ganz persönliche Lesefreude - oder Nicht-Freude…**
 
 {{< important-points >}}
 

@@ -13,13 +13,13 @@ img_photographer = "KEYSTONE"
 img_src = ""
 kategorien = ["Schweiz"]
 kfk = true
-markierungen = ["Kultur"]
+markierungen = ["KfK", "Kultur"]
 paid = false
 slug = ""
 title = "Eine gute Schule im neuen Schuljahr"
 +++
 
-_Was ist eine gute Schule? Diese Frage beschäftigt viele Menschen: Expert\*innen, Bildungsfachpersonen, Lehrpersonen, Eltern - und natürlich auch Schüler\*innen. Ob es eine einzige gemeinsame Meinung gibt, ist fraglich. Wir haben uns im Schulfach Chinderzytig darüber unterhalten und zumindest eine gemeinsame Richtung entwickelt.Und dann entstand noch die Frage: Wie fühlen wir uns eigentlich kurz vor respektive am Anfang des neuen Schuljahres?_
+**Was ist eine gute Schule? Diese Frage beschäftigt viele Menschen: Expert\*innen, Bildungsfachpersonen, Lehrpersonen, Eltern - und natürlich auch Schüler\*innen. Ob es eine einzige gemeinsame Meinung gibt, ist fraglich. Wir haben uns im Schulfach Chinderzytig darüber unterhalten und zumindest eine gemeinsame Richtung entwickelt.Und dann entstand noch die Frage: Wie fühlen wir uns eigentlich kurz vor respektive am Anfang des neuen Schuljahres?**
 
 {{< important-points >}}
 
@@ -29,7 +29,7 @@ _Was ist eine gute Schule? Diese Frage beschäftigt viele Menschen: Expert\*inne
 
 <li>Es gibt viele Meinungen zur Frage “Was ist eine gute Schule?”. Zentrale Elemente scheinen hier die Menschen und deren Verhaltensweisen zu sein. Beziehungen stehen über den Inhalten.</li>
 
-<li>Ein neues Schuljahr ist stets eine aufregende Sache, für Lehrpersonen und auch für Schüler\*innen. Die Schüler\*innen des Schulfachs erzählen über ihr Empfinden.</li>
+<li>Ein neues Schuljahr ist stets eine aufregende Sache, für Lehrpersonen und auch für Schüler*innen. Die Schüler*innen des Schulfachs erzählen über ihr Empfinden.</li>
 
 </ul>
 
