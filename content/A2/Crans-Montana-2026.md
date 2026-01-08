@@ -20,4 +20,4 @@ title = "Crans Montana 2026"
 +++
 
 Manchmal lassen sich schlicht keine Worte finden. 
-In Gedenken bei den Opfern und Hinterbliebenen, die Chinderzytig.
+In Gedanken bei den Opfern und Hinterbliebenen, die Chinderzytig.
