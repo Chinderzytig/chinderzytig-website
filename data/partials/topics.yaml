@@ -21,6 +21,8 @@ thema:
     link: "/markierungen/gesellschaft"
   - label: Gesundheit
     link: "/markierungen/gesundheit"
+  - label: KfK
+    link: "/markierungen/KfK"
   - label: Kultur
     link: "/markierungen/kultur"
   - label: Medien

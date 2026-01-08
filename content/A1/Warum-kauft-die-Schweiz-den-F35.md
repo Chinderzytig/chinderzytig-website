@@ -13,35 +13,38 @@ img_photographer = "KEYSTONE"
 img_src = ""
 kategorien = ["Schweiz"]
 kfk = true
-markierungen = ["Politik"]
+markierungen = ["KfK", "Politik"]
 paid = false
 slug = ""
 title = "Warum kauft die Schweiz den F-35?"
 +++
 
-_Was würdest du machen, wenn du 6,035 Milliarden Franken hättest? Die Schweiz entschied sich, mit diesem Geld 36 Kampfflugzeuge zu kaufen. Ist es sinnvoll, für so viel Geld Kampfflugzeuge zu kaufen oder wäre es  sinnvoller, etwas Anderes zu kaufen? Eine Annäherung._
+**Was würdest du tun, wenn du 6,035 Milliarden Franken hättest? Die Schweiz hat entschieden, mit diesem Geld 36 Kampfflugzeuge zu kaufen. Ist es gut, so viel Geld für Kampfflugzeuge auszugeben? Oder wäre es besser, etwas anderes zu kaufen? Dieser Artikel versucht, diese Frage zu erklären.**
 
 {{< important-points >}}
 
 <ul>
 
-<li>Die Armee verfügt über eine Luftwaffe. Diese benötigt Flugzeuge. Eines davon nennt sich F-35, das die Schweiz vermutlich kaufen wird. Frage Nr. 1: Weshalb brauchen wir neue Kampfjets? Nr. 2: Wie viel kostet einen F-35? Und Nr: 3 Wieso reichen die alten Kampfjets nicht mehr?</li>
+<li>Die Armee hat eine Luftwaffe. Sie braucht Flugzeuge. Ein Flugzeug heisst F-35. Die Schweiz will dieses Flugzeug kaufen. Frage Nr. 1: Warum braucht die Schweiz neue Kampfjets? Frage Nr. 2: Wie viel kostet ein F-35? Frage Nr. 3: Warum reichen die alten Kampfjets nicht mehr?</li>
 
-<li>Nr. 1: Weil es Technologisch veraltetes ,  Leistungsfähigkeit,  Wartung und Zuverlässigkeit , Erfordernisse neuer Missionen.</li>
+<li>Nr. 1: Die Technik ist alt, die Leistung reicht nicht mehr, die Wartung ist aufwendig, die Flugzeuge sind weniger zuverlässig und es gibt neue Aufgaben für die Armee.</li>
 
-<li>Nr. 2 : Die Schweiz kauft 36 Flugzeuge. Sie kosten 6,035 Milliarden Franken. Im Preis ist Schule. Im Preis sind Häuser. Im Preis ist Reparatur für 30 Jahre.</li>
+<li>Nr. 2: Die Schweiz bezahlt 6,035 Milliarden Franken für 36 Flugzeuge. In diesem Preis sind Ausbildung, Gebäude und Wartung für 30 Jahre enthalten.</li>
 
-<li>Nr. 3: Dank dem modernen F-35 erhält die Luftwaffe die benötigten Fähigkeiten zurück, um auch zukünftigen Einsatzszenarien gerecht zu werden.</li>
+<li>Nr. 3: Mit dem neuen F-35 bekommt die Luftwaffe wichtige Fähigkeiten zurück, damit sie auch in Zukunft Einsätze erfüllen kann.</li>
 </ul>
 
 {{< /important-points >}}
 
-Warum kauft die Schweiz den F-35? Weil es mit Abstand die größte Wirksamkeit und zugleich die günstigsten Beschaffungs- und Betriebskosten über 30 Jahre aufweist. Die Entscheidung für den Kauf von Kampfflugzeugen hängt von mehreren Faktoren ab, darunter die technischen Fähigkeiten des Flugzeugs, die Kosten, politische Überlegungen, Sicherheitsanforderungen und die geopolitische Lage.
+Warum kauft die Schweiz den F-35? Weil dieses Flugzeug sehr wirksam ist und über 30 Jahre die tiefsten Kosten verursacht. Beim Kauf von Kampfflugzeugen spielen viele Dinge eine Rolle. Dazu gehören die Technik, der Preis, politische Fragen, die Sicherheit und die Lage in der Welt.
 
-Die Schweiz hat beschlossen, neue Kampfflugzeuge zu beschaffen, um ihre Luftverteidigung zu modernisieren. Der F-35 wurde als einer der Kandidaten für diesen Kauf betrachtet, da er als fortschrittliches Mehrzweckkampfflugzeug gilt. Letztendlich basiert die Entscheidung auf verschiedenen Faktoren wie Kosten, Leistungsfähigkeit und anderen strategischen Überlegungen.
-
+Die Schweiz will neue Kampfflugzeuge kaufen, um den Luftraum zu schützen. Der F-35 wurde geprüft, weil er ein modernes Kampfflugzeug ist. Am Ende entschied sich die Schweiz wegen der Kosten, der Leistung und anderer wichtiger Gründe für dieses Modell.
+ 
 ### Meine Meinung
 
-Für mich ist der F-35 langweilig im Gegensatz zum F-22 Raptor. weil der F-22 Raptor beim Radar unsichtbar ist. Beim F-22 Raptor hat es auch eine Folie auf dem Glas, so dass es auf dem Radar unsichtbar wird. Der F-22 Raptor sieht auch sehr cool aus. Mein Ziel ist den F-22 Raptor zu fliegen. Der F-22 Raptor kostet rund 150 Millionen US-Dollar pro Flugzeug (ca. 135.72 Millionen Schweizer Franken.)
+Ich finde den F-35 langweilig im Vergleich zum F-22 Raptor. Der F-22 Raptor ist für das Radar unsichtbar. Er hat auch eine spezielle Folie auf dem Glas, damit das Radar ihn nicht erkennt. Ausserdem sieht der F-22 Raptor sehr cool aus. Mein Traum ist es, einmal den F-22 Raptor zu fliegen. Der F-22 Raptor kostet etwa 150 Millionen US-Dollar pro Flugzeug. Das sind ungefähr 135,72 Millionen Schweizer Franken.
 
-Diese Sachen kann der F-22 Raptor besser als die F-35 : Luftüberlegenheit, Stealth-Technologie, Leistung und Manövrierfähigkeit, Sensor Fähigkeiten, Produktion und Verfügbarkeit.
+Diese Dinge kann der F-22 Raptor besser als der F-35: Er ist besser im Luftkampf, besser getarnt, stärker, wendiger, hat bessere Sensoren und ist besser verfügbar.
+
+**\*Mit Unterstützung von ChatGPT vom Original Niveau B1 auf A1 vereinfacht.**
+
