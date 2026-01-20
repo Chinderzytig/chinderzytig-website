@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "James_Darwin_AM_n0b8bw"
 artikel = true
 author = "AGu"
 cc_licence = ""
@@ -72,3 +72,5 @@ Für die Naturwissenschaft erklärt die biblische Schöpfungsgeschichte nicht di
 James Darwin zögerte lange, seine Ideen zu veröffentlichen. Erst viele Jahre nach der Reise mit der HMS Beagle entschied er sich dazu. Er tauschte sich intensiv mit anderen Forschenden aus, darunter Botaniker und Zoologen aus verschiedenen Ländern. Deren Forschungsergebnisse bestätigten seine eigenen Beobachtungen. Besonders seine Untersuchungen von Schildkröten und Vögeln stärkten ihn in seiner Theorie, dass sich Arten je nach Umgebung und Lebensweise verändern. Durch sein Theologiestudium war ihm bewusst, dass seine Erkenntnisse der biblischen Schöpfungsgeschichte widersprechen. Mit dem Buch „Über die Entstehung der Arten“, das 1859 erschien, wurde James Darwin zum Begründer der Evolutionsbiologie.
 
 **\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht.**
+
+{{< arbeitsmaterial >}}

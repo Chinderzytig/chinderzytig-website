@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "James_Darwin_AM_n0b8bw"
 artikel = true
 author = "AGu"
 cc_licence = ""
@@ -71,3 +71,5 @@ Die Naturwissenschaft erklärt die Entstehung der Welt nicht mit der biblischen 
 James Darwin wartete lange, bis er seine Ideen veröffentlichte. Erst viele Jahre nach der Reise mit der HMS Beagle tat er das. Er sprach mit vielen anderen Forschenden aus verschiedenen Ländern. Ihre Ergebnisse bestätigten seine Beobachtungen. Besonders seine Studien zu Schildkröten und Vögeln zeigten ihm, dass sich Arten an ihre Umwelt anpassen. James wusste, dass seine Ideen der biblischen Schöpfungsgeschichte widersprechen. Im Jahr 1859 veröffentlichte er das Buch „Über die Entstehung der Arten“. Damit wurde er der Begründer der Evolutionsbiologie.
 
 **\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A1 vereinfacht.**
+
+{{< arbeitsmaterial >}}

@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = ""
+arbeitsmaterial = "James_Darwin_AM_n0b8bw"
 artikel = true
 author = "AGu"
 cc_licence = ""
@@ -72,3 +72,5 @@ Für die Naturwissenschaft beschreibt die Schöpfungsgeschichte, wie sie die Bib
 James Darwin zögerte lange, seine Gedanken zu veröffentlichen. Erst Jahre nach seiner grossen Forschungsreise mit dem HMS-Beagle und im Austausch mit anderen Forschenden, wie Botanikern, Zoologen und mit naturwissenschaftlichen Forschenden, die aus fernen Ländern mit entsprechenden Forschungsergebnissen seine Gedanken und Notizen unterstützten, wagte er diesen Schritt. Seine ausführlichen Beobachtungen verschiedener Schildkröten und Vögel bestärkten ihn in seiner Theorie über die Veränderlichkeit verschiedener Arten aufgrund ihrer Umgebung und ihrer Lebensweise.
 
 Darwin war sich auch aufgrund seines Theologie-Studiums sehr bewusst, wie seine Forschungsergebnisse und die daraus entstandenen Gedanken der biblischen Vorstellung der Schöpfungsgeschichte widersprechen. Mit dem umfangreichen Werk „Über die Entstehung der Arten“, 1859, wurde er zum Vater der Evolutionsbiologie.
+
+{{< arbeitsmaterial >}}
