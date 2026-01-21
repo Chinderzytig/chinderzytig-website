@@ -1,5 +1,5 @@
 +++
-arbeitsmaterial = "James_Darwin_AM_n0b8bw"
+arbeitsmaterial = "Charles_Darwin_AM_murqvi"
 artikel = true
 author = "AGu"
 cc_licence = ""
@@ -15,17 +15,17 @@ kategorien = [""]
 kfk = false
 markierungen = ["Personen", "Wissenschaft"]
 paid = false
-slug = ""
-title = "James Darwin und seine Evolutionstheorie"
+slug = "charles-darwin-und-seine-evolutionstheorie"
+title = "Charles Darwin und seine Evolutionstheorie"
 +++
 
-**James Darwin war ein Forscher, der die Welt stark beeinflusst hat. Er wurde im Jahr 1809 in der britischen Stadt Shrewsbury geboren und lebte bis 1882. Schon als junger Mensch war er sehr gerne in der Natur. Seine grosse Leidenschaft waren die Naturwissenschaften. Mit 22 Jahren reiste er auf einem Schiff als Forschungsreisender um die Welt. Diese Reise dauerte fünf Jahre und veränderte sein Denken für immer.**
+**Charles Darwin war ein Forscher, der die Welt stark beeinflusst hat. Er wurde im Jahr 1809 in der britischen Stadt Shrewsbury geboren und lebte bis 1882. Schon als junger Mensch war er sehr gerne in der Natur. Seine grosse Leidenschaft waren die Naturwissenschaften. Mit 22 Jahren reiste er auf einem Schiff als Forschungsreisender um die Welt. Diese Reise dauerte fünf Jahre und veränderte sein Denken für immer.**
 
 {{< important-points >}}
 
 <ul>
 
-<li>James Darwin war Brite und lebte von 1809 bis 1882. Sein Vater war Arzt.
+<li>Charles Darwin war Brite und lebte von 1809 bis 1882. Sein Vater war Arzt.
 </li>
 
 <li>Er begann ein Medizinstudium, brach dieses aber ab und schloss später ein Theologiestudium mit sehr guten Noten ab.
@@ -40,7 +40,7 @@ title = "James Darwin und seine Evolutionstheorie"
 <li>Evolution beschreibt die Entwicklung des Lebens auf der Erde. Dieser Prozess begann vor Milliarden von Jahren und dauert bis heute an.
 </li>
 
-<li>James Darwins bekanntestes Werk heisst „Über die Entstehung der Arten“.
+<li>Charles Darwins bekanntestes Werk heisst „Über die Entstehung der Arten“.
 </li>
 
 </ul>
@@ -49,15 +49,15 @@ title = "James Darwin und seine Evolutionstheorie"
 
 ### Kindheit, Familie und Ausbildung
 
-James Darwin wuchs als Sohn eines Arztes mit fünf Geschwistern auf. Sein Grossvater war ein bekannter Dichter. Seine Mutter starb, als James acht Jahre alt war. Sie stammte aus der reichen und bekannten Familie Wedgwood, die auch heute noch in Grossbritannien für hochwertiges Keramikgeschirr bekannt ist. Nach dem Tod der Mutter kümmerten sich seine älteren Schwestern um ihn.
+Charles Darwin wuchs als Sohn eines Arztes mit fünf Geschwistern auf. Sein Grossvater war ein bekannter Dichter. Seine Mutter starb, als Charles acht Jahre alt war. Sie stammte aus der reichen und bekannten Familie Wedgwood, die auch heute noch in Grossbritannien für hochwertiges Keramikgeschirr bekannt ist. Nach dem Tod der Mutter kümmerten sich seine älteren Schwestern um ihn.
 
 Er besuchte eine angesehene Privatschule in seiner Heimatstadt. Schon früh zeigte sich, dass er sich besonders für naturwissenschaftliche Fächer interessierte. Er verstand Zusammenhänge in der Natur sehr gut. Wann immer es möglich war, hielt er sich draussen auf. Dort sammelte er Käfer und Pflanzen und machte sie haltbar.
 
-Sein Vater wollte, dass James Arzt wird, und meldete ihn deshalb für ein Medizinstudium an. Da James jedoch kein Blut sehen konnte, brach er dieses Studium ab. Danach begann er ein Studium der Theologie, das er erfolgreich abschloss. Während seines Studiums an der Universität Cambridge lernte er den Botanikprofessor John Stevens Henslow kennen. Dieser vermittelte ihm im Jahr 1831 eine fünfjährige Forschungsreise auf dem Schiff HMS Beagle. Während dieser Reise sammelte Darwin tausende Pflanzen, Tiere und Fossilien und schrieb alles genau auf. Diese Reise veränderte sein Denken grundlegend.
+Sein Vater wollte, dass Charles Arzt wird, und meldete ihn deshalb für ein Medizinstudium an. Da Charles jedoch kein Blut sehen konnte, brach er dieses Studium ab. Danach begann er ein Studium der Theologie, das er erfolgreich abschloss. Während seines Studiums an der Universität Cambridge lernte er den Botanikprofessor John Stevens Henslow kennen. Dieser vermittelte ihm im Jahr 1831 eine fünfjährige Forschungsreise auf dem Schiff HMS Beagle. Während dieser Reise sammelte Darwin tausende Pflanzen, Tiere und Fossilien und schrieb alles genau auf. Diese Reise veränderte sein Denken grundlegend.
 
 ### HMS Beagle, die Forschungsreise
 
-Das Ziel der Schiffsreise war die südamerikanische Küste. Dort sollten die Forschenden Vermessungen durchführen. Sie reisten entlang der Küsten von Peru, Chile, Patagonien und Feuerland und besuchten verschiedene Inseln in dieser Region. Während der fünf Jahre kamen sie auch auf die Galapagos-Inseln sowie nach Brasilien und Australien. James Darwin beobachtete sehr genau und schrieb alles auf, was ihm wichtig erschien. Seine Aufzeichnungen aus dieser Zeit nutzte er später als Grundlage für seine Evolutionstheorie.
+Das Ziel der Schiffsreise war die südamerikanische Küste. Dort sollten die Forschenden Vermessungen durchführen. Sie reisten entlang der Küsten von Peru, Chile, Patagonien und Feuerland und besuchten verschiedene Inseln in dieser Region. Während der fünf Jahre kamen sie auch auf die Galapagos-Inseln sowie nach Brasilien und Australien. Charles Darwin beobachtete sehr genau und schrieb alles auf, was ihm wichtig erschien. Seine Aufzeichnungen aus dieser Zeit nutzte er später als Grundlage für seine Evolutionstheorie.
 
 ### Evolution, was ist das?
 
@@ -69,7 +69,7 @@ Für die Naturwissenschaft erklärt die biblische Schöpfungsgeschichte nicht di
 
 ### Das Werk „Über die Entstehung der Arten“
 
-James Darwin zögerte lange, seine Ideen zu veröffentlichen. Erst viele Jahre nach der Reise mit der HMS Beagle entschied er sich dazu. Er tauschte sich intensiv mit anderen Forschenden aus, darunter Botaniker und Zoologen aus verschiedenen Ländern. Deren Forschungsergebnisse bestätigten seine eigenen Beobachtungen. Besonders seine Untersuchungen von Schildkröten und Vögeln stärkten ihn in seiner Theorie, dass sich Arten je nach Umgebung und Lebensweise verändern. Durch sein Theologiestudium war ihm bewusst, dass seine Erkenntnisse der biblischen Schöpfungsgeschichte widersprechen. Mit dem Buch „Über die Entstehung der Arten“, das 1859 erschien, wurde James Darwin zum Begründer der Evolutionsbiologie.
+Charles Darwin zögerte lange, seine Ideen zu veröffentlichen. Erst viele Jahre nach der Reise mit der HMS Beagle entschied er sich dazu. Er tauschte sich intensiv mit anderen Forschenden aus, darunter Botaniker und Zoologen aus verschiedenen Ländern. Deren Forschungsergebnisse bestätigten seine eigenen Beobachtungen. Besonders seine Untersuchungen von Schildkröten und Vögeln stärkten ihn in seiner Theorie, dass sich Arten je nach Umgebung und Lebensweise verändern. Durch sein Theologiestudium war ihm bewusst, dass seine Erkenntnisse der biblischen Schöpfungsgeschichte widersprechen. Mit dem Buch „Über die Entstehung der Arten“, das 1859 erschien, wurde Charles Darwin zum Begründer der Evolutionsbiologie.
 
 **\*Mit Unterstützung von ChatGPT vom Original Niveau B2 auf A2 vereinfacht.**
 
