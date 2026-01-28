@@ -1,0 +1,32 @@
+.modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+
+/* Modal box */
+.modal-content {
+    background: white;
+    padding: 1.5rem;
+    width: 90%;
+    max-width: 400px;
+    border-radius: 6px;
+    position: relative;
+}
+
+
+/* Close button */
+.close {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.75rem;
+    font-size: 1.5rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
