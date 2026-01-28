@@ -6,27 +6,24 @@
     align-items: center;
     justify-content: center;
     z-index: 1000;
-}
 
+    &-content {
+        background: white;
+        padding: 1.5rem;
+        max-width: 600px;
+        border-radius: 6px;
+        position: relative;
+    }
 
-/* Modal box */
-.modal-content {
-    background: white;
-    padding: 1.5rem;
-    width: 90%;
-    max-width: 400px;
-    border-radius: 6px;
-    position: relative;
-}
+    &-blurb { margin: 1.5rem 0; }
 
-
-/* Close button */
-.close {
-    position: absolute;
-    top: 0.5rem;
-    right: 0.75rem;
-    font-size: 1.5rem;
-    background: none;
-    border: none;
-    cursor: pointer;
+    &-close {
+        position: absolute;
+        top: 0.5rem;
+        right: 0.75rem;
+        font-size: 3rem;
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
 }

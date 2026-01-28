@@ -1,7 +1,20 @@
 <div id="modal" class="modal">
     <div class="modal-content">
-        <button class="close" id="closeModal">&times;</button>
-        <h2>Welcome</h2>
-        <p>This modal appears once every 24 hours using localStorage.</p>
+        <button class="modal-close" id="closeModal">&times;</button>
+        <h3 class="modal-title">Die Chinderzytig braucht deine Unterstützung!</h3>
+        <p class="modal-blurb">
+            Damit wir die Seite weiterhin erhalten und Artikel kostenfrei 
+            anbieten konnen, brauchen wir dich. Bitte, spende einen Betrag 
+            deiner Wahl zu Gunsten dieses Angebots. Richtpreis: ein Artikel 
+            kostet uns CHF 20.- Wir sind dankbar für deine Unterstützung!
+        </p>
+        <div id="rnw-paylink-button"></div>
     </div>
 </div>
+
+{{ define "scripts" }}
+	<script type="module">
+		import {TwintButton} from "https://unpkg.com/@raisenow/paylink-button@2/dist/TwintButton.js"
+		TwintButton.render('#rnw-paylink-button', {'solution-id': "dwfyc", 'solution-type': "donate", language: "de", size: "large", width: "full", 'color-scheme': "dark"})
+	</script>
+{{ end }}
