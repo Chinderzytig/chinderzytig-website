@@ -1,0 +1,30 @@
+.modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+
+    &-content {
+        background: white;
+        box-shadow: 0.8rem 0.8rem $orange;
+        padding: 1.5rem;
+        max-width: 600px;
+        margin: 0 1.5rem;
+        position: relative;
+    }
+
+    &-blurb { margin: 1.5rem 0; }
+
+    &-close {
+        position: absolute;
+        top: 0.5rem;
+        right: 0.75rem;
+        font-size: 3rem;
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+}
