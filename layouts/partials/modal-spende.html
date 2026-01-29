@@ -11,10 +11,3 @@
         <div id="rnw-paylink-button"></div>
     </div>
 </div>
-
-{{ define "scripts" }}
-	<script type="module">
-		import {TwintButton} from "https://unpkg.com/@raisenow/paylink-button@2/dist/TwintButton.js"
-		TwintButton.render('#rnw-paylink-button', {'solution-id': "dwfyc", 'solution-type': "donate", language: "de", size: "large", width: "full", 'color-scheme': "dark"})
-	</script>
-{{ end }}

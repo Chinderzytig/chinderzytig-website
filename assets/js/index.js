@@ -2,25 +2,72 @@ document.addEventListener('DOMContentLoaded', () => {
   const modal = document.getElementById('modal');
   const closeBtn = document.getElementById('closeModal');
 
-  const STORAGE_KEY = 'modalSeenAt';
-  const TWELVE_HOURS = 12 * 60 * 60 * 1000;
+  if (!modal || !closeBtn) return;
+
+  const PAGE_VIEW_KEY = 'pageViewCount';
+  const LAST_SHOWN_KEY = 'modalLastShownAt';
+
+  const VIEWS_REQUIRED = 2;
+  const MEANINGFUL_VIEW_DELAY = 5 * 1000;
+  const COOLDOWN = 24 * 60 * 60 * 1000;
+
+  let twintLoaded = false;
+
+  async function loadAndRenderTwintButton() {
+    if (twintLoaded) return;
+
+    const container = document.getElementById('rnw-paylink-button');
+    if (!container) return;
+
+    try {
+      const { TwintButton } = await import(
+        'https://unpkg.com/@raisenow/paylink-button@2/dist/TwintButton.js'
+      );
+
+      TwintButton.render('#rnw-paylink-button', {
+        'solution-id': 'dwfyc',
+        'solution-type': 'donate',
+        language: 'de',
+        size: 'large',
+        width: 'full',
+        'color-scheme': 'dark'
+      });
+
+      twintLoaded = true;
+    } catch (err) {
+      console.error('Failed to load TwintButton', err);
+    }
+  }
+  function incrementPageViews() {
+    const views = Number(localStorage.getItem(PAGE_VIEW_KEY)) || 0;
+    localStorage.setItem(PAGE_VIEW_KEY, views + 1);
+  }
 
   function shouldShowModal() {
-    const lastSeen = localStorage.getItem(STORAGE_KEY);
-
-    if (!lastSeen) return true;
-
-    return Date.now() - Number(lastSeen) > TWELVE_HOURS;
+    const views = Number(localStorage.getItem(PAGE_VIEW_KEY)) || 0;
+    const lastShown = Number(localStorage.getItem(LAST_SHOWN_KEY)) || 0;
+    return (
+      views >= VIEWS_REQUIRED &&
+      Date.now() - lastShown > COOLDOWN
+    );
   }
 
-  // Show modal if needed
-  if (shouldShowModal()) {
+  function showModal() {
     modal.style.display = 'flex';
+    localStorage.setItem(LAST_SHOWN_KEY, Date.now());
+    localStorage.setItem(PAGE_VIEW_KEY, 0);
+
+    loadAndRenderTwintButton();
   }
 
-  // Close modal and store timestamp
+  setTimeout(() => {
+    incrementPageViews();
+    if (shouldShowModal()) {
+      showModal();
+    }
+  }, MEANINGFUL_VIEW_DELAY);
+
   closeBtn.addEventListener('click', () => {
     modal.style.display = 'none';
-    localStorage.setItem(STORAGE_KEY, Date.now());
   });
 });
