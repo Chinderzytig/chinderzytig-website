@@ -9,9 +9,10 @@
 
     &-content {
         background: white;
+        box-shadow: 0.8rem 0.8rem $orange;
         padding: 1.5rem;
         max-width: 600px;
-        border-radius: 6px;
+        margin: 0 1.5rem;
         position: relative;
     }
 
