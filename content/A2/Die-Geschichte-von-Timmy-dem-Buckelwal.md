@@ -7,10 +7,10 @@ cc_src = ""
 date = 2026-04-08T01:00:00Z
 description = ""
 fdw = true
-hero_img = "/timmy_buckelwal_sjnngm.jpg"
-img_description = "Die Schwanzflosse eines Wals, aufgenommen in der Gegend um den Mount Waddington in British Columbia, Kanada."
-img_photographer = "Thomas Lipke/Unsplash"
-img_src = "https://unsplash.com/photos/whales-tale-on-water-kkXDhAUnxYI"
+hero_img = "/Timmy_Buckelwal_hwa5ql.jpg"
+img_description = "Die von Greenpeace Deutschland zur Verfügung gestellte Aufnahme zeigt den gestrandeten Buckelwal vor der Insel Poel in der Ostsee."
+img_photographer = "KEYSTONE"
+img_src = ""
 kategorien = [""]
 kfk = false
 markierungen = [""]
@@ -47,4 +47,4 @@ Wie würdest du dich fühlen, wenn du dich in einer fremden Umgebung verlaufen w
 
 {{< fdw-schluss >}}
 
-**\*Mit Unterstützung von ChatGPT vom Original Niveau B1 auf A1 vereinfacht.**
+**\*Mit Unterstützung von ChatGPT vom Original Niveau B1 auf A2 vereinfacht.**
