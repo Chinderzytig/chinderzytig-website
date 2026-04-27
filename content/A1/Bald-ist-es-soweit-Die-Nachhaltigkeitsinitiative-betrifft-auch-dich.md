@@ -16,7 +16,7 @@ kfk = false
 markierungen = ["Politik"]
 paid = false
 slug = ""
-title = "Bald ist es soweit: Die Nachhaltigkeitsinitiative betrifft auch dich! "
+title = "Bald ist es soweit: Die Nachhaltigkeitsinitiative betrifft auch dich!"
 +++
 
 **Am 14. Juni ist es so weit. Dann stimmt die Bevölkerung der Schweiz über eine Initiative ab. Sie ist viel diskutiert und umstritten. Es geht um die sogenannte Nachhaltigkeitsinitiative der Schweizerischen Volkspartei SVP. Diese will, dass die Bevölkerung in der Schweiz bis zum Jahr 2050 nicht mehr als 10 Millionen Menschen umfasst. Die SVP nennt viele Gründe, warum man die Initiative annehmen soll. Bei mindestens einem Grund kannst auch du mitbestimmen.**
