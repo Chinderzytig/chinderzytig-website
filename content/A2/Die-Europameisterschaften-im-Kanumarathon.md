@@ -16,7 +16,7 @@ kfk = false
 markierungen = [""]
 paid = false
 slug = ""
-title = "Die Europameisterschaften im Kanumarathon "
+title = "Die Europameisterschaften im Kanumarathon"
 +++
 
 **Bei der Europameisterschaft im Kanumarathon müssen die Sportlerinnen und Sportler nicht nur Ausdauer zeigen, sondern auch taktisch klug sein. Die Wissenschaft hinter diesem Sport ist spannend. Die Teilnehmenden brauchen viel Ausdauer auf dem Wasser und eine gute Koordination an Land. Bei den sogenannten Portagen müssen die Profis ihr Kanu nämlich tragen. Bei den Europameisterschaften gewinnt nur, wer auch dann noch die beste Taktik hat, wenn die Erschöpfung gross wird.**
