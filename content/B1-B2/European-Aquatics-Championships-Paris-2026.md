@@ -4,7 +4,7 @@ artikel = true
 author = "Carla Wohler"
 cc_licence = ""
 cc_src = ""
-date = 2026-07-27T01:00:00Z
+date = 2026-07-29T01:00:00Z
 description = ""
 fdw = true
 hero_img = "/EAC_2026_tk9nhv.jpg"
@@ -37,7 +37,8 @@ Im Rahmen der Europameisterschaften treffen sich die besten Wassersportler:innen
 
 ### Beckenschwimmen als Hauptdisziplin
 
-Das Beckenschwimmen ist das Herzstück der Europameisterschaften in Paris. In den vier bekannten Schwimmstilen, Kraul, Brust, Rücken und Schmetterling, kämpfen die Athlet:innen auf verschiedenen Strecken um den Sieg. Ob beim blitzschnellen Sprint über 50 Meter oder beim Ausdauer-Rennen über 1500 Meter: Insgesamt werden in den Einzel- und Staffelrennen rund 43 Europameistertitel vergeben. 
+Das Beckenschwimmen ist das Herzstück der Europameisterschaften in Paris. In den vier bekannten Schwimmstilen, Kraul, Brust, Rücken und Schmetterling, kämpfen die Athlet:innen auf verschiedenen Strecken um den Sieg. Ob beim blitzschnellen Sprint über 50 Meter oder beim Ausdauer-Rennen über 1500 Meter: Insgesamt werden in den Einzel- und Staffelrennen rund 43 Europameistertitel vergeben.
+
 Ganz besonders achtet das Publikum in Paris auf den französischen Supersportler Léon Marchand. Nach seinen Olympia-Erfolgen gilt er im Heimbecken als der absolut grösste Favorit. Aus Schweizer Sicht drückt alles die Daumen für unseren Schmetterling-Profi Noè Ponti. Aber auch andere Weltstars wie das rumänische Freistil-Wunder David Popovici oder die schwedische Sprint-Königin Sarah Sjöström wollen Gold nach Hause holen. Es wird also sicher spannend werden. 
 
 ### Nun bist du dran
